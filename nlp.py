@@ -9,6 +9,7 @@ def isLetter(character):
         return True
     return False
 def saveToFile(wordList, wordCount, wordOccurrences):
+    '''Writes the order of words and number of each word to output.txt'''
     output = open("output.txt", "w")
     for word in wordCount.keys():
         output.write(word + ": " + str(wordCount.get(word)) + "\n")
@@ -25,6 +26,7 @@ def saveToFile(wordList, wordCount, wordOccurrences):
     output.close()
 
 def clean(word):
+    '''Removes non-letters/numbers from each word.'''
     newWord = ""
 
     for character in word:
@@ -35,6 +37,7 @@ def clean(word):
 def main():
     filename = "syllabus_0.txt"
     
+    '''Allows for custom syllabus file argument'''
     if len(sys.argv) >= 2:
         filename = sys.argv[1]
     input = open("output/test_text/" + filename)
@@ -49,6 +52,8 @@ def main():
     wordCounter = 0
 
     for line in lines: 
+        '''Parses file into lines, lines are split into words based on whitespace'''
+        '''Count of each word and order of words is updated'''
         words = line.split()
         for word in words:
             cleanedWord = clean(word)
@@ -61,7 +66,7 @@ def main():
             wordCounter += 1
             wordList.append(cleanedWord)
 
-
+    
     for word in wordList:
         print("Word: " + word)
 
