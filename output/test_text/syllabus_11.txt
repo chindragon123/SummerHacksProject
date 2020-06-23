@@ -1,0 +1,603 @@
+Gary B. Wilcox
+
+John A. Beck Centennial Professor in Communication
+
+UNIVERSITY OFFICE
+
+Belo Media Center 4.334 (BMC 4.334)
+
+Stan Richards School of Advertising & Public Relations
+300 West Dean Keeton, A1200
+
+The University of Texas at Austin
+
+Austin, Texas 78712
+
+Telephone: 512.471.0917
+
+Burl@mail.utexas.edu
+
+EDUCATION
+
+Ph.D. in Mass Media, Michigan State University
+
+M.A. in Communication, The University of Texas at Austin
+B.B.A. in Marketing, The University of Texas at Austin
+
+RECENT DATA SCIENCE EDUCATION
+Text Analytics Using SAS® Text Miner, SAS Institute, February, 2020.
+Comprehensive SAS® Statistical Applications: Regression Models, SAS Institute, December 2019.
+Ecommerce Analytics: From Data to Decisions: Google Analytics Academy, August 2018.
+Advanced Google Analytics, Google Analytics Academy, May 2018.
+Applied Analytics & Text Analysis, SAS Institute, January 2017.
+Mobile App Analytic Fundamentals, Google Analytics Academy, December 2014.
+Text Analytics, SAS Institute, Global Academic Program, July 2014.
+Google Analytics Platform Principles, Google Analytics Academy, March 2014.
+Advanced Business Analytics, SAS Institute, Global Academic Program, July 2013.
+
+ACADEMIC EXPERIENCE
+Professor, Associate Director and Graduate Advisor — MA program, Stan Richards School of Advertising & Public
+Relations, The University of Texas at Austin, August 2018 to present.
+Interim Director, Stan Richards School of Advertising & Public Relations, The University of Texas at Austin,
+September 2016 to August 2018.
+Professor & Director of Graduate Studies, Stan Richards School of Advertising & Public Relations, The University
+of Texas at Austin, September 1998 to August 2017.
+*Affiliated Faculty, Center for Health Communication, Moody College of Communication,
+The University of Texas at Austin, September 2015 to present.
+*Associated Faculty, Department of Statistics & Data Sciences, College of Natural Sciences,
+The University of Texas at Austin, September 2010 to present.
+«John A. Beck Centennial Endowed Professor in Communication, September 1993 to present.
+Professor & Chairman, Department of Advertising, The University of Texas at Austin,
+September 1991 to August 1998.
+Associate Professor & Chairman, Department of Advertising, The University of Texas at Austin,
+September 1990 to August 1991.
+Associate Professor & Graduate Adviser, Department of Advertising, The University of Texas at
+Austin, September 1986 to August 1990.
+Assistant Professor, Department of Advertising, The University of Texas at Austin, September
+1981 to August 1986.PUBLICATIONS
+
+Journal Articles
+
+“Measuring the effectiveness of Peer-to-Peer Influencer Marketing in an Integrated Brand Campaign,”
+Sciarrino, J, Wilcox, G. B., Chung, A., Journal of Digital and Social Media Marketing, forthcoming.
+
+“#deletefacebook and the Consumer Backlash of 2018: How Social Media Fatigue, Consumer (Mis)Trust,
+and Privacy Concerns Shape the New Social Media Reality for Consumers,” Bright, L., Wilcox, G.B.,
+
+Rodriguez, H., Journal of Digital and Social Media Marketing, Autumn 2019.
+
+“Reactions to foodborne Escherichia coli outbreaks: A text-mining analysis of the public’s response,”
+Glowacki, E.M., Glowacki, J.B., Chung, A. & Wilcox, G.B. American Journal of Infection Control, (May
+2019).
+
+ 
+
+“Development of a Health Communication Campaign to Promote the Texas Prescription Monitoring
+Program,” Mackert, M., Pounders, K., Brown, L., Kirtz, S., Hughes Wagner, J., Ring, D., Hill, L., Wilcox,
+G., Murthy, D., Tierney, W., Innerarity, S., McGlone, M., Holleran-Steiker, L., DeSalvo, K., Bernhardt, J.,
+& Pretorius, K. Health Marketing Quarterly, Volume 37, Number 3 (in press).
+
+“Toward Bridging the Advertising Academician—Practitioner Gap,” Brinson, N., Adams, M. & Wilcox, G,
+Advertising & Society Quarterly, Summer 2019.
+
+“Social Media’s ROI in an Integrated Marketing Campaign: Media Mix Modeling,” Wilcox, G.B.,
+Sussman, K., Chung, A., Journal of Digital and Social Media Marketing, Volume 6 Number 2 (Autumn
+2018).
+
+“Sudden Infant Death Syndrome and Safe Sleep on Twitter: Public Perceptions and Opinions to Guide
+Health Promotion,” Pretorius, K., Mackert, M., & Wilcox, G. JMIR Pediatrics and Parenting, Vol. 1, Issue
+2, 2018.
+
+“A text-mining analysis of the public’s reactions to the opioid crisis,” Glowacki, E.M., Glowacki, J.B., &
+Wilcox, G.B. Substance Abuse, July 2017.
+
+ 
+
+“Public Reactions to e-cigarette regulations on Twitter: A Text Mining Analysis,” Lazard, A.J., Wilcox,
+G.B., Tuttle, H.M., Glowacki, E.M., Pikowski, J., Tobacco Control, March 2017.
+
+“E-Cigarette Topics Shared by Medical Professionals: A Comparison of Tweets from the United States
+and United Kingdom’, Glowacki, E.M., Lazard, A.J., Wilcox, G.B., Cyberpsychology, Behavior, and
+
+Social Networking, January 2017.
+
+“Examination of Social Media E-cigarette Messages: Marketing and Consumer Conversations on Twitter’,
+Lazard, A.J., Saffer. A.J., Wilcox, G.B., Chung, A., Market, M.S., Bernhardt, J.M. JMIR Public Health and
+
+Surveillance, 2016;2(2):e171.
+
+“Identifying the public’s concerns and the Centers for Disease Control and Prevention’s reactions during a
+health crisis: An analysis of the CDC’s Zika live Twitter chat,” Glowacki, E.M., Lazard, A.J., Wilcox,
+G.B., Mackert, M., & Bernhardt, J.M., American Journal of Infection Control September 2016.
+
+“The Impact of Social Media on Return on Investment (ROI) — Registrations and Revenue,” G. Wilcox &
+M. Moore, Journal of Digital and Social Media Marketing, Vol. 3, No. 4 Winter 2016.
+
+"Exploring gender and identity issues among female AY As who connect in an anonymous platform," K.
+Pounders, K. Stowers, G. Wilcox, M. Mackert, B. Love, Journal of Health Psychology, 2016 (1-13).
+
+“Living in a Big Data World: Predicting mobile commerce activity through privacy concerns, M. Eastin, N.
+Brinson, A. Doorey, G. Wilcox, Computers in Human Behavior, 2016, 58, 214-220.“Toward an Understanding of Causality between Advertising and Sales: New Evidence from a Multivariate
+Co-integrated System,” M. Darrat, G. Wilcox, V. Funches, M. Darrat, Journal of Advertising, October
+2015.
+
+“Themes of Public Concern: A Text Mining Analysis of the CDC's Ebola Live Twitter Chat,” Lazard, A.,
+Scheinfeld, E., Bernhardt, J., Wilcox, G., & Suran, M., American Journal of Infection Control 43(10),
+1109-111. DOT: 10.1016/j.ajic. May 25, 2015.
+
+“Kid Tested, Mother Approved: The Relationship between Advertising Expenditures and “Most-Loved”
+Brands, J. Williams, K. Kim, G. Wilcox, International Journal of Advertising, September 2015.
+
+“Beer, Wine, or Spirits? Advertising’s Impact on Four Decades of Category Sales,” G. Wilcox, E. Y.
+Kang, L. Chilek, International Journal of Advertising, April 2015.
+
+“Lead-generating social media strategies using the social media performance model: The B2B
+connection,” G. Wilcox and K. Sussman, Journal of Digital and Social Media Marketing, Vol. 2 No. 1,
+Summer 2014.
+
+“Examining the Relationship between Advertising Expenditures and Sales of Quick Service Restaurants in
+the United States”, S. Kamal and G. Wilcox, Journal of Food Products Marketing, 20-1, January 2014.
+
+“Multivariate Time Series use for the Measurement of Social Media Effects”, G. Wilcox and K. Kim,
+Marketing Management Journal, Volume 22, Issue 2, 2012.
+
+“Liquor Advertising and Consumption in the United States: 1971-2008”, G. Wilcox, K. Kim,
+H. M. Schulz, International Journal of Advertising, Volume 31 Number 4 2012.
+
+"Soft Drink Advertising and Consumption in the United States: 1984-2007," G. Wilcox, H.
+Gangadharbatla, S. Kamal, International Journal of Advertising, Volume 28, Number 2 2009.
+
+"What's Changed? Does Beer Advertising Affect Consumption in the United States?" G. Wilcox and H.
+Gangadharbatla, International Journal of Advertising, Volume 25, Number 1, 2006.
+
+“Beer Brand Advertising and Market Share in the United States: 1975 to 1998," G. Wilcox, International Journal of
+Advertising, Vol. 20, No. 2, 2001.
+
+"World Wide Web Advertising,” G. Wilcox, RAE, Volume 39, Number 4, November/December 1999.
+
+ 
+
+“Internet Marketing: Advertising as Information, " G. Wilcox, Texas Business Review, February, 1999.
+
+"Cigarette Advertising and Consumption in South Korea, 1988-1992," G. Wilcox, K. Yang, and M. Tharp,
+International Journal of Advertising, Fall, 1994.
+
+"Cigarette Advertising and Consumption in the United States, 1961- 1990," G. Wilcox and B. Vacker, International
+Journal of Advertising, September, 1992.
+
+"Cigarette Brand Advertising and Consumption in the United States, 1949-1985," G. Wilcox, Journal of Advertising
+Research, August/September, 1991.
+
+"Trends in Magazine Advertorial Use, 1980-1986," P. Stout, G, Wilcox, and L. Greer, Journalism Quarterly, Winter,
+1989.
+
+"Advertorials: Another Option for Media Planners," P. Stout, L. Greer, and G. Wilcox, Journal of Media Planning,
+Spring, 1989.
+
+"Broadcast Liquor Commercials: Consumer Response to a TV Spot," G. Wilcox, R. Hovland, and D. Fletcher,
+
+Journalism Quarterly, Spring,1988."Consumer Response to Seagram's Equivalency TV Spots," L. Tucker, R. Hovland, and G. Wilcox, Journalism
+Quarterly, Winter, 1987.
+
+"Alcoholic Beverage Advertising and Consumption in the United States, 1964-1984," G. Franke and G. Wilcox,
+Journal of Advertising, August, 1987.
+
+"Advertising in Texas," G. Wilcox and J. Kaplan, in The New Texas: Perspectives on an Information Society,
+Frederick Williams, Editor, Tracor Publications, 1987.
+
+"Influences on the First Amendment Status of Commercial Speech: The Future of Alcoholic Beverage Advertising,"
+R. Hovland and G. Wilcox, Communication and the Law, April, 1987.
+
+"The Information Content of Comparative Magazine Advertisements: A Longitudinal Analysis," L. Chou, G.
+Franke, and G. Wilcox, Journalism Quarterly, Spring, 1987.
+
+"Facial Expression of Models in Magazine Advertisements: A Cross-Cultural Comparison," J. Choe, G. Wilcox, and
+A. Hardy, Journalism Quarterly, Spring, 1986.
+
+"Capital Cities Cable: Implications for Alcoholic Beverage Advertising in the Electronic Media," G. Wilcox, D.
+Shea, and R. Hovland, Communication and the Law, February, 1986.
+
+"The Effect of Price Advertising on Alcoholic Beverage Sales," G. Wilcox, Journal of Advertising Research,
+October/November, 1985.
+
+"The Effects of Physical Attractiveness of the Endorser on the Performance of Testimonial Advertisements," G.
+Wilcox, J. Murphy, and P. Sheldon, Journalism Quarterly, Autumn, 1985.
+
+"Setting High Technology Objectives for Advertising Principles," K. Adler and G. Wilcox, Journalism Educator,
+Summer, 1985.
+
+"Humor and Depression -- A Socio-Economic Analysis of Advertising in the1920s and 1930s,"G. Wilcox and S.
+Moriarty, Journalism Quarterly, Summer, 1984.
+
+"Aging in Advertising: Product Related Reactions to Age Portrayals in Print Ads," H. Rotfeld, G. Wilcox, and L,
+Reid, Journalism Quarterly, Autumn, 1982.
+
+"Implications of First Amendment Doctrine on Prohibition of Truthful Price Advertising Concerning Alcoholic
+Beverages," G. Wilcox, Communication and the Law, Spring, 1981.
+
+"The Impact of Program Environment on Recall of Humorous Television Commercials," J. Murphy, I. Cunningham,
+and G. Wilcox, Journal of Advertising, Spring, 1979.
+
+Books & Book Chapters
+“Consumer Privacy & The New Mobile Commerce,” A. Doorey, G. Wilcox, M. Eastin, Chapter 10 in
+
+Online Consumer Behavior: The Dark Side of Social Media, Editor: Angeline Close
+Scheinbaum, Routledge Psychology Press 2017.
+
+“Kid tested, mother approved: the relationship between advertising expenditures and “‘most-loved’ brands,”
+K. Kim, J. Williams and G. Wilcox, Chapter 3 in Social and Environmental Issues in Advertising, Eds. S.
+Yoon and S. Oh, Routledge Publishing, New York, N.Y. 2016.
+
+“The Role of Advertising on Attitudes and Consumption of Food and Beverage Products,” Wilcox, G.B.,
+Williams, J. D., Kamal, S. and Kim, K. Chapter 9 in Advances in Communication Research to Reduce
+Childhood Obesity, Eds. Jerome Williams, Chiquita Collins, and Keryn Pasch, Springer Publishing, New
+York, NY. 2013.“Cigarette Advertising and Consumption in the United States, 1961-1990,” G. Wilcox and B. Vacker, Chapter 16 in
+Advertising & Markets: A Collection of Seminal Papers, edited by J.C. Luik and M..J. Waterson, NTC Publications
+Limited, 1996.
+
+“Cigarette Advertising and Consumption in South Korea, 1988-1992,” G. Wilcox, M. Tharp, and K. Yang, Chapter
+17 in Advertising & Markets: A Collection of Seminal Papers, edited by J.C. Luik and M..J. Waterson, NTC
+Publications Limited, 1996.
+
+Advertising in Society: Classic and Contemporary Readings on Advertising's Role in Society, R. Hovland and G.
+Wilcox, NTC Publishing Group, Lincolnwood, Illinois, 1989, Korean translation by NANAM Publishing House,
+Seoul, Korea, 1994
+
+"Constitutional Protection for Advertising: A Constitutional Stepchild?" D/ Teeter, Jr., G. Wilcox, and R. Hovland,
+Chapter 13 in Advertising in Society, edited by Roxanne Hovland and Gary B. Wilcox, NTC Publishing Group,
+Lincolnwood, Illinois, 1989.
+
+"Advertising as an Index of Change," G. Wilcox and J. Kaplan, Chapter 15 in Measuring the Information Society:
+The Texas Studies, ed. Frederick Williams, Sage Publications, 1988.
+
+Proceedings & Conference Papers
+“Reaching the Tipping Point?: A Critical Analysis of User-Generated Content Related to the
+
+#deletefacebook Movement from March 2018 - March 2019,” Bright, L., and G. Wilcox, American
+Marketing Association Annual Conference, San Francisco, California, August 2020.
+
+“Wrap your willy”: A Text-Mining Analysis of Shared Vs. Recetved Memorable Messages of Condom-
+Use,” Lindstadt, C. and Wilcox, G., Plenary Interactive Poster Session, [CA Conference, Australia, May
+2020.
+
+“The Power of Social Media Celebrity Endorsers: Data Mining and Computerized Textual Analysis of
+YouTube Comments,”. Choi, J.A., Lee, W.N., & Wilcox, G., Presented at the annual meeting of the
+National Communication Association, Baltimore, November 2019.
+
+“ DrunkGirl’: A Text-Mining Analysis of #MeToo”, Lindstadt, C., Boyer, B., Dongwoo, A., Pounders, K..,
+Wilcox, G., ICA Annual Conference, Washington, D.C., May 2019, Awarded Top Poster in Health
+Communication.
+
+“Exposing Underage Consumers to Alcohol Sport Sponsorship: The Role of Arousal on Brand Attitude and
+Beverage Choice,” A. Scheinbaum, H. Son, Yongwoog Jeon, G. Wilcox and S. Yoo, 2019 AMS Annual
+Conference, Vancouver, Canada, May 2019.
+
+“Developing a Statewide Campaign to Promote Use of the Texas Prescription Monitoring Program,”
+National Conference on Health Communication, Marketing, and Media, Atlanta, GA, Mackert, M.,
+Pounders, K., Kirtz, S., Hughes Wagner, J., Brown, L., Lewellyn, K., Ring, D., Wilcox, G., Murthy, D.,
+Hill, L., Innerarity, S., Tierney, W., McGlone, M., Holleran-Steiker, L., Bernhardt, J., & DeSalvo, K.,
+September, 2018.
+
+“Measles Outbreak and Public Conversation on Twitter,” Chung, A.D., Lazard, A., Koh, H., Jeon, Y.,
+Wilcox, G., Mackert, M., & Bernhardt, J., Tenth Annual National Conference on Health Communication,
+Marketing, and Media, Atlanta, GA, August, 2016
+
+"Examination of Social Media E-cigarette Messages: Marketing and Consumer Conversations on Twitter,”
+Lazard, A., Wilcox, G., Chung, A. D., Mackert, M., & Bernhardt, J., Society for Research on Nicotine and
+Tobacco Annual Meeting in Chicago, IL, March 2016.
+
+“Conversation of Concern: Text Analysis of Twitter Messages During the 2015 Outbreak of MERS,” Choi,
+J., Mackert, M., & Wilcox, G. Presented at the annual meeting of the International Symposium:
+Implementation of Social Media in Public and Community Health Initiatives, Austin, Texas, January 2015
+Top Poster Award.Brinson, N., Doorey, A., Eastin, M., Wilcox, G. “Living in a Big Data World: Predicting Mobile
+Commerce Activity Through Privacy Concerns,” Summer 2015 American Marketing Association Annual
+Conference.
+
+“Measurement of Social Media Effects: Social Media Performance Model,” G. Wilcox and K. Kim,
+Proceedings of the American Academy of Advertising, 2013.
+
+“Analysis of Relationship Between Brand Advertising and Most Loved Brands by Children,” K. Kim, G.
+Wilcox, J. Williams, Proceedings of the American Academy of Advertising, 2012.
+
+"Distilled Spirits Advertising and Consumption in the U.S. -- 1971-2007," G. Wilcox and
+K. Kim, Proceedings of the American Academy of Advertising, 2010.
+
+"Quick Service Restaurant Advertising and Consumption in the United States 1986-2007," S. Kamal,
+G. Wilcox, and I. C. Cunningham, Proceedings of the American Academy of Advertising, 2010
+
+"Post-Broadcast Ban: U.S. Liquor Advertising from 1997 to 2007," H. M. Schulz, G. Wilcox, H.
+Gangadarbatla, Proceedings of the Center for Health Promotion Research, 2010.
+
+"The Effects of Advertising and Publicity on Sales Revenue, 1985-2005," K. Kim, G. Wilcox, and M.
+Drumwright, Proceedings of the American Academy of Advertising, 2008.
+
+"Am I on Your Playlist? Explorations into the Impact of Podcasting on Academic Performance" L. Bright
+and G. Wilcox, TCEA Educational Technology Research Symposium, 2008.
+
+"Does Beer Advertising Affect Overall Consumption In the United States?" H. Gangadharbatla and G. Wilcox,
+Proceedings of the American Academy of Advertising, 2005.
+
+“Emerging Issues: Interactive Communication in a Changing World,” Proceedings of the American Academy of
+Advertising, 1999.
+
+"Emerging Media, Marketing Communication in the Digital World,” Proceedings of the American Academy of
+Advertising, 1998
+
+Editor, Proceedings of the American Academy of Advertising, 1996.
+
+"The Cigarette Advertising Controversy: Will Regulation Help?" G. Wilcox and J. I. Richards, Proceedings of the
+American Academy of Advertising, 1990.
+
+"An Exploratory Study Identifying Characteristics of Advertising Creatives: The Creative Quotient Test," R.
+Hovland, G. Wilcox, and T. Hoffman, Proceedings of the American Academy of Advertising, 1988.
+
+"Advertising and the Constitution: Regulation and Rights in Flux," R. Hovland, D. Teeter, and G. Wilcox,
+Proceedings of the American Academy of Advertising, 1988.
+
+"An Exploratory Study of How Media Professionals View Advertorials," L. Greer, P. Stout, and G. Wilcox,
+Proceedings of the American Academy of Advertising, 1988.
+
+"Alcoholic Beverage Advertising in the Electronic Media and The First Amendment," R. Hovland and G. Wilcox,
+Proceedings of the American Academy of Advertising, 1986.
+
+"Time-Compression: Additional Evidence Regarding Its Effects on Audience Response to Television Commercials,
+J. Murphy, G. Wilcox, and A. Hardy, Proceedings of the American Academy of Advertising, 1986.
+
+"Repeated Measures Designs: Pretest and Practice Effects," G. Franke and G. Wilcox, Proceedings of the Southern
+Marketing Association, 1985."The Effects of Time-Compression on the Performance of Comparative and Non-Comparative Television
+Commercials," J. Murphy, G. Wilcox, and A. Hardy, Proceedings of the American Marketing Association, 1985.
+
+"Targeting the Affluent: Implications for Advertisers," I. Cunningham, G. Wilcox, and L. Williams, Proceedings of
+the 12th Annual International Research Conference in Marketing, La Londe Les Maures, France, May, 1985.
+
+"Victory Through Vegetables: The Promotion of Whole Foods Supermarkets," A. Hardy and G. Wilcox, Popular
+Culture Association/American Culture Association, Louisville, Kentucky, April, 1985.
+
+"The Response of White Consumers to Integrated Advertising -- The Socially Consumed Product," L. Reid, H.
+Rotfeld, and G. Wilcox, Proceedings of the American Academy of Advertising, 1981.
+
+Conferences/Presentations/Speeches
+Panelist, Diplomacy at Texas Live O&A #4 (with American Center in Moscow), Liberal Arts Instructional
+
+Technology Services, live simulcast, December 6, 2019.
+
+Speaker, “Digital Media Analytics, Tower Fellows Distinguished Speaker, University of Texas at Austin,
+Austin, Texas, October 24, 2019.
+
+Speaker, “Social Media Analytics: Predictive & Textual Analysis,” Texas Advertising Doctoral Society,
+University of Texas at Austin, Austin, Texas, February 16. 2018.
+
+Panelist, “The Dark Side of Social Media,” The Media Ethics Initiative, Moody College of
+Communication, University of Texas at Austin, Austin, Texas, November 6, 2017.
+
+Speaker, “The Impact of Social Media on Return on Investment,” Digital Banditos Global Forum, Austin,
+Texas, March 8. 2017.
+
+Panelist, “Text Analytics & Social Listening,” Jnnovation in Health Communication to Improve Health,
+Center for Health Communication, Moody College of Communication, Dell Medical School, SXSW,
+Austin, Texas, March 12, 2017.
+
+Panelist, “Social Media, Tex-Mex & ROI,” SMWi, Austin, Texas, February 27, 2017.
+
+Speaker, “Social Media Analytics: Predictive and Textual Analysis,” Center for Health Communication,
+Moody College of Communication, University of Texas at Austin, September 27, 2016.
+
+“Alcohol Advertising,” Gary B. Wilcox, The Academic Minute, WAMC/Northeast Public Radio and Mount
+Holyoke College, August 11, 2015.
+
+Speaker, “Advertising’s impact on Forty years of Alcohol Sales,” Gary B. Wilcox, Waggoner Center for
+Alcohol and Addiction Research, University of Texas at Austin, May 2015.
+
+“How Does Event Sponsorship Impact Underage Drinking? Below the Line Alcohol Marketing and
+Underage Consumers” A. Close, S. Yoo, Gary B. Wilcox, presented at the 2015 Academy of Marketing
+Science Annual Conference, May 2015, Denver Colorado.
+
+Participant, “2014 Academic Summit: Storytelling @ the Speed of Now”, DePaul University, Chicago,
+CIL, June, 2014.
+
+Poster Session, “What Are They Saying: Domestic Violence Messaging Via Twitter,” Cicatello, G., Stout, P. and
+Wilcox, G., St. David's CHPR Annual Conference: Promoting Healthy Communities: Interdisciplinary Perspectives,
+Austin, Texas, April 2014.
+
+Poster Session, “Social Media Performance Model (SMPM): The Relationship of Social Media Activity to
+Website Traffic and Conversions,” G. Wilcox and K. Sussman, Workshop on Social and Business
+Analytics, McCombs School of Business, The University of Texas at Austin, March, 2014.“Measurement of Social Media Effects,” G. Wilcox and K. Kim, American Academy of Advertising,
+Albuquerque, NM, April, 2013.
+
+“Social Media Measurement and Analysis,” K. Kim and G. Wilcox, American Marketing Association,
+Winter Marketing Educators Conference, Las Vegas, NV, February, 2013.
+
+Participant, “2012 Academic Summit: When All Media is Social’, Stanford University, Palo Alto, CA,
+June, 2012.
+
+“Relationships Between Brand Advertising and Most Loved Brands by Children,” J. D. Williams, G.
+Wilcox, and K. Kim, Commissioned Analysis and Presentation for Healthy Eating Research, University of
+
+Minnesota School of Public Health and Robert Wood Johnson Foundation, Princeton, N.J. 2011.
+
+“Social and Digital Media in the Classroom: From the Student's Perspective’, K. Sussman and G. Wilcox, American
+Academy of Advertising, Mesa, AZ, April 2011.
+
+Speaker, "Travel Austin: Advertising in Idea City," University Honors Center, The University of Texas at Austin,
+October, 2006.
+
+Speaker, "Lectures in the Palm of Your Hand: Podcasting Course Lecture Content," Strategic Initiatives Conference,
+Apple Computer, Inc., Austin, Texas, January, 2006.
+
+Speaker, “Is Graduate School for Me?” Sponsored by the Office of Graduate Studies, The University of Texas at
+Austin, April 2003.
+
+Speaker, “Building the Texas Wine Brand” 2002 AIM Marketing Conference, Texas Wine and Grape Growers
+Association, Messina Hof Winery, Bryan-College Station, Texas, June 2002.
+
+Speaker, “Branding Decisions in the 21‘' Century” Texas Beef Council Annual Meeting, Austin, Texas, March 2002.
+
+Speaker, "eCommerce: Trends and Frontiers" Internal Revenue Service Communications Training -- Advanced,
+College of Communication, The University of Texas at Austin, August, 1999.
+
+Speaker, "Technology and Trends," Internal Revenue Service Communications Training, College of Communication,
+The University of Texas at Austin, May 1999.
+
+Adjunct Professor, Fundacao Getulio Vargas, Principles of Advertising, Sao Paulo, Brazil, March 1999.
+
+Chair, “Emerging Issues: Interactive Communication in a Changing World,” Pre-Conference Session, American
+Academy of Advertising, Albuquerque, New Mexico, March 1999.
+
+Chair, “Emerging Media: Marketing Communication in the Digital World,” Pre-Conference Session, American
+Academy of Advertising, Lexington, Kentucky, March 1998.
+
+Discussant, "Rescuing an Endangered Resource: What Can We Do to Save Advertising History?", American
+Academy of Advertising, Special Session, Norfolk, Virginia, March, 1995.
+
+Speaker, "Advertising for Non-profit Organizations," Children's Trust Fund of Texas Fall Seminar, The Four Seasons
+Hotel, Austin, Texas, September 5, 1991.
+
+Speaker, "Moving Electronic Images into the Personal Computer," ESP '90: Into the Future — A satellite
+videoconference from Rochester Institute of Technology, Joe C. Thompson Conference Center, The University of
+Texas at Austin, October, 1990.
+
+Speaker, "Computer Imaging and Cognition," Scholars' Project in Honor of the Silver Anniversary of the Founding
+of The College of Communication, The University of Texas at Austin, March, 1990.Speaker, "Advertising Decisions for Non-profit Organizations," American Society of Mental Health Professionals
+Summer Institute, Austin, Texas, July, 1989.
+
+Speaker, "Beyond Textbook and Theory: Teaching Concept in the Advertising Classroom," American Academy of
+Advertising, Special Session, San Diego, California, March, 1989.
+
+Speaker, "Selling Alcohol," Sex, Drugs, Rock-n-Roll and the Media, Senior Fellows Special Topic Session, College
+of Communication, The University of Texas at Austin, October, 1988.
+
+Speaker, "Computer Imaging: Changing Communication Technology for Artists,"TeCH 88, University of
+Edinburgh, Edinburgh, Scotland, August, 1988.
+
+Speaker, "Next Generation Classroom Computers," American Academy of Advertising, Special Session, Chicago,
+Illinois, April, 1988.
+
+Speaker, "Computer Graphics Applications for Advertising Education," Preparing for the 21% Century: Using
+Computers in Journalism Education, A University of Texas Symposium, Austin, Texas, July, 1987.
+
+Speaker, "Instructional Techniques Using Computer Graphics for Visual Communication," The Executive Council of
+
+The University of Texas Ex-Students’ Association, July, 1987.
+
+Speaker, "Texan's Use of Media for Shopping Information," 37th Annual Conference of the International
+Communication Association, Montreal, Canada, May, 1987.
+
+Speaker, "Advertising in Texas," A Scholars' Conference in Conjunction with THE NEW TEXAS Project, Center for
+
+Research on Communication Technology and Society, College of Communication, The University of Texas at
+Austin, November, 1986.
+
+Speaker, "Research on the Impact of Mass Media Communication on Alcohol Misuse," Alcoholic Beverage Medical
+Research Foundation, The John Hopkins Alcohol Research Center, Baltimore, Maryland, October, 1986.
+
+Session Chair, "Alcohol Advertising in the Electronic Media," American Academy of Advertising, Baton Rouge, LA,
+March, 1986.
+
+Session Chair, "Research on Market Segments," American Institute of Decision Sciences, Las Vegas, NV,
+November, 1985.
+
+Speaker, "Regulation of Alcohol Beverage Advertising in the Mass Media," Faculty Dialogue with Communication
+Advisory Council, College of Communication, The University of Texas at Austin, March, 1985.
+
+Discussant, "Behavioral/Cultural Dimensions," Southern Marketing Association, Atlanta, GA, November, 1983.
+
+Panelist, "Consumer Response to New Directions in Advertising," The Next 200Years, National Public Radio
+Program, June, 1982.
+
+GRANTS
+
+Texas Health and Human Services Commission, Texas Prescription Monitoring Program (PMP)
+campaign, Center for Health Communication, The University of Texas at Austin, Researcher — Social
+Media Analytics, 2017-2018.
+
+Centers for Disease Control (CDC) and Prevention/Research Triangle Institute, Tips from Former
+Smokers YouTube Comment Sentiment and Summary Analysis, Researcher -- Text Analytics — July/August
+2016.
+
+Texas Department of Transportation Grant, TxDot Phase 3
+Task 11; Execution of the Integrated Marketing Communication Program: Research Project Co-
+Investigator, May — August 2013.Texas Department of Transportation Grant, TxDot Phase 3
+Task 9: Integrated Marketing Communication Program; Research Project Co-Investigator, January —
+May 2013.
+
+Texas Department of Transportation Grant, TxDot Phase 2
+Task 7: IMC Goals and Objectives; Research Project Co-investigator, August — December 2012.
+
+University of Minnesota School of Public Health, March-August 2011, $12,000 (Analysis of Relationship
+Between Brand Advertising and Most Loved Brands by Children; Jerome D. Williams, Rutgers
+University, G. Wilcox, UT Austin, K. Kim, UT Austin.
+
+Intel, Expanding the Digital Frontier: The Texas Alliance for Distributed Computing,
+Communication and Collaboration, $500,000, Principle Investigator, The University of Texas at Austin, 1997.
+
+PROFESSIONAL EXPERIENCE
+Director and Editor, Public Service Television Advertisements for the Texas Department of Health -- AIDS
+Awareness Campaign. 1987.
+
+Director, Computer Graphics Student Exhibition for The Second Annual Allan Shivers Conference on THE NEW
+TEXAS, Lyndon B. Johnson Presidential Library, The University of Texas at Austin, 1986.
+
+Director & Editor, Children's and Parents' Film for M.D. Anderson Children's Hospital produced in cooperation with
+the College of Communication, The University of Texas at Austin, 1985.
+
+Director & Editor, National Public Service Television Advertisements, National Wildflower Research Center, Austin,
+Texas, 1985.
+
+Director, Learning Resources Network Film for The University of Texas at Austin --Admissions Office. (Distributed
+nationally to over 200 high schools), 1983.
+
+ACADEMIC AWARDS
+
+William David Blunk Memorial Teaching Award nomination, 2016.
+
+Dad's Teaching Award nomination, 2010, 2011.
+
+Professor of the Month, UT Senate of College Councils, April, 2008.
+
+Graduate Recruiting Travel Grant, UT Austin Graduate School, 2007-2008, 2008-2009, 2009-2010
+Outstanding Graduate Adviser Award 2005-2006
+
+Chancellor's Council Outstanding Teaching Award Nomination, 2005, 2006
+
+Vice President, American Academy of Advertising, 1996.
+
+Allan Shivers Research Fellow in Communication, The University of Texas at Austin, 1991-1992.
+
+Member, Phi Kappa Phi Honor Society.
+
+Research Fellow, Joe C. Thompson Centennial Professorship in Advertising, The University of Texas at Austin,
+Summer 1985, 1987-1988, 1990-1991, and 1992-93.
+
+College of Communication Teaching Award Nomination, The University of Texas at Austin, 1982-1983; 1984-
+
+1985; 1986-1987; 1987-1988, 2004, 2005.
+Graduate School Academic Excellence Scholarship, Michigan State University.
+School of Communication Creativity Award, The University of Texas at Austin.
+
+DOCTORAL COMMITTEES
+Chaired 38 Ph.D. committees and served as a member of several others.
+
+MASTERS COMMITTEES
+Chaired over 100 Masters Theses/Professional Reports and served as a reader on several more.
+
+ACADEMIC CONTRIBUTIONS
+University Committees
+Donald D. Harrington Recruitment Fellowship Committee, 2005-present.
+Public Relations Graduate Education Task Force, Co-Chair, Spring 2000.
+College of Communication Dean's Evaluation Committee, Fall 1998 to Spring 1999.
+
+10Faculty Computer Committee, Fall 1996 to Spring 1998.
+Provost's Academic Advisory Committee, Fall 1994 to Fall 1997.
+College of Communication Promotion & Tenure Committee, Fall 2001, Fall 2002
+College of Communication Committee of 25, Fall 1988 to Fall 1990.
+
+Other Academic Services
+Editorial Board, Journal of Digital & Social Media Marketing, Fall 2019-present
+Board Member, GO TEXAN Partner Program Advisory Committee, Texas Department of
+Agriculture, Fall 1999 to 2005.
+Graduate Adviser, Department of Advertising, Fall 1998 to present.
+Graduate Adviser, Department of Advertising, Fall 1986 to Summer 1990.
+Undergraduate Adviser, Department of Advertising, Summer 1983 to Summer 1985.
+Chairman, Scholarship Committee, Department of Advertising, 1983 to 1991.
+
+11

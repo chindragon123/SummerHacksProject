@@ -1,0 +1,305 @@
+Raghav Mahalingam
+
+raghavmahalingam @austin.utexas.edu
+
+Education
+
+e Ph.D. (1999) in Aerospace Engineering, Georgia Institute of Technology, Atlanta, GA.
+e M.S. (1995) in Aerospace Engineering, Georgia Institute of Technology, Atlanta, GA.
+e B.Tech (1994) in Aerospace Engineering, Indian Institute of Technology, Madras, India.
+
+Core Areas of Technical Expertise
+
+e Fluid mechanics, Thermodynamics, Heat transfer, Vortex dynamics
+e Thermal management in microelectronic systems.
+
+e Experimental methods in fluid mechanics and heat transfer
+
+e Sensor and actuation technologies
+
+e System design, product development processes.
+
+Teaching Interests
+
+e Basic and advanced courses in fluid mechanics, thermodynamics, heat transfer, transport
+phenomena, propulsion systems, electromechanical systems, actuation technologies and
+experimental methods in thermo-fluids.
+
+e System design and product development processes.
+
+e Entrepreneurship and intellectual property creation and management.
+
+e Socially responsible engineering for the sustained well-being of future generations.
+
+Experience
+
+Lecturer, ASE, UT Austin, Jan 2016- present
+
+Courses Taught: Propulsion (S16, F18), Low Speed Aerodynamics (F16, $17, F17, $18, F18, S19,
+F19, Su20), Electromechanical Systems (S17, S18, S19, S20), Computational Engineering
+Capstone Design (S19, S20), Fluid Mechanics (ME, Su19), Applied Aerodynamics (F19),
+Foundations of Fluid Mechanics (ME/ASE, F19).
+
+Courses Designed: Computational Engineering Capstone Design.
+
+Director of Robotics Education, Apptronik, Inc. Jan 2018-Jan 2019
+
+Apptronik is a robotics startup building high power, high efficiency actuators and robotic
+systems. My role is directing the development of a online education and training platform for
+robotics under a SBIR Phase | grant. The vision for the platform is to provide Robotics-as-a-
+Service (RaaS) for the education and training market, with the goal of eliminating infrastructure,
+maintenance and safety costs for customers. Funded project:
+
+“Cloud Based Shared Robotics Laboratory” — NSF-SBIR Phase | award, 2018 Pl, $225K, 2018VP Product Strategy, CoolChip Technologies, Nov 2014-Apr 2016
+
+CoolChip Technologies was a VC backed start-up that is developing a technology called Kinetic
+Cooling for high-performance thermal management. My role in the company was to develop
+product strategy based on market needs and drive early customer traction through technology
+evangelization and system analysis.
+
+Co-founder and Chief Scientist, Nuventix, Inc.: 2005 to 2014, acquired by Aavid Thermalloy
+Nuventix was a VC backed company that developed low power, high efficiency thermal
+management systems for electronics using synthetic jets and was acquired by Aavid
+Thermalloy. | was one of the principal researchers who adapted the Synjet technology for
+thermal management at Georgia Tech and subsequently, one of the founders of the company.
+| led the growth of Nuventix IP over last 8 years to over 80 patents and directed the Nuventix
+technology strategy for diverse thermal management markets.
+
+Research Engineer, Woodruff School of Mechanical Engineering, Georgia Tech: 2001-2005
+Post-Doctoral Fellow, Woodruff School of Mechanical Engineering, Georgia Tech: 1999-2001
+| developed the fundamental know-how for producing small-scale synthetic jets and studied
+their interactions with heated surfaces. This research laid the groundwork for the formation of
+Nuventix. With Prof. Ari Glezer, | pioneered the concept of using synthetic jet ejectors for
+thermal management. As part of a DARPA funded program, we demonstrated the feasibility of
+using small scale synthetic jets for highly efficient cooling using the inherent turbulence of the
+synthetic jets and their ability to entrain mean flow.
+
+Graduate Research Assistant, School of Aerospace Engineering, Georgia Tech: 1994-1999
+For my doctoral research, | studied the development of axial flow in the core of the tip vortex
+formed at the rotor blade and its effect when the vortex impinges on an airframe. This research
+showed that the core axial velocity is nearly the same magnitude as the core circumferential
+velocity and cannot be ignored in predictive models. Additionally, the behavior of the trailing
+vortex when it hits a surface is dependent on the strength of the axial velocity component at
+the time of impact.
+
+Awards and Service
+
+e ASE/EM LUNAR Council Teaching Award for 2019
+
+e Most Exemplary Faculty Member Award, Dept. of Aerospace Engineering, 2017, presented
+by the Student Engineering Council and Cockrell Schooling of Engineering.
+
+e Harvey Rosten Award for Excellence in the field of thermal analysis of electronic equipment,
+“..for pioneering work in synthetic jets for electronics cooling applications...”, 2007.
+
+e NSF I-Corp-L Award, Business Mentor, UT-Austin team for the NSF I-Corp—L cohort,
+“Scalable Online STEM Teacher Training in Engineering Innovation/Entrepreneurship”, Jan
+2015.e Panelist, NSF SBIR Phase | Proposal Reviews, 2019.
+
+e Panelist, NSF SBIR Phase II Proposal Reviews, 2018.
+
+e Invited Panelist: Federal Labs Consortium National Meeting, “Commercialization Trends
+and Insights across Academe, Industry, and Federal Labs”, Apr 2017.
+
+e Invited Panelist: Thermal Challenges of Smart Phones, Tablets, Phablets and Beyond, IEEE
+ITherm Conference, 2014.
+
+e Invited Panelist: How can Thermal and Packaging design enable low cost 100W equivalent
+LED A-line lamps , ASME InterPack Conference, July 2013.
+
+e Invited Lectures: Indian Institute of Technology, Mandi, India and University of Texas at
+Arlington, “Sustainability, Engineering and Collapsing Civilizations”.
+
+e Invited book chapter: Thermal Management for LED applications, “Air Cooling for LED
+lighting”, Editors: Lasance, C., and Poppe, A., pp. 267-298, Springer 2014.
+
+Patents
+
+e European Pat. EP 1943687. Synthetic jet cooling system for LED module, 2014.
+
+e US Pat. 9016903. Thermal management of LED-based illumination devices with synthetic
+jet ejectors, 2014.
+
+e US Pat. 8845138. Light fixture with multiple LEDs and synthetic jet thermal management
+system, 2011.
+
+e US Pat. 8770765. Thermal management of small form factor projectors with synthetic jets,
+2014.
+
+e US Pat. 8777456. Thermal management of LED-based illumination devices with synthetic
+jet ejectors, 2014.
+
+e US Pat. 8672648. Methods for reducing the non-linear behavior of actuators used for
+synthetic jets
+
+e US Pat. 8579476. Thermal management of led-based illumination devices with synthetic jet
+ejectors, 2013.
+
+e US Pat. 8430644. Synthetic jet ejector for the thermal management of PCI cards. 2013
+
+e US Pat. 8388142. Thermal management of small form factor projectors with synthetic jets,
+2013.
+
+e US Pat. 8030886. Thermal management of batteries using synthetic jets, 2011.
+
+e US Pat. 7932535. Synthetic jet cooling system for LED module, 2011.
+
+e US Pat. 8066410. Light fixture with multiple LEDs and synthetic jet thermal management
+system, 2011.
+
+e US Pat. 8069910. Acoustic resonator for synthetic jet generation for thermal management,
+2011.
+
+e US Pat. 7784972. Thermal management system for LED array, 2010.US Pat. 7819556. Thermal management system for LED array, 2010.
+
+US Pat. 7760499. Thermal management system for card cages, 2010.
+
+US Pat. 7606029. Thermal management system for distributed heat sources, 2009.
+
+US Pat. 7607470. Synthetic jet heat pipe thermal management system, 2009.
+
+GB Pat. 2419644. System and method for thermal management using distributed synthetic
+jet actuators, 2008.
+
+US Pat. 7252140. Apparatus and method for enhanced heat transfer, 2007.
+
+US Pat. 6588497. System and method for thermal management by synthetic jet ejector
+channel techniques, 2003.
+
+Archival Publications, Conference Papers and Presentations
+
+Mahalingam, R., “Thermal Management of High Performance Electronics with Kinetic
+
+Cooling”, European Energy Venture Fair, Zurich, Sept 2015.
+
+Mahalingam, R., Poynot, A., Helsel, J., “Ultrathin synthetic jets for thermal management of
+consumer electronics”, Proc. Of 30° IEEE Semi-Therm Symposium, pp.109-113, March
+2014.
+
+Mahalingam, R., “SynJet Augmented Cooling for Cloud Computing”, Presentation Only,
+Session: Revolutionary Developments in Thermal Management, Meptec Symposium 2012.
+Mahalingam, R., Noska, B., and Narasimhan, S., “Synjet Augmented Cooling of a 1U Security
+Chassis”, Proc. Of 28" IEEE Semi-Therm Symposium, pp.255-259, 2012.
+
+Mahalingam, R., “System Level Benefits of Augmenting Fan Cooled Servers with Localized
+Synthetic Jets”, Electronics Cooling Magazine, v.18:3, 2012.
+
+Mahalingam, R., “SynJets for Forced Air Cooling for Outdoor Telecom Equipment”,
+Presentation only: IMAPS Advanced Thermal Workshop, Nov 2012.
+
+Mahalingam, R., “Improving Cooling System Metrics Using SynJets for Augmentation of
+Fans”, Presentation only: IMAPS Advanced Thermal Workshop, Nov 2011.
+
+Noska, B., Cheung, C., Jin, H., and Mahalingam, R., “Enabling new LED designs through
+advanced cooling technology” Proc. of the 26"" IEEE Semi-Therm Symposium, 2010
+Gerlach, D.W., Gerty, D., Mahalingam, R., Joshi, Y.K., Glezer, A., “A Modular Stackable
+Concept for Heat Removal From 3-D Stacked Chip Electronics by Interleaved Solid Spreaders
+and Synthetic Jets”, IEEE Transactions on Advanced Packaging, v. 32:2, pp. 431-439, 2009.
+Mahalingam, R, “Unique Fanless Air Cooling for LED Lighting”, Presentation only: Thermal
+Management and Technology Symposium, 2008.
+
+Mahalingam, R., “Modeling of Synthetic Jet Ejectors for Electronics Cooling”, Proc. of the
+23" IEEE Semi-Therm Symposium, pp 196-199, 2007.
+
+Mahalingam, R. Heffington, S., Jones, L., Williams, R., “Synthetic jets for forced air cooling
+of electronics”, Electronics Cooling Magazine, v.13:2, 2007.Mahalingam, R., Heffington, S., Jones, L., Schwickert, M., “Newisys server processor cooling
+augmentation using synthetic jet ejectors”, Proc. of the 10° IEEE ITHERM Conf., pp. 705-
+509, 2006.
+
+Gerty, D., Mahalingam, R. Glezer, A., “Design and Characterization of a Heat Sink Cooled
+by an Integrated Synthetic Jet Matrix”, Proc. of the 10" IEEE ITHERM Conf., pp. 356-360,
+2006.
+
+Mahalingam R., Glezer A., “Design and thermal characteristics of a synthetic jet ejector heat
+sink”, J. of Electronic Packaging, v.127:2, pp.172-177, 2005.
+
+Mahalingam, R., “Thermal Management Using Synthetic Jets”, Presentation only: Next-
+Generation Thermal Management Materials and Systems: Challenges, Opportunities, and
+Technology Solutions for Microscale Cooling in Photonics and Electronics, Session: From
+Nano to Macro, 2005.
+
+Mahalingam R., Glezer A., “Forced Air Cooling with Synthetic Jet Ejectors”, Proc. ASME
+InterPack Conf., pp199-204.
+
+Mahalingam R., Rumigny N., Glezer A., “Thermal management using synthetic jet ejectors”
+IEEE-CPMIT, v.27:3, pp. 439-444, 2004.
+
+Mahalingam R., Glezer A., “Low-profile synthetic jet cooling for portable computers”, Proc.
+ASME InterPack Conf., 2003.
+
+Gerty, D., Mahalingam, R., Glezer, A., “Fluidic-Driven Ducted Heat Ejector”, 56th Annual APS
+Division of Fluid Dynamics Meeting, 2003.
+
+Mahalingam, R., Glezer, A., “Air cooled heat sinks integrated with synthetic jets” Proc. of
+the 8th IEEE ITHERM Conf., pp. 285-291, 2002.
+
+Mahalingam R., GlezerA., “An actively cooled heat sink integrated with synthetic jets”, Proc.
+of the 35th National Heat Transfer Conference, 2001.
+
+Mahalingam R., Glezer A., “Synthetic Jet Based Impingement Cooling Module for Electronic
+Cooling”, Proc. of the IMAPS Symposium, 2001.
+
+Mahalingam R., Glezer A., “Synthetic jet based active heat sink for electronic cooling”, Proc.
+of the Intl. symposium on microelectronics, v.4587, pp. 201-206, 2001.
+
+Rumigny, N., Mahalingam, R., Glezer, A., “Flow and Heat Transfer Characteristics of an
+Active Heat Sink Powered by Synthetic Jets”, 54° Annual APS Division of Fluid Dynamics
+Meeting, 2001.
+
+Mahalingam, R., Wong, O., and Komerath, N. M., “Experiments on the Origin of Tip
+Vortices”, AIAA Paper 2000-0278, 31st AIAA Fluid Dynamics Meeting, 2000.
+
+Wong, O., Mahalingam, R., Tongchitpakdee, C., Komerath, N.M. “The Near Wake of A 2-
+Bladed Rotor in Forward Flight”, AHS Aeromech. Spec. Mtg, 2000.
+
+Mahalingam, R., Culp, J., Nikolic, J., Glezer, A., “The Evolution of Synthetic Jet Arrays”, 52nd
+Annual APS Division of Fluid Dynamics Meeting, 1999.e Mahalingam, R., “Structure of the Near Wake of a Rotor in Forward Flight and its Effect on
+Surface Interactions”, Ph.D. thesis, 1999.
+
+e Mahalingam, R., and Komerath, N. M., “Characterization of the Near-Wake of a Helicopter
+Rotor”, AIAA Paper 98-2909, 29th AIAA Fluid Dynamics Meeting, 1998.
+
+e Jain, R., Conlisk, A. T., Mahalingam, R., and Komerath, N. M., “Interaction of Tip-Vortices in
+the Wake of a Two-Bladed Rotor”, Proc. of the 54th Annual Forum of the American
+Helicopter Society, 1998.
+
+e Matos, C., Mahalingam, R., Ottinger, G., Klapper, J., Funk, R., Komerath, N., “Wind tunnel
+measurements of parafoil geometry and aerodynamics”, 36th AIAA Aerospace Sciences
+Meeting, 1998.
+
+e Mahalingam, R., and Komerath, N. M., “Measurements of the Near-Wake of a Helicopter
+Rotor in Forward Flight”, AIAA Paper 98-0692, 36th Aerospace Sciences Meeting, 1998.
+
+e Mahalingam, R., Komerath, N. M., Funk, R. B., Kim, J. M., "Three- dimensional vortex-
+surface interaction", 7th Asian Fluid Dynamics Congress, 1997.
+
+e Mahalingam, R., Radcliff, T., Conlisk, A.T., Komerath, N.M., "Vortex-Surface Collision: 3-D
+Core Flow Effects", AIAA Paper 97- 1785, 28th Fluid Dynamics Conference, 1997.
+
+e Mahalingam, R., Funk, R. B., and Komerath, N. M., "Low-Speed Canard-Tip-Vortex
+Interaction", SAE Transactions, 106:11, 136-143, 1997.
+
+e Caradonna, F., Henley, E., Silva, M., Huang, S., Komerath, N.M., Reddy, U., Mahalingam, R.,
+Funk, R., Wong, O., Ames, R., Darden, L., Villareal, L., Gregory, J., "An Experimental Study of
+a Rotor in Axial Flight", AHS Specialists’ Meeting on Rotorcraft Aerodynamics and
+Aeroacoustics, 1997.
+
+e Mahalingam, R., Komerath, N. M., “Rotor tip-vortex/airframe collision features”, AlAA-
+1996-2013, 27th AIAA Fluid Dynamics Conference, 1996.
+
+e Mahalingam, R., Funk, R. B., Komerath, N. M., “Flow visualization of low speed
+perpendicular vortex-airfoil interaction” AIAA-1996-2387, 14" Applied Aerodynamics
+Conference, 1996.
+
+e Mahalingam, R., Peterson, K.G., Funk, R.B., Komerath, N.M. Conlisk, A.T., "Recent
+Experiments on Vortex Collision with a Cylinder", Invited Paper, AIAA-95-2236, 26th Fluid
+Dynamics Conference, 1995.
+
+e Google Scholar Index
+
+Since 2015
+
+Citations 994
+
+h-index 18
+i10-index 25

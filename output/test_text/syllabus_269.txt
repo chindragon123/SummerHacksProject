@@ -1,0 +1,139 @@
+PHY f£303K: ENGINEERING PHYSICS I (Summer 2020; First session)
+Unique # 86025
+MTWTHF 10:00 a.m.-11:30 a.m.
+
+1. Instructor: Dr. Maxim Tsoi
+Office hours: TBA or by appointment
+You may contact me via e-mail: tsoifat]physics.utexas.edu
+
+TA: TBA
+E-mail: TBA
+Office hours: TBA or by appointment
+2. Course materials:
+
+Textbook: Ohanian and Markert, Physics for Engineers and Scientists, Volume I, 3rd Ed. This course
+covers chapters 1 through 18. The syllabus represents the nominal amount. Additional
+concepts, if needed in HW problems, will be included.
+
+Canvas: http://canvas.utexas.edu/ contains this Syllabus, provides access to Lectures, Office hours,
+Announcements.
+
+Quest: http://quest.cns.utexas.edu provides access to Homework, Tests, Final, Grades,
+Announcements.
+
+This course makes use of the web-based Quest content delivery and homework server
+system maintained by the College of Natural Sciences. This homework service will
+require a $30 charge per student for its use, which goes toward the maintenance and
+operation of the resource. Please go to http://quest.cns.utexas.edu to log in to the
+Quest system for this class. After the 12th day of class, when you log into Quest you
+will be asked to pay via credit card on a secure payment site. You have the option to
+wait up to 30 days to pay while still continuing to use Quest for your assignments. If
+you are taking more than one course using Quest, you will not be charged more than
+$60/semester. Quest provides mandatory instructional material for this course, just
+as is your textbook, etc. For payment questions, email quest. billing@cns.utexas.edu.
+
+Zoom: hittp://zoom.its.utexas.edu/ will be used to access Lectures, Lecture recordings, Office Hours
+(via Canvas/Zoom). You will not be able to access a Zoom meeting until your upgrade to
+Zoom 5.0 (https://zoom.its.utexas.edu/zoom-upgrade).
+
+3. Prerequisite: Credit with a grade of at least C- or registration in Mathematics 408D, 408L, or 4088S, and
+Physics 103M; and an appropriate score on the physics assessment exam.
+
+4. Quantitative Reasoning: This course may be counted toward the quantitative reasoning flag requirement.
+Quantitative Reasoning courses are designed to equip you with skills that are necessary for understanding the
+types of quantitative arguments you will regularly encounter in your adult and professional life. You should
+therefore expect a substantial portion of your grade to come from your use of quantitative skills to analyze real-
+world problems.
+
+5. Drop deadlines: 6/5 - Last day of the official add/drop period; 6/9 - Last day to drop a class for a possible
+refund; 7/9 - Last day to drop a first-term class, with required approvals.
+
+6. Students with disabilities: The University of Texas at Austin provides upon request appropriate academic
+adjustments for qualified students with disabilities. For more information, contact the Services for Students with
+Disabilities at 512-471-6259, 512-410-6644 (VP) (http://ddce.utexas.edu/disability/).
+
+7. Interactive quiz oriented teaching: We intersperse lectures with interactive quiz (poll) sessions. Questions
+for these "IQ"-questions are chosen to highlight the course materials and give students guidance in doing HW
+problems. Good understanding of textbook examples, IQ questions, and homework problems will help you to
+understand the physics of this course.
+
+8. Study suggestions: Students are responsible for assigned sections of the book even if they are not covered
+in class. Read the material to be covered in class before coming to class, and a second time afterward. Start
+working on your homework problems as soon as they are available and turn your work in as soon as you have
+completed it (you get multiple tries for missed questions). Get help if you have trouble understanding thematerial ! The importance of doing the homework assignments (and understanding them) can not be
+overemphasized. Very few students pass who do not do well in their homework. Please don't fall behind. Also,
+you should work the problems at the end of the chapter, looking for particularly interesting ones to solve in
+addition to those which you have done for homework.
+
+9. Lectures: Synchronous mode: Lectures will take place (live) MTWTHF at 10am; all times here and below
+in Central Daylight Time (CDT) (UTC-5). The lectures can be accessed via Canvas (Canvas calendar will have
+links to all the lectures). Asynchronous mode: the lectures will be recorded and the recordings will become
+available on Canvas shortly after every lecture. Class recordings are reserved only for the use of members
+of this class (students, TAs, and the instructor) and only for educational purposes. Recordings should
+not be shared outside the class in any form. Violation of this restriction could lead to Student
+Misconduct proceedings.
+
+10. Attendance: Class attendance for live lectures is not mandatory but is strongly recommended. Class
+interruptions such as chatting or video interference are unacceptable. Your cooperation in maintaining a good
+atmosphere for learning is required.
+
+11. Formula sheet: The Formula sheet gives the basic formulas/principles which you will be learning in this
+course. We encourage you to use it as your study companion. It is meant to help you to organize the course
+materials, to do homework and to review for exams. Queries on the summary are welcome anytime. You can
+find this summary on Canvas/Files.
+
+12. Homework/Tests/Final: (all online on Quest; see schedule below)
+
+e Homework: The Quest homewrk service handles distribution and collection of the homework (HW)
+on the Web. Submit your HW to Quest expeditiously. No late homework will be accepted. Continue
+submitting answers until due time. Urgent messages related to HWs will be posted on Quest and
+Canvas. Solutions will be available on Quest after the due time.
+
+e Tests: There will be 4 online Tests (also referred to as Midterm Exams). See below for time and
+place of each Test/Exam.
+
+e Final exam: The final exam is comprehensive and mandatory. Friday, July 10, 7:00 pm—10:00 pm.
+
+During each Test/Exam:
+
+e During the exam you can use only SCRATCH PAPER, FORMULA SHEET, PEN/PENCIL,
+CALCULATOR.
+
+e FORMULA SHEET: you can print it out in advance (available on Canvas/Files) or open the
+pdf file in a separate window.
+
+e Academic dishonesty will not be tolerated (see link to University Honor Code).
+
+13. Grading policy:
+e Homework (drop 2) 30%
+e Tests (drop 1) 45%
+e Final 25%
+> Agrade report for each assignment/exam will be available on Quest after the due time. Final course
+Yoscores can be calculated as %score = 0.25*Final + 0.45*Test_average + 0.3*Homework_average.
+Final letter grades will be determined on the basis of the following rubric: A = 94-100; A- = 90-93; B+ =
+87-89; B = 84-86; B- = 80-83; C+ = 77-79; C = 74-76; C- = 70-73; D+ = 67-69; D = 64-66; D- = 60-63; F =
+0-60. Please note: to ensure fairness, all numbers are absolute, and will not be rounded up or down at
+any stage, thus a B- will be inclusive of all scores of 80.000 through 83.999. The University does not
+recognize the grade of A+. A curve may be used after the final exam, if needed, to bump the grades up
+(but not down).
+
+No make up tests will be given. Student is required to take all four Tests. At the end of the semester, the
+Test with lowest score will be dropped. If a student misses a Test, the missing Test will be the one which will
+be dropped. If missing a test is due to a legitimate reason approved by the instructor, the student may
+alternatively choose a no-drop option, where the student's final exam score appropriately scaled may replace
+the score of the missing Test. After a missing test, the student needs to immediately communicate with the
+instructor through email. The student must save the email record and claim the no-drop option at the end of
+the semester. For the no-drop option to be applicable, the student must take the other three Tests.First class reminders:
+e The Syllabus for PHY f3803K can be found on Canvas (http://canvas.utexas.edu/). It provides basics
+and answers most of your questions about this course.
+1°* class: Zoom lecture is at 10am on Thursday, June 4 (access via Canvas/Zoom).
+e Quest Registration: Go to the Web at “https://quest.cns.utexas.edu/student”. Read ‘Getting started
+instructions’: “https://wikis.utexas.edu/display/questla/Getting+Started”.
+e Homework: Download homework #1 (HW01).
+o Notice the due time of homework #1 is at 4am on Tuesday, June 9 (think of it as Monday evening).
+o Instructions for submitting work: “https://wikis.utexas.edu/display/questla/My+Assignments”
+o Announcements related to homework, will be given on Quest and Canvas.
+e All office hours will begin next week: TBA.
+e Check your e-mail for messages about pre/co-requisite compliance. If you get one > contact Melva
+Harbin, Academic Program Coordinator (512-471-8856; mharbin[at]austin.utexas.edu) to correct the
+problem.
