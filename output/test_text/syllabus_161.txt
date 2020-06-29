@@ -1,0 +1,619 @@
+University of Texas at Austin
+
+oT
+
+Course Outline
+
+Economics 329: ECONOMIC STATISTICS-WB
+Summer 2020, Unique Number 79480
+
+Course web site: Canvas at UT-Austin
+
+Instructor: Dr. Valerie R. Bencivenga
+
+Office: BRB 3.102C (UT campus is closed)
+
+Office hours: By email, Piazza, and Zoom (by appointment)
+
+Office phone: 512-475-8509 (do not leave a message, email instead)
+
+Email: Eco329.vrb@gmail.com (course email for most email), benciven@utexas.edu (UT email for confidential matters)
+| check email multiple times per day and usually | will reply within minutes or hours (or by the next day at the latest). Do not leave a
+phone message. Send an email to the course email. Do not use Canvas messaging.
+
+KEY INFORMATION
+
+Because this is an online course, and I won't be greeting you and introducing the course to you in person, I’m
+putting some tips about key information and where to find it here at the beginning of the course outline. The usual
+course outline information then follows.
+
+In this course, you'll watch videoed lectures (and do the associated reading in the textbook), take Canvas quizzes,
+and take three exams on Canvas. You can take this course from anywhere but be aware that the exams will be on
+Canvas, offered in windows of time based on “Austin time” (and Canvas due dates/times use “Austin time”). All of
+the work and materials will be on the Canvas course web site from the start of the course, and you can do the work
+on your own schedule (except for Canvas quiz due dates and scheduled exams).
+
+All students should be concerned about keeping an appropriate pace and studying effectively so that you can do
+well on the exams, which count for 85% of your course grade. Midterm #1 is 15%, midterm #2 is 30%, and the
+final exam is 40%. The Canvas quizzes are 10% and the InstaPolls (pop up questions in lecture videos) are 5%.
+To help you, I’ve created the following tools, which are on Canvas:
+
+e 2020 Summer Teaching & Learning Plan.xlsx. A downloadable Excel spreadsheet with a suggested
+day-by-day schedule for viewing the lecture videos, Canvas quiz due dates, and targeted practice problems
+(organized to coordinate with the lecture videos, links are in the topic modules on Canvas).
+
+e Calendar images (reproduced below).
+
+e ECO 329 Lecture Videos & Reading ONLINE COURSE.pdf. A table of the lecture videos and associated
+reading (reproduced below).
+
+In addition, on Canvas you'll find
+e Details about the course and strategies for learning are on the READ FIRST page.
+
+e Topic modules. Each topic module has links to the lecture videos and a web page with a lot of information
+and links to lecture slides, Canvas quiz questions (so you can do them before opening the quiz), and
+targeted practice problems with detailed solutions.
+
+ 
+
+e 5semesters of old exams for practice. Additional practice problems. Formula sheets and probability tables.
+
+COURSE OBJECTIVES
+
+Economic Statistics is a first course in quantitative methods that are widely used in economics and business. The
+main objectives of this course are to
+
+e explore methods for describing data
+e teach students how to build and analyze probability models of economic and business situations
+
+e introduce a variety of statistical methods used to draw conclusions from economic data, and to convey the
+conceptual and mathematical foundations of these methods
+
+e lay a foundation for econometricsCOURSE DESCRIPTION
+
+SEGMENT 1. The unit on descriptive statistics covers methods for describing the distribution of data on one or
+more variables, including measures of central tendency and dispersion, correlation, frequency distributions,
+percentiles, and histograms.
+
+In economics and business, we specify a probability model for the random process that generated the data (data-
+generating process, or DGP). The unit on probability theory covers the set-theoretic foundations of probability
+
+and the axioms of probability; rules of probability derived from the axioms, including Bayes’ Rule; counting rules;
+and joint probability distributions. MIDTERM #1.
+
+SEGMENT 2. Random variables are probability models of random quantities and events. We study the binomial,
+hypergeometric, and Poisson distributions, which are discrete random variables (used, for example, in quality
+control and to forecast customer arrivals). We study the uniform and normal distributions, which are
+continuous random variables (providing models of the amount of time to complete a task, or wages, for
+example). Random variables allow us to compute probabilities of events (for example, the probability a portfolio
+loses money, or the probability a bid wins in an auction). The chi-square, Student t, and F distributions, which
+are related to the normal distribution, are introduced for use later in this course and in econometrics (may be
+covered in the unit on sampling theory).
+
+Sampling theory builds probability models of the impact of randomness in the DGP on statistics we compute from
+data. We derive sampling distributions of various statistics in the context of different DGPs. The Central Limit
+Theorem sometimes allows us to derive approximate sampling distributions even when we don’t know much
+about the DGP. Part of sampling theory is covered in Segment 2. MIDTERM #2.
+
+SEGMENT 3. Sampling distributions provide a basis for choosing an estimator of a population parameter, and
+they allow us to calculate confidence intervals from data (intervals that quantify uncertainty in our estimates of
+parameters of the DGP, such as the true mean rate of output of a production process, or the true variance of the rate
+of return on a portfolio). We also develop hypothesis tests for a set of DGPs. Statistical inference (estimation and
+hypothesis testing) about one parameter of a single population and about the relationship between parameters
+across two populations are considered. FINAL EXAM.
+
+PREREQUISITES
+Grades of at least C- in ECO 304K and L and in MATH 408C and D or MATH 408K and L (or the equivalent)
+
+TEXTBOOK AND OTHER REQUIRED MATERIALS
+
+The required textbook is PROBABILITY AND STATISTICS FOR ENGINEERING AND THE SCIENCES, 9* edition,
+by Jay DEVORE (Cengage). The textbook is available in a hardcover edition for purchase. Alternatively, you can
+rent the textbook, which is less expensive. Here is the link to the Cengage web site, which has that option:
+
+ 
+
+LECTURE VIDEOS
+
+The topic modules on Canvas (Topics 1 through 10) have links to the lecture videos. You can watch the lecture
+videos as many times as you want but InstaPolls vanish once you pass them (see below). You are responsible for all
+material covered in the lectures.
+
+EVALUATION
+
+Your course score will be based on midterm exam #1 (15%), midterm exam #2 (30%), a final exam (40%),
+Canvas quizzes (10%), and InstaPoll questions (5%). Your course score will be computed as a weighted
+average, using your percentage scores on these components. A course grade will be assigned based on your course
+score relative to the distribution of course scores in the class together with an absolute standard that reflects
+required minimum knowledge needed for using statistics and for subsequent courses. Pluses and minuses will be
+used.
+
+The percentage of students receiving any particular letter grade is not predetermined. It is possible for all students
+to get aC or above, and for the large majority to receive an A or a B. However, lower grades will be assigned to
+students who do not demonstrate adequate proficiency and knowledge of the material.
+
+Curve. In this course, exam scores are “curved” by adjusting the “denominator” (dividing by a number less than the
+point total of the exam, which effectively converts some points to “extra credit”), and by setting cutoffs between
+letter grades. After MT#1, I will post tentative cutoffs (percentage scores) between A, A-, B+, etc. After MT#2, I will
+announce updated tentative cutoffs, based on the distribution of a weighted average of MT#1 and MT#2 scores. At
+the end of the semester, I will post final cutoffs for course grades, based on the distribution of course scores.
+
+2EXAMS
+
+Exams will be open-book, open-notes exams taken on Canvas, on the "quizzes" tab. They will be timed exams
+offered during a window of time. You must take the exam within the window, and the allowed time starts when
+you open the exam, but you will have some flexibility as to when you start the exam.
+
+During the spring 2020 semester, once the UT campus closed, I broke MT#2 and the final exam into pieces that
+students took on consecutive days. I may do that for the Summer 2020 course, as well, because students seemed to
+like this. I plan to ask the class about this by sending a Canvas announcement. I will set the windows of time for
+the exams once it is decided whether or not the exams will be broken into pieces.
+
+Exam dates
+
+e MT#1: June 22 or June 22 and 23 if broken into two pieces
+e MT#2: July 9 or July 9 and 10 if broken into two pieces
+e Final exam: July 30 or July 29 and 30 if broken into two pieces
+
+Let me know immediately if you have a conflict that prevents you from taking any of the exams on the scheduled
+dates. If you have a conflict with another class or exam, I will schedule your exam at an alternate time. I give
+alternate time exams only to students who legitimately need them. If you do not notify me of a conflict by Friday
+June 12 at noon, you will be required to take the exams at the scheduled times unless an emergency arises.
+
+That being said, in the unusual circumstances that prevail during the coronavirus pandemic, please email me at
+any point in time about problems that you are having if they affect your ability to study and to do the work
+in this course. While I do need information about students’ schedules for planning, and I do need to maintain
+some deadlines in order to give grades, I will help you if I can.
+
+If you require an accommodation for a disability, please let me know about it as soon as possible, even if you don't
+yet have your accommodation letter from Services for Students with Disabilities. See the section on
+accommodations for students with disabilities (below).
+
+Students who have an accommodation letter must send a pdf of their accommodation letter to the course
+gmail. I'll reply and that will initiate the discussion about how the accommodations will be provided. The notice I
+receive from SSD that your accommodation letter is available in the portal is not sufficient. It is the student's
+responsibility to contact me directly and to provide the pdf of the letter.
+
+There will be no makeup midterms. If you miss a midterm due to illness, a personal emergency, or other valid
+reason, and if you provide me with documentation of the event, I will re-weight your other exams. An illness or
+emergency must be serious and unavoidable, and documented, in order for you to be excused. Otherwise, you will
+receive a zero for the missed exam. Contact me by email as soon as possible, to discuss your situation.
+
+You must take the final exam at the scheduled or arranged time unless you have a valid, documented reason. A
+request to take the final exam at an alternate time should be made well ahead. If an illness or emergency prevents
+you from writing the final exam at the scheduled or arranged time, contact me by email at the earliest opportunity.
+If the illness or emergency is serious and unavoidable, and documented, you will receive an incomplete for the
+course, and a makeup final exam will be arranged, which may be during the following semester. If you are excused
+from MT#2 and the final exam, you will be required to make up both of them (even if you have taken MT#2).
+
+CANVAS QUIZZES
+
+There are quizzes on Canvas, with due dates, that count as part of your course score. Point values of Canvas
+quiz questions vary. The number of questions and point values of Canvas quizzes vary. Each Canvas quiz answer is
+either correct (full points) or wrong (zero points). Each quiz gives you two attempts and the last attempt
+counts (not the highest).
+
+You take the Canvas quizzes using the “Quizzes” tab on Canvas. Canvas quiz questions also are posted in the
+Canvas “topic modules”, so you can solve them before opening the Canvas quiz. | recommend this, because
+opening a Canvas quiz counts as an attempt. You may work together on the Canvas quizzes (but you should
+make sure you understand every solution in order to learn from the quizzes).
+
+Answers will be discussed in the problem-solving sessions but will not be posted on Canvas.
+
+The Canvas quizzes provide essential opportunities for you to learn the material of this course. The questions are
+excellent preparation for the exams. Many of the questions are old exam questions. Many of the questions are
+accompanied by “hints” about how to think about the question, and how to approach it. Absorbing these hints will
+help you learn. Leave enough time to take full advantage of the learning opportunity each Canvas quiz provides.
+
+3INSTAPOLL QUESTIONS
+
+There are InstaPoll (pop-up) multiple choice questions embedded in the lecture videos. InstaPolls may pop up
+during the lecture or at the end. There are approximately 130 InstaPolls over the course. Each InstaPoll answer is
+correct or incorrect. InstaPoll questions are weighted equally. When an InstaPoll pops up, that is your only
+opportunity to answer. Once you answer, or if you pass the InstaPoll, it vanishes permanently. Do not scroll
+ahead or click ahead in the video. Any InstaPoll you pass will be lost permanently. All of the InstaPolls will be
+scored (“graded”) at the end of the course (on July 29).
+
+PROBLEM-SOLVING SESSIONS (OPTIONAL)
+
+Most Wednesdays and Fridays, the TA’s will hold a problem-solving session where they go over Canvas quiz
+answers (after the due date) and solve selected practice problems from the Excel spreadsheet, to help students
+prepare for upcoming Canvas quizzes and exams.
+
+If the TA’s are able to hold the problem-solving sessions synchronously on Zoom, the times will be posted and the
+synchronous session will be recorded and posted on Canvas. Otherwise, the TA’s will record the problem-solving
+sessions and post them. Watch for Canvas announcements about the problem-solving sessions.
+
+The problem-solving sessions are optional but strongly recommended.
+
+CANVAS
+
+See the “READ FIRST” page on Canvas for an overview of the course, including the resources available on Canvas.
+There’s a link to “READ FIRST” on the home page, and you can find it directly in the “Schedule of work and
+information about graded work” module.
+
+PIAZZA
+
+This course will use Piazza, a discussion board that is built directly into the Canvas course web site. On Piazza,
+students can submit questions related to the content of the course that other students might benefit from seeing.
+Students are encouraged to answer each other’s questions. There's no better way to be sure you understand
+something than to explain it to others! I will check Piazza regularly to answer questions and to “endorse” good
+answers submitted by students.
+
+COMMUNICATION
+
+You are responsible for all information posted on Canvas, including Canvas announcements. The TA’s and I will use
+Canvas announcements to communicate with students. I strongly recommend you set up Canvas so that
+announcements are emailed to you. You are responsible for all information in email exchanges directly between
+you and me, and between you and the TA’s. Emails from the TA’s and me may come from our UT email addresses,
+
+or the course gmail, Eco329.vrb@gmail.com.
+OFFICE HOURS
+
+I will hold office hours by email and Piazza, and using Zoom (by appointment). I strongly encourage students to
+sign up for Piazza and to use it for content questions - Piazza is great! Snips (images) can be embedded which
+makes it easy to ask and answer questions about mathematical material. I monitor Piazza fairly continually.
+
+For email, please use Eco329.vrb@gmail.com which is the course gmail. Feel free to embed or attach snips or
+photos so that you can refer to details in your question. I will answer email promptly - usually within hours and
+definitely by the next day. Usually weekends are the same but occasionally on a weekend it might take me a bit
+longer to reply.
+
+The TA’s will hold Zoom office hours as well as offering the optional problem-solving sessions. See the Canvas
+module called “Office hours and TA information” for updates on TA office hours.
+
+TEACHING ASSISTANTS
+
+TA names, and TA office numbers, office hours, and email addresses will be posted on Canvas.SCHEDULE OF TOPICS AND READING
+
+Below is a schedule of the videoed lectures together with the pdf's of the lecture slides (posted on Canvas) and the
+textbook reading. This schedule is also posted on Canvas in the “Schedule of work and information about graded
+work” module in a document with the title “ECO 329 Lecture Videos & Reading ONLINE COURSE.pdf”.
+
+On Canvas, you'll find a page that has a calendar of topics, Canvas quizzes, and exams (same module). These
+calendar images are reproduced below.
+
+On Canvas, you'll also find a downloadable Excel spreadsheet that has a day-by-day timetable of topics, Canvas
+quizzes, suggested dates for viewing the videoed lectures, the number of InstaPoll questions for each lecture, and
+practice problems that are available in the topic modules. “Schedule of work and information about graded work”
+module.
+
+ECO 329 Lecture Videos & Reading ONLINE COURSE Gt (also posted on Canvas):
+
+Lecture titles (and video titles) Lecture slides (file names) op
+
+1: Introduction | Introduction and the Nature of Economic | 53:02 Or tinwOLECTURE 1 intro LECTURE
+Data
+
+2: Descriptive Part 1, Lecture 1: Measures of Central : 02-1 eee LECTURE 1
+
+Statistics Tendency
+Part 1, Lecture 2: Measures of Dispersion : 02-1 descriptive LECTURE 2 Skip boxplots
+Part 1, Lecture 3: Linear Transformation : 02-1 descriptive LECTURE 3
+Part 2: Covariance and Correlation 02-2a descriptive LECTURE
+
+3: Frequency Part 1: Frequency Distributions and 1:20:40 | 03a freq dist LECTURE 1. Skip stem and leaf
+Distribution Grouped Data plots and dotplots
+
+4: Probability Part 1: Set Theory and the Axioms of :06: 04-1 prob
+Theory Probability
+Part 2: Rules of Probability :07: 04-2 prob
+
+Part 3, Lecture 1: Bayes Rule and 12: 04-3 prob LECTURE ONE Bayes Rule is in 2.4
+Bivariate Probability Distributions
+Part 3, Lecture 2: Counting Rules : 04-3 prob LECTURE TWO
+MIDTERM #1
+
+5: Discrete Part 1: Random Variables and 41: 05-1 discrete rv 1
+
+Random Mathematical Expectations
+
+Variables Part 2: Joint Probability Distributions :09: 05-2 discrete rv 2 1,5. Part 2: Absorb the
+Part 3, Lecture 1: Binomial Random :10: 05-3 discrete rv 3 LECTURE ; discussion about
+Variable 1 binomial jointly distributed
+Part 3, Lecture 2: Poisson Random : 05-3 discrete rv 3 LECTURE discrete random
+Variable 2 Poisson variables. Re-read
+Part 3, Lecture 3: Hypergeometric 05-3 discrete rv 3 LECTURE ; the discussion about
+Random Variable 3 hypergeometric jointly-distributed
+Review Questions: Binomial, , No posted file (InstaPoll , continuous random
+Hypergeometric and Poisson questions) variables along with
+Distributions the next topic. Skip
+
+Ex 5.8.
+
+6: Continuous Part 1: Continuous Random Variables 34: 06 continuous rv 1
+
+Random Part 2: Continuous Random Variables :50: 06 continuous rv 2 ; 4.3: Skip the
+
+Variables binomial
+
+approximation to the
+
+Part 3: Continuous Random Variables: : 06 continuous rv 3 NORMAL | 4.6 normal distribution
+Normal Plot Skip 4.4, 4.5
+
+7: Sampling Part 1: Sampling Theory 52: 07 sampling 1 (BEFORE
+
+Theory MT#2)
+MIDTERM #2
+Part 2: Sampling Theory :38: 07 sampling 1 (AFTER
+
+MT#2)
+Review Questions: Sampling Theory , No posted file (InstaPoll
+questions)8: Point and
+Interval
+Estimation
+
+9: Hypothesis
+Testing
+
+10: Two
+Populations:
+Hypothesis
+Tests and
+Confidence
+Intervals
+
+Part 1: Point and Interval Estimation
+
+Part 2: Properties of Estimators
+
+Part 1: Conceptual Framework for
+Hypothesis Tests
+
+Part 2: Hypothesis Testing: Success
+Probability of a Bernoulli Population
+Part 3: Hypothesis Testing: Population
+Mean
+
+Part 4: Hypothesis Testing: Normal
+Population, Variance
+
+Part 5: Rejection Regions, Confidence
+Intervals, and P-Values
+
+Part 1: Two Populations: Hypothesis
+Tests and Confidence Intervals
+
+Part 2: Hypothesis Tests and Confidence
+Intervals: Two Bernoulli Populations,
+Large Samples
+
+Part 3: Hypothesis Tests and Confidence
+Intervals: Variances of Two Normal
+Populations
+
+FINAL EXAM
+
+08-1 point & interval est
+LECTURE
+
+08-2 properties of
+estimators LECTURE
+
+09-1 hyp testing intro
+LECTURE
+
+09-2 Bernoulli pop LECTURE
+
+09-3 population mean
+LECTURE
+
+09-4 normal pop, variance
+LECTURE
+
+09-5 p-values etc LECTURE
+
+10-1 two pops, diff between
+means LECTURE
+
+10-2 two Bernoulli pops
+LECTURE
+
+10-3 two normal pops, diff
+between variances LECTURE
+
+Skip prediction
+interval, tolerance
+intervals
+
+Skip Ex 6.8, skip 6.2,
+skip the score Cl for p
+
+Skip simultaneous
+testing, likelihood
+ratio principle
+Skip to pooled t
+procedures in 9.2These calendar images are also posted on Canvas (see the “Calendar Images SUMMER 2020 ONLINE COURSE?” page):
+
+Today
+
+Today
+
+ 
+
+< > June 2020
+SUN MON
+31 Jun 1
+7 8
+[es Oy eee ee eet es
+TOPIC 2 - part 2
+14 15
+fe) oe ee ee et
+21 22
+28 29
+fe) eke a
+< > July 2020
+SUN MON
+28 29
+eee
+2 ©
+12 13
+eo et eee
+19 20
+TOPIC 10 - part 1
+26 27
+
+Canvas quiz #16 - Hypothe
+Canvas quiz #17 - Hypothe
+
+ 
+
+| |
+
+ 
+
+       
+
+Q (?) {93 Month +
+TUE WED THU FRI SAT
+2 oO 4 5 6
+FIRST CLASS DAY (9-week eel ete ute
+TOPIC 1 B00) eye
+9 10 11 12 13
+Canvas Quiz #1 - Discrete v tented it 8 Canvas Quiz #2 - Linear trai Problem-solving
+TOPIC 3 aie er Sosa TOPIC 4 - part 2 B00 er Sos amon oe
+16 17 18 19 20
+Canvas quiz #3 - Frequency tet et S Or eoRs peda e atte | Problem-solving
+23 24 25 26 27
+
+Bie). enna a Problem-solving ere rae soe littl mit lies Le
+
+fe ee ee tk
+
+TOPIC 5 - part 3, lectures 2
+
+30 Jul 1
+Problem-solving
+
+B00) OW Ae ae) ee
+
+Canvas quiz #6 - Discrete ri tetas ete Canvas quiz #8 - Binomial z Title ee Dh
+
+eee rae Seems Altre Canvas quiz #9 - Poisson r
+
+ 
+
+2
+THU
+2
+9
+16
+
+Video "DUE" TODAY - Topic
+
+| "
+
+ 
+
+les ea ees
+
+Q @ = & = Month ~
+TUE WED FRI SAT
+30 Jul 1 4
+
+Coe rae ei Problem-solving Canvas quiz #8 - Binomial z oh lies Le
+
+  
+ 
+    
+
+iene mente Bh
+
+Canvas quiz #7 - Bivariate | Oreos | rae ee ae ae TOPIC 7 - BEFORE MT#2
+
+TOPIC 6 - part 2 Video “DUE” TODAY - Topic
+
+ 
+
+10 11
+
+Canvas quiz #10 - Uniform ete tie ets Vite tines LE ed UT - Nine-week classes do not meet
+
+Canvas quiz #11 - Normal r MT#2 Jul 9 & 10 if in 2 piec See cel tee ute
+
+ 
+
+ciel tree aia aE 7,
+
+—_
+
+ 
+
+17 18
+
+Canvas quiz #12 - Samplin ete tie ets Canvas quiz #13 - Sampling Problem-solving
+TOPIC 8 - part 2 ie ee Ree wd Bie lek Ba as Ets oh Bes ees)
+
+21 22 23 24 25
+Canvas quiz #14a - Confide ete mle eS Canvas quiz #15 - Hypothe: Problem-solving
+conan adz #40 Proven TORCTO-mAS A io”
+TOPIC 10 - part 2
+
+28 29 30 31 Aug 1
+
+Last class day (nine-week a ee Cs
+
+Final review Final PART 1 if in 2 pieces ait ee aleeQUANTITATIVE REASONING FLAG. This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are
+designed to equip you with skills that are necessary for understanding the types of quantitative arguments you will regularly
+encounter in your adult and professional life. You should therefore expect a substantial portion of your grade to come from
+your use of quantitative skills to analyze real-world problems.
+
+ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES. A student with a disability may request academic accommodations
+from Services for Students with Disabilities (512-471-6259, http: //diversity.utexas.edu/disability/). SSD accepts
+documentation of the disability, and provides the student with letters for their instructors stating the appropriate
+accommodations. SSD also provides guidelines for informing instructors about needed accommodations.
+
+Let me know of any accommodation(s) you will need as early in the session as possible, even if you don’t have your
+accommodation letter yet. In order to receive an accommodation, I need either the SSD letter or knowledge that the letter is
+on its way at least as far ahead as specified by SSD guidelines for informing instructors. (If you receive an accommodation, |
+will need your SSD accommodation letter in order for your score to count toward your course grade.)
+
+RELIGIOUS HOLY DAYS. By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, or an assignment, in order to observe a
+religious holy day, you will be given an opportunity to complete the missed work within a reasonable amount of time after the
+absence.
+
+ 
+
+ACADEMIC INTEGRITY. Each student in this course is expected to abide by the University of Texas Honor Code:
+
+“The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the university is expected to uphold these values through
+integrity, honesty, trust, fairness, and respect toward peers and community.”
+
+On all graded work in this course, you are expected to submit work that is your own. On homework and quizzes, you are
+welcome to discuss with others how to approach a problem, but the last step before you submit your answer should be that
+you solve the problem yourself. However, discussion in class about clicker questions is allowed and encouraged.
+
+During exams, you must do your own work. Unless it is explicitly allowed, you may consult only the materials provided as
+part of the exam, and you may not look at notes, books, articles, etc., whether yours or anyone else’s. No communication of
+any kind is permitted between students during exams (written, verbal, non-verbal, etc.). You may not look at another
+student’s work, and you may not show another student your work. Any such behavior during the examinations will result in
+failure of the exam, and may lead to failure of the course and University disciplinary action.
+
+USE OF EMAIL FOR OFFICIAL CORRESPONDENCE TO STUDENTS. All students should become familiar with the University's
+official email student notification policy. It is the student's responsibility to keep the University informed of any changes in his
+or her email address. Students are expected to check email on a frequent and regular basis in order to stay current with
+University communications, recognizing that certain communications may be time-critical. This includes emails from
+instructors. It is recommended that email be checked daily.
+
+EMERGENCY EVACUATION. From the Office of Campus Safety and Security (512-471-5767,
+http://www.utexas.edu/safety/):
+o Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings when a fire
+alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+o Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that the nearest
+exit door may not be the one you used when entering the building.
+o Students requiring assistance in evacuation shall inform their instructor in writing during the first week of class.
+o Inthe event of an evacuation, follow the instruction of faculty or class instructors.
+o Donotre-enter a building unless given instructions by the following: Austin Fire Department, The University of Texas
+at Austin Police Department, or Fire Prevention Services office.
+o Behavior Concerns Advice Line (BCAL): 512-232-5050
+o Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+
+utexas.edu/emergency.
+
+BEHAVIOR CONCERNS ADVICE LINE (BCAL). If you become worried about someone who is acting differently, you may call the
+Behavior Concerns Advice Line at 512-232-5050 to discuss your concerns about their behavior. This service is provided by
+the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance Program (EAP),
+and the University of Texas Police Department (UTPD). Visit http://www.utexas.edu/safety/bcal for more information.

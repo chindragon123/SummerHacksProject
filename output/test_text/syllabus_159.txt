@@ -1,0 +1,298 @@
+Health Economics: Eco F325K- Summer 2020
+Unique Number: 79470
+
+Instructor: Dr. Helen Schneider Class Time: MTWTHF
+Class Location: Lectures Online
+Office Hours: Mondays: 1:30-2:30
+E-mail: h.schneider@eco.utexas.edu Wednesdays: 1:30-2:30
+or by appointment
+TA: Akiva Yonah Meiselman
+
+yonah.meiselman@gmail.com
+TA Zoom Office Hours: Tuesdays, 9-11
+
+INTRODUCTION
+
+Health care is an exciting and evolving field in which government policies play a vital role. The
+course is designed for undergraduate students who seek an understanding of how to apply basic
+microeconomic tools to the study of health and medical care issues. This course will examine the
+special features of medical care as a commodity, the demand for health and medical care services,
+the economic explanations for the behavior of medical care providers, the functioning of insurance
+markets, federal health insurance programs, and regulation. Finally, this course will examine ideas
+for health care reform. Empirical results, current issues, and policy applications will be discussed
+throughout the course. JkoS A
+
+Prerequisites: Intermediate Microeconomics (420K) is an essential prerequisite for this course.
+If it’s been a while since you took intermediate microeconomics, the textbook provides a review in
+Chapter 2. Chapter 3 reviews statistical tools for health economics.
+
+COURSE MATERRIALS
+
+Required Reading: The Economics of Health and Health Care, Folland, Goodman and Stano, 8"
+Edition (Taylor & Francis, 2017)
+
+Additional Reading: Additional required and optional readings from sources other than the
+textbook will be posted on the course website (see below).
+
+The course outline gives the chapters and articles that correspond to the lectures. For better
+understanding of the course material the assigned reading must be finished before the class
+recording.
+
+Website: Course material will be on the university’s Canvas system. Lectures will be recorded
+daily and posted on Lectures Online tab. All assignments will be posted on Canvas and discussed
+in lecture recordings. This class will also use the Grades feature on Canvas so that students can
+keep track of their scores on assignments and exams.
+
+POLICY ON STUDENTS WITH DISABILITIES
+The University of Texas at Austin provides upon receipt appropriate academic adjustments for
+
+qualified students with disabilities. For more information, contact the Office of the Dean of
+Students—Services for Students with Disabilities, 471-6259.SCHOLASTIC DISHONESTY POLICY
+
+Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University. Since such
+dishonesty harms the individual, all students, and the integrity of the University, policies on
+scholastic dishonesty will be strictly enforced.
+
+Writing Flag: This course carries the Writing Flag. Writing Flag courses are designed to give
+students experience with writing in an academic discipline. In this class, you can expect to write
+regularly during the semester, complete substantial writing projects, and receive feedback from
+your instructor to help you improve your writing. You will also have the opportunity to revise one
+or more assignments, and you may be asked to read and discuss your peers’ work. You should
+therefore expect a substantial portion of your grade to come from your written work. Writing Flag
+classes meet the Core Communications objectives of Critical Thinking, Communication, and
+Personal Responsibility, established by the Texas Higher Education Coordinating Board.
+
+Writing Center: I strongly encourage you to use the Undergraduate Writing Center, FAC 211,
+471-6222: http://www.uwc.utexas.edu/). The Undergraduate Writing Center offers free,
+individualized, expert help with writing for any UT undergraduate, by appointment or on a drop-
+in basis. Any undergraduate enrolled in a course at UT can visit the UWC for assistance with any
+writing project. The consultants there work with students from every department on campus, for
+both academic and non-academic writing. Their services are not just for writing that has
+"problems." Getting feedback from an informed audience is a normal part of a successful writing
+project. This summer zoom consultations are available to all students.
+
+EVALUATION AND GRADING
+
+I. Writing Assignments. Note that the total for all writing assignments is 50% of your grade. The
+course outline provides the relevant dates for all writing assignments. Each is due on the due date.
+Lateness at any stage results in a loss of at least one letter grade on that assignment.
+
+Research Paper. This course is a substantial writing component for undergraduates. Thus, a
+significant paper is due at the end of the semester. For us to discuss how to do that research, you
+will have to submit a first draft and final paper. You must choose a proposed or legislated health
+care policy to write about. The paper must describe the policy and provide an economic analysis
+that draws upon economic models discussed in class.
+
+I would like you to start thinking early of a research topic. Feel free to talk to me about your topic,
+your sources and approaches you can take in doing your research. Due dates along the way will
+help guarantee progress.
+
+There are several sources you could use to find a topic. One is simply to follow the policy debates
+in the newspapers and magazines. Second is to look at the policies discussed in the class. A third
+way is to browse through recent issues of economic policy journals, or the web pages of research
+and policy institutions. I will be posting current articles on health economics topics on Canvas that
+will guide you through the current health care issues.
+
+The first draft should state the question you want to address, discuss the importance of your study
+(i.e. why it is an important public policy issue) and it should include some literature review. It
+should also develop a theoretical model. Illustrate your analysis with a graphical presentation ifappropriate. If your graphs are not incorporated into the text of your paper, please provide a clear
+connection between graphs and text. You will upload your first draft on Canvas and comments
+will be provided electronically. Each of you will then revise your first draft and submit final paper.
+
+Short Paper. One assignment will count for 10% of your final grade. Short paper will be strictly
+limited to 3 typed double-spaced pages in order to encourage succinct and incisive reasoning. Topic
+will be announced in class.
+
+II. Tests. There will be one midterm and a comprehensive final exam. If you have an emergency
+that prevents you from taking an exam, I need to be notified by e-mail no later than the day of the
+exam. There will be no make-up exams for the midterm. Should dire circumstances (e.g. illness)
+prevent you from taking this test, its weight will be added to your final exam.
+
+III. Problem Sets. Three problem sets will count towards your final grade. All assignments may
+be obtained at the class web page. Collaboration among students in working out problem sets is
+encouraged, but you must write up your own homework. Questions very similar to the problem
+sets will appear on the exams. It behooves you to make sure that you understand and can present
+the solutions to problems on your own in spite of working on the material with one another.
+Turning in identical problem sets will result in a zero for both parties. Problem Sets will be
+electronically uploaded on Canvas. Problem sets WILL NOT be accepted late. This is an absolute
+policy. Please do not ask for extensions. Answer keys will be posted after the due date.
+
+Grading Policy:
+Approximate __ Percentage of
+
+Requirement Paper Length Final Grade
+Problem Sets 5
+Midterm 20
+Short Paper 2-3 pages 10
+First Draft 4-5 pages 20
+Final Paper 5-7 pages 15
+Final Exam 30
+
+100COURSE OUTLINE AND READING LIST
+
+This is only a suggested outline and is subject to change, unlike the exam dates, which are fixed.
+Any readings that are not from the textbook are posted on Canvas.
+
+FGS=Folland, Goodman and Stano, 8" edition
+t Topic
+
+ry
+
+The Production of Health
+Demand for Health Capital
+
+Demand for Health Capital
+
+Government Policy Towards
+Health Behavior
+
+Special Topic:
+
+Economics of Obesity
+
+6/10
+
+6/11
+
+Risk and Insurance
+
+The Economics of Moral Hazard
+Measuring Health Care Demand
+Elasticity
+
+Problem Set I Posted
+
+6/12
+
+Employer Provision of Health
+Insurance and Its Implications
+
+The Uninsured
+
+a
+~
+
+Asymmetric Information and
+Health Insurance
+Short Paper Assignment Posted
+
+Reading Assignment
+
+TH ¢_FGS, Chapter |
+
+e Newhouse, Joseph P. “Medical Care Costs:
+How Much Welfare Loss?” Journal of
+Economic Perspectives, 6(3), 1992, 3-21.
+
+e FSG, Chapter 5
+
+e FGS, Chapter 7
+
+e Corman, et al. “Birth Outcome Production
+Function in the United States.” Journal of
+Human Resources 22, 1987 339-60
+
+e Sommers et al. “Changes in Mortality after
+Massachusetts Health Care Reform.” Annals of
+Internal Medicine 160(9), 585-593.
+
+e FSG, Chapter 23
+
+e Cutler, et al. “Why Have Americans Become
+More Obese?” Journal of Economic
+Perspectives 17(3), 2004, 93-118.
+
+W_ ss! Special Topic: e Phelps, Chapter 4
+Demand for Medical Care
+
+e FGS, Chapter 8
+
+e Pauly, Mark. “The Economics of Moral
+Hazard,” American Economics Review 58:3,
+March 1968, 531-537.
+
+e FGS, Chapter 9
+
+e Manning et al. “Health Insurance and the
+Demand for Medical Care: Evidence from a
+Randomized Experiment.” American
+Economic Review 77:3, June 1987, 251-277.
+
+e Finkelstein et al. "The Oregon Health
+Insurance Experiment: Evidence from the First
+Year.” Quarterly Journal of Economics,
+127(3), 2012, 1057-1106.
+
+e FGS, Chapter 10
+
+e Graves and Gruber. “How Did Health Care
+Reform in Massachusetts Impact Insurance
+Premiums?” American Economics Review
+102(3), 2012.
+
+e FGS, Chapter 11
+
+e Abraham and Royalty. “How Has the
+Affordable Care Act Affected Work and
+Wages?” LDI Issue Briefs 21(3), 2017.
+
+e Kuttner, R. “The American Health Care
+System-Health Insurance Coverage.” NEJM,
+344(14), April 5 2001.4
+o
+
+ry
+
+hee
+
+6/17 W_| Short Paper Discussion FGS, Chapter 12
+Managed Care
+Problem Set 1 due
+6/18 Health Care Reform in the US FSG, Chapter 22
+Chandra, et al. “The Importance of the
+Massachusetts.” NEJM January 12, 2011.
+6/19 Supply of Medical Care: FSG, Chapter 13
+Hospitals Reinhardt, Uwe. “The Economics of For-Profit
+Short Paper due and Not-For-Profit Hospitals.” Health Affairs,
+Paper Discussion! 19:6, 178-185.
+T
+.
+Physicians
+TH | Health Care Labor Markets and | e FSG, Chapter 16
+Professional Training
+6/26
+Technology in Medicine Technological Change in Medicine Worth It?”
+First Draft Due Health Affairs, 20(5), 2001, 11-29.
+Problem Set 2 posted Hamilton and McManus. “The effect of
+Insurance Mandates on Choices and Outcomes
+in Infertility Treatments Markets.” Health
+Economics, Sep 9, 2011.
+"
+Drug Pricing and Profits
+Consumer Advertising DTCA for Prescription Drugs. Medical Care
+Research and Review, 66(6), 2009, 639-657.
+Equity, Efficiency, and Need e FSG, Chapter 18
+Government Regulation & e FSG, Chapter 19
+Government Failure
+Problem Set 2 due
+Medicare
+Systems
+Problem Set 3 posted
+Comparative Health Care e Lu, Jui-Fen Rachel and William C. Hsiao.
+Systems “Does Universal Health Insurance Make Health
+Care Unaffordable? Lessons From Taiwan.”
+
+Individual Mandate-Evidence from
+6/22 |M_ | Review
+Special Topic: e Cutler, David M and Mark McClellan. “Is
+6/30 Special Topic: Direct to e Atherly and Rubin. The Cost-Effectiveness of
+Comparative Health Care e FSG, Chapter 21
+Health Affairs, 22(3), 2003, pp. 77-88.
+
+Special topics
+
+Problem Set 3 due
+Final Paper Due
+
+7/10 F Final Exam, take home (9-5)

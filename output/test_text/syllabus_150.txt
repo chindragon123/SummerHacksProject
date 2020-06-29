@@ -1,0 +1,1640 @@
+EDUCATION
+1999
+
+1997
+
+1994
+
+1994
+
+EXPERIENCE
+2014-present
+
+2008-2014
+
+2007-2008
+
+2005-2006
+
+2000-2005
+
+6/2/2020
+
+CHAD MATTHEW LANDIS
+
+Professor
+
+Aerospace Engineering and Engineering Mechanics
+
+The University of Texas at Austin
+1 University Station, C0600
+2617 Wichita Street, Austin, TX 78712-1221
+(512) 471-4273
+landisQutexas.edu
+http: //www.ae.utexas.edu/~ landis
+
+Ph.D., Mechanical and Environmental Engineering
+University of California, Santa Barbara
+
+M.S., Mechanical and Environmental Engineering
+University of California, Santa Barbara
+
+B.S.E., Mechanical Engineering and Applied Mechanics
+University of Pennsylvania
+
+B.S., Economics (Finance)
+University of Pennsylvania, Wharton School of Business
+
+Professor, Aerospace Engineering and Engineering Mechanics, The
+University of Texas at Austin
+Aerospace Engineering and Engineering
+
+Associate Professor,
+
+Mechanics, The University of Texas at Austin
+Aerospace Engineering and Engineering
+
+Assistant Professor,
+
+Mechanics, The University of Texas at Austin
+
+Associate Professor, Mechanical Engineering and Materials Science,
+Rice University
+
+Assistant Professor, Mechanical Engineering and Materials Science,
+Rice University1999-2000
+
+1995-1999
+
+Postdoctoral Fellow, Division of Engineering and Applied Sciences,
+
+Harvard University, advisor: Professor John W. Hutchinson
+
+Research Assistant in the Department of Mechanical and
+Environmental Engineering, University of California, Santa
+Barbara, advisor: Professor Robert M. McMeeking
+
+HONORS AND AWARDS
+
+2019
+2018
+2016-present
+
+2012-2016
+2014
+2013
+2008
+
+2005
+2003
+2003
+1995,1997-1998
+
+ACTIVITIES
+
+Lockheed Martin Excellence in Teaching Award
+LUNAR Council Teaching Award
+
+M.J. Thompson Regents Professorship in
+
+Aerospace Engineering and Engineering Mechanics
+Chevron Fellowship in Engineering #1
+
+Elected Fellow of ASME
+
+ICES Moncrief Grand Challenge Award
+
+Thomas J.R. Hughes Young Investigator Award
+(ASME Applied Mechanics Division)
+
+Materials Research Society Outstanding Paper Award
+National Science Foundation Career Award
+
+Office of Naval Research Young Investigator Award
+Regents Fellowship, University of California
+
+2019 co-Chair— JUTAM Symposium on Shape Memory Alloys, Austin, TX,
+
+4/28-2019-5/2/2019
+
+2017-present Associate Editor — International Journal of Solids and Structures
+
+2016-present Associate Editor — Journal of Engineering Mechanics
+
+2012-present Regional Editor — International Journal of Fracture
+
+2005-present Associate Editor — Journal of the American Ceramic Society
+2011-2018 | Member at Large — United States National Committee on
+
+Theoretical and Applied Mechanics
+
+2006-present Treasurer — American Academy of Mechanics
+
+2011-2016 Board of Editors — International Journal of Solids and Structures
+2009-2015 Associate Editor — Journal of Applied Mechanics
+
+2001-2003 Recording Secretary - ASME Applied Mechanics Division
+
+Member of American Society of Mechanical Engineers
+
+Member of American Academy of MechanicsMember of the Materials Research Society
+
+Member of the American Ceramic Society
+
+Member of Society of Engineering Science
+Member of Tau Beta Pi
+
+JOURNAL PUBLICATIONS
+6221 citations, h-index = 37
+http: //scholar.google.com/citations?user=ercfpvkAAAAJ&hl=en
+
+ 
+
+76.
+
+(oO.
+
+TA,
+
+13.
+
+72.
+
+71.
+
+70.
+
+69.
+
+D. Garcia-Gonzalez and C.M. Landis, 2020, "Magneto-diffusion-viscohyperealsticity
+for magneto-active hydrogels: rate dependences across time scales." Journal of the
+Mechanics and Physics of Solids 139 103934.
+
+Y. Yu, N. Bouklas, C.M. Landis, and R. Huang, 2020. "Poroelastic effects on the
+time- and rate-dependent fracture of polymer gels." Journal of Applied Mechanics
+87 031005.
+
+K. Kazinakis, S. Kyriakides, D. Jiang, N.J. Bechle, and C.M. Landis, 2019.
+"Buckling and collapse of pseudoelastic NiTi tubes under bending." accepted to the
+International Journal of Solids and Structures.
+
+Y. Yu, C.M. Landis, and R. Huang, 2020, "Poroelastic effects on steady state crack
+erowth in polymer gels under plane stress." Mechanics of Materials 143 103320.
+
+K. Paul, C. Zimmermann, K.K. Mandadapu, T.J.R. Hughes, C.M. Landis, and R.A.
+Sauer, 2020. "An adaptive space-time phase field formulation for dynamic fracture of
+brittle shells based on LR NURBS." Computational Mechanics 65 1039-1062.
+
+Y.-S. Lo, M.J. Borden, K. Ravi-Chandar, and C.M. Landis, 2019. “A Phase-field
+Model for Fatigue Crack Growth.” Journal of the Mechanics and Physics of Solids
+132, 103684.
+
+A.Y. Woldman and C.M. Landis, 2019. “Thermo-electro-mechanical Phase-field
+Modleing of Paraelectric to Ferroelectric Transitions.” International Journal of Solids
+and Structures 178-179, 19-35.
+
+C. Zimmermann, D. Toshniwal, C.M. Landis, T.J.R. Hughes, K.K. Mandadapu, and
+R.A. Sauer, 2019. “An Isogeometric Finite Element Formulation for Phase68.
+
+67.
+
+66.
+
+6d.
+
+64.
+
+63.
+
+62.
+
+61.
+
+60.
+
+o9
+
+Transitions on Deforming Surfaces.” Computer Methods in Applied Mechanics and
+Engineering 351 441-477.
+
+Y. Yu, C.M. Landis, and R. Huang, 2018. “Steady-state Crack Growth in Polymer
+Gels: A Linear Poroelastic Analysis.” Journal of the Mechanics and Physics of Solids
+118 15-39.
+
+Y. Yu, N. Bouklas, C.M. Landis, and R. Huang, 2018. “A Linear Poroelastic
+Analysis of Time-dependent Crack-tip Fields in Polymer Gels.” Journal of Applied
+Mechanics 85 111011.
+
+B.N. Cox and C.M. Landis, 2018. “Solitary Waves in Morphogenesis: Determination
+Fronts as Strain-Cued Strain Transformations.” Journal of the Mechanics and
+Physics of Solids 111 239-276.
+
+D. Jiang, S. Kiriakides, and C.M. Landis, 2017. “Modeling of Propagation of Phase
+Transformation Fronts in NiTi Under Uniaxial Tension.” Extreme Mechanics Letters
+15 113-121.
+
+Y. Yu, C.M. Landis, and R. Huang, 2017. “Salt-induced Swelling and Volume Phase
+Transition of Polyelectrolyte Gels.” Journal of Applied Mechanics 84 051005.
+
+D. Jiang, 5. Kyriakides, N.J. Bechle, and C.M. Landis, 2017. “Bending of
+Psuedoelastic NiTi Tubes.” International Journal of Solids and Structures 124 192-
+214.
+
+D. Jiang, S. Kyriakides, C.M. Landis, and K. Kazinakis, 2017. “Modeling of
+Propagation of Phase ‘Transformation Fronts in NiTi Under Uniaxial
+tension.” European Journal of Mechanics A/Solids 64 131-142.
+
+K.H. Pham, K. Ravi-Chandar, and C.M. Landis, 2017. “Experimental Validation of a
+Phase-field Model for Fracture”, International Journal of Fracture, 205 83-101.
+
+D. Jiang and C.M. Landis, 2016. “A Constitutive Model for Isothermal
+Pseudoelasticity Coupled with Plasticity”, Shape Memory and Superelasticity 2 360-
+370.
+
+D. Jiang, C.M. Landis, and S. Kyriakides, 2016. “Effects of Tension /Compression08.
+
+Of.
+
+06.
+
+Oo.
+
+o4.,
+
+Oo.
+
+o2.
+
+ol.
+
+00.
+
+Asymmetry on the Buckling and Recovery of NiTi Tubes Under Axial Compression”,
+International Journal of Solids and Structures 100 41-53.
+
+M.J. Borden, T.J.R. Hughes, C.M. Landis, A. Anvari, and I.J. Lee, 2016. “A Phase-
+field Formulation for Fracture in Ductile Materials: Finite Deformation Balance Law
+Derivation, Plastic Degradation, and Stress ‘Triaxiality Effects’, Computational
+Methods in Applied Mechanics and Engineering 312 130-166.
+
+Z.A. Wilson and C.M. Landis, 2016. “Phase-field Modeling of Hydraulic Fracture’,
+Journal of the Mechanics and Physics of Solids 96 264-290.
+
+A.Y. Woldman and C.M. Landis, 2016. “Phase-field Model of the Structure of
+Ferroelectric to Paraelectric Phase Boundaries in Single Crystal Barium Titanate’,
+Smart Structures and Materials 25 035033.
+
+N.J. Bechle, D. Jiang, C.M. Landis, and S$. Kyriakides, 2016. “Buckling and
+Recovery of NiTi Tubes Under Axial Compression”, International Journal of Solids
+and Structures 80 52-63.
+
+J. Liu, C.M. Landis, H. Gomez, and T.J.R. Hughes, 2015. “Liquid-Vapor Phase
+Transition: ‘Thermomechanical Theory, Entropy Stable Numerical Formulation, and
+Boiling Simulations”, Computer Methods in Applied Mechanics and Engineering 297
+476-553.
+
+N. Bouklas, C.M. Landis, and Rui Huang, 2015. “Effect of Solvent Diffusion on
+Crack-tip Fields and Driving Force for Fracture of Hydrogels”, Journal of Applied
+Mechanics 82 081007.
+
+N. Bouklas, C.M. Landis, and Rui Huang, 2015. “A Nonlinear, Transient Finite
+Element Method for Coupled Solvent Diffusion and Large Deformation of
+Hydrogels”, Journal of the Mechanics and Physics of Solids 79 21-43.
+
+T. Baxevanis, C.M. Landis, and D.C. Lagoudas, 2014. “On the Effect of Latent Heat
+on the Fracture Toughness of Pseudoelastic Shape Memory Alloys’, Journal of
+Applied Mechanics 81 101006.
+
+R. Balakrishna, J.E. Huber, and C.M. Landis, 2014. “Nano-actuator concepts based
+
+on ferroelectric switching”, Smart Materials and Structures 23 085016.AQ
+
+A8.
+
+AT.
+
+AO.
+
+Ad.
+
+AA.
+
+A3.
+
+42.
+
+Al.
+
+M.J. Borden, T.J.R. Hughes, C.M. Landis, and C.V. Verhoosel, 2014. “A Higher-
+order Phase-Field Model for Brittle Fracture: Formulation and Analysis within the
+Isogeometric Analysis Framework”, Computer Methods in Applied Mechanics and
+Engineering 273 100-118.
+
+T. Baxevanis, C.M. Landis, and D.C. Lagoudas, 2014. “On the Fracture Toughness
+of Pseudoelastic Shape Memory Alloys”, Journal of Applied Mechanics 81 041005.
+
+Z.A. Wilson, M.J. Borden, and C.M. Landis, 2013. “A Phase-field Model for
+
+Fracture in Piezoelectric Ceramics”, International Journal of Fracture 183 135-153.
+
+J. Liu, H. Gomez, J.A. Evans, T.J.R. Hughes and C.M. Landis, 2013. “Functional
+entropy variables: A new methodology for deriving thermodynamically consistent
+algorithms for complex fluids, with particular reference to the isothermal Navier-
+
+Stokes-Korteweg equations”, Journal of Computational Physics 248 47-86.
+
+W. Li and C.M. Landis, 2012. Deformation and Instabilities in Dielectric Elastomer
+Composites”, Smart Materials and Structures 21 094006.
+
+B. Volker, C.M. Landis and M. Kamlah, 2012. “Multiscale Modeling for Ferroelectric
+Materials: Identification of the Phase-field Model’s Free Energy for PZT from
+Atomistic Simulations”, Smart Materials and Structures 21 035025.
+
+M.J. Borden, C.V. Verhoosel, M.A. Scott, T.J.R. Hughes and C.M. Landis, 2012. “A
+Phase-field Description of Dynamic Brittle Fracture”, Computer Methods in Applied
+Mechanics and Engineering 217-220 77-95.
+
+D. Carka, R.M. McMeeking and C.M. Landis, 2012. “A Note on the Path-
+Dependence of the /-Integral Near a Stationary Crack in an Elastic-Plastic Material
+with Finite Deformation”, Journal of Applied Mechanics 79 044502.
+
+H. Mei, C.M. Landis, and R. Huang, 2012. “Concomitant Wrinkling and Buckle-
+Delamination of Elastic Thin Films on Compliant Substrates’, Mechanics of
+Materials 43 627-642.AO
+
+39.
+
+38.
+
+Of.
+
+36.
+
+Oo.
+
+O4.
+
+33.
+
+32.
+
+I. Miinch, M. Krauf, C.M. Landis and J.E. Huber, 2011. “Domain Engineered
+Ferroelectric Energy Harvesters on a Substrate”, Journal of Applied Physics 109
+104106.
+
+D. Carka and C.M. Landis, 2011. “The Analysis of Crack Tip Fields in Ferroelastic
+Materials’, Smart Materials and Structures 20 094005.
+
+W. Li and C.M. Landis, 2011. “Nucleation and Growth of Domains Near Crack Tips
+in Single Crystal Ferroelectrics”, Engineering Fracture Mechanics 78 1505-1513.
+
+D. Carka, M.E. Mear and C.M. Landis, 2011. “The Dirichlet-to-Neumann Map for
+Two-Dimensional Crack Problems”, Computer Methods in Applied Mechanics and
+Engineering 200, 1263-1271.
+
+D. Carka and C.M. Landis, 2011. “On the Path-Dependence of the /-Integral in an
+Elastic-Plastic Material”, Journal of Applied Mechanics 78, 011006.
+
+N.D. Sharma, C.M. Landis and P. Sharma, 2010. “Piezoelectric Thin-Film Super-
+Lattices without Using Piezoelectric Materials’, Journal of Applied Physics 108,
+024304.
+
+A. Kontsos and C.M. Landis, 2010. “Phase-field Modeling of Domain Structure
+Energetics and Evolution in Ferroelectric Thin Films”, Journal of Applied Mechanics
+77, 041014.
+
+A. Kontsos and C.M. Landis, 2009. “Computational Modeling of Domain Wall
+Interactions with Dislocations in Ferroelectric Crystals’, International Journal of
+Solids and Structures 46, 1491-1498.
+
+C.M. Landis, 2008. “A Continuum Thermodynamics Formulation for Micro-magneto-
+mechanics with Applications to Ferromagnetic Shape Memory Alloys”, Journal of the
+Mechanics and Physics of Solids 56, 3059-3076.
+
+.W. Li, R.M. McMeeking and C.M. Landis, 2008. “On the Crack Face Boundary
+
+Conditions in Electromechanical Fracture and an Experimental Protocol for
+Determining Energy Release Rates”, European Jouanal of Mechanics A/Solids 27,
+285-301.30.
+
+29.
+
+28.
+
+27.
+
+26.
+
+20.
+
+24.
+
+23.
+
+22.
+
+21.
+
+20.
+
+R.M. McMeeking, C.M. Landis and $.M.A. Jimenez, 2007. “A Principle of Virtual
+Work for Combined Electrostatic and Mechanical Loading of Materials”,
+International Journal of Non-linear Mechanics, 42, 831-838.
+
+J. Sheng and C.M. Landis, 2007. “Toughening due to Domain Switching in Single
+Crystal Ferroelastic Materials”, International Journal of Fracture, 143, 161-175.
+
+Y. Su and C.M. Landis, 2007. “Continuum ‘Thermodynamics of Ferroelectric Domain
+Evolution: Theory, Finite Element Implementation, and Application to Domain Wall
+Pinning’, Journal of the Mechanics and Physics of Solids, 55, 280-305.
+
+J. Wang and C.M. Landis, 2006. “Effects of In-Plane Electric Fields on the
+Toughening Behavior of Ferroelectric Ceramics”, Journal of Mechanics of Materials
+and Structures, 1, 1075-1095.
+
+J. Wang and C.M. Landis, 2006. “Domain Switch Toughening in Polycrystalline
+Ferroelectrics’, Journal of Materials Research, 21, 13-20.
+
+T. Pardoen, T. Ferracin, C.M. Landis and F. Delannay, 2005. “Constraint Effects in
+Adhesive Joint Fracture”, Journal of the Mechanics and Physics of Solids, 53, 1951-
+1983.
+
+R.M. McMeeking and C.M. Landis, 2005. “Electrostatic Forces and Stored Energy
+for Deformable Dielectric Materials’, Journal of Applied Mechanics, 72, 581-590.
+
+C.M. Landis, 2004. “Energetically Consistent Boundary Conditions — for
+Electromechanical Fracture’, International Journal of Solids and Structures, 41,
+6291-6315.
+
+C.M. Landis, 2004. “Nonlinear Constitutive Modeling of Ferroelectrics’, Current
+Opinion in Solid State and Materials Science, 8, 59-69.
+
+J. Wang and C.M. Landis, 2004. “On the Fracture Toughness of Ferroelectric
+Ceramics with Electric Field Applied Parallel to the Crack Front”, Acta Materialia,
+52, 3435-3446.
+
+C.M. Landis, 2004. “On the Fracture Toughness Anisotropy of Mechanically Poled
+
+Ferroelectric Ceramics’, International Journal of Fracture, 126, 1-16.19.
+
+18.
+
+17.
+
+16.
+
+15.
+
+14
+
+13.
+
+12.
+
+11.
+
+C.M. Landis, J. Wang and J. Sheng, 2004. “Micro-electromechanical Determination
+of the Possible Remanent Strain and Polarization States in Polycrystalline
+Ferroelectrics and Implications for Phenomenological Constitutive Theories’, Journal
+of Intelligent Material Systems and Structures, 15, 513-525.
+
+C.M. Landis, 2004. “In-plane Complex Potentials for a Special Class of Materials
+with Degenerate Piezoelectric Properties’, International Journal of Solids and
+Structures, 41, 695-715.
+
+C.M. Landis, 2003. “On the Fracture Toughness of Ferroelastic Materials”, Journal
+of the Mechanics and Physics of Solids, 51, 1347-1369.
+
+C.M. Landis, 2003. “On the Strain Saturation Conditions for Polycrystalline
+Ferroelastic Materials”, Journal of Applied Mechanics, 70, 470-478.
+
+T. Ferracin, C.M. Landis, F. Delannay and T. Pardoen, 2003. “On the
+Determination of the Cohesive Zone Properties of an Adhesive Layer from the
+Analysis of the Wedge-Peel Test”, International Journal of Solids and Structures,
+AO, 2889-2904.
+
+.C.M. Landis, 2002. “Fully Coupled, Multi-Axial, Symmetric Constitutive Laws for
+
+Polycrystalline Ferroelectric Ceramics”, Journal of the Mechanics and Physics of
+Solids, 50, 127-152.
+
+C.M. Landis, 2002. “Uncoupled, Asymptotic Mode II] and Mode E Crack Tip
+Solutions in Non-Linear Ferroelectric Materials”, Engineering Fracture Mechanics,
+69, 13-23.
+
+C.M. Landis, 2002. “A New Finite Element Formulation for Electromechanical
+Boundary Value Problems”, International Journal for Numerical Methods in
+Engineering, 55, 613-628.
+
+T. Dumitrica, C.M. Landis and B.I. Yakobson, 2002. ‘“Curvature-induced
+Polarization in Carbon Nanoshells’, Chemical Physics Letters, 360, 182-188.10
+
+10.R.M. McMeeking and C.M. Landis, 2002. “A Phenomenological Multiaxial
+Constitutive Law for Switching in Polycrystalline Ferroelectric Ceramics”,
+
+International Journal of Engineering Science, 40, 1553-1577.
+
+9. C.M. Landis and R.M. McMeeking, 2001. “A Self-Consistent Constitutive Model for
+Switching in Polycrystalline Barium Titanate’, Ferroelectrics, 255, 13-34.
+
+8. C.M. Landis, T. Pardoen and J.W. Hutchinson, 2000. “Crack Velocity Dependent
+Toughness in Rate Dependent Materials”, Mechanics of Materials, 32, 663-678.
+
+7. C.M. Landis and R.M. McMeeking, 2000. “A Phenomenological Constitutive Law for
+Ferroelastic Switching and a Resulting Asymptotic Crack Tip Solution”, Journal of
+Intelligent Material Systems and Structures, 10, 155-163.
+
+6. C.M. Landis, I. J. Beyerlein and R. M. McMeeking, 2000. “Micromechanical
+Simulation of the Failure of Fiber Reinforced Composites”, Journal of the Mechanics
+and Physics of Solids, 48, 621-648.
+
+5. J. E. Huber, N. A. Fleck, C.M. Landis and R. M. McMeeking, 1999. “A Constitutive
+Model for Ferroelectric Polycrystals”, Journal of the Mechanics and Physics of
+Solids, 47, 1663-1697.
+
+4. I. J. Beyerlein and C.M. Landis, 1999. “Shear-Lag Model for Failure Simulations of
+Unidirectional Fiber Composites Including Matrix Stiffness”, Mechanics of Materials,
+31, 331-350.
+
+3. C.M. Landis and R.M. McMeeking, 1999. “Stress Concentrations in Composites with
+Interface Sliding, Matrix Stiffness, and Uneven Fiber Spacing Using Shear Lag
+Theory”, International Journal of Solids and Structures, 36, 4333-4361.
+
+2. C.M. Landis, M.A. McGlockton and R.M. McMeeking, 1999. “An Improved Shear
+Lag Model for Broken Fibers in Composite Materials”, Journal of Composite
+Materials, 33, 667-680.
+
+1. C.M. Landis and R.M. McMeeking, 1999. “A Shear Lag Model for a Broken Fiber
+Embedded in a Composite with a Ductile Matrix”, Composites Science and
+Technology, 59, 447-457.1]
+
+BOOK CHAPTERS
+3. M.J. Borden, T.J.R. Hughes, C.M. Landis, A. Anvari, and I.J. Lee, 2018. “Phase-field
+
+Formulation for Ductile Fracture”, in Advances in Computational Plasticity: A Book
+in Honour of D. Roger J. Owen, edited by Eugenio Onate, Djordje Peric, Eduardo de
+Souza Neto, and Michele Chiumenti, Springer, Cham, Switzerland, pp. 45-70.
+
+M.R. Begley, J.A. Begley and C.M. Landis, 2012. “Contiuum Mechanics Modeling of
+Hydrogen Embrittlement”, in Gaseous Hydrogen Embrittlement of Materials in
+Energy Technologies, edited by R.G. Gangloff and B.P. Somerday, Woodhead
+Publishing, Cambridge UK, Vol. 2, Ch. 10, pp. 286-325.
+
+. C.M. Landis and J. Sirohi, 2010. “Ferroelectric Materials’, in Encyclopedia of
+
+Aerospace Engineering, edited by Richard Blockley and Wei Shyy, John Wiley &
+Sons, Ltd., Chichester, UK, pp. 2427-2436.
+
+CONFERENCE PROCEEDINGS
+
+33.
+
+32.
+
+Ol.
+
+30.
+
+29.
+
+T.E. Alotaibi, C.M. Landis, and M.J. AlTammar, 2020. "Phase-Field Modeling of
+Hydraulic Fracture Propagation in Mechanically Heterogeneous Formations.", SPE
+International Petroleum Technology Conference, 1/14/2020.
+
+M.J. AlTammar, T.E. Alotaibi, M.M. Sharma, and C.M. Landis, 2019. "Laboratory
+Imaging and Phase Field Modeling of the Interaction of Hydraulic Fractures with
+Well Cemented Natural Fractures", SPE Kuwait Oil and Gas Show and Conference,
+Kuwait, 10/13/2019.
+
+T. Baxevanis, D. Lahoudas, and C.M. Landis, 2012. “Mode I Steady Crack-Growth
+in Superelastic Shape Memory Alloys”, SMASIS2012-7934, ASME 2012 Conference
+on Smart Materials, Adaptive Structures and Intelligent Systems, Stone Mountain,
+GA, September 19-21, 2012.
+
+M Krauf, I. Miinch, C.M. Landis and W. Wagner, 2011. “Phase Field Simulation
+
+and Design of a Ferroelectric Nanogenerator”, Proceedings of the SPIE.
+
+W. Li and C.M. Landis, 2010. “Modeling of the Nucleation and Growth of Domain
+Needles”, Proceedings of the ASME 2010 Conference on Smart Materials, Adaptive
+Structures and Intelligent Systems, Philadelphia, PA, September 28-October 1, 2010.28.
+
+27.
+
+26.
+
+20.
+
+24.
+
+23.
+
+22.
+
+21.
+
+20.
+
+19.
+
+18.
+
+12
+
+C.M. Landis and D. Carka, “On the Path-Dependence of the J-Integral in Elastic-
+Plastic Materials” U.S. National Congress on Theoretical and Applied Mechanics,
+ASME, State College, PA, United States, published in proceedings. July 1, 2010.
+
+A. Kontsos, W. Li and C.M. Landis, 2009. “Computational Phase-field Modeling of
+Defect Interactions in Ferroelectrics’, Proceedings of the SPLE, 7289, 72890D.
+
+C.M. Landis, 2008. “A continuum thermodynamics formulation of micro-magneto-
+mechanics with application to ferromagnetic shape memory alloys: Application to
+domain wall — twin boundary dissociation”, Proceedings of the SPIE, 6929, 692910.
+
+W. Li and C.M. Landis, 2008. “Phase-field Modeling of Domain Switching Near
+Crack Tips in Single Crystal Ferroelectrics”, Proceedings of the SPLE, 6929, 69290J.
+
+C.M. Landis, 2007. “A Continuum Thermodynamics Formulation of Micro-Magneto-
+Mechanics with Application to Ferromagnetic Shape Memory Alloys”, Proceedings of
+the SPIE, 6526, 652625-1.
+
+C.M. Landis, 2006. “Phase Field Modeling of Ferroelectric Domain Wall Interactions
+with Charge Defects”, Proceedings of the IMEC'E2006, IMECE2006-16184.
+
+Y. Su and C.M. Landis, 2006. “A non-equilibrium thermodynamics framework for
+domain evolution; phase field models and finite element implementation’,
+Proceedings of the SPIE, 6170, 617001-4.
+
+C.M. Landis and J. Wang. “Domain Switch Toughening of Polycrystalline
+Ferroelectrics”, MRS Proceedings, Spring 2005, San Francisco, CA.
+
+C.M. Landis, 2005. “Energetically Consistent Boundary Conditions for
+Electromechanical Fracture”, Proceedings of the ICF11.
+
+J. Wang and C.M. Landis, 2005. “On the Fracture Toughness of Ferroelectric
+Ceramics with Electric Field Applied Parallel to the Crack Front”, Proceedings of
+the ICF 11.
+
+Y. Su and C.M. Landis, 2005. “A finite element approach for domain wall dynamics
+in ferroelectric materials”, Proceedings of the SPIE, 5761, 530-541.17
+
+16.
+
+15.
+
+14.
+
+13.
+
+12.
+
+11.
+
+10.
+
+13
+
+J. Wang and C.M. Landis, 2005. “Toughening behavior of ferroelectric ceramics
+under different poling directions”, Proceedings of the SPIE, 5761, 305-315.
+
+T. Ferracin, C.M. Landis, F. Delannay and T. Pardoen, “Constraint Effects in
+Steady-State Fracture of Adhesively-Bonded Joints’, ECF15 - 15" European
+Conference on Fracture, 11-14 Aug 2004.
+C.M. Landis, 2004, “Nonlinear Fracture Mechanics for Ferroelastic Materials”,
+Proceedings of the SPIE, 5387, 326-336.
+
+T. Ferracin, C.M. Landis, F. Delannay and T. Pardoen, “Modelling Steady State
+Fracture of Adhesively Bonded Joints with Cohesive Zones”, Proceedings of the i
+Annual Meeting of The Adhesion Society — From Molecules and Mechanics to
+Optimization and Design of Adhesives Joints (M.K. Chaudhury ed., The Adhesion
+Society Inc.) 15-18 Feb 2004, Wilmington, North Carolina, U.S.A., 498-500.
+
+C.M. Landis, 2003. “Modeling Fracture in Ferroelastic Ceramics”, F'racture
+Mechanics of Ceramics 14 and 15, edited by K.H. White et al., 471-484.
+
+C.M. Landis, J. Wang, J. Sheng, 2003. “Micro-electromechanically Informed
+Phenomenological Constitutive Laws for Ferroelectrics’, Proceedings of the SPIE,
+5053, 335-346.
+
+T. Ferracin, J.Y. Sener, C.M. Landis, F. Delannay and TT. Pardoen, “Predictive
+Fracture Model for Steady-State Failure of Adhesively-Bonded Joints Using the
+Plastic Wedge Peel Test”, ECF1{, 1" European Conference on Fracture (Neimitz
+A., Rokach I.V., Kocanda D., Golos K. eds.) 8-13 Sep 2002, Cracow, Poland, Vol. I,
+531-538.
+
+C.M. Landis, 2002. “A New Finite Element Formulation for Electromechanics”,
+Proceedings of the SPIE, 4699, 31-39.
+
+C.M. Landis, 2001. “Asymptotic Mode III and Mode E Crack Tip Solutions in
+Ferroelectric Materials”, Proceedings of the ICF10.
+
+C.M. Landis, 2001. “Shear Lag Modelling of Thermal Stresses in Unidirectional
+Composites”, Proceedings of the ICF 10.
+
+C.M. Landis, 2001. “Crack Velocity Dependent Toughness in Rate Dependent
+Materials”, Proceedings of the ICF 10.14
+
+. T. Ferracin, C.M. Landis, J.Y. Sener, F. Delannay and T. Pardoen, 2001. “Predictive
+Fracture Model for Steady-state Failure of Adhesively-bonded Joints with Extensive
+Plastic Yielding’, Proceedings of the ICF 10.
+
+C.M. Landis, 2001. “Symmetric Constitutive Laws for Polycrystalline Ferroelectric
+Ceramics’, Proceedings of SPIE, 4333.
+
+C.M. Landis and R. M. McMeeking, 2000. “Modelling of Fracture in Ferroelectric
+Ceramics’, Proceedings of the SPIE, 3992, 176-184.
+
+C.M. Landis and R.M. McMeeking, 1999. “A Self-Consistent Model for Switching in
+Polycrystalline Ferroelectrics: Electrical Polarization Only”, Proceedings of SPIE,
+3667, 172-180.
+
+. M. Chang, S. K. Mathis, G. E. Beltz and C.M. Landis, 1999. “Annihilation Radii for
+Dislocations Intercepting a Free Surface with Application to Heteroepitaxial Thin
+Film Growth”, in II-V and IV-IV Materials and Processing Challenges for Highly
+Integrated Microelectronics and Optoelectronics (edited by S.A. Ringel, E.A.
+Fitzgerald, I. Adesida and D.C. Houghton), Materials Research Society Symposium
+Proceedings, 535, 9-14.
+
+G. Deutschmann, C.M. Landis and R. M. McMeeking, 1998. “A Network Model for
+the Plastic Compaction of Monodispersed Spherical Powder”, Proceedings of the
+AIChE PTF Topical Conference on Advanced Technologies for Particle Processing,
+Miami Beach, Florida, November 15-20.
+
+INVITED PRESENTATIONS
+16. C.M. Landis, "Constitutive Modeling of Shape Memory Alloys and Simulation of
+
+Structural Response", USNCCM 15, Austin, TX, 7/31/2019.
+
+15. C.M. Landis, “A New Constitutive Modeling Approach for the Pseudoelastic
+
+Behavior of Shape Memory Alloys”, SMASIS 2018, San Antonio, TX, 9/11/2018.
+
+14. C.M. Landis, “Phase-field Modeling of Fracture”, Mechanics in Scientific Discovery”,
+
+Florence, Italy, 6/14/2017.15
+
+13. C.M. Landis, “Phase-Field Modeling of Fracture: Brittle, Ductile, and Fluid Driven”,
+BIRS Workshop 16w5090 Variational Models of Fracture, Banff, Canada, 5/10/2016.
+
+12. C.M. Landis, “Phase-field Modeling of Brittle and Ductile Fracture’, A Workshop
+for High-Fidelity Based Virtual Testing of Composite Materials and Structures,
+Coral Gables, FL, 4/19/2016.
+
+11. C.M. Landis, “Phase-Field Modeling of Microstructural Evolution, with Applications
+to Ferroelectrics, FSMAs, and Fracture’, Institute for Modeling and Simulation, IMs
+Seminars Summer 2014, RWTH Aachen University, Aachen, Germany, May 5, 2014.
+
+10. C.M. Landis, “On the importance of mechanical constraint on the domain structure
+evolution in ferroelectric and ferromagnetic materials.” ASME 2013 Conference on
+Smart Materials, Adaptive Structures and Intelligent Systems, Snowbird, UT,
+September 16, 2013.
+
+9. C.M. Landis, “Phase-field Modeling of Defect Interactions in Active Materials”, TMS
+2009, San Francisco, CA, February 17, 2009.
+
+8. C.M. Landis, “Constitutive and Fracture Modeling of Ferroelectrics’, Gordon
+Research Conference on Solid State Studies in Ceramics, Tilton, NH, July 17, 2005.
+
+7. C.M. Landis, “Electromechanical Behavior of Ferroelectrics’, ASM Houston Chapter,
+Student Chapter Night, Rice University, Houston, TX, April 5, 2005.
+
+6. C.M. Landis, “Domain Switch Toughening in Polycrystalline Ferroelectrics’, 2005
+Spring Meeting of the MRS, San Francisco, CA, March 29, 2005.
+
+5. C.M. Landis, “Constitutive Modeling of Ferroelectric Ceramics”, Office of Naval
+Research Workshop on Fracture and Fatigue of Piezoelectric Materials, Washington
+D.C., August 27, 2003.
+
+4. C.M. Landis, “Micro-electromechanics and Phenomenological Constitutive Laws for
+Ferroelectrics’, Gordon Research Conference on Solid State Studies in Ceramics I,
+New London, NH, August 12, 2003.
+
+3. C.M. Landis, “Modeling of Fracture in Ferroelastic Ceramics”, 8" International
+Symposium on Fracture Mechanics of Ceramics, Houston, TX, February 28, 2003.2.
+
+1.
+
+16
+
+C.M. Landis, “Plasticity”, A two lecture series. Technical University at Hamburg-
+Harburg, Germany, June 18 & 20, 2002.
+
+C.M. Landis, “Phenomenological Constitutive Laws for Ferroelectrics’, Departmental
+Seminar, Technical University at Hamburg-Harburg, Germany, June 19, 2002.
+
+INVITED DEPARTMENTAL SEMINARS
+
+22.
+
+21.
+
+20.
+
+19.
+
+18.
+
+17.
+
+16.
+
+15.
+
+14.
+
+C.M. Landis, “Phase-field Modeling of Fracture: Brittle, Ductile, and Fluid Driven’,
+Departmental Seminar, Petroleum and Geosystems Engineering, University of ‘Texas
+at Austin, October 2, 2017.
+
+C.M. Landis, “Modeling the Behavior of Shape Memory Alloy Structures”,
+Departmental Seminar, Duke University, March 28, 2017.
+
+C.M. Landis, “Phase-field Modeling of Fracture: Brittle, Ductile, and Fluid Driven
+and Modeling the Behavior of Shape Memory Alloy Structures’, Departmental
+Seminar, Brown University, November 7, 2016.
+
+C.M. Landis, “Phase-Field Modeling of Microstructural Evolution, with Applications
+to Ferroelectrics, FSMAs, and Fracture’, Departmental Seminar, University of
+California at Santa Barbara, February 24, 2014.
+
+C.M. Landis, “Phase-Field Modeling of Microstructural Evolution, with Applications
+to Ferroelectrics, FSMAs, and Fracture’, Departmental Seminar, University of
+California at Los Angeles, February 21, 2014.
+
+C.M. Landis, “Domain Wall — Defect Interactions in Ferroelectrics’, Departmental
+Seminar, University of Nebraska, April 7, 2009.
+
+C.M. Landis, “Continuum Modeling of Defect Interactions in Smart Materials”,
+
+Departmental Seminar, Texas A&M University, June 2, 2008.
+
+C.M. Landis, “Modeling of Domain Wall Defect Interactions in Ferroelectric Single
+Crystals”, Departmental Seminar, University of Virginia, February 28, 2008.
+
+C.M. Landis, “Meso-scale Modeling of Domain Wall Evolution in Ferroelectrics”,
+Departmental Seminar, University of Florida, September 19, 2006.13.
+
+12.
+
+11.
+
+10.
+
+17
+
+C.M. Landis, “Meso-scale Modeling of Domain Wall Evolution in Ferroelectrics”,
+Departmental Seminar, University of Texas at Austin, April 6, 2006.
+
+C.M. Landis, “Negative Energy Release Rates and other Issues in Modeling
+Electromechanical Fracture’, Departmental Seminar, Harvard University, March 2,
+2005.
+
+C.M. Landis, “Constitutive Modeling and Fracture Mechanics for Ferroelectrics”,
+Departmental Seminar, Massachusetts Institute of Technology, February 28, 2005.
+
+C.M. Landis, “Electromechanical Fracture and Negative Energy Release Rates”,
+Departmental Seminar, University of Houston, September 16, 2004.
+
+C.M. Landis, “Non-linear Electromechanics of Ferroelectric Materials”, Departmental
+
+Seminar, University of Texas at Austin, April 12, 2004.
+
+C.M. Landis, “Deformation and Fracture of Ferroelastic Ceramics’, Departmental
+Seminar, University of California, Santa Barbara, CA, October 14, 2002.
+
+C.M. Landis, “Micro-electromechanical Constitutive Models for Ferroelectrics”,
+Departmental Seminar, University of Louvain, Belgium, June 12, 2002.
+
+C.M. Landis, “Constitutive Laws for Polycrystalline Ferroelectric Ceramics’,
+Departmental Seminar, Rice University, Houston, TX, November 1, 2000.
+
+C.M. Landis, “Deformation, Polarization and Fracture of Ferroelectric Ceramics’,
+
+Departmental Seminar, Rice University, Houston, TX, April 17, 2000.
+
+C.M. Landis, “Deformation, Polarization and Fracture of Ferroelectric Ceramics’,
+Departmental Seminar, Notre Dame University, South Bend, IN, April 12, 2000.
+
+C.M. Landis, “Deformation, Polarization and Fracture of Ferroelectric Ceramics’,
+Departmental Seminar, Brown University, Providence, RI, March 2000.
+
+C.M. Landis, “Deformation, Polarization and Fracture of Ferroelectric Ceramics’,
+Departmental Seminar, Harvard University, Cambridge, MA, February 2000.
+
+C.M. Landis, “Shear-lag Modeling of Composite Materials’, Departmental Seminar,
+University of California, Santa Barbara, CA, June 1998.18
+
+PRESENTATIONS
+
+110. Y.-S. Lo, C.M. Landis, and M.J. Borden, "Phase-field Modeling of Fatigue Crack
+Growth", IMECE 2019, Salt Lake City, UT, 11/14/2019.
+
+109. M. Alsawalhi, and C.M. Landis, "Constitutive Modeling of Shape Memory Alloys
+and Simulation of Structural Response", IMECE 2019, Salt Lake City, UT,
+11/14/2019.
+
+108. K. Kazinakis, 5. Kyriakides, and C.M. Landis, “Effect of Phase Transformation on
+the Stability of Pseudoelastic NiTi ‘Tubes Under Bending”, IMECE 2019, Salt Lake
+City, UT, 11/14/2019.
+
+107. S. Mane, C.M. Landis, and M. Rausch, "Modelling Fibrin Networks Using
+SpatialEuler-Bernoulli IGA Beams", USNCCM 15, Austin, TX, 7/31/2019.
+
+106. T. Alotaibi and C.M. Landis, "Applications of Phase-field Modeling of Hydraulic
+Fracture", USNCCM 15, Austin, TX, 7/31/2019.
+
+105. Y.S. Lo, C.M. Landis, and M.J. Borden, "Phase-field Modeling of Fatigue Crack
+Growth", USNCCM 15, Austin, TX, 7/29/2019.
+
+104. C.M. Landis, T.J.R. Hughes, D. Toshniwal, and Y. Lo, “Development of Phase-field
+Modeling for Fatigue/Stress Corrosion Crack Growth”, ONR SBA Annual Review,
+California, MD, 5/29/2019.
+
+103. C.M. Landis, "A new framework for phenomenological constitutive models for
+SMAs", 2019 IUTAM Symposium on Phase Transformation in Shape Memory
+Materials: Modeling and Applications, Austin, TX, 5/2/2019.
+
+102. K. Kazinakis, 5. Kyriakides, D. Jiang, N. Bechle, and C.M. Landis, "Effect of
+Phase ‘Transformation on the Stbility of Pseudoelastic NiTi Tubes Under Bending",
+2019 IUTAM Symposium on Phase Transformation in Shape Memory Materials:
+Modeling and Applications, Austin, TX, 5/1/2019.
+
+101. K. Kazinakis, D. Jiang, N. Bechle, 5. Kyriakides, and C.M. Landis, “Buckling and
+Collapse of Pseudoelastic NiTi Tubes Under Bending”, SMASIS 2018, San Antonio,
+TX, 9/12/2018.19
+
+100. C.M. Landis, T.J.R. Hughes, D. 'Toshniwal, and Y. Lo, “Development of Phase-field
+
+99.
+
+98.
+
+97.
+
+96.
+
+95.
+
+Q4.
+
+93.
+
+92.
+
+91.
+
+Modeling for Fatigue/Stress Corrosion Crack Growth’, ONR SBA Annual Review,
+Denver, CO, 8/22/2018.
+
+Y. Yu, C.M. Landis, and R. Huang, “Steady-state Crack Growth in Polymer Gels by
+Nonlinear Poroelastic Models”, 18" U.S. National Congress for ‘Theoretical and
+Applied Mechanics, Chicago, IL, 6/7/2018.
+
+D. Toshniwal, C.M. Landis, and T.J.R. Hughes, “Phase-field Modeling of Corrosion
+Induced Crack Growth’, 18" U.S. National Congress for Theoretical and Applied
+Mechanics, Chicago, IL, 6/7/2018.
+
+C.M. Landis, Y. Lo, K. Ravi-Chandar, A. Chichester-Constable, T.J.R. Hughes, and
+M.J. Borden, “Phase-field Modeling of Fatigure Crack Growth”, 18" U.S. National
+Congress for Theoretical and Applied Mechanics, Chicago, IL, 6/7/2018.
+
+K. Kazinakis, D. Jiang, N. Bechle, S. Kyriakides, and C.M. Landis, “Buckling and
+Collapse of Pseudoelastic NiTi Tubes Under Bending”, 18" U.S. National Congress
+for Theoretical and Applied Mechanics, Chicago, IL, 6/8/2018.
+
+C.M. Landis, “Phase-field Modeling of Fracture: Brittle, Ductile, Fatigue, and Fluid
+Driven”, USACM Thematic Conference on Nonlocal Methods in Fracture, Austin,
+TX, 1/15/2018.
+
+Y. Yu, C.M. Landis, and R. Huang, “A Numerical Study on Steady-state Crack
+Growth in Polymer Gels”, ASME 2017 IMECE, Tampa, FL, 11/6/2017.
+
+T.J.R. Hughes, C.M. Landis, D. Toshniwal, A. Anvari, I. Lee and M.J. Borden,
+“Phase Field Modeling of Brittle and Ductile Fracture, Corrosion and Fatigue”,
+COMPLAS 2017, Barcelona, Spain, 9/5/2017.
+
+C.M. Landis and T.J.R. Hughes, “Development of Phase-Field Modeling for
+Fatigue/Stress Corrosion Crack Growth and Additive Manufacturing’, Annual
+Review for SBA Metallic Structures and Advanced Concepts, Pax River, MD,
+7/27/2017.
+
+C. Zimmermann, C.M. Landis, T.J.R. Hughes, and R.A. Sauer, “Isogeometric Finite
+Element Modeling of Phase-fields on Deforming Surfaces”, USACM Conference on
+Isogeometric Analysis and Meshfree Methods, La Jolla, CA, 10/12/2016.90.
+
+89.
+
+88.
+
+87.
+
+S86.
+
+So.
+
+84.
+
+83.
+
+82.
+
+Sl.
+
+20
+
+C.M. Landis and Z.A. Wilson, “Phase-field Modeling of Hydraulic Fracture’, Society
+of Engineering Science 53°¢ Annual Technical Meeting, College Park, MD,
+10/4/2016.
+
+D. Jiang, C.M. Landis and $8. Kyriakides, “Modelling of Axial Buckling and
+Recovery of Pseudoelastic NiTi Tubes”, 24'" International Congress of Theoretical
+and Applied Mechanics, Montreal, Canada, 8/23/2016.
+
+Y. Yu, C.M. Landis and R. Huang, “lIon-induced Swelling and Volume Phase
+Transition of Polyelectrolyte Gels”, 24" International Congress of Theoretical and
+Applied Mechanics, Montreal, Canada, 8/23/2016.
+
+C.M. Landis and Z.A. Wilson, “A Phase-field Model for Fluid Driven Cracks in
+Porous Media”, 24"" International Congress of Theoretical and Applied Mechanics,
+Montreal, Canada, 8/22/2016.
+
+N Bouklas, C.M. Landis and R. Huang, “Effect of Solvent Diffusion on Fracture of
+Hydrogels”, 24 International Congress of Theoretical and Applied Mechanics,
+Montreal, Canada, 8/22/2016.
+
+Alexandra Woldman and Chad M. Landis, “Phase-field Model of the Structure of
+Ferroelectric-Paraelectric Phase Boundaries in Single Crystal Ferroelectrics”, ASME
+2015 IMECE, Houston, TX, November 18, 2015.
+
+Nikolaos Bouklas, Chad M. Landis, and Rui Hunag, “Transient Fracture Mechanics
+of Gels”, ASME 2015 IMECE, Houston, TX, November 17, 2015.
+
+Zachary A. Wilson and Chad M. Landis, “A Phase-field Model for Fluid Driven
+Cracks in a Porous Medium”, ASME 2015 IMECE, Houston, TX, November 17,
+2015.
+
+Nikolaos Bouklas, Chad M. Landis and Rui Hunag, “Effect of Solvent Diffusion on
+Crack-tip Fields and Driving Force for Fracture of Hydrogels”’, SES 52" Annual
+Technical Meeting, College Station, TX, October 27, 2015.
+
+Theocharis Baxevanis, Sameer Jape, Chad M. Landis, and Dimitris C. Lagoudas,
+“Thermomechanically-Induced Fracture in Shape Memory Alloys”, SES 52" Annual
+Technical Meeting, College Station, TX, October 27, 2015.SO.
+
+719.
+
+78.
+
+U0.
+
+76.
+
+(oO.
+
+TA,
+
+13.
+
+72.
+
+21
+
+Dongjie Jiang, Nathan Bechle, Chad M. Landis and Stelios Kyriakides, “Reversible
+Axial Buckling of Psuedoelastic NiTi Shell”, SES 52° Annual Technical Meeting,
+College Station, TX, October 27, 2015.
+
+Zachary A. Wilson and Chad M. Landis, “A Phase-field Model for Fluid Driven
+Crack Propagation in Poroelastic Solids’, SES 52"" Annual Technical Meeting,
+College Station, TX, October 26, 2015.
+
+Ju Liu, Chad M. Landis, Hector Gomez, Thomas J.R. Hughes, “Boiling Flows:
+Thermomechanical Theory, Entropy-Stable Algorithm, and Simulations", 13 U.S.
+National Congress on Computational Mechanics, San Diego, CA, July 26-30, 2015.
+
+N. Bouklas, C.M. Landis, and R. Huang, “Effect of Solvent Diffusion on Fracture of
+Polymer Gels,” McMat Mechanics and Materials 2015 Conference, Seattle, WA, June
+29 - July 1, 2015.
+
+ 
+
+Chad M. Landis, “Phase-field Modeling of Microstructural and Defect Evolution
+within the Numerical Framework of IGA”, NAVAIR Structural Mechanics TIM
+2015, Falls Church, VA, June 24-26, 2015.
+
+Ju Liu, Hector Gomez, Thomas J.R. Hughes, Chad M. Landis, “Boiling Flows: Ther-
+momechanical Theory, Algorithm, and Simulations", VI International Conference on
+Computational Methods for Coupled Problems in Science and Engineering,
+COUPLED PROBLEMS, Venice, Italy, May 18-20, 2015.
+
+Ju Liu, Thomas J.R. Hughes, Chad M. Landis, Hector Gomez, “Liquid-Vapor Phase
+Transitions: Thermomechanical ‘Theory, Entropy Variable Formulation, and Boiling
+Simulations", The 18th International Conference on Finite Elements in Flow
+Problems (FEF 2015), Taipei, Taiwan, March 16-18, 2015.
+
+Z.A. Wilson, M.J. Borden, T.J.R. Hughes, and C.M. Landis, “A Phase-field Model
+for Hydraulic Fracture,” ASME 2014 IMECE, Montreal, Canada, November 19,
+2014.
+
+C.M. Landis, N. Bouklas, and R. Huang, “A Nonlinear Finite Element Method for
+Transient Behaviors of Hydrogels”, ASME 2014 IMECE, Montreal, Canada,
+November 18, 2014.71.
+
+70.
+
+69.
+
+68.
+
+67.
+
+66.
+
+6d.
+
+64.
+
+63.
+
+22
+
+Z.A. Wilson, M.J. Borden, T.J.R. Hughes, and C.M. Landis, “Phase-field Modeling
+of Hydraulic Fracture.” 2014 SES Annual Technical Meeting, West Lafayette, IN,
+October 2, 2014.
+
+M.J. Borden, T.J.R. Hughes, and C.M. Landis, “Phase-field Methods for Predicting
+Fracture in Brittle and Ductile Materials.” 2014 SES Annual Technical Meeting,
+West Lafayette, IN, October 2, 2014.
+
+R.M. McMeeking and C.M. Landis, “Fracture and adhesion in an_ infinite
+ferroelectric strip subject to electric field and stress.” Second Seminar on the The
+Mechanics of Multifunctional Materials, Physikzentrum of Bad Honnef, Bonn,
+Germany, May 6, 2014.
+
+Ju Liu, Chad M. Landis, Hector Gomez, John A. Evans, and Thomas J.R. Hughes,
+“Isogeometric Analysis of Liquid-Vapor Phase Transitions: ‘Thermodynamics,
+Algorithms, and Applications", Isogeometric Analysis 2014: Integrating Design and
+Analysis (IGA 2014), Austin, TX, January 8-10, 2014.
+
+Ju Liu, Hector Gomez, Chad M. Landis, John A. Evans, and Thomas J.R. Hughes,
+“Thermodynamically Consistent Algorithms for Liquid-Vapour Phase Transitions",
+SIAM Annual Meeting 2013, San Diego, California, July 9, 2013.
+
+C.M. Landis and D. Carka, “Modeling of needle domain patterns in barium titanate
+single crystals.” ASME 2013 Conference on Smart Materials, Adaptive Structures
+and Intelligent Systems, Snowbird, UT, September 2013.
+
+Ju Liu, Hector Gomez, Chad M. Landis, John A. Evans, and Thomas J.R. Hughes,
+“The Navier-Stokes-Korteweg Equations: ‘Thermodynamics, Algorithms, and
+Applications", 12th US National Congress on Computational Mechanics, Raleigh,
+North Carolina, U.S.A.
+
+Thomas J.R. Hughes, Ju Liu, Hector Gomez, John A. Evans and Chad M. Landis,
+“Thermodynamically Consistent Modelling and Simulation of Liquid-Vapor Phase
+Transition", V International Conference on Computational Methods for Coupled
+Problems in Science and Engineering Coupled Problems 2013, Ibiza, Spain.
+
+Ju Liu, Hector Gomez, John A. Evans, Thomas J.R. Hughes, and Chad M. Landis,
+“An Unconditionally Stable-in-energy, Second-order Accurate-in-time Scheme for the
+Isothermal Navier-Stokes-Korteweg Equations", Advances in Computational62.
+
+61.
+
+60.
+
+og.
+
+08.
+
+Of.
+
+06.
+
+Oo.
+
+23
+
+Mechanics (ACM 2013) A Conference Celebrating the 70th Birthday of Thomas J.R.
+Hughes, San Diego, CA, U.S.A.
+
+Z.A. Wilson and C.M. Landis, “A phase-field approach to modeling crack
+propagation in piezoelectric ceramics.” ASME 2012 IMECE, Housotn, TX,
+November 2012.
+
+D. Carka and C.M. Landis, “Phase-field modeling of equilibrium conditions and
+evolution of needle domain arrays in ferroelectric single crystals.” ASME 2012
+IMECE, Housotn, TX, November 2012.
+
+T. Baxevanis, D. Lahoudas, and C.M. Landis, 2012. “Mode I Steady Crack-Growth
+in Superelastic Shape Memory Alloys’, SMASIS2012-7934, ASME 2012 Conference
+on Smart Materials, Adaptive Structures and Intelligent Systems, Stone Mountain,
+GA, September 19-21, 2012.
+
+C.M. Landis, M.J. Borden and T.J.R. Hughes, “Phase-field modeling of dynamic
+crack propagation.” Workshop on Design of Ceramic-Fiber Based Composites for
+Service Above 1400 Centigrade, Boulder, CO, June 2012.
+
+C.M. Landis, and W. Li, “Instabilities in dielectric elastomer composites.” ASME
+2011 Conference on Smart Materials, Adaptive Structures and Intelligent Systems,
+Scottsdale, AZ, September 2011.
+
+C.M. Landis, Z.A. Wilson, W. Li, M.J. Borden and T.J.R. Hughes, “Phase-field
+modeling of crack propagation in piezoelectrics and ferroelectrics.” ASME 2011
+Conference on Smart Materials, Adaptive Structures and Intelligent Systems,
+Scottsdale, AZ, September 2011.
+
+M.J. Borden, T.J.R. Hughes, C.M. Landis, M.A. Scott, C.V. Verhoosel,
+“Isogeometric analysis of dynamic crack propagation using a phase-field model.”
+llth US National Congress on Computational Mechanics, Minneapolis, Minnesota,
+July 2011.
+
+M.J. Borden, T.J.R. Hughes, C.M. Landis, M.A. Scott, C.V. Verhoosel,
+“Isogeometric analysis and _ phase-field descriptions of crack propagation.”
+Computation Modeling of Fracture and Failure of Materials and Structures,
+Barcelona, Spain, June 2011.Oo.
+
+4.
+
+Oo.
+
+o2.
+
+ol.
+
+00.
+
+AQ,
+
+38.
+
+Of.
+
+36.
+
+24
+
+M.J. Borden, T.J.R. Hughes, C.M. Landis, M.A. Scott and C.V. Verhoosel, “Phase-
+Field Modeling of Fracture”, McMat 2011, Chicago, IL. May 31, 2011.
+
+M.J. Borden, T.J.R. Hughes, C.M. Landis, M.A. Scott, C.V. Verhoosel,
+“Isogeometric analysis and phase-field modeling of dynamic linear elastic fracture
+mechanics.” Isogeometric Analysis 2011: Integrating Design and Analysis, Austin,
+Texas, January 2011.
+
+C.M. Landis and W. Li, “Modeling of the Nucleation and Growth of Domain
+Needles”, ASME 2010 Conference on Smart Materials, Adaptive Structures and
+Intelligent Systems, Philadelphia, PA, September 29, 2010.
+
+C.M. Landis and D. Carka, “On the Path-Dependence of the /-Integral in Elastic-
+Plastic Materials”, U.S. National Congress on Theoretical and Applied Mechanics
+2010, State College, PA, July 1, 2010.
+
+C.M. Landis and W. Li, “A Finite Deformation Phase-Field Theory of
+Ferroelectrics”, Smart Structures and Materials 2010, San Diego, CA, March 8,
+2010.
+
+C.M. Landis and A. Kontsos, “The Structure of the Paraelectric-Ferroelectric Phase
+Boundary Interface’, Smart Structures and Materials 2010, San Diego, CA, March
+8, 2010.
+
+C.M. Landis and A. Kontsos, “Phase-Field Modeling of Domain Structures in
+Ferroelectric Thin Films’, 2009 Joint ASCE-ASME-SES Conference on Mechanics
+and Materials, Blacksburg, VA, June 25, 2009.
+
+C.M. Landis and B. Meason, “A Finite Element Model for Phase Front Evolution in
+Single Crystal Ferroelectrics”, 2008 U.S. Navy Workshop on Acoustic Transduction
+Materials and Devices, State College, PA, May 13, 2009.
+
+C.M. Landis, A, Kontsos, and W. Li, “Computational Phase-Field Modeling of
+Defect Interactions in Ferroelectrics”, Smart Structures and Materials 2009, San
+Diego, CA, March 9, 2009.
+
+C.M. Landis and W. Li, “Phase-field Modeling of Domain Switching near Crack ‘Tips
+in Single Crystal Ferroelectrics’, ASME IMECE 2008, Boston, MA, November 5,
+2008.30
+
+O4.
+
+33.
+
+32.
+
+Ol.
+
+30.
+
+29.
+
+28.
+
+27.
+
+26.
+
+25
+
+A. Kontsos and C.M. Landis, “Computational Modeling of Domain Wall Interactions
+with Dislocations in Ferroelectric Crystals’, ASME IMECE 2008, Boston, MA,
+November 5, 2008.
+
+C.M Landis, “A Finite Element Model for Phase Front Evolution in Single Crystal
+Ferroelectrics”, 2008 U.S. Navy Workshop on Acoustic Transduction Materials and
+Devices, State College, PA, May 13, 2008.
+
+C.M. Landis, “A continuum thermodynamics formulation of micro-magneto-
+mechanics with application to ferromagnetic shape memory alloys: Application to
+domain wall — twin boundary dissociation”, Smart Structures and Materials 2008,
+San Diego, CA, March 13, 2008.
+
+C.M. Landis, “Phase-field Modeling of Domain Switching Near Crack Tips in Single
+Crystal Ferroelectrics”, Smart Structures and Materials 2008, San Diego, CA, March
+11, 2008.
+
+C.M. Landis, “Micro-forces and their Application in Phase Field Modeling of
+Microstructural Instabilities’, ASME IMECE 2007, Seattle, WA, November 15, 2007.
+
+C.M. Landis, “A Continuum Thermodynamics Framework for Micro-magneto-
+mechanics with Applications to FSMAs”, SES 2007, College Station, TX, October
+23, 2007.
+
+C.M. Landis, “Micro-forces and their Application in Phase Field Modeling of Smart
+Materials”, McMAT 2007, Austin, TX, June 5, 2007.
+
+C.M. Landis, “A continuum thermodynamics formulation for micro-magneto-
+mechanics with applications to ferromagnetic shape memory alloys’, Smart
+Structures and Materials 2007, San Diego, CA, March 22, 2007.
+
+C.M. Landis, “Modeling of domain wall defect interactions’, Smart Structures and
+Materials 2007, San Diego, CA, March 19, 2007.
+
+C.M. Landis, “Phase field modeling of ferroelectric domain wall interactions with
+charge defects”, 2006 ASME IMECE, Chicago, IL, November 9, 2006.20.
+
+24.
+
+23.
+
+22.
+
+21.
+
+20.
+
+19.
+
+18.
+
+17.
+
+26
+
+C.M. Landis, “A Non-Equilibrium Thermodynamics Framework for Domain
+Evolution; Phase Field Models and Finite Element Implementation”, 15th U.S.
+National Congress of Theoretical and Applied Mechanics, Boulder, CO, June 29,
+2006.
+
+C.M Landis, “Mesoscale modeling of domain wall evolution”, 2005 U.S. Navy
+Workshop on Acoustic Transduction Materials and Devices, State College, PA, May
+11, 2006.
+
+C.M. Landis and Yu Su, “A non-equilibrium thermodynamics framework for domain
+evolution; phase field models and finite element implementation’, Smart Structures
+and Materials 2006, San Diego, CA, February 27, 2006.
+
+C.M Landis and Yu Su, “A Non-Equilibrium Thermodynamics Framework for
+Domain Evolution; Phase Field Models and Finite Element Implementation”, 2005
+U.S. Navy Workshop on Acoustic Transduction Materials and Devices, State
+College, PA, May 12, 2005.
+
+M. Motahari, E. Ustundag, R. Rogan and C.M. Landis, “Self-Consistent Modeling of
+Ferroelectrics’, 2005 Spring Meeting of the MRS, San Francisco, CA, March 29,
+2005. (presented by M. Motahari)
+
+C.M. Landis, “Energetically Consistent Boundary Conditions for Electromechanical
+Fracture”, 11th International Congress on Fracture, Turin, Italy, March 24, 2005.
+
+J. Wang and C.M. Landis, “On the Fracture Toughness of Ferroelectric Ceramics
+with Electric Field Applied Parallel to the Crack Front”, 11th International Congress
+on Fracture, Turin, Italy, March 24, 2005. (presented by C.M. Landis)
+
+J. Wang and C.M. Landis, “Toughening Behavior of Ferroelectric Ceramics under
+Different Poling Conditions”, Smart Structures and Materials 2005, San Diego, CA,
+March 8, 2005. (presented by J. Wang)
+
+J. Wang and C.M. Landis, “On the Fracture Toughness of Ferroelectric Ceramics
+with Electric Field Applied Parallel to the Crack Front”, ASME International
+Mechanical Engineering Congress and Exposition, Anaheim, CA, November 17, 2004.16.
+
+15.
+
+14.
+
+13.
+
+12.
+
+11.
+
+10.
+
+27
+
+C.M. Landis, “Energetically Consistent Boundary Conditions for Electromechanical
+Fracture’, ASME International Mechanical Engineering Congress and Exposition,
+Anaheim, CA, November 17, 2004.
+
+C.M. Landis, “Nonlinear Fracture Mechanics for Ferroelastic Materials’, Smart
+Structures and Materials 2004, San Diego, CA, March 17, 2004.
+
+C.M. Landis, “Modeling the Fracture Toughness Anisotropy in Mechanically Poled
+Ferroelectrics’, 2003 ASME Mechanics and Materials Conference, Scottsdale, AZ,
+June 18, 2003.
+
+C.M. Landis, “Continuum Constitutive Laws for Single Crystal Ferroelectrics’, 2003
+U.S. Navy Workshop, State College, PA, May 8, 2003.
+
+C.M. Landis, J. Wang, J. Sheng, ‘“Micro-electromechanically Informed
+Phenomenological Constitutive Laws for Ferroelectrics’, Smart Structures and
+Materials 2003, San Diego, CA, March 5, 2003.
+
+C.M. Landis, “Micromechanical and Phenomenological Constitutive Laws _ for
+Ferroelastic Ceramics’, ASME International Mechanical Engineering Congress and
+Exposition, New Orleans, LA, November 22, 2002.
+
+C.M. Landis, “A New Finite Element Formulation for Electromechanics”, Smart
+Structures and Materials 2002, San Diego, CA, March 19, 2002.
+
+C.M. Landis, “Asymptotic Mode III and Mode E Crack Tip Solutions in Ferroelectric
+Materials”, Tenth International Congress on Fracture, Honolulu, Hawaii, December
+3, 2001.
+
+C.M. Landis, “Shear Lag Modelling of Thermal Stresses in Unidirectional
+Composites”, Tenth International Congress on Fracture, Honolulu, Hawaii,
+December 4, 2001.
+
+C.M. Landis, T. Pardoen and J.W. Hutchinson, “Crack Velocity Dependent
+Toughness in Rate Dependent Materials’, ‘Tenth International Congress on Fracture,
+Honolulu, Hawaii, December 5, 2001.
+
+C.M. Landis, “Constitutive Behavior of Ferroelectric Ceramics”, ASME Applied
+Mechanics Division Summer Meeting, San Diego, CA, June 28, 2001.28
+
+5. C.M. Landis, “Mechanics of Fracture’, Mechanics and Materials Group Workshop,
+Rice University, Houston, TX, June 6, 2001.
+
+4. C.M. Landis, “Symmetric Constitutive Laws for Polycrystalline Ferroelectric
+Ceramics’, Smart Structures and Materials 2001, Newport Beach, CA, March 7,
+2001.
+
+3. C.M. Landis and R. M. McMeeking, “Modelling of Fracture in Ferroelectric
+Ceramics’, Smart Structures and Materials 2000, Newport Beach, CA, March 6,
+2000.
+
+2. C.M. Landis, “Shear-lag Modeling of Stress Concentrations and Failure of
+Unidirectional Fiber Composites”, 36" Annual Technical Meeting of SES, Austin,
+TX, October 26, 1999.
+
+1. C.M. Landis and R.M. McMeeking, “A Self-Consistent Model for Switching in
+Polycrystalline Ferroelectrics: Electrical Polarization Only’, Smart Structures and
+
+Materials 1999, Newport Beach, CA, March 3, 1999.
+
+TEACHING EXPERIENCE
+Undergraduate level Mechanics of Solids, Spring 2011, 2015, 2016, 2018, Fall 2013
+
+Undergraduate level Advanced Strength of Materials, Fall 2008, 2010, 2016
+Graduate level Mechanics of Active Materials, Spring 2008, 2013, 2016, Fall 2018
+Undergraduate level Structural Analysis, Fall 2007, Spring 2010, 2012, 2015, 2017, 2019
+
+Undergraduate level Statics, Spring 2007, 2010, Fall 2008, 2009, 2010, 2011, 2014, 2015,
+2016, 2017, 2018, 2019, Summer 2010, 2016
+
+Undergraduate level Dynamics, Summer 2019
+Undergraduate level Engineering Mechanics (Statics and Dynamics), Fall 2000-2006
+Undergraduate level Advanced Mechanics of Materials, Spring 2006
+
+Graduate level Theory of Elasticity, Fall 2001, 2002, 2003, 2005, 200629
+
+Graduate level Theory of Plasticity, Spring 2002, 2004, 2009
+Graduate level Theoretical Fracture Mechanics, Spring 2003, 2012
+
+SERVICE
+Associate Editor for International Journal of Solids and Structures, International
+Journal of Fracture, and Journal of Engineering Mechanics
+
+Selected to host the 2022 U.S. National Congress for Theoretical and Applied Mechanics
+in Austin, TX.
+
+Engineering Mechanics Graduate Advisor, 2010-2016
+
+Session Chair, “Symposium in Honor of Robert M. McMeeking on the Occasion of His
+60" Birthday”, U.S. National Congress on Theoretical and Applied Mechanics 2010,
+State College, PA, June 22-July 1, 2010.
+
+Participated in outreach activities (MITE) associated with the Equal Opportunity in
+Engineering program in the Cockrell School of Engineering at UT Austin, Summer 2008,
+
+Summer 2010.
+
+Organizing Committee, McMAT 2007 ASME Applied Mechanics and Materials
+Conference, June 3-7, 2007 at the University of Texas at Austin.
+
+Topic Chair, “Modeling, Simulation and Characterization of Smart Materials”, McMAT
+2007, June 3-7, 2007.
+
+Rice University MEMS Departmental Undergraduate Curricular and Advising
+Committee 2000-2006
+
+Faculty Advisor for Rice Student Section of ASME, 2000-2006
+Reviewer on NSF proposal panels — 2002, 2003, 2004, 2006, 2009, 2010, 2014, 2016, 2018
+
+Reviewer of numerous manuscripts in the areas of applied mechanics and materials
+science, 2005-2007 Outstanding Reviewer Award for Acta Materialia
+
+FUNDING30
+
+Army Research Office, 2002-2005, Development of a Non-Linear Finite Element Code
+for the Improvement of Piezoelectric Actuator Design and Reliability, $173,033
+
+National Science Foundation, 2003-2009, CAREER: Non-linear Electromechanics of
+Ferroelectric Ceramics, $400,000
+
+Office of Naval Research, 2003-2006, Young Investigator Award, Continuum
+Electromechanics of Ferroelectric Ceramics, $300,000
+
+Army Research Office, 2006-2009, Computational Model for Domain Structure
+Evolution in Ferroelectrics, $197,526
+
+Office of Naval Research, 2007-2010, Effects of Compositional Gradient and Cooling
+Rate on Stresses Generated During the Growth of Single Crystal Ferroelectrics,
+$224,890
+
+Army Research Office, 2007, McMat 2007 ASME Applied Mechanics and Materials
+Conference, $5,000
+
+National Science Foundation, 2009-2012, Materials World Network: Experimental
+Observation and Theoretical Modeling of Domain Evolution in Ferroelectrics, $250,000.
+
+Army Research Office, 2010-2013, Phase-field Modeling and Computation of Fracture
+and Microstructural Evolution, $284,154
+
+National Science Foundation, 2011-2014, Modeling and Simulation of the Giant
+Electrocaloric Effect, $250,000
+
+National Science Foundation, 2012-2015, Effect of Inhomogeneous Deformation on the
+Response of Shape Memory Alloy Structures, $389,289
+
+Army Research Office, 2012-2016, An Integrated Experimental and Modeling Study of
+Ductile Fracture, $569,904
+
+Statoil, 2013-2015, Phase-field Modeling of Hydraulic Fracture, $120,00031
+
+Technical Data Analysis Inc., 2015-2018, Phase Field Modeling for Fatigue Analysis
+Techniques, $97,475
+
+National Science Foundation, 2015-2018, Nonlinear Fracture Mechanics of Hydrogel-
+Like Soft Materials, $442,000
+
+Army Research Office, 2016-2017, An Integrated Experimental and Modeling Study of
+Ductile Fracture (extension), $190,018
+
+Office of Naval Research, 2016-2019, Development of Phase-field Modeling for
+Fatigue/Stress Corrosion Crack Growth and Additive Manufacturing, $537,011
+
+Office of Naval Research, 2016-2017, Initiation and Propagation in Aircraft Structural
+Components using Phase Field Model Technique — STTR Phase I, $13,998
+
+Office of Naval Research, 2017-2020, Initiation and Propagation in Aircraft Structural
+Components using Phase Field Model Technique — STTR Phase II, $100,000, Phase II
+$280,000
+
+National Science Foundation, 2018-2021, Instabilities in Shape Memory Alloys and
+Structures, $476,657
+
+ADVISEES
+
+Jianxin Wang — PhD, Rice University, 2006
+Jianshun Sheng — MS, Rice University, 2003
+Brian Meason — MS, UT Austin, 2008
+Wenyuan Li — MS, Rice University, 2006, PhD, UT Austin, 2011
+Zacharias Petrou — MS, UT Austin, 2013
+Dorinamaria Carka — PhD, UT Austin, 2012
+Nikolas Bouklas — PhD, UT Austin, 2014
+
+Ye Kuang — MS, UT Austin, 2015
+
+Zachary Wilson — PhD, UT Austin 2016
+Ryan Scurlock — MS UT Austin, 2016
+Dongjie Jiang — PhD, UT Austin 2017
+Alexandra Woldman — PhD, UT Austin 201732
+
+Yalin Yu - PhD, UT Austin 2019
+
+Talal Alotaibi - PhD, UT Austin 2019
+
+Amin Anvari,Yu-sheng Lo, Mohammed Alsawalhi, Hongrui Yu- PhD candidates at UT
+Austin
+
+Yu Su — Postdoctoral Associate, Rice University, 2004-2006
+
+Antonios Kontsos — Postdoctoral Associate, UT Austin, 2007-2009

@@ -1,0 +1,429 @@
+ECO F304K: Introduction to Microeconomics
+Unique Number 80910
+Summer 2020 Syllabus
+Lectures: On Demand
+Online Streaming through Canvas
+
+Instructor: Mark Whitmeyer
+
+Email: mark.whitmeyer@gmail.com
+
+Virtual Office Hours: Monday 9-11AM and by appointment, all via Zoom.
+
+Teaching Assistants:
+
+Alejandro Parraguez (aparragueztala@utexas.edu)
+
+Margarita Petrusevich (margarita_petrusevich@utexas.edu)
+
+Anjali Verma (anjali.priya@utexas.edu)
+
+TA Office Hours: Tuesday: 11AM - Noon with Alejandro, 4PM - 5PM with Margarita;
+Wednesday: 3PM - 4PM with Margarita, 4PM - 5PM with Anjali;
+Thursday: 4PM-5PM with Anjali;
+Friday: 11AM - Noon with Alejandro
+
+All also by appointment, all via Zoom.
+
+Each TA will be available during these time windows. To “attend a TA’s office hours,” (or attend my
+office hours) please email him/her (me) in advance to set up a time. It is especially helpful to let him/her
+(me) know the question(s)/concern(s) that you would like answered. Both the TAs and | will make every
+effort to be available outside of these times as well, but may have conflicts--so, please make every effort
+to schedule within the designated windows.
+
+Course Description:
+
+This course provides an introduction to key principles, concepts, and issues in microeconomics. As the
+name implies, microeconomics deals with the individual: the individual consumer, the individual
+household, and the individual firm as it makes decisions that affect the allocation of resources in the
+economy. The course is not designed just to give you a list of terms and theories, but rather it is
+intended to help you develop an analytical way of thinking about economic questions. | hope you will
+come away from this course with a “toolbox” that you can use to explore a variety of topics - from policy
+questions that dominate today's news to the more mundane decisions you make every day.
+
+Prerequisites: None. | will assume that you have a minimal math background. This means you
+should be able to follow along with some basic algebra and to understand some concepts about
+graphs. An excellent overview of these graphical concepts can be found in the appendix to Chapter 1
+on pp. 15-21.
+
+Course Flags:Social and Behavioral Sciences (Core Component 080)
+
+This course may be used to fulfill the social and behavioral sciences component of the university core
+curriculum and addresses the following four core objectives established by the Texas Higher Education
+Coordinating Board: communication skills, critical thinking skills, empirical and quantitative skills, and
+social responsibility.
+
+Quantitative Reasoning
+
+This course also carries the Quantitative Reasoning flag. Quantitative Reasoning courses are designed to
+equip you with skills that are necessary for understanding the types of quantitative arguments you will
+regularly encounter in your adult and professional life. You should therefore expect a substantial portion
+of your grade to come from your use of quantitative skills to analyze real-world problems.
+
+Textbook and Other Required Materials:
+
+The textbook for this course is Principles of Microeconomics, by Case, Fair, and Oster, published
+
+by Pearson. | will reference chapters and page numbers from the 12th edition, but not much has
+changed from earlier versions. The most recent version is the 13th edition, and little has
+
+changed there (especially in the chapters on which we focus) from the 12th edition.
+
+In addition, you are required to have one semester of access to MyEconLab. The bookstore offers
+packages with both the textbook and a MyEconLab access card, but there are some other (cheaper)
+options. See the separate handouts for these options and for instructions on registering for MyEconLab.
+Supplementary material will also be made available throughout the course on the course website. Please
+check this site frequently and/or update your notification preferences, as you are responsible for any
+material, assignments, and information posted there.
+
+Course Format:
+
+This is the On Demand Online Course version of the Introduction to Microeconomics course. You will be
+taking the class online (from the comfort of your own home, library, or coffee house) rather than in
+person and may tune in whenever is convenient. It is your responsibility to watch the lectures on
+schedule and keep up with the online quizzes and material for exams.
+
+Special Features of This Online Course:
+
+All students are required to have access to an internet-enabled laptop or desktop computer. Tablets
+and smartphones are not supported. Your computer should have enough battery life to last an entire
+class period and meet the requirements listed at https://www.laits.utexas.edu/tower/tech.html. If
+Campus opens up, there are multiple computer labs on campus for your use if you do not have a
+personal computer or laptop. You can find a listing of these labs here:
+http://www.utexas.edu/its/campuslabs
+
+The course website: To access all materials associated with the class, simply go to the Canvas page:
+https://utexas.instructure.com/courses/1280121To log in to Canvas, you will need your UTEID and password. Within the Canvas website, you can
+navigate your way to other areas. Some of the most important include:
+
+O Modules — includes links to daily lecture materials. For each day or week, there will be a
+link to the template lecture slides, details on reading assignments, and a link to the video
+from that day’s lecture.
+
+O MyLabs and Mastering — to access MyEconLab, the online homework and tutorial
+system.
+
+O Piazza — a valuable discussion board for asking questions about both course logistics and
+content.
+
+If you experience a technical problem, please email gatewaytechsupport@austin.utexas.edu. If
+
+you experience a technical problem related to MyEconLab, go to
+http://247pearsoned.custhelp.com/app/. The “Contact Us” button will allow you to initiate a live chat or
+phone call.
+
+e Bandwidth limitations: Because the streaming video is bandwidth-intensive, you are not
+allowed to access YouTube, Skype, Gmail video chat or other online video system, or any other
+program that is bandwidth demanding.
+
+e Information and data security — All quizzes and online interactions in Canvas will be saved and
+stored. All information will be kept for educational and general academic research. Any research
+or data sharing with other researchers will involve de-identifying the data, including the removal
+of names, UTEIDs, email addresses, or other information. To further ensure that your
+information is secure, please do not include identifying information in your online interactions
+with others. This is also why we will use Piazza as a discussion forum for the course; unlike a
+Facebook group, it allows you to post anonymously if you choose. Also, remember that in online
+interactions, the instructors and TAs will have access to all information. Please communicate in a
+respectful manner.
+
+Course Evaluation:
+
+Grading:
+
+20% Homework Assignments (e.g. MyEconLab)
+
+15% In-class quizzes (in Canvas modules)
+
+20% Exam 1 —June 17, 2020, 9AM - Noon
+
+20% Exam 2 — July 1, 2020, 9AM - Noon
+
+25% Final Project/Essay (5% Proposal, due 6/26; 20% Project/Essay itself, due 7/12)
+
+| will use plus/minus grade categories when assigning final grades (i.e. A, A-, B+, B,...D-, F).
+
+Grades may be curved, meaning that your letter grade will be assigned based on your weighted average
+course score and your performance relative to the rest of the class. Please do not ask me about extra
+credit or extra work to improve your grade. None will be given.Homework:
+
+There will be 5 homework assignments, and at the end of the semester, | will drop the lowest
+homework score. | will average your remaining scores to get your overall homework grade. That
+homework average will count for 20% of your final grade.
+
+You will complete the homework assignments on-line, outside of class, and you will submit them
+electronically through the MyEconLab tab in Canvas. Please note that MyEconLab will not accept
+late quizzes (even if they are just one second late!).
+
+There are no makeup assignments, regardless of the reason for not completing the assignment.
+Remember, however, that your lowest score is dropped.
+
+Plan ahead and do not wait until the last moment to complete the MyEconLab assignment. This
+way you will be able to submit it on time, even if a server goes down or another unforeseen
+difficulty occurs.
+
+If you have any technical questions or problems with the MyEconLab system, you should contact
+them by clicking on the “Help” link or going to http://247pearsoned.custhelp.com/app/. Please
+do not contact me or the TAs with MyEconLab technical problems. Of course, if you have
+questions about the content of the homework, the TAs and | will be available in office hours or
+through the Piazza discussion board.
+
+Quizzes:
+
+Exams:
+
+You must complete each quiz by the specified due date. The questions will be based on lectures
+and readings from the indicated chapters.
+
+There will be 8 quizzes. The 2 lowest quiz scores will be dropped.
+
+There are no make-up quizzes, regardless of the reason for missing one. Students who add the
+class late — and perhaps miss a quiz — will be held to this policy.
+
+It is your responsibility to make sure you have a working internet connection and that your
+computer meets the specified technical requirements. Failure on the part of the student to
+meet the technical requirements during a quiz means that the student will not be allowed to
+make up the quiz.
+
+Each student will receive a slightly different version of the quiz. Answers to your specific quiz
+will be discussed only in office hours.
+
+Quizzes must represent each student’s individual work; any evidence of collaboration on a quiz
+
+will be pursued with Student Judicial Services. Quizzes will be automatically analyzed for
+patterns of suspicious behavior, and in some cases, students may be asked to take quizzes in a
+proctored environment.
+
+In years past, the exams have been held in person. This is not possible this semester. Instead,
+the two exams will be take-home, open-book on Wednesday 6/17 and Wednesday 7/1 from9AM to Noon (CMT). If you have a conflict during these times, you must let me know by Monday
+6/8.
+
+The two exams will be somewhat different. The first will be based almost entirely on material
+from the textbook and will be a combination of multiple choice and short-answer questions.
+Anything covered in class or in the readings is fair game. The online lectures will help you
+identify the material that | consider to be the most important, but you must do the readings and
+homework assignments in order to be fully prepared for the exams. The second will be
+COVID-19 related: it will consist of questions that ask you to apply the material that you have
+learned to microeconomic scenarios that have recently arisen due to the coronavirus pandemic.
+
+Absence from an exam will only be excused without penalty if the absence is due to a serious
+and substantiated medical or personal emergency or some other reason that the university
+explicitly accepts as legitimate. If you are seeking an excused absence due to illness, you must
+notify me prior to the exam. You must provide written confirmation of a visit to a health care
+professional or other documentation no later than the Tuesday following the missed exam.
+
+No make-ups will be offered. If your absence is excused, the weight of that exam will be shifted
+to the other exam. Unexcused absences will result in a zero for that portion of your grade.
+
+Like the Quizzes, Tests must represent each student’s individual work; any evidence of
+collaboration on a test will be pursued with Student Judicial Services. Tests will be automatically
+analyzed for patterns of suspicious behavior. | reserve the right to add additional assignments or
+modify existing assignments for individual students whose previous work suggests academic
+impropriety.
+
+Final Project:
+
+In years past, this course has had three in-person exams. Due to COVID-19, in-person exams are
+no longer feasible, and instead of having three take-home exams, one of the exams has been
+replaced with a project/essay.
+
+This project/essay will concern COVID-19 and microeconomics. You will be asked to find a
+COVID-19 news article, which you will discuss (as rigorously as possible) from a microeconomic
+point of view. There are many aspects of the pandemic that are related to this course’s
+material--comparative advantage and free trade; supply and demand shifts; rationing; shut
+down decisions in the short and long run--and the project will give you a chance to apply what
+you have learned.
+
+Indeed, you will come across articles containing reasoning that ignores or misunderstands basic
+microeconomic principles. This is your chance to use what you’ve learned to critically assess
+what you hear/read/see.
+
+There will be a separate document on Canvas that goes into greater detail about my
+expectations for the project.
+
+There are two due dates for the project. The first is Friday, 6/26. By then you must have turned
+in a list (details to follow) of possible topics and articles. The second due date is Sunday, 7/12,
+which is when the project/essay is due.e Like the tests and quizzes, you may not collaborate with others on the essay/project. Any
+evidence of such collaboration will be pursued with Student Judicial Services. Projects will be
+automatically analyzed for patterns of suspicious behavior.
+
+Grade Disputes:
+
+Mistakes happen. If you think there has been an error in the grading of a quiz or homework, please
+email mark.whitmeyer@gmail.com with details about the assignment in question. If you think there has
+been a mistake in the grading of an exam, please download a “Grade Dispute Form” from the course
+website, attach it to your exam, and submit it to Mark Whitmeyer no later than one week after the work
+was returned. | reserve the right to re-grade the whole work, not just the part you request we look at.
+Note that re-grades may /ower your grade if | catch a mistake that had been made in your favor.
+
+Do check to ensure that there are no grade discrepancies between your returned work and the
+posted grade in Canvas. We try very hard to record scores correctly, but with over one hundred
+students in the course, typos can occur. Keep your graded work to verify any mistake in posting
+scores. If you do find an error in the recording of an exam grade in Canvas, please submit a “Grade
+Dispute Form” along with the physical exam.
+
+Communication:
+Most of the communication in the course will happen through the course Canvas website.
+
+e The TAs and | will often post announcements in Canvas. Click on the “Settings” link in the upper
+right corner of your Canvas page, to adjust your email address and notification preferences. This
+will allow you to receive email updates whenever course announcements are made, or when
+assignments and grades are posted.
+
+e For questions about the course material or logistics, | strongly encourage you to use the Piazza
+discussion board. This is a Q&A wiki platform that you can access either from within Canvas (via
+a link on the left menu). There are also Android and iPhone apps for Piazza. By posting questions
+here, everyone in the class will benefit from seeing the answers. You can also make your post
+anonymous to the rest of your classmates.
+
+e If you have a specific, personal question, please email the instructor or one of the TAs.
+
+e Please do not use the Inbox feature within Canvas for course-related email. | WILL NOT
+RESPOND! (I likely won’t even be aware of your message).
+
+e Even though this is an online course, you are still welcome (even encouraged!) to communicate
+with me and the TAs. “Attend” our posted office hours, or send an email to set up an
+appointment if none of the weekly office hours fit your schedule.
+
+How to Succeed in This Course:
+
+e “Attend” class by keeping up with the lecture schedule. Professor Houghton’s lectures are
+valuable in that they offer a different perspective than the textbook.e While you are “in class”, be engaged. Make note of questions to ask later to clarify your
+understanding. Actively take notes rather than just watching the feed.
+
+e Don't just read the material. Work through the material. Make use of the Study Plan available
+through MyEconLab. This contains many of the back-of-the-chapter problems and solutions.
+
+e If you are struggling, don't wait until the last minute to get help. See the “Communication” for
+more information on the best way to do this. Remember, it’s important not to wait until the
+end of the semester. Once you have turned in the final project, there is nothing we can do to
+help you.
+
+e There are a lot of assignments (homeworks and quizzes). Don’t fret. In fact, | see this as being to
+your advantage--you have plenty of chances to make mistakes yet still get an excellent grade.
+Lots of second chances.
+
+Statement on Academic Integrity:
+
+The University of Texas Code of Conduct states:
+
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership,
+individual opportunity, and responsibility. Each member of the university is expected to uphold these
+values through integrity, honesty, trust, fairness, and respect toward peers and community. Each
+student in this course is expected to abide by the UT Honor Code and uphold academic integrity. What
+this means for this course: You are encouraged to study together and to discuss information and
+concepts covered in lecture with other students. You can work together on homework assignments.
+However, this cooperation should never involve one student having possession of or copying directly
+from another student’s work. Should such copying occur, both students involved will receive zeros for
+the assignment. During quizzes and examinations, each student must do his or her own work. Any
+collaborative behavior or use of unauthorized material during these quizzes or exams will result in a
+failing grade for that assignment or group of assignments, potential failure of the course, and University
+disciplinary action for all involved parties. If you observe or are aware of cheating, you are honor bound
+to contact the TAs or instructor.
+
+Use of Class Materials:
+
+The materials used in this class, including, but not limited to, exams, quizzes, and homework
+assignments are copyright protected works. Any unauthorized copying of the class materials is a
+violation of federal law and may result in disciplinary actions being taken against the student.
+Additionally, the sharing of class materials without the specific, express approval of the instructor may
+be a violation of the University’s Student Honor Code and an act of academic dishonesty, which could
+result in further disciplinary action. This includes, among other things, uploading class materials to
+websites (such as CourseHero, ScribD, Koofers, or others) for the purpose of sharing those materials
+with other current or future students.
+
+ADA Notice:
+
+Students with disabilities may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities at 471-6259 (voice) or
+2322937 (video phone) or http://www.utexas.edu/diversity/ddce/ssd. Once you have received a letterof accommodation, send a scanned copy to Mark Whitmeyer ASAP. We need to have the letter at least
+two business days before the first exam to make any accommodations.
+
+Behavior Concerns Advice Line (BCAL)
+
+If you are worried about someone who is acting differently, you may use the Behavior Concerns
+Advice Line to discuss by phone your concerns about another individual’s behavior. This service is
+provided through a partnership among the Office of the Dean of Students, the Counseling and
+Mental Health Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas
+Police Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal. Course
+Outline - Below is the schedule of due dates and chapters/modules you need to cover by certain
+dates to stay current with the course. Before each exam date, | will open all the modules leading up
+to that exam. You may complete them early, but may not move on to the material
+
+following the exam until after you have completed the exam. If you finish early, please go back
+
+and review the material in preparation for the exam.Chapters Modules to Complete
+in Canvas
+
+Introduction: Course 1, 2
+mechanics and motivation.
+
+The Economic Problem:
+
+Scarcity, choice, and
+
+Opportunity cost
+
+Comparative Advantage and
+
+Trade
+
+Module 1
+Module 1
+
+3,4,5,6
+How markets work:
+Demand and Supply
+Market Equilibrium
+Demand and Supply
+Applications
+Elasticity
+The Consumer’s Problem,
+ChoiceTopics Chapters Modules to Complete in
+Canvas
+
+Due Friday 6/12 Quiz 2, Quiz 3
+
+Exam Wednesday 6/17
+(9AM-Noon) EXAM 1
+
+6/17-6/19 Production and Profit 7,8
+Short-run costs and output
+decisions
+
+Modules 2 and 3
+Modules 2 and 3
+Modules 2 and 3
+
+Due Monday 6/22 Modules 4 and 5
+
+Due Monday 6/22 Modules 4 and 5
+
+6/22-6/26 Long-run costs and output | 9, 12, 13, 15
+decisions
+Markets: Perfect
+Competition, Equilibrium
+and Efficiency
+Monopolistic Competition
+
+Due Friday 6/26 Project/Essay Proposal po
+
+Exam Wednesday 7/1
+(9AM-Noon) EXAM 2Monopoly Oligopoly and 14,19, 16
+Game Theory
+
+Government
+
+Interventions - taxes,
+
+subsidies, quotas
+
+Externalities
+
+Public Goods
+
+Project/Essay Due COVID-19 and
+Sunday 7/12
+
+ 
+
+Microeconomics Project

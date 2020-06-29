@@ -1,0 +1,399 @@
+Updated: Oct., 2018
+
+SIBUM SUNG, Ph.D
+Associate Professor
+Department of Molecular Biosciences
+Institute for Cellular and Molecular Biology
+University of Texas at Austin, TX 78712
+NMS 5.110, 5.268
+Phone: 512-232-0867
+Email: sosung@austin.utexas.edu
+
+Positions and Employment
+
+2013- Associate Professor, Department of Molecular Biosciences, the University of Texas at Austin
+
+2007- Assistant Professor, Section of Molecular Cell & Developmental Biology, the University of Texas
+at Austin
+
+Education
+
+Seoul National University, Biology, BS with Honors (summa cum laude) 1996
+
+Seoul National University, Biology, MS 1998
+
+University of Wisconsin in Madison, Biochemistry, PhD 2004
+
+University of Wisconsin in Madison, Biochemistry, Postdoctoral fellow 2004-2007
+
+Publications
+
+Xi Y., S. Sung, 2019, Transcriptome and epigenome analyses of vernalization in Arabidopsis thaliana. Genome Biol.
+Submitted.
+
+Kim ED, Y. Xiong, B.-H. Kang, S. Sung, 2019, Identification of long noncoding RNAs in the developing endosperm of Maize.
+Methods. in Mol. Biol. , in press
+
+Wang L., Y. Xi, S. Sung, H. Qiao, 2018, RNA-segq assistant: machine learning based methods to identify more transcriptional
+regulated genes. BMC Genomics, 19(1):546.
+
+Kim D. H., Xi Y., and Sung S, 2017, Modular function of long noncoding RNA, COLDAIR, in the vernalization response.
+PLoS Genet, 13(7):e1006939.
+
+Kim ED, Y Xiong, Y. Pyo, DH Kim, BH Kang, S. Sung, 2017, Spatio-temporal analysis of coding and long noncoding
+transcripts during maize endosperm development, Scientific Rep., 19;7(1):3838.
+
+Kim D. H. and Sung S, 2017, Vernalization-triggered intragenic chromatin-loop formation by long noncoding RNAs.
+Developmental Cell, (16) 30916-9.
+
+Kim DH, Sung S., 2017, Accelerated vernalization response by an altered PHD-finger protein in Arabidopsis. Plant Signal
+Behav. 12(5):e1308619.
+
+Kim D. H. and Sung S, 2017, The binding specificity of PHD-finger domain of VIN3 moderates vernalization response. Plant
+Physiology, 173(2):1258-1268.
+
+Zhang F, L. Wang, J.Y. Lim, T Kim, Y. Pyo, S. Sung, C. Shin, H. Qiao, 2016, Phosphorylation of CBP20 Links MicroRNA
+to Root Growth in the Ethylene Response. PLoS Genet 12(11):e1006437.
+
+aSharma, N., R. Xin, D.-H. Kim, S. Sung, T Lange, and E. Hug, 2016, NO FLOWERING IN SHORT DAY (NEL) is a bHLH
+transcription factor that promotes flowering specifically under short-day in Arabidopsis, Development, 143(4):682-90.
+
+Kim D. H. and Sung S, 2014, Polycomb-Mediated Gene Silencing in Arabidopsis thaliana. Mol Cells., 31;37(12):841-850.
+
+Xiong, Y., Mei W., Kim E. D. , Mukherjee K., Hassanein H., Barbazuk W., Sung S., Kolaczkowski B., B. H. Kang, 2014,
+Adaptive expansion of the maize, BMC Plant Biol., 14(1):204.
+
+Pyo, Y., S. Park, Y. Xi and S. Sung, 2014, Regulation of Flowering by Vernalisation in Arabidopsis. Advances in Botanical
+Research 72:29-61.
+
+Kim D. H. and Sung S, 2014, Vernalization. Temperature and Plant Development (edited by K. A. Frankin & OP. A.
+Wigge), 79-95.
+
+Jones, A. L. and S. Sung, 2014, Mechanisms underlying epigenetic regulation in Arabidopsis thaliana, Integr Comp Biol.,
+54(1) 61-7.
+
+Kim, D. H. and S. Sung, 2014, Genetic and Epigenetics Mechanisms Underlying Vernalization, The Arabidopsis Book, 12:
+e0171.
+
+Heo, J. B. , Y. S. Lee and S. Sung, 2013, Epigenetic regulation by long noncoding RNAs in plants. Chromosome Res.,
+21:685-93.
+
+Kim, D. H. and S. Sung, 2013, Coordination of the vernalization response through a VIN3 and FLC gene family regulatory
+network in Arabidopsis. Plant Cell, 25(2):454-69.
+
+Hyun, Y., H. Yun, K. Park, H. Ohr, O. Lee, D. H. Kim, S. Sung and Y. Choi, 2013, Stable inheritance of epigenetic histone
+modifications requires INCURVATA2, the catalytic subunit of Arabidopsis DNA polymerase [alpha], Development,
+140(1):156-66.
+
+Zografos B. R. and S. Sung, 2012, Vernalization-mediated chromatin changes, J. Exp. Bot., 63:4343-8.
+
+Heo J. B., S. Sung and S. Assmann, 2012, A Ca2+-dependent GTPase, EXTRA-LARGE G-PROTEIN2 (XLG2), promotes
+activation of the DNA binding-protein RELATED TO VERNALIZATION1 (RTV1), leading to activation of floral integrator
+genes and early flowering in Arabidopsis. J. Biol. Chem., 287:8242-8253.
+
+Kim D. H. and S. Sung, 2012, Environmentally coordinated epigenetic silencing of FLC by protein and long noncoding RNA
+components, Curr. Op. in Plant Biol., 15(1):51-6.
+
+Kim E. D. and S. Sung, 2012, Long noncoding RNA: Unveiling hidden layer of gene regulatory networks in plants, Trends in
+Plant Sci. , 17(1):16-21.
+
+Heo J. B. and S. Sung, 2011, Encoding memory of winter by noncoding RNAs., Epigenetics, 5:544-7.
+
+Heo J. B. and S. Sung, 2011, Vernalization-mediated epigenetic silencing by a long intronic noncoding RNA, Science, 331:
+76-9.
+
+Kim D. H. and S. Sung, 2010, Role of VIN3-LIKE 2 in facultative photoperiodic flowering response in Arabidopsis, Plant Sig.
+Behav., 26(5):1672-3.
+
+Kim D. H. and S. Sung, 2010, The Plant Homeo Domain finger protein, VINS-LIKE 2, is necessary for photoperiod-mediated
+epigenetic regulation of the floral repressor, MAF5, Proc. Natl. Acad. Sci., 107(39): 17029-17034
+
+Kim D. H., B.R. Zografos, and S. Sung, 2010, Mechanisms underlying vernalization-mediated VIN3 induction Plant Signal
+Behav., 26(5):1457-9.Kim D. H., B.R. Zografos, and S. Sung, 2010, Vernalization-mediated VIN3 induction overcomes the
+LIKE-HETEROCHROMATIN PROTEIN 1/Polycomb Repression Complex 2 -mediated epigenetic repression. Plant
+Physiol., 154:949-957
+
+Horvath D. P., S. Sung, D.-H. Kim, W. Chao, and J. V. Anderson, 2010, Characterization, expression and function of
+DORMANCY ASSOCIATED MADS-BOX genes from leafy spurge. Plant Mol. Bio., 73:169-79
+
+Kim, D.-H., M. Doyle, S. Sung, and R. M. Amasino, 2009, VERNALIZATION: WINTER AND THE TIMING OF FLOWERING
+IN PLANTS. Annual Rev. Cell Dev. Biol., 25:277-299.
+
+Schmitz R.*, S. Sung*, and R. M. Amasino, 2008, AtTPRMT5-Mediated Symmetric Di-methylation of Arginine 3 of Histone 4
+is Required for Maintenance of Vernalization-Induced Epigenetic Silencing of FLC in Winter-Annual Strains of Arabidopsis
+thaliana, Proc. Natl. Acad. Sci., 105:411-6. (* denotes equal contribution)
+
+Sung S., R. Schmitz and R. M. Amasino, 2007, The Role of VIN3-LIKE Genes in Environmentally Induced Epigenetic
+Regulation of Flowering, Plant Signal Behav. 2(2):127-8.
+
+Sung S., R. Schmitz and R. M. Amasino, 2006, A PHD finger protein involved in both the vernalization and photoperiod
+pathways in Arabidopsis., Genes Dev., 20:3244-8.
+
+Sung S., and R. M. Amasino, 2006, Molecular genetic studies of the memory of winter, J. Exp. Bot., 57:3369-77.
+
+Sung S., Y. He, T. W. Eshoo, Y. Tamada, L. Johnson, K. Nakahigashi, K. Goto, S. E. Jacobsen and R. M. Amasino, 2006,
+Epigenetic maintenance of the vernalized state in Arabidopsis thaliana requires LIKE HETEROCHROMATIN PROTEIN 1,
+Nature Genet. 38:706-10
+
+Sung, S. and R. M. Amasino, 2005, To remember winter: Towards a molecular understanding of vernalization, Annual Rev.
+Plant. Biol., 56:491-508.
+
+Sung, S. and R. M. Amasino, 2004, Vernalization in Arabidopsis thaliana is mediated by the PHD finger protein VIN3,
+Nature 427:159-164.
+
+Sung, S. and R. M. Amasino, 2004, Vernalization and epigenetics: how plants remember winter, Curr. Op. in Plant Biol.
+7:4-10.
+
+Hall, A., R.M. Bastow, S. J. Davis, S Hanano, H. G. McWatters, V. Hibberd, M. R. Doyle, S. Sung, K. J. Halliday, R. M.
+Amasino and A. J. Millar, 2003, The TIME FOR COFFEE gene maintains the amplitude and timing of Arabidopsis circadian
+clocks, Plant Cell 15:2719-2729.
+
+Schranz, M. E., P Quijada, S.-B. Sung, L. Lukens, R Amasino and T.C. Osborn, 2002, Characterization and effects of the
+replicated flowering time gene FLC in Brassica rapa, Genetics 162:1457-1468.
+
+Doyle, M., S.-B. Sung and R Amasino, 2001, Plant Reproduction (edited by S. D. O'Neill and J. A. Roberts)-The genetic
+control of flowering time, Annual Plant Reviews 6:33-60
+
+Lee, H., S. B. Sung, H. B. Kim and C. S. An, 2001, Sequence analysis and expression patterns of two nifA genes from
+EulK1, Aust. J. Plant Physiol., 28:939-949.
+
+Yoo, W.Y., S.B. Sung and C. S. An, 1999, Nucleotude sequences of the 2-oxoacid ferredoxin oxidoreductase and
+ferredoxin genes from Frankia strain EulK1, a symbiont of Elaegnus umbellate root nodules, Can. J. Bot. 77:1279-1286.
+
+Patents
+
+U.S. Patent No. 6,693,228, Richard M. Amasino, Scott D. Michaels, Fritz M. Schomburg, Katia C. Scortecci,
+Si-Bum Sung, Alteration of flowering time in plants, Feb. 2004.
+
+U.S. Patent No. 7,129,396, Richard M. Amasino, Ed Himelblau, Scott D. Michaels, Fritz M. Schomburg, Si-Bum
+Sung, Dominant genes delaying flowering, Oct. 2006.
+
+U.S. Patent No. 7,723,565, Richard M. Amasino, Si-Bum Sung, Yuehui He, Vernalization-related molecules and
+methods for inducibly-conferring epigenetic changes. May 2010.
+
+3Current Funding:
+Funding Agency: National Institute of Health-NIGMS RO1 GM100108A1
+
+Title: Coordinated regulation of floral transition by protein and long noncoding RNA components
+Total Amount: $1,215,840
+
+Duration: 7-1-17 to 6-31-21
+
+Pl: Sibum Sung
+
+Funding Agency: National Science Foundation
+
+Title: The role of PHD-finger proteins in temperature-mediated responses in Arabidopsis
+Total Amount: $638,000
+
+Duration: 3-01-17 to 2-29-20
+
+Pl: Sibum Sung
+
+Funding Agency: Defense Advanced Research Projects Agency — Advanced Plant Technology
+Title: Secure Network of Intelligent Flowers (SNIF)
+
+Total Amount: $5,579,003 ($1,013,776 to Sibum Sung)
+
+Duration: 9-30-18 to 9-30-21
+
+Pl: Andrew Ellington (Co-Pls: Alan Lloyd, Hong Qiao, Sibum Sung, and Jeff Tabor (Rice))
+
+Completed Funding:
+Funding Agency: National Institute of Health-NIGMS RO1 GM100108A1
+
+Title: Coordinated regulation of floral transition by protein and long noncoding RNA components
+Total Amount: $1,447,889
+
+Duration: 5-1-12 to 6-31-17
+
+Funding Agency: United States Department of Agriculture — 2011-67013-30119
+
+Title: Cell Type Specific Epigenetic Regulation in the Maize Endosperm during Seed Development
+PI & coPI: Pl: Byung-Ho Kang, The University of Florida at Gainesville
+
+Co-PI: Sibum Sung, The University of Texas at Austin
+Total Amount: $480,000 ($220,520 to Sibum Sung)
+
+Duration: 3-15-11 to 3-14-15
+
+Funding Agency: National Science Foundation
+
+Title: Flowering time control under short days by the regulatory network of VIN3 and FLC gene families
+Total Amount: $399,996
+
+Duration: 8-1-10 to 7-31-14
+
+Teaching
+
+Organized Courses
+
+Spring 2008 BIO 383K.06: Current Literature in Cell & Developmental Biology — with emphasis on the epigenetic regulation
+of development
+
+Spring 2009 - 2018 BIO 325 Genetics: Undergraduate (average enrollment: 100)
+
+Fall 2018 BIO 325 Genetics: Undergraduate (average enrollment: 100)
+
+Students Mentored
+- Post Doctoral Fellow
+Dr. Bo Zhao, 2017 ~; current
+Dr. Yogendra Boridya, 2018 ~; current
+Dr. Wei Zang; 2018 ~; current
+Dr. Dong-Hwan Kim, ~ 2018; Currently Assistant Professor at Chung-Ang Univ., South Korea.
+
+4Dr. Jae-Bok Heo, Post Doctoral fellow; Aug. 2008 ~ Feb 2011; Currently Associate Professor at Dong-A University,
+South Korea
+Dr. Eundeok Grace Kim, 2011 ~ 2016; Currently Research Associate at Keiko Torii’s Lab (UW -Seattle)
+Dr. Young-Jae Pyo; 2012 ~ 2017; Currently Research Assistant Professor at Yonsei University, South Korea
+- Research Scientist
+Nestor Rodriguez, 218 ~; current
+- Graduate Students
+Brett Zografos, CMB graduate student; 2008 ~ 2013; Currently Postdoctoral Fellow at Paris XIl
+Sungrye Park, Plant Biology graduate student; 2010 ~ 2017
+Yanpeng Xi, Plant Biology graduate student; 2012 ~ present
+Ashley Jones, Plant Biology graduate student; Sep 2012 ~ 2014; Currently High school teacher
+Amy Wong, Rotating CMB student; Feb. ~ May 2008
+Jidnyasa Mulekar, Rotating CMB student; Sep. ~ Nov. 2008
+Marisa Miller, Rotating CMB student; Feb. 2009 ~ May 2010
+- Undergraduate Students
+Jorge Barajas, Currently undergraduate research assistant in the Lab; 2007 ~ 2012
+Jessica Sisavath, undergraduate research assistant in the Lab; 2007 ~ 2010
+Shahrin Tina, Currently undergraduate research assistant in the Lab; 2008 ~ 2012
+Evelyn Joo, Currently undergraduate research assistant in the Lab; 2009 ~ 2013
+Lindsey Dunham, undergraduate research assistant in the Lab; 2009 ~ 2010
+Jimmy Chung, undergraduate research assistant in the Lab; 2010 ~ 2010
+Jericho Park, undergraduate research assistant in the Lab; 2012 ~ 2014
+Luyao Shi, undergraduate research assistant in the Lab; 2013 ~ 2016
+Runze Ge, undergraduate research assistant in the Lab; 2016 ~ 2018
+Johnathan Jaster, undergraduate research assistant in the Lab; 2015 ~ 2018
+Tanya Van Zante, undergraduate research assistant in the Lab; 2017 ~ 2018
+Edwin Chon, undergraduate research assistant in the Lab; 2017 ~ current
+Nicholas Cerda, undergraduate research assistant in the Lab; 2018 ~ current
+Chung-Wing Ko, undergraduate research assistant in the Lab; 2018 ~ current
+
+- K-12 students (summer research program — since 2012)
+
+Other academic activity
+
+University Service
+
+MCDB seminar organization committee; 2008 ~ 2010
+
+Prelim committee, Cell & Molecular Biology; 2009 ~ 2015
+
+Graduate Admission Committee, Cell & Molecular Biology; 2009 ~ present
+
+MCDB student support committee; 2010 ~ 2013
+
+MCDB retreat organization committee; 2011 ~ 2013
+
+MCDB faculty search committee, 2012 ~ 2013
+
+ICMB advisory committee; 2013 ~ 2016
+
+MBS Course and Curriculum committee; 2013 ~
+
+Undergraduate Advisor, Plant Biology; 2013 ~
+
+College of Natural Sciences Undergraduate Advisor Committee; 2013 ~
+
+Greenhouse Management Committee; 2013 ~
+
+Qualifying Examination Core-Committee of 15 faculty (Q15), Cell & Molecular Biology; 2015 ~
+Chair, International Graduate Admission Committee for Cell & Molecular Biology; 2015 ~ present
+Plant Biology Graduate Student Support Committee; 2015 ~
+
+Plant Biology Graduate Admission Committee; 2015 ~ 2016
+
+Greenhouse Design & Construction Committee; 2016 ~
+
+MBS Promotion & Tenure Committee; 2016 ~
+
+MBS Faculty Search Committee; 2016 ~
+
+Non-University Service
+
+Organizing committee: US-Korea Conference 2016, Dallas, Aug. 2016.
+
+Organizing committee: International Conference for Arabidopsis Research 2016
+
+Korean American Engineers & Scientist Association, Austin Chapter President 2015 ~ 2017
+
+9SGrant review: NSF review panel
+
+ad hoc reviewer: NSF, European Research Council, BBSRC, Marsden (New Zealand), KOSEF
+
+Editorial Board:
+
+Environmental Epigenetics; 2015~ , Frontiers in Plant Biology; 2014 ~, Frontiers in Genetics; 2014 ~.
+
+Guest Editor: PLoS Genetics, since 2011 ~
+
+ad hoc reviewer (> 50 / yr):BMC Genomics, BMC Plant Biology, Cell Research, Crop Science, Development, Developmental
+Biology, EMBO Journal, EMBO Reports, Genome Biology, Genes, Genes & Development, Journal of Biological Chemistry,
+Journal of Experimental Botany, Molecular Plant, New Phytologist, Plant Cell, Plant Cell & Physiology, Plant Cell and
+Environment, Plant Journal, Plant Physiology, Planta, PLoS Genetics, PLoS One, PNAS, RNA, Science, Trends in Cell
+Biology, Trends in Plant Sciences and etc.
+
+Talk and presentation — since 2009
+
+Invited Seminar Speaker, Dept. of Biology, University of British Columbia, Mar 2019
+
+Invited Seminar Speaker, Dept. of Genetics, University of Georgia, Oct 2018
+
+Invited Keynote Speaker, International Symposium of Applied Biochemistry, June 2018
+
+Invited Seminar Speaker, Dept. Plant Sciences, Seoul National University, May 2018
+
+Invited Seminar Speaker, Dept. of Biology, Indiana University, Nov 2017
+
+Invited Seminar Speaker, Shanghai Center for Plant Stress Biology, China, May 2017
+
+Invited Seminar Speaker, Plant & Microbial Biology, UC-Berkeley, CA, Dec. 2016
+
+Invited Seminar Speaker, School of Biological Sciences, Seoul Nat'l Univ., South Korea, Nov. 2015.
+
+Invited Seminar Speaker, CUHK, Hong Kong, Oct. 2015
+
+Invited Symposium Speaker, Plant Biology 2015, Daejeon, South Korea, Nov. 2015.
+
+Invited Seminar Speaker, Genetics colloquia — Univ. of Wisconsin at Madison, WI, Nov. 2014
+
+Invited Seminar Speaker, Dept. of Molecular Biology, Chonbuk Nat'l Univ., South Korea, Aug. 2014.
+
+Invited Seminar Speaker, Korea Polar Institute, South Korea, Aug. 2014
+
+Invited Symposium Speaker, Keystone Symposia — Plant Signaling, Breckenridge, CO, Feb 2014.
+
+Invited Symposium Speaker, SICB annual meeting 2014, Austin, TX, Jan. 2014.
+
+Invited Seminar Speaker, The Stockbridge School of Agriculture, University of Massachusetts at Amherst, Dec. 2013.
+Invited Seminar Speaker, Dept. of Cell Biology and Molecular Genetics, University of Maryland, Feb. 2013.
+
+Invited Speaker; Jacques Monod Conference 2012 on RNA, France, Nov. 2012.
+
+Invited Speaker; 10th International Congress on Plant Molecular Biology, Jeju, Korea, Oct. 2012.
+
+Invited Seminar Speaker, Dept. Horticulture, Purdue Univ., Feb. 2012.
+
+Invited Seminar Speaker, Dept. of MCDB, UCLA, Feb. 2012.
+
+Invited Plenary Speaker; The Commemorative International Symposium for the 20th Anniversary of Korean Society of Life
+Science, Busan, Korea, Oct. 2011.
+
+Invited Symposium Speaker; US-Korea summit on Science and Engineering of 40 years, Park City, UT, USA, Aug. 2011.
+Invited Symposium Speaker; Plant Biology 2011, Minneapolis, MN, USA, Aug 2011.
+
+Invited Symposium Speaker; Keystone Symposia — Biology and Mechanisms of silencing, Monterey, CA, USA, Mar. 2011.
+Invited Symposium Speaker, SAAR- Biochemistry and biotechnology, Corpus Christi, TX, USA, Feb 2011
+
+Invited Plenary Speaker; Plant Science Conference, Seoul, Korea, Nov 2010.
+
+Invited Seminar Speaker; School of Biological Sciences, Seoul National University, Seoul. Korea, Nov 2010.
+
+Invited Seminar Speaker; Graduate school of Biotechnology, Korea University, Seoul, Korea, Nov 2010.
+
+Invited Symposium Speaker; Plant Biology 2010, Montreal, Canada, Aug 2010.
+
+Invited Seminar Speaker; Dept. of Biology, Texas State University, Nov 2009.

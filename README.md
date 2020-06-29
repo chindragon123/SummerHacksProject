@@ -1,5 +1,3 @@
-## Website Frontend
-This is a React project that allows for basic search over a collection of class syllabi.
+## SummerHacksProject
 
-## Getting started
-Just go to the URL running the website and it will show a search bar. Use it like Google or any other search engine.
+This project is meant to provide a website that aggregates syllabi from classes so to help students find what they want to study.
