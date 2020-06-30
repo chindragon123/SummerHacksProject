@@ -10,7 +10,7 @@ def isLetter(character):
     return False
 def saveToFile(wordList, wordCount, wordOccurrences):
     '''Writes the order of words and number of each word to output.txt'''
-    output = open("output.txt", "w")
+    output = open("../output.txt", "w")
     for word in wordCount.keys():
         output.write(word + ": " + str(wordCount.get(word)) + "\n")
     counter = 0
