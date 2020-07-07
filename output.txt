@@ -1,995 +1,1287 @@
-biology: 4
-l: 9
-human: 13
-microscopic: 11
-and: 108
-gross: 8
-anatomy: 15
-general: 1
-course: 25
-information: 6
-lecture: 10
-mtwthf: 2
-: 93
-room: 2
-via: 2
-zoom: 7
-prerequisites: 1
-c: 5
-or: 27
-h: 1
-with: 18
-a: 35
-grade: 15
-of: 83
-at: 21
-least: 6
-chemistry: 1
-witha: 1
-one: 4
-the: 171
-following: 4
-courses: 4
-mathematics: 1
-k: 1
-n: 2
-r: 1
-statistics: 1
-scientific: 1
-computation: 1
-this: 18
-may: 17
-be: 70
-used: 11
-to: 65
-fulfill: 1
-three: 3
-hours: 11
-natural: 1
-science: 1
-technology: 1
-part: 2
-il: 1
-component: 1
-university: 6
-core: 2
-curriculum: 1
-addresses: 1
-four: 4
-objectives: 4
-established: 1
-by: 15
-texas: 2
-higher: 1
-education: 1
-coordinating: 1
-board: 1
-communication: 2
-skills: 5
-critical: 3
-thinking: 3
-teamwork: 1
-empirical: 1
-quantitative: 1
-instructor: 7
-director: 3
-william: 1
-j: 1
-babler: 4
-phd: 1
-email: 13
-through: 11
-canvas: 17
-inbox: 7
-office: 12
-phone: 3
-ta: 3
-soroosh: 1
-sadeh: 1
-tba: 2
-lovisa: 1
-nylander: 1
-laboratories: 1
-mtwth: 1
-pm: 9
-lab: 28
-tim: 2
-fleisher: 4
-m: 3
-overview: 1
-bio: 5
-is: 33
-an: 19
-upper: 1
-division: 1
-designed: 3
-for: 33
-health: 1
-careers: 2
-majors: 1
-will: 79
-provide: 3
-studentswith: 1
-intensive: 1
-survey: 1
-various: 2
-tissues: 5
-organs: 3
-relationship: 2
-between: 2
-histology: 2
-stressed: 1
-use: 10
-systems: 3
-approach: 2
-emphasis: 2
-on: 22
-integrated: 2
-structurefunction: 1
-relationships: 3
-cell: 5
-tissue: 5
-organ: 5
-level: 2
-as: 13
-well: 3
-clinical: 4
-applications: 1
-material: 14
-all: 10
-levels: 1
-study: 7
-provided: 4
-online: 3
-materials: 15
-include: 2
-virtual: 1
-slide: 1
-library: 1
-d: 1
-computer: 1
-models: 1
-completion: 1
-students: 17
-able: 4
-identify: 3
-describe: 2
-different: 3
-types: 1
-structure: 4
-location: 1
-their: 2
-specific: 3
-functions: 3
-each: 7
-other: 11
-in: 56
-body: 5
-semester: 3
-you: 56
-have: 20
-opportunity: 1
-dive: 1
-deeply: 1
-into: 1
-intriguing: 1
-field: 1
-physiology: 4
-it: 15
-can: 7
-most: 1
-satisfying: 1
-subjects: 1
-ever: 2
-because: 3
-brings: 1
-together: 1
-so: 5
-much: 3
-learned: 1
-from: 8
-applied: 1
-understand: 3
-that: 25
-encounter: 1
-your: 24
-daily: 6
-life: 1
-certainly: 1
-both: 3
-facts: 1
-develop: 1
-future: 3
-open: 3
-engaged: 1
-mind: 1
-work: 3
-hard: 1
-enjoy: 1
-about: 7
-how: 2
-learn: 3
-requires: 2
-apply: 3
-memorize: 2
-who: 2
-complete: 5
-class: 27
-should: 1
-explain: 2
-inseparable: 1
-anatomic: 1
-function: 4
-understanding: 1
-new: 1
-situationsimages: 1
-systematic: 1
-logical: 1
-processes: 2
-correctly: 1
-knowledge: 3
-ultrastructure: 1
-eukaryotic: 1
-its: 3
-organelles: 1
-basic: 2
-epithelium: 2
-connective: 1
-muscle: 1
-nerve: 1
-anatomical: 3
-details: 1
-major: 2
-structural: 1
-mechanisms: 1
-allow: 1
-carry: 1
-out: 1
-compare: 1
-contrast: 1
-terminology: 1
-regions: 1
-cavities: 1
-directions: 1
-planes: 1
-section: 1
-communicate: 2
-dimensional: 1
-complexity: 1
-accurately: 1
-succinctly: 1
-others: 1
-writing: 2
-speech: 1
-six: 1
-not: 25
-directly: 2
-assessed: 1
-but: 8
-are: 20
-experience: 1
-enhance: 1
-organize: 1
-integrate: 1
-significant: 1
-amounts: 1
-ina: 1
-framework: 1
-recognize: 1
-what: 5
-do: 2
-improve: 1
-reading: 1
-maintain: 1
-composure: 1
-focus: 2
-when: 2
-faced: 1
-problem: 5
-solving: 2
-questions: 8
-studied: 1
-cooperate: 1
-classmates: 1
-effectively: 1
-teams: 1
-examine: 1
-detail: 1
-fascinating: 1
-workings: 1
-learning: 4
-resources: 1
-site: 4
-pertinent: 1
-content: 1
+acc: 6
+: 140
+fundamentals: 13
+of: 112
+financial: 26
+accounting: 33
+summer: 14
+oe: 1
+the: 264
+university: 10
+texas: 3
+at: 22
+austin: 5
+mccombs: 3
+school: 3
+business: 5
+department: 5
 syllabus: 2
-schedule: 3
-announcements: 2
-grades: 4
-posted: 5
-web: 1
-tab: 1
-official: 2
-record: 2
-student: 7
-only: 4
-changed: 1
-updated: 1
-immediately: 2
-find: 1
-going: 2
-ut: 3
-direct: 1
-page: 3
-canvasutexasedu: 1
-anat: 1
-absolutely: 1
-check: 3
-home: 2
-powerpoint: 2
-slides: 1
-frequently: 1
-means: 2
-electronic: 2
-policy: 3
-functioning: 1
-address: 1
-they: 5
-once: 1
-day: 3
-full: 2
-boxes: 1
-failing: 1
-excuses: 1
-missing: 1
-assignment: 2
-important: 3
-announcement: 1
-lectures: 3
-laboratory: 3
-sessions: 5
-meetings: 1
-software: 3
-recorded: 1
-viewing: 1
-after: 6
-textbooks: 1
-required: 3
-junquieras: 1
-th: 4
-edition: 5
-anthony: 1
-mescher: 1
-isbn: 3
-application: 2
-dmedical: 1
-limited: 5
-marine: 1
-view: 1
-ave: 1
-suite: 1
-del: 1
-mar: 1
-ca: 1
-purchase: 1
-coop: 1
-dmedicalcom: 1
-must: 12
-laptop: 1
-personal: 1
-device: 4
-mac: 1
-android: 1
-operate: 1
-manual: 1
-built: 1
-within: 2
-platform: 1
-text: 2
-please: 3
-make: 1
-sure: 2
-ready: 1
-time: 9
-beginsadditional: 1
-reference: 1
-books: 1
-optional: 1
-essential: 2
-keith: 1
-moore: 1
-arthur: 1
-f: 2
-dalley: 1
-anne: 1
-mr: 3
-agur: 1
-dee: 1
-unglaub: 1
-silverthorn: 1
-elaine: 1
-marieb: 1
-coloring: 1
-book: 1
-wynn: 1
-kapitlawrence: 1
-elson: 1
-preparation: 1
-participation: 4
-active: 1
-regular: 1
-attendance: 9
-we: 6
-covering: 3
-texts: 1
-short: 2
-amount: 1
-quizzes: 10
-worth: 2
-come: 1
-prepared: 1
-looking: 1
-over: 2
-presentation: 1
-andor: 1
-textbook: 1
-need: 9
-willing: 1
-ask: 1
-help: 2
-every: 1
-cram: 1
-last: 1
-minute: 1
-let: 1
-instructors: 1
-know: 1
-serious: 1
-demonstrated: 1
-discussion: 2
-pass: 1
-qualify: 1
-graduation: 1
-end: 4
-current: 3
-term: 7
-contact: 4
-dr: 3
-first: 3
-week: 7
-discuss: 1
-strategy: 1
-success: 1
-assessmentsevaluationsgrades: 1
-evaluation: 1
-components: 1
-facilitate: 1
-multiple: 3
-experiences: 1
-activities: 2
-accordingly: 1
-sixtyfive: 1
-percent: 2
-derived: 1
-portion: 1
-thirtyfive: 1
-compiled: 1
-assessments: 3
-several: 1
-assessmentexamination: 1
-tools: 2
-vary: 1
-format: 1
-standard: 1
-which: 5
-familiar: 2
-our: 1
-goal: 1
-professional: 2
-context: 1
-focuses: 1
-developing: 1
-ability: 1
-recall: 1
-solve: 1
-assessment: 1
-examination: 2
-explained: 1
-below: 1
-exams: 20
-examinations: 1
-completed: 2
-rather: 2
-than: 4
-having: 1
-traditional: 1
-large: 1
-there: 4
-five: 1
-weekly: 2
-testlet: 6
-examsweekly: 1
-cover: 1
-factual: 1
-also: 2
-emphasize: 1
-synthesis: 1
-physiological: 1
-asked: 2
-scenario: 1
-was: 1
-specifically: 1
-discussed: 1
-exam: 26
-testlets: 3
-clinically: 1
-based: 1
-scenarios: 1
-show: 1
-dealing: 1
-issues: 1
-present: 1
-patient: 1
-hisher: 1
-issue: 1
-diagnosis: 1
-given: 3
-research: 1
-unless: 1
-want: 1
-related: 2
-example: 1
-involved: 2
-characteristic: 1
-made: 1
-available: 1
-reviewed: 1
-mondays: 1
-advance: 2
-take: 4
-any: 8
-during: 4
-close: 2
-friday: 2
-noon: 1
-ipod: 1
-using: 1
-proctorio: 1
-security: 1
-ensure: 1
-works: 3
-guides: 2
-beginning: 2
-assist: 1
-presented: 1
-supportive: 1
-powerpoints: 1
-quiz: 14
-guide: 1
-prepare: 2
-consist: 2
-choice: 2
-session: 6
-topic: 1
-taken: 5
-prior: 5
-next: 3
-starting: 1
-night: 1
-morning: 1
-makeup: 3
-drop: 2
-lowest: 1
-scores: 3
-compute: 1
-object: 1
-stay: 1
-up: 3
-question: 1
-depth: 1
-see: 4
-if: 7
-mandatory: 2
-app: 1
-link: 1
-displayed: 1
-point: 1
-two: 2
-zeros: 1
-ie: 1
-excused: 4
-absences: 1
-grading: 3
-distributionlecture: 1
-total: 2
-cannot: 2
-calculated: 2
-until: 1
-test: 5
-data: 1
-collected: 1
-entered: 1
-mentioned: 1
-previously: 1
-points: 3
-earnedpoints: 1
-possible: 1
-x: 2
-weight: 1
-testing: 1
-item: 1
-scale: 1
-attachment: 1
-folder: 1
-bump: 1
-add: 1
-extra: 2
-before: 3
-conflicts: 2
-conflicting: 1
-submit: 1
-request: 3
-scheduled: 3
-date: 1
-state: 1
-number: 1
-meeting: 1
-professors: 1
-name: 1
-people: 1
-taking: 1
-nonut: 1
-classes: 1
-such: 1
-mcat: 1
-prep: 1
-allowed: 2
-early: 1
-nor: 1
-attending: 1
-interviews: 1
-off: 2
-campus: 1
-missed: 5
-produce: 1
-verifiable: 2
-written: 1
-medical: 1
-excuse: 3
-has: 3
-been: 4
-death: 1
-immediate: 1
-family: 1
-contacted: 1
-leave: 1
-message: 1
-soon: 1
-realize: 1
-miss: 3
-again: 1
-no: 7
-exceptions: 1
-valid: 1
-final: 3
-score: 1
-count: 1
-absence: 2
-receive: 1
-incomplete: 1
-offered: 1
-special: 2
-accommodations: 2
-austin: 1
-provides: 1
-upon: 1
-appropriate: 1
-academic: 15
-qualified: 1
-disabilities: 1
-more: 1
-dean: 4
-tty: 1
-addition: 1
-inform: 2
-accommodationsexam: 1
-regrades: 2
-tests: 3
-ater: 1
-returned: 3
-ample: 1
-justification: 1
-arithmetic: 1
-errors: 1
-entire: 1
-regraded: 1
-lose: 1
-gain: 1
-them: 1
-policies: 1
-effect: 1
-signed: 1
-memory: 1
-calculators: 1
-phones: 1
-pdas: 1
-pagers: 1
-computers: 1
-electronics: 1
-devices: 1
-turned: 1
-noconsulation: 1
-persons: 1
-period: 1
-religious: 2
-holidays: 1
-utaustin: 1
-notify: 1
-us: 1
-days: 3
-dates: 2
-absent: 1
-assignments: 3
-due: 1
-observation: 1
-holiday: 1
-reasonable: 1
-integrity: 6
-expected: 2
-demonstrate: 2
-absolute: 2
-dishonesty: 8
-cheating: 5
-tolerated: 2
-form: 2
-reported: 1
-includes: 4
-altering: 2
-ignorance: 2
-constitutes: 2
-standards: 2
-conduct: 2
-described: 2
-judicial: 2
-services: 2
-httpdeanofstudentsutexasedusjs: 2
-duplication: 2
-replication: 2
-including: 2
-homework: 3
-copyright: 2
-protected: 2
-unauthorized: 2
-copying: 2
-violation: 4
-federal: 2
-law: 2
-result: 4
-disciplinary: 4
-actions: 2
-being: 2
-against: 2
-additionally: 2
-sharing: 5
-without: 2
-express: 2
-approval: 2
-universitys: 2
-honor: 2
-code: 2
-act: 2
-could: 2
-further: 2
-action: 2
-type: 1
-among: 2
-things: 2
-uploading: 2
-websites: 2
-purpose: 2
-those: 3
-eg: 2
-placing: 2
-items: 2
-facebook: 2
-google: 2
-docs: 2
-laboratoryunique: 1
+instructor: 7
+jesse: 1
+chan: 1
+email: 7
+jessechanmccombsutexasedu: 1
+office: 10
+see: 6
+canvas: 24
+for: 72
+zoom: 9
+link: 2
+hours: 8
 mondaythursday: 2
-tuesdaywednesday: 2
-hour: 1
-christina: 1
-mihova: 1
-tbd: 2
-szyan: 1
-wu: 1
-labs: 3
-madeup: 1
-except: 3
-regularly: 1
-ill: 1
-rescheduled: 1
-another: 2
-thursday: 1
-reschedule: 1
+amam: 1
+by: 16
+appointment: 3
+unique: 1
+class: 60
+time: 14
+ampm: 1
+location: 2
+why: 2
+should: 12
+you: 75
+take: 8
+this: 41
+goal: 1
+s: 5
+to: 108
+equip: 2
+with: 26
+a: 70
+working: 6
+knowledge: 3
+fundamental: 1
+components: 1
+enables: 1
+organizations: 2
+communicate: 1
+their: 5
+economic: 2
+activities: 2
+and: 107
+transactions: 1
+outside: 3
+groups: 5
+therefore: 3
+is: 35
+important: 3
+anyone: 1
+interested: 1
+in: 63
+learning: 6
+how: 6
+understand: 4
+or: 30
+evaluate: 1
+not: 29
+just: 2
+those: 2
+wishing: 1
+pursue: 1
+accountingrelated: 2
+careers: 1
+objectives: 1
+course: 52
+learn: 4
+following: 6
+process: 2
+preparing: 1
+succinct: 1
+statement: 5
+information: 9
+from: 22
+mass: 1
+individual: 3
+transaction: 2
+level: 2
+data: 3
+b: 3
+read: 2
+interpret: 1
+statements: 4
+c: 2
+decisionmakers: 1
+use: 8
+make: 8
+internal: 1
+external: 1
+investment: 1
+decisions: 2
+prerequisite: 4
+twentyfour: 1
+semester: 11
+prior: 6
+college: 2
+credit: 2
+if: 26
+do: 10
+satisfy: 1
+drop: 5
+dean: 1
+undergraduate: 1
+programs: 2
+will: 71
+instructors: 2
+may: 16
+waive: 1
+required: 9
+materials: 7
+equipment: 2
+e: 18
+textbook: 10
+th: 5
+edition: 4
+libby: 2
+hodge: 1
+isbn: 3
+mcgrawhillirwin: 1
+o: 9
+note: 6
+connect: 1
+access: 8
+are: 34
+free: 2
+purchase: 2
+print: 1
+copy: 3
+ebook: 2
+can: 10
+be: 42
+purchased: 2
+directly: 1
+publisher: 1
+hereacc: 1
+httpswwwmheducationcomhigheredproductfinancial: 1
+accountinglibbylibbym: 1
+htmltextbookcollapse: 1
+an: 19
+older: 1
+would: 2
+like: 3
+however: 8
+all: 21
+solutions: 5
+homework: 18
+page: 1
+numbers: 1
+correspond: 1
+responsible: 2
+mapping: 1
+between: 1
+editions: 1
+cycle: 6
+supplement: 3
+solid: 12
+footing: 11
+building: 4
+foundation: 2
+dan: 1
+wiegand: 1
+micro: 1
+solve: 1
+inc: 2
+accompanying: 1
+software: 2
+files: 1
+electronic: 9
+version: 1
+recommended: 2
+everything: 1
+need: 5
+here: 2
+httpsolidfootingaccountingcom: 1
+calculator: 6
+that: 35
+does: 3
+allow: 4
+graphing: 1
+calculators: 2
+other: 9
+text: 3
+memory: 1
+during: 27
+exams: 7
+one: 3
+has: 5
+dedicated: 1
+keys: 2
+convenience: 1
+problems: 9
+involving: 1
+timevalue: 1
+money: 1
+typically: 1
+labeled: 1
+n: 1
+number: 2
+periods: 1
+iyr: 1
+interest: 1
+rate: 1
+per: 3
+period: 3
+pv: 1
+present: 5
+value: 2
+pmt: 1
+payment: 2
+fv: 1
+single: 1
+future: 3
+amount: 1
+already: 2
+have: 15
+such: 6
+buy: 2
+new: 7
+hp: 1
+bih: 1
+both: 3
+finance: 1
+faculty: 5
+computer: 2
+reliable: 3
+web: 1
+camera: 1
+microphone: 1
+speakers: 1
+lectures: 2
+pages: 1
+quizzes: 17
+some: 2
+examinations: 3
+proctorio: 4
+remote: 2
+proctoring: 3
+official: 3
+solution: 2
+texasaustin: 1
+system: 2
+requirements: 1
+please: 15
+visit: 1
+httpsproctoriocomsystemrequirements: 1
+details: 1
+about: 5
+minimum: 1
+capabilities: 1
+reliably: 1
+while: 2
+designed: 3
+accommodate: 2
+windows: 2
+macbased: 1
+personal: 6
+computers: 1
+making: 1
+sure: 3
+necessary: 3
+tools: 1
+successfully: 2
+complete: 5
+internet: 3
+connection: 2
+wired: 1
+wireless: 1
+optional: 2
+supplemental: 4
+game: 1
+basic: 1
+fresh: 1
+lemonade: 1
+stand: 1
+darrell: 1
+mullis: 1
+judith: 1
+orloff: 1
+sourcebooks: 1
+used: 2
+copies: 2
+available: 8
+your: 33
+preferred: 1
+online: 2
+retail: 1
+bookseller: 1
+eg: 3
+amazon: 1
+barnes: 1
+noble: 1
+bookpeople: 1
+book: 3
+presents: 1
+additional: 3
+understanding: 9
+basics: 1
+we: 12
+reference: 1
+someacc: 1
+but: 6
+owning: 1
+keeping: 1
+up: 5
+readings: 3
+wall: 1
+street: 1
+journal: 1
+economist: 1
+times: 4
+excellent: 2
+publications: 1
+regularly: 5
+publish: 1
+articles: 1
+topics: 5
+policies: 4
+as: 12
+students: 30
+naturally: 1
+incentives: 1
+excel: 1
+classes: 1
+build: 2
+on: 39
+develop: 3
+thus: 2
+benefits: 1
+investing: 2
+substantial: 2
+energy: 1
+pay: 1
+large: 1
+dividends: 1
+upper: 1
+courses: 3
+most: 2
+rule: 1
+never: 1
+distract: 1
+classmates: 2
+disrupt: 1
+opportunity: 4
+fastpaced: 2
+where: 2
+each: 8
+chapter: 1
+builds: 1
+material: 9
+attendance: 5
+participation: 2
+paramount: 1
+fully: 1
+topic: 1
+success: 1
+life: 3
+happensif: 1
+arrive: 2
+late: 1
+minimize: 2
+disruptions: 1
+join: 3
+meeting: 7
+audio: 1
+muted: 2
+cannot: 8
+attend: 3
+scheduled: 10
+lecture: 4
+breakout: 12
+session: 3
+recordings: 2
+sessions: 9
+after: 9
+there: 10
+no: 7
+opportunities: 1
+any: 8
+missed: 3
+our: 11
+grader: 4
+monitor: 1
+direct: 1
+questions: 6
+me: 13
+addition: 2
+i: 53
+post: 9
+so: 4
+always: 1
+review: 7
 previous: 1
-these: 3
-graded: 2
-determine: 1
-dropped: 1
-zero: 2
-prelab: 1
-answered: 1
-attendanceparticipation: 2
-additional: 1
-review: 3
-fridays: 1
-voluntary: 1
-serve: 1
-evenings: 2
-times: 1
+content: 10
+format: 7
+organized: 2
+around: 1
+model: 2
+before: 10
+initial: 1
+discusses: 1
+videos: 6
+practice: 1
+completing: 1
+related: 1
+inclass: 3
+examples: 3
+challenging: 2
+weeks: 2
+beyond: 1
+ad: 1
+first: 8
+day: 8
+pleas: 1
+ensure: 2
+view: 4
+site: 3
+account: 2
+correctly: 1
+recorded: 1
+utaustin: 1
+registrar: 2
+been: 3
+able: 2
+sample: 2
+quiz: 17
+tool: 2
+run: 1
+smoothly: 1
+device: 2
+case: 3
+unable: 1
+let: 3
+know: 5
+provide: 3
+given: 3
+nature: 4
+short: 1
+length: 2
+check: 1
+accounts: 1
+least: 5
+once: 3
+send: 2
+outsideofclassacc: 1
+announcements: 2
+corrections: 2
+clarifications: 1
+changes: 1
+via: 2
+announcement: 1
+try: 1
+message: 1
+pm: 1
+every: 2
+differently: 1
+traditional: 1
+inperson: 2
+tentative: 2
+plan: 1
+exam: 23
+live: 3
+closest: 1
+meet: 4
+room: 3
+realtime: 1
+pausing: 1
+audience: 1
+work: 7
+through: 7
+example: 3
+expect: 4
+entire: 2
+hour: 2
+week: 3
+who: 7
+act: 1
+moderator: 1
+records: 1
+change: 2
+relies: 1
+sign: 1
+group: 4
+designated: 1
+these: 4
+vary: 1
+duration: 1
+minutes: 4
+based: 2
+prerecorded: 1
+next: 2
+am: 3
+central: 1
+daylight: 1
+date: 6
+listed: 2
+schedule: 10
+planned: 2
+june: 4
+later: 3
+than: 4
+which: 4
+approximately: 2
+attending: 2
+viewed: 2
+video: 2
+especially: 1
+confusing: 1
+concepts: 2
+smaller: 1
+helping: 1
+continue: 1
+days: 6
+still: 2
+same: 2
+exact: 1
+announced: 4
+certain: 2
+notes: 3
+follow: 2
+along: 1
+add: 1
+own: 2
+when: 3
+midterm: 2
+examsacc: 1
+assigned: 2
+two: 4
+types: 2
+companies: 1
+capture: 1
+record: 1
+them: 3
+summarize: 1
+transform: 1
+into: 1
+conform: 1
+generally: 1
+accepted: 1
+principles: 1
+gaap: 1
+it: 5
+essential: 1
+student: 6
+ability: 1
+tasks: 1
+because: 3
+accomplishments: 1
+remaining: 1
+accordingly: 1
+adopted: 1
+semiinteractive: 1
+cash: 2
+flows: 2
+meant: 2
+reinforce: 1
+test: 1
+progress: 1
+way: 2
+leads: 1
+more: 4
+consistent: 1
+deeper: 1
+among: 1
+leading: 1
+less: 2
+attrition: 1
+disappointing: 1
+grades: 7
+keep: 3
+lessons: 1
+phase: 1
+assignments: 7
+must: 10
+turned: 2
+graded: 6
+although: 6
+welcome: 2
+encourage: 2
+individually: 3
+together: 2
+ultimately: 1
+tested: 2
+find: 1
+out: 4
+what: 5
+ask: 4
+attached: 3
+contains: 1
+dates: 3
+they: 5
+uploaded: 1
+beginning: 1
+help: 8
+come: 3
+virtually: 1
+due: 3
+describe: 1
+attempted: 1
+issue: 1
+chapters: 2
+cover: 1
+neither: 1
+submitted: 1
+nor: 1
+administered: 2
+similar: 1
+covered: 1
+cumulative: 4
+tends: 1
+mastering: 1
+early: 1
+critical: 1
+makeup: 10
+unforeseen: 1
+circumstances: 3
+lowest: 1
+score: 1
+prescribed: 1
+window: 1
+grade: 9
+zero: 1
+particular: 1
+originally: 4
+open: 2
+mind: 1
+mindacc: 1
+main: 2
+reason: 1
+also: 4
+whole: 1
+discuss: 2
+areas: 1
+again: 1
+improve: 1
+collect: 1
+spending: 1
+discussing: 1
+releasing: 1
+grading: 1
+appeals: 1
+except: 1
+final: 16
+accept: 1
+requests: 1
+regrades: 2
+request: 6
+regrade: 5
+submit: 1
+written: 1
+within: 5
+posted: 1
+item: 1
+redistributed: 1
+back: 1
+whichever: 1
 earlier: 1
-released: 1
-sunday: 1
-pmyou: 1
+original: 2
+accompany: 1
+re: 1
+state: 1
+area: 1
+dispute: 1
+recommendation: 2
+explanation: 1
+justification: 1
+assignment: 6
+means: 2
+over: 1
+regrading: 1
+encounter: 2
+accidentally: 1
+overlooked: 1
+issues: 1
+result: 1
+deduction: 1
+points: 4
+corrected: 1
+maximize: 1
+accuracy: 1
+accurate: 1
+increase: 1
+remain: 1
+decrease: 1
+highly: 1
+advantage: 1
+my: 5
+seek: 1
+assistance: 2
+needed: 1
+throughout: 1
+talk: 1
+effort: 1
+successful: 2
+possible: 1
+feedback: 4
+going: 2
+feel: 1
+doing: 1
+hear: 1
+parts: 2
+providing: 1
+upward: 1
+very: 1
+stressful: 1
+distribute: 1
+anonymous: 1
+surveys: 1
+fill: 1
+policy: 4
+discourage: 1
+devices: 2
+aside: 1
+introduce: 1
+distractions: 2
+recognize: 1
+effective: 1
+form: 1
+differ: 1
+across: 1
+found: 1
+helpful: 2
+purposes: 1
+mean: 1
+others: 1
+exercise: 2
+good: 2
+judgment: 2
+discretion: 3
+using: 4
+devicesacc: 1
+lam: 1
+requiring: 1
+enter: 2
+ut: 3
+eid: 1
+associated: 2
+without: 1
+waiting: 2
+microphones: 1
+adopt: 1
+casual: 1
+atmosphere: 1
+meetings: 2
+remember: 2
+professional: 3
+setting: 1
+conduct: 3
+ourselves: 1
+professionally: 1
+reserve: 1
+right: 2
+remove: 1
+exhibiting: 1
+assessment: 2
 determined: 1
-above: 1
-criteria: 1
-consideration: 1
-later: 1
+factors: 1
+relative: 1
+weights: 2
+weight: 1
+best: 1
+set: 1
+average: 2
+letter: 1
+scores: 2
+end: 2
+calculate: 1
+composite: 1
+assign: 1
+accordance: 1
+above: 2
+guidelines: 1
+curve: 1
+academic: 5
+standards: 1
+raise: 1
+extra: 2
+structure: 1
+explicitly: 2
+factor: 1
+experience: 1
+phone: 1
+notifications: 1
+side: 1
+conversations: 1
+reading: 1
+newspaper: 1
+tend: 1
+perform: 1
+better: 1
+separately: 1
+earn: 2
+award: 2
+below: 1
+f: 2
+three: 2
+comprehensive: 1
+examination: 8
+completed: 1
+midterms: 1
+learned: 1
+necessarily: 1
+theacc: 1
+often: 1
+legitimate: 1
+reasons: 2
+inform: 3
+determine: 1
+appropriate: 5
+deem: 3
+logistical: 1
+only: 1
+reweigh: 2
+include: 2
+applies: 1
+limited: 1
+unannounced: 1
+adjustments: 2
+choose: 1
+adjustment: 2
+altered: 1
+incorporating: 1
+dropping: 1
+go: 1
+procedures: 2
+stops: 1
+fails: 1
+officially: 1
+receive: 1
+consult: 1
+calendar: 1
+registrars: 1
+website: 2
+httpregistrarutexaseducalendars: 1
+specific: 1
+deadlines: 1
+rosters: 3
+privacy: 2
+recent: 1
+opinion: 1
+us: 1
+education: 1
+states: 1
+advance: 1
+name: 2
+appearing: 1
+roster: 1
+since: 2
+fall: 1
+webbased: 1
+passwordprotected: 1
+sites: 2
+accredited: 1
+taught: 1
+component: 1
+want: 1
+names: 1
+included: 1
+restrict: 1
+directory: 2
+restricting: 1
+httpwwwutexasedustudentregistrarcatalogsgiappappcohtml: 1
+protected: 1
+uteid: 1
+login: 1
+aware: 1
+merged: 1
+sections: 2
+teaching: 2
+enrolled: 1
+actually: 1
+address: 1
+revealed: 1
+concerns: 2
+contact: 1
+its: 2
+desk: 1
+removing: 1
+studentsacc: 1
+quantitative: 5
+reasoning: 3
+flag: 2
+carries: 1
+skills: 2
+arguments: 1
+adult: 1
+portion: 1
+analyze: 1
+realworld: 1
+disabilities: 3
+accommodations: 1
+division: 1
+diversity: 3
+community: 1
+engagement: 1
+services: 1
+httpdiversityutexasedudisability: 1
+inclusion: 1
+intent: 1
+diverse: 1
+backgrounds: 1
+perspectives: 1
+well: 2
+served: 1
+needs: 1
+addressed: 1
+bring: 1
+comfortably: 1
+expressed: 1
+resource: 1
+strength: 1
+benefit: 1
+away: 1
+ever: 1
+religious: 3
+holy: 3
+notify: 1
+pending: 1
+absence: 2
+fourteen: 1
+observance: 1
+miss: 1
+project: 1
+order: 1
+observe: 3
+reasonable: 1
+scholastic: 9
+dishonesty: 10
+tolerance: 1
+acts: 1
+responsibilities: 3
+regard: 1
+described: 3
+detail: 1
+bba: 1
+httpmymccombsutexasedubbacodeofethics: 1
+agreed: 2
+enrolling: 1
+application: 1
+unclear: 1
+responsibility: 1
+clarification: 1
+violate: 1
+rules: 1
+subject: 1
+disciplinary: 1
 penalties: 1
-range: 1
-biology l human microscopic and gross anatomy general course information lecture mtwthf    room via zoom prerequisites biology
-c biology  or h with a grade of at least c chemistry  witha grade of at least c
-and one of the following courses with a grade of at least c mathematics c k n r statistics and
-scientific computation  this course may be used to fulfill three hours of the natural science and technology part 
-or part il component of the university core curriculum and addresses the following four core objectives established by the texas
-higher education coordinating board communication skills critical thinking skills teamwork and empirical and quantitative skills lecture instructor and course director
-william j babler phd email through canvas inbox office hours mtwthf    phone  lecture ta soroosh sadeh
-email through canvas inbox office hours tba lovisa nylander email through canvas inbox office hours tba laboratories mtwth  pm
-room via zoom lab director tim fleisher email through canvas inbox office hours m  pm course overview human microscopic
-and gross anatomy bio l is an upper division lecture and lab course designed for biology and health careers majors
-this course will provide studentswith an intensive survey of the microscopic and gross anatomy of various human tissues and organs
-the relationship between microscopic anatomy histology and gross anatomy will be stressed the course will use a systems approach with
-an emphasis on integrated structurefunction relationships at the cell tissue and organ level as well as an emphasis on clinical
-applications of the material at all levels lecture and lab study will be provided online online materials will include a
-virtual microscopic slide library and d computer models on completion of the course students will be able to identify and
-describe the different types of human tissues the structure and location of different organs their specific functions and their relationships
-with each other in the human body this semester you will have the opportunity to dive deeply into the intriguing
-field of human anatomy and physiology it can be one of the most satisfying subjects you will ever study because
-it brings together so much material you have learned from other courses and it can be applied to understand so
-much that you encounter in your daily life you will certainly use both the facts and the skills you develop
-in this course in your future careers have an open engaged mind work hard and enjoy course objectives this course
-is as much about how to learn as it is about human anatomy and physiology it requires that you be
-able to understand and apply the material as well as memorize it students who complete this class should be able
-to  explain the inseparable relationship between microscopic and gross anatomic structure and function and be able to apply that
-understanding to new situationsimages  use systematic logical thinking processes to correctly identify tissues at the microscopic level  provide
-knowledge of the ultrastructure and function of the eukaryotic cell and its organelles  provide knowledge of the microscopic anatomy
-and function of the four basic tissues epithelium connective tissue muscle tissue and nerve tissue  identify and describe gross
-and microscopic anatomical details of the major tissues organs and organ systems of the human body  explain the functions
-of the organ and the structural mechanisms that allow the organ to carry out its functions  compare and contrast
-structure and function in various organ systems  use anatomical terminology of the major body regions and its cavities and
-the directions and planes of section of the human body to communicate  dimensional complexity accurately and succinctly to others
-in writing and in speech the following six objectives will not be directly assessed but are objectives for your course
-experience and will enhance your grade organize memorize and integrate significant amounts of information ina framework that you can use
- recognize what you do not understand  improve critical reading and thinking skills  maintain composure and focus when
-faced with problem solving and questions on material you have not studied directly  cooperate with classmates and work effectively
-in teams  examine in detail the fascinating structure and workings of the human body learning resources class canvas site
-all information pertinent to course content syllabus and course schedule announcements grades and other information will be posted on the
-canvas web site the grade tab in canvas is not the official grade record and is for student information only
-grades that are changed may not be updated immediately in canvas you can find the site by going to your
-courses on your ut direct page or by going to canvasutexasedu   human microscopic and gross anat l it
-is absolutely critical that you check the home page announcements powerpoint slides and your grades on this site frequently email
-and canvas are the official means of electronic communication for this class it is university policy that all students have
-a functioning email address on record and that they check email at least once a day full email in boxes
-or failing to check email are not excuses for missing an assignment or an important announcement zoom lectures laboratory sessions
-office hours and meetings will all use the zoom software lectures will be recorded in zoom and posted for your
-viewing after class textbooks required  junquieras basic histology th edition by anthony l mescher  isbn   complete
-anatomy application dmedical limited  marine view ave suite  del mar ca  purchase through university coop or through
-dmedicalcom you must have a laptop or personal device mac or android to operate this the lab manual is built
-within this platform this is a required text for lab so please make sure you have ready by the time
-lab beginsadditional text reference books optional  essential clinical anatomy th edition by keith l moore arthur f dalley anne
-mr agur  isbn   human physiology an integrated approach th edition by dee unglaub silverthorn   human
-anatomy and physiology th edition by elaine n marieb   the anatomy coloring book  edition by wynn kapitlawrence
-m elson  isbn  class preparation and participation active class participation and regular class attendance are essential because we
-will be covering material that is not in the texts and will be covering material in a short amount of
-time daily quizzes and attendance for class are worth  of your grade please come prepared daily by looking over
-the powerpoint presentation posted in canvas andor the textbook assignment you need to be willing to ask for help when
-you need it and you will need to study every day not cram at the last minute it is important
-to let instructors know that you are serious about learning this can be demonstrated by questions and discussion in class
-attendance and participation at office hours students who must pass bio l to qualify for graduation at the end of
-the current term must contact dr babler within the first full week of the term to discuss your strategy for
-success assessmentsevaluationsgrades evaluation components bio l is designed to facilitate your learning through multiple learning experiences in both lecture and
-laboratory activities accordingly sixtyfive percent of your course grade will be derived from the lecture portion of the course and
-thirtyfive percent will be compiled from laboratory assessments several assessmentexamination tools will be used in this course and will vary
-in format from standard assessments with which you may be familiar our goal is to have you learn anatomy gross
-and microscopic in a professional context that focuses on your developing ability to recall communicate and problem solve the assessment
- examination tools used in the course are explained below exams all examinations will be completed online rather than having
-traditional large exams there will be five  weekly exams and four  testlet examsweekly exams will cover lecture material
-from the lectures they will include factual material but also emphasize application and synthesis of material anatomical relationships physiological processes
-and problem solving you may be asked to apply your knowledge in a scenario that was not specifically discussed in
-class you will have  hours to complete the exam testlets testlets are clinically based scenarios that show you how
-the anatomy you learn is used in dealing with clinical issues each testlet will present a patient and hisher clinical
-issue you will not need to diagnosis the problem it will be given to you you will not need to
-research the problem unless you want to you will be asked questions about the related anatomy for example what is
-the epithelium involved or what is an important characteristic of cell in the tissue involved testlets will be made available
-and reviewed on mondays in advance of the testlet exam students may take the exam any time during the week
-of the testlet the exam will close on friday at noon you may not use an ipod or related device
-or a cell phone during an exam we will be using the proctorio software for exam security so you will
-need to ensure that the software works on your device study guides will be posted at the beginning of the
-term to assist your study the exams will focus on the material presented in class and supportive powerpoints posted in
-canvas quiz questions and the exam study guide will help you prepare for exams all exams will consist of only
-multiple choice questions daily quizzes each class session will have a quiz covering the topic of the session each quiz
-will consist of three  multiple choice questions the quiz will be in canvas and will need to be taken
-prior to the next class the quiz will be open starting a  pm the night of the lecture and
-close at  the next morning you may not makeup a daily quiz there will be  quizzes we will
-drop the lowest three this means there will be  quiz scores used to compute your quiz grade the object
-of the quiz is for you to stay up with the material the question will not be in depth but
-rather it is designed to see if you are familiar with the material attendance attendance is mandatory and will be
-provided through the zoom app the link to zoom will be displayed on the canvas home page each class is
-worth  point for attendance we will drop two zeros ie you have up to  excused absences in the
-course grading policy bio l grade distributionlecture exams   testlet exams   daily quizzes  attendance  lecture
-total  lab exams   lab quizzes  lab attendance and participation  lab total  course grades cannot
-be calculated until the end of the term because all test data have to be collected and entered your scores
-as mentioned previously will be calculated as points earnedpoints possible x the weight of that testing item we will use
-the university grading scale see attachment in the syllabus and schedule folder of canvas we do not bump scores or
-add extra points at the end of the term if you have questions about your course grade please contact dr
-babler before the end of the term exam conflicts students with a conflicting university class or examination must submit a
-request for a different test time in writing at least one week prior to the scheduled date of the exam
-the request must state the class number meeting time and professors name people taking nonut classes such as mcat prep
-courses are not allowed to take early exams nor are students attending professional interviews off campus missed exams a missed
-exam will be excused only if  the student can produce a verifiable written medical excuse or there has been
-a verifiable death in the immediate family and  the student has contacted the instructor prior to the exam you
-may email or leave a phone message as soon as you realize you must miss an exam again no makeup
-exam will be given no exceptions if you have a valid excused exam your final testlet exam score will count
-for the missed exam students with an excused absence for the final exam will receive an incomplete x for the
-semester and will take the final exam in the next term the course is offered special accommodations the university of
-texas at austin provides upon request appropriate academic accommodations for qualified students with disabilities for more information contact the office
-of the dean of students at   tty in addition inform dr babler at least one week before the
-first exam that you will need special accommodationsexam regrades questions about grading on the tests must be taken up with
-the lab ta or the instructor no ater than  week after the test is returned be sure you have
-ample justification for any regrades other than arithmetic errors the entire test will be regraded and you may lose points
-as well as gain them the following policies will be in effect for all exams  only the device you
-have signed on for the exam may be used no memory calculators ever no cell phones pdas or pagers computers
-or other electronics all electronic devices must be turned off  noconsulation or discussion with any other persons is allowed
-during the period of time that the exam is open religious holidays utaustin policy requires that you notify us at
- days prior to dates on which you will be absent or miss assignments due to observation of a religious
-holiday you will be given reasonable time after your absence to complete any missed work academic integrity it is expected
-that you will demonstrate absolute academic integrity academic dishonesty cheating will not be tolerated in any form and may be
-reported to the dean of students academic dishonesty includes but is not limited to cheating on exams and quizzes and
-altering tests after they have been returned ignorance of what constitutes academic dishonesty is not an excuse the standards of
-academic integrity and conduct are described by the dean of students office of judicial services httpdeanofstudentsutexasedusjs use of class materials
-duplication or replication of course materials the materials used in this class including but not limited to exams exam study
-guides quizzes and homework assignments are copyright protected works any unauthorized copying of the class materials is a violation of
-federal law and may result in disciplinary actions being taken against the student additionally the sharing of class materials without
-the specific express approval of the instructor may be a violation of the universitys student honor code and an act
-of academic dishonesty which could result in further disciplinary action this type of sharing includes among other things uploading class
-materials to websites for the purpose of sharing those materials with other current or future students eg placing items in
-facebook or google docs bio l laboratoryunique days time  mondaythursday  pm  mondaythursday  pm  tuesdaywednesday 
-pm  tuesdaywednesday  pm lab director tim fleisher email through canvas inbox office hour m  pm lab instructor
-christina mihova email through canvas inbox office hours tbd lab instructor szyan wu email through canvas inbox office hours tbd
-attendance in all lab sessions is mandatory labs cannot be madeup except during the four days in which they are
-regularly scheduled if you are ill you must contact your lab ta immediately about missed lab material and so that
-you can be rescheduled to another lab session those in thursday lab sessions must reschedule in advance to another session
-in that week each lab except  will have a short quiz over the material from previous labs these quizzes
-will be graded and used to determine your quiz grade no quiz will be dropped if you miss a quiz
-your quiz grade will be zero labs except  may have a prelab homework to be answered prior to the
-lab session these assessments will not be graded but will be used for the attendanceparticipation grade additional lab activities may
-also be used for the attendanceparticipation grade weekly review sessions will be provided by mr fleisher on fridays from 
-pm these review sessions are voluntary and will serve to prepare students for both lab exams the first lab review
-session will be after lab  required lab exams are scheduled in the evenings see schedule for dates and times
-students with ut class conflicts will take a makeup exam earlier in the day lab exams will be released on
-friday evenings and must be completed by that sunday at  pmyou will be provided two hours to complete each
-exam if it has been determined see above ut criteria that you need extra time or other consideration for the
-lab exam you must inform mr fleisher at the beginning of the semester and no later than a week before
-the exam to be taken academic integrity it is expected that you will demonstrate absolute academic integrity academic dishonesty cheating
-will not be tolerated in any form the penalties for cheating range from a zero on the test to an
-f in the course academic dishonesty includes but is not limited to cheating on exams quizzes and altering tests after
-they have been returned ignorance of what constitutes academic dishonesty is not an excuse standards of academic integrity and conduct
-are described by the dean of students office of judicial services httpdeanofstudentsutexasedusjs use of class materials duplication or replication of
-course materials the materials used in this class including but not limited to exams quizzes and homework assignments are copyright
-protected works any unauthorized copying of the class materials is a violation of federal law and may result in disciplinary
-actions being taken against the student additionally the sharing of class materials without the specific express approval of the instructor
-may be a violation of the universitys student honor code and an act of academic dishonesty which could result in
-further disciplinary action this includes among other things uploading class materials to websites for the purpose of sharing those materials
-with other current or future students eg placing items in facebook or google docs 
+including: 1
+possibility: 1
+failure: 1
+andor: 1
+dismissal: 1
+harms: 1
+integrity: 2
+brand: 1
+strictly: 1
+enforced: 1
+refer: 1
+httpdeanofstudentsutexaseduconduct: 1
+further: 2
+elaboration: 1
+constitutesacc: 1
+campus: 5
+safety: 2
+conducting: 1
+remotely: 1
+event: 2
+emergency: 3
+occurring: 1
+physical: 1
+residing: 1
+source: 1
+key: 1
+recommendations: 1
+regarding: 1
+evacuation: 3
+provided: 1
+security: 1
+info: 1
+httpspreparednessutexasedu: 1
+occupants: 1
+buildings: 2
+evacuate: 1
+assemble: 1
+fire: 2
+alarm: 1
+activated: 1
+familiarize: 1
+yourself: 1
+exit: 1
+doors: 1
+classroom: 1
+occupy: 1
+writing: 1
+asap: 1
+instruction: 1
+reenter: 1
+unless: 1
+instructions: 1
+police: 1
+authorities: 1
+behavior: 1
+advice: 1
+line: 1
+bcal: 1
+httpwwwutexaseduemergency: 1
+introduction: 1
+quality: 1
+mlwl: 1
+earnings: 1
+q: 7
+ienrertam: 1
+zeer: 1
+fos: 1
+m: 2
+examatchapters: 1
+communicating: 1
+interpreting: 7
+reporting: 6
+sales: 1
+revenue: 1
+fol: 1
+w: 2
+reawierawent: 1
+ge: 1
+asaszasao: 1
+essasersouaas: 1
+eae: 1
+continued: 6
+cost: 1
+goods: 1
+sold: 1
+inventory: 1
+p: 7
+ppe: 1
+intangibles: 1
+t: 2
+natural: 1
+resources: 1
+ea: 1
+wl: 2
+ith: 1
+fooo: 1
+liabilities: 1
+bond: 1
+securities: 1
+g: 1
+ee: 5
+fe: 1
+po: 1
+ou: 1
+stockholders: 1
+equity: 1
+acc  fundamentals of financial accounting summer  oe the university of texas at austin mccombs school of business department
+of accounting acc   fundamentals of financial accounting summer  syllabus instructor jesse chan email jessechanmccombsutexasedu office see canvas
+for zoom link office hours mondaythursday amam by appointment unique   class time mondaythursday ampm class location see canvas
+for zoom link why should you take this class the goal of this class s to equip you with a
+working knowledge of the fundamental components of financial accounting financial accounting enables organizations to communicate their economic activities and transactions
+to outside groups therefore this class is important for anyone interested in learning how to understand or evaluate the economic
+activities of organizations not just those wishing to pursue accountingrelated careers objectives of the course to learn the following a
+the process of preparing succinct financial statement information from a mass of individual transaction level data b a working knowledge
+of how to read and interpret financial statements c how decisionmakers use accounting information to make internal and external investment
+decisions prerequisite the prerequisite for this course is twentyfour semester hours of prior college credit if you do not satisfy
+this prerequisite you should drop acc  or the office of the dean of undergraduate programs will drop you from
+the course instructors may not waive this prerequisite for this course required materials and equipment e textbook financial accounting th
+edition by libby libby and hodge isbn  mcgrawhillirwin  o note connect access is not required o you are
+free to purchase the print copy or the ebook the ebook can be purchased directly from the publisher hereacc 
+fundamentals of financial accounting summer  httpswwwmheducationcomhigheredproductfinancial accountinglibbylibbym  htmltextbookcollapse o you are free to purchase an older edition if
+you would like however all solutions textbook homework and page numbers correspond to the  edition and you will be
+responsible for mapping between editions accounting cycle supplement solid footing building an accounting foundation th edition by dan wiegand isbn
+ micro solve inc this is a textbook with accompanying software and files o an electronic version recommended with everything
+you need for the class can be purchased here httpsolidfootingaccountingcom calculator a financial calculator is required for this course note
+that the department does not allow graphing calculators or other calculators with text memory during exams a financial calculator is
+one that has dedicated keys for convenience in working problems involving the timevalue of money the keys typically are labeled
+n number of periods iyr required interest rate per period pv present value pmt payment per period and fv single
+future payment amount if you already have such a calculator you do not need to buy a new one however
+if you do not already have such a calculator you should buy an hp bih this calculator is recommended by
+both the accounting and finance faculty of the mccombs school of business computer a reliable computer with a web camera
+microphone and speakers s required to access the course lectures canvas pages and quizzes some quizzes and examinations may use
+proctorio a remote proctoring software that is the official solution for proctoring at the university of texasaustin proctorio has some
+system requirements please visit httpsproctoriocomsystemrequirements for details about the minimum capabilities required to use proctorio reliably while this course is
+designed to accommodate windows and macbased personal computers you are responsible for making sure you have the necessary tools to
+successfully complete the course internet connection please make sure you have access to a reliable wired or wireless internet connection
+optional supplemental materials supplemental textbook the accounting game basic accounting fresh from the lemonade stand by darrell mullis and judith
+orloff isbn  sourcebooks inc  o note new and used copies are available from your preferred online or retail
+bookseller eg amazon barnes  noble bookpeople o this book presents an additional supplement to solid footing for understanding the
+basics of the accounting cycle we may reference someacc  fundamentals of financial accounting summer  information from this text
+during the class but owning a copy is not required for keeping up with the course materials e supplemental readings
+wall street journal the economist and financial times are all excellent publications that regularly publish articles about accountingrelated topics course
+policies as college students you should naturally have incentives to learn and excel in this class future classes will build
+on the knowledge you develop here and thus the benefits of investing substantial time and energy in this course will
+pay large dividends in your future upper level business courses the most important rule in this class is that you
+should never distract your classmates or disrupt their opportunity to learn in this class accounting  s a fastpaced class
+where each chapter builds on prior material attendance and participation are therefore paramount to fully understanding the topic and success
+in the course of course life happensif you arrive late for class please minimize your disruptions and join the zoom
+meeting with your audio muted if you cannot attend a scheduled lecture or breakout session lecture recordings but not breakout
+sessions will be available after class however there will be no opportunities to make up any missed quizzes our course
+grader will monitor attendance however please direct all course questions to me and not the course grader in addition i
+will post the recordings of all lecture sessions to canvas so you can always review previous lectures and content course
+format the format of this course is organized around the following model  students read the new material before class
+to develop an initial understanding of the content  the instructor discusses the new material during the class videos the
+students practice by completing the related inclass examples  the instructor and students review the solution to the examples during
+the class videos  students and the instructor review challenging topics during the breakout sessions weeks  and beyond ad
+following the first day of class pleas ensure that  you can view the class site on canvas  the
+email account you use is correctly recorded in the utaustin registrar system and  that you have been able to
+successfully complete the proctorio sample quiz to ensure the remote proctoring tool can run smoothly on your device in case
+you are unable to access the canvas site let me know so i can provide you access given the fastpaced
+nature of the course and the short length you should check your email and canvas accounts at least once per
+day i will send any outsideofclassacc  fundamentals of financial accounting summer  announcements eg corrections or clarifications of inclass
+topics syllabus changes via canvas and post the information as a canvas announcement i will try to post  message
+any announcements or new materials by pm every day i have organized this class differently from a traditional inperson class
+the tentative plan for the course s for all materials prior to the first exam to be a live format
+a live format is closest in nature to an inperson class we will meet during our scheduled meeting time in
+our zoom meeting room and i will present the material live in realtime pausing for questions from the audience and
+to work through example problems expect to be present during the entire hour period of class during this first week
+the course grader who will be present during class and act as a moderator for questions may take attendance for
+our records after the first exam the format of the course will change the format after the first exam relies
+on the following model e after the first week students will sign up for a breakout group for each session
+each breakout group has a designated meeting time during class hours these breakout groups vary in duration from  minutes
+to  hour based on day and content e  will post prerecorded videos of the topics o i will
+post videos for the next day by am central daylight time the day before the date listed on the schedule
+o for example i will post the content planned for june  no later than june  at am e
+as students i expect you to view the videos which are approximately  minutes in length before attending the breakout
+group o for example i expect you to have viewed the video content for june  before we meet for
+breakout groups on june  e during the breakout sessions we will use this time to review especially confusing concepts
+for the smaller group helping each other understand the new material note the course grader may continue to take attendance
+e on quiz days we will still meet in our breakout groups all students will take the quiz at the
+same time during the scheduled class time with exact times announced later e on exam days we will not meet
+in our breakout groups and all students will take the exam during the scheduled class time supplemental materials available on
+canvas  certain homework solutions  lecture notes i will post electronic copies to canvas before class so you can
+follow along and add your own notes during class or when you view the course videos  sample  midterm
+examsacc  fundamentals of financial accounting summer  homework to supplement the assigned readings there are two types of homework
+in the course solid footing homework and textbook homework solid footing homework during the first two weeks of the course
+you will be learning about the accounting cycle the process with which companies capture transaction data record them summarize them
+and transform them into financial statements that conform to generally accepted accounting principles gaap it is essential that every student
+develop a solid understanding and ability to do accounting cycle tasks because these accomplishments are the foundation for learning the
+remaining content of the course accordingly the department faculty adopted solid footing a semiinteractive tool for learning the accounting cycle
+and statement of cash flows it is meant to present reinforce and test progress in the accounting cycle in a
+way that leads to more consistent and deeper understanding among our students leading to less attrition and disappointing grades in
+acc  to be sure that all students keep up with the lessons during this phase of the course solid
+footing homework assignments must be turned in and graded although you are welcome to work on solid footing assignments with
+classmates i encourage you to work through the problems individually before working together ultimately you will be tested on the
+material so homework assignments are an excellent opportunity to find out what you do and do not know and to
+ask questions about what you do not know the attached class schedule contains the assignments and the dates on which
+they must be uploaded before the beginning of class if you need help please come see me virtually in office
+hours or by appointment before the due date i will ask you to describe what you have attempted and what
+the issue is and we will work together from there textbook homework i have assigned textbook homework from the chapters
+we cover like the solid footing homework students should complete the textbook homework outside of class textbook homework problems are
+neither submitted nor graded if you need any help please come see me the solutions for these questions will be
+available on canvas quizzes during the semester there will be  quizzes administered through canvas the quiz times and windows
+will be announced during class and on canvas tentative quiz dates are listed on the attached class schedule the quizzes
+will be similar to homework problems and examples covered in class and are not meant to be cumulative however course
+content tends to build on prior content and thus mastering the early content is critical to understanding later content there
+will be no makeup quizzes however to accommodate any unforeseen circumstances during the semester i will drop your lowest quiz
+score if you cannot take a quiz during the prescribed window your grade will be zero for that particular quiz
+you will not be able to take a quiz at any time other than the originally planned time quizzes will
+be open notes and open book but keep in mind that i have designed the quizzes with this format in
+mindacc  fundamentals of financial accounting summer  the main reason for quizzes is to help you keep up with
+the textbook readings course materials and homework problems quizzes also help me understand which topics are more challenging for the
+class as a whole quizzes let me know if i should discuss certain concepts and areas in class again to
+help improve your understanding of the material once i collect a quiz i will post solutions to canvas in addition
+to spending the first  minutes of the next breakout sessions discussing the solutions after releasing your graded quiz to
+you this is why i cannot allow makeup quizzes grading questions or appeals for all graded assignments except for the
+final exam i will accept requests for regrades to request a regrade you must submit a written request to me
+within one week from the date the grade is posted on canvas or the graded item is redistributed back to
+the class whichever is earlier a copy of the graded original must accompany the request for a re grade the
+request must state the area of dispute your recommendation for a change in grade and an explanation or justification for
+your recommendation note that with a request for regrade i will regrade the entire assignment this means that over the
+course of regrading your assignment i may encounter accidentally overlooked issues that result in a deduction of points if corrected
+to maximize the accuracy of the regrade i will make all corrections required to arrive at an accurate grade for
+the assignment this means that after a regrade your grade on that assignment may increase remain the same or decrease
+all regrades are final office hours i highly encourage each of you to take advantage of my regularly scheduled office
+hours to discuss problems and seek assistance when needed throughout the semester i would like to talk to each of
+you individually at least once during the semester for  minutes if you cannot make it to my regularly scheduled
+office hours please schedule an individual appointment with me in an effort to make the class as successful as possible
+for all students please provide me feedback on how the course is going and how you feel you are doing
+in the course i can make this class more successful if i hear from you about the parts of the
+class that are working and the parts that are not working i welcome your feedback during office hours and via
+email i understand that providing upward feedback can be very stressful during the semester i will also distribute anonymous surveys
+for each of you to fill out and provide feedback on how the course is going personal electronic equipment policy
+although i discourage the use of personal electronic devices aside from the device used to join the zoom class sessions
+because they may introduce additional distractions i recognize that the most effective form of learning may differ across students just
+because i found personal electronic devices not helpful for my own purposes as a student does not mean they are
+not helpful for others i ask that you exercise good judgment and discretion in using additional personal electronic devicesacc 
+fundamentals of financial accounting summer  zoom access policies e lam requiring you to enter the zoom meeting sessions using
+your ut eid associated zoom account this will allow you to join the sessions without waiting in the waiting room
+e please enter our meeting sessions with your video turned on and microphones muted e although we will adopt a
+casual atmosphere in our meetings please remember this is still a professional setting and we should all conduct ourselves professionally
+i reserve the right to remove students not exhibiting professional conduct from our zoom meetings course assessment semester grades will
+be determined using the following factors and relative weights assignment weight number of points inclass quizzes best  out 
+of  solid footing homework  final grades will be set such that the class average will be approximately 
+where   b and   b no letter grades will be associated with scores on exams or quizzes
+during the semester at the end of the semester i will calculate composite scores and assign grades in accordance with
+the above guidelines i may curve the final grades if necessary based on the class average and the academic standards
+of the course there will be no opportunity to raise your course grade through extra credit work during or after
+the end of the semester while the above structure does not explicitly factor attendance in grades my experience has been
+that students who attend regularly and minimize other distractions during class eg phone notifications side conversations reading the newspaper tend
+to perform better than those who do not separately if you earn at least  of the   points
+available for the course i will award at least a c for the course if you earn less than 
+of the  points available  or below i may award an f for the course examinations there will be
+three exams in this course two midterm examinations and a comprehensive final examination all three exams will be individually completed
+exams administered through canvas the two midterms exam  and exam  are not cumulative however the nature of financial
+accounting is such that material you learned for exam  will help with your understanding with the material for exam
+ although they may not necessarily be explicitly tested the final examination will be cumulative in nature the dates for
+theacc  fundamentals of financial accounting summer  exams are on the attached class schedule in life there are often
+legitimate reasons a student cannot attend an examination or other important meeting at the originally scheduled times in such circumstances
+you should inform me of your circumstances and i will determine if a makeup examination s appropriate if  deem
+a makeup examination appropriate i will schedule the makeup exam for within  days of the original scheduled exam time
+if i deem a makeup examination appropriate but i cannot schedule a makeup examination for logistical reasons only i will
+reweigh your final to include the weights of both your missed exam and the final exam this policy also applies
+to the final exam although i cannot reweigh final exams if i deem a makeup exam appropriate for the final
+exam but i cannot schedule a makeup final within  days of the originally scheduled final we will schedule the
+makeup final exam for a date prior to the originally scheduled date instructor discretion instructor discretion may include but is
+not limited to announced or unannounced quizzes in or out of class quizzes on canvas participation extra homework or other
+course adjustments if i choose to make such adjustment i will also post the altered course assessment incorporating the new
+assignments at the time the adjustment is announced dropping the course students must go through the official procedures to drop
+the course a student who stops attending the class and fails to officially drop will receive a grade of f
+consult the academic calendar on the registrars website httpregistrarutexaseducalendars for specific deadlines electronic class rosters  privacy in canvas a
+recent opinion from the us department of education states that the university must inform students in advance if their name
+will be appearing on an electronic class roster since fall  webbased passwordprotected class sites have been available for all
+accredited courses taught at the university class email rosters are a component of the sites students who do not want
+their names included in these electronic class rosters must restrict their directory information in the office of the registrar main
+building room  for information on restricting directory information see httpwwwutexasedustudentregistrarcatalogsgiappappcohtml privacy in canvas information in canvas is protected by
+your uteid login please be aware that i will use a merged canvas site for all sections of the course
+that i am teaching this semester this will allow students in other sections to see that you are enrolled in
+the course and send you email from within canvas however they will not actually learn your email address and no
+other personal data will be revealed through canvas if you have any concerns please contact the its help desk at
+ for help removing your name from view of other studentsacc  fundamentals of financial accounting summer  quantitative reasoning
+flag this course carries the quantitative reasoning flag quantitative reasoning courses are designed to equip you with skills that are
+necessary for understanding the types of quantitative arguments you will regularly encounter in your adult and professional life you should
+therefore expect a substantial portion of your grade to come from your use of quantitative skills to analyze realworld problems
+students with disabilities students with disabilities may request appropriate academic accommodations from the division of diversity and community engagement services
+for students with disabilities  httpdiversityutexasedudisability diversity and inclusion it is my intent that students from all diverse backgrounds and
+perspectives are well served by this course that students learning needs will be addressed and that the diversity that students
+bring to this class can be comfortably expressed and be viewed as a resource strength and benefit please let me
+know right away if this ever is not the case religious holy days by ut austin policy you must notify
+me of your pending absence at least fourteen days prior to the date of observance of a religious holy day
+if you must miss a class an examination a work assignment or a project in order to observe a religious
+holy day you will be given an opportunity to complete the missed work within a reasonable time after the absence
+policy on scholastic dishonesty the mccombs school of business has no tolerance for acts of scholastic dishonesty the responsibilities of
+both students and faculty with regard to scholastic dishonesty are described in detail in the bba programs statement on scholastic
+dishonesty at httpmymccombsutexasedubbacodeofethics by teaching this course i have agreed to observe all faculty responsibilities described there by enrolling in
+this class you have agreed to observe all student responsibilities described there if the application of the statement on scholastic
+dishonesty to this class or its assignments is unclear in any way it is your responsibility to ask me for
+clarification students who violate university rules on scholastic dishonesty are subject to disciplinary penalties including the possibility of failure in
+the course andor dismissal from the university since dishonesty harms the individual all students the integrity of the university and
+the value of our academic brand policies on scholastic dishonesty will be strictly enforced you should refer to the student
+conduct and academic integrity website at httpdeanofstudentsutexaseduconduct to access the official university policies and procedures on scholastic dishonesty as well
+as further elaboration on what constitutesacc  fundamentals of financial accounting summer  scholastic dishonesty campus safety although we are
+conducting this course remotely please remember to exercise good judgment in the event of an emergency occurring in your physical
+location for students who may be residing on campus during the summer session or using campus as a source of
+reliable internet access please note the following key recommendations regarding emergency evacuation provided by the office of campus safety and
+security more info at httpspreparednessutexasedu occupants of buildings on the university of texas at austin campus are required to evacuate
+buildings and assemble outside when a fire alarm is activated familiarize yourself with all exit doors of each classroom and
+building you may occupy if you need evacuation assistance inform the instructor in writing asap in the event of an
+evacuation follow the instruction of faculty or class instructors do not reenter a building unless given instructions by austin or
+ut police or fire authorities behavior concerns advice line bcal  or online in case of emergency further information will
+be available at httpwwwutexaseduemergency acc  fundamentals of financial accounting summer  the university of texas at austin department of
+accounting schedule for acc fundamentals of financial accounting summer  optional text book problems to complete after class introduction financial
+statements and business investing and financial decisions and the solid footing   due before class solid footing  
+ due before class adjustments financial statements and the quality mlwl of earnings q e  ienrertam zeer review for
+exam  fos  m   examatchapters communicating and interpreting accounting reporting and interpreting sales revenue fol w 
+reawierawent  ge asaszasao  essasersouaas eae continued reporting and interpreting cost of  th  goods sold and inventory
+quiz  q e p  reporting and interpreting ppe intangibles and  t natural resources quiz  q e
+p ea  wl a  continued  p  ith fooo  reporting and interpreting liabilities quiz  q
+e p continued reporting and interpreting bond  m  securities q e p g t    continued
+quiz ee  w  review for exam  ee ee a  th exam  chapters   continued
+statement of cash flows quiz  q e p fe  wl   continued quiz  ee ee 
+ th  review for final exam po  cumulative final exam   ou reporting and interpreting stockholders equity
+q e p  

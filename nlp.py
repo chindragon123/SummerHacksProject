@@ -1,3 +1,4 @@
+from transformers import pipeline
 import sys
 def isLetter(character):
     diff1 = int(ord(character)) - int(ord('A'))
@@ -33,6 +34,15 @@ def clean(word):
         if isLetter(character):
             newWord += character
     return newWord.lower()        
+
+def main1(): 
+    '''Current code for question-answering. Can run this with several questions asking for class features and use scores to evaluate the answers'''
+    print("Leggo")
+    nlp = pipeline('question-answering')
+    print(nlp({
+        'question': 'Does this class teach about the Renaissance',
+        'context': 'The course covers everything from Renaissance history including Leonardo da Vinci and Michaelangelo. It however, does not go deep into detail of the post-Renaissance era. Other graduate courses are responsible for covering that.'}
+    ))
 
 def main():
     filename = "syllabus_0.txt"
@@ -76,4 +86,4 @@ def main():
     saveToFile(wordList, wordCount, wordOccurrences)
 
 if __name__ == '__main__':
-    main()
+    main1()
