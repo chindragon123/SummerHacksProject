@@ -1,0 +1,283 @@
+SYLLABUS
+ARC|ARI 311K: VISUAL COMMUNICATIONS 1 | SUMMER 2020
+MTWThF 1pm-4pm
+
+ONLINE USING ZOOM
+
+INSTRUCTOR
+
+Joyce Rosner jrosner@austin.utexas.edu
+
+Appointments for office hours should be setup by emailing instructor(s).
+
+TEACHING ASSISTANT
+
+Stefan Brits sbrits@utexas.edu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alex Clayborn Intersecting Volumes
+
+INTRODUCTION
+
+Visual Communication | is a technique-based course with the focus on conventions of architectural representation
+and their relationship to one’s design process. We will explore digital and analogue modes of drawing and
+modeling and do so not only for their potential to represent that which we already know, but also as a generator
+of discoveries, ideas, and insights that may be new to us. The intent is to begin each problem with a question
+rather than an answer — with outcomes that you may not have been able to envision at the outset.
+
+In this course we value the discipline, patience, and amount of time it takes to construct precisely crafted, carefully
+measured and conceptually clear models, drawings and images. It is important for you to gain the understanding
+and ability to execute the major conventions of representation in design as well as attain the ability to learn
+through drawing. Design is an iterative process that privileges multiple trials, repeated takes, and incremental
+development based on sustained practice. Investigations will inevitably build upon one another and each student
+will produce an interrelated body of work that will be evaluated as a whole.
+
+This course is closely linked to Design I. It is organized into 3 modules:
+
+Module 1 — Introduction to Digital Modeling
+
+This module covers the basics of using Rhinoceros 6.0, with a focus on solid objects modeling and includes output
+in the form of digital drawings with possibilities for physical modeling. Students will learn how to model
+architectural volumes defined by developable surfaces and ways in which digital models can be a part of an
+expanded workflow from idea to realization.Module 2 — Advanced Drawing
+
+This module introduces students to the principles of orthographic projection and representation in the digital
+modeling environment as well as in the analogue realm, with a focus on the interaction between the two ways of
+working. It will also introduce you to digital camera work and lighting. Rather than only focusing on the production
+of presentation images, students are encouraged to use drawing as an iterative design tool.
+
+Module 3 — Final Design Drawings
+
+This module focuses on advanced uses of Rhinoceros 6.0 as a way to communicate design process and design
+intentions of your final project. Because your work will be primarily digital, this module will focus on bringing
+together everything that you have done over the course of the semester and presenting your final design project
+from diagrams to orthographic projections to perspectives.
+
+Most of your work will be done digitally and submitted for review through our UT Box. What isn’t done digitally —
+such as drawings in your sketchbook - will be photographed or scanned and also uploaded to box. This will allow
+all of you to view all of the work that is being produced.
+
+Class time will take place online using Zoom through Canvas. You will be expected to be present at those meeting
+during which we will discuss any new assignments, tutorials, answer questions, and talk about specific projects.
+Class time is intended for the exchange of ideas and approaches. You will also be given time during class to work
+and for us to review work individually as necessary.
+
+Software
+The course will require extensive use of the following software to be installed on your personal PC laptops by the
+second day of class. YOU MUST HAVE A MOUSE WHEN WORKING ON YOUR COMPUTER.
+
+Rhinoceros 6.0
+
+You can purchase a full, single-user, Rhino 6 for Windows license available to students:
+http://www.rhino3d.com/sales/north-america/United_States
+
+A limited number of discounted copies of student licenses may also be available at the UTSOA IT office.
+
+Temporary evaluation licenses are available for free download online (Saving and plug-ins stop working after 90
+days unless you make a full license purchase):
+
+http://www.rhino3d.com/download/rhino/6/latest
+
+Copies of this software are available for Mac, but currently Mac laptops do not conform to UTSOA minimum laptop
+requirements; as a result all instruction is based on PC/Windows versions of the software.
+
+Adobe Creative Cloud
+
+We will primarily use Adobe Illustrator and Photoshop in this course, though students are encouraged to have
+access to the whole suite of Adobe software, such as InDesign, and Acrobat.
+
+You can download free trial software and find out more about online subscription licensing for Adobe products
+here:
+
+http://www.adobe.com/downloads.html
+
+READING
+
+The recommended (not required) textbook and desk companion for this course and beyond in your visual studies
+is:
+
+Yee, Rendow. Architectural Drawing: A Visual Compendium of Types and Methods.
+
+Frank, Ching Design Drawing
+
+These books are available in the library and much of the information can be found online.EVALUATION CRITERIA
+
+While each project contains certain quantifiable elements for evaluation, a significant portion of each grade is
+derived from broader and more subjective criteria.
+
+Student work will be evaluated according to its rigor and evolution over the semester. Grades are subject to
+deductions for late arrivals, absences, and late or incomplete work at the discretion of the instructor.
+
+Grading for an assignment is broken into four components, each of which is given roughly equal weight:
+
+Pursuit: the consistent and rigorous development and testing of ideas.
+
+e = The ability to formulate a query or thesis and pursue a self-determined concomitant method of
+inquiry
+
+e = The ability to identify and implement various processual mechanisms (software, sketch drawing and
+models, etc.) in the development of the design
+
+e Initiative as demonstrated in work ethic — Does the student do what is asked; go beyond what is
+asked; direct their own efforts; eager to produce the next iteration of the design?
+
+Grasp: the ideas and understanding of the project at hand and integration of knowledge introduced in
+companion courses.
+
+e Astrong and clearly stated design objective
+
+e Spatial acuity as demonstrated in plan — including reasonable disposition of programmatic elements —
+and sectional development
+
+e Synthetic and critical thinking; the ability to holistically organize a project as demonstrated through
+creative engagement with issues of materiality, structures and construction, structural and
+environmental system integration, building materials and assembly, sustainable practices, etc. in
+support of the design objective
+
+e Structural competence and material sensitivity as demonstrated in wall thickness, floor plates, and
+assembly
+
+Resolution: of the design objective; the demonstration of competence, completeness, and finesse in the final
+design presentation.
+
+e Quality of presentation; clarity of communication; appropriateness of media strategy and level of skill
+displayed through the work presented at all stages of the design process; technical documentation
+
+Engagement: the active participation in studio activities, leadership, collaboration, group discussions and
+reviews.
+
+A student must earn a letter grade of C or better in order for the course to count towards a degree in the School of
+Architecture and to progress in to the next studio. A letter grade of C- will not satisfy degree requirementsGRADE DESCRIPTIONS
+
+A/A-
+
+B+/B/B-
+
+Cc+/C
+
+C-/D+/D/D-
+
+ATTENDANCE
+
+Excellent
+
+Project surpasses expectations in terms of inventiveness, appropriateness, visual language,
+conceptual rigor, craft, and personal development. Student pursues concepts and techniques
+above and beyond what is discussed in class. Project is complete on all levels.
+
+Above Average
+
+Project is thorough, well presented, diligently pursued, and successfully completed. Student
+pursues ideas and suggestions presented in class and puts in effort to resolve required projects.
+Project is complete on all levels and demonstrates potential for excellence.
+
+Average
+
+Project meets the minimum requirements. Suggestions made in class and not pursued with
+dedication and rigor. Project is incomplete in one or more areas.
+
+Poor
+
+Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of presentation are not
+level-appropriate. Student does not demonstrate the required competence and knowledge base.
+
+Fail
+
+Project is unresolved. Minimum objectives are not met. Performance is not acceptable. Note that
+this grade will be assigned when students have excessive unexcused absences.
+
+Excused Incomplete
+
+Can be given only for legitimate reasons of illness or family emergency. Simply not completing work
+on time is not an adequate cause for assigning this evaluation. It may only be used after
+consultation with the Associate Deans' offices and with an agreement as to a new completion date.
+Work must be completed before the second week of the next semester in which the student is
+enrolling, according to the School of Architecture policy.
+
+Incomplete coursework must be completed prior to the beginning of the following semester. ALL
+GRADES ARE SUBJECT TO DEDUCTIONS FOR ABSENCES, LATE WORK AND LATE ARRIVALS.
+
+Punctual and regular attendance is mandatory. Participation is expected. With three (3) unexcused absences, the
+student’s final grade for the course will be lowered by a full letter grade. The final grade will be lowered by a full
+letter grade for each unexcused absence thereafter. Aside from religious observances, absences are only excused
+with written documentation of a medical issue or family emergency. The student is responsible for completing
+work missed due to excused absences and initiating communication with the instructor to determine due dates.
+
+If a student is late (5 minutes after the start of class) three (3) times, it will be counted as one (1) unexcused
+absence. Students should notify the instructor prior to class if lateness or absence is known in advance. Students
+must notify instructors directly regarding lateness or absences; asking a classmate to inform the instructor is not
+
+acceptable.RELIGIOUS OBSERVANCES
+
+A student shall be excused from attending classes of other required activities, including examinations, for the
+observance of a religious holy day, including travel for the purpose. A student whose absence is excused under this
+subsection may not be penalized for that absence and shall be allowed to take an examination or complete an
+assignment from which the student is excused within a reasonable time after the absence. University policy
+requires students to notify each of their instructors as far in advance of the absence as possible so that
+arrangements can be made.
+
+By UT Austin policy, you must notify the instructor of the pending absence at least fourteen days prior to the date
+of a religious holy day. If you must miss a class, an examination, an assignment, or a project in order to observe a
+religious holy day, you will be given an opportunity to complete the missed work within a reasonable time after
+the absence.
+
+ACADEMIC INTEGRITY
+
+Students who violate University policy on academic integrity are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Since such dishonesty harms the individual,
+all students, and the integrity of the University, policies on academic integrity will be strictly enforced. Refer to the
+Student Conduct and Academic Integrity website for official University policies and procedures on academic
+
+integrity: http://deanofstudents.utexas.edu/conduct/academicintegrity.php. University Code of Conduct:
+
+http://catalog.utexas.edu/general-information/the-university/Huniversitycodeofconduct
+
+HONOR CODE
+
+"As a student of The University of Texas at Austin, | shall abide by the core values of the University and uphold
+academic integrity.”
+
+UNIVERSITY CODE OF CONDUCT
+
+"The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the University is expected to uphold these values through integrity,
+honesty, trust, fairness, and respect towards peers and community."
+
+MENTAL HEALTH AND SUPPORT SERVICES
+
+Taking care of your general well-being is an important step in being a successful student. If stress, test anxiety,
+racing thoughts, feeling unmotivated, or anything else is getting in your way, there are options available for help:
+
+e In-house CARE counselor (see below)
+e For immediate support
+o -Visit/call the Counseling and Mental Health Center (CMHC):
+M-F 8am-5pm | SSB, 5*" floor | 512-471-3515 | cmhc.utexas.edu
+Oo CMHC Crisis Line:
+24/7 | 512-471-2255 | cmhc.utexas.edu/24hourcounseling.html
+e Free services at CMHC:
+o Brief assessments and referral services: cmhc.utexas.edu/gettingstarted.html
+o Mental health & wellness articles: cmhc.utexas.edu/commonconcerns.html
+o  MindBody Lab: cmhc.utexas.edu/mindbodylab.html
+o Classes, workshops, and groups: cmhc.utexas.edu/groups.htmlSTUDENTS WITH DISABILITIES
+
+Students with disabilities who require special accommodations must obtain a letter that documents the disability
+from the Services for Students with Disabilities area of the Office of the Dean of Students (471-6259 voice or 471-
+4641 TTY for users who are deaf or hard of hearing). This letter should be presented to the instructor in each
+course at the beginning of the semester and accommodations needed should be discussed at that time.
+
+http://diversity.utexas.edu/disability/
+
+BCAL
+
+Concerns regarding the safety or behavior of fellow students, Teaching Assistants (TA), or Professors can be
+reported to the Behavior Concerns Advice Line (BCAL): 512-232-5050. Calls can be made anonymously. If
+something doesn’t feel right, it probably isn’t. Trust your instincts and share your concerns.

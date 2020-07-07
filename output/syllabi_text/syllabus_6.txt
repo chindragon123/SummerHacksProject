@@ -1,0 +1,163 @@
+ChE F473K Summer 2020
+Process Design and Operations
+
+Instructor: Thomas Edison
+Office: CPE 4.458
+Office Hours: Zoom
+Telephone: 471- 4438
+tedison@che.utexas.edu
+Class time: Class: M/W/F 9:30 — 12:30 Zoom Sessions
+Zoom Tutorial M/W 2:00 - 4:10
+Text book:
+
+Analysis, Synthesis, and Design of Chemical processes (5"" edition) by R. Turton, J. A.
+Shaeiwitz, Prentice Hall 2018
+
+Final Grade:
+Homework / mini-projects/ Zoom presentation 30 %
+Exams and quizzes 40 %
+Design project report/Zoom presentation 30 %
+General Outline / Topics Covered
+1) Process design overview
+2) Process economics
+
+3) Flowsheet analysis
+
+)
+
+)
+
+)
+
+4) Computer simulation
+5) Process analysis
+
+6) Mini design project
+7) Special topics: safety, environmental, energy conservation
+
+NOTE: The University of Texas at Austin provides, upon request, appropriate academic
+accommodations for qualified students with disabilities. For more information, contact
+the Office of the Dean of Students at 471-6259, 471-4641 TTY.Course Objectives
+
+Develop professional skills in the development, design, and operation of chemical
+processes involving a variety of unit operations (absorption/stripping, distillation,
+extraction, adsorption, crystallization, chemical conversions, etc) and a variety of
+industrial sectors (petroleum, chemical, power production, microelectronics, biomedical,
+environmental, etc).
+
+Provide exposure to process equipment design and operations through class lectures
+and individual study during team project execution.
+
+Provide training and experiences in developing their communication skills (reading,
+writing, oral presentations, listening) through formal course training, team project
+execution, team project presentations, team project reports, and class exercises.
+
+Provide training and experiences in sound problem solving approaches [define the
+problem and what is known, what additional information is needed, how do we
+obtain/measure the needed information, what techniques can be used to solve the
+problem, what is the best approach to obtain a good (timely, adequate accuracy, and
+cost effective) solution, and does this solution make sense/what is the best way to verify
+it. ]
+
+Provide adequate training and experiences in the use of engineering tools such as
+computer process simulation and economic models.
+
+Provide learning environment that stimulates students’ curiosity and interest in solving
+challenging engineering problems.
+
+Provide learning environment that encourages students to "learn on their own" and feel
+responsible for their own career development.
+
+Provide learning environment that encourages students to conduct their professional
+activities in a fashion consistent with the engineering code of ethics.
+
+Knowledge, Abilities, and Skills Students Should Have Entering This Course:
+
+Basic Math, Chemistry, and Physics
+
+Set-up and solve macroscopic mass balances (ChE317, ChE353, and ChE354)
+
+Set-up and solve macroscopic energy balances (ChE317, ChE353, and ChE354)
+
+Ability to size piping networks, valves, pumps, compressors, and flow meters for
+
+simple and branched flow systems (ChE354).
+
+Ability to determine heat transfer coefficients and size heat exchangers (ChE354).
+
+Ability to calculate physical and chemical equilibrium for ideal and non-ideal systems
+
+(ChE322, ChE353, ChE363, ChE372)
+
+7. Ability to size various separations systems, specifically distillation, absorption,
+adsorption extraction, and membrane separation processes (ChE363).
+
+8. Ability to analyze various reaction systems and size chemical reactors for specific
+
+reaction systems (ChE372).
+
+PoONn>
+
+DoBasic computer skills (ChE448).
+
+9. Can use process simulation models to analyze the performance of a separations’
+unit operations, such as distillation (ChE363).
+10.Write reports (ChE333T, Ch153K) and make oral presentations (ChE333T).
+
+Knowledge, Abilities, and Skills Students Should Gain From This Course:
+
+Define the approach and solve process design problems.
+
+Develop confidence in solving open-ended problems.
+
+Obtain appropriate data for solving problems.
+
+Perform cost estimations, profitability analyses, and alternative investment
+
+evaluations.
+
+5. Select appropriate process equipment and materials of construction.
+
+6. Effectively analyze and troubleshoot results obtained from process simulation
+
+models.
+
+Develop project management plans.
+
+Understand typical process development steps.
+
+Prepare effective project reports.
+
+10. Give effective oral presentations.
+
+11.Develop an appreciation of process designs in several industries.
+
+12. Develop an appreciation for process safety, product liability, and environmental
+control issues.
+
+13. Develop an appreciation for the importance of engineering professionalism, e.g.
+
+engineering.
+
+PoONn>
+
+(© CON
+
+Criteria 2000 Outcomes Achieved: ChE 473K is a Capstone Course
+
+An ability to apply knowledge of mathematics, science, and engineering.
+
+An ability to design a system, component, or process to meet desired needs.
+
+An ability to function on multi-disciplinary teams.
+
+An ability to identify, formulate, and solve engineering problems.
+
+An understanding of professional and ethical responsibility.
+
+An ability to communicate effectively.
+
+An ability to use the techniques, skills, and modern engineering tolls necessary for
+engineering practice.
+
+NOR Wh >

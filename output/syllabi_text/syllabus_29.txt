@@ -1,0 +1,499 @@
+THE UNIVERSITY OF TEXAS AT AUSTIN
+ACC F383K.4, Fraud Examination (unique no. 71050)
+
+Course Syllabus
+Summer 2020 (First Session)
+
+Time:
+Mondays, Tuesdays and Wednesdays from 8:00 — 10:00 a.m. (synchronously via Zoom)
+
+ 
+
+Instructor
+Mark Bradshaw, J.D., M.P.A., M.B.A.
+Lecturer, McCombs School of Business (2006 - Present)
+KPMG Professor in Residence (2007)
+Of Counsel, Matheson, Keys & Kordzik PLLC
+Office: GSB.5.124E; Ph.: 512-475-8852; E-mail: mark.bradshaw @ mccombs.utexas.edu
+Office hours (via Zoom): Mondays from 10:00 — 11:00 a.m. and by appointment.
+
+Please e-mail if you wish to reach me outside of class and office hours.
+
+Teaching Assistant
+Israel Escudero
+E-mail: isresc2@ gmail.com
+Office hours: Please contact Israel if you have questions or concerns regarding a case score.
+
+Israel will assist with the grading of cases and exams. After graded cases are returned, he will
+be available via email and Zoom, if necessary, to discuss such assignments. Please bring all
+other questions (including questions concerning case preparation and exam-related matters)
+to my attention.
+
+Canvas
+
+We will use the web-based University of Texas at Austin "Canvas" system extensively. To
+access Canvas, go to http://courses.utexas.edu or follow the links from other University
+websites.
+
+I will use Canvas to post announcements, class materials and scores. Please check Canvas
+frequently and before every class. You can also use the Canvas discussion feature to post
+comments, questions, and responses to others' posts. Jf you have a course-related question that is
+not a personal matter, please use Canvas, not e-mail, so that all students can benefit from the
+question and response(s).
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page |Enhancing the Enjoyment of this Course
+
+I prefer an informal classroom, as I have found such an environment to be more enjoyable and
+conducive to student attendance, participation and learning. I hope you will let me know
+during class if you have a question, comment or response. In this class, silence is not golden!
+
+Please assist me in maintaining a positive, productive learning environment by showing
+courtesy and respect for your fellow students (and me). To that end, please make all
+reasonable efforts to be on time to class and exams. When you enter the virtual classroom,
+please do so via Canvas and not from a personal (non-UT) Zoom account, as entering
+from outside of Canvas causes me to have to stop and allow individual access, as well as
+creating a security risk.
+
+Slides for lectures will be available on Canvas before class. Although only a small portion of
+such slides will be covered in class — they are provided primarily to assist you with exam
+preparation - |recommend that you print out the slides (4 or 6 to a page) before each class, or
+have them available electronically, and take notes as we cover selected material.
+
+You will have a formal opportunity to provide feedback on the course via the end-of-semester
+Course Instructor Survey, but please contact me during the semester if you wish to discuss any
+aspect of the course in person.
+
+Required Course Materials:
+
+Course files. As noted above, I will provide slides, cases, supplemental non-textbook readings, and
+other course materials on Canvas. These materials do not substitute for class itself, so it is
+important to attend each class session (or at least watch the recorded class if you are not
+able to attend live).
+
+A Guide to Forensic Accounting Investigation, 2™ edition, by Skalak, Golden, Clayton & Pill
+(Wiley, 2011), available online at no charge via the UT Library (sign-in needed) at
+https://onlinelibrary-wiley-com.ezproxy.lib.utexas.edu/doi/book/10.1002/9781 119200048.
+
+ 
+
+Course Objectives
+At the end of the course, you will have a better understanding of the following:
+
+1. Fraud examination as a profession;
+
+2. Differences between audits and fraud investigations;
+
+3. Independence, legal and other obligations of the auditor and fraud examiner with respect to fraud;
+4. Financial reporting fraud, asset misappropriation, bribery and corruption, Ponzi and other fraud
+
+schemes, their red flags, and their means of detection.
+
+5. Fraud psychology;
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 28.
+9.
+
+10.
+11.
+12.
+13.
+14.
+15.
+
+Fraud detection and investigation techniques;
+
+The role of management, internal audit and other parties in fraud detection, deterrence and
+investigations;
+
+Commencing and conducting a fraud investigation;
+
+Working with counsel;
+
+Handling anonymous communications and other pre-investigation considerations;
+Interviewing skills;
+
+Investigation reports;
+
+Money laundering;
+
+Public corruption; and
+
+Domestic and international anti-corruption laws.
+
+Grading
+
+Course grades will be based on a 350-point scale, as follows:
+
+Points Possible
+
+         
+  
+  
+
+100 (28.5%)
+
+    
+
+I do not have fixed point or percentage cut-offs in mind regarding letter grades. I will make
+these determinations at the end of the semester based on both relative and absolute
+performance considerations. Historically, my grade distribution in this class has been
+approximately 35% A, 15-20% A-/B+, 40-50% B, with the remainder B- or below.
+However, each class is different and this course's grade distribution may vary from the
+
+foregoing.
+
+Each graded component is described below:
+Examinations (midterm and final each worth 100 points)
+
+Examinations will emphasize concepts and issues discussed in class and in the slides, although
+
+any material from assigned readings is "fair game" for testing. The format and time provided for
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 3exams (type of questions, and whether “take home” or in class) will be announced, along with
+preparation guidance, approximately one week prior to each exam. The most likely scenario is that the
+midterm exam will be given synchronously (in class), the final exam will be “take home,” and most exam
+questions will be short answer and/or essay.
+
+The midterm examination will test material covered to that point in the course, as announced.
+The final examination will cover the remainder of the material in the course (i.e., it will not be
+“cumulative,” as such term is normally used). Of course, as some material in this course builds on
+previous concepts, the final examination will be “cumulative” in the broad sense of that term.
+
+Cases (100 points)
+
+To refine your writing skills and your ability to deal with more realistic problems in fraud
+examination, there will be three case exercises based on real-world examples that have been adapted for
+teaching purposes.
+
+Cases will be graded for breadth and depth of analysis, quality of writing and professional
+impression. Case questions may, in certain instances, be subjective issues for which there will be no
+single “right answer’ and multiple views can be defended. It is important to be both complete and
+concise in your case analyses. Do not repeat or summarize the case facts, except where needed to
+support a position. Your case analyses will be limited to four pages each (unless otherwise
+announced) and must be double-spaced, use a font no smaller than 10, and have left and right
+margins of at least I”.
+
+In the formative stage of a case assignment, you are welcome to discuss the case with other
+students in this class (but not others outside of this class), including on Canvas. However, copying or
+paraphrasing from another student's draft or final solution, in whole or in part, is scholastic
+dishonesty, and will be penalized severely. See "Policy on Scholastic Dishonesty" later in this syllabus
+for clarification.
+
+The assigned cases will be posted on Canvas. Due dates will be as set forth in the “Anticipated
+Course Schedule” at the conclusion of this syllabus, unless changed per class announcement. Each
+case will be worth 30-40 points, as announced when each case is assigned.
+
+All cases will be due before class via Canvas upload on the day indicated, unless otherwise
+announced. Time permitting, we will discuss the first two cases in class, on or after the due date.
+Discussion of cases is an important part of the course, so please be prepared to discuss and defend
+your positions in class (see “Class Attendance and Participation,” below).
+
+Class Attendance and Participation (50 points)
+
+Your consistent attendance (synchronously, if possible) and active participation will make this
+course substantially more enjoyable (for you and me) and significantly enhance the clarity of points
+discussed in class. To give you an added incentive to attend and participate, 50 points will be based on your
+attendance and my largely subjective (but genuine) assessment of your cumulative participation and
+contribution in this class. Assessing participation at the conclusion of the course requires my judgment, but
+you can trust me to do my best to form a fair assessment of your participation and contribution.
+
+To eam points for participation and attendance:
+¢ Ask and answer questions and offer insights in class discussions.
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 4¢ Actively participate in any discussions led by guest speakers.
+¢ Attend class.
+
+To earn a high participation score, substantial classroom participation and consistent
+attendance is necessary.
+
+As the summer session is so abbreviated, attendance will be taken most class days. Attendance is
+almost certain to be taken, however, on days when we have guest speakers, video presentations and do in-class
+group exercises (video presentations and exercises may not be announced in advance), but may be taken any
+day in my discretion. Attendance is a material factor in determining your overall participation score. In
+addition, any student who is absent 50% or more of the days on which attendance is taken will receive an
+attendance and participation score of zero (out of 50) in the course, regardless of any class participation.
+
+In evaluating course performance, I also reserve the right to take into account any violations of
+course policies or any other activities that are disruptive to the class.
+
+Altemate Policies for Students Residing in Certain Intemational Time Zones
+
+Although this course will be taught synchronously, I appreciate that some students may be unable to
+attend “‘live” because they live in intemational time zones that make live attendance highly inconvenient or
+impracticable (“Asynchronous Students’’). For purposes of this class, I define “inconvenient or impracticable”
+to mean that class would begin for you (at your place of residence) after 8:00 p.m. in the evening, or begin prior
+to 7:00.a.m. (e., class would begin for you between 9:00 p.m. and 6:00 a.m., inclusive). If you establish that
+you live in such a time zone, then a verified viewing of the entirety of a recorded class within 24 hours of its
+conclusion will satisfy the attendance requirement for such class. Please note that this policy does not apply to
+students who reside in time zones in which class begins between 7:00 a.m. and 8:00 p.m. (even if you are
+
+traveling) (“Synchronous Students’).
+
+True class participation will obviously be impossible for Asynchronous Students, as they will be
+unable to interact with me, a guest speaker, or the class live. However, in order for Asynchronous Students to
+have an opportunity to participate, I will accept questions in advance of class, via email (with a limit of two per
+class, please). As with in-class participation, this is optional, not a requirement. Again, this alternate means of
+participation is only available to Asynchronous Students.
+
+If you are an Asynchronous Student, please contact me he first week of class with verification of your
+residence for the period covered by the course (June 8 to July 11) and we can discuss the application of the
+foregoing policies to you. If you do not contact me in a timely manner, I will presume that you are a
+Synchronous Student.
+
+Don’t be Shy!
+
+As in any course, it is common for some students’ early performance in the course to fall short of
+their goals or expectations. Unfortunately, it is also common for such students to not seek input or assistance
+in a timely manner, leading to anxiety and diminished opportunities for a particular grade.
+
+If at any point you have a concern about your performance in the course, please see me —do not
+wait until it becomes too late. will be happy to provide suggestions on how you might improve your
+performance.
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 5Discussion Board
+
+Along with other features of Canvas, I strongly encourage you to take advantage of the
+discussion boards for this course. Postings can relate to class discussions, case issues, exam-related
+questions, current events, or any other topics/issues that are relevant to this course (including career-
+related matters). I monitor the discussion board periodically, and more frequently approaching case due
+dates and exams.
+
+Ground rules for Canvas Discussion:
+
+1. For questions or comments of general interest to the class (i.e., non-personal matters), please
+use a discussion board, not e-mail!
+
+2. Be professional and courteous. Discussion forums of this type are used throughout the business
+world. You do not need to be overly formal, but forums such as this offer a good opportunity to
+practice professional business communication. Please keep in mind that Iwill read your posts.
+
+3. Donot bea free rider. If you benefit from reading others’ postings, consider adding your own
+insights. Also, reply to inquiries from your fellow students.
+
+4. Evenif you have nothing to post, please get in the habit of accessing the discussion board
+frequently, and before each case due date and exam. | will often use Canvas to communicate
+important announcements and clarifications.
+
+5. I will establish a special forum for each exam and case. To maximize the usefulness of your post,
+please use such forums for case- and exam-related questions.
+
+Canvas downtimes and cases:
+
+As with all computer systems, there are occasional scheduled downtimes as well
+as unanticipated interruptions of the Canvas system. Notification of these disruptions
+will be posted on the Canvas login page. Scheduled downtimes are not an excuse for
+turning in a case late or failing to complete other course requirements. However, if there
+is an unscheduled downtime for a significant period of time, I will make an adjustment if
+it occurs close to the due date. As downtimes are often unpredictable, I advise you to
+print out case materials as soon as they are available.
+
+Policy on Missed Examinations and Assignments
+
+In general, medical emergencies, family emergencies, university-sponsored conflicts and
+religious holidays (see below) are the only valid reasons for missing an examination or the due date
+of a case. In all such instances, I require some form of supporting documentation, such as a signed note
+from a physician or a University official, and ask that you register your situation with the Office of
+Student Emergency Services (OSES) consistent with OSES policies, if possible. At that point I will
+decide the best make-up alternative on a case-by-case basis, which could mean a make-up exam or
+recalculating the semester grade to omit the missed component, depending on the circumstances.
+Examinations or assignments that are missed or late for reasons other than such emergencies or
+university-sponsored conflicts will generally receive no, or substantially reduced, credit. In the case of a
+conflict due to a university-sponsored event, you must notify me as soon as you are aware of the
+conflict and before the examination date or assignment due date.
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 6Please note that summer travel is not a valid reason for missing an examination or turning in
+an exam or a case late. If you anticipate a conflict with an exam or case due date (see “Anticipated
+Course Schedule” below), I urge you to make alternate arrangements for that activity or event, or
+plan to turn in your exam or case early.
+
+Religious Holidays
+
+Religious holy days sometime conflict with class and examination schedules. By University
+policy, you must notify me of your pending absence prior to the date of observance of a religious holy
+day. If you must miss an examination or class in order to observe a religious holy day, appropriate relief
+will be provided.
+
+Policy on Students with Disabilities
+
+The University strives to accommodate qualified students with disabilities. Students with
+disabilities may request appropriate academic accommodations from the Division of Diversity and
+Community Engagement, Services for Students with Disabilities (SSD), 512-471-6259,
+http://www.utexas.edu/diversity/ddce/ssd/. If you are a qualified student with a disability, please see me
+to discuss any appropriate accommodations that have been recommended by the SSD office for this
+course.
+
+University Electronic Mail Notification Policy
+
+All students should become familiar with the University’s official e-mail student
+notification policy. It is the student’s responsibility to keep the University informed as to
+changes in his or her e-mail address. Students are expected to check e-mail on a frequent
+and regular basis in order to stay current with University-related communications,
+recognizing that certain communications may be time-critical. It is recommended that e-
+mail be checked daily, but at a minimum, twice per week. The complete text of this
+policy and instructions for updating your email address are available at:
+
+http://www.utexas.edu/its/policies/emailnotify.html.
+
+Electronic Class Roster and Student Privacy
+
+The University has requested that students be notified of their privacy rights in regard to
+electronic class rosters:
+
+Password-protected class sites will be available for all accredited courses taught at the
+University. Syllabi, handouts, assignments and other resources are types of information
+that may be available within these sites. Site activities could include exchanging e-mail,
+engaging in class discussions and chats, and exchanging files. In addition, class e-mail
+rosters will be a component of the sites. Students who do not want their names included
+in these electronic class rosters must restrict their directory information in the Office of
+the Registrar, Main Building, Room 1. For information on restricting directory
+information see: http://www.utexas.edu/student/registrar.
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 7Policy on Scholastic Dishonesty and Working Together on Cases
+Policy of the Department of Accounting
+
+The Department of Accounting has a Policy Statement on Scholastic Dishonesty in the MPA
+Program. It is available via the Department website at https://my.mccombs.utexas.edu/MPA/Student-
+Codes-of-Ethics.
+
+The Department of Accounting has no tolerance for acts of scholastic dishonesty. The
+responsibilities of both students and faculty with regard to scholastic dishonesty are described in
+detail in the Department's Policy Statement on Scholastic Dishonesty in the MPA Program. By
+teaching this course, I have agreed to observe all faculty responsibilities described
+in that document. By enrolling in this class, you have agreed to observe all student
+responsibilities described in that document. If the application of the Statement on
+Scholastic Dishonesty to this class or its assignments is unclear in any way, it is your
+responsibility to ask me for clarification. Students who violate University rules on
+scholastic dishonesty are subject to disciplinary penalties, including the possibility
+of failure in the course and/or dismissal from the University. Since dishonesty
+harms the individual, all students, the integrity of the University, and the value of
+our academic brand, policies on scholastic dishonesty will be strictly enforced. You
+should refer to the Student Judicial Services website at
+http://deanofstudents.utexas.edu/sjs/ to access the official University policies and
+procedures on scholastic dishonesty as well as further elaboration on what
+constitutes scholastic dishonesty.
+
+Integrity 1s a public good from which we all benefit and a trait of successful businessmen and
+women. I intend to conduct this course in an environment of trust and cooperation. I can only achieve
+this, however, if you maintain absolute ethical integrity in this course. If in doubt, ask me!
+
+Personal Policy on Working Together on Cases (applies only to this course)
+
+For this course, you may discuss issues related to assigned cases with other students in this class
+(but not other persons). You may work in the formative stages of an assignment with others to clarify
+issues or exchange ideas. However, the joint or collaborative preparation of case solutions is not
+permitted and I expect the final product of each collected assignment to reflect individual thought
+and composition. You may not copy or paraphrase from others' draft or final solutions. Examples
+intended to clarify this policy follow.
+
+Examples of acceptable collaborative efforts (apply only to this course):
+
+¢ A student is confused about an ambiguous aspect of a case, and asks another student in the class
+what s/he thinks.
+e Students ask questions and share helpful insights in class or on Canvas.
+
+Examples of collaborative efforts that are unacceptable:
+
+e Student A completes a case before student B. B asks A for (or A offers) A's solution. B bases
+his/her solution on A's solution. Both A and B are guilty of scholastic dishonesty.
+
+e A student finds a source relevant to a case and copies extensively from it, without using quotation
+marks, indentation or other references to acknowledge the source. This example constitutes
+
+ACC F383K.4
+
+SUMMER 2020 (FIRST)
+
+Mark L. Bradshaw Page 8plagiarism, which is a clear case of scholastic dishonesty.
+
+e A student finds or is given a solution to a case, whether online or provided by another source (e.g.,
+a former student in the course), and bases his/her solution, in whole or in part, thereon.
+
+e Any collaboration, breach of security or other cheating on a course examination.
+
+Anticipated Course Schedule
+
+Assigned chapters are from the text noted above. Various other readings will supplement the text
+and be added to Canvas modules from time to time.
+
+Please note the concentration of cases and readings following the Midterm Exam and plan
+accordingly.
+
+IMPORTANT: Please complete each day's assigned reading before class. The readings provide
+background that is necessary for understanding classroom discussion.
+
+June 8
+
+Course overview
+Introduction to fraud examination
+Comparison of audits and fraud investigations
+
+Comparison of practices, continued
+Auditor responsibilities regarding fraud
+Independence considerations for the auditor
+and fraud examiner
+
+Independence, continued
+
+15 Guest speaker*
+Case 1 due by 8:00 a.m. CST (class time)
+
+16 Fraud psychology and characteristics ,
+Additional readings:
+Fraud red flags and detection techniques
+Financial reporting fraud and asset Chs. 21, 22, 23
+misappropriation schemes
+
+17 Bribery and corruption — U.S. FCPA and Supplemental
+U.K. Bribery Act readings
+
+22 Public corruption Supplemental
+Guest speaker* readings
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 9ee oo
+Commencing an investigation: anonymous _|Chs. 8, 7, 14
+communications; working with investigators;
+early investigative matters
+
+Case 2 due by 12:00 p.m. CST (noon)
+Evening session (6:00-9:00) with forensic
+training software* (no class at 8:00 a.m.)
+
+Interviewing skills
+
+Guest speaker*
+
+Conducting the investigation:
+
+Building a case with evidence; supporting a
+criminal prosecution; working with legal
+counsel; reporting on an investigation
+
+Case 3 due by 8:00 a.m. CST (class time)
+
+Privacy issues and investigative challenges /Chs. 9, 12
+Guest speaker*
+
+Additional reading:
+Money laundering
+
+ 
+
+ACC F383K.4
+SUMMER 2020 (FIRST)
+Mark L. Bradshaw Page 10

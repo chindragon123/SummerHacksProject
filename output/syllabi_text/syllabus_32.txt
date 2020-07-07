@@ -1,0 +1,198 @@
+SYLLABUS
+ECO N420K MICROECONOMIC THEORY
+Nine Week Summer 2020 Unique #79464
+M,T,W,TH,F 1:00 — 1:50pm
+
+Instructor: Dr. Wayne Hickenbottom
+
+Email: hicken@austin.utexas.edu (same as through canvas)
+
+Office Hours: T,TH and Sunday 4-5 pm. Additional office hours will be scheduled
+around key times. See Canvas Zoom for specifics.
+
+TA: To be announced. TA Office hours will be posted on Canvas announcements and
+Zoom when scheduled.
+
+Textbook
+
+Microeconomic Theory: Basic Principles And Exensions by Nicholson and Snyder, 12"
+ed. We will definitely be covering (though not in order) all or parts of chapters 1, 3, 4, 5,
+7, 8, 9,10, 11, 12, 13, 14, and 15. We will cover some additional chapters based on time
+and interest. Chapter 2 is the math review section of the book. We will not be covering
+this chapter directly, but it should be your first resource if you have questions about the
+mathematics. The first HW assignment has questions about some mathematical
+concepts we will be using throughout the course and Ch. 2 will be a good place to look if
+you have problems with HW #1.
+
+If you wait until just before the exams to begin looking at the book, you probably won’t
+find it very useful. If you keep up with the reading, then the book becomes a much more
+useful tool in learning this material. This is not your standard," You need to keep up with
+the reading." sermon. This whole book, not just chapter 2, reads like a math book. That's
+why | like it, but it is also why some students find it difficult. It is almost impossible for the
+book to be useful unless you keep on top of the reading.
+
+Overview
+
+In Introductory Microeconomics, you were (hopefully) given some sense of what sorts of
+questions economists look at, and what they know about the answers to some of those
+questions. This class begins to look at how economists come up with those answers.
+This class will introduce you to many of the tools that economists at every level use. The
+topics covered in this class will be very similar to those at the introductory level: consumer
+behavior, theory of the firm, efficiency, competitive markets, etc. However, each will be
+explored in a more rigorous fashion. This will also provide insights as to how these same
+questions are analyzed at higher levels of the discipline. Thus, in many ways, this course
+is an introduction to how economists do things. Most of what is new in this class are not
+the results we will derive, but it how we will derive them.
+
+Prerequisites
+
+Introductory Microeconomics, Introductory Macroeconomics, Economic Statistics,and
+two semesters of Calculus. That's ECO 304K, 304L, 329, and either M 408C and 408D
+or M 408K, and 408L in UT terms. This class will require you to recall material from the
+Intro Micro, Eco Stats, and the calculus classes. Students who don't have all the pre-
+requisites need to check with the advising office as you will probably be automatically
+dropped from the course. If you are missing pre-requisites, | cannot help you stay in the
+class.Lectures and Schedule
+
+Barring unforeseen circumstances, lecture will be recorded M —F from 1 — 1:50. This is
+scheduled on Zoom. Lecture will be of more value if students are watching live and
+chiming in with questions as | go through the material. However, | certainly understand
+that in the current circumstances people will not be able to tune in regularly. All lectures
+will be recorded and will be available shortly after they conclude. However, the regularly
+scheduled lectures do not meet the time requirements of a 4 credit class during this 9
+week session. So on the days HW is due (see more on HW below) there will be a Zoom
+session at 4pm to show the answers to the HW. Like the regular lectures, | am hopeful
+people will be able to watch live and ask questions. However, like the regular lectures
+these sessions will be recorded and available shortly after they finish. These sessions
+will last as long as it takes to go over all the questions and answer everyone’s questions.
+
+The syllabus doesn't provide a day-by-day outline of what will be covered in each lecture.
+You can find a schedule and list of reading assignments as the first announcement on
+Canvas. This will be regularly updated and has estimates of what will be covered in
+lectures about a week out.
+
+Evaluation
+
+Your final grade will be based on the following work:
+
+16 homeworks, the best 13 will count 273 points
+8 “weekly” exams. The best 6 will count 727 points
+
+1000 points
+Exams
+
+The “weekly” exams will be on June 15", 22" and 29", July 6, 13!, 20!) 27° (all
+Mondays) and 30" (Thursday). Exams will be administered through Canvas. You will
+have from midnight until 11:59pm on the date to complete all 3 sections. The exams will
+not be be cumulative although there is a natural cumulative nature to some of the material.
+A review will be made available for each exam which will specify the readings and lectures
+each exam will cover. Each exam will consist of 3 parts: (i) 4 multiple choice questions
+worth 1 point each. You will 10 minutes to do all 4 questions. (ii) 2 “short answer
+questions” You will be given 3 questions which require a short explanation/calculation.
+You will choose only 2 of those question worth 3 points each for a total of 6 points. You
+will have 15 minutes to complete these two questions. (ili) You will be given 2 longer
+questions with multiple parts worth 10 points. You will choice only 1 of these two
+questions for a total of 10 points. You will have 25 minutes to complete this question.
+Each section will be set up as a different quiz in Canvas so you don’t have to set aside a
+continuous 50 minutes. Also if you have a technical problem with a section, you will not
+lose all points on that entire exam. Your best 6 of these 8 exams will count toward your
+final grade. The worst two scores will be dropped. This includes low exam scores due
+to technical problems (internet goes out, etc.). | am writing these exams assuming you
+have access to the book, past HW answers etc. Keep in mind that these time constraints
+will be somewhat binding so there will be large advantages to knowing the material rather
+than wasting valuable time looking up information to answer the questions. Use of human
+assistance in completing these exams is strictly forbidden.Homework
+
+Homeworks will be due on June 8", 10%, 12! 47%, 19th B4th: DEth July 15%, 3rd, Binh, 10th,
+15, 17%, 22nd) 24' and 28". The first HW is due on a Monday and the last is due ona
+Tuesday. All the rest are Wednesday and Friday. You are allowed to work on homework
+assignments together. In fact, | encourage it, but each student must turn in his/her own
+copy. Simply copying someone's answers is not only dishonest, but will usually result in
+poor exam scores. HW is due 4pm on the due date. The HW will be submitted through
+Canvas and the assignment shuts down at 4pm so this deadline is strict. At 49m on the
+HW due dates, there is a Zoom meeting where | will go over the HW answers(see above).
+Homework submissions will sometimes require you to enter formulae using the Canvas
+Equation Editor and/or upload pictures of graphs or mathematical expressions you have
+written out. There is an item on the Canvas assignments called “Practice HW entry”
+where you can work with the editor and check on uploading the picture files. Your
+homework grade will consist of the sum of your best 13 homeworks, so your worst 3
+homework scores will be dropped. Again this includes low scores due to technical issues,
+scheduling problems, etc.
+
+Procedure for Regrades
+
+If you have disputes about a score on any work in this class, homework or exam, there is
+a description of the procedure in the Module section of Canvas. This applies to simple
+matters, such as mis-added points, as well as more involved problems such as re-reads
+of entire questions. Keep in mind that the merits of your argument will be determined
+solely by what is written down. Oral arguments will not be incorporated into the decision-
+making process. Disputes on any work except homework 15, 16 Exam 7 or 8 will not be
+considered after July 28th. Also, keep up with the grade reporting on Canvas. If a grade
+on anything except the last few HW’s and/or the final has been mis-recorded, and itis not
+brought to my attention before the July 28" deadline, it cannot be adjusted.
+
+Electronic Information
+
+Most of you should have already received at least one email from me. | am using the
+mailing list built by Canvas. If your email with the university is not current, you will not be
+getting general email announcements from me. | will be sending HW assignments,
+corrections to HW, and other announcements through this email list. All HW will be
+emailed and posted on Canvas.
+
+Listed below are the sections of Canvas | typically use and what | tend to put there:
+Announcements: Lectures schedule and reading assignments, adjustments to my office
+hours, TA office hours, other procedural notes, corrections to HW.
+
+Assignments: Copies of questions for all graded material can be found here. Also portal
+for entering HW answers and doing Exams.
+
+Syllabus: Schedule of all HW and Exams.
+
+Modules: grade dispute form, practice exams with answers, exam review information
+and results, grade estimates, copy of this syllabus.
+
+Grades: What appears here will be your raw score. Any calculation of cumulative or
+percentage points computed by Canvas will not be of any value. More accurate estimates
+for grades will be presented following some exams. The Canvas numbers will keep you
+apprised if your HW and test scores have been recorded correctly. See instructions
+above for disputed grades if you find a discrepancy on Canvas.Assigning final grades
+
+The University assigns grades in a +/- system. An “A” is worth 4.00 in GPA; an “A-* is
+worth 3.67, a “B+” is worth 3.33 etc. The minimum grade needed from this class to take
+most upper division electives is a “C-“. No individual assignment will be given a letter
+grade. Final grades will be assigned based on total weighted points described above.
+The percentage earned is irrelevant. | will assign final grades based on the following
+criteria: (1) | am looking for gaps in the total points as the dividing line between grades.
+(2) | am looking for the overall GPA of the course to be somewhere in the 2.6 to 2.9
+range. | do not care about percentage of total points and | do not give a set percentage
+of a particular type of grade. Depending on where the breaks in the total points occur,
+some years | have given quite a few “A’s” but a fairly large number of “D’s”. Other years
+I've given relatively few “A’s” but lots of “B’s” and very few “D’s”.
+
+Final Thoughts
+
+Students with disabilities may request appropriate academic accommodations from the
+Division of Diversity and Community Engagement, Services for Students with Disabilities,
+512-471-6259. Get your accommodation letter to me as soon as you can so we can
+discuss whatever arrangements you need.
+
+| assume that, having read this syllabus and chosen to stay in the class, you agree to
+abide by all of the terms and conditions it lays out. This is your reference for procedural
+questions regarding how this class operates. If you have questions about grades, exam
+dates, etc., please refer to this document before you ask me. If you ask me a question
+that is answered here, | will simply ask you to, "Look it up in the Syllabus."
+
+Another matter regarding the syllabus. The methods of earning points described here
+are the only points available in the class. Struggling students often inquire about “extra
+credit”. | interpret this request as asking if there are points available that | haven't told
+anyone about except desparate people who ask. Such points do not exist in this class.
+Don't ask.
+
+The key to doing well in this class is to do problems. The material in the lecture and the
+book is supposed to help you understand how to do the problems in the homework, and
+especially the exams. For additional help in understanding what kinds of problems to
+expect look at the past exams on Canvas. Answers for these problems are also on
+Canvas. The test will be bascally be problems. Even the multiple choice questions are
+about problems rather than definitions, etc. Your study for the exam should mimic the
+exam format. Simply reading the book or thumbing through notes is not a good strategy
+for exam study.
