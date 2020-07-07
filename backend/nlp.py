@@ -132,8 +132,8 @@ def parse(filename):
 def main():
     '''The arguments look like this after python nlp.py'''
     '''[command] [filename] [list of keyword arguments]'''
-    '''Command tells the program whether to turn syllabi into bag of words(parse) or answer keyword queries on a syllabus(query)'''
-    '''Filename is only for parsing certain syllabi documents, and just insert a dummy argument here for keyword queries'''
+    '''Command tells the program whether to turn syllabi into bag of words('parse') or answer keyword queries on a syllabus('query')'''
+    '''Filename(syllabus_n.txt) is only for parsing certain syllabi documents, and just insert a dummy argument here for keyword queries'''
     '''Keyword arguments represent the searched keywords for the syllabi'''
     '''First run the program in parse mode on a syllabus, and then call query mode'''
 
