@@ -1,0 +1,57 @@
+{
+  "add-field": [
+    {
+      "name": "semester",
+      "type": "string",
+      "stored": true
+    },
+    {
+      "name": "course_letter",
+      "type": "string",
+      "stored": true
+    },
+    {
+      "name": "course_number",
+      "type": "string",
+      "stored": true
+    },
+    {
+      "name": "course_title",
+      "type": "string",
+      "stored": true
+    },
+    {
+      "name": "unique_number",
+      "type": "plong",
+      "stored": true
+    },
+    {
+      "name": "instructor_name",
+      "type": "string"
+    },
+    {
+      "name": "syllabus_id",
+      "type": "plong"
+    },
+    {
+      "name": "year",
+      "type": "plong"
+    },
+    {
+      "name": "course_letter_and_number",
+      "type": "string"
+    },
+    {
+      "name": "instructor_first_name",
+      "type": "string"
+    },
+    {
+      "name": "instructor_last_name",
+      "type": "string"
+    },
+    {
+      "name": "syllabus_text",
+      "type": "text_general"
+    }
+  ]
+}

@@ -17,23 +17,31 @@ export default class TopBar extends Component {
     handleQuery = (keypress) => {
         if (keypress.key === "Enter") {
             console.log("Enter pressed?")
-            fetch("http://35.239.40.79:42069/search/" + this.state.query, {body: JSON.stringify(this.state)})
+            console.log(this.state.query)
+            let url = "http://192.168.1.139:42069/search/" + encodeURIComponent(this.state.query)
+            console.log(`Fetching URL: ${url}`)
+            fetch(url,
+                {mode: "cors"})
                 .then(res => res.json())
                 .then(
                     (result) => {
+                        console.log("Ok")
                         // TODO Set search results
-
+                        console.log(result)
+                        this.props.onSearch(result)
                     },
                     (error) => {
+                        console.log("Error")
                         //Handle error
+                        console.error(error)
                     }
                 )
-        }
-        else{
+        } else {
             // Nothing much to do I guess :/
         }
 
     }
+
     handleOnChange = (query) => {
         // console.log(query.target.value)
         this.setState({query: query.target.value})
@@ -41,8 +49,8 @@ export default class TopBar extends Component {
 
     render() {
         return (
-            <div>
-                <AppBar color="primary">
+            <div style={{height: 0}}>
+                <AppBar color="default">
                     <Toolbar>
                         <IconButton edge="start" className="menuButton" color="inherit" aria-label="menu">
                             <ArrowForwardIos/>

@@ -5,7 +5,8 @@ import {EditorMergeType} from "material-ui/svg-icons/index.es";
 
 export default class SearchResult extends Component {
     constructor(props) {
-        super(props);
+        super(props)
+        this.props = props
     }
 
     render() {
@@ -13,12 +14,22 @@ export default class SearchResult extends Component {
             <Card variant={"outlined"}>
                 <CardContent>
                     <Typography variant={"h5"} style={{display: "inline-block", marginRight: "1%"}}>
-                        <a href={"https://www.google.com"} target={"_blank"} rel={"noopener noreferrer"}>Class Name</a>
+                        {/* Append the syllabus  */}
+                        <a href={`https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/${this.props.data.syllabus_id}`}
+                           target={"_blank"} rel={"noopener noreferrer"}>{this.props.data.course_title}</a>
                     </Typography>
-                    <Typography style={{display: "inline-block"}}>CS 439</Typography>
-                    <Typography color="textSecondary">Summer 2020</Typography>
+                    <Typography style={{
+                        display: "inline-block",
+                        marginRight: 10
+                    }}>{this.props.data.course_letter_and_number} </Typography>
+                    <Typography color="textSecondary"
+                                style={{display: "inline-block"}}>{`${this.props.data.semester} ${this.props.data.year}`}</Typography>
+                    <Typography color="textPrimary">{this.props.data.instructor_name}</Typography>
                     <Typography variant={"body2"}>
-                        This class is somewhat hard, equal to 50 hour workweeks
+                        Description? (Like how google does it?)
+                    </Typography>
+                    <Typography variant="h5">
+                        Keywords?
                     </Typography>
                 </CardContent>
             </Card>

@@ -12,9 +12,9 @@ export default class PlaceHolder extends Component {
     render() {
 
         return (
-            <Card>
+            <Card style={{margin: 10, justifySelf: "center"}}>
                 <CardContent>
-                    <Typography color="textSecondary" style={{justifyContent:"center"}}>
+                    <Typography color="textSecondary" style={{justifyContent: "center"}}>
                         Execute a query!
                     </Typography>
                 </CardContent>

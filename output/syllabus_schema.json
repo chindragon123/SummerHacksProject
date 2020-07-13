@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Syllabus",
+  "description": "A syllabus for a class at UT Austin",
+  "type": "object",
+  "properties": {
+    "class_title": {
+      "description": "The name of the class",
+      "type": "string"
+    },
+    "course_number": {
+      "description": "The letter and number that corresponds to the class",
+      "type": "string"
+    },
+    "unique_number": {
+      "description": "The number used to add/drop the class",
+      "type": "integer"
+    },
+    "instructor_name": {
+      "description": "Name of the instructor",
+      "type": "string"
+    },
+    "semester": {
+      "description": "The season corresponding to the class",
+      "type": "string"
+    },
+    "year": {
+      "description": "Which year this class is being offered",
+      "type": "integer"
+    },
+    "days": {
+      "description": "Which days the class meet",
+      "type": "string"
+    },
+    "time": {
+      "description": "The time of the class, in 24-hour format",
+      "type": "string"
+    }
+  },
+  "required": [
+    "class_title",
+    "course_number",
+    "unique_number",
+    "instructor_name",
+    "semester",
+    "year",
+    "days",
+    "time"
+  ]
+}
