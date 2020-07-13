@@ -1,0 +1,464 @@
+                             UNIVERSITY OF TEXAS AT AUSTIN
+            ACC 380K.22, Accounting Research Design and Evaluation
+                                     Spring 2020 Syllabus
+Time and Location:
+   Tuesdays and Thursdays, 2:00 – 3:30, CBA 5.328 (unique #02550)
+Instructor
+   Steven Kachelmeier, Ph.D., CPA (New Mexico)
+   Randal B. McDonald Chair in Accounting
+   Office: CBA 4M.236; Ph. 471-3517; E-mail: kach@mail.utexas.edu
+   Office hours: Mondays and Wednesdays 4:00 - 5:30, or as announced, and by appointment.
+Teaching Assistant
+   Dan Rimkus, CPA (Illinois) - Ph.D. student, Daniel.Rimkus@mccombs.utexas.edu
+   Dan’s experience:
+       • University of Notre Dame accounting graduate, 2011
+       • KPMG auditor (Chicago), 2011-2013
+       • McDonald’s Corporation, Financial Analyst (Oak Brook, IL), 2013-2016
+   Dan’s office hours: Mondays, 2:30 – 4:30, CBA 3.332U
+Canvas and readings
+   There is no textbook for this course. However, I have assembled a packet of required
+   readings (articles) for purchase at the McCombs Copy Center (GSB 3.136). For your
+   convenience, I will also make readings available on Canvas (https://utexas.instructure.com),
+   but it should be much easier for you to buy the packet than to than download and print
+   everything from Canvas. I also use Canvas to post assignments and announcements, so
+   please monitor the course Canvas site on a regular basis. I cannot be responsible for
+   information that students miss even though it is posted prominently on Canvas.
+   Please feel free to post questions or comments (or reply to others’ questions or comments) in
+   the discussion board area of Canvas. I will reply to any reasonable question that does not get
+   a reply from a fellow student before I get to it. Hence, if you have a question of general
+   interest, please use the Canvas discussion board, not email. That way everyone benefits.
+   All written assignments must be submitted electronically to Canvas no later than 1:45 p.m.
+   on the assignment due date. The intent of this rule is to remove any incentive to complete
+   the assignment after it is discussed in class. In addition, students are responsible for
+   printing and handing in a hard-copy of each assignment in class on the due date. Failure
+   to abide by these rules will result in a penalty to be determined by the instructor on a
+   case-by-case basis.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                     2
+SPRING 2020
+Course Objectives
+At the end of the semester, you should be able to provide reasonable answers to the following
+questions:
+1. How can the scientific method be used to address important accounting questions?
+2. What is the difference between the kind of accounting research that is typically done in
+     practice and the kind of accounting research that is typically done in universities?
+3. What is the relevance of scientific-method accounting research to accounting practitioners and
+     policymakers?
+4. What is the relevance of scientific-method accounting research to accounting education and
+     teaching?
+5. What is research validity and what makes a study believable?
+6. What is an interaction?
+7. How do ethical principles bear upon sound research?
+8. What examples of scientific-method accounting research are at the cutting edge in financial
+     accounting, auditing, management accounting, and taxation?
+9. What are the biggest needs for future accounting research?
+10. At a basic level, how does one go about conducting an accounting research study?
+Overview of Course Plan
+    • We will cover objectives 1-7 in a traditional class format in the first month, but with
+        ample opportunity for discussion. An examination over this material on Thursday,
+        February 20 will be the only examination in this course.
+    • After the exam on February 20, the remainder of the semester will be dedicated to course
+        objectives 8 and 9, with an article each Tuesday to illustrate that week’s theme, followed
+        by student discussion on Thursday to identify opportunities for future research.
+    • Objective 10 (conducting research) will be covered by a research assignment involving an
+        archival database and statistical testing, following instructions I will distribute later in the
+        semester. It is due on the last day of class, May 7. This assignment serves in lieu of a
+        final exam.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                    3
+SPRING 2020
+Evaluated Components and Grades
+Your accountability for this course will be based on a 800-point scale, as follows:
+                                                                      Points         Percentage of
+                                                                     Possible         Final Grade
+    Mini-assignments for the first month                                 20                2.5%
+    In-class examination over research fundamentals,
+    Thursday, February 20, 2020                                        120               15.0%
+    Research proposal 1 (see description later)                        100               12.5%
+    Research proposal 2 (see description later)                        100               12.5%
+    Weekly article quizzes                                             180               22.5%
+    End-of-semester research project                                   120               15.0%
+    Class participation                                                160               20.0%
+      Total points possible                                            800              100.0%
+I do not establish point cutoffs for letter grades until the end of the semester, although I start by
+considering the traditional 90% = “A”; 80% = “B” guidelines, with +/- grades awarded around
+the borderlines -- particularly the A/B borderline. Depending on the overall point distribution at
+the end of the semester, I reserve the right to use cutoffs that are more generous than the
+traditional guidelines. Students should not count on this possibility, however, as my hope is that
+it will not be necessary. My intent is to establish an overall grade-point average for this course
+between 3.4 and 3.6 (where “A” = 4.0), consistent with guidance from the Department of
+Accounting MPA Program Office regarding the expected grade distribution for a graduate-level
+accounting elective.
+While I expect to award several “A” and “A-” grades for a graduate-level elective in a program
+as strong as ours, I also interpret such grades as exceptional performance. Thus, students who
+meet but do not necessarily exceed my basic expectations for this course will typically receive a
+“B+” or “B.” Grades of “B-” or worse in a graduate-level course are appropriate when a student
+has not met expectations. My overall “expectation benchmark” is around 80% of the available
+points, so to avoid a B- or worse, aim for at least 640 points. Please also note that severe
+academic penalties, up to a failing grade in the course, can result from cases of scholastic
+dishonesty.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                  4
+SPRING 2020
+Plus/Minus Grading
+I award +/- grades in an approximately “GPA neutral” manner. This means that I award plus or
+minus grades for borderline cases (primarily at the A/B cutoff) in a way that does not
+significantly alter the grade-point average for the class as a whole. Thus, the number of students
+who get an A- instead of an A will be about the same as the number who get a B+ instead of a B.
+Plus-minus grading simply allows a finer distinction between different levels of performance.
+Descriptions of Evaluated Components
+Mini-Assignments for the First Month (20 points total)
+Four small assignments in January and February are intended to give you an incentive to keep up
+with the readings when we cover research fundamentals at the beginning of the semester. These
+mini-assignments, worth five points each, ask you to document an important question or
+observation from each assigned introductory reading we cover during the first five weeks of
+class. They should not take much time other than keeping up with the readings.
+In-Class Examination over Research Fundamentals (120 points)
+Thursday, February 20 is scheduled for an in-class examination over the background material on
+research fundamentals that we cover during the first five weeks of the semester. The intent is to
+give all students the background necessary to engage a meaningful evaluation of the research
+articles we cover over the remainder of the semester.
+Research Proposals (two proposals worth 100 points each, for a total of 200 points)
+For the weeks following the exam on February 20, we will cover a different research theme each
+week, with examples from recent articles in the accounting literature. Each Tuesday we will
+cover an article illustrating that week’s theme. With two exceptions, the Thursday class will be
+devoted to student proposals on research that could be conducted within the same theme, broadly
+interpreted. The exceptions are Thursday, February 27, when I will present a proposal I wrote
+myself to illustrate what I have in mind for your proposals, and Thursday, May 7, which is the
+last day of class.
+Each student will pick two of the eight available weeks to develop an individual research
+proposal on that week’s theme. To avoid the problem of too many students picking the same
+weeks, spaces for each week will be limited, available for selection on a first-come, first-served
+basis via Canvas. For the students who select any given week, we will use the Thursday session
+to discuss proposals on a volunteer basis. As described in more detail later, the basic structure of
+each proposal will be to (1) specify the research question of interest, (2) identify three articles
+relevant to the question, and (3) refine the research question and develop a basic design to
+examine it. I do not expect students to conduct the research they propose, but proposals should
+be specific enough to provide a reasonable idea of what would need to be done.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                   5
+SPRING 2020
+Weekly Article Quizzes (180 points)
+Beginning on Tuesday, March 3, each Tuesday session will begin with a 20-point quiz over the
+article assigned for that day. The intent of these quizzes is to give you an incentive to read the
+article before class, so that you can participate meaningfully in the class discussion. The first five
+short-answer questions for each quiz will always be the same, as follows:
+1. What is the primary research question addressed in this study?
+2. In “Libby Box” format, what are the study’s primary independent and dependent constructs
+   (i.e., the top two boxes) as well as its primary independent and dependent operational
+   variables (i.e., the two bottom boxes)?
+3. Name one insight from the findings that you believe is of particular practical importance.
+4. Name one flaw or limitation of the study that you believe is of particular concern.
+5. Name one thing from the article that you found particularly confusing.
+These questions are worth six points in total. As these questions involve judgment and opinions,
+several answers are acceptable as long as they show reasonable attentiveness to the question.
+Thus, if you read the article and come prepared, you should be able to get all six of these points
+in the vast majority of cases unless you significantly misunderstand the article.
+The remaining fourteen points will consist of seven multiple choice questions worth two points
+each. Questions will cover my sense of the most important aspects of the article, but they may
+come from any part of the article. (Interpretation: Do not just read the introduction and assume
+you have done enough.) In fairness, I will not base questions on details in tables or footnotes that
+are not also reasonably covered in the article’s narrative. (Interpretation: I do not expect you to
+memorize tables, so you may safely just “skim” the tables. I do expect you to read the article,
+however, including its discussion of conclusions drawn from the tables.)
+Of the ten quizzes, I will drop your lowest individual quiz score, even if that score is a zero.
+Thus, the total score for this category will be based on nine quiz scores out of the ten quizzes
+administered from Tuesday, March 3 through Tuesday, May 5, accounting for the total
+maximum points available of 180 (= 9 × 20).
+End-of-Semester Structured Research Project (120 points)
+In lieu of a final exam, I will provide detailed instructions for a research exercise in which
+students will access data from the Audit Analytics database to investigate the association
+between internal control findings and audit fees, as well as whether the nature of this association
+differs between Big-Four and non-Big-Four audit firms. The statistical analysis, which involves
+multiple linear regression, can be done on Excel, as I will explain. Your completed project must
+be uploaded to Canvas no later than 1:45 p.m. on Thursday, May 7, 2020, the last day of class. In
+addition, students must bring a printed hard copy to turn in during class on May 7.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                      6
+SPRING 2020
+Class Participation (160 points)
+A discussion-oriented class can only succeed with your help. Accordingly, I maintain a daily log
+to document the students who were the most helpful in each day’s discussion. More specifically,
+after each class, I place each student to the best of my ability in one of five categories for that
+day’s discussion:
+Category 1: Did not attend and did not provide notification of an excused absence due to
+              medical emergency, family emergency, religious holiday, or a conflict with a
+              University-sponsored event. I also reserve the right to assign students to this
+              category for disruptive and/or discourteous actions such as using cell phones when
+              others are speaking, excessive tardiness, etc.
+Category 2: Attended, but with no evidence of participation.
+Category 3: Attended with at least some evidence of participation besides just attending.
+Category 4: Attended with good evidence of participation.
+Category 5: Attended with exceptional participation.
+Notes:
+    • Placement in Category 4 or 5 is not just based on the number of times you speak. Rather,
+        I will do my best to monitor the quality of your comments. Even one comment in a class
+        discussion can get you to Category 5 if it provides an exceptional insight that adds
+        significantly to our understanding or offers an important new perspective.
+    • I also take favorable note of students who comment meaningfully and constructively on
+        other students’ proposals that we will discuss in March, April, and May.
+    • For calibration, just attending class and doing nothing else all semester long will
+        generally get you about half of the available participation points. I do not expect students
+        to say something each and every day, but you should get in the habit of contributing your
+        point of view rather than just listening to others.
+    • The topics we discuss can sometimes be controversial, with differing points of view. I
+        intend to conduct this class in an environment of mutual respect, where it is fine to
+        disagree, but not to offend. Diversity of perspectives is a plus from which we all benefit.
+    • Do your best to avoid Category 1, as unexcused absences will result in significant losses
+        of participation points. Thus, at a very minimum, come to class. Students with an excused
+        absence due to medical emergency, family emergency, religious holiday, or University-
+        sponsored conflict are responsible for letting me know, along with providing appropriate
+        documentation. Absences for recruiting purposes should be discussed with me in advance
+        and will be considered on a case-by-case basis. Students are responsible for working with
+        recruiters (as recruiters promise us they will do) to avoid class conflicts if at all possible.
+University Writing Center
+If you struggle with written assignments, consider scheduling a free appointment with the
+University Writing Center (UWC). UWC writing consultants can help you improve your writing
+while preserving the integrity of your work. For further details, see https://uwc.utexas.edu.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                  7
+SPRING 2020
+Policy on Notifications on Canvas and via Email
+I frequently post announcements on Canvas, so please to monitor this resource before every
+class. In addition, I will sometimes contact you by email, consistent with the UT-Austin
+authorization of email for University communication. I typically use the email function on
+Canvas, so please make sure you monitor that address. For more information, see:
+https://cio.utexas.edu/policies/university-electronic-mail-student-notification-policy.
+Student Safety and the Behavior Concerns Advice Line (BCAL)
+Please see http://www.utexas.edu/safety to familiarize yourself with campus safety initiatives
+and resources. Also see http://emergency.utexas.edu for emergency notifications. Regarding
+behavioral issues, if you have concerns or are worried about someone who is acting differently,
+consider using the UT-Austin Behavior Concerns Advice Line to discuss your concerns. This
+service is provided through a partnership among the Office of the Dean of Students, the
+Counseling and Mental Health Center, the Employee Assistance Program, and The University of
+Texas Police Department (UTPD). Call 512-232-5050 or visit https://besafe.utexas.edu/behavior-
+concerns-advice-line. You are also welcome to discuss any concerns with me, but please see the
+next paragraph regarding my responsibilities as a University of Texas at Austin faculty member.
+Harassment and Faculty Responsibilities
+While I welcome all conversations with students, please be aware that, by University policy,
+State law, and Federal law, faculty members are required to report to the appropriate University
+office any and all instances of possible sexual harassment, assault, violence, and stalking that
+may come to the faculty member’s attention. Please see https://titleix.utexas.edu/sb212 for
+further details. The reason for this requirement is to do everything we can to keep all members of
+the University community safe and secure.
+Policy on Missed Examinations and Assignments
+My general policy is that medical emergencies, family emergencies, religious holidays, and
+university-sponsored conflicts are the only valid reasons for missing an examination or
+assignment due date. For each such case, I require some form of supporting documentation, such
+as a signed note from a physician or a letter/note from the relevant University office. I will then
+determine the best make-up alternative on a case-by-case basis, which could mean a make-up
+exam, slightly extended due date, or recalculating the semester grade to omit the missed
+component, depending on circumstances. Examinations or assignments that are missed for
+reasons other than those indicated above will generally not be accepted. In the case of a conflict
+due to a university-sponsored event or religious holiday, please notify me at least 14 days before
+the examination date or assignment due date.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                  8
+SPRING 2020
+Policy on Students with Disabilities
+I comply with guidelines set forth by the UT-Austin Office of Services for Students with
+Disabilities (http://ddce.utexas.edu/disability/current-students/). If you have an SSD-registered
+accommodation letter, please see me with your letter to discuss the accommodations you need
+for this course. Please understand that I can provide accommodations only to students with
+approved SSD letters. Students must inform me of any SSD-related requests at least 14 days in
+advance in order to ensure that accommodations can be made.
+Policy on Scholastic Dishonesty and Working Together on Course Assignments
+Policy of the MPA Program
+The Master in Professional Accounting Program has adopted a Code of Conduct, a Career
+Services Code of Ethics, and a Policy Statement on Scholastic Dishonesty. It is important for you
+to be familiar with all three documents, which are available at
+https://my.mccombs.utexas.edu/MPA/Student-Codes-of-Ethics
+The following statement applies to each class in the UT-Austin Department of Accounting:
+    The Department of Accounting has no tolerance for acts of scholastic dishonesty. The
+    responsibilities of both students and faculty with regard to scholastic dishonesty are
+    described in detail in the department’s Policy Statement on Scholastic Dishonesty in the
+    MPA Program (which includes the integrated five-year MPA program and the traditional
+    MPA program). By teaching this course, I have agreed to observe all faculty
+    responsibilities described in that document. By enrolling in this class, you have agreed to
+    observe all student responsibilities described in that document. If the application of that
+    Policy Statement to this class and its assignments is unclear in any way, it is your
+    responsibility to ask me for clarification.
+In simple terms, integrity is a public good from which we all benefit. I view the MPA Code of
+Ethics as a commitment to integrity, not as a threat. Accordingly, I intend to conduct this course
+in a friendly environment of trust and cooperation, but I can only achieve this goal if you join me
+in maintaining an atmosphere of absolute ethical integrity. As the top-rated professional
+accounting program in the country, we cannot afford any less.
+Personal Policy on Working Together (applies only to this course)
+I believe that learning takes place through a healthy exchange of ideas. Therefore, for this class,
+you are welcome to discuss articles and class assignments with other students. However, I expect
+the final product of each assignment to reflect your individual effort. You may not copy or
+paraphrase from others’ solutions. To clarify this policy, below are some examples from
+situations I have encountered in prior years. In each case, I pursued a Scholastic Dishonesty
+charge with the Dean of Students and imposed an appropriate penalty.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                  9
+SPRING 2020
+• Student X completes an assignment before student Y. Y asks X for X’s solution. Y bases
+  his/her completed assignment on X’s assignment, changing a few words here and there to make
+  it look original. This is an example of plagiarism, which takes advantage of student X and does
+  not evidence any meaningful learning on the part of student Y. Both X and Y are guilty of
+  scholastic dishonesty.
+  Please be aware that assignments submitted online via Canvas are subject to plagiarism-
+  detection software. This software works by comparing submitted materials to a database of
+  papers submitted by other students, as well as journals, essays, newspaper articles, books, and
+  other published works. Other methods may also be used to determine originality. Plagiarism
+  software does not substitute for the faculty member’s judgment regarding detection of
+  plagiarism, but it is a tool that I use to maintain integrity on written assignments.
+• A student copies from an article or other source without using quotation marks, indentation, or
+  other references to acknowledge the source. This is another example of plagiarism.
+• A student completes the end-of-semester research project and gives the completed Excel and/or
+  Word file to another student. In this case, both students would be guilty of scholastic
+  dishonesty.
+• Collaboration or any other form of cheating on a course examination or quiz is scholastic
+  dishonesty of the most severe variety, which can result in a significant academic penalty, up to
+  the possibility of an “F” for the course.
+For more information on University policies and procedures regarding scholastic dishonesty, see
+http://deanofstudents.utexas.edu/conduct/index.php.
+When in doubt, ask me.
+If you have read this far, thank you! The fact that you read a nine-page syllabus shows that you
+care about this class and want to succeed. History suggests that only about half of all students
+even bother to read the entire syllabus, so I want to give you a small token of my appreciation for
+being in that half. Accordingly, I set up an online link that will award you two class participation
+points just for typing in your name, if you do so by Tuesday, January 28, 2020. Thanks! To get
+your two points, go to: https://mccombs.qualtrics.com/jfe/form/SV_3y2jhsCkZB6KT1X
+The remainder of this syllabus contains the course schedule.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                                10
+SPRING 2020
+Course Schedule
+Important note: Especially for a discussion-oriented class such as ours, it is essential that you
+    complete each day’s readings before class.
+Week 1: January 21 and 23, 2020
+Theme: Introduction
+Assigned reading:
+By Thursday, January 23, please review the “Research Fundamentals” handout I will distribute
+on Tuesday, January 21. I will discuss the handout in class, but if you review it beforehand, you
+will know what to expect and can ask questions on anything that seems unclear.
+____________________________________________________________________________
+Week 2: January 28 and 30, 2020
+Theme: Research fundamentals and relating research to teaching and practice
+Assigned readings:
+Demski, J. S., and J. L. Zimmerman. “On Research vs. Teaching: A Long-Term Perspective.”
+    Accounting Horizons, 2000 (vol. 14, no. 3): pp. 343-352.
+Schrand, C. M. “Impediments to Relevant Research: The Journal Review and Publication
+    Process.” Accounting Horizons, 2019 (vol. 33, no. 2): pp. 11-16.
+Mini-assignment #1 due Tuesday, January 28: Your questions or observations from the Demski
+    and Zimmerman (2000) and Schrand (2019) articles. Please document one question or
+    observation from each article.
+____________________________________________________________________________
+Week 3: February 4 and 6, 2020
+Theme: Continue research fundamentals
+Assigned reading:
+Bell, T. B., T. J. Frecka, and I. Solomon. “The Relation Between Research Productivity and
+    Teaching Effectiveness: Empirical Evidence for Accounting Educators.” Accounting
+    Horizons, 1993 (vol. 7, no. 4): pp. 33-49.
+Mini-assignment #2 due on Tuesday, February 4: Your question or observation from Bell et al.
+    (1993).
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                           11
+SPRING 2020
+Week 4: February 11 and 13, 2020
+Theme: How to interpret a research study and how to find relevant articles
+Assigned reading:
+Sloan, R. G. “Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about
+    Future Earnings?” The Accounting Review, 1996 (vol. 71, no. 3): pp. 289-315.
+Mini-assignment #3 due on Tuesday, February 11: Your question or observation from Sloan
+    (1996).
+____________________________________________________________________________
+Week 5: February 18 and 20, 2020
+Theme: Research ethics and examination over research fundamentals
+Assigned readings:
+Bailey, C. D. “Psychopathy, Academic Accountants’ Attitudes toward Unethical Research
+    Practices, and Publication Success.” The Accounting Review, 2015 (vol. 90, no. 4):
+    pp. 1307-1332.
+Malone, J. A. Report of Judith A. Malone, Bentley University Ethics Officer, Concerning
+    Dr. James E. Hunton, 2014 report with January 20, 2015 addendum. Obtained at
+    http://aaahq.org/Portals/0/documents/BentleyReportrepublishpermission6.pdf.
+Mini-assignment #4 due on Monday, February 18: Your questions or observations from the
+    Bailey (2015) article and the Malone report. Please document one question or observation
+    from each document.
+In-class examination on research fundamentals: Thursday, February 20.
+____________________________________________________________________________
+Week 6: February 25 and 27, 2020
+Theme: Individual differences I: What leads people to misreport?
+Assigned reading:
+Ham, C., M. Lang, N. Seybert, and S. Wang. “CFO Narcissism and Financial Reporting
+    Quality.” Journal of Accounting Research, 2017 (vol. 55, no. 5): pp. 1089-1135.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                          12
+SPRING 2020
+Week 7: March 3 and 5, 2020
+Theme: Individual differences II: What makes people good at accounting?
+Assigned reading:
+Blay, A. D., and M. G. Fennema. “Are Accountants Made or Born? An Analysis of
+   Self-Selection into the Accounting Major and Performance in Accounting Courses and on the
+   CPA Exam.” Issues in Accounting Education, 2017 (vol. 32, no. 3): pp. 33-50.
+____________________________________________________________________________
+Week 8: March 10 and 12, 2020
+Theme: Alternatives in financial accounting
+Assigned reading:
+McInnis, J. M., Y. Yu, and C. G. Yust. “Does Fair Value Accounting Provide More Useful
+   Financial Statements than Current GAAP for Banks?” The Accounting Review, 2018 (vol. 93,
+   no. 6): pp. 257-259.
+____________________________________________________________________________
+Week 9: March 24 and 26, 2020
+Theme: Alternative reporting channels and social media
+Assigned reading:
+Tang, V. W. “Wisdom of Crowds: Cross-Sectional Variation in the Informativeness of
+   Third-Party-Generated Product Information on Twitter.” Journal of Accounting Research,
+   2018 (vol. 56, no. 3): pp. 989-1034.
+____________________________________________________________________________
+Week 10: March 31 and April 2, 2020
+Theme: Auditing practice
+Assigned reading:
+Nelson, M. W., and C. A. Proell. “Is Silence Golden? Audit Team Leader Reactions to
+   Subordinates Who Speak Up ‘In the Moment’ and at Performance Appraisal.” The
+   Accounting Review, 2018 (vol. 93, no. 6): pp. 281-300.
+____________________________________________________________________________
+Week 11: April 7 and 9, 2020
+Theme: Audit regulation and inspection
+Assigned reading:
+Westermann, K. D., J. Cohen, and G. Trompeter. “PCAOB Inspections: Public Accounting
+   Firms on ‘Trial.’” Contemporary Accounting Research, 2019 (vol. 36, no. 2): pp. 694-731.
+
+
+ACC 380K.22 SYLLABUS (KACHELMEIER)                                                           13
+SPRING 2020
+Week 12: April 14 and 16, 2020
+Theme: Corporate governance, oversight, expertise, and controls
+Assigned reading:
+Baugh, M., N. Hallman, and S. J. Kachelmeier. “A Matter of Appearances: How Does Financial
+   Expertise Benefit Audit Committees When Selecting and Compensating Auditors?” Working
+   paper, Arizona State University and the University of Texas at Austin, 2020.
+Week 13: April 21 and 23, 2020
+Theme: Taxation
+Assigned reading:
+Bozanic, Z., J. L. Hoopes, J. R. Thornock, and B. M. Williams. “IRS Attention.” Journal of
+   Accounting Research, 2017 (vol. 55, no. 1): pp. 79-114.
+____________________________________________________________________________
+Week 14: April 28 and 30, 2020
+Theme: Management accounting
+Assigned reading:
+Kachelmeier, S. J., L. W. Wang, and M. G. Williamson. “Incentivizing the Creative Process:
+   From Initial Quantity to Eventual Creativity.” The Accounting Review, 2019 (vol. 94, no. 2):
+   pp. 249-266.
+____________________________________________________________________________
+Week 15: May 5 and 7, 2020
+Theme: Performance evaluation
+Assigned reading:
+Laux, V. “Supporting and Assessing Agents.” Journal of Accounting Research, 2017 (vol. 55,
+   no. 4): pp. 995-1016.
+There will not be any student proposals on Wednesday, May 7. Instead, we will discuss the
+   research assignment on May 7, which must be uploaded to Canvas no later than 1:45 p.m.,
+   with a hard copy handed in during class.

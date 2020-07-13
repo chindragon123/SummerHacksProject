@@ -1,0 +1,207 @@
+GIS/Remote Sensing for Archeology and Paleontology
+ANT 324L / GRG 356T Fall 2019
+Unique 31125, 36410
+Course Meets Tu-Th 9:30-11 in RLP 1.402
+Instructor Dr. Denné Reed
+office hours: Wed 3-5 or by appointment
+office: SAC 4.148
+e-mail: reedd@austin.utexas.edu
+phone: (512) 471-7529
+Course Description:
+Geographic location plays a key role in our understanding and interpretation of anthropological
+phenomena from the location of primates under study, to finding hidden and remote archaeolog-
+ical ruins, to mapping the distribution of bones and artifacts in an excavation or field area. Com-
+puterized systems for the storage and analysis of spatial data, i.e. Geographical Information
+Systems, as well as the analysis of imagery captured from the air, or space, i.e. Remote Sens-
+ing, have become integral components in the data collection and analytical workflows of anthro-
+pologists, geologists and paleontologists. This course surveys common GIS and remote sens-
+ing techniques and provides a comprehensive overview of the standard workflows used in spa-
+tial analysis. Students will learn the foundations of geospatial science, cartography and image
+interpretation along with a basic understanding of quantitative geospatial analyses.
+Main Learning Objective
+     •   Understand the fundamentals of recording, managing and analyzing spatial data.
+     •   Learning the basic workflows applied to geospatial data, and how these data are used in
+          archeology, primatology and paleoanthropology.
+     •   Hone problem-solving skills using spatial data.
+     •   Develop proficiency with specialized software for spatial analysis.
+Expected Learning Outcomes
+     1.   Be able to create, load, view, modify and analyze spatial data in raster and vector for-
+          mats.
+     2.   Demonstrate understanding of the basic principles of cartography, computer systems
+          and electromagnetism needed to properly utilize and interpret spatial data and remote
+          sensing data.
+     3.   Be knowledgeable about where and how to acquire data.
+     4.   Use spatial data to answer questions.
+Course Structure: This course is organized into weekly lab activities. The Tuesday session is
+generally dedicated to presentation of new concepts and the Thursday session to application of
+those concepts to solve and complete lab activities. This course emphasizes the development
+of applied skills.
+ANT 324L / GRG 356T                             1                                     Fall 2019
+
+
+Prerequisites and Expectations: This is NOT an introductory course in GIS and remote
+sensing. This is an accelerated course is GIS and RS fundamentals. There are no enforced
+prerequisites, but students should have a comfortable working knowledge of computers and an
+introductory GIS or remote sensing course is recommended but not required.
+Required textbooks: The following book is required reading for this course. It is available
+through the University Coop as well as other campus bookstores. It is also available for direct
+purchase from the author in print or digital form. GIS and RS technology are developing rapidly
+so the latest edition of the textbook is essential.
+Bolstad, P (2019) GIS Fundamentals: A first text on geographic Information systems 6ed.,
+XanEdu: Acton, MA.
+Recommended Textbooks:
+The following book is recommended for those who are brand new to GIS using ESRI software:
+Michael Law and Amy Collings (2015) Getting to Know ArcGIS. ESRI Press: Redlands, CA.
+Lectures and Lab: We will be using ESRI ArcGIS software and Leica ERDAS Imagine software
+for remote sensing. Each student will have access to their own GIS/RS workstation during class
+and in addition students have access to the GIS lab in RLP 3.104 in order to complete assign-
+ments out-side of class. The RLP 3.104 lab is open during RLP building hours and requires a
+UT proximity ID card for entry.
+Grading: Grades for this course are based on 10 lab assignments (60%) and a midterm (20%)
+exam, and a cumulative final exam (20%). Grading uses the +/- system. Final grades of A =
+100-95, A- = 94-90, B+ = 89-87, B = 86-84, B- = 83-80 etc. Lab exercises are due by 2 PM on
+Wednesday the week after they are assigned. Each lab is worth 6 points toward the final
+grade. Late labs will be penalized 1 point.
+Canvas. In this class we use Canvas—a Web-based course management system with
+password-protected access at http://canvas.utexas.edu—to distribute course materials, to
+communicate and collaborate online, to post grades, to submit assignments, and to give you
+online quizzes and surveys. You can find support in using Canvas at the ITS Help Desk at 475-
+9400, Monday through Friday, 8 a.m. to 6 p.m., so plan accordingly.
+Classroom Protocol. Civil and courteous behavior is expected during lectures and labs (It’s a
+good idea outside of class too). Cell phone ringers must be turned off prior to the beginning of
+lecture.
+Honesty. Please pursue rigorous honesty in everything you do, including your work for this
+class. It will serve you well in life, and in this class as well since we report all cases of suspected
+academic dishonest to the dean of students. Dishonesty will result at least in a failed grade for
+the assignment and perhaps also for the course. For a description of academic dishonesty, see
+http://deanofstudents.utexas.edu/sjs/acadint_avoid.php. For more info, see
+http://www.lib.utexas.edu/services/instruction/learningmodules/plagiarism
+Religious Holidays. If you will not be able to attend class due to religious services, let me
+know at least a week ahead of time. We will make every effort to help you keep up with course
+assignments in such situations.
+ANT 324 / GRG 356 GIS                                     2                              Fall 2019
+
+
+Disability Services. Students with documented disabilities may request appropriate academic
+accommodations from the Division of Diversity and Community Engagement, Services for
+Students with Disabilities, 471-6259. Please let me know about any arrangements we can make
+that will assist you in your learning.
+Behavior Concerns Advice Line (BCAL). If you are worried about someone who is acting
+differently, you may use the Behavior Concerns Advice Line to discuss by phone your concerns
+about another individual’s behavior. This service is provided through a partnership among the
+Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the
+Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD).
+Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal
+Resources for Learning & Life at UT Austin. The University of Texas has numerous
+resources for students to provide assistance and support for your learning.
+•   Sanger Learning and Career Center: http://lifelearning.utexas.edu/
+•   Undergraduate Writing Center: http://uwc.utexas.edu/
+•   Counseling & Mental Health Center: http://cmhc.utexas.edu/
+•   Career Exploration Center: http://www.utexas.edu/student/careercenter/
+•   Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Use of E-Mail for Official Correspondence to Students. E-mail is recognized as an official
+mode of university correspondence; therefore, you are responsible for reading your e-mail for
+university and course-related information and announcements. You are responsible to keep the
+university informed about changes to your e-mail address. You should check your e-mail
+regularly and frequently—we recommend daily, but at minimum twice a week—to stay current
+with university-related communications, some of which may be time-critical. You can find UT
+Austin’s policies and instructions for updating your e-mail address at
+http://www.utexas.edu/its/help/utmail/1564
+Emergency Evacuation Policy. Occupants of buildings on the UT Austin campus are required
+to evacuate and assemble outside when a fire alarm is activated or an announcement is made.
+Please be aware of the following policies regarding evacuation: Familiarize yourself with all exit
+doors of the classroom and the building. Remember that the nearest exit door may not be the
+one you used when you entered the building. If you require assistance to evacuate, inform me
+in writing during the first week of class. In the event of an evacuation, follow my instructions or
+those of class instructors. Do not re-enter a building unless you’re given instructions by the
+Austin Fire Department, the UT Austin Police Department, or the Fire Prevention Services office.
+Q drop Policy. Texas law limits the number of course drops for academic reasons to six.
+Senate Bill 1231 says: “Beginning with the fall 2007 academic term, an institution of higher
+education may not permit an undergraduate student a total of more than six dropped courses,
+including any course a transfer student has dropped at another institution of higher education,
+unless the student shows good cause for dropping more than that number.”
+ANT 324L / GRG 356T                              3                                    Fall 2019
+
+
+Schedule: The schedule below is a general outline and is subject to change. Please consult the
+online schedule on the Canvas website for the most up-to-date version.
+    Date                       Topic                             Readings and Lab
+ 29          Course Introduction                      Lab
+ Aug.                                                 Orientation and setup
+ 3-5         How does this thing work? An intro-      Lab
+ Sept.       duction to GIS and RS software and       Introduction to GIS and Remote Sens-
+             hardware.                                ing (RS)
+             What is GIS? What is remote Sensing?     Reading
+             GIS and RS software components           Bolstad Chap. 2
+             Data types and data models               Bolstad Chap. 6 pp. 247-250; 272-284
+ 10-12       Where am I? Locations and coordi-        Lab
+ Sept.       nates on Earth.                          Projections and Coordinate Systems
+             History of Geographic Coordinates        Reading
+             Ellipsoids, Spheroids, Datums            Bolstad Chap. 3
+             Map Projections
+ 17-19       A picture's worth a thousand words.      Lab
+ Sept.       Principles of cartography and map        Map Design and Layouts
+             design
+                                                      Reading
+             Principles of Cartography                Bolstad Chap. 4 pp. 147-156
+             Key elements of a map                    Bolstad Chap. 4 pp. 183-193
+             Designing map layouts
+ 24-26       Let's Build It! Creating spatial da-     Lab
+ Sept.       tasets                                   Digitizing
+             Building a GIS Database                  Reading
+             GIS and RS data sources                  Bolstad Chap. 4 pp. 156-182
+ 1-3         Midterm Exam                             Lab
+ Oct.                                                 Review and Catch up
+ANT 324 / GRG 356 GIS                             4                             Fall 2019
+
+
+   Date                         Topic                             Readings and Lab
+ 8-10        Let's Fix It! Editing, updating and       Lab
+ Oct.        modifying spatial data                    Editing
+             Locating Errors, Basic Editing, Topology  Reading
+             Geoprocessing                             Bolstad Chap. 7
+ 15-17       Who has what? Asking questions of         Lab
+ Oct.        your data                                 Attribute Data
+             Relational Database Principles, DB        Reading
+             structures, Editing DB schemas            Bolstad Chap. 8
+             Adding data, Joins, Queries, Expres-
+             sions, Summaries
+ 22-24       What is that? Foundations of image        Lab
+ Oct.        interpretation                            Image Interpretation and Enhancement
+             Structure of Raster Data, Type of Reso-   Reading
+             lution, Convolution Filtering, Resolution ERDAS Field Guide:
+             Merge                                     Radiometric Enhancements 412-422
+                                                       Spatial Enhancements 423-429
+                                                       Spectral Enhancements 439-447.
+ 29-31       Hal, what is that? Foundations of im-     Lab
+ Oct.        age classification                        Classification
+             Classification theory, Ground Truthing    Reading
+             Unsupervised classification, Accuracy     ERDAS Field Guide 495-511
+             Assessment                                ERDAS Field Guide 513-531
+ 5-7 Nov.    How high is up? Interpreting topog-       Lab
+             raphy                                     Topography
+             Sources of elevation data, Building ter-  Bolstad Chap. 11
+             rain models, DEM, TINS
+             Image Draping, 3D Visualization
+ANT 324L / GRG 356T                           5                                 Fall 2019
+
+
+   Date                        Topic                            Readings and Lab
+ 12-14       Where is it? Answering Questions         Lab
+ Nov.        with spatial data.                       Spatial Analysis 1
+             Measuring Distance, Spatial Autocorre-   Bolstad Chap. 9
+             lation and Variagrams, Interpolation and
+             Kriging
+ 19-21       Where should I ... ? Introduction to     Lab
+ Nov.        suitability analysis.                    Spatial Analysis 2
+             Raster Data Formats, Map Calculator      Bolstad Chap. 10
+             Cost Surfaces, Zonal Analysis
+             Comparing Raster and Vector Data
+ 26-28       Thanksgiving
+ Nov.
+ 3-5         Final Exam
+ Dec.
+ANT 324 / GRG 356 GIS                               6                        Fall 2019
+
+
+ANT 324L / GRG 356T 7 Fall 2019

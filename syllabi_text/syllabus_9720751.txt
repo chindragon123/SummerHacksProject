@@ -1,0 +1,434 @@
+                        MBA and MPA Programs: Acc 380K.7– Fall 2019
+                                      Financial Statement Analysis
+Professor                              Dr. Patrick Badolato, CPA
+Office Hours                           T/Th 3-4. RRH 5.406.
+Phone                                  (512) 471-7920
+E-Mail                                 patrick.badolato@mccombs.utexas.edu
+                                       Please post all non-personal questions on our Discussion Board
+Course Summary: This Financial Statement Analysis course focuses on using an array of financial
+information to best determine the why behind past and current performance. To achieve this we combine
+quantitative and qualitative factors to understand drivers of performance and to tell the story of the firm.
+With a solid understanding of the past and current conditions, we move towards motivating sound
+forecasts and briefly discuss well-supported inputs to valuation models.
+This course is advised for individuals who possess all of the following:
+    1)  an interest in learning and a willingness to develop new skills and perspectives;
+    2)  an interest in how businesses operate, make decisions, change and report their performance;
+    3)  a willingness to benefit from and contribute to the UT/McCombs’ educational experience;
+    4)  a general, but strong, understanding of financial accounting at an introductory level as the logical
+        language of business. This course builds off introductory Accounting classes.
+What you should expect:
+Historically this has been a challenging class that requires a commitment. It is not challenging as you
+must memorize complex formulas that you could easily look up, but as it will challenge perspectives and
+require critical thinking and the synthesis of information. This is also a class that actively shuns
+memorization of terms and formulas and the regurgitation of anything. We will not waste your time (and
+your educational investment) with memorizing items such as ratios or formulas or emphasizing jargon
+and catchphrases over thoughtful analysis. Instead we will focus on more useful ways of approaching
+various issues. Therefore, you may hear many “Yes, but…” questions: “Yes, but in your own words.”
+“Yes, but why? “Yes, that is the general economic argument, but how has it played out in this scenario?”
+“Yes, that is the change, but what drove that change? …We will get dirty trying to best understand
+various firms and how to best use financial information. You need to be involved in these discussions.
+How to do well and get the most out of the experience:
+This class is also one that has a straightforward plan for success as directly affirmed by former students.
+Students who truly commit to all of the following usually end up with solid grades: (1) consistently
+preparing for class, using the materials provided and asking questions when needed; (2) being active
+learners within the classroom and (3) thoughtfully reviewing the material (with peers) after class.
+Individuals who do not do or want to do the work, check out during class or miss class, believe they
+know everything, maintain a closed mind or refuse to be thoughtful usually find this class to be dreadful.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                            Fall 2019
+                                    A Broader Background of the Course
+Our objectives include:
+     •   Increase our understanding of financial filings (including financial statements, managers’ commentaries,
+         footnotes and other sources of financial information) in order to:
+              o Understand how firms operate and create value—we put considerable emphasis on understanding
+                  how financial information helps us understand and guide operating decisions.
+              o Concisely articulate the firm’s past—without this, valuation and forecasting could be misguided,
+                  so we must be able to tell the story of the firm.
+              o Increase our understanding and ability to use tools to analyze information presented in financial
+                  statements. Understand the benefits and limitations of financial information provided in financial
+                  filings and the motivation for and process of making adjustments to this information—we will
+                  adjust, change and challenge ratios, metrics and formulas to ensure they work in specific real-
+                  world situations.
+              o Use our understanding of the firm and its financials to make informed predictions about future
+                  performance—we will stress how understanding financial information provides us with an
+                  excellent framework for considering the future.
+              o Motivate, understand, construct and implement various inputs in valuation models—we will very
+                  briefly note the mechanics of valuation while stressing the more useful and challenging steps of
+                  motivating inputs to valuation. Valuation is not only a mindless mechanical exercise.
+The course will be taught using a combination of examples, discussion questions, cases and homework problems.
+We will learn new concepts using various firms’ historical and current financial data. To achieve these objectives,
+during the semester we will learn a framework for business analysis and valuation. The steps in the framework
+include:
+     (1) Business Strategy Analysis: The purpose of business strategy analysis is to assess the profit potential of
+         the firm at a qualitative level. This involves an understanding of the firm’s strategy and its industry and
+         considering how these affect and are affected by the firm’s financial performance.
+     (2) Financial Analysis: The purpose of financial analysis is to assess the firm’s historical financial
+         performance in the context of its goals and strategies. Tools used for financial analysis include ratio
+         analysis, cash flow analysis, and common-size financial statements. Ratio Analysis is not computing
+         ratios (i.e., division), but carefully using and changing ratios to provide us with information.
+     (3) Accounting Analysis: The purpose of accounting analysis is to develop an understanding of whether a
+         firm’s accounting captures its true underlying economic condition(s). This involves understanding
+         accounting transactions, identifying accounting flexibility, evaluating the appropriateness of accounting
+         policies and estimates, and at times, altering financial statements to enhance decision making.
+     (4) Valuation/Prospective Analysis: The purpose of valuation/prospective analysis is to forecast the firm’s
+         future financial performance and determine a potential valuation of the firm—our best assessment of
+         intrinsic value. To do this we will learn the mechanics and intricacies of forecasting financial statements
+         and we will (very briefly) note the components and usage of valuation models.
+We will review (and learn) accounting concepts as this knowledge is critical to making decisions with financial
+information. However, the primary objective of the course is not to improve our understanding of Generally
+Accepted Accounting Principles (US GAAP or IFRS); the goal is to improve our ability to interpret and use
+financial statements in a variety of settings including a primary focus on credit and equity analyses and
+supplemental coverage of corporate finance, planning and control. This is not a journal entry class; in fact, we
+will likely not see any journal entries during the entire semester (unless specifically requested by students).
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                             Fall 2019
+                                     Structure, Materials and Logistics
+Course Structure
+    •    The class format involves coverage of the main areas and tools noted above. In addition, there will be a
+         considerable amount of discussions/cases that focus on specific firms and specific financial issues. These
+         cases will involve a careful analysis of the financials, the opportunity to dig deeper to support (or
+         challenge) information that is presented, and the consideration of the benefits and limitations of various
+         tools, metrics and ratios.
+    •    The course will be taught using a combination of examples, discussion questions, cases and homework
+         problems. We will learn new concepts using various firms’ historical and current financial data.
+    •    A tentative schedule of class meetings is attached to the end of this document. This schedule may be
+         revised and all updates will be posted on Canvas or discussed in class.
+Materials
+    • Required: Cases, slides and other materials created by the professor and available on Canvas.
+         Students are required to access Canvas, read takeaways, exam questions, case feedback
+         commentaries and other class materials and post any unanswered questions directly to Canvas.
+         There is no substitute for the vast amount of information that will be on Canvas.
+           o To ensure the highest dissemination of information and to maintain a fair
+                playing field, all non-personal questions must be asked on the Discussion
+                Board and not emailed to me.
+    •    Required: It is required that you read, used and retained the materials and information from an
+         financial accounting class. Our course builds off these.
+    •    Recommended Text: The textbook for the course is Financial Reporting, Financial Statement Analysis
+         and Valuation: A Strategic Perspective by Wahlen, Baginski and Bradshaw, eighth edition. ISBN: 978-
+         1285190907
+           o    The textbook is recommended for students who have not had sufficient exposure to the material we
+                cover in class. The class moves fast and assumes you mastered material from prior classes. We do
+                not have slides from, cover or read from the text; it provides background reading.
+           o Suggested Texts:
+                 Accounting for Value by Stephen Penman; Ben Graham’s The Intelligent Investor; Michael
+                 Lewis’s The Big Short; Pat Dorsey’s The Little Book that Builds Wealth and Michael Shearn’s The
+                 Investment Checklist: The Art of In-Depth Research. James Marshall’s The Three Little Pigs.
+                 Business and economic-focused podcasts including Freakonomics, Planet Money and Masters in
+                 Business. This is not a comprehensive list and I am open to your suggestions and will post more
+                 on Canvas. That being said, it is worth emphasizing that quality (thoughtful use of the materials
+                 we use in class) will be far more useful than quantity without thoughtfulness or mindfulness.
+    •    Throughout the course we will be examining publicly available material including corporate press
+         releases, corporate filings (10K’s, etc.), analyst reports, and articles from the business press. When
+         appropriate, these and other supplemental information (or links to these documents) will be provided via
+         the Canvas. You will be responsible for downloading and printing these articles and using links posted on
+         Canvas. UT Box links expire 30 days after posting—please download the files you need in a timely
+         fashion.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                    Fall 2019
+                       Assignments and Grading Information (page 1 of 5)
+Disclaimer: The following contains extensive details about each part of the class and expectations.
+If this seems excessively specific and elaborate, I apologize in advance. This is only included as a
+small percent of individuals (in your program) have truly struggled with these areas.
+Course Requirements and Grading
+We will determine the final distribution of letter grades at the end of the semester. This means that
+numerical scores on specific assignments do not correspond to a particular letter grade prior to the end
+of the semester. Final grades are determined by summing up all pieces, then ranking all students and
+then following the class distribution provided by the respective Program(s). Some areas of the
+distribution may be very tight. This means that it is mathematically unavoidable that some students
+with similar grades do not get the exact same final letter grades. Ultimately, someone must fall at each
+“break point,” which means that someone gets the lowest of one grade (for example, the lowest A-) and
+someone else, with similar grades, gets the highest of the next letter grade (for example, the highest B+).
+The class’s distribution dictates the percentage of each of the letter grades. That is, you and your
+classmates’ performance, more than I, determine your final letter grade. Students may not ask for
+exclusive extra credit or grade changes at the end of the semester. This is unprofessional and requesting
+specific treatment violates our University’s academic goals.
+The letter grades will be determined by the guidelines set out by the MBA and MPA Programs for
+upper-level classes. Numerical points will be accumulated as follows:
+Description of Requirements
+Exam (35%)
+There will be one exam. The final exam schedule is not known at this time but is released to the students
+and faculty at the same time (I will post it to Canvas once I learn). This is cumulative exam covering all
+classes. The exam will involve the lessons from class applied to a set of financial information from one
+or a small number of publicly traded firms. Please notify me within 72 hours of the exam date being set
+if you have a conflict with the exam date. Outside of this 72 hour window, there are no makeup exams,
+except for SSD accommodations. Please check here for the exam date:
+https://registrar.utexas.edu/students/exams
+The exam is primarily built around class discussions and cases and involves your analysis of an actual
+company’s (or companies) financial information. This exam is not one for which you should try to cram.
+You prepare for the exam by doing the work day to day in this class and then by relaxing the week
+before the exam. Cramming is not useful and a class for which you can cram is a good example of a
+class not worth taking. Please do not interpret “no cramming” as “no need to work.” The work is done
+on the cases, in class and in your reviews week by week. Also, the cases provide a general idea of the
+exam questions (although the time to complete and grading differs between the cases and the exams) and
+other types or examples of questions are posted on Canvas.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                             Fall 2019
+                         Assignments and Grading Information (page 2 of 5)
+Cases (35%)
+The primary objective of the Cases is to help you gain exposure to the material before attending class. The fancy
+term for this is the “flipped classroom,” but this is simply old-fashioned education from your rather old-school
+professor that helps ensure you can master the material by getting exposure and taking direct ownership. This is
+not a class in which I lecture at you all semester long and you passively take notes, so case preparation before
+class is essential. As these cases are not simply mechanical or term/theory regurgitation, you will likely encounter
+ambiguity and have questions as you complete the cases—this is by design. Unless clearly noted otherwise, all
+Cases are due before class.
+There are numerous cases required by all students and associated each of the classes. Details are provided
+on Canvas. Cases cannot be submitted late. Cases must be submitted on Canvas in the respective link. All
+assignments should be submitted electronically through Canvas using a program that is compatible with Microsoft
+Office. Students are responsible for uploading the final version, checking and re-checking any issue with
+formatting or other errors before submission. While the specific scenario differs, it is common for some students
+to have an occasional health/family/work emergency and instead of investigating each one or trying to apply
+subjective judgment, we allow one case to be dropped for any student with no questions asked or documentation
+needed. That being said, of course, students should still work on each case as each is excellent practice for any
+student who is trying to improve their skills at Financial Statement Analysis.
+Case Guidelines
+Cases must be written in a professional manner. This means; write in complete sentences and paragraphs and
+ensure that your answer and support is clear to your reader; use spellcheck (of course, these need to be typed);
+report financial numbers in a professional way (e.g. the numbers are aligned and do not have seven decimal
+places); and clearly label/number each of your responses (e.g. 1-5). You must provide support for all answers that
+ask for it. Assignments that do not hit all of these criteria for professionalism or are not professional in another
+way will get a 25% penalty for the first occurrence and then 50% or less credit thereafter. Assignments that are
+late, but before class, will get a 25% penalty for the first occurrence and then 50% or less credit thereafter.
+Assignments that are turned in after the class begins are not accepted.
+Cases, Group Work, Collaboration and File Sharing.
+Group work and collaboration are common in academia and the business world. Group work and collaboration do
+not mean that individuals should plagiarize the work of others, misrepresent attribution, avoid doing any
+meaningful work, or misreport information in any way.
+In this class, unless otherwise noted, students must submit their own document for every Case completed
+outside of class. In an effort to facilitate useful collaboration, unless noted otherwise, students are encouraged to
+work in a group of up to three people on the Cases. The goal of allowing groups is to enable students to actively
+share ideas, but still be involved—active discussions are the primary reason for allowing collaboration. Group
+work means you are encouraged to discuss the questions and answers, not rely on or copy the work of others; that
+is, each student needs his or her own submission, in which he or she adds value. As reiterated below, directly
+sharing files or copying answer (including copied answers with minor edits) across group members and/or other
+groups or individuals is a violation of these policies and will not be accepted. At the minimum, a violation results
+in a 0 for the case for all individuals involved in the violation. Specific examples are noted below.
+Groups of four or more are not allowed and must split into smaller groups. There is a cap to group sizes as large
+groups remove the benefit from actively discussing the material.
+Complete and honest attribution is required. Students must list the other people who they worked with on the
+case. If a name is missing or does not match up, all members get a 25% penalty for the first transgression, a 50%
+penalty for the second occurrence, and a 100% deduction thereafter.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                      Fall 2019
+                       Assignments and Grading Information (page 3 of 5)
+A non-exhaustive list of acceptable and unacceptable submissions:
+ 1. Acceptable: Three students work together in a breakout room and discuss the Case. Each student is
+     actively engaged in the discussion. Later they write up their answers and have some shared themes.
+     Each student directly acknowledges the collaboration of all three individuals.
+ 2. Acceptable: Two students chat via a video call regarding a Case. Both students are actively
+     engaged in the discussion. The students write up their answers as they discuss and have some
+     shared themes, but also take different approaches on many of the questions. Both students directly
+     acknowledge the collaboration.
+ 3. Unacceptable for both students: Student A asks Student B for Student B’s work. Student B
+     emails/post the file to a shared folder. Student A makes minor edits and submits the case and tries
+     to make it look like collaboration. Both students note each other’s name on the submission. For
+     example:
+ a. The most informative metric regarding profitability for this company is operating margin. The main
+     reason for this is that there are a variety of expenses, other than cost of sales, which are essential for
+     this company’s sustained operating success, including as Research and Development, Selling and
+     Marketing expenses. These expenses are critical as innovation and customer acquisition and
+     retention are critical in this industry. During this period, the company’s operating margin decreased
+     as it both lowered its prices in light of increased competition and began to spend more on R&D and
+     Selling and Marketing expenses, which increased to 10% and 12% of Revenue, respectively.
+ b. Operating Margin is the most informative metric regarding profitability for this company. This is
+     because a few expenses other than cost of sales are essential for this company’s sustained operating
+     success, including as Research and Development (R&D), Selling and Marketing (S&M) expenses.
+     These expenses are critical as customer acquisition/retention and innovation are critical in this
+     company’s operating environment. During this period, the company’s operating margin decreased
+     for two main reasons. First, the company decreased its prices in light of increased competition.
+     Second, the company began to spend more on S&M and R&D expenses, which are currently 12%
+     and 10% of Revenue, which is an increase from 11% and 8%, respectively.
+ 4. Unacceptable for both students: Student A asks for Student C’s work. Student C has already
+     worked with two other students and completed the Case, but sends the file to Student A anyway.
+     Student A makes numerous edits and submits the case. Student A notes that he worked alone.
+ 5. Unacceptable for all students: Student A asks for Student C’s work. Student C has already worked
+     with Student B and completed the Case, but sends the file to Student A anyway. Student A makes
+     edits and submits the case. Student A notes that he worked with Student C, Student B notes that she
+     worked with Student C, Student C notes that he worked with Students A and B.
+    If this appears complex, the simple solution is business professionalism: work alone or if you
+ choose to work together as group, do so as an actual group and have direct, honest and complete
+                                   communication across all group members.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                            Fall 2019
+                         Assignments and Grading Information (page 4 of 5)
+Class participation and leadership (10%)
+Much of class is conducted in a discussion setting during which we will analyze specific firms and
+discuss which metrics are important, the reasons for our approach, and the implications of our choices.
+The assignments are geared to prepare you to participate in and learn from these discussions.
+Accordingly, your completion of the assignments and your participation in our discussions are vital. If
+you are not involved in the discussion on your own, you should prepare for cold calling. At times, I will
+only be a facilitator of your discussions with each other. After most classes, I will make class notes, with
+particular attention to the quality of comments or questions, not the quantity. You do not need to be
+correct to participate: insightful questions and thoughtful answers are also important and I encourage
+students to answer, even when they are unsure. Moreover, a strong, smart and vibrant academic
+community is a part of why you and your classmates are here at the University of Texas.
+Consistent with what is noted above and in light of the expectations of this program and surely your
+jobs, you are clearly expected, but not forcibly required, to attend all classes. As your absence can
+detract from the learning experience of others, if you will miss part of or a whole class, you should post
+to our Discussion Board before (or after) class when this occurs. The post can include an apology to
+your classmates, if sincere, and can include whatever information you believe is both personally and
+professionally prudent. If, for any reason, you are uncomfortable posting the circumstance to the class,
+you may email me. That being said, you do not need to apologize to me—you and your classmates, not
+I, lose out from your absence. If you miss class you should obtain the slides, talk to your colleagues
+(classmates) about the course materials and discussions and post any unresolved issues to the Discussion
+Board.
+Here’s a general idea of how I plan to grade your class participation over the course of the semester:
+• Outstanding Contributor: Consistent and sustained contributions to large-group discussions reflect thorough
+      preparation. Ideas offered are usually substantive, provide good insights and sometimes change the direction
+      of the class for the better. Arguments, when presented, are generally well-substantiated and often persuasive.
+      If this person were not a member of the class, the quality of the large-group discussions would be diminished
+      significantly. In addition to exceptional large-group discussion contributions, also actively participates in
+      small-group discussions.
+• Good Contributor: Consistent contributions to large-group discussions reflect satisfactory preparation. Ideas
+      offered are usually substantive, generally provide useful insights, and occasionally offer a new direction for
+      the discussion. Arguments, if presented, are reasonably well-substantiated. If this person were not a member
+      of the class, the quality of the large-group discussions would be diminished. In addition, also offers
+      comments in small-group discussions.
+• Marginal Contributor: Generally routine contributions to large-group discussions reflect preparation. Ideas
+      offered are occasionally substantive but seldom provide clear insights or new directions for the discussion.
+      Arguments may be occasionally presented that are interesting, but are generally not well-substantiated. If
+      this person were not a member of the class, the quality of the large-group discussions would be diminished
+      only slightly. In addition, also offers consistent comments in small-group discussions.
+• Non-participant (around 0-2 percentage points out of 10%): This person has maintained good attendance,
+      but has said little or nothing in class apart from the small group discussions; hence there is no adequate basis
+      for evaluation. If this person were not a member of the class, the quality of the discussions would be
+      unchanged.
+• Low attendance (0 percentage points out of 10%). This person has missed numerous classes or if present,
+      contributions to discussions reflect inadequate preparation. Ideas offered are rarely substantive, provide few,
+      if any, insights and never offer a constructive direction. At best, contributions are obscure, confused, and
+      indicate a lack of familiarity with the fact of the issues under discussion.
+• Disruptive Contributor (negative points): Comments demonstrate disrespect for others in the academic
+      community. Student does not participate in small group discussions. If this person were not a member of
+      class, valuable airtime would be saved.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                    Fall 2019
+                       Assignments and Grading Information (page 5 of 5)
+        o Disruption includes consistently arriving late, leaving or packing up early, side conversations,
+            or using a cell phone during class or other disruptive behaviors. I hope no one achieves this
+            grade as this represents a major lack of professionalism and respect for our University. A
+            student in this category may not pass the class, regardless of the other grades.
+Our class will also make use of Discussion Board. This is the forum for outside-of-class questions
+related to assignments, our class coverage and any related current events. In addition, as the Discussion
+Board is an important way to share information and knowledge across the class, each student must post a
+constructive question or comment or respond a class-related post at least once during the semester.
+Moreover, constructive Discussion Board involvement can help enhance your Class Participation and
+Leadership grade, but the primary driver of performance is the classroom experience. (Logistical
+questions such as “Where is the Excel file?” are always welcomed, but cannot enhance your grade.)
+Grading Disputes
+My TA/grader and I make every effort to grade all of your work fairly and accurately, but grading errors
+can occur. If you believe there is an error, you may request a re-grading of the assignment. Be aware,
+however, that grading errors can occur in both directions - errors can make grades too high as well as too
+low. Therefore, if you request a re-grading, your entire assignment will be re-graded, and all grading
+errors will be corrected. By requesting a re-grade, you accept the possibility that your grade may go
+either up or down. To request a re-grade, you must submit a written request to me within 72 hours from
+the time in which the assignment’s grade was released to students (whether or not you were present in
+class on that day or checking email). The request must be accompanied by the original, if I do not retain
+it, and must state the area of dispute, your recommendation for change in grade, an explanation or
+justification for your recommendation and any limitations to this recommendation. Moreover, the
+request, should articulate (in person or in writing) how the submission compared to the discussion from
+the class (and/or any posted materials). The re-grade request must refer to the guidelines established in
+this syllabus and Canvas and not involve any misrepresentation or unprofessionalism.
+Case Feedback
+Informal discussions about how a student can perform better are allowed, but a student must articulate
+(in person or in writing) the specifics of how their submission compared to the discussion from the class
+(and any posted materials). The request must also include a direct discussion of any expectations noted
+in this syllabus or on Canvas.
+Formal or informal requests that do not abide by these policies will be considered unprofessional,
+may not be addressed and can lead to a meaningfully lower grade.
+The same policies apply to emails/notes about grades or other subjects that misrepresent facts,
+avoid personal responsibility, do not answer pertinent questions, or are unprofessional in their
+language, subject or approach.
+Group Project (20%)
+There will be one group project due towards the end of the semester, which will focus on evaluating
+similar companies. More details will be posted on Canvas during the semester and/or noted in class.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                             Fall 2019
+                     Academic Integrity and University Policies (page 1 of 2)
+Cheating involves copying work across groups, cheating on the exam, plagiarizing your assignments and other
+things as well. Don’t cheat as (1) it is wrong; (2) the costs far outweigh the benefits: you don’t want to get
+kicked out in a short-sighted attempt to make a B a B+; and (3) there is a very good chance that your cheating
+will be revealed and we will all be extremely disappointed.
+                                            Policy on Scholastic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The responsibilities of both
+students and faculty with regard to scholastic dishonesty are described in detail in the BBA Program’s Statement
+on Scholastic Dishonesty at http://www.mccombs.utexas.edu/BBA/Code-of-Ethics.aspx. By teaching this course,
+I have agreed to observe all faculty responsibilities described in that document. By enrolling in this class, you
+have agreed to observe all student responsibilities described in that document. If the application of the Statement
+on Scholastic Dishonesty to this class or its assignments is unclear in any way, it is your responsibility to ask me
+for clarification. Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University. Since dishonesty
+harms the individual, all students, the integrity of the University, and the value of our academic brand, policies on
+scholastic dishonesty will be strictly enforced. You should refer to the Student Judicial Services website at
+http://deanofstudents.utexas.edu/sjs/ to access the official University policies and procedures on scholastic
+dishonesty as well as further elaboration on what constitutes scholastic dishonesty.
+Copyright and Intellectual Property
+The course packet and other materials are the intellectual property of your professor and are given to you, for free,
+on an individual basis only. You may not, in anyway, share, distribute or post electronic, hardcopy or other
+versions of the class materials with other people or on websites or other avenues of social media without explicit
+permission from me. Posting or sharing materials, or even snippets of materials, will be considered a violation of
+our University’s Academic policies for all parties involved and may lead to a failing grade in this class. This
+includes all websites, file sharing folders, apps and social media; the only exception is that you may post class-
+related material to our class’s Canvas Discussion Board during the semester.
+Recording Class:
+Recording all or any part of class without explicit written permission from the professor is strictly prohibited.
+Violations will constitute a violation of the academic integrity policies of our University and may lead to a failing
+grade in this class and legal prosecution. If you need to record the class, please email me to seek permission at
+least a week in advance and include details about the date, topics, individuals involved and a clear explanation of
+the reasons for this need.
+Privacy in Canvas:
+Information in Canvas is protected by your UTEID login. If applicable, please be aware that I will use a merged
+Canvas site for all sections, if there is more than one, of a course that I teach. This will allow students in other
+sections to see that you are enrolled in the course and send you email from within Canvas. However, they will not
+actually learn your email address and no other personal data will be revealed through Canvas. If you have any
+concerns, please contact the ITS Help Desk at 475-9400 for help removing your name from view of other
+students.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                                         Fall 2019
+                     Academic Integrity and University Policies (page 2 of 2)
+                                          Additional Important Notifications
+                                               Students with Disabilities
+Students with disabilities may request appropriate academic accommodations from the Division of Diversity and
+Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://www.utexas.edu/diversity/ddce/ssd/.
+                                                  Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in
+order to observe a religious holy day, you will be given an opportunity to complete the missed work within a
+reasonable time after the absence.
+                                          Students with Personal Challenges
+If you face any personal challenges that may affect your coursework or need advice or assistance for any serious
+health or personal matter, please reach out to the Student Emergency Services. Information can be found here:
+http://deanofstudents.utexas.edu/emergency/
+                                                    Campus Safety
+Please note the following recommendations regarding emergency evacuation from the Office of Campus Safety
+and Security, 512-471-5767, http://www.utexas.edu/safety:
+    • Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+         when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+         outside.
+    • Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember
+         that the nearest exit door may not be the one you used when entering the building.
+    • Students requiring assistance in evacuation should inform the instructor in writing during the first week
+         of class.
+    • In the event of an evacuation, follow the instruction of faculty or class instructors.
+    • Do not re-enter a building unless given instructions by the following: Austin Fire Department, The
+         University of Texas at Austin Police Department, or Fire Prevention Services office.
+    • Behavior Concerns Advice Line (BCAL): 512-232-5050
+    • Further information regarding emergency evacuation routes and emergency procedures can be found at:
+         http://www.utexas.edu/emergency.
+
+
+Financial Statement Analysis: Dr. Patrick Badolato                              Fall 2019
+ Draft of the Schedule (It is quite possible that the schedule will be amended; updates will be on
+                                          Canvas). This is only a draft!
+    Case and class details are provided on Canvas; see each specific class page for the official
+       assignments and schedule. Exam information, when available, can be accessed here:
+                                 https://registrar.utexas.edu/students/exams

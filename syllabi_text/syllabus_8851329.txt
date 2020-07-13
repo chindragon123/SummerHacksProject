@@ -1,0 +1,362 @@
+AET 347 / TD 354T: Projection Design / Ortel                                        Fall 2018
+                                             Fall 2018
+                          AET 347: Projection Design - Unique # 21034
+                           TD 354T: Projection Design - Unique #26150
+                       Tuesday / Thursday, 9:30am – 11:00am PAC 3.204
+OVERVIEW
+Projections and imagery have been part of the theatrical language since the beginning
+of the 20th century. However, the technological innovations of the last two decades
+have created a vast array of new challenges and opportunities for visual storytellers
+and designers. This course will examine the history, technology, and aesthetics of
+projection and media, and will introduce the student to the processes and techniques
+used by projection & media designers.
+COURSE DESCRIPTION:
+This course is a lecture/lab course designed to introduce students to the field of
+projection design. The primary focus is on the process and techniques that produce
+and realize projection designs in live performance environments.
+The approach to this end is threefold:
+First, you will research and discuss the work of visual artists, designers, and directors
+who have influenced the field of projection design. This will be accomplished primarily
+through reading, research, class discussion and
+Second, you will learn about the technology and techniques used for creating and
+installing projections. This includes projectors, lenses, playback system hardware and
+software, control systems, projection surfaces, projector placement, lens calculation,
+projection system design as well as basic editing and creation of media for this
+application.
+We will make use of the resources of the PLAIlab classroom (PAC.3.204) to explore the
+principles and equipment types involved in this field of work.
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                         Fall 2018
+You will also be acquainted with the current equipment resources used for projection
+here at U.T.
+Third, you will learn the process and workflow of the projection designer.
+This component consists of lectures, discussions, lectures and conversations by guests
+artists and the creation of your own designs under guidance. These designs will be
+realized through the combinations of scaled-down representations of the chosen
+architectural spaces (model boxes) and the use of miniature projectors.
+You will analyze one play and another piece of work that is either a musical or themed
+entertainment. You will develop imagery for use in those productions. Your work will be
+presented and critiqued in class to enhance the understanding of art and design theory
+and the development of technical, creative and analytical skills. Developing the
+imagery will draw not only upon your skills as an artist, but your skills as a designer and
+collaborator.
+The instructor draws on his extensive experience in live entertainment to provide
+context and real-world examples for the topics and techniques discussed in this course.
+Professor Ortel’s pioneering work has informed the methodologies taught in this class
+in the field of projection design over the last two decades.
+LEARNING OUTCOMES:
+By the end of the semester, students will be able to:
+    • recognize and analyze a variety of projection principles;
+    • critically examine projection techniques;
+    • apply designs utilized for live performance;
+    • effectively participate in a collaborative design process; and
+    • create and implement a projection design
+COURSE REQUIREMENTS:
+    • Participation (15%): Students should come to class each day prepared to
+        contribute to the day’s conversation.
+    • Project 1 (25%): Design Process - "Measure for Measure": Create a written
+        design concept, scene breakdown, and two basic design renderings.
+    • Critical Writing (5%): Write a single page, double-spaced paper in which you
+        describe a live event attended that utilized projection. This paper should serve
+        as a critical examination of both the "visuals" experienced and your
+        interpretation or reaction.
+    • Project 2 (20%): Drafting your projection design for Measure for measure:
+        Draft a complete projection plot, projection section, system diagram, surface
+        diagram, equipment list, and budget. This project illustrates the student’s
+        understanding of VectorWorks and the technical requirements for a successfully
+        implemented projection design.
+    • Project 3 (30%): Integration - "Three Penny Opera" or Digital Experience/
+        Themed Entertainment: Create original content for your design. The created
+        content is to be played back through the use of projection playback software
+        (Qlab) and projected inside a scale model onto surfaces you specify. You will
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                      Fall 2018
+      need to make judicious use of miniature projectors to realize your design. This
+      project illustrates the student’s understanding of the entire projection process
+      from research to design and then to implementation.
+  •   Attendance (5%): Attendance is taken during every class.
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                           Fall 2018
+CLASS POLICIES
+PREREQUISITES
+This course also relies on research, daily preparation and homework. You will need to
+use the extensive UT library system, the internet, and any departmental or citywide
+resources available.
+It will be necessary to have a working knowledge of Microsoft Word, Excel (or some
+other spreadsheet program and word processor) as well as basic technical drawing
+skills (AutoCAD or Vectorworks). Familiarize yourself with the pdf format and the
+techniques that allow you to convert your documents into pdf files as many
+assignments have to be submitted in that format.
+You will need to have access to a computer, a scanner, a copier, and a printer. You will
+need an external hard drive or USB stick to transfer your work and files between
+computers for assignments
+Faulty equipment is not an excuse. Practice good e-habits and save, back-up or store
+your work so a quick transfer to another piece of equipment after system failure is
+possible.
+ATTENDANCE
+Attendance is critical in the professional world and this class as our goal is to prepare
+for a successful professional career after you graduate.
+    •    ATTENDANCE IS MANDATORY- Tardiness and absence for this course will cause
+         your total grade to fall. Design/Technology is an art form of collaboration and
+         participation with fellow artists. Your inability to attend and participate will be
+         viewed as a failure to complete an important facet of this course. Attendance
+         will be taken at each class. EACH UNEXCUSED ABSENCE WILL DROP YOUR
+         SEMESTER GRADE A WHOLE LETTER. THREE UNEXCUSED ABSENCES WILL
+         RESULT IN A FAILING GRADE.
+    •    Excused absences include:
+             1. Absences documented in advance in writing with my prior approval (no
+                 third party advocates)
+             2. Illness excused with a note from the doctor or infirmary
+             3. Death, yours, mine or a close relative (funeral notice required)
+THREE TARDYS = ONE UNEXCUSED ABSENCE (i.e. ONE LETTER GRADE DROP)
+    •    All reading, research and homework assignments must be completed before the
+         beginning of each class period. Follow the class schedule for these due
+         dates. Failure to prepare or complete work as assigned will cause your otherwise
+         stellar grade to plummet drastically.
+    •    Neatness, scholarship, and presentation all count towards your final grade.
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                         Fall 2018
+     •   You are responsible for making up missed work for excused absences. It
+         is your responsibility to obtain assignments and lecture notes from one of your
+         classmates.
+This course relies heavily on research, daily preparation and homework. You will need to
+use the extensive UT library system, the internet, and any departmental or city wide
+resources available (such as museums, galleries, historical collections). It will be
+necessary to have a working knowledge of Word, Excel (or some other spreadsheet
+program) and Outlook (or some other calendar program). It will be necessary to have
+access to a computer, a scanner, a copier, and a printer for duplicating research and
+sketches. Faulty equipment is not an excuse. Practice good e-habits and save or store
+your work so a quick transfer to another piece of equipment after system failure will
+not be traumatic.
+Course Communication
+The syllabus and assignments will be posted on the course Canvas site. All
+communication outside class hours is via canvas.
+There are many students in this course, and it will help everyone if you post questions
+in the discussions area whenever possible. If you send me a private message via
+canvas, I will attempt to respond to messages within 24 hours on weekdays. I will skim
+posts in the Discussions myself, and comment when I think there is something
+interesting or something that needs to be discussed in class.
+I will check my email two times a day: at noon and in the evening.
+It is your responsibility to
+1. Make yourself familiar with the canvas learning system. Start here.
+2. Make sure you can receive announcements and get notified about messages,
+assignment updates, announcements, etc. More info here.
+Pay attention to the canvas notification preferences.
+3. Ask questions. Do not make assumptions.
+Assignments
+• Assignments are explained in class and are available to view in Canvas. The big
+assignments are given in week one and eight of the semester and are described in class
+and on canvas. Smaller assignments may be made throughout the semester as the
+need arises. Often it becomes necessary to demonstrate a point or clarify an element
+of the process to assign a small homework exercise on a particular topic or skill. When
+this occurs these assignments become a part of your overall grade for class
+participation and collaboration.
+• You are responsible for making up missed work for excused absences. It is your
+responsibility to obtain assignments and lecture notes from one of your classmates.
+• It is your responsibility to ask and inquire if you are not clear about what is required
+or when.
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                         Fall 2018
+Assignment Deadlines
+It is vital that you do not get behind in this class as all work builds upon previous work.
+As a general rule all projects, reading, research, and homework assignments must be
+completed before the beginning of each class period. However, many class assignments
+have a due date and time in the evening before class. That allows me to review your
+work and provide feedback as well as prepare for a discussion based on the submitted
+work during the next lesson. If you submit your assignment late, it will not be reviewed
+in class.
+All work is due as specified in the assignment listed on canvas. Work not completed
+before the canvas deadline will be considered late.
+Any work turned in late, regardless of the excuse, will result in a grade reduction of one
+full letter for each calendar date it is late (an A would become a B and so on).
+In summary:
+Every assignment has a due date and time.
+I do accept work after that. However, assignments automatically lose one full grade for
+every day they are submitted late, and they will not be reviewed in class.
+Any work turned in more than four calendar days late will receive an automatic F. If
+you are having difficulty completing your work on time, please speak to me privately so
+that I can work out an arrangement with you.
+Evaluation and grading
+Neatness, scholarship, and presentation will all count towards your final grade.
+Communicating clearly by visual means is a part of the process.
+YOU WILL BE GRADED ON:
+     •   Reading, Discussion, Participation (15%)
+     •   Critical Writing (5%)
+     •   Project 1: Measure For Measure Design Project (25%)
+     •   Project 2: Technical support documents for project 1 (20%)
+     •   Project 3: Three Penny Opera or Digital Experience Design/ Themed
+         Entertainment (30%)
+     •   Attendance (5%)
+This course does not have a final exam.
+Grading Scheme
+A - Represents outstanding participation in all course activities. All assigned work must
+be completed on time and with a very high quality of demonstrated skill and technique.
+There is an evidence of significant development across all dimensions of learning. The
+result at this level demonstrates activity that goes significantly beyond the required
+course work in one or more areas.
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                         Fall 2018
+B - Represents excellent participation in all course activities; all assigned work must be
+completed on time with consistently high quality in course work. There is an evidence
+of marked development across all dimensions of learning.
+C - Represents good participation in all course activities; all assigned work completed,
+with generally good quality in course work. There is evidence of some development
+across all dimensions of learning.
+D - Represents uneven participation in all course activities; some gaps in assigned work
+completed, with inconsistent quality in course work. The evidence of development
+across all dimensions of learning is unclear.
+F - Represents minimal participation in all course activities; serious gaps in assigned
+work completed, or very low quality in course work. Development evidence is not
+available.
+Please Note: If you are concerned about your grade – check in with us regularly so that
+we can determine where you’re at, and what might need to be done to correct any
+problems. Do not wait until the end of the semester!
+Canvas does show you your grades on any assignment that has been graded.
+Privacy
+What we say about each other’s work during this class should remain in the classroom.
+It will not be published in a blog or on any other personal websites, tweeted or posted
+on social networks.
+About services for students with disabilities:
+The University of Texas provides appropriate academic accommodations for qualified
+students with disabilities. For more info, contact the Dean of Students at 471-6259,
+471-4641 TTY
+TEXTS
+Mobile devices
+Mobile devices of any kind need to be silenced and put away. I do not want to hear any
+notifications (including vibrations) or sounds coming from them.
+Texting and other cell phone-related activity is never appropriate during class
+Books required
+William Shakespeare: Measure For Measure
+Bertolt Brecht: The Threepenny Opera
+Recommended:Theatre Svoboda (available at realeyz.tv.)
+reference online:
+www.projctn.com
+www.projectorcentral.com
+UTiM wiki: https://wikis.utexas.edu/display/UTIM/UT+Integrated+Media+Home
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                 Fall 2018
+Resources and equipment
+You may need to check out cameras and camera support from UTIM, the COFA library,
+or The Foundry. You will be responsible for their return in good shape.
+You will need access to computers with movie and picture editing software.
+These can be found in the TADL (WIN 1.138) on the ground floor outside the Brocket
+Theatre (15 iMACs with Adobe CC), The Foundry at the Fine Arts
+Be sure to back everything up to a personal drives.
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                        Fall 2018
+University Policies
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen
+days prior to the date of observance of a religious holy day. If you must miss a class,
+an examination, a work assignment, or a project in order to observe a religious holy
+day, I will give you an opportunity to complete the missed work within a reasonable
+time after the absence.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for
+academic reasons to six (6). As stated in Senate Bill 1231:
+“Beginning with the fall 2007 academic term, an institution of higher education may
+not permit an undergraduate student a total of more than six dropped courses,
+including any course a transfer student has dropped at another institution of higher
+education, unless the student shows good cause for dropping more than that number.”
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations
+should contact Services for Students with Disabilities (SSD) at (512) 471-6259 (voice)
+or 1-866-329-3986 (video phone). Faculty are not required to provide
+accommodations without an official accommodation letter from SSD. (Note to Faculty:
+Details of a student’s disability are confidential. Faculty should not ask questions
+related to a student’s condition or diagnosis when receiving an official accommodation
+letter.)
+Please notify me as quickly as possible if the material being presented in class is not
+accessible (e.g., instructional videos need captioning, course packets are not readable
+for proper alternative text conversion, etc.).
+Please notify me as early in the semester as possible if disability-related
+accommodations for field trips are required. Advanced notice will permit the
+arrangement of accommodations on the given day (e.g., transportation, site
+accessibility, etc.).
+• Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-
+3986 (video phone) or reference SSD’s website for more disability-related information:
+http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php (Links to an external
+site.)Links to an external site.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior
+Concerns Advice Line to discuss by phone your concerns about another individual’s
+behavior. This service is provided through a partnership among the Office of the Dean
+of Students, the Counseling and Mental Health Center (CMHC), the Employee
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                        Fall 2018
+Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call
+512-232-5050 or visit http://www.utexas.edu/safety/bcal (Links to an external site.)
+Evacuation Information
+The following are the recommendations regarding
+emergency evacuation from the Office of Campus Safety and Security, 512-471-
+5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to eva
+cuate buildings when an alarm or alert is activated.
+Alarm activation or announcement requires exiting and assembling outside, unless told
+otherwise by an official representative.
+Familiarize yourself with all exit doors of each classroom and building you
+may occupy. Remember that the nearest exit door may not be the one you
+used when entering the building.
+Students requiring assistance in evacuation shall inform their instructor in writing during
+the first week of class.
+In the event of an evacuation, follow the instruction of faculty or class instructors. Do
+not re-enter a building unless given instructions by the following: Austin
+Fire Department, The University of Texas at Austin
+Police Department, or Fire Prevention Services office.
+Link to information regarding emergency evacuation
+routes and emergency procedures can be found at: www.utexas.edu/emergency
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code:
+     “As a student of The University of Texas at Austin, I shall abide by the core val
+     ues of the University and uphold academic integrity.”
+This means that work you produce on assignments, tests and exams is all your own
+work, unless it is assigned as group work. I will make it clear for each test, exam or
+assignment whether collaboration is encouraged or not.
+Always cite your sources.
+If you use words or ideas that are not your own (or that you have used in a
+previous class), you must make that
+clear otherwise you will be guilty of plagiarism and subject to academic disciplinary acti
+on, including failure of the course.
+You are responsible for understanding UT’s Academic Honesty Policy which can be foun
+d at the following web address: http://deanofstudents.utexas.edu/sjs/acint_student.p
+hp]
+
+
+AET 347 / TD 354T: Projection Design / Ortel                                        Fall 2018
+University Resources for Students
+The university has numerous resources for students to provide assistance
+and support for your learning, use these to help you succeed in your classes.
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger
+Learning Centereach year to improve their academic performance? All students are
+welcome totake advantage ofSanger Center’s classes and workshops, private learning
+specialist appointments, peer academic coaching,and tutoring for more than 70
+courses in 15 different subject areas. For more information, please visit
+http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+The University Writing Center
+The UniversityWriting Center offers free, individualized, expert help with writing for any
+UT student, by appointment or on a drop-in basis. Consultants help students develop
+strategies to improve their writing. The assistance we provide is intended to foster
+students’ resourcefulness and self-reliance. http://uwc.utexas.edu/
+Counseling and Mental Health Center
+The Counseling and Mental Health Center (CMHC) provides counseling, psychiatric,
+consultation, and prevention services that facilitate students' academic and life goals
+and enhance their personal growth and well-being. http://cmhc.utexas.edu/
+Student Emergency Services
+ http://deanofstudents.utexas.edu/emergency/
+ITS
+Need help with technology? http://www.utexas.edu/its/
+Libraries
+Need help searching for information? http://www.lib.utexas.edu/
+Canvas
+Canvas help is available 24/7
+at https://utexas.instructure.com/courses/633028/pages/student-tutorials

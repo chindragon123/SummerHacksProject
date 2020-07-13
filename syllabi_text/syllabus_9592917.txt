@@ -1,0 +1,89 @@
+TECHNICAL COMMUNICATIONS ARC 361T/381T                                                    SYLLABUS 1
+Instructor:  Marla Smith marlasmith@utexas.edu
+             Office Hours:     TU, TH GOL 2.206
+TA:          TBD
+             Young‐Park F2012
+Prerequisites:
+             Undergraduate: Architecture 560R with a grade of at least C.
+             Graduate: Graduate standing; Architecture 385N, 394 (or 394C and 394D);
+Description: In this class you will continue to integrate digital tools into your design process.
+             We will use 2D, 3D and BIM software to develop and document various projects. We will
+             concurrently review various standards for representation in both the classroom and office
+             environments. Topics will include drawing set organization, office standards, estimating
+             techniques, and data organization as they relate to both Building Information Modeling and
+             Professional Practice.
+             During the first half of the semester we will move through a series of technical and graphic
+             representation exercises designed to develop your skills while reinforcing the organizing
+             principles of digital drawing and model creation. We will explore the implementation of data
+             driven design and Building Information Modeling.
+             During the second half of the semester we will work on an assigned project. We will have group
+             pin-ups covering specific drawings including: diagrams, plan, section, detail, schedules and
+             perspective views. These pin-ups will focus on the ability of the drawings to illustrate, focus, and
+             clarify your design intentions.
+             You may use the program of your choice to represent your design. However you must show
+             proficiency in Revit through completion of the assignments. By the end of the semester you
+             should be able to design, build a model and render images or drawings that are both clear and
+             evocative. You will also show a clear understanding of drawing set organization, data
+             organization, and data representation.
+             I am looking for a critical attitude toward the design, the software and the presentation.
+Hardware: You should have a computer in accordance with the School of Architecture Computer Initiative.
+             Output: Computer Lab in Sutton.
+             I will be giving short presentations on Tuesday and Thursday. I will give you a schedule of the
+             topics and various handouts.
+Software:    Before the first day of class you should download and install the lab versions of Autocad
+             Architecture and Revit. These programs are available from the Autodesk Educational website:
+             https://www.autodesk.com/education/home
+             I recommend that you use the download now option instead of install now.
+
+
+TECHNICAL COMMUNICATIONS ARC 361T/381T                                                      SYLLABUS 2
+Evaluation:
+Attendance: Three unexcused absences will result in the lowering of your grade by one letter.
+             Four unexcused absences will result in a grade no higher than a C and my recommendation
+             that you drop the course. Five unexcused absences = F.
+Progress:    Everyone is starting out at differing levels of proficiency therefore your grade will be based on
+             relative progress.
+Assignments: There will be a series of required assignments throughout the semester. You should complete
+             assignments by the beginning of class on the due date.
+Grades:
+             X       Excused Incomplete - Can be given only for legitimate reasons of illness or family
+                     emergency. Simply not completing work on time is not an adequate cause for assigning
+                     this evaluation. It may only be used after consultation with the Associate Deans' offices
+                     and with an agreement as to a new completion date. Work must be completed before
+                     the second week of the next semester in which you are enrolling, according to the
+                     School of Architecture policy.
+             F       Fail - Project is unresolved. Minimum objectives are not met. Performance is not
+                     acceptable. Note that this grade will be assigned when you have excessive unexcused
+                     absences.
+             C-, D   Poor - Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of
+                     presentation are not level-appropriate. Student does not demonstrate the required
+                     competence and knowledge base.
+             C+/C Average - Project meets the minimum requirements. Suggestions made in class and not
+                     pursued with dedication and rigor. Project is incomplete in one or more areas.
+             B-/B/B+ Above Average - Project is thorough, well presented, diligently pursued, and successfully
+                     completed. Student pursues ideas and suggestions presented in class and puts in effort
+                     to resolve required projects. Project is complete on all levels and demonstrates potential
+                     for excellence.
+             A/A-    Excellent - Project surpasses expectations in terms of inventiveness, appropriateness,
+                     visual language, conceptual rigor, craft, and personal development. Student pursues
+                     concepts and techniques above and beyond what is discussed in class. Project is
+                     complete on all levels.
+
+
+TECHNICAL COMMUNICATIONS ARC 361T/381T                                                           SYLLABUS 3
+Recommended resources:
+            Architect’s Studio Handbook, Patterson
+            Lynda.com (free tutorials for current UT Students)
+            Video Tutorials included in assignments
+            Autodesk Design Academy, https://academy.autodesk.com/software/revit
+Accommodations:
+            At the beginning of the semester, students with disabilities who need special accommodations
+            should notify the instructor by presenting a letter prepared by the Services for Students with
+            Disabilities Office. To ensure that the most appropriate accommodations can be provided,
+            students should contact the SSD Office at 471-6259 or 471-4641 TTY.
+Policy on Scholastic Dishonesty:
+            Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+            including the possibility of failure in the course and/or dismissal from the University. Since such
+            dishonesty harms the individual, all students, and the integrity of the University, policies on
+            scholastic dishonesty will be strictly enforced.
+            Feric Fevolution                             290 Mulberry, New York, ShOP Architects

@@ -1,0 +1,156 @@
+Michael Baker         michael.baker@austin.utexas.edu       Office: DFA 4.112 Thursday        Spring 2018
+                                                                       2-4p
+AET 310 FOUNDATIONS OF CREATIVE CODING
+UID: 20875, 20880                                     Text: Learning Processing, Daniel Shiffman
+Meetings: MWF 12-1, 1-2                               Instructor: MJ Johns
+Location: DFA 4.112                                   Office Hours: MW 2-3
+Abstract
+       A guide for expressing original ideas visually through code using the programming language
+       and IDE Processing.
+Assessment
+       Challenges 1 - 9 are graded pass/fail for 5 points each, Challenges 10 and 11 are graded out of
+       20 points. Assignments are due by the start of class on the due date. The remaining 15 points
+       of the final grade is based on professionalism which is earned by attending class during the
+       scheduled meeting times and participating in discussions. Projects will be graded using the
+       provided rubric.
+       No late work will be accepted. No incompletes will be given. If you feel you will not be able to
+       complete all work on time, you should ask the instructor for a grade of Q or drop before the
+       deadline for doing so passes.
+       Note: If you cannot attend class for any reason, please send an email and attach any
+       class work as needed, and talk to your classmates to find out what you missed.
+Classroom Policy
+       Devices
+            ●  Must be kept in silent mode unless an emergency notification is expected (please discuss
+               this with me prior to class).
+            ● Can be used for research and class note taking, but not for social media (unless related
+               to class activities)
+       Food/Drink
+            ●  Food is not allowed in class.
+            ●  Drinks in closed containers are permitted but must be kept on the floor or out of sight
+               when not in use.
+Required Equipment
+       All students MUST have access to a portable computer. Either Mac or PC is fine.
+Textbook
+       Learning Processing by Daniel Shiffman
+                                                                                                        1
+
+
+Calendar
+Week                                               Book
+1    8/29 Course Intro
+     8/31 Processing Basics
+2    9/3 Labor Day (No Class)                      Chapters 1 - 3
+     9/5 Demo: Shapes, Colors, and Animation
+     9/7 LAB
+3    9/10 Challenge 1 Due                          Chapters 4 - 6
+     9/12 Demo 2: Variables, Loops, If-Else
+     9/14 LAB
+4    9/17 Challenge 2 Due                          Chapters 7 - 8
+     9/19 Demo 3: Functions and Objects
+     9/21 LAB
+5    9/24 Challenge 3 Due                          Chapter 9
+     9/26 Demo 4: Arrays, Data Types
+     9/28 LAB
+6    10/1 Challenge 4 Due                          Chapters 10 - 12
+     10/3 Demo 5: Algorithms, Debugging, Libraries
+     10/5 LAB
+7    10/8 Challenge 5 Due                          Chapters 13 - 14
+     10/10 Demo 6: Math and Transformations
+     10/12 LAB
+8    10/15 Challenge 6 Due                         Chapters 15 - 16
+     10/17 Demo 7: Images
+     10/19 LAB
+9    10/22 Challenge 7 Due                         Chapters 17 - 19
+     10/24 Demo 8: Text and Input
+     10/26 LAB
+10   10/29 Challenge 8 Due                         Chapters 20 - 21
+     10/31 Demo 9: Sound
+     11/2 LAB
+11   11/5 Challenge 9 Due
+     11/7 Discussion: Interactive Entertainment
+     11/9 LAB
+12   11/12 LAB
+     11/14 Challenge 10 Midpoint Review
+     11/16 LAB
+13   11/19 Challenge 10 Due
+     11/21 - 11/23 Thanksgiving (No Class)
+14   11/26 Team Project Assigned                   https://unity3d.com/learn/tutorials/topics/interface-essentials
+     11/28 Team Building Activities                https://unity3d.com/learn/tutorials/s/scripting
+     11/30 LAB                                      (beginner only)
+15   12/3 LAB
+     12/5 Challenge 11 Midpoint Review
+     12/7 LAB
+16   12/10 Challenge 11 Due, Last Day of Class
+                                                                                                                   2
+
+
+Units of Study
+        ●   Foundations
+                  ○ Intro to Processing
+                  ○ Programming concepts
+                  ○ Multimedia concepts
+        ●   Applications
+                  ○ Solving problems and doing things with code
+        ●   Systems
+                  ○ Processing libraries
+                  ○ Other multimedia coding systems (Unity, C#).
+Process
+     We will work through demonstrations, textbook content, and a number of technical/creative
+     challenges to learn about multimedia and interactive system programming.
+Reference
+     A short list of useful resources for creative coding
+        ●   Processing.org - main site for Processing
+        ●   Processing.org - tutorials
+                  ○ hello.processing.org - great starting point
+        ●   Processing.org - reference
+        ●   Processing.org - libraries
+        ●   Processing.org - IDE reference
+        ●   Learningprocessing.com - website for the textbook
+        ●   Sketchpad.cc - an online processing editor
+        ●   Awesome Creative Coding list by TerkelG on GitHub
+                                                                                               3
+
+
+Class Attendance Policy
+As detailed above, attending class during the scheduled meeting times earns professionalism credit.
+Credit is NOT earned for arriving late, leaving early, or failing to attend class meetings. If attending a
+scheduled class meeting is not possible, students are expected to promptly notify the instructor of
+extenuating circumstances.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to
+six (6). As stated in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of
+higher education may not permit an undergraduate student a total of more than six dropped courses,
+including any course a transfer student has dropped at another institution of higher education, unless
+the student shows good cause for dropping more than that number.”
+University Attendance Policy: Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+complete the missed work within a reasonable time after the absence.
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact
+Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video
+phone). Faculty are not required to provide accommodations without an official accommodation letter
+from SSD. academic honesty University of Texas Honor Code The core values of The University of
+Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and responsibility.
+Each member of the university is expected to uphold these values through integrity, honesty, trust,
+fairness, and respect toward peers and community.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice
+Line to discuss by phone your concerns about another individual’s behavior. This service is provided
+through a partnership among the Office of the Dean of Students, the Counseling and Mental Health
+Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police
+Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when
+a fire alarm is activated or an announcement is made. Please be aware of the following policies
+regarding evacuation: • Familiarize yourself with all exit doors of the classroom and the building.
+Remember that the nearest exit door may not be the one you used when you entered the building. • If
+you require assistance to evacuate, inform me in writing during the first week of class. • In the event
+of an evacuation, follow my instructions or those of class instructors. Do not re-enter a building unless
+                                                                                                           4
+
+
+you’re given instructions by the Austin Fire Department, the UT Austin Police Department, or the Fire
+Prevention Services office.
+                                                                                                      5

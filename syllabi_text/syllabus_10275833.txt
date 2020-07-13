@@ -1,0 +1,375 @@
+                       Accounting 326 - Financial Reporting and Analysis – Spring 2020
+Professor: Lale Guler
+E-mail: Lale.Guler@mccombs.utexas.edu
+Office Location: CBA 4M.258
+Office Hours: Tuesday 3:00pm-4:00pm or by appointment
+Web: https://www.mccombs.utexas.edu/Directory/Profiles/Guler-Lale
+Course Unique No, Meeting Time, Meeting Place:
+02290, MW 9:30am-11:00pm, GSB 2.122
+02300, MW 11:00pm-12:30pm, GSB 2.122
+02305, MW 2:00pm-3:30pm, UTC 1.132
+Introduction
+This is a very demanding course. You should expect to study a minimum of 6 hours per week (outside of class) to
+pass the course.
+Course Objectives
+The course examines issues in financial reporting from both preparer and user perspectives. The basic objectives
+of the course are:
+(1) to learn about current U.S. GAAP.
+(2) to understand the economics of transactions and events, and comprehend whether and how financial reporting
+captures those economics. This way of thinking lays the foundation for understanding how equity and credit
+analysts use financial reports and allows you to learn about business.
+(3) to learn how to analyze financial reporting problems in a forward direction, similar to what financial
+statement preparers normally do (i.e., work forward from the financial data to financial statements) and to learn
+how to reason about financial reporting problems in a backward direction, similar to what financial report users
+do (i.e., work backward from the financial statements to the financial data).
+Required Materials
+(1) Intermediate Accounting, by Kieso, Weygandt, and Warfield, 17th edition with WileyPLUS access.
+(2) Incomplete class slides -- available at UT Document Solutions or Canvas (required every class day).
+Prerequisites
+Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; and Finance 357 or 357H.
+Communication Channels
+Please check the class webpage at Canvas weekly for announcements, presentation materials, articles,
+assignments, solutions to practice problems and other relevant information.
+E-mail communication is the way to reach out to the professor and the TAs. If you have not received a response to
+your e-mail within two business days, check this syllabus or Canvas for the answer to your question. No phone
+calls.
+
+
+Course Format
+Class sessions will be a combination of lecture and discussion. Students should bring to each class session a printed
+copy of that day’s PowerPoint slides (available at UT Document Solutions or at Canvas). The material covered in-
+class will follow the PowerPoint slides, which are designed to clarify and complement the text material. I suggest
+that you work all of the recommended questions for each chapter which will be posted on Canvas. While there will
+be no points allocated to solving recommended questions, there is a direct relation between working problems and
+performing successfully on examinations. I will post the solutions to the recommended questions at Canvas as the
+semester progresses, but not immediately (with a 10-day time lag). Students are expected to solve the recommended
+questions, search for the answers on their own, reflect on their solutions, check and correct their mistakes during
+the TA office hours before accessing the solutions online.
+Expectations on Professionalism & Participation
+I expect that you will at all times exhibit high standards of professionalism in this course. Professionalism is an
+important part of your training. Therefore:
+(1) I expect you to read this syllabus and follow the policies detailed in this syllabus.
+(2) I expect you to attend class. In the business world, attendance is mandatory unless illness or an emergency
+prohibits it. Scheduling interviews and other appointments during class sessions is unacceptable. Please note that
+performance is positively correlated with attendance. You do not need to notify me unless your absence will be for
+an extended time (more than two weeks). Office hours are not a substitute for coming to class; accordingly, I will
+not go over the entire set of missed material covered in class during office hours if you have missed class. I expect
+you to attend the section in which you are officially enrolled.
+(3) I expect students to arrive to class on time. It is disruptive to the class when a student enters the classroom
+after class has begun, as it interrupts the flow of the lecture/discussion and distracts the other students.
+(4) I expect that you will turn off all electronic devices (other than any note-taking device that lays flat on the
+desk) once class begins. Laptops, cell phones, smart phones, pagers, and other communication devices are to be
+turned completely off (including turning off “cell phone vibrate mode” during class time.) I also expect that
+reading of non-class materials will stop once class starts. Please see the next page for more information.
+(5) I expect students not to take personal breaks during class. Students leaving and returning during class is
+disruptive, so please keep these disturbances to an absolute minimum.
+(6) I expect you to bring your nameplate to the class.
+(7) I expect that you will not have conversations or write notes back and forth with other students during class.
+(8) I expect that you will be respectful of me, the TAs, and of the other students in class and in office hours.
+I expect you to communicate in a professional manner when composing e-mails to me and the TAs.
+(9) I expect you to be diligent in studying for the course and participate in class discussions in a professional
+and constructive way. You should come to class prepared, which means that you should have read the material.
+(10) I expect you to be responsible for getting the course notes and in-class handouts on any day that you must
+miss class. It is not my responsibility to secure any missed material for you.
+                                                                                                                    2
+
+
+You can expect me and the TAs to:
+(1) Be in class and office hours on time.
+(2) Be respectful of your need to learn the material in this class. Thus, we will provide timely and full responses to
+questions made in person or on Canvas and keep you up to date on changes in the syllabus or homework solutions,
+again on a timely basis. You can expect us to return homework and exams in a timely fashion to enhance your
+learning experience.
+(3) Be courteous to you in our interactions with you in and outside of class.
+(4) Provide you with an education that will prepare you well for the long-term.
+No Laptop Computer or Smartphone Use during the Class
+No open laptop computers will be permitted during our class. You are welcome to use iPads, Surface or any note-
+taking device that lays flat on the table during class, but no laptop computers or other devices with a screen that
+rises above the desk. This policy is based on a body of research showing that students have a better learning
+experience and higher satisfaction when they do not use laptop computers in class.
+This policy is based on my experience comparing classes with and without laptop computers and a body of academic
+research which shows that students have a better learning experience and higher satisfaction when they do not use
+laptop computers in class.
+The following New York Times article dated November 17, 2017 and titled "Laptops Are Great. But Not During a
+Lecture or a Meeting" summarizes the problem with laptops:
+https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html
+Some of the research findings about laptops and smartphones in the classroom:
+(1) Laptop users retain less classroom learning than those who take notes by hand.
+Summary: http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop
+Study: http://pss.sagepub.com/content/early/2014/04/22/0956797614524581.abstract
+(2) Laptop multitasking hinders academic learning.
+Study: http://blog.reyjunco.com/wp-content/uploads/2010/03/JuncoCottenMultitaskingFBTextCAE2012.pdf
+(3) Laptop use hinders learning for nearby peers who don’t use laptops.
+Study: http://www.sciencedirect.com/science/article/pii/S0360131512002254
+(4) Honors students with laptops reported significantly less satisfaction with their education compared to honors
+students with no laptops.
+Study: http://dl.acm.org/citation.cfm?id=1405481
+(5) In recently published research, Professor Adrian Ward (McCombs), a cognitive psychologist and marketing
+professor, found evidence that using a smartphone, or even hearing one ring or vibrate, produces distractions making
+it harder to concentrate. Subjects whose phones were in view posted the worst scores, while those who left their
+                                                                                                                    3
+
+
+phones in a different room did the best. The students who kept their phones in their pockets or bags came out in the
+middle.
+"How Smartphones Hijack Our Minds," The Wall Street Journal, October 6, 2017
+https://www.wsj.com/articles/how-smartphones-hijack-our-minds-1507307811
+If you find notetaking a struggle, here are a few tips: http://mashable.com/2014/12/11/taking-notes-at-work/
+Grading Policy
+Your overall course grade will be comprised of the following:
+Exam 1                                    20%
+Exam 2                                    25%
+Exam 3                                    30%
+Team project                              10%
+WileyPLUS homework assignments            10%
+Unannounced in-class quizzes               5%
+Total points                             100%
+Final grades will be assigned on the basis of the following rubric:
+   Total Points      Letter
+   94-100            A
+   90-93             A-
+   87-89             B+
+   84-86             B
+   80-83             B-
+   77-79             C+
+   74-76             C
+   70-73             C-
+   67-69             D+
+   64-66             D
+   60-63             D-
+   Less than 60      F
+While the grading scale above will be used as a guideline, translation of the total points into a letter grade will
+ultimately be based on the professor’s judgment. The letter grade will reflect each student’s performance relative
+to the class and standards expected of UT students. I will impose a substantial grade penalty (one course grade per
+incident) for those who distract other students during class.
+                                                                                                                    4
+
+
+Exams
+There will be three closed book exams in this course. Exams are 100% independent work. You are not permitted to
+use any electronic communications devices during the exam. This explicitly includes cell phones, pagers,
+computers, laptops, iPads, and other advanced electronic devices. I will consider it cheating if a cell phone or other
+electronic communication device is used and/or visible during the exam. You are not permitted to copy or otherwise
+reproduce the exams at any time. This includes taking pictures of the exam with your cell phone or other device
+while taking the exam or when reviewing graded exams. All students are required to present proof of identification
+at the time of the exam. Exam papers will be recycled at the end of the semester.
+Exams may include conceptual, multiple-choice, short answer, and computational questions. You may have 1-
+page (8.5” x 11”, front/back, your own handwriting) of notes for use during the exam, which must be turned in
+with your exam. Because exams require 100% independent work, electronically prepared exam notes (which can
+be easily reproduced) will be considered as a cheating case. Any request for a re-grade must be made in writing
+no more than seven days after the exam grades are available. The request must state, in detail, the reason you
+believe the grade is in error. Requests that do not conform to this policy will not be honored.
+Make-up Exams
+Students must take all exams. Any missed exam must be approved through Student Emergency Services and
+makeups will be given only in truly extraordinary circumstances (at my discretion). Makeup exams are given only
+for excused absences, which must be determined, if possible, prior to the exam. Excused absences may be given
+for verifiable medical or family emergencies. Written documentation must be provided to qualify for an “excused
+absence”. The medical documentation must specifically state that you could not complete the exam on the day of
+the exam due to your illness and must be signed by a licensed physician. Students who miss an exam without making
+arrangements with me prior to the exam will receive a zero. All documentation evidencing your absence from an
+exam is due within two business days of the missed exam and you must make up the missed exam within three
+business days. If the documentation of an emergency is not received within the two-day window and the exam is
+not completed within the three-day window, you will receive a grade of zero. The determination of an “acceptable”
+excuse is solely up to the instructor’s discretion. A job or internship interview or any other appointment does
+not constitute a valid excuse for not taking the exam on the scheduled date. Students who have three or more
+exams on the same date should notify the professor before the third class day with the documentation of their exam
+date conflicts. Students who fail to provide documentation (proving the existence of their three exams on the same
+date) by the third class day are not eligible to take a make-up exam. Students who have two exams on the same date
+are not eligible for a make-up exam. It is solely the student’s responsibility to communicate with the professor
+regarding these issues and it is solely the student’s responsibility to ensure that the instructor is receiving the
+communication and any documentation. The student should use UT e-mail as the main form of communication.
+Also, the student must verify that the instructor has received the appropriate documentation within the three-day
+window. I do not guarantee that the level of difficulty of the make-up exam will be comparable to the exam given
+at the scheduled time. I will determine the date and time of the make-up exam, and you must make arrangements to
+take it at that time.
+Team Project
+The purpose of the project is to enhance your financial statement analysis skills. The specific requirements for the
+project along with the grading standards will be posted at Canvas early in the semester. After the second week of
+the classes, I will group the students into teams. Each student team will select an industry and complete a financial
+statement analysis on the firms in that industry. The project will include a written paper along with a presentation
+                                                                                                                     5
+
+
+at the end of the semester. All students must attend all presentations or you will receive a 50% reduction in your
+team project score. You must be in attendance entire time on the presentation day even if you are not presenting.
+Your work will be evaluated for content and format. Content criteria include relevance and depth of analyses, and
+the degree to which the assigned task was accomplished. Format criteria include clarity, accuracy, neatness,
+organization, and structure of appendices.
+At the end of the semester, each team member will evaluate the contributions of the other team members and
+submit a “Peer Evaluation Form”. Your personal score for the project will be the sum of your team’s score minus
+points deducted for adverse evaluations (if any) of your contribution by your team members.
+Your team paper will be submitted and examined through the integrated plagiarism detection tool. E-mail or hard-
+copy submissions will not be accepted. You will find the assignment submission link on the course page at Canvas.
+If I suspect that your paper is not original (e.g., based on the plagiarism detection tool’s evaluation of originality),
+I will forward your documentation to the Office of Judicial Affairs.
+Submission of Homework Assignments through WileyPLUS
+To gain access to your class, please register at the following class section URL:
+wileyplus/class/748647
+When you click on this link, you will be taken directly to our WileyPLUS class section, where you will log in if
+you already have a WileyPLUS account, or if not you will be prompted to create one. Once that is done, you will
+be taken to the e-commerce page to choose the type of access you prefer.
+You must include your official UT e-mail address, and your name using only the English characters as part of
+your registration to WileyPLUS.
+Online homework assignments will be available at WileyPLUS every week on Wednesday (starting on 1/29). The
+homework will be due on the following Tuesday. Given the fixed schedule of homework assignments (as shown
+on the last page), no e-mail announcement will be sent regarding the homework assignments. It is your
+responsibility to check WileyPLUS website regularly.
+Online homework assignments will be automatically graded by WileyPLUS Software. It is your responsibility to
+successfully submit your homework assignment online. It is unlikely that WileyPLUS questions / grading
+schemes are wrong. If you have questions regarding the grading of homework assignments through WileyPLUS,
+please state the question in an e-mail to me within one week from the time that the homework assignment is due.
+Questions regarding the grading of homework assignments through WileyPLUS that are submitted beyond one
+week from the time the homework assignments is due will not be answered.
+Having your homework assignments done by someone else is cheating, and any suspicious case will be forwarded
+to the Dean of Students.
+No make-up homework assignments will be offered for the missed homework assignments. If you miss the
+deadline for an online homework submission, then your grade for that homework assignment is zero.
+Important Student Tips for Using WileyPLUS
+https://hub.wiley.com/community/support/wileyplus-v4
+Technical support line: 1-877-586-0192
+                                                                                                                      6
+
+
+Unannounced In-class Quizzes
+In order to encourage class attendance and regular studying of the material, you will be tested on the material
+through in-class quizzes. The dates of in-class quizzes will not be announced in advance. Different class sections
+may be given quizzes on different dates. The number of in-class quizzes will not be announced in advance. If you
+are absent when a quiz is given in class, then your grade for that quiz is zero. No make-up quizzes are offered for
+the missed quizzes. No excuse reports will be accepted for the missed quizzes. Your professor understands that
+students may occasionally have to miss a class. Therefore, at the end of the semester when calculating your point-
+total, your quizzes with the two lowest scores will be dropped ("allowed quiz drops"). A job interview or an
+internship interview or a doctor’s report does not constitute a valid excuse for missing a quiz; two allowed
+quiz drops should compensate for such circumstances. Your instructor or TAs do not respond to requests
+for an exception on this policy. The syllabus quiz will be considered as the first in-class quiz, and it is a requirement
+to have full points on the syllabus quiz.
+Given the possibility of an unannounced quiz on any class day, it is a requirement to bring a calculator to every
+class hour. You will not be allowed to use your computer or your cell phone as a calculator while taking quizzes.
+You are allowed to access the hard copy of your class slides and notes when taking the quizzes. Therefore, you
+should bring the class notes from the previous class sessions together with the class slides for the current session.
+Extra Credit & Late Work
+There are no extra credit opportunities in this class. Late work is not accepted without an approved excuse as verified
+by the professor.
+Teaching Assistants
+TAs have earned their positions; they are eager to help you. They will be attending my classes and you should be
+able to catch them before or after class. Content related questions on the homework assignments and other class
+material must be directed to them first. Feel free to drop by their office during the TA office hours that are listed
+at Canvas. They will have extended office hours during the exam weeks. Check the announcements at Canvas.
+TAs will not respond to your grading related questions. They are not authorized to decide whether you are eligible
+to take a make-up exam.
+Instructor’s Policy on Academic Integrity
+Business professionals have important legal and ethical duties to investors, creditors and to non-investor
+stakeholders who rely on their comments, analyses, forecasts and representations. Students in this course are
+expected to act with personal integrity at all times. Academic dishonesty is incompatible with preparation for a
+career as a responsible business professional. As such, academic dishonesty will not be tolerated in this course.
+Any offenders will be subject to appropriate sanctions and discipline, a process which begins with a referral to Dean
+of Students. For purposes of this course, the instructor will always seek a score of zero for any exam or assignment
+in which the student has engaged in academic dishonesty. Information about the University’s policy on academic
+integrity can be found on page 9.
+                                                                                                                       7
+
+
+Key Take-Aways
+This is a very demanding course. To succeed in this course you have to:
+         1) Read the chapters in the book. This is critical; there are a lot of concepts covered in this course that
+             you can only really grasp if you read the chapters of the book we cover. Just doing the homework is
+             not enough.
+         2) Work the recommended assignments listed at Canvas without referring to the solutions manual.
+         3) Keep up with the course. This is a comprehensive course, and the material builds upon itself. In
+             addition, much of the material is highly detailed. As a result, it is highly difficult to cram this material
+             at the end. You should expect to  study a minimum of 6 hours outside
+             of class per week to pass the course.
+         You are expected to exert a high level of effort for learning the material.
+                                       Get ready to be challenged.
+                                                                                                                       8
+
+
+                                                   University Policies
+Students with Disabilities
+Students with disabilities may request appropriate academic accommodations from the Division of Diversity and
+Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://diversity.utexas.edu/disability/.
+Diversity and Inclusion
+It is my intent that students from all diverse backgrounds and perspectives be well served by this course, that
+students’ learning needs be addressed and that the diversity that students bring to this class can be comfortably
+expressed and be viewed as a resource, strength and benefit to all students.
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in
+order to observe a religious holy day, you will be given an opportunity to complete the missed work within a
+reasonable time after the absence.
+Policy on Scholastic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The responsibilities of
+both students and faculty with regard to scholastic dishonesty are described in detail in the BBA Program’s
+Statement on Scholastic Dishonesty at http://my.mccombs.utexas.edu/BBA/Code-of-Ethics. By teaching this
+course, I have agreed to observe all faculty responsibilities described there. By enrolling in this class, you have
+agreed to observe all student responsibilities described there. If the application of the Statement on Scholastic
+Dishonesty to this class or its assignments is unclear in any way, it is your responsibility to ask me for
+clarification. Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University. Since dishonesty harms
+the individual, all students, the integrity of the University, and the value of our academic brand, policies on
+scholastic dishonesty will be strictly enforced. You should refer to the Student Conduct and Academic Integrity
+website at http://deanofstudents.utexas.edu/conduct/ to access the official University policies and procedures on
+scholastic dishonesty as well as further elaboration on what constitutes scholastic dishonesty.
+Campus Safety
+Please note the following key recommendations regarding emergency evacuation, provided by the Office of
+Campus Safety and Security. More info at: https://preparedness.utexas.edu/.
+      Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+         and assemble outside when a fire alarm is activated.
+      Familiarize yourself with all exit doors of each classroom and building you may occupy.
+      If you need evacuation assistance, inform the instructor in writing asap.
+      In the event of an evacuation, follow the instruction of faculty or class instructors.
+      Do not re-enter a building unless given instructions by Austin or UT police or fire authorities.
+Behavior Concerns Advice Line (BCAL): 512-232-5050 or on-line.
+In case of emergency, further information will be available at: http://www.utexas.edu/emergency.
+                                                                                                                     9
+
+
+                           ACC 326 Spring 2020 Tentative Schedule Updated on 1/14/2020*
+  Week         Class        Chapter in         Topic                                                                   Assignment &
+                Day         Textbook                                                                                   Homework
+     1          1/22        Chapter 1          Introduction to the course, the Syllabus,                               Read the syllabus; register
+                                               Financial Reporting Overview                                            for WileyPLUS; solve
+                                                                                                                       RQs** for Ch1
+     2          1/27        Chapter 2          Basic Assumptions & Principles of Financial Reporting Be ready for syllabus quiz;
+                1/29                           The Accounting Information System (Review)                              review accounting cycle
+                            Chapter 3                                                                                  (Ch3); solve RQs for Ch2
+     3           2/3        Chapter 3          The Accounting Information System (Review)                              WPH1*** due 2/4; review
+                 2/5        Chapter 4          Income Statement                                                        accounting cycle
+                                                                                                                       (Ch3); solve RQs for Ch3;
+                                                                                                                       check Canvas for your team
+                                                                                                                       assignment & meet with
+                                                                                                                       your team
+     4          2/10        Chapter 4          Income Statement                                                        WPH2 due 2/11; solve RQs
+                2/12                                                                                                   for Ch4
+     5          2/17        Chapter 5          Statement of Cash Flows                                                 Review balance sheet
+                2/19                                                                                                   (Ch5); WPH3 due 2/18;
+     6          2/24        Chapter 5          Statement of Cash Flows                                                 WPH4 due 2/25; solve RQs
+                2/26                                                                                                   for Ch5; submit the
+                                                                                                                       company selection for team
+                                                                                                                       project
+     7           3/2        Chapter 19         Income taxes                                                            WPH5 due 3/3; solve RQs
+                 3/4                                                                                                   for Ch19
+     8           3/9        Exam 1 will be held from 7:00pm – 8:30pm in UTC 2.102A. No class on exam day.
+     8          3/11        Chapter 14         Long-Term Debt                                                          WPH6 due 3/17
+     9          3/23        Chapter 14         Long-Term Debt                                                          Solve RQs for Ch14
+                3/25
+    10          3/30        Chapter 15         Stockholders’ Equity                                                    WPH7 due 3/31; solve RQs
+                 4/1                                                                                                   for Ch15
+    11           4/6        Chapter 16         Stock-based Compensation, Dilutive Securities and                       WPH8 due 4/7; solve RQs
+                 4/8                           Earnings Per Share (EPS)                                                for Ch16
+    12          4/13        Exam 2 will be held from 7:00pm – 8:30pm in UTC 2.102A. No class on exam day.
+    12          4/15        Chapter 21         Leases                                                                  Submit the team project
+                                                                                                                       paper, presentation material,
+                                                                                                                       and peer evaluation form --
+                                                                                                                       due 4/19
+    13          4/20        Chapter 17         Intercompany Investments, Consolidations, and                           WPH9 due 4/21; solve RQs
+                4/22                           Derivatives                                                             for Ch21
+    14          4/27        Student presentations of financial statement analysis project (the order                   WPH10 due 4/28; solve
+                            of presentations is to TBD on 4/27)                                                        RQs for Ch17
+    14          4/29        Student presentations of financial statement analysis project
+    15           5/4        Catch up and review
+    15           5/5        Exam 3 will be held from 5:00pm – 7:00pm in UTC 2.102A. No class on exam day.
+* Descriptions and timelines (including assignment due dates and exam dates) contained in this syllabus are subject to change at the discretion of the
+Professor. Any change will be announced at the course homepage at Canvas. ** RQs: Recommended questions for each chapter are listed at Canvas
+course page. ***WPH: WileyPLUS homework assignment.
+                                                                                                                                                      10

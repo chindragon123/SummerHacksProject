@@ -1,0 +1,293 @@
+Michael Baker            michael.baker@austin.utexas.edu       Office: DFA 4.112 Wednesday 11a-12p  Fall 2018
+AET 339 GAME ART PIPELINE
+ UID​: 20980                                              TA: Larkin Williams-Capone
+ Meetings​: T/R 11:00a - 12:30p
+ Location​: DFA 4.106
+Abstract
+        A introduction to creating and working with game ready assets in 2D and 3D. Students will learn
+        how to manage poly counts, create LODs, retopologize models, modify existing assets, export
+        content from 2D and 3D authoring tools, create efficient UVs, work with realtime shaders,
+        manage textures, work with audio, and test assets in a game engine.
+Objective
+        Learn the fundamentals of authoring and integrating game ready assets.
+Assessment
+        This course is project based. There will be no exams. Grading is based on successful completion
+        of project objectives. Assignments are equally weighted toward 90% of the final class grade. The
+        remaining 10% of the final grade is based on professionalism which is earned by attending class
+        during the scheduled meeting times and conducting oneself in a professional manner.
+        No late work will be accepted. No incompletes will be given. If you feel you will not be able to
+        complete all work on time, you should ask the instructor for a grade of Q or drop before the
+        deadline for doing so passes.
+        Note: If you catch the flu, get a flat tire, or otherwise cannot attend class, please send an
+        email and attach any class work as needed.
+        Final grades will be determined on the basis of the following rubric. Please note: to ensure
+        fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B-
+        will be inclusive of all scores of 80.000 through 83.999. The University does not recognize the
+        grade of A+.
+        Letter grade equivalents:
+         A = 94-100                           C+ = 77-79                         D+ = 67-69
+         A- = 90-93                           C = 74-76                          D = 64-66
+         B+ = 87-89                           C- = 70-73                         D- = 60-63
+         B = 84-86                                                               F = 0-60
+         B- = 80-83
+Classroom Policy
+        Devices
+             ● Must be kept in silent mode unless an emergency notification is expected (please discuss
+                 this with me prior to class).
+             ● Can be used for research and class note taking, but not for social media (unless related to
+                 class activities)
+                                                                                                            1
+
+
+        Food/Drink
+             ●    Food is not allowed in class.
+             ●    Drinks in closed containers are permitted but must be kept on the floor or out of sight
+                  when not in use.
+Required Equipment
+        All students MUST have access to a portable computer capable of running a game engine such
+        as Unity or Unreal. Either Mac or PC is fine.
+Calendar
+Note – This is outline, assignments, and reading are subject to change by the instructor, without
+notification in certain cases.
+ Week      Class Meetings                                                                      Project
+ 1                                                                                             Project 1
+ 8/30      Course Intro
+           Lecture - ​Ideation​, ​mood boards
+           HW​: Research/Ideation/Mood boards
+ 2         Demo - Research/Ideation/Comps
+ 9/4       HW​: Comps
+           LAB
+           HW​: Comp Revisions
+ 3         Lecture - 2D graphics: bitmaps, vector, color channels, blend modes, color modes,
+ 9/11      gamma v linear.
+           HW​: Comp Revisions
+           Demo - integration, sprites, particle FX, postFX
+           LAB
+           HW​: Integration first pass
+ 4         Demo - Audio waveforms, sample rate, bit depth, filters, sessions, levels, looping,
+ 9/18      formats
+           HW​: Asset Revisions/Ambient audio
+           Demo - animated sprites
+           LAB
+           HW​: Integration second pass
+ 5         Demo - Recording video, breakdown example
+ 9/25      HW​: Revisions
+           LAB
+           HW​: Polish
+ 6         Demo/LAB as needed
+ 10/2      HW​: Publish
+           LAB
+           PROJECT 1 DUE
+ 7         Project 1 postmortem/discussion.                                                    Project 2
+ 10/9      Intro to Project 2
+                                                                                                          2
+
+
+      HW:​ Research/Ideation/Mood boards
+      Demo - Block in, mini-landscape modeling demo, landscape integration
+      LAB
+      HW:​ Comps/Block-ins
+8     Lecture - 3D surfaces (nurbs, subd, poly (mesh)), constraints for games, anatomy of a
+10/16 polygon, verts, faces, normals, UVs, colors. Modeling tools: Maya, Blender, Zbrush,
+      Mudbox, Magica Voxel, assetforge.io, ProBuilder, UV Layout.
+      Demo - Traditional modeling tricks
+      HW:​ Hard surface model first pass
+      Demo - UV projections, unwrapping, texels, checker test.
+      HW:​ Finalize Hard surface model/UV first pass
+9     Lecture - Surfacing: materials, lit, unlit, blend modes, textures (color, diffuse, albedo,
+10/23 metal, specular, rough, gloss, normal, bump, height, emission, detail), shaders.
+      Surfacing tools: Photoshop, Substance, Surforge.
+      LAB
+      HW​: Revisions/Finalize UVs
+      Demo - Substance Painter
+      LAB
+      HW:​ Revisions/Surfacing first pass
+10    Lecture - Lighting models, Blinn Phong, PBR, light types - point, directional, spot,
+10/30 area, realtime vs baked.
+      Demo - indoor, outdoor, baking, shadows.
+      HW: ​Finalize surfacing
+      Demo - integration, scale, materials, textures, lighting
+      LAB
+      HW:​ Revisions/Integration
+11    Demo - sculpting, retop
+11/6  HW​: Organic model first pass
+      Demo - retop/UV unwrapping review
+      LAB
+      HW:​ Finalize organic model/retop/UVs
+12    Demo - simple rigging and animation for mechanical and organic shapes, integration
+11/13 HW:​ Rig and animate a model/integration
+      Demo - particles review, alt examples
+      HW:​ Iterate
+13    LAB
+11/20
+      Thanksgiving (No Class)
+14    Demo - props and crumbs
+11/27 HW:​ Iterate
+      Demo - postFX review
+      HW:​ Iterate
+15    Demo as needed
+12/4  LAB
+      HW:​ Polish
+                                                                                                 3
+
+
+          LAB
+          HW:​ Publish
+ 16       FINAL DUE!!!!!
+ 12/10
+Units of Study
+    1. Working with media
+            ○ Overview of the various media types used in game production including: 2D, 3D, audio,
+                animation, materials, textures.
+            ○ Detailed information about media structure and formats.
+    2. Authoring game-ready assets
+            ○ Demos of 2D and 3D asset creation and preparation for game use.
+    3. Integration
+            ○ Importing and integrating game assets into a project.
+            ○ Scene composition, camera setup, lighting, FX, post FX
+Project 1: 2D scene
+       Create a layered 2D scene composition based on a theme/story of your choice (No memes, fan
+       art, or replications of existing games/media). The scene should represent an important spawn
+       point which communicates a strong sense of place and establishes context for beginning a level
+       or segment.
+       You may create original assets and/or work with asset kits. Your choice will affect the final
+       deliverables thusly:
+            ●   All original work: 1 scene
+            ●   Original work + asset kits: 2 unique scenes
+            ●   No original work (all asset kits): 3 unique scenes
+       References​:
+            ●   Rules of Composition
+            ●   Environmental Storytelling
+            ●   Scene Depth and Layers
+            ●   Ori and the Blind Forest
+       Requirements​:
+            ●   POV: 2D Platformer/Side Scroller in horizontal HD 1080. Fixed camera!
+            ●   Authored in a game engine (Unity or Unreal)
+            ●   5 layers minimum (background, midground, foreground, plus intermediate layers)
+            ●   One (1) particle effect - smoke, fog, fire, sparks, rain, snow, insects, birds, etc.
+            ●   One (1) animated object - grass, tree, vegetation, machine, signage, etc.
+            ●   Looping ambient audio
+            ●   Post processing
+            ●   30 second HD1080 video
+            ●   High res final images
+            ●   Full breakdown including:
+                    ○ 3D isometric view of layers (​example​)
+                    ○ Scene build-up: layers, FX, post FX
+                                                                                                      4
+
+
+         ●   Project images/video posted to ArtStation AND submitted through Canvas.
+     Process​:
+         ●   Research/Ideation
+         ●   Comps (Photoshop or similar)
+         ●   Revisions
+         ●   Integration
+         ●   Revisions
+         ●   Iteration
+         ●   Polish
+         ●   Publish
+Project 2: 3D diorama
+     Create a 3D diorama scene based on a theme/story of your choice (No memes, fan art, or
+     replications of existing games/media). The scene should represent an important spawn point
+     which communicates a strong sense of place and establishes context for beginning a level or
+     segment.
+     You may create original assets and/or work with asset kits. Your choice will affect the final
+     deliverables thusly:
+         ●   All original work: 1 scene
+         ●   Original work + asset kits: 2 unique scenes
+         ●   No original work (all asset kits): 3 unique scenes
+     References​:
+         ●   Rules of Composition
+         ●   Environmental Storytelling
+         ●   Dioramas
+     Requirements​:
+         ●   POV: 3D birdseye/turntable view in horizontal 16:9 layout.
+         ●   Authored in a game engine (Unity or Unreal)
+         ●   One (1) landscape/natural surface (hillside, shoreline, meadow, clearing, etc.)
+                 ○ Single low distortion UV, full PBR map set, appropriate poly count
+         ●   One (1) or more organic model(s) (tree, rock, plant, etc.)
+                 ○ Single low distortion UV, full PBR map set, appropriate poly count, baked normals
+                      from sculpt.
+         ●   One (1) or more hard surface model(s) (vehicle, building, machine, etc.)
+                 ○ Single low distortion UV, full PBR map set, appropriate poly count, baked normals
+                      from high poly.
+         ●   One (1) prop kit (min 3 props)
+                 ○ Atlased low distortion UV, full PBR map set, appropriate poly count
+         ●   One (1) particle effect - smoke, fog, fire, sparks, rain, snow, insects, birds, etc.
+         ●   One (1) animated object - grass, tree, vegetation, machine, signage, etc.
+         ●   One (1) emissive surface
+         ●   Detail “crumbs”
+         ●   Looping ambient audio
+         ●   Post processing
+         ●   30 second HD1080 turntable video
+         ●   High res final images
+         ●   Full breakdown including:
+                                                                                                    5
+
+
+          ○   3 Images of final result from different angles.
+          ○   Scene build-up: block-in, ground, primary elements, secondary elements, crumbs,
+              FX, post FX
+   ●  Project images/video posted to ArtStation AND submitted through Canvas.
+Process​:
+   ●  Research/Ideation
+   ●  Block-in
+   ●  Asset creation
+          ○ modeling
+          ○ UVs
+          ○ surfacing
+   ●  Integration
+   ●  Lighting
+   ●  Revisions
+   ●  Iteration
+   ●  Polish
+   ●  Publish
+                                                                                             6
+
+
+Class Attendance Policy
+As detailed above, attending class during the scheduled meeting times earns professionalism credit.
+Credit is NOT earned for arriving late, leaving early, or failing to attend class meetings. If attending a
+scheduled class meeting is not possible, students are expected to promptly notify the instructor of
+extenuating circumstances.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six
+(6). As stated in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of higher
+education may not permit an undergraduate student a total of more than six dropped courses, including
+any course a transfer student has dropped at another institution of higher education, unless the student
+shows good cause for dropping more than that number.”
+University Attendance Policy: Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date
+of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a
+project in order to observe a religious holy day, I will give you an opportunity to complete the missed
+work within a reasonable time after the absence.
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact
+Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone).
+Faculty are not required to provide accommodations without an official accommodation letter from SSD.
+academic honesty University of Texas Honor Code The core values of The University of Texas at Austin
+are learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each member of
+the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice
+Line to discuss by phone your concerns about another individual’s behavior. This service is provided
+through a partnership among the Office of the Dean of Students, the Counseling and Mental Health
+Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police Department
+(UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a
+fire alarm is activated or an announcement is made. Please be aware of the following policies regarding
+evacuation: • Familiarize yourself with all exit doors of the classroom and the building. Remember that
+the nearest exit door may not be the one you used when you entered the building. • If you require
+assistance to evacuate, inform me in writing during the first week of class. • In the event of an
+evacuation, follow my instructions or those of class instructors. Do not re-enter a building unless you’re
+                                                                                                           7
+
+
+given instructions by the Austin Fire Department, the UT Austin Police Department, or the Fire Prevention
+Services office.
+NOTES
+Expanded terminology - integration into play test forms
+    - Was the core gameplay loop clear?
+                                                                                                        8

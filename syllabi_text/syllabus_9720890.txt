@@ -1,0 +1,467 @@
+                                                                                          Introduction to Taxation
+                                                                                        ACCT 355/ACCT 380K.11
+                                                                                     Uniques: 02530, 02535, 02540
+                                                                                                02720, 02725, 02730
+                                                                                                        FALL 2019
+Professor                          Dr. Lillian Mills
+Office Hours                       Mondays/Wednesdays 2-3 pm or by appointment, CBA 3.222
+Phone                              (512) 471-4607
+E-Mail                             lillian.mills@mccombs.utexas.edu
+Course Meets                       MW 930, 11, 1230 in UTC 4.102
+Course Web Page                    via Canvas http://canvas.utexas.edu
+Teaching Assistants:
+Ryan Hess            Ryan.Hess@mccombs.utexas.edu                       Fri 10-11                  CBA 5.334Y
+Anthony Welsch       Anthony.Welsch@mccombs.utexas.edu                  Thu 11-12                  CBA 5.334H
+Ulissa Calix         Ulissacalix@utexas.edu                             Tue 4-5                    CBA 4.304A
+Course Objectives
+ Gain an understanding of the theory and “language” of taxation.
+ Establish a broad understanding of the tax policy framework from which we can make informed decisions as
+    voters. Identify tax policy issues suggested by or underlying particular provisions of the tax law.
+ Show how taxation affects the economic decisions of multiple parties to a transaction. Build an appreciation
+    for the importance of tax considerations in financial transactions.
+ Teach sufficient detail about tax laws to provide a basic knowledge for all the students who are future
+    taxpayers and the subset of students who become tax advisors. Apply basic tax rules and regulations to
+    compute the taxable income and federal income tax liability for individual and corporate taxpayers.
+ Appreciate and explore the use of large data for identifying tax compliance and planning exceptions versus
+    norms.
+Required Materials
+     Principles of Taxation for Business and Investment Planning by Jones and Rhoades-Catanach. I will be
+         using the 2020 version with McGraw-Hill Connect. The bookstore is ordering the loose-leaf edition
+         w/Connect access as ISBN# 9781260696240. You can also purchase the Connect-only access, which
+         includes the full e-book, for $115 direct from McGraw-Hill. Those instructions will be on Canvas.
+Course Requirements and Grading
+Your grade in the course will be determined as follows:
+         Exam 1 in class October 2                                                  100
+         Exam 2 in class October 30                                                 100
+         Exam 3 in class December 2                                                 100
+         Final Exam                                                                 200
+         Tax return projects (partnership 20, individual 20, analytics 20)           60
+         McGraw-Hill Connect SmartBook (complete 10 out of 17 x 4 pts each)          40
+                 Total (standard)                                                   600
+         Help Dr. Mills with Research (may or may not be used this semester)         50
+                 Total (if research assignment used)                                650
+Note re Research: “What Starts Here Changes the World!” UT is a “Research 1” school. We create knowledge in
+addition to educating students. Some semesters I involve students in my research. If you want to see what sorts of
+things I work on, go to https://tinyurl.com/zwq2nj3
+
+
+Mills                                         Introduction to Taxation, Spring 2019                               page 2
+Grades are based on mastery of the material. We use plus/minus grading for all sections of the course. I expect to
+award a few B-‘s and C’s, many B’s, and some B+/A-/A’s with an overall course GPA around 3.3.
+I believe that this difficult material often requires repeat exposure to master, and life throws unexpected hurdles.
+Thus, I will evaluate your final course grade substituting your final exam percentage score (if better) for worse
+midterm scores. For example, if your midterms were 82%, 60% and 72%, and you scored an 80% on the final
+exam, I would evaluate your final grade based on 82%, 80% and 80% midterms and 80% final exam.
+Because I substitute the final exam for poor midterms, I offer no midterm makeup exams, except for mandatory
+UT excused absences (e.g. athletic events). Choose to come or not, as your adult schedule permits. Note that most
+students do not do better on the final exam than on their midterms. I recommend that you study hard and take all
+exams. Regrade requests for the midterm exams must be submitted to me in writing within 5 business days after
+exams are returned in class.
+By UT-Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project to
+observe a religious holiday, you will be given an opportunity to complete the missed work within a reasonable
+time after the absence.
+Description of Requirements
+The exams will be a combination of multiple-choice questions (which may be conceptual or numeric), short essay
+questions, and problems. The comprehensive final exam will be all multiple choice.
+One 4-inch x 6-inch notecard full of notes (two-sided front and back) will be allowed for each midterm exam, and
+one 8.5x11 sheet of notes (two-sided) for the final exam. Use of the card is optional and not required. I will ask
+you to hand in your notecard with your exam. I will provide any present value, depreciation tables, and tax rate
+information needed to solve the problems on the exam. You will not be allowed to use your book or any other
+notes during exams.
+An assignment is due for nearly every class—either an exam, a SmartBook assignment on Connect, or a project.
+       I have evaluated the Connect LearnSmart materials – they provide great “active learning” tools to engage
+          you with the reading material, to help you with conceptual and definitional material, and to increase
+          retention of the numerous small details in taxation. Your using these tools outside class will help us spend
+          more time in class reinforcing the framework to hang these details on, then on solving more difficult
+          problems together.
+       The syllabus lists one data analytics project and two tax return projects. I will test the assignment to deter
+          free-riding. I will assign groups that you will use the entire semester.
+       Finally, the attached schedule recommends end-of-chapter problems and prior exam questions. Solutions
+          will be posted on Canvas, but you should invest effort to work them independently – I adapt many exam
+          questions from the assigned homework, prior exams, and from the questions posed by Connect in the
+          LearnSmart exercises, so your effort will be rewarded.
+Class Participation
+Group sharing and problem-solving activity will be an integral component of your in-class experience, although I
+do not grade participation explicitly. You contribute to the class learning environment in the following ways:
+ helping classmates solve recommended out-of-class problems,
+ expressing your opinion in class discussions and volunteering answers to problems worked in class,
+ posting questions, solutions, or current events links and summaries to the class web site,
+ asking questions during class or posting questions to the class web site. I (and the rest of the class) appreciate
+      the student who says “slow down, I’m confused.”
+                                                                                                                      2
+
+
+Mills                                        Introduction to Taxation, Spring 2019                                page 3
+Students with Disabilities
+Upon request, the University of Texas at Austin provides appropriate academic accommodations for qualified
+students with disabilities. Students with disabilities may request appropriate academic accommodations from the
+Division of Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://www.utexas.edu/diversity/ddce/ssd/. Please notify me of any such needs within two weeks of the first
+exam.
+McCombs Classroom Professionalism Policy
+The highest professional standards are expected of all members of the McCombs community. Faculty are
+expected to be professional and prepared to deliver value for every class session. Students are expected to be
+professional in all respects.
+The Texas MPA classroom experience is enhanced when:
+ Students arrive on time.
+ Students display their name cards every day. I will call on students in a soft way to maximize
+      engagement.
+ Students minimize unscheduled personal breaks.
+ Students are fully prepared for each class.
+ Laptops and other wireless devices are used only for class engagement. Non-class use distracts you and
+      your classmates.
+ Hold overly specific questions until outside of class, and I expect that some of your questions will
+      require some research.
+ Provide constructive feedback; I consider all suggestions carefully
+ Students respect the views and opinions of their colleagues and participate in making sure all views are
+      included. See below – I continue to work against implicit bias and appreciate your help too!
+Research on classroom bias
+By instructors:
+Soraya Chemaly, Time, 12 February 2015
+“The impact of unconscious teacher bias is long understood and well-documented. This new research
+confirms decades of work done by Myra and David Sadker and Karen R. Zittleman. Through thousands of hours
+of classroom observations, the Sadkers and Zittleman identified specific ways in which implicit and stereotypical
+ideas about gender govern classroom dynamics. They, as others have, found that teachers spend up to two thirds
+of their time talking to male students; they also are more likely to interrupt girls but allow boys to talk over them.”
+Katherine Taylor, New York Times, 8 September 2013:
+“The country’s premier business training ground was trying to solve a seemingly intractable problem. Year after
+year, women who had arrived with the same test scores and grades as men fell behind. Attracting and retaining
+female professors was a losing battle; from 2006 to 2007, a third of the female junior faculty left.”
+By students:
+Economist, 23 January 2016
+“Teachers could also benefit from a bit more of the scrupulous attention paid on modern campuses to sexual
+equality. Earlier analysis by Ben Schmidt of Northeastern University showed the that language used to describe
+professors was heavily gender-dependent. Men were more likely than women to be described as ‘intelligent’ or
+‘funny’, but less likely to be described as ‘nice’ or ‘mean’.”
+Economist, 23 September 2017 – Business School experiment
+“…evaluations place female instructors an average of 37 slots below male ones. Students taught by women gave
+lower ratings even to teaching materials that were the same for all course instructors… [despite the fact that]
+female instructors added the same amount of value to students’ learnings as did male instructors.… the bias was
+particularly pronounced in the case of junior instructors.”
+                                                                                                                      3
+
+
+Mills                                        Introduction to Taxation, Spring 2019                               page 4
+Class Web Site and Student Privacy
+Password-protected class sites will be available for all accredited courses taught at The University. Syllabi,
+handouts, assignments and other resources are types of information that may be available within these sites. Site
+activities could include exchanging email, engaging in class discussions and chats, and exchanging files. In
+addition, class email rosters will be a component of the sites. Students who do not want their names included in
+these electronic class rosters must restrict their directory information in the Office of the Registrar, Main
+Building, Room 1. see: http://www.utexas.edu/student/registrar/catalogs/gi02-03/app/appc09/html.
+Privacy in Canvas: Information in Canvas is protected by your UTEID login. Please be aware that I will use a
+merged Canvas site for all sections of the course that I am teaching this semester. This will allow students in
+other sections to see that you are enrolled in the course and send you email from within Canvas. However, they
+will not actually learn your email address and no other personal data will be revealed through Canvas. If you
+have any concerns, please contact the ITS Help Desk at 475-9400 for help removing your name from view of
+other students.
+Academic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The responsibilities of both
+students and faculty with regard to scholastic dishonesty are described in detail in the BBA Program’s Statement
+on Scholastic Dishonesty at http://www.mccombs.utexas.edu/BBA/Code-of-Ethics.aspx. By teaching this course,
+I have agreed to observe all faculty responsibilities described in that document. By enrolling in this class, you
+have agreed to observe all student responsibilities described in that document. If the application of the Statement
+on Scholastic Dishonesty to this class or its assignments is unclear in any way, it is your responsibility to ask me
+for clarification. Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University. Since dishonesty
+harms the individual, all students, the integrity of the University, and the value of our academic brand, policies on
+scholastic dishonesty will be strictly enforced. You should refer to the Student Judicial Services website at
+http://deanofstudents.utexas.edu/sjs/ to access the official University policies and procedures on scholastic
+dishonesty as well as further elaboration on what constitutes scholastic dishonesty.
+I owe it to you to set rules that I can enforce, so that you don’t worry that dishonest classmates gain an advantage.
+Exams: Each student must complete the exams independently during the designated exam period. Do not refer to
+other students’ exam solutions or discuss the exam with other students during the exam period. Do not send text
+messages or access prohibited materials during the exam. Students who have taken an exam are prohibited from
+discussing the exam with students who have not yet taken the exam. To help deter cheating, there will be multiple
+versions of each exam.
+Electronic assignments/quizzes and tax return projects: On outside assignments, you may obtain outside help and
+work with others, including classmates, former students, finding copies of solutions, etc. Because I permit
+collaboration, I do not make outside work a large component of the grade.
+Campus Safety
+Please note the following recommendations regarding emergency evacuation from the Office of Campus Safety
+and Security, 512-471-5767, http://www.utexas.edu/safety/:
+       Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+         when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+       Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that
+         the nearest exit door may not be the one you used when entering the building.
+       Students requiring assistance in evacuation should inform their instructor in writing during the first week
+         of class. In the event of an evacuation, follow the instruction of faculty or class instructors.
+       Do not re-enter a building unless given instructions by the following: Austin Fire Department, The
+         University of Texas at Austin Police Department, or Fire Prevention Services office.
+       Further information regarding emergency evacuation routes and emergency procedures can be found at:
+         www.utexas.edu/emergency.
+                                                                                                                     4
+
+
+Mills                                    Introduction to Taxation, Spring 2019                          page 5
+CAVEAT: This syllabus includes policies and plans for the course that may require adjustment as the
+course progresses. The instructor reserves the right to make changes at any time during the semester with
+notice to the class.
+Reminder: All LearnSmart/Connect assignments are due by 10:00 am on the day assigned.
+August 28                          Introduction: Types of taxes
+        Learning Objectives        Course overview
+                                   What types of taxes exist and what jurisdictions use them?
+        Book                       Chapter 1, Taxes and Taxing Jurisdictions
+        Recommended                CH1: QPD: 5, 7, 13; AP: 2, 4, 5, 8, 14; IRP 3, 6; RP 2; TPC2
+        For your interest          Tax flights. Working paper & news article.
+                                   http://tax.unc.edu/wp-content/uploads/2018/04/Tax-Flights.pdf
+                                   https://www.kshb.com/news/local-news/investigations/investigation-
+                                   finds-dozens-of-plane-owners-not-paying-taxes-costing-local-
+                                   governments-big-bucks-may2011swp
+                                   Browse the abstract and introduction for big picture ideas. Don’t get
+                                   hung up on the data or analysis. What makes taxing aircraft
+                                   problematic? How else could one structure the tax to fix the problems?
+September 4                        Tax policy issues, NPV review
+        Learning Objectives        What are standards for a good tax system?
+                                   What influences tax policy?
+                                   Review intuition behind and calculation of NPV, FV
+        Book                       Chapter 2, Policy Standards for a Good Tax and Chapter 3, Taxes as
+                                   Transaction Costs
+        Assignment                 Chapters 1 and 2 complete LearnSmart on Connect
+        Recommended                CH2: QPD: 3, 10, 11; AP: 3, 4, 7, 9, 10; RP: 1, 3
+        For your interest          Why the Trump tax cuts are terrible/awesome. Freakonomics podcast.
+                                   http://freakonomics.com/podcast/awesome-terrible-tax-cuts-part-1/
+                                   http://freakonomics.com/podcast/terrible-awesome-tax-cuts-part-2/
+                                   How does the AJCA measure up based on these criteria?
+September 9                         Tax Planning
+        Learning Objectives        Transaction cost perspective
+                                   Fundamentals of tax planning
+        Book                       Chapter 3, Taxes as Transaction Costs, and Chapter 4, Maxims of Income
+                                   Tax Planning
+        Assignment                 Chapter 3 and 4 complete LearnSmart on Connect
+        Recommended                CH3: QPD: 5; AP 3, 6, 7, 11, 16; IR: 8, TPC 1
+                                   CH4: QPD 1, 8, 12; AP2, 4, 19; IR 1, 3; RP 1; TPC 1
+        For your interest          When tax tail wags the investment dog, it’s time to rethink.
+                                   https://www.theglobeandmail.com/globe-investor/when-tax-tail-wags-
+                                   the-investment-dog-its-time-to-refocus/article23049889/
+September 11                       Taxable Income from Business Operations
+        Learning Objectives        Apply the cash method to measure taxable income
+                                   Apply the accrual method to measure taxable income
+        Book                       Chapter 6, Taxable Income from Business Operations
+        Assignment                 Chapter 6 complete LearnSmart on Connect
+        Recommended                CH6: QPD 1, 3, 6, 12; AP 1, 5, 8, 10, 13, 15, 28, 32, 33; TPC 2
+        For your interest          Mihir Desai’s Congressional testimony on dual reporting.
+                                                                                                            5
+
+
+Mills                           Introduction to Taxation, Spring 2019                            page 6
+                          https://www.hsgac.senate.gov/imo/media/doc/STMTDesaiHarvardBusine
+                          ss0.pdf
+                          (Note: Arguments in this testimony are focused on stock options, but
+                          think about the broader arguments about having a dual reporting system
+                          versus a single reporting system.)
+September 16              Taxable Income from Business Operations
+      Learning Objectives Understand choices for taxable year and accounting methods
+                          Understand what types of inflows are considered taxable
+                          Understand what types of outflows are considered deductible
+                          Understand present value effects of NOLs
+      Book                Chapter 6, Taxable Income from Business Operations
+      Assignment          Optional Chapter 5 LearnSmart on Connect
+September 18              Property Acquisitions
+      Learning Objectives Decide if expenditures should be expensed or capitalized
+                          Understand how cost recovery reduces tax
+                          Explain how leverage can reduce the after-tax cost of assets
+                          Property classifications: planning with cost segregation
+                          Understand the MACRS framework
+      Book                Chapter 7, Property Acquisitions and Cost Recovery Deductions
+      Assignment          Chapter 7 complete LearnSmart on Connect
+      For your interest   Taxes and Asset Prices: The Case of Thoroughbreds.
+                          See Keys (2008) saved in the literature folder on Canvas
+                          Do you think tax depreciation will affect all asset prices? If so, why? If
+                          not, what makes this setting unique?
+September 23              Property Acquisitions
+      Learning Objectives Understand the MACRS framework
+                          Section 179 expense, bonus depreciation
+                          Incorporate depreciation into NPV computations
+                          Cost recovery of intangibles and natural resources
+      DUE DATE            Data analytics group project on multi-state forecasting (if I use this
+                          project rather than the corporate risk of noncompliance project in the
+                          second 1/3 of course). 20 points.
+      Book                Chapter 7, Property Acquisitions and Cost Recovery Deductions
+      Recommended         CH7: QPD 3, 5, 10; AP 2, 4, 6, 7, 10, 18, 26, 33, 36
+September 25              Property Dispositions
+      Learning Objectives Distinguish between gain or loss realization and recognition
+                          Apply the installment method of accounting
+                          Identify capital gains and losses
+                          Identify and plan for Section 1231 assets
+                          Nonrecognition for related party losses and wash sales
+      Book                Chapter 8, Property Dispositions
+      Assignment          Chapter 8 complete LearnSmart on Connect
+September 30              Property Dispositions
+      Learning Objectives Recapture of prior depreciation and prior year 1231 losses
+                          Netting and capital loss limitations
+      Book                Chapter 8, Property Dispositions
+      Recommended         CH8: QPD 4, 10, 11; AP 2, 6, 7, 9, 14, 20, 21, 26, 32, 44; TPC 1
+                                                                                                     6
+
+
+Mills                            Introduction to Taxation, Spring 2019                          page 7
+October 2                 Midterm Exam #1 in Class (100 pts)
+                          This exam will cover Chapters 1-4 & 6-8 and topics discussed in class.
+October 7                 Nontaxable exchanges
+      Learning Objectives Generic framework for nonrecognition and basis substitution
+                          Exceptions for receipt of nonqualified property
+      Book                Chapter 9, Nontaxable Exchanges
+      Assignment          Chapter 9 complete LearnSmart on Connect
+      For your interest   Federation of Exchange Accommodators homepage.
+                          https://www.1031.org/ How does one actually go about doing a 1031
+                          transaction? See what you find.
+                          Example of 1031 facilitator: http://www.1031exchangecorp.com/
+October 9                 Nontaxable exchanges
+      Learning Objectives Like kind exchanges, casualties, corporate and partnership formation
+                          Limit losses under the wash sales provisions
+      Book                Chapter 9, Nontaxable Exchanges
+      Recommended         CH9: QPD 2, 9, 10; AP 1, 5, 12, 20, 29; CP 1
+      For your interest   A Primer on Wash Sales (Charles Schwab)
+                          https://www.schwab.com/resource-center/insights/content/a-primer-on-
+                          wash-sales
+                          See how investment brokers describe wash sales to the investing public.
+October 14                Sole Proprietorships, Partnerships
+      Learning Objectives Understanding the nature of flow-through entities generally
+                          Reporting requirements for sole proprietorships
+                          Computing payroll and self-employment taxes
+                          Differentiating between share of partnership income and cash flows
+                          Section 199A deduction
+      Book                Chapter 10, Sole Proprietorships, Partnerships, LLCs, and S Corporations
+      Assignment          Chapter 10 complete LearnSmart on Connect
+October 16                Partnerships, LLCs and S Corporations
+      Learning Objectives Basic rules for basis computation
+                          Limitations on losses arising from at-risk basis
+                          Determining eligibility for S Corporation status
+                          Contrasting partnership, LLC and S Corporations
+      DUE DATE            Turn in Project 1 (Partnership); take Project 1 quiz. 20 points total.
+      Book                Chapter 10, Sole Proprietorships, Partnerships, LLCs, and S Corporations
+      Recommended         CH10: AP 1, 4, 6, 13, 15, 18, 21, 30; TPC 4
+      For your interest   The Tax Gap
+                          https://www.irs.gov/newsroom/the-tax-gap
+                          https://www.irs.gov/pub/newsroom/tax%20gap%20estimates%20for%20
+                          2008%20through%202010.pdf
+                          What is the “Tax Gap?” How much of it comes from Schedule C income
+                          (i.e., individual business income) and self-employment tax?
+October 21                Corporations
+      Learning Objectives Basic rules for taxing corporations
+                          Comparing partnership and corporation investments
+                          Reconciling book-tax differences: Schedules M-1 and M-3
+                                                                                                    7
+
+
+Mills                            Introduction to Taxation, Spring 2019                              page 8
+      Book                Chapter 11, The Corporate Taxpayer
+      Assignment          Chapter 11 complete LearnSmart on Connect
+      Recommended         CH11: QPD 7, 8, 9, 10; AP 1, 2, 5, 9, 12, 14, 20, 22, 24, 27
+      For your interest   Book-Tax Differences and Internal Revenue Service Adjustments
+                          See Mills (1998) saved in the literature folder on Canvas
+                          How are reconciliations of book and taxable income useful to the IRS?
+October 23                The Corporate Taxpayer
+      Learning Objectives Alternative Minimum Tax credit carryforwards
+                          Taxation of corporate distributions
+                          Interest expense limitation (30%)
+                          Credits that reduce tax
+                          Brief discussion of partnership versus corporate tradeoffs (Ch 12).
+      Book                Chapter 11, The Corporate Taxpayer, Chapter 12, Choice of Business Entity
+      Assignment          Chapter 12 complete LearnSmart on Connect
+October 28                Multistate apportionment; Overview international tax concepts
+      Learning Objectives Overview of how to split income across jurisdictions and solutions to double
+                          taxation.
+      DUE DATE            Data analytics group project on corporations (if I use this rather than
+                          the Multistate analytics project in the first 1/3 of course). 20 points.
+      Book                Chapter 13, Jurisdictional Issues in Business Taxation
+      Assignment          Chapter 13 complete LearnSmart on Connect
+      Recommended         CH13: AP8, AP16
+      Alternative         It is possible I will need to use this day for more work on chapters 9-12 pre-
+                          exam, then we will do a little international the last day of class.
+      For your interest   South Dakota v. Wayfair—The Supreme Court ruled on this tax case in
+                          October 2017.
+                          https://www.supremecourt.gov/opinions/17pdf/17-494_j4el.pdf
+                          https://www.wsj.com/articles/us-supreme-court-rules-states-can-require-
+                          online-merchants-to-collect-sales-taxes-1529591376
+                          A link to the actual Supreme Court decision on a case that changed 30
+                          years of tax law. Also, a WSJ article that summarizes the former.
+                          Multinational Tax Incentives and Offshored U.S. Jobs
+                          See Williams (2018) in the literature folder on Canvas
+                          When are taxes relevant to offshoring? When are they not? Why?
+October 30                Midterm Exam #2 in Class (100 pts)
+                          This exam will cover Chapters 9-13 and topics discussed in class.
+November 4                The Individual Tax Formula
+      Learning Objectives Review structure of individual taxation:
+                          Filing status, income, deductions
+      Book                Chapter 14, The Individual Tax Formula
+      Assignment          Chapter 14 complete LearnSmart on Connect
+      Recommended         CH14: AP 2, 3, 4, 10, 13, 16, 22, 28, 32
+                                                                                                         8
+
+
+Mills                            Introduction to Taxation, Spring 2019                             page 9
+Nov 6                      Tax Consequences of Personal Activities
+       Learning Objectives Individual deductions, credits
+                           Understanding income exceptions for individual taxation
+       Book                Chapter 17, Tax Consequences of Personal Activities
+       Assignment          Chapter 17 complete LearnSmart on Connect
+Nov 11                     Tax Consequences of Personal Activities
+       Learning Objectives Understanding deductions unique to individual taxation
+       Book                Chapter 17, Tax Consequences of Personal Activities
+       Recommended         CH17: AP 1, 6, 9, 11, 15, 18, 22, 29
+       For your interest   Education benefits: https://www.irs.gov/newsroom/tax-benefits-for-
+                           education-information-center
+Nov 13                     Compensation
+       Learning Objectives Distinguishing employees from contractors
+                           Executive compensation limits and reasonable compensation
+                           Identify common fringe benefits
+                           Compare benefits of nonqualified versus qualified plans
+                           Distinguish between defined benefit plans and various defined contribution
+                           plans
+       Book                Chapter 15, Compensation and Retirement Planning
+       Assignment          Chapter 15 complete LearnSmart on Connect
+       Recommended         CH15: QPD 2, 5; AP 1, 3, 4, 6, 8, 11, 14, 18, 22, 23, 24, 25, 28
+Nov 18                     Retirement Planning and Stock Compensation
+       Learning Objectives Understanding the use of deferred compensation
+                           Planning for retirement and college savings
+                           Describe the tax consequences of stock options
+       Book                Chapter 15, Compensation and Retirement Planning
+       Assignment          Chapter 16 complete LearnSmart on Connect (reading ahead)
+       For your interest   Retirement income calculator.
+                           https://retirementplans.vanguard.com/VGApp/pe/pubeducation/calculator
+                           s/RetirementIncomeCalc.jsf
+                           Play around with a retirement income calculator. Pay particular
+                           attention to the value of starting to save early in life.
+Nov 20                     Investment and Personal Financial Planning
+       Learning Objectives Understanding different ways financial instruments are taxed:
+                           Interest, dividends, insurance, annuities
+                           Computing tax on capital gains and losses
+                           Changing tax policy for capital income
+       Book                Chapter 16, Investment and Personal Financial Planning
+       Recommended         CH16: AP 3, 5, 12, 19, 22, 33, 36, 41; TPC 2, 5
+Nov 25                     Investment and Personal Financial Planning
+       Learning Objectives Planning for passive investments
+                           Combining at-risk basis and passive loss limits
+                           Taxation of rental real estate, partial personal use of rental property
+                           Estate and gift taxation
+       Book                Chapter 16, Investment and Personal Financial Planning
+       DUE DATE            Individual Project Forms and Quiz (20 pts)
+                                                                                                       9
+
+
+Mills                                      Introduction to Taxation, Spring 2019                              page 10
+Nov 27                               HOLIDAY (Weds before Thanksgiving)
+Dec 2                                Midterm Exam #3 in Class (100 pts)
+                                     This exam will cover Chapters 14-17 and topics discussed in class.
+Dec 4 and 6                          Accounting for Income Taxes
+       Learning Objectives           Understand conceptual difference between book and taxable income
+                                     Contrast tax policy versus GAAP concepts for income measurement
+                                     Apply specific rules to permanent and temporary differences.
+                                     Incorporate international tax concepts as time permits.
+       Book                          Re-read Chapter 6 and brief sections of other chapters that talk about book-
+                                     tax differences. Review Chapter 13.
+                                     I will provide slides and a company tax footnote.
+       For your interest             Search for a public company’s 10-K for another company that interests
+                                     you. https://www.sec.gov/edgar/searchedgar/companysearch.html
+                                     Find the tax footnote. What information about taxes do financial
+                                     statement users actually understand?
+December TBD                         Final Exam as Scheduled by the University, (200 points)
+FINAL EXAM mandatory & comprehensive. (200 points)
+       I will request a common final exam time for all sections. As soon as the university assigns this time, I
+       will let you all know. An alternative time will also be provided for those that conflicts with another
+       university scheduled final. Per university recommendations, please do not schedule any travel until finals
+       are all officially completed.
+                                                                                                                  10

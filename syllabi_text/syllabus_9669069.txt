@@ -1,0 +1,138 @@
+      Syllabus for M S328K (Unique # 86460) - Summer, 2019
+Instructor: Alex Macedo
+Office: RLM 13.140
+Email: amacedo@math.utexas.edu
+Class time and locations: MTWThF 10-11:30 in RLM 7.104
+Office Hours: MTTh 11:30-12:30
+Webpage: https://sites.google.com/site/alexmathteaching/teaching/m328k
+Course overview and objectives: This is a first course that emphasizes understanding and creating
+proofs; therefore, it must provide a transition from the problem-solving approach of calculus to the en-
+tirely rigorous approach of advanced courses such as M365C or M373K. The number of topics required
+for coverage has been kept modest so as to allow instructors adequate time to concentrate on developing
+the students theorem-proving skills. See tentative schedule below for the list of topics.
+Text: personal notes available for free on my webpage (for content and exercises). Other recommended
+(but not required) textbooks are:
+    • Number theory through inquiry, by D. Marshall, E. Odell and M. Starbird. This is a must-have if
+       you are serious about mathematical/critical thinking. It will guide you and help you develop the
+       theory by yourself, and, in my opinion, that’s the best way to truly learn math. Unfortunately, we
+       don’t have the time to follow its pace in the summer.
+    • Elementary number theory and its applications, by K. Rosen. This is the standard textbook adopted
+       by UT. It does not have any prerequisites, and it has a good selection of standard exercises.
+    • 250 problems in elementary number theory, by W. Sierpinski. As the name suggests, you only get
+       exercises, but wait for it... *drum roll*... they all come with solutions! This means you get to
+       check your answers, or get hints (if you can control yourself and not read the full answer), and,
+       most importantly, be exposed to mathematical writing (try to emulate this style). It’s a great
+       selection of problems, ranging from straightforward to research-level questions (those are marked
+       with an asterisk). I will let you know which ones I expect you to be able to do. Most problems on
+       our exams are going to be on the same style/level of those problems.
+    • A classical introduction to modern number theory, by K. Ireland and M. Rosen. First, this is not
+       the same Rosen as above. Also, you should know some number theory before you read it, so it
+       is not good as a standard textbook for an introductory course. Why am I mentioning it then?
+       Because I really like it and I love the selection of topics there, and this is a must have if you want
+       to continue studying number theory after this course.
+Prerequisites: M325K or M341 with a grade of at least C.
+                                                       1
+
+
+Letter grades: All grades will be recorded in Canvas. Attendance will not be taken and it will not be
+used in the computation of your grade, but I highly recommend attending classes to excel in this class.
+Partial numerical grades are not rounded. The final numerical average (whose computation is described
+in the next two sections) is rounded up and computed on a scale from 0 to 100, to one decimal place.
+Your final letter grade will be converted from your final numerical average using a scale not stricter than
+the following:
+                    A:   92.6 − 100                                       C:  72.6 − 76.5
+                  A− :   89.6 − 92.5                                     C− : 69.6 − 72.5
+                  B+ :   86.6 − 89.5                                     D+ : 66.6 − 69.5
+                    B:   82.6 − 86.5                                      D:  62.6 − 66.5
+                  B− :   79.6 − 82.5                                     D− : 59.6 − 62.5
+                  C+ :   76.6 − 79.5                                      F:  0 − 59.5
+Assignments and exams:
+   1. Homework: weekly. Homework always becomes available on Wednesday and it’s due 8 days later
+      on a Thursday (except for the first week of class, when it becomes available on Monday and it is
+      due 4 days later on Friday; it’s a very short set though). No late homework will be accepted. There
+      will be a total of 5 assigned homework sets. Your homework average (HA) will be the arithmetic
+      mean of your 4 highest homework grades.
+   2. Midterm: there will be one take-home midterm. It will become available on 07/31 and it will be
+      due one week later on 08/07. There is no makeup for the midterm. If I do not receive a hard copy
+      of your midterm by the deadline, your midterm grade (MG) will be 0.
+   3. Final: on 08/17. The final exam is cumulative and you should expect about 1/3 of it to be over
+      material covered after the midterm. You will have 3 hours (180 minutes) to finish the final. No
+      calculators or electronic devices will be allowed but you can bring one A4 sheet of notes. There
+      will be no makeup for the final. If you miss the final, your final exam grade (FG) will be 0.
+   4. Bonus points: at the end of some classes, I might give an extra problem that will be due the next
+      day. If you get them right, you will be rewarded with a bonus point that will be added to your
+      final grade. If you get them wrong or choose not to do them, you will not be penalized for it. It’s
+      your responsibility to copy the question during class or get it from a friend. I will not announce
+      the problems via email. The total number of bonus points will be denoted by (BP)
+Grade calculation: With the notation from the previous section, the default final numerical average
+(FNA) will be computed as follows:
+                              FNA = 0.2 (HA) + 0.3 (MG) + 0.5 (FG) + (BP).
+                                                       2
+
+
+    Academic Dishonesty: Academic dishonesty of any kind will not be tolerated, and is punished to
+the fullest extent allowed by university policy.
+    Students with Disabilities: Upon request, The University of Texas at Austin provides appropriate
+academic accommodations for qualified students with disabilities. For more information, contact the Of-
+fice of the Dean of Students at 512-471-6259, 512-471-4641 TTY. If you plan on using accommodations,
+please notify me early in the semester.
+    Mental Health Services: The Counseling and Mental Health Center is located on the fifth floor of
+the Student Services Building (SSB), with hours M-F 8AM-5PM, and may be reached at 512-471-3515
+(appointments) and 512-471-CALL (crisis line).
+    Religious Holidays: Per university policy, you must notify me of your pending absence at least
+fourteen days prior to the date of observance of a religious holiday. You will be given an opportunity to
+complete any missed work within a reasonable amount of time after the absence.
+    08/02: Last day an undergraduate student may change registration in a second-term class to or from
+the pass/fail basis or credit/no credit basis.
+    08/16: Last day to drop a second-term or whole session class.
+Proof writing tips:
+    • Please, avoid words such as “trivial”, “obvious”, “straightforward”, or expressions such as “it is
+       easy to see that...”. If it is easy to prove something, then it should be easy and it shouldn’t take
+       long for you to write the argument for it! Also, it helps me give you partial credit.
+    • Please, use proper grammar. The purpose of a proof is to convince the reader that a claim is true.
+       If the reader can’t understand your sentences, then they can’t be convinced! Ask a friend to read
+       your proofs, and see if they can understand your sentences.
+    • Please, make sure the reader knows your notation. You can’t talk about an object x if you don’t
+       tell the reader what x stands for! That’s why you see a lot of sentences such as “let x be (...)” in
+       mathematical writing.
+    • Please, try to use suggestive notation. If you have two sets X and Y , then it is a good idea to use
+       the letter x for elements of X and the letter y for elements of Y . Compare saying “let x ∈ X and
+       y ∈ Y ” with saying “let x1 ∈ X and x2 ∈ Y ”.
+    • When writing a proof, if you ask yourself “do I need to prove this?”, then you might have to prove
+       it, so maybe go ahead and prove it. Developing this “is this good enough”-meter is part of what
+       you will learn in this course and in other proof-based classes. In fact, even when you are writing
+       papers, you will face those questions, and that’s ok!
+                                                       3
+
+
+Tentative schedule: It may change (except for test days). A copy of this schedule will be posted on
+our class webpage and, should any change take place, it will be updated there.
+07/15: intro to Z (ring axioms and order axioms).
+07/16: proof practice; other important rings (Q, Z[x], Q[x], etc).
+07/17: well-ordering; induction.
+07/18. more induction practice.
+07/19: divisibility in Z; Z is a Euclidean domain.
+07/22: gcd function and its properties; intro to ideals.
+07/23: Z is a PID; Bézout’s theorem; Euclidean algorithm
+                                                         P
+07/24: Prime numbers and basic properties; the series       1/p diverges.
+07/25: Z is a UFD; (maybe: Z[x] is also a UFD but not a PID)
+07/26: intro to congruences: the ring Z/nZ.
+07/29: congruence appreciation day: divisibility criteria, showing equations have no solutions in Z.
+07/30: linear congruences; the group (Z/nZ)× ; Euler’s totient function.
+07/31: solving system of linear congruences; the Chinese Remainder Theorem.
+08/01: properties of the group (Z/pZ)× : Fermat’s little theorem and Wilson’s theorem.
+08/02: Euler’s theorem; pseudoprimes.
+08/05: order of an element in a group; (Z/pZ)× is a cyclic group
+08/06: primitive roots mod n: when is (Z/nZ)× cyclic?
+08/07: The midterm is due today; quadratic congruences and quadratic residues.
+08/08: the law of quadratic reciprocity.
+                                                                           √
+08/09: algebraic numbers and algebraic integers; the ring of integers of Q( d)
+08/12: arithmetic of Z[i].
+08/13: survey: factoring in general quadratic fields.
+08/14: survey: units in general quadratic fields; Pell’s equation.
+08/15: a metric approach: valuations and the field Qp of p-adic numbers.
+08/16: conclusion: wth is a “number” according to number theorists?
+Saturday, August 17th, 7:00 pm-10:00 pm.
+                                                    4

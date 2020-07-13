@@ -1,0 +1,198 @@
+INF 315C – Topics in Human Computer Interaction: User Research
+INF 315C – Topics in Human Computer Interaction: User Research
+Unique Number: 78304
+Semester: Summer, 2019
+Instructor: Amy Rothbaum, MSIS
+Office Hours: By appointment. amyrothbaum@utexas.edu
+Class Time and location: UTA 1.502, 7:00-9:00 pm
+Syllabus contents
+  Topic                                        Pages
+  Summary                                          1
+  Students with disabilities                       2
+  Schedule                                        3-4
+  Note that the majority of assignments
+  are due the day prior to class
+  Assignment descriptions                         4-5
+  Grading                                          6
+  Lateness                                         6
+  Academic dishonesty                              7
+Summary
+The course is designed to help students to get hands-on experience with investigating and
+analyzing how people use designed objects. There is a growing body of work about usability,
+but there is no substitute for asking people what they actually think, or watching what they
+actually do! In this class, we will study how to do so properly.
+I may change portions of this syllabus throughout the semester to adjust to student needs and
+my scheduling demands.
+Students will enact the following learning techniques:
+                                                                                              1
+
+
+INF 315C – Topics in Human Computer Interaction: User Research
+We will cover three main research methods: surveying, interviewing, and observation (usability
+testing). Students will read articles from industry sources. Students will also conduct sample
+research projects using the methods we cover, as well as present the data they gather, both by
+writing about those data and visualizing their results with charts and other techniques.
+Course prerequisites
+None
+Required Text
+Johnson, J. (2014). Designing with the mind in mind: Simple guide to understanding user
+interface design guidelines. Morgan Kaufmann; 2nd edition.
+Supplemental Readings will be available online via Canvas.
+Disabilities
+Any student with a documented disability (physical or cognitive) who requires academic
+accommodations should contact the Services for Students with Disabilities area of the Office of
+the Dean of Students at 471-6259 (voice) or 471-4641 (TTY for users who are deaf or hard of
+hearing) as soon as possible to request an official letter outlining authorized accommodations.
+                                                                                                2
+
+
+INF 315C – Topics in Human Computer Interaction: User Research
+Course Schedule
+Note: this course schedule is subject to change. Canvas will have the most up-to-date
+information about due dates.
+           Day
+            of
+   Date   Week             Topic                          Reading                   Assignment
+ June 10 Mon    Perception                Ch 1: Our perception is biased
+                                          Ch 2: Our vision is optimized to see
+ June 12 Wed Vision                       structure
+                                          Ch 3: We seek and use visual
+ June 17 Mon    Survey design             structure
+                                                                               Instrument 1: Survey
+ June 18                                                                       Questions due
+ June 19 Wed Survey design continued      Ch 4: Our color vision is limited
+                Survey creation &
+ June 24 Mon    distribution              Ch 5: Our peripheral vision is poor
+                Survey creation &
+ June 26 Wed distribution                 Ch 6: Reading is unnatural
+                                                                               Data report 1: Survey
+ June 30 Sun                                                                   report due
+                Data report presentations Ch 7: Our attention is limited; our  Peer review 1: due at
+   July 1 Mon   / Attention               memory is imperfect                  the end of class
+                                          Ch 8: Limits on attention shape our
+   July 3 Wed Interviewing                thought and action
+                                          Ch 9: Recognition is easy; recall is
+   July 8 Mon   Interviewing analysis     hard
+                                                                               Instrument 2:
+                                                                               Interview questions
+   July 9 Tue                                                                  due
+                                          Ch 10: Learning from experience and
+                                          performing learned actions are easy;
+                                          novel actions, problem solving, and
+  July 10 Wed Interviewing analysis       calculation are hard
+  July 15 Mon                             Ch 11: Many factors affect learning
+                                          Ch 12: Human decision making is
+  July 17 Wed                             rarely rational
+                                                                               Data report 2:
+  July 21 Sun                                                                  Interview report due
+                                          Ch 13: Our hand-eye coordination     Peer review 2: due at
+  July 22 Mon   Data report presentations follows laws                         the end of class
+  July 24 Wed Intro to Usability          Ch 14: We have time requirements
+  July 29 Mon   Usability continued       Readings distributed in-class
+                                                                                                     3
+
+
+INF 315C – Topics in Human Computer Interaction: User Research
+                                                                               Instrument 3: Usability
+                                          Develop usability test plan - due by test plan due the end
+  July 31 Wed Usability workshop          the end of class                     of class
+                NO CLASS: self-directed
+   Aug 5 Mon    usability testing.        None
+                NO CLASS: self-directed
+   Aug 7 Wed usability testing.
+                                                                               Data report 3:
+  Aug 11 Sun                                                                   Usability test due
+                                                                               Peer review 3 due at
+  Aug 12 Mon    Present final data report No readings                          the end of class
+  Aug 14 Wed Last day of class            No readings
+Assignments
+You will need to complete assigned readings at home, work on 3 sample research projects in
+two parts, respond to peers’ sample research, participate in class, and demonstrate knowledge
+of the readings.
+Participation and Knowledge of the readings part 1: 18 Daily Quizzes: 30%
+Throughout the semester, I will administer daily quizzes (1 on every day you have readings
+due). The quiz may be at the beginning, middle, or end of the class period. Each quiz will cover
+that day’s readings with 2-4 questions. If you miss the time during class when the quiz occurs,
+you missed it. This quiz is essentially your attendance check – are you in class and paying
+attention? Then you will do well for 30% of your course grade.
+Sample research projects part 1: 3x instruments of measurement 20%
+You will turn in an instrument of measurement in advance of conducting each sample research
+project so that you can iterate on it for your subsequent data-gathering and report. Each
+should:
+         •  Be submitted as one PDF document via Canvas to the appropriate assignment, on
+            time, with college-level writing, and be related to a complex system.
+         •  Include a citation and link to a scholarly paper from the approved list of resources
+            linked in the relevant assignment on Canvas.
+         •  Begin with a paragraph setting out the phenomena, interface, or problem you are
+            addressing following and expanding on that prior study. Do NOT just pull your RQs,
+            hypotheses, propositions, or questions out of thin air.
+         •  Include the instrument itself. (for example: the questionnaire, interview questions,
+            or experimental procedure.)
+                                                                                                     4
+
+
+INF 315C – Topics in Human Computer Interaction: User Research
+Sample research projects part 2: 3x data reporting 30%
+Next, you will carry out your research, with between 4 and 20 participants, depending on the
+method at hand (fewer for interviews, more for surveys). You will then provide me with a
+report, also in PDF format on Canvas, which includes:
+        •   An introductory paragraph setting out the phenomena, interface, or problem you
+            are addressing.
+        •   Between 2 and 5 visualizations of your analysis, depending on the assignment (e.g.
+            charts and graphs). 1-2 sentences explaining why each is important. You MAY
+            describe negative results (e.g.; “I didn’t prove my hypothesis.”) In fact,
+            acknowledging negative results is an important ethical consideration.
+        •   A concluding paragraph suggesting what this research means for designs related to
+            your topic (see: your own introduction.)
+        •   An appendix with all of the data you collected.
+        •   An appendix with a description of how and why you iterated on your original
+            instrument.
+        •   Citations to background work (e.g. the paper you cited in the first part of this
+            project).
+Sample research projects part 3: 3x peer responses: 20%
+You will each respond to one of your peers’ reports. In your response, you should summarize
+what the point of their research was, in your own words. Be sure to:
+        •   Suggest 1-2 future directions for the research area.
+        •   Ask the author 2-3 questions about their findings.
+You will be given time IN-CLASS to complete these peer reviews. This will not require effort
+outside of class time, but rather serves as an opportunity to discuss research techniques and
+reflect on your learnings with your classmates.
+                                                                                               5
+
+
+INF 315C – Topics in Human Computer Interaction: User Research
+Grading
+Your assignments will be graded based on college-level writing standards including Grammar
+and spelling, demonstrated clarity of thought, and structure in your writing. Your ability to
+follow the instructions given and your use of resources from class (including citations). The
+overall quality of your reports and responses.
+Title                      Repetitions          Total percent of final grade
+Quizzes                    18                   30%
+Instruments                3                    20%
+Reports                    3                    30%
+Peer responses             3                    20%
+I use plus and minus grades for the final grade. The conversion will be as follows:
+A        94 – 100 points
+A-       90 - 93.9
+B+       87 - 89.9
+B        84 - 86.9
+B-       80 - 83.9
+C+       77 - 79.9
+C        74 - 76.9
+C-       70 - 73.9
+D+       67 – 69.9
+D        64 - 66.9
+D-       60 - 63.9 (minimum for pass/fail students to pass)
+F        Below 60
+Late Assignments
+It is important to complete your work on time, both so you can stay on track and so you can
+work with your fellow students. You will be docked 10% each day for every day late for any
+assignment. Plan ahead.
+                                                                                              6
+
+
+INF 315C – Topics in Human Computer Interaction: User Research
+Academic dishonesty
+Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University.
+                                                                                                    7

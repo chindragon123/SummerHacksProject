@@ -1,0 +1,407 @@
+                                                                   ACC 386K.5
+                                                BEHAVIORAL RESEARCH IN ACCOUNTING
+                                                                     FALL 2019
+ Instructor:                    Brian White
+ Office:                        CBA 4M.232
+ Office Hours:                  By appointment, or just stop by
+ Phone:                         512-471-5619 (office), 217-778-7906 (cell)
+ Email:                         Brian.White@mccombs.utexas.edu
+ Course Web Page:               via Canvas (http://canvas.utexas.edu/)
+ Course Time and Location:      To be decided
+COURSE OBJECTIVES
+This seminar focuses on experimental research in financial accounting, managerial accounting and auditing. By
+the end of the course, you should be better able to answer the following questions:
+    •    What makes a good research question, at both a conceptual and operational level?
+    •    What does “validity” mean in research? How is it established?
+    •    What is the difference between a “main effect” and an “interaction”?
+    •    How does one decide whether a research question is important?
+    •    What are some key ethical issues in accounting research?
+    •    What accounting issues are currently being addressed using experimental methods?
+    •    What theories have accounting researchers drawn on to address these issues?
+    •    When is experimentation an appropriate method to address an accounting research question?
+    •    What can experimental design teach us about research using other methods?
+    •    How has experimental accounting research influenced accounting policy making and practice?
+    •    What are the greatest opportunities for future experimental research in accounting?
+COURSE REQUIREMENTS
+                                                                   Percentage of Total
+                         Component
+                                                                       Evaluation
+                         1. Pre-class summaries                             15%
+                         2. Participation in class                          25%
+                         3. Critique                                        10%
+                         4. Review                                          10%
+                         5. Research Proposal                               20%
+                         6. Final Exam                                      20%
+                         TOTAL                                             100%
+                                                                                                              1
+
+
+1. Pre-class summaries (15%)
+Please complete a pre-class summary for each research paper before class (do not prepare these for background
+papers or other readings. A summary has two parts: “Libby Boxes” and “Kinney Three Paragraphs.” A template is
+attached to the syllabus and also available for download on Canvas. Please use only the space provided (one
+single-sided page for each part).
+The purpose of these summaries is to help you identify the conceptual and operational research questions in
+each article, the importance of these questions, and how they are addressed. I have also asked you propose a
+possible extension that you can raise in class. Please note that you should work alone in preparing these pre-
+class summaries.
+I will use your summaries to guide our in-class discussion, so summaries should be submitted to me by 9am on
+class days.
+2. Participation in class (25%)
+This component includes both in-class presentations (“advocate” or “critic”) and your general participation in
+class.
+In-class presentations
+Beginning with Session 2, each session will include one or more background papers and several (usually three)
+research papers from the experimental literature in accounting. Although we will not cover the background
+papers in detail, please do read the background papers and bring any questions that you have about the
+background papers to class. For each research paper, one student will present the article as an advocate and
+one will present it as a critic.
+Advocate: The advocate should do more than just summarize the article, as we should all have read and
+summarized it beforehand. That said, the advocate should start by summarizing the Libby Boxes for the article.
+In addition, the advocate should highlight the study’s contribution and why that contribution is important. Take
+the authors’ position and make the best possible case for the paper’s contribution.
+Critic: The critic should point out the paper’s limitations, including limitations to the study’s incremental
+contribution and any validity threats. In developing these points, keep in mind that the goal is to provide
+constructive criticism, not merely to find fault. A constructive critic should suggest potential ways to address the
+concerns raised.
+Outlines: All presenters (advocates and critics) should prepare an outline of for class distribution. These can be in
+any format you like (commonly bullet points or PowerPoint slides), but should be brief and to the point. Please
+bring enough hard copies for each seminar participant, plus a couple of extras for visitors.
+Advice: Embrace your role. This approach only works when we see spirited views on both sides. Have fun and
+make your presentations interesting. If successful, the advocate and critic in combination should lead us to a
+balanced discussion of the strengths and weaknesses of each assigned article.
+                                                                                                                    2
+
+
+General Participation
+This seminar succeeds with your active participation. I expect everyone to participate in the discussion of each
+article, whether or not you are assigned to present that article as its advocate or critic. Challenge the advocate
+and critic, making them defend their positions.
+3. Critique (10%), DUE DATE
+For this exercise, I will post a working paper (the same paper for everyone) and a detailed assignment with
+specific questions to answer in your critique. There is no specific length requirement, but I would expect good
+critiques to be 2,000-3,000 words. This will be good practice for the final exam for this class and the
+comprehensive exam that you will take at the end of your second year in the program.
+See “What is the difference between a critique and a review?” below for more on this exercise.
+4. Review (10%), DUE DATE
+This exercise is designed to give you some practice with the editorial review process. First, read the two articles
+below (available on Canvas) for some guidance on doing a constructive review:
+Oler, D. K., and W. R. Pasewark. 2016. How to review a paper. Issues in Accounting Education 31(2): 219-234.
+Kachelmeier, S. J. 2004. Reviewing the review process. Journal of the American Taxation Association
+          2(Supplement): 143-154.
+I will also post a couple of journal reviews that I have written as examples on Canvas.
+After you read this background, find an accounting research working paper (using experimental methods) at
+www.ssrn.com. Use keywords to find a paper that looks like it would be of interest to you. Then download and
+read the paper you pick.
+Your assignment is to write a review as if you were assigned to do so by an editor at a top accounting journal. As
+your pretend editor, I will not have read the paper beforehand, so your review must both summarize and
+evaluate the manuscript. You must submit the manuscript along with your review.
+What is the difference between a critique and a review?
+The main distinction between the critique and review exercises for this class is that the critique should be more
+detailed and comprehensive than a review.
+The critique exercise is structured around specific questions related to (a) the independent and dependent
+variables at a conceptual and operational level (i.e., the Libby Boxes), (b) the paper’s motivation, (c) the theory
+and hypotheses, (d) the experiment’s design and data analyses, and (e) suggestions for improving the paper.
+This structure is designed to let you “show what you know,” and is therefore good practice for the final exam in
+this class and for the comprehensive exam. The closest real-world analog to a critique is probably a conference
+discussion (which are sometimes published for journal conferences), although the format for such discussions
+varies quite widely.
+                                                                                                                    3
+
+
+A review, on the other hand, is designed to help a journal editor or program coordinator for a conference decide
+whether to accept, reject or request a revision of a submitted paper. Therefore, a typical review includes a short
+summary of the paper’s research question and results, but does not do a comprehensive analysis of the
+construct and operational level variables or discuss the research design in detail. Instead, most (good) reviews
+provide a short summary and overall evaluation of the paper, and then focus on specific concerns regarding
+motivation, contribution and/or validity, and how (or whether) those concerns can be addressed.
+5. Research proposal and presentation (20%), DUE DATE
+In addition to the objective of familiarizing you with the recent literature, there is also a forward-looking
+objective to this seminar, encouraging you to contemplate research needs and opportunities for the future. To
+achieve this objective, each student will submit an experimental research proposal. In approximately 4,000-
+5,000 words, your proposal should contain the following.
+•    Statement and motivation of the research question
+•    Theory
+•    Hypotheses
+•    Experimental design
+•    Plan of analysis
+The key to a successful proposal is precision. Help the reader to see clearly what research question you are
+addressing, why that question is important to accounting, what hypotheses you predict and why, and how
+exactly you propose to carry out the experiment. Essentially, the requirement is to write the front end of a
+manuscript on an accounting experiment, without actually conducting the research. I am available for
+consultation as needed.
+In addition to the written proposal, each student will present his or her research proposal to the class during the
+last class session. The format will be ten minutes for an uninterrupted presentation, followed by ten minutes of
+questioning from the audience. This will be great practice for presenting your research at conferences.
+6. Final exam (20%) DATE
+A final examination will reinforce the major points emphasized in this seminar. I will offer some guidance for
+preparation as the date approaches.
+COURSE SCHEDULE
+I have organized the course as follows:
+Sessions 1-2: Background and fundamentals
+Sessions 3-4: Testing a common theory in financial, managerial and audit research
+Sessions 5-8: Experimental research in financial accounting
+Sessions 9-11: Experimental research in managerial accounting
+Sessions 12-14: Experimental research in auditing
+A detailed schedule follows.
+                                                                                                                  4
+
+
+BACKGROUND AND FUNDAMENTALS (SESSIONS 1-2)
+Session 1: Research fundamentals
+Key reading for class discussions:
+Chapters 1, 2 and 3 from Shadish, W.R., T.D. Cook and D.T. Campbell. 2002. Experimental and Quasi-
+     Experimental Designs for Generalized Causal Inference. Boston: Houghton Mifflin Co.
+     NOTE: This is the only reading you will need to obtain on your own (I will post all other readings on Canvas). I
+     recommend purchasing the book, as it is a great resource to have on your shelf. Earlier editions should be
+     fine, including the 1979 edition by Cook and Campbell.
+Kachelmeier, S. J. (with minor amendments by B. White). 2019. Research fundamentals. Notes prepared for this
+     seminar.
+Kinney, W. R. 2019. The Kinney three paragraphs (and more) for accounting PhD students. Accounting Horizons,
+     in press.
+Research paper:
+Emett, S.A. 2019. Investor reaction to disclosure of past performance and future plans. The Accounting Review,
+     in press.
+Additional readings (good background but not for class discussion):
+Bailey, C.D. 2015. Psychopathy, academic accountants’ attitudes towards unethical research practices, and
+     publication success. The Accounting Review 90 (4): 1307-1332.
+Bell, T. B., T. J. Frecka, and I. Solomon. 1993. The relation between research productivity and teaching
+     effectiveness: Empirical evidence for accounting educators. Accounting Horizons 7 (4): 33-49.
+Bloomfield, R. 2015. How to Be a Good Professor. Working paper.
+Bloomfield, R., M. W. Nelson, and E. Soltes. 2016. Gathering data for archival, field, survey, and experimental
+     accounting research. Journal of Accounting Research 54 (2): 341-395.
+Demski, J. S., and J. L. Zimmerman. 2000. On ‘research vs. teaching’: A long-term perspective. Accounting
+     Horizons 14 (3): 343-352.
+Oler, D. K., M. J. Oler, and C. J. Skousen. 2010. Characterizing accounting research. Accounting Horizons 24 (4):
+     635-670.
+Salterio, S. E. 2014. We don’t replicate accounting research – or do we? Contemporary Accounting Research 31
+     (4): 1134-1142.
+Summers, S. L., and D. A. Wood. 2017. An evaluation of the general versus specialist nature of top accounting
+     journals. Accounting Horizons 31 (2): 105-124.
+Wood, D. A., 2016. Comparing the publication process in accounting, economics, finance, management,
+     marketing, psychology, and the natural sciences. Accounting Horizons 30 (3): 341-361.
+                                                                                                                   5
+
+
+6
+
+Session 2: Foundations of behavioral accounting research: economics and psychology
+Background:
+Haynes, C.M. and S.J. Kachelmeier. 1998. The effects of accounting contexts on accounting decisions: A synthesis
+     of cognitive and economic perspectives in accounting experimentation. Journal of Accounting Literature 17:
+     97-136.
+Libby, R., R. Bloomfield, and M.W. Nelson. 2002. Experimental research in financial accounting. Accounting,
+     Organizations and Society 27: 775-810.
+Kahneman, D. 2003. Maps of bounded rationality: Psychology for behavioral economics. The American Economic
+     Review 93(5): 1449-1475.
+Bazerman, M.H. and D. Molhotra. 2006. Economics Wins, Psychology Loses, and Society Pays. In Social
+     Psychology and Economics, edited by David de Cremer, J. Keith Murnighan, and Marcel Zeelenberg, 263–
+     280. Mahwah, NJ: Lawrence Erlbaum Associates.
+Thaler, R.H. 2018. From cashews to nudges: The evolution of behavioral economics. The American Economic
+     Review 93(5): 1265-1287.
+Research papers:
+Hobson, J.L. 2011. Do the benefits of reducing accounting complexity persist in markets prone to bubble?
+     Contemporary Accounting Research 28(3): 957-989.
+Elliott, W.B., S.D. Krische, and M.E. Peecher. 2010. Expected mispricing: The joint influence of accounting
+     transparency and investor base. Journal of Accounting Research 48(2): 343-381.
+                                                                                                               7
+
+
+TESTING A COMMON THEORY IN FINANCIAL, AUDIT AND MANAGERIAL ACCOUNTING (SESSIONS 3-4)
+Session 3: Motivated reasoning
+Background:
+Kunda, Z. 1990. The case for motivated reasoning. Psychological Bulletin 108(3): 480-498.
+Ditto, P.H., and D.F. Lopez. 1992. Motivated skepticism: Use of differential decision criteria for preferred and
+    nonpreferred conclusions. Journal of Personality and Social Psychology 63(4): 568-584.
+Research papers:
+Hales, J. 2007. Directional preferences, information processing, and investors’ forecasts of earnings. Journal of
+    Accounting Research 45(3): 607-628.
+Kadous, K., S.J. Kennedy, and M.E. Peecher. 2003. The effect of quality assessment and directional goal
+    commitment on auditors’ acceptance of client-preferred accounting methods. The Accounting Review 78(3):
+    759-778.
+Tayler, W.B. 2010. The balanced scorecard as a strategy-evaluation tool: The effects of implementation
+    involvement and a causal-chain focus. The Accounting Review 85(3): 1095-1117.
+Session 4: Affect and emotion
+Background:
+Lerner, J.S., Y. Li, P. Valdesolo, and K.S. Kassam. Emotion and decision making. Annual Review of Psychology
+    66(1): 799-823.
+Research papers:
+Frank, M.L., and V.B. Hoffman. 2015. How audit reviewers respond to an audit preparer’s affective bias: The
+    ironic rebound effect. The Accounting Review 90(2): 559-577.
+Hobson, J.L., W.J. Mayew, and M. Venkatachalam. 2012. Analyzing speech to detect financial misreporting.
+    Journal of Accounting Research 50(2): 349-392.
+Farrell, A.M., J.O. Goh, and B.J. White. 2014. The effect of performance-based incentive contracts on system 1
+    and system 2 processing in affective decision contexts: fMRI and behavioral evidence. The Accounting
+    Review 89(6): 1979-2010.
+                                                                                                                  8
+
+
+EXPERIMENTAL RESEARCH IN FINANCIAL ACCOUNTING (SESSIONS 5-8)
+Session 5: Policy-oriented research in financial accounting (and tax)
+Background:
+Barth, M.E. 2015. Financial accounting research, practice, and financial accountability. ABACUS 51(4): 499-510.
+Kachelmeier, S.J, and R.R. King. 2002. Using laboratory experiments to evaluate accounting policy issues.
+    Accounting Horizons 16(3): 219-232.
+Schipper, K. 1995. Academic accounting research and the standard setting process. Accounting Horizons 8(4):
+    61-73.
+FASB webpage for academics (https://www.fasb.org/academics)
+IASB webpage for academics (https://www.ifrs.org/academics/)
+Research papers:
+Cade, N.L., L. Koonce, and K.I. Mendoza. 2019. Assets and liabilities: When do they exist? Contemporary
+    Accounting Research, in press.
+Koonce, L., Z. Leitter, and B.J. White. 2019. Linked balance sheet presentation. Journal of Accounting and
+    Economics, forthcoming.
+Falsetta, D., T.J. Rupert, and A.M. Wright. 2013. The effect of timing and direction of capital gain tax changes on
+    investment in risky assets. The Accounting Review 88(2): 499-520.
+Session 6: Presentation effects in financial reporting
+Background:
+Libby, R.L., and S.A. Emett. 2014. Earnings presentation effects on manager reporting choices and investor
+    decisions. Accounting and Business Research 44(4): 410-438.
+Research papers:
+Hopkins, P.E. 1996. The effect of financial statement classification of hybrid financial instruments on financial
+    analysts’ stock price judgments. Journal of Accounting Research 34(Supp): 33-50.
+Clor-Proell, S., L. Koonce, and B.J. White. 2016. How do experienced users evaluate hybrid financial instruments.
+    Journal of Accounting Research 54(5): 1267-1295.
+Clor-Proell, S., and L.A. Maines. 2014. The impact of recognition versus disclosure on financial information: A
+    preparer’s perspective. Journal of Accounting Research 52(3): 671-701.
+                                                                                                                   9
+
+
+Session 7: Linguistic characteristics of corporate disclosures
+Background:
+Lipe, M.G. 2018. Unpacking the disclosure package: Using experiments to investigate investor reactions to
+     narrative disclosures. Accounting, Organizations and Society. 68-69(July): 15-20.
+Research papers:
+Hales, J., X. Kuang, and S. Venkataraman. 2011. Who believes the hype? An experimental examination of how
+     language affects investor judgments. Journal of Accounting Research 49(1): 223-255.
+Asay, H.S., R. Libby, and K. Rennekamp. 2018. Firm performance, reporting goals, and language choices in
+     narrative disclosures. Journal of Accounting and Economics 65: 380-398.
+Tan, H-T, E.Y. Wang, and G-S Yoo. 2019. Who likes jargon? The joint effect of jargon type and industry
+     knowledge on investors’ judgments. Journal of Accounting and Economics, in press.
+Session 8: Corporate social responsibility
+Background:
+Christensen, H.B., L. Hail and C. Leuz. 2018. Economic Analysis of Widespread Adoption of CSR and Sustainability
+     Reporting Standards. Working Paper. Available at: https://ssrn.com/abstract=3315673
+Research papers:
+Elliott, W.B., K.E. Jackson, M.E. Peecher and B.J. White. 2014. The unintended effect of corporate social
+     responsibility performance on investors’ estimates of fundamental value. The Accounting Review 89(1): 275-
+     302.
+Martin, P.R. and D.V. Moser. 2016. Managers’ green investment disclosures and investors’ reaction. Journal of
+     Accounting and Economics 61:239-254.
+Elliott, W.B., S.M. Grant and K.M. Rennekamp. 2017. How disclosure features of corporate social responsibility
+     reports interact with investor numeracy to influence investor judgments. Contemporary Accounting
+     Research 34(3): 1596-1621.
+                                                                                                              10
+
+
+EXPERIMENTAL RESEARCH IN MANAGERIAL ACCOUNTING (SESSIONS 9-11)
+Session 9: Incentives and controls
+Background:
+Bonner, S.E., and G. B. Sprinkle. 2007. The effects of monetary incentives on effort and task performance:
+    theories, evidence, and a framework for research. Accounting, Organizations and Society 27: 303-345.
+Research papers:
+Kelly, K., A. Presslee, and R.A. Webb. 2017. The effects of tangible rewards versus cash rewards in consecutive
+    sales tournaments: A field experiment. The Accounting Review 92(6): 165-185.
+Choi, J., G. Hecht, I.D. Tafkov and K.L. Towry. 2016. Vicarious learning under implicit contracts. The Accounting
+    Review 91(4): 1087-1108.
+Haesebrouck, K., M. Cools, and A. Van den Abbeele. 2018. Status differences and knowledge transfer: The effect
+    of incentives. The Accounting Review 93(1): 213-234.
+Session 10: Measuring and motivating creativity
+Background:
+Byron, K. and S. Khazanchi. 2012. Rewards and creative performance: A meta-analytic test of theoretically
+    derived hypotheses. Psychological Bulletin 138(4): 809-830.
+Research papers:
+Bruggen, A., C. Feichter, and M.G. Williamson. 2018. The effect of input and output targets for routine tasks on
+    creative task performance. The Accounting Review 93(1): 29-43.
+Kachelmeier, S.J., L.W. Wang, and M.G. Williamson. 2018. Incentivizing the creative process: From initial
+    quantity to eventual creativity. The Accounting Review 94(2): 249-266.
+Cools, M., K. Stouthuysen, and A. Ven den Abbeele. 2017. Management control for stimulating different types of
+    creativity. Journal of Management Accounting Research 29(3): 1-21.
+                                                                                                                  11
+
+
+Session 11: Performance measurement and feedback
+Background:
+Hannan, R. L., R. Krishnan, and A. H. Newman. 2008. The effects of disseminating relative performance feedback
+    in tournament and individual performance compensation plans. The Accounting Review 83(4): 893-913.
+Choi, J., G. W. Hecht, and W. B. Tayler. 2012. Lost in translation: The effects of incentive compensation on
+    strategy surrogation. The Accounting Review 87(4): 1135-1163.
+Research papers:
+Chan. E.W. 2018. Promotion, relative performance information, and the Peter Principle. The Accounting Review
+    93(3): 83-103.
+Loftus, S. and L.J. Tanlu. 2018. Because of “because”: Examining the use of causal language in relative
+    performance feedback. The Accounting Review 93(2): 277-297.
+Bentley, J. 2018. Decreasing operational distortion and surrogation through narrative reporting. The Accounting
+    Review, in press.
+                                                                                                              12
+
+
+EXPERIMENTAL RESEARCH IN AUDITING (SESSIONS 12-14)
+Session 12: Auditor judgment quality
+Background:
+Griffith, E.E., K. Kadous, and D. Young. 2016. How insights from the “new” JDM research can improve auditor
+    judgment: Fundamental research questions and methodological advice. Auditing: A Journal of Practice &
+    Theory 35(2): 1-22.
+Research papers:
+Bonner, S., T. Majors, and S. Ritter. 2018. Prepopulating audit workpapers with prior year assessments: Default
+    option effects on risk rating accuracy. Journal of Accounting Research 56(5): 1453-1481.
+Bennett, G.B., and R.C. Hatfield. 2018. Staff auditors’ proclivity for computer-mediated communication with
+    clients and its effect on skeptical behavior. Accounting, Organizations and Society 68-69(July): 42-57.
+Asay, H.S., T. Brown, M.W. Nelson, and T.J. Wilks. 2017. The effects of out-of-regime guidance on auditor
+    judgments about appropriate application of accounting standards. Contemporary Accounting Research
+    34(2): 1026-1047.
+Session 13: Advice and tacit knowledge
+Background:
+Yaniv, I. 2004. Receiving Other People’s Advice: Influence and Benefit. Organizational Behavior and Human
+    Decision Processes 93 (2004): 1–13.
+Tan, H-T, and R. Libby. 1997. Tacit managerial versus technical knowledge as determinants of audit expertise.
+    Journal of Accounting Research 35(1): 97-113.
+Research papers:
+Bol, J., C. Estep, F. Moers, and M. Peecher. 2018. The Role of Tacit Knowledge in Auditor Expertise and Human
+    Capital Development. Journal of Accounting Research 56 (4): 1205-1252.
+Kadous, K., J. Leiby, and M. Peecher. 2013. How do auditors weight informal contrary advice? The joint influence
+    of advisor social bond and advice justifiability. The Accounting Review 88(6): 2061-2087.
+Knechel, W.R. and J. Leiby. 2016. If you want my advice: Status motives and audit consultations about
+    accounting esimates. Journal of Accounting Research 54(5): 1331-1363.
+                                                                                                              13
+
+
+Session 14: Auditing complex estimates
+Background:
+Barth, M.E. 2006. Including estimates of the future in today’s financial statements. Accounting Horizons 20(3):
+    271-285.
+Research papers:
+Griffith, E.E., J.S. Hammersley, K. Kadous, and D. Young. 2015. Auditor mindsets and audits of complex
+    estimates. Journal of Accounting Research 53(1): 49-77.
+Kachelmeier, S.J., D. Rimkus, J.J. Schmidt, and K. Valentine. 2019. The forewarning effect of critical audit matter
+    disclosures involving measurement uncertainty. Conditionally accepted at Contemporary Accounting
+    Research.
+Griffith, E.E., K. Kadous, and D. Young. 2019. Conditions for high-quality complex audit judgments: When are
+    interventions needed? Working paper.
+Session 15: Research presentations
+                                                                                                                  14
+
+
+ACC 380K.5 – Behavioral Research in Accounting                                                        Article Summary Sheet
+                                    Predictive Validity Framework (“Libby Boxes”)
+    Your Name: ____________________________                   Article Reference: __________________________
+                                   Does X                        lead to                       Y?
+                          Independent Construct(s):                                   Dependent Construct(s):
+  Conceptual
+   Question
+                           Independent Variable(s):                                    Dependent Variable(s):
+ Operational
+   Question
+    Moderating variable(s), if any _____________________________________________________
+    Mediating variable(s), if any ______________________________________________________
+    Describe at least one possible extension of this article (preferably including proposed DVs and IVs):
+
+
+ACC 380K.5 – Behavioral Research in Accounting                                                     Article Summary Sheet
+                                               Kinney Three Paragraphs
+    1) What is the research question? If you think the authors state a different research question than what they
+       are actually answering, then you should say that.
+    2) Why is it important? This should be YOUR evaluation, not just reiterating what the authors say. Does the
+       paper contribute something that they don’t mention? How does the paper fit in with what’s been done
+       before?
+    3) How is the research question addressed? Describe (briefly) the critical design choices.

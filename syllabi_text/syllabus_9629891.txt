@@ -1,0 +1,71 @@
+                 Physics f303K – Summer 2019 – Engineering Physics I
+          M-Tu-W-Th-F 10:00–11:15am – PAI 2.48 – Unique No. 86855
+Instructor: Prof. John Markert. Office: RLM 13.314, 471-1039. Office Hours: M 1:00–2:00, Th 1:00–2:00.
+            Or by appointment, or after any class (outside PAI 2.48). E-mail: markert@physics.utexas.edu
+LA/TA:      Learning Assistants: To be announced. Teaching Assistant: To be announced. Beginning June
+            10, attend two or more TA sessions each week of five weeks for full bonus credit.
+Textbook:   Required: Physics for Engineers and Scientists, 3rd Ed., Ohanian and Markert, Vol. 1 (either
+            print or electronic version). iClicker remote required (below). Optional: (Study guide, etc.).
+            Tutorials at http://www.wwnorton.com/college/physics/om/index.shtml (“Online Concept
+            Tutorials”).
+“Quizzes:” Two in-class exams on alternate Wednesdays: June 19 and July 3. An equation sheet will be
+            provided; also, you may bring one 8.5"x11" handwritten sheet (both sides OK).
+Final:      The final exam is mandatory, Saturday, July 13, 7:00 p.m.–10:00 p.m. Location TBA.
+Homework: Read and study the chapter assigned on the back of this sheet before coming to class. Homework
+            is submitted on Quest (https://quest.cns.utexas.edu/student) and is due 4am every Tuesday and
+            Friday (so really HW due Monday and Thursday nights). Exception: No homework on
+            Thursday night July 4. Solutions will appear on Quest 2 hours after the due time.
+Help:       TA/LA help sessions will soon be listed on Quest. Computer/Quest help in PMCL in RLM
+            7.306. Coaching tables on 5 floor of RLM may have some daytime TA help (use escalators for
+                                           th
+            floors 5–7). Jester West and Kinsolving have had physics study groups. Sanger Learning
+            Center (JES A332) has tutoring, peer academic coaching, and specialist appointments:
+            http://www.utexas.edu/ugs/slc or call 512-471-3614.
+Classwork: iClicker system. Buy a new or used iClicker remote (no software nor other package needed) and
+            register its serial number in Canvas only (https://utexas.instructure.com/courses) at the i>Clicker
+            tab. We will practice on F 6/7 and begin on M 6/10. Attendance and participation by iClicker
+            will be posted in Canvas. (Students with better attendance usually get higher grades.)
+                                                                                   Overall Grade:
+Grade:      Homework (2 drops)                25%                  A 90-100          B– 70-75       D+ 50-55
+            Quizzes                           30%                  A– 85-90          C+ 65-70       D 45-50
+            Classwork (3 drops)               15%                  B+ 80-85          C 60-65        D– 40-45
+            Final Exam                        30%                  B 75-80           C– 55-60       F < 40
+            Session Participation (bonus)      5%
+
+
+No make-ups are allowed. I drop the two lowest homeworks and three iClicker sessions to accommodate
+students with extraneous circumstances.
+Engineering Physics I: Mechanics. Chapter Topics:
+1-Space, Time, and Mass; 2-Motion Along a Straight Line; 3-Vectors; 4-Motion in Two and Three
+Dimensions; 5-Newton’s Laws of Motion; 6-Further Applications of Newton’s Laws; 7-Work and Energy, 8-
+Conservation of Energy; 9-Gravitation; 10-Systems of Particles; 11-Collisions; 12-Rotation of a Rigid Body;
+13-Dynamics of a Rigid Body, 14-Statics and Elasticity, 15-Oscillations; 16-Waves; 17-Sound; and 18-Fluid
+Mechanics.
+Read and study chapters listed below before coming to class.
+                   Reading Chapters
+Week | Mon Tue Wed Thu Fri | Monday Night Homework                                             Thursday Night Homework
+03-June | — — — 1-2                   2 |                                         Register iClicker in Canvas; start HW#1
+10-June | 3 3/4 4                5     6 | #1 Ch 1/2 4am Tu 6/11 (Mon night)               #2 Ch 3/4 4am F 6/14 (Th night)
+17-June | 6/7 7 Quiz1 8               9 | #3 Ch 5/6 4am Tu 6/18 (Mon night)                 #4 Ch 7/8 4am F 6/21 (Th night)
+*Quiz 1: Wednesday, June 19, 10-11:15am (Quiz 1: Ch. 1–6)
+24-June | 9/10 10 11 12 12/13 | #5 Ch 9 4am Tu 6/25 (Mon night) #6 Ch 10/11 4am F 6/28 (Th night)
+01-July | 13 14 Quiz 2 Holiday 15 | #7 Ch 12/13 4am Tu 07/02 (Mon night)
+*Quiz 2: Wednesday, July 3, 10-11:15am (Quiz 2: Ch. 7–13)
+08-July | 15/16 16 17 18            X | #8 Ch 14/15 4am Tu 7/09 (Mon night) #9 Ch 16/17/18 4am F 7/12 (Th night)
+*Final Exam (cumulative): Saturday, July 13, 7:00 p.m.–10:00 p.m., location TBA.
+  This course makes use of the web-based Quest content delivery and homework server system maintained by the College of
+Natural Sciences. This homework service will require a $30 charge per student for its use, which goes toward the maintenance
+and operation of the resource. Please go to http://quest.cns.utexas.edu to log in to the Quest system for this class. After the 12th
+day of class, when you log into Quest you will be asked to pay via credit card on a secure payment site. You have the option to
+wait up to 30 days to pay while still continuing to use Quest for your assignments. If you are taking more than one course
+using Quest, you will not be charged more than $60/semester. For payment questions, email quest.fees@cns.utexas.edu.
+     This course carries the Quantitative Reasoning flag.
+     This course may be used to fulfill three hours of the natural science and technology (Part I or Part II) component of
+the university core curriculum and addresses the following four core objectives established by the Texas Higher
+Education Coordinating Board––communication skills, critical thinking skills, teamwork, and empirical and quantitative
+skills, via homework, exams, class participation, and section meetings.
+Student Accommodations
+Students with a documented disability may request appropriate academic accommodations from the
+Division of Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259
+(voice) or 1-866-329-3986 (video phone). http://ddce.utexas.edu/disability/about/ Please request a meeting as
+soon as possible to discuss any accommodations.

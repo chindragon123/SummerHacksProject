@@ -1,0 +1,437 @@
+                                    Space and Place
+                           AHC 378/CC 375 (33315/33495)
+   Spring 2019               Tuesday-Thursday 12:30-2:00                              GAR 1.134
+ὡς δ᾽ αὕτως καὶ ἡ ὠφέλεια ποικίλη τις οὖσα, ἡ µὲν πρὸς τὰ πολιτικὰ καὶ τὰς
+ἡγεµονικὰς πράξεις, ἡ δὲ πρὸς ἐπιστήµην τῶν τε οὐρανίων καὶ τῶν ἐπὶ γῆς καὶ
+θαλάττης ζῴων καὶ φυτῶν καὶ καρπῶν καὶ τῶν ἄλλων ὅσα ἰδεῖν παρ᾽ ἑκάστοις ἔστι,
+τὸν αὐτὸν ὑπογράφει ἄνδρα, τὸν φροντίζοντα τῆς περὶ τὸν βίον τέχνης καὶ
+εὐδαιµονίας.
+And so too, its benefit being spectacularly diverse, not only for politics and the
+practice of leadership, but also for the knowledge of the heavens and the things on
+land and sea, animals and plants and fruits and anything else there is to be seen in
+each place, Geography requires [for its study] the same sort of man [as the
+philosopher], one who puts his mind to the art of life and human happiness.
+                                                                                 Strabo, Geography, 1.1
+Instructor: Prof. Adam Rabinowitz
+Email: arabinow@utexas.edu
+Office: WAG 17 (512-471-0197)
+Office hours: Wednesday 2:00-3:30, Thursday 10:00-11:30 and by appointment
+Required texts
+Tuan, Y. 2001. Space and Place: The Perspective of Experience. Minneapolis: University of Minnesota
+Press. (this is the edition available on Amazon; any other is fine; also available through the library as
+an e-Book).
+Scott, M. 2012. Space and Society in the Greek and Roman Worlds. Cambridge: Cambridge University
+Press.
+Digital course resources
+Course Management System: Canvas
+         http://canvas.utexas.edu
+Primary Texts: Perseus
+         http://www.perseus.tufts.edu
+Zotero course library (all bibliography for course; create account and I’ll add you to group)
+         https://www.zotero.org/groups/ancient_space_and_place
+Pleiades (spatial gazetteer)
+         http://pleiades.stoa.org/
+                                                                                                          1
+
+
+There will be a number of additional resources that you will choose from for your digital projects or
+website reviews, and that will be available for your research projects if you find them helpful. I will
+provide a running list of these resources separately.
+Course description and goals
+In some ways, the experience of being human is the experience of being a body in space, oriented to
+the physical features that surround us. As a result, we tend to take space for granted: it’s the
+background for the real action, which plays out in our thoughts and our interaction with other
+people. The same is true of the notion of “place” – although the concept provides the orientation
+and direction that guides our movements through space, we usually use the word just to refer to an
+area of space that happens to be of interest at the moment. Until recently, awareness of space in
+Classical studies was limited to the documentation of architecture and the mapping of settlements,
+and the term “place” was interchangeable with “site” or “city”.
+In the late 1970s, however, social theorists became increasingly interested in the difference between
+space and place, and the role of both in shaping and reflecting human culture and society. With the
+rise of computers and new possibilities for spatial analysis, this momentum built further, and
+somewhere between the 1980s and the 1990s spilled over into the humanities, where it became what
+is known as “the spatial turn”. The fields of Classics and archaeology were on the cutting edge of
+this turn. Now it is a commonplace that space and place are productive avenues of inquiry to help us
+understand the ancient Mediterranean world – now, we see space everywhere we look (in the
+scholarship). This course is meant to familiarize you with the concepts of space (a geographically
+defined location that can be physically occupied) and Place (a space encoded with cultural meaning),
+as they are applied across a range of disciplines related to study of ancient Greece and Rome. We
+will use literary, historical, and archaeological sources as our points of entry into the exploration of
+human interaction with the physical world, on the level of both landscape and the built
+environment. We will also examine some of the online resources and digital tools and approaches
+that have emerged from the “spatial turn” and are now opening new doors for Classical studies.
+I have four fairly ambitious goals for you in this course:
+     1. I want you to develop a solid understanding of the social-theoretical construction of space
+         and place, and how this theoretical frame relates to Classics
+     2. I want you to develop a familiarity with a wide range of primary sources (literary, historical
+         and archaeological) that deal with space and place, and a sense of how these sources can be
+         approached and queried productively by scholars from the perspective of spatial theory
+     3. I want you to become familiar with – as a consumer or, better, as a creator – with a wide
+         range of digital resources available to facilitate the study of space and place in the ancient
+         world, and I want you to develop an understanding of the role of technological
+         developments in the “spatial turn” that has affected the historical disciplines for the last 20
+         or 30 years
+     4. The fourth goal relates directly to that last point: I want you to learn what it means to be a
+         Classical scholar – and here it is critical that you learn actively, by collecting and
+         manipulating evidence yourself. This goal will be accomplished by a research paper that you
+         will develop over the course of the semester. I want you to be active partners in this learning
+         process – makers of knowledge, not just consumers. I want you to see some of the nuts and
+                                                                                                         2
+
+
+          bolts of the process of historical, literary, or archaeological research, and I want you to work
+          on developing your own ideas and honing your ability to express them.
+These four skills – engaging with a body of theory, applying it to primary evidence of various sorts,
+dealing with secondary literature, crafting your own account and explanation – are fundamental for
+your professional development if you plan to continue the study of Classical antiquity. Some of
+them will undoubtedly come in handy whether you continue in this field or not: space and place are,
+after all, among the fundamental organizing principles of our own lives, and digital approaches to
+them permeate the world around us, from the GPS on your phone to 3D buildings on Google
+Earth.
+Grading
+All readings of ancient sources will be in translation, although I encourage you to consult the Greek
+and Latin original texts available together with English translations in Perseus, and I will be happy to
+form a (casual) reading group with any of you who would like to pursue particular ancient sources in
+the original. If you develop a research project on a literary topic and are a Classics major, I will
+encourage you even more strongly to make use of the original sources. Grades will be based on
+participation in in-class discussions (25%), a short writing assignment reviewing a digital resource
+OR an original digital project (20%), the presentation of an article or issue (15%), and a significant
+research paper that students will draft and revise over the course of the semester (40%).
+I assign plus/minus grades in the following manner: 93-100 is an A, 90-92 is an A-, 87-89 is a B+,
+83-86 is a B, and so on. A grade below 60 is failing. I round up from the half-point (so an 89.7
+becomes an A-, but an 89.4 remains a B+). A note on subjective grading: where quantitative
+methods cannot be applied, I assign grades according to the following framework: an A-range grade
+indicates mastery of the material and skills involved in the course (for writing, this means few or no
+problems with content, organization, and style and grammar); a B-range grade indicates advanced
+competency; and a C-range grade indicates basic competency. If you feel you are having problems in
+the class, I will work with you until we fix the things that are wrong – just ask me.
+Flags
+This course carries two flags: Writing and Independent Inquiry.
+Writing
+Writing Flag courses are designed to give students experience with writing in an academic discipline.
+In this class, you can expect to write regularly during the semester, complete substantial writing
+projects, and receive feedback from your instructor to help you improve your writing. You will also
+have the opportunity to revise one or more assignments, and you may be asked to read and discuss
+your peers’ work. You should therefore expect a substantial portion of your grade to come from
+your written work. Writing Flag classes meet the Core Communications objectives of Critical
+Thinking, Communication, Teamwork, and Personal Responsibility, established by the Texas Higher
+Education Coordinating Board.
+Independent Inquiry
+Independent Inquiry courses are designed to engage you in the process of inquiry over the course of
+a semester, providing you with the opportunity for independent investigation of a question,
+problem, or project related to your major. You should therefore expect a substantial portion of your
+grade to come from the independent investigation and presentation of your own work.
+                                                                                                          3
+
+
+Assignments
+The assignments in this course have been designed to meet a broad and varied set of requirements,
+so they may seem overly complex at first glance. I promise, however, that most are straightforward,
+and we will spend time in class making sure that everyone is up to speed on those that are not.
+Reading and discussion
+This is one of the straightforward ones. I have provided a tentative schedule of readings below. I
+reserve the right to adjust these as the class progresses (usually by reducing them, rather than
+increasing them, though I might come across new works I think it would be helpful for you to read).
+In general, we will read theoretical works and/or primary sources for Tuesday, and I’ll take some
+class time to provide context and additional information. Our Thursdays will be occupied with the
+discussion of case-studies that apply theoretical approaches to particular bodies of primary evidence,
+either textual or material. Because there are a lot of us this year, we will have student presentations
+on most class days, with those on Tuesday generally more oriented toward theory, and those on
+Thursday generally more oriented toward application.
+You should have read all readings thoroughly and taken notes by the time you come to the class for
+which they are assigned. What you get out of this class will be directly proportional to what you put
+in – so come ready to discuss, ask questions about, or challenge the articles I have asked you to read.
+I will keep track of your contributions to our discussions, which will form the basis for your
+participation grade (25% of your final grade).
+Digital resource review/digital project
+Discussions of space and place are now inextricably connected with the digital representation of
+both of those concepts. The internet and digital mapping tools are largely responsible for the
+“spatial turn” in the Humanities, and Classics was an early and enthusiastic adopter. It doesn’t make
+sense, then, to approach this topic without taking the digital world into account. You will do this in
+one of two ways – choose your approach carefully, taking into account your academic and
+professional goals and the time you have. The first way is the more traditional: you will write a 1500
+to 2000-word review of a website or online resource that deals in some way with space or place (I
+will provide a list of suggestions; if you’d like to review a site that’s not on the list, you must clear it
+with me first). The second way is to create a digital project of your own, again involving space or
+place. The most obvious option is the creation of some sort of web-based map, but there are other
+options too, including the addition of a place to the Pleiades platform, the annotation of a text or a
+map in Recogito, the creation of a 3D environment using consumer software, or something more
+complicated with spatial networks (as with the review, I will provide a list of suggestions, and I will
+offer technical help with whatever option you choose; you’re also free to propose a project using
+tools that aren’t on the list, though I have to approve it and I can’t guarantee technical help).
+You will be expected to share this review or project with the class, thereby helping to create a larger
+pool of resources and examples for all of us to build on. I will reserve ten minutes for each student
+in class meetings during the first two weeks of March so that you can present your work to the class
+on an informal basis. This presentation will not be graded, but since this assignment will be due
+immediately before spring break, a good presentation is likely to attract useful feedback from the
+class and from me, which will in turn improve your grade for the assignment (20% of your final
+grade).
+                                                                                                             4
+
+
+Presentations
+You will give two formal, graded presentations in this class. One of them will involve a work of
+secondary scholarship that I think is particularly important for the class. I will ask you to read this
+work thoroughly, provide a summary and some study/discussion questions to the class in advance,
+present the article and its argument for 15-20 minutes, and actively lead the following discussion for
+another 10-15 minutes. You may look at the syllabus to see which readings you might be particularly
+interested in presenting, and I will provide a sign-up sheet for presentations through Canvas in the
+second week of class – first come, first served, so if you want something in particular, be prompt. I
+will ask your classmates to evaluate your performance in this presentation, and I will take their
+assessment into account in the calculation of your grade for this assignment, which will count for
+15% of your final grade.
+The second presentation will come at the end of the semester and will be a formal overview of your
+research project and preliminary conclusions. I will ask you to submit a 200-word abstract in
+advance, and I will expect the presentation to be formal (you may find it easier to write up and read
+your talk), 10-12 minutes long (timed), and supported with either a visual presentation (PowerPoint,
+Prezi, etc.) or a printed handout. If the presentations hold to time, there will also be a few minutes
+for questions after each. This research presentation will model the delivery of a paper at a
+professional conference, and you should approach it accordingly. It will count for 5% of the 40% of
+the grade for the final and most important assignment, the research paper.
+Research paper
+The research paper will be the core of course. It is designed to satisfy both the Independent Inquiry
+and Writing flag requirements, and we will work on it throughout the semester. You should plan for
+a final draft of about 15 double-spaced pages (3500-4000 words) in length.
+In January, I will introduce you to some specialized bibliographic resources for research in Classics
+and archaeology, and you will begin brainstorming about a research topic. You will submit a
+proposal and preliminary bibliography in class on February 14, and I will meet with you to discuss it
+over the following week. This proposal and bibliography will be graded (worth 5% out of the 40%
+for the paper). You will then produce a first draft, which you will hand in to me on March 26. I will
+provide feedback within ten days, so that you can then begin to revise. A second draft will be due on
+April 15. Note that it’s due on Monday, not Tuesday, and I will ask you to circulate it to the class by
+email. This way, we will all have the papers before our first meeting that week, and we will be able to
+use our class sessions to workshop your papers as a group.
+The presentation of your research at the end of the semester will count for another 5%, and the
+remaining 30% will be based on the final version of your paper and on your engagement with the
+process of revision, as shown by the development of your paper from the first to the final draft. The
+final draft of your paper will be due in my mailbox in the Classics office no later than 5pm on May
+17th.
+Late Assignments
+Unless you have a documented emergency, medical or otherwise, I will subtract one grade step for
+each day one of your written assignments is late (so an A-level writing assignment will become a B if
+it is two days late). Contact me as soon as you realize there will be a problem: unless your
+emergency leaves you physically unable to communicate, I will look much less favorably on
+excuses that are offered after the due-date.
+                                                                                                        5
+
+
+The Undergraduate Writing Center
+I strongly encourage you to use the Undergraduate Writing Center (FAC 211, 471-6222:
+http://www.uwc.utexas.edu/). The Undergraduate Writing Center offers free, individualized, expert
+help with writing for any UT undergraduate, by appointment or on a drop-in basis. Any
+undergraduate enrolled in a course at UT can visit the UWC for assistance with any writing project.
+They work with students from every department on campus, for both academic and non-academic
+writing. Whether you are writing a lab report, a resume, a term paper, a statement for an application,
+or your own poetry, UWC consultants will be happy to work with you. Their services are not just for
+writing with "problems." Getting feedback from an informed audience is a normal part of a
+successful writing project. Consultants help students develop strategies to improve their writing. The
+assistance they provide is intended to foster independence. Each student determines how to use the
+consultant's advice. The consultants are trained to help you work on your writing in ways that
+preserve the integrity of your work. The UWC also maintains an extensive library of handouts on
+various writing-related issues here: http://www.uwc.utexas.edu/handouts
+Important dates
+January 25: last day of the official add/drop period
+February 6: final enrollment count; last day to drop a class for a possible refund
+February 14: research proposal and preliminary bibliography due; meetings to discuss proposals
+March 15: digital project or review of digital resource due through Canvas by 5pm
+March 18-22: spring break
+March 26: first draft of research paper due in class
+April 8: last day to change to pass/fail, drop the class, or withdraw from the University without
+     academic penalty
+April 15: second draft of paper due by email to class for peer workshopping
+May 17: final draft of paper due by 5pm in my mailbox in the Classics Office (WAG 123)
+Schedule of meetings and readings
+Readings not in the required texts will be posted as PDFs in Canvas, available online as websites
+(links posted on Canvas as well) or as eBooks through the library catalogue. For full bibliographic
+references, please see the group library for the course in Zotero. I reserve the right to change the
+readings for a given week, but I will not change assignment due dates or student presentation
+readings without class consensus or student permission.
+Week 1: Where am I?
+1/22 Getting oriented (get it?)
+1/24 Tuan, Introduction; Scott, Introduction (and bibliographic essay for Introduction); T. Creswell,
+Place: A Short Introduction, Introduction
+Week 2: An embodied sense of space and place
+1/29 Tuan, chapter 2 (Experiential Perspective), chapter 4 (Body, Personal Relations, and Social
+Values); selections from H. Lefebvre, The Production of Space (pp. 30-46) (this is all very dense stuff, so
+leave some time to read it more than once; we’ll work through the meaning in class)
+                                                                                                           6
+
+
+1/31 Y. Hamilakis, Archaeology and the Senses, “Sensorial necro-politics”; Teather, Embodied Geographies,
+“Introduction”
+student presentation: S. Eve, “Augmenting phenomenology”
+Week 3: Inscribing space
+Strabo, Geography, 1.1 and 2.1
+2/5 Tuan, chapter 6 (Spatial Ability, Knowledge, and Place); Scott, chapter 5 (The place of Greece
+in the oikoumene of Strabo’s Geography)
+student presentation: W. Koelsch, “Squinting back at Strabo”
+2/7 J. Brotton, A History of the World in 12 Maps, chapter 1; K. Brodersen, “Mapping (in) the ancient
+world”
+student presentation: R. Talbert, “The Map”, in Images and Texts on the Artemidorus Papyrus
+Week 4: Quantifying space
+2/12 D. Romano and B. Schoenbrun, “A computerized architectural and topographical survey of
+ancient Corinth”; G. Lock, “Representations of Space and Place in the Humanities”
+student presentation: R. Witcher, “(Re)surveying Mediterranean rural landscapes”
+2/14 L. Isaksen et al., “Pelagios and the emerging graph of ancient world data”; Opitz and Limp,
+“Recent developments in high-density survey and measurement (HDSM) for archaeology:
+implications for practice and theory”
+*Research proposal and preliminary bibliography due
+student presentation: E. Barker et al., “Writing space, living space”, in The Ideologies of Lived Space in
+Literary Texts, Ancient and Modern
+Week 5: Intimate space – inside the home
+Homer, Odyssey, books 1, 17, 22 (pay attention to the description of Odysseus’ palace);
+Vitruvius, 6.1-7
+2/19 Tuan, chapter 3 (Space, Place, and the Child), chapter 10 (Intimate Experiences of Place)
+recommended: Bourdieu, “The Kabyle house”
+student presentation: J. Webster, “Archaeologies of slavery and servitude”
+2/21 Mazarakis Ainian, “Architecture and social structure in Early Iron Age Greece”; L. Nevett,
+“Separation or seclusion? Towards an archaeological approach to investigating women in the Greek
+household from the fifth to third centuries BC”
+                                                                                                           7
+
+
+student presentation: B. Bergmann, “The Roman house as memory theater”
+Week 6: Public space – out in the square
+Vergil, Aeneid, 8.175-369; Ovid, Fasti, V.551-598; Propertius, Elegies, 2.31, 4.1, 4.2, 4.4;
+Pausanias, Description of Greece, 2.5.5-2.11.2
+2/26 Tuan, chapter 5 (Spaciousness and Crowding) and chapter 8 (Architectural Space and
+Awareness); Scott, chapter 1 (Cyrene)
+student presentation: D. Stewart, “Pausanias, analogy, and Classical Archaeology”
+2/28 D. Favro, “Reading the Augustan city”; K. Rothwell, “Propertius on the site of Rome”; T.
+O’Sullivan, “Urban walkers on display”
+student presentation: J. Hartnett, “Streetside benches and urban society in Pompeii”
+Week 7: The living and the dead in the urban fabric
+3/5 B. Ault, “Living in the Classical polis: the Greek house as microcosm”; A. Wallace-Hadrill,
+Houses and Society in Pompeii and Herculaneum, chapter 1; student project presentations
+student presentation: D. Elia and V. Meirano, “Children and funerary space”
+3/7 Scott, chapter 3 (tomb streets); C. Weiss, “Bodies in motion: civic ritual and placemaking in
+Roman Ephesus”; student project presentations
+student presentation: M. Grahame, “Public and private in the Roman house”
+Week 8: Spaces of myth and religion
+Pausanias, Description of Greece, 9.5.1-9.12.6, 9.16.1-9.18.6, 9.25.1-9.25.4
+3/12 Tuan, chapter 7 (Mythical Space and Place); Scott, chapter 2 (Delos); student project
+presentations
+student presentation: E. McGowan, “Tumulus and memory”
+3/14 R. Buxton, Imaginary Greece, “Landscape”; C. Eckerman, “Pindar’s Delphi”; student project
+presentations
+student presentation: D. Berman, “Dirce at Thebes”
+*Digital reviews/assignments due 3/15
+-- Spring Break --
+                                                                                                  8
+
+
+Week 9: Landscape
+3/26 B. Bender, “Place and landscape”; Alcock and Osborne, Classical Archaeology, “The Essential
+Countryside”
+student presentation: C. Williamson, “Mountain, myth, and territory”
+*First draft of research paper due
+3/28 J. Carter et al., “The Chora of Chersonesos in Crimea, Ukraine”; C. Witmore,
+“(Dis)Continuous domains: a case of “multi-sited” archaeology from the Peloponnesus, Greece”
+student presentation: T. de Haas, “Beyond dots on the map: intensive survey data and the interpretation
+of small sites and off-site distributions”
+Week 10: History and distance
+Herodotus, 4.1-132; Caesar, De Bello Gallico, books 1 and 4
+4/2 Tuan, chapter 11 (Attachment to Homeland); Scott, chapter 4 (Corinth and Syracuse); A.
+Riggsby, “Space”
+student presentation: Purves, Space and Time in Ancient Greek Narrative, “Map and narrative”
+4/4 Romm, “The boundaries of Earth”; Schadee, “Caesar’s construction of northern Europe”
+student presentation: D. Krebs, “‘Imaginary geography’ in Caesar’s ‘Bellum Gallicum’”
+Week 11: Spaces of the mind
+4/9 Tuan, chapter 9 (Time in Experiential Space), chapter 13 (Time and Place); Scott, conclusion;
+Taylor, “Roman Neapolis and the landscape of disaster”
+student presentation: S. Alcock, Archaeologies of the Greek Past, “Archaeologies of memory”
+4/11 Strauss Clay, “Homer’s Trojan theater”; de Jong, “Narratological theory on space”
+student presentation: J. Klooster, “Authenticity and autochthonous traditions in Archaic and Hellenistic
+lyric poetry”
+Week 12: Peer editing workshops
+*Second draft of paper due Monday 4/15
+4/16 Workshopping: paper second drafts, group 1
+4/18 Workshopping: paper second drafts, group 2
+                                                                                                        9
+
+
+Week 13: Contested places
+4/23 Tuan, chapter 12 (Visibility: the Creation of Place); A. Loukaki, “Greece: ancient ruinous
+landscapes, aesthetic identity, and issues of development”
+student presentation: N. Sakka, “ ‘A debt to ancient wisdom and beauty’: the reconstruction of the Stoa
+of Attalus in the ancient Agora of Athens”
+4/25 M. Kozelsky, “Ruins into relics: the monument to Saint Vladimir on the excavations of
+Chersonesos, 1827-1857”
+student presentation: Ö. Harmanşah, “ISIS, heritage, and the spectacles of destruction in the global
+media”
+Week 14: Placing ourselves, I
+4/30 Student research presentations
+5/2 Student research presentations
+Week 15: Placing ourselves, II
+5/7 Student research presentations
+5/9 Student research presentations
+Final drafts of research papers due at 5pm on Friday, May 17, in my mailbox in the Classics
+Office (WAG 123)
+Administrative information
+Dropping the class
+The official add/drop period for spring classes runs until January 25; after this, you may need
+approval of a department chair or the dean of your school. The last day for students to add a class or
+drop a class for a possible refund is February 6. After this, you must use a Q-drop form to drop the
+class. You can do so without academic penalty until April 8. You may only use Q-drops for six
+classes during your time at UT, so choose wisely.
+Office hours
+These are meant for you, and I urge you to take advantage of them. I'm usually happy to set up
+meetings outside the listed times – just send an email. Come by to ask questions, complain about
+impenetrable academic prose, or simply chat.
+Class etiquette
+I expect you to be courteous and to treat each other and me as you'd like to be treated. Please put
+away and turn off your cell phone during class time. Although much of our class time will be
+occupied with discussion, we will be doing a good deal of digital work, so I encourage you to bring
+and use a laptop or tablet (but please use all your willpower to keep yourself from using your device
+                                                                                                      10
+
+
+to engage in activities unrelated to class). Arrive on time and don’t leave until the end of class –
+coming or going after class is in progress is rude to me and rude to your classmates.
+Scholastic dishonesty
+Scholastic dishonesty on any graded assignment will result in zero credit on that
+assignment. A second offense will result in an F in the class. Scholastic dishonesty includes
+any kind of cheating on quizzes or assignments, including plagiarism. Plagiarism is the presentation
+of someone else's work or ideas as your own, and applies both to word-for-word copying and to
+paraphrasing or repetition of the original thoughts of another without proper citation. Be
+particularly careful of this in your research paper: you do not need to cite basic facts, but where you
+have drawn ideas or materials from other sources, you must cite each of them. For more
+information, contact Student Judicial Services at 471-2841. If you are still unsure about the exact
+definition of plagiarism or academic dishonesty, see
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+UT Honor Code
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership,
+individual opportunity, and responsibility. Each member of the university is expected to uphold these
+values through integrity, honesty, trust, fairness, and respect toward peers and community.
+Behavior Concerns Advice Line (BCAL)
+If students are worried about someone who is acting differently, they may use the Behavior
+Concerns Advice Line to discuss by phone their concerns about another individual’s behavior. This
+service is provided through a partnership among the Office of the Dean of Students, the Counseling
+and Mental Health Center (CMHC), the Employee Assistance Program (EAP), and The University
+of Texas Police Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact
+Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video
+phone) and arrange an official accommodation letter. Faculty are not required to provide
+accommodations without an official accommodation letter from SSD. Please notify me as quickly as
+possible if the material being presented in class is not accessible. You may reference SSD’s website
+for more disability-related information:
+http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Religious holidays
+Students can make up work missed for a religious holiday if they bring a request and documentation
+of the holiday fourteen days ahead of time.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside
+when a fire alarm is activated or an announcement is made. Please be aware of the following
+policies regarding evacuation:
+     •   Familiarize yourself with all exit doors of the classroom and the building.
+                                                                                                       11
+
+
+• Remember that the nearest exit door may not be the one you used when you entered the
+  building. If you require assistance to evacuate, inform me in writing during the first week of
+  class.
+• In the event of an evacuation, follow my instructions or those of class instructors.
+• Do not re-enter a building unless you’re given instructions by the Austin Fire Department,
+  the UT Austin Police Department, or the Fire Prevention Services office.
+                                                                                               12

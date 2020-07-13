@@ -1,0 +1,170 @@
+Fall 2019 Environmental Controls I : ARC 334K , ARI 324K
+Instructor: Prof. Dr. Juliana Felkner
+Office: GOL 2.212
+Office hours: Friday 11:00 a.m. to 12:30 p.m.
+Email: juliana.felkner@austin.utexas.edu
+Assistants: Victoria Chaney; vcchaney@utexas.edu
+                 YsaBella Licciardi; ysabella.licciardi@gmail.com
+                 Trent Sexton; trenton.a.sexton@vanderbilt.com
+Course Time and Location:            TTH 3:30 to 5:00 p.m., GOL 3.120
+Lab Times and Location:              F 9:00 a.m.-12:00 p.m. SUT 2.112 (00340 and 00800)
+                                    W 6:00 p.m.-9:00 p.m. WMB 5.112 (00805)
+                                    W 6:00 p.m.-9:00 p.m. WMB 3.116 (00345)
+Course Description
+This course provides the essential architectural and technical understanding of daylighting,
+electrical lighting, electrical systems and acoustics, from both a quantitative and qualitative point
+of view. The goal is to provide architects, interior designers (and engineers, through
+collaboration) the skills to design comfortable, energy efficient, and healthy environments. A
+secondary but important goal is to introduce the students to experiential learning and
+interdisciplinary collaboration at an early stage in their careers.
+Term Project
+There will be one ongoing project during the course, which is done in interdisciplinary groups.
+Students will work in mixed groups of 5-6 on a real-world project on sustainable buildings in the
+Austin area and in collaboration with the stakeholders in the city of Austin. Details will be
+communicated at the beginning of the class.
+Academic Learning Goals/Course Objectives
+• Sustainable design
+• Daylighting techniques
+• Shading design and performance analysis
+• Glazing strategies
+• Accurate site analysis
+• Electrical systems
+• Electrical lighting
+• Acoustic design
+• Sound physics
+• Sound physics
+• Acoustic design
+
+
+Text
+Grondzik, Walter T.; Kwok, Alison G.; Stein Benjamin; Reynolds, John S. Mechanical and
+Electrical Equipment for Buildings, 12th Edition. Wiley, 2010. ISBN: 978-0-470-19565-9
+References
+Lechner, Norbert. Heating, Cooling, Lighting: Sustainable Design Methods for Architects. ISBN
+978-1-118-58242-8
+Minnaert, M.G. The Nature of Light and Colour in the Open Air, Dover, 1987. ISBN:
+978-0-486-20196-2
+Olgyay, Victor. Design with Climate: Bioclimatic Approach to Architectural Regionalism: New and
+expanded Edition With new essays by Donlyn Lyndon, Victor W. Olgyay, John Reynolds, & Ken
+Yeang. ISBN: 9780691169736
+Tanizaki, Junichiro. In Praise of Shadows, Leete’s Island Books, 1977. ISBN:
+978-0-918172-02-0
+Other references to be provided on course website.
+Note: Please see the professor if you are unable to obtain a copy of any of the texts and will
+need to borrow a copy. The professor has a limited number of extras for this purpose.
+Course Tools
+•    On-line Equidistant Projection Sun Charts at:
+         http://solardat.uoregon.edu/PolarSunChartProgram.html
+         http://www.gaisma.com
+•    Climate Consultant shareware (Mac and PC), download
+         http://www.energy-design-tools.aud.ucla.edu
+•    Google Earth
+         http://www.google.com/earth/download/ge/agree.html
+• VELUX Daylight Visualizer, Manual 3D Modeler, free download.
+*More may follow
+Course Format
+The course is composed of lectures presenting material to be used in the design exercises as
+well as the lab exercises. The exam will be based on material covered in the lectures. Lab
+exercise tasks will be presented to the students at the end of the lecture and are to be
+completed in groups during the lab sessions. Completed work is to be handed in at the end
+each lab session. The lab sessions will also provide students the opportunity to ask for feedback
+on their projects. One design project will be given during this course. Details of the assignments
+will be handed out during the semester
+
+
+Environmental Controls I Tentative Schedule Fall 2019
+ Week        Class                      Topics                       Reading                  Due
+      1     R 08/29       Course introduction – Daylighting Intro Climate Consultant
+      2     T 09/03       Excursion
+            R 09/05       Presentations                                               Presentations
+      3     T 09/10       Comfort, Daylight, View           Lechner Ch. 1-2 (notes)
+            R 09/12       Psychrometric Charts, Comfort     Lechner Ch. 1-2 (notes)
+      4     T 09/17       Materials and Comfort             MEEB p. 70, 167-78
+            R 09/19       Daylight/Orientation              MEEB p. 241-57
+      5     T 09/24       Project Progress Pinup                                      Pinup
+            R 09/26       Shading/Orientation               MEEB 284-291
+      6     T 10/01       Glass and Glare (Const Exam I)    MEEB 178-91
+            R 10/03       High Performance Glass            MEEB 178-91
+      7     T 10/08       Design Collaboration              TBA
+            R 10/10       Exam I                                                      Exam
+      8     T 10/15       Design II Collaboration
+            R 10/17       Lighting Sources, Luminaires      MEEB p 697-706
+      9     T 10/22       Case Studies/Design and           MEEB p. 681-95, 717-27,
+                          Document                          751-770, 1015-1028
+            R 10/24       Project Preparation
+     10     T 10/29       Projects Critique (w/const)
+            R 10/31       Projects Preparation and Critique
+     11     T 11/05       Accoustics                        MEEB p. 1031-41
+            R 11/07       Security (Const Exam II)
+     12     T 11/12       Review
+            R 11/14       Exam II                                                     Exam
+     13     T 11/19       Guest TBD
+            R 11/21       Project Review
+     14     T 11/26       Thanksgiving-No class                                       Enjoy your break!
+            R 11/28       Thanksgiving Day                                            Enjoy!
+     15     T 12/03       Studio Review week TBA
+             12/05        Studio Review week no class                                 Project
+*Acknowledgements: Special thanks go to Keith Simon and Mathew Tanteri for their selected readings
+and advice on this course, having previously taught it. They were very helpful in providing input.
+Grading
+Lab Exercises/Homework           20%
+Project                          25%
+Exam 1                            15%
+Exam 2                           30%
+Attendance                       10%
+
+
+Grading is based on a 100 point scale as follows:
+A 93-100
+A- 90-92
+B+ 87-89
+B 83-86
+B- 80-82
+C+ 77-79
+C 73-76
+C- 70-72
+D+ 67-69
+D 63-66
+D- 60-62
+F 59 and below
+Prerequisite: Successful completion of the course Architectural Interior Design 520L or
+Architecture 520L with a grade of at least C. For exceptions, talk with the professor.
+UT Statements:
+Attendance Policy
+Attendance is mandatory in all lectures and labs. At the instructor's discretion, any student with
+more than 2 unexcused absences may be dropped from the class or the student's final grade
+may be lowered by one letter grade for each additional absence. Absences are excused only for
+medical conditions and personal or family emergencies. Written documentation will be required
+for any excused absence. A student who misses classes or other required activities for the
+observance of a religious holy day should inform the instructor as far in advance of the absence
+as possible, so that arrangements can be made to complete an assignment within a reasonable
+time after the absence. A student who fails to complete missed work within the time allowed will
+be subject to the normal academic penalties.
+For Undergraduate Students: Quantitative Reasoning Flag
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are
+designed to equip you with skills that are necessary for understanding the types of quantitative
+arguments you will regularly encounter in your professional life. You should therefore expect a
+substantial portion of your grade to come from your use of quantitative skills to analyze real-
+world problems.
+Students with Disabilities
+Students with disabilities who require special accommodations need to get a letter that
+documents the disability from the Services for Students with Disabilities area of the Office of the
+Dean of Students (471-6259 voice or 471-4641 TTY for users who are deaf or hard of hearing).
+This letter should be presented to the instructor in each course at the beginning of the semester
+and accommodations needed should be discussed at that time. Five business days before an
+exam the student should remind the instructor of any testing accommodations that will be
+needed.
+Behavior Concerns Advice Line (BCAL)
+
+
+If you are worried about someone who is acting differently, you may use the Behavior Concerns
+Advice Line to discuss by phone your concerns about another individual’s behavior. This service
+is provided through a partnership among the Office of the Dean of Students, the Counseling and
+Mental Health Center (CMHC), the Employee Assistance Program (EAP), and The University of
+Texas Police Department (UTPD). Call 512-232- 5050 or visit http://www.utexas.edu/safety/bcal.
+Policy on Academic Integrity
+Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University.
+Since such dishonesty harms the individual, all students, and the integrity of the University,
+policies on scholastic dishonesty will be strictly enforced. For further information, visit the SJS
+website at http://deanofstudents.utexas.edu/sjs or call 471-2841.

@@ -1,0 +1,54 @@
+                                                  M f340L
+                                  Matrices and Matrix Calculations
+                               Summer 2019, First Session – Unique ID 86350
+ Instructor:   Dr. Kirk Blazek
+ Lecture:      MTWThF 10-11:15 in RLM 5.104
+Catalog Description: Techniques of matrix calculations and applications of linear algebra.
+Prerequisites: Mathematics 408C, 408K, or 408N with a grade of at least C-.
+Text: Lay, Linear Algebra and its applications, 5th Edition, Addison Wesley.
+Attendance: I will not take attendance, but there will be twice weekly quizzes which will serve to keep
+track of attendance. Class participation will be considered in borderline grades.
+Homework and Quizzes: Problem sets will be assigned twice a week. The homework will not be handed
+in for a grade, but at the beginning of each class on Tuesdays and Fridays there will be a brief quiz cov-
+ering the material from the most recent homework. The quiz will be a single question directly from the
+homework. You are allowed to use your own homework for the quiz, but are allowed no other outside
+assistance, such as from your book or a calculator. There will no makeup quizzes, but your lowest quiz
+grade over the course of the class will be dropped.
+Exams: This course will have a midterm and a final. The midterm will be given on Friday, June 21st in
+class at the usual time (there will be no quiz this day) and the final will be on Saturday, July 13th from
+7pm-10pm. The midterm will take place over the entire class time (rather than the brief time allotted for
+quizzes). As this is a computation-heavy subject, you will be allowed to use scientific calculators on the
+exams, but are allowed no other outside assistance, whether written, electronic, or otherwise.
+Makeup Exams: I do not give makeup exams after the class has taken their test, but if you know before-
+hand you will be unable to be there for an exam, let me know and you may be able to take an alternative
+exam early. If you miss an exam, you must let me know immediately in order to discuss possible arrange-
+ments. However, don’t expect a whole lot unless you missed the exam due to medical reasons that can be
+confirmed with a doctor’s note.
+Grading: This class is graded on the +/- scale. The overall grade will be determined by the given during
+the class as well as well as the quizzes.
+    An A will be given for an overall grade of 93 and up, an A- is given for 90-93, a B+ for 87-90, a B for
+83-87, a B- for 80-83, etc. Please note that since the grade ranges for most of the grades are 3 or 4 points,
+there is not much rounding (e.g., an 86.5 is still a B, but an 86.95 will round to a B+).
+                                             30%     Midterm
+                                             40%     Final Exam
+                                             30%     Quizzes
+                                             100%    Total
+
+
+Honor Code: The core values of the University of Texas at Austin are learning, discovery, freedom, lead-
+ership, individual opportunity, and responsibility. Each member of the University is expected to uphold
+these values through integrity, honesty, trust, fairness, and respect toward peers and community.
+Students with Disabilities: If you are a student with a disability, or think you may have a disability,
+please contact Services for Students with Disabilities (SSD) to determine your eligibility for accommoda-
+tions. You may refer to SSD’s website for contact and more information: http://diversity.utexas.edu/disability/.
+If you are already registered with SSD, please deliver your accommodation letter to me as early as possible
+so we can discuss your approved accommodations.
+Schedule (Subject to Change):
+    • Week 1: Sections 1.1-1.3
+    • Week 2: Sections 1.4,1.5,1.7,1.8,2.1-2.3
+    • Week 3: Sections 2.4,2.5,2.8,2.9,3.1,3.2
+         – Midterm Friday, June 21st
+    • Week 4: Sections 4.1-4.7
+    • Week 5: Sections 5.1-5.7
+    • Week 6: Sections 6.1-6.5
+         – Final Exam Saturday, July 13th from 7pm-10pm

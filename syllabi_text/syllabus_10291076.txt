@@ -1,0 +1,429 @@
+                                                                                            1
+                                University of Texas at Austin
+                             ARH 347K | ANT 324L | LAS 327
+                     Art and Archaeology of Ancient Peru
+             Spring 2020 | DFA 2.204 and PCL 2.358 | 11:00a – 11:50a | MWF
+                                  Prof. Astrid Runggaldier
+                    Syllabus – Complete with Policies and Readings List
+                                            (v.01)
+Instructor: Prof. Astrid Runggaldier               Pronouns: she, her, hers
+Email: astrid@austin.utexas.edu                    Office Phone: (512) 471-6292
+Office: ART 1.412D (Mesoamerica Center)            Office hours: Mondays 1pm-3pm or by
+                                                   appointment with 48 hours notice
+Additional Instructors: Albert Palacios (Digital Scholarship); Joshua Ortiz (Digital
+Scholarship); Katy Parker (Fine Arts Library)
+Classroom: DFA 2.204 (Mondays and Wednesdays) and PCL 2.358 (Fridays DH Labs)
+Class times: MWF 10:00 am – 10:50 am
+Online classroom: https://utexas.instructure.com
+COURSE DESCRIPTION
+This course is intended to provide a comprehensive survey of the cultures that occupied
+the Andean coast and highlands prior to and immediately following the Spanish
+Conquest in the 16th century. Given the lack of written history prior to the Spanish
+arrival, investigations of the ancient Andean visual arts – the elaborate textiles, fine
+ceramic vessels, carved stone sculptures, and monumental architecture – have
+advanced through multidisciplinary approaches. We will thus examine various culture
+groups by engaging both the iconography and archaeology of the regional traditions.
+In this course, we will address pertinent environmental and ecological factors, evidence
+of ritual practices, such as human sacrifice and water management, techniques and
+materials of manufacture of art and architecture, and issues in looting and collecting
+antiquities, as well as preserving and presenting collections. Additionally, we will
+work with primary materials comprising the ceramic objects in the Art and Art History
+Collection (AAHC) to create digital humanities projects focused on these artworks. To
+that end we will work weekly in a digital humanities lab workspace focusing on group-
+work and collaborative projects in digital curation to create online exhibits for a virtual
+museum.
+Upon successful completion of this course you will be able to:
+    1. Appreciate Andean visual arts through humanities and social sciences
+          approaches in art historical and anthropological analyses (Visual Literacy).
+
+
+                                                                                          2
+   2. Identify the culture, period, style, and subject of select works of ancient Peruvian
+          art and archaeological finds covered in this course (Subject Knowledge).
+   3. Describe the formal qualities and critically evaluate Andean objects in an
+          argument supported with relevant observations and facts (Research Methods).
+   4. Understand current debates on ethical issues in museum practices, and engage
+          with digital humanities methods and goals (Contemporary Relevance).
+   5. Broaden your perspective on world cultures through in-depth analysis of ancient
+          non-Western art (Diverse and Inclusive Approach to History).
+LAND ACKNOWLEDGEMENT: In this course we acknowledge that the land we meet
+on belongs to the traditional territory of a number of indigenous peoples–– specifically
+the Apache, the Alabama-Coushatta Tribe of Texas, the Kickapoo Tribe of Texas, the
+Ysleta del Sur Pueblo, the Lipan Apache Tribe, the Texas Band of Yaqui Indians, and the
+Coahuiltecan. Additionally, Texas is and has been home to the Caddo, Comanche,
+Kiowa, Wichita, Chickasaw, and Waco nations. We honor and thank the indigenous
+peoples connected to this territory where we gather, and give gratitude to this land on
+which we meet. We work to decolonize our practices, and make our course an inclusive
+space for all. We extend our respect for indigenous traditions, arts, and worldviews to
+the people of the Andes and the non-Western artworks this course focuses on.
+VISUAL & PERFORMING ARTS (Core Component 050):
+This course may be used to fulfill the visual and performing arts component of the
+university core curriculum and addresses the following four core objectives
+established by the Texas Higher Education Coordinating Board: communication
+skills, critical thinking skills, teamwork, and social responsibility.
+GLOBAL CULTURES FLAG:
+This course carries the Global Cultures flag. Global Cultures courses are designed to
+increase your familiarity with cultural groups outside the United States. You should
+therefore expect a substantial portion of your grade to come from assignments
+covering the practices, beliefs, and histories of at least one non-U.S. cultural group,
+past or present.
+REQUIRED COURSE MATERIALS
+There will be weekly readings that will provide historical background, concepts, and
+vocabulary terms. You are expected to read the assigned pages before class meets,
+which will supplement the material presented in class.
+
+
+                                                                                         3
+1.     Required Textbook: Stone, Rebecca R. 2012. Art of the Andes: from Chavín to
+       Inca. Thames & Hudson, London. Please purchase the 2012 (third edition) from
+       any bookseller (less tan $16).
+2.     Required Online: CANVAS (https://utexas.instructure.com). Required
+       readings will be available on our course website. The subject matter of these
+       articles will be addressed in short writing assignments, group discussions in
+       class, and may also appear in questions on the exams.
+3.     Required Online: Email (checked daily) You are required and expected to
+       read your email concerning this course (linked to your email address on file with
+       your UTEID).
+4.     Required Online: SQUARECAP (Unless you already have it, you will be
+       required to purchase access to Squarecap online to track your attendance and
+       your responses to daily questions in class (https://www.squarecap.com).
+GRADED COURSE COMPONENTS: EXAMS AND PROJECTS
+There will be weekly lab assignments and graded exercised throughout the semester
+that lead up to your final graded digital research project. There are two exams, a
+Midterm and a Final, but they are not cumulative. Additionally, you will be offered
+extra credit opportunities at different times during the semester.
+Formal Analysis Exercise/Blanton: we will visit a selection of objects in the Blanton
+Museum of Art to learn about material culture, iconography, and how to ask questions
+about artworks. Your notes will serve as a starting point for the final Digital Research
+Project.
+Exams: The exam formats will be discussed in detail in class, and will generally include
+a map, multiple-choice, True/False, and Fill-In-The-Blanks questions. NO MAKE-UP
+EXAMS will be provided except for documented emergencies.
+AAHC Digital Research Project/Online Exhibit: you will focus throughout the semester
+on research methods and tools of digital scholarship aimed at analyzing and presenting
+two objects in the Art and Art History Collection. These assignments will be focused on
+teamwork with assigned peer groups to produce rich description essays that will be
+uploaded to our online exhibit platform and presented to the class and the public in the
+final week of classes. There will be internal project deadlines throughout the semester.
+Quiz (extra credit): The quiz will focus on the geography, environments, ancient sites
+locations, and chronology of the Andean region of Peru in South America.
+Article Analysis/Film Response/Research Lecture (extra credit): there will be
+occasional articles, documentaries, or research lectures to provide different ways to
+present material beyond the textbook and class lectures. These opportunities will be
+discussed in detail in class, and will all require some written work.
+
+
+                                                                                          4
+GRADING BREAKDOWN
+Grade component                                    Due date                % of Final grade
+Attendance and participation                       (throughout)                     15%
+Blanton Exercise                                   (F Feb 21 and F Feb 28)          5%
+Digital Research Project                           (throughout)                     50%
+Exam 1 (Midterm)                                   (W March 25)                     15%
+Exam 2 (Final)                                     (Date TBA week of May 11)        15%
+Your final grade will be based on the +/- system according to the following scale:
+A (93 and above); A- (90-92); B+ (87-89); B (84-86); B- (80-83); C+ (77-79); C (74-76);
+C- (70-73); D+ (67-69); D (64-66); D- (60-63); F (59 and below)
+
+
+                                                                                          5
+                                    COURSE POLICIES
+These are important course expectations and policies: please read!
+Note: if you email to ask for information already contained in these pages, do not
+expect a reply. If you email to request information that is best addressed in
+conversation, please come to office hours (open-door, walk in, no appointments
+necessary), or expect that you may be asked to come to my office in person.
+CLASSROOM POLICY:
+Please arrive on time, stay awake, be courteous to your instructors and peers, and
+refrain from being disruptive. Being disruptive includes arriving late and making
+people get up for your seat; clanking desks and noisily putting away your things before
+the official end of class; engaging in computer activities other than note-taking, which
+distract you and those seated behind you; taking out and looking at your phone.
+Computers and tablets (not phones) are allowed in class for note-taking only. Phone
+are allowed for answering Squarecap questions only. Please refrain from engaging in
+other activities on your computer while note-taking, which means: do not check your
+email, shop online, play games, do homework for other classes, update your social
+media, etc. Multi-tasking is severely overrated.
+Please turn off the ringer and stow away all cell phones as soon as you are done with
+your Squarecap question. Do not park them on the desk, and do not surreptitiously
+check them in your lap. Simply refrain from using them for the time that you are in
+class. If you absolutely have to use your phone, step out of the room.
+ATTENDANCE AND PARTICIPATION POLICY:
+Class Attendance and Participation involves an oral component and a writing
+component. It includes your attendance to lecture, alertness and responsiveness in class,
+and points accumulated through the daily questions on Squarecap (drawn directly from
+the readings due that day). Attendance and Participation constitutes 15% of your final
+grade and comprises being in class, staying up-to-date on reading assignments, class
+interactions, responses to films and news, and your general behavior and contribution
+to a dynamic class environment and group-work environment in our DH labs. If you
+attend but never contribute to discussion, get distracted, sleep, or check your phone,
+you are not participating, so do not expect a perfect Attendance and Participation
+grade.
+Attendance is fundamental to your understanding of the course materials and your
+ability to do well on exams. If you do not attend, you cannot participate. Attendance
+will be recorded in class through the online platform Squarecap. Three absences in
+class meetings will be excused, and will not affect your final grade: they are free passes.
+Use these judiciously only when they are actually needed. Beyond your three free-pass
+absences, missed classes will be excused only with notification from the Dean of
+Students (see Student Emergency Services). Absences do not excuse work missed. You
+are still responsible for due dates and for the material covered during the classes you
+
+
+                                                                                           6
+miss. Depending on the schedule, some work will not be able to be made up, especially
+the DH lab workshops and discussions. For all missed classes, please find out what you
+have missed from a peer and request that they share notes with you. Each unexcused
+absence, for any reason*, beyond the four allowable absences detailed below will affect
+your final grade.
+Attendance will be taken at the beginning or end of class. If you are late to class or leave
+early, it is your responsibility to sign the sheet acknowledging that you missed the
+Squarecap check. Four missed Squarecap questions (late arrivals, leaving early,
+forgetting, etc) will be marked as one absence. If you check in but need to leave early
+for a legitimate reason, please let me know before the start of class.
+* Four exceptions to the attendance policy are outlined here:
+1. Religious holidays: A student who misses class or other required activities for the
+observance of a religious holy day will not be penalized under Sections 51.911 and
+51.925 of the Texas Education Code; however, the policy requires students to notify each
+of their instructors in advance of the absence so that arrangements can be made. Please
+notify your instructor 14 days in advance if you foresee that a religious holy day will
+affect your ability to attend a class.
+2. If you have already turned in your official Department of Intercollegiate Athletics
+travel schedule, travel days are approved and do not take up your excused absences.
+You are still responsible for any work missed or any assignments due. If travel days fall
+on any quizzes or tests in the course calendar of this syllabus, please notify me in the
+first two weeks of classes so arrangements can be made in advance.
+3. If you have an illness, injury, personal or family emergency, your absence will be
+excused only with notification from the Student Emergency Services in the Office of
+the Dean of Students: familiarize yourself with their response to student needs and
+absences from class: Student Emergency Services rules and contact information:
+http://deanofstudents.utexas.edu/emergency/index.php
+Class Absence Notification Request – read the link below carefully:
+http://deanofstudents.utexas.edu/emergency/absencenotificationrequest.php
+4. If you have accommodations from Services for Students with Disabilities (SSD) that
+include flexible attendance requests, please discuss the nature of your accommodations
+with me in the first two weeks of classes, before you start accumulating absences. If
+you have SSD accommodations requests, please schedule a meeting with me at the
+beginning of the semester and make sure I receive your SSD letter.
+COMMUNICATION POLICY:
+Please feel free to communicate in person during office hours, no appointment
+necessary. If you communicate via email, please remember that you might be asked to
+
+
+                                                                                         7
+come to office hours if the matter is too lengthy to discuss in an email. When you send
+emails, please remember to communicate professionally and with courtesy. Identify
+your course (ARH347K) in the subject line to avoid confusion with other courses, and
+to avoid accidentally being filtered out to junk mail. Allow 48 hours to receive a
+response. Learning how to communicate effectively is a skill that will serve you
+throughout your adult life.
+You are welcome to use Canvas to email, as messages are seamlessly integrated with
+my inbox. However, you must either choose to push Canvas notifications to your email,
+or make sure to check Canvas at least once daily. Check the email address you have
+provided to UT Austin as your contact email. Not being aware of a message, messages
+bounced because of “user unknown,” and a full inbox are not justifiable reason for
+being uninformed.
+USE OF CLASS MATERIAL:
+The materials used in this class, including but not limited to tests, quizzes, homework
+assignments, and class slides are copyright protected works. Only students enrolled in
+a password-protected Canvas course are entitled to make use of the class materials for
+the purposes of completing their own work. Any unauthorized copying and
+distributing of the class materials is a violation of federal law and may result in
+disciplinary actions being taken against the student. Additionally, the sharing of class
+materials without the specific, express approval of the instructor may be a violation of
+the University's Student Honor Code and an act of academic dishonesty, which could
+result in further disciplinary action. This includes, among other things, uploading class
+materials to websites for the purpose of sharing those materials with other current or
+future students. You may share notes with other students currently enrolled in this class
+provided that you do not charge for the service.
+ACADEMIC INTEGRITY:
+The University’s Honor Code states the following: “As a student of The University of
+Texas at Austin, I shall abide by the core values of the University and uphold
+academic integrity.” A high standard of individual honor in scholastic work
+undertaken at the University is expected of all students. At a minimum, you should
+complete any assignments, exams, and other scholastic endeavors with the utmost
+honesty, which requires you to:
+    • acknowledge the contributions of other sources to your scholastic efforts;
+    • complete your assignments independently unless expressly authorized to seek or
+        obtain assistance in preparing them;
+    • follow instructions for assignments and exams, and observe the standards of
+        your academic discipline; and
+    • avoid engaging in any form of academic dishonesty on behalf of yourself or
+        another student.
+
+
+                                                                                           8
+For the official policies on academic integrity and scholastic dishonesty, please refer to
+Chapter 11 of the Institutional Rules on Student Services and Activities. Familiarize
+yourself with the Honor Code here:
+http://deanofstudents.utexas.edu/conduct/standardsofconduct.php
+ACADEMIC DISHONESTY:
+In promoting a high standard of academic integrity, the University broadly defines
+academic dishonesty - basically, all conduct that violates this standard, including any act
+designed to give an unfair or undeserved academic advantage, such as:
+    • Cheating
+    • Plagiarism
+    • Unauthorized Collaboration / Collusion
+    • Falsifying Academic Records
+    • Misrepresenting Facts (e.g., providing false information to postpone an exam,
+        obtain an extended deadline for an assignment, or even gain an unearned
+        financial benefit)
+    • Multiple submissions (e.g., submitting essentially the same written assignment
+        for two courses without authorization to do so)
+    • Any other acts (or attempted acts) that violate the basic standard of academic
+        integrity
+Please be aware that UT Austin policies on scholastic dishonesty will be strictly
+enforced. Students who violate University rules on scholastic dishonesty are subject to
+disciplinary penalties, including the possibility of failure in the course and/or dismissal
+from the University.
+In addition to violations such as cheating on a test: 1) Please be careful when writing not
+to copy or paraphrase directly from the article without a reference, ex. (Smith, 22);
+without a reference, such act can constitute plagiarism. 2) The assignments are not
+collaborative; all your writing (exams, essays, assignments, discussion comments, etc.)
+should reflect your ideas. If you have concerns over what constitutes scholastic honesty
+in writing, please contact the Undergraduate Writing Center: http://uwc.utexas.edu
+SERVICES FOR STUDENTS WITH DISABILITIES:
+Students with certified disabilities may request appropriate academic accommodations
+in the course. For information on the University of Texas at Austin policy on and
+support of students with disabilities, please call (512) 471-6259 or visit
+http://www.utexas.edu/diversity/ddce/ssd/.
+Please provide documentation of your needs during the first week of class, if
+possible, so that I can make the necessary accommodations promptly.
+
+
+                                                                                           9
+RESOURCES AND STUDENT SUPPORT SERVICES:
+Assistance is available to you to help you succeed in your university career. Numerous
+free an/or low cost support services include, but are not limited to, the following:
+• The Undergraduate Writing Center at http://uwc.utexas.edu/ helps students with
+    every phase of writing assignments for their courses.
+•   The Sanger Learning Center at http://www.utexas.edu/ugs/slc/ provides study
+    skills, time-management and note-taking courses.
+•   Student Emergency Services at
+    http://deanofstudents.utexas.edu/emergency/index.php provides services that
+    include student absence notifications in case of documented medical (mental of
+    physical health) issues, crime victimization, or family-related critical incidents and
+    emergencies.
+•   University Health Services at http://healthyhorns.utexas.edu/ provides medical
+    and health promotion services for currently enrolled students and some non-
+    students who are officially enrolled in certain University programs.
+•   The Counseling and Mental Health Center at http://cmhc.utexas.edu/ helps
+    students with their personal concerns so that they can meet the daily challenges of
+    student life
+
+
+                                                                                                10
+Readings Schedule for Monday and Wednesdays content – to be completed BEFORE each
+lecture class. For lab readings list please see DH Fridays schedule posted weekly on Canvas.
+ Week 1 Introduction
+ W Jan 22           Introduction to class topics – read Syllabus and Policies for Friday Jan 24
+                    1. Introduction to Digital Humanities Fridays Lab (DH Friday).
+ F Jan 24
+                    DH Friday - see Weekly Lab Readings & Assignments on Canvas
+ ACK SHEET
+                    2. Acknowledgement Sheet due
+  Week 2 Time and Place - Introduction
+  M Jan 27          1. AAHC reading on Canvas
+  W Jan 29          1. Read Preface and Introduction chapter, pp. 6-8, and 9-19
+  SQUARECAP         2. Sign up for Squarecap before class
+                    DH Friday - see Weekly Lab Readings & Assignments on Canvas
+  F Jan 31
+                    Ethical Debates in Cultural Institutions: Collection Custodianship
+  Week 3 Time and Place – Chronology and Caral
+  M Feb 3           Read Ch. 2, pp. 21-36
+                    1. Review Ch. 2, pp. 21-36
+  W Feb 5
+                    2. Caral reading on Canvas
+                    DH Friday - see Weekly Lab Readings & Assignments on Canvas
+  F Feb 7
+                    Ethical Debates in Cultural Institutions: Collection Use
+  Week 4 Preceramic and Initial Period – Cerro Sechín and Chavín de Huantar
+  M Feb 10          Read Chapter 2, pp. 36-55
+                    1. Review Chapter 2, pp. 36-55
+  W Feb 12
+                    2. Objects reading on Canvas
+                    DH Friday - see Weekly Lab Readings & Assignments on Canvas
+  F Feb 14
+                    Collection Life Project & Finding Secondary Sources
+
+
+                                                                                  11
+Week 5 Paracas, and Blanton Museum of Art
+M Feb 17      Read Ch. 3, pp. 56-72, focus on Paracas textiles
+W Feb 19      Review Ch. 3, pp. 56-72, focus on Paracas ceramics
+F Feb 21      DH Friday - see Weekly Lab Readings & Assignments on Canvas
+BLANTON       Blanton Art Museum Visit (by group) & Research Day (other groups)
+Week 6 Nasca, and Blanton Museum of Art
+M Feb 24        Read Ch. 3, Nasca pp. 72-84
+W Feb 26        Review Ch. 3, Nasca pp. 72-84
+F Feb 28        DH Friday - see Weekly Lab Readings & Assignments on Canvas
+BLANTON         Blanton Art Museum Visit (by group) & Research Day (other groups)
+Week 7 Nasca ceramics and Nasca Lines
+M March 2       Read Ch. 3, Cahuachi and Nasca Lines, pp. 84-90
+W March 4       Nasca Lines reading on Canvas
+                DH Friday - see Weekly Lab Readings & Assignments on Canvas
+F March 6
+                TimelineJS Tool Workshop
+Week 8 Moche
+M March 9       Read Ch. 4, Moche culture, architecture, burials, pp. 91-110
+W March 11      Read Ch. 4, Moche ceramics, pp. 110-126
+F March 13      DH Friday - see Weekly Lab Readings & Assignments on Canvas
+PROJECTS        Collection Life Project Presentations
+
+
+                                                                           12
+Week 9 Spring Break!
+March 16-20    No class meetings – Spring Break
+Week 10 Moche and Midterm Exam
+M March 23     Review Ch. 4, all Moche, pp. 91-126
+W March 25
+               MIDTERM EXAM
+EXAM
+               DH Friday - see Weekly Lab Readings & Assignments on Canvas
+F March 27
+               Introduction to Public Digital Humanities
+Week 11 Tiwanaku and Wari
+M March 30     Read Ch. 5, Tiwanaku, pp. 127-144
+W April 1      Read Ch. 5, Wari, pp. 144-162
+               DH Friday - see Weekly Lab Readings & Assignments on Canvas
+F April 3
+               Building Digital Collections & Metadata Workshop Part 1
+Week 12 Chimu
+M April 6      Read Ch. 6, Chimu pp. 163-166 and 173-181
+W April 8      Read Ch. 6, Chimu pp. 181-186
+               DH Friday - see Weekly Lab Readings & Assignments on Canvas
+F April 10
+               Metadata Workshop Part 2 & Ceramics Lab
+
+
+                                                                               13
+Week 13 Chimu and Lambayeque/Sicán
+M April13       Review Ch. 6, all Chimu pp. 173-181
+                1. Review Ch. 6, pp. 163-166
+W April 15
+                2. Read Ch. 6., Lambayeque pp. 166-173
+                DH Friday - see Weekly Lab Readings & Assignments on Canvas
+F April 17
+                In-Class Exhibition Work Day
+Week 14 Lambayeque/Sicán and additional DH Lab time
+M April 20     Review Ch. 6., Lambayeque pp. 166-173
+W April 22     DH Lab – see Lab Readings Schedule
+PCL LAB 4      Theme Introduction Writing Note! Today PCL Lab 4, not DFA 2.204
+               DH Friday - see Weekly Lab Readings & Assignments on Canvas
+F April 24
+               In-Class Exhibition Finalization Work Day
+Week 15 Inca
+M April 27      Read Ch. 7, Inca culture and history pp. 194-202
+W April 29      Read Ch. 7, Inca stonework pp. 202-217
+                DH Friday - see Weekly Lab Readings & Assignments on Canvas
+F May 1
+                Omeka Exhibition Development
+Week 16 Inca and Digital Research Project Presentations
+M May 4
+                Read Ch. 7, Machu Picchu and beyond pp. 217-242
+EVALS
+W May 6
+                Public presentations of digital research projects
+PROJECTS
+F May 8         1. Presentations of digital research projects
+PROJECTS        2. Final discussion and reflections
+                         CONGRATULATIONS! YOU ARE DONE!

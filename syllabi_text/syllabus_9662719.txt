@@ -1,0 +1,227 @@
+Summer 2019
+COURSE DESCRIPTION
+This course is designed to help you learn the basics                        MATT HERSH
+of data analysis, including the descriptive and                   Email: matthersh@austim.utexas.edu
+inferential statistical procedures that are commonly                             Office:
+used in health science research. You will learn                                GDC   6.808
+techniques for graphing and describing data;                       Website: https//canvas.utexas.edu
+explore common function patterns including linear,
+logarithmic, exponential and logistic functions; be
+introduced to correlation and linear regression;
+learn the basic principles of hypothesis testing and
+the inferences that can be drawn from them; and
+develop skills necessary for evaluating the conditional probability of health-related events. This course
+may be used to fulfill the mathematics component of the university core curriculum and addresses the
+following three core objectives established by the Texas Higher Education Coordinating Board:
+communication skills, critical thinking skills, and empirical and quantitative skills. This course carries the
+Quantitative Reasoning flag. Quantitative Reasoning courses are designed to equip you with skills that
+are necessary for understanding the types of quantitative arguments you will regularly encounter in
+                                                                          your adult and professional life.
+                                                                          You should therefore expect a
+                                                                          substantial portion of your grade
+                                                                          to come from your use of
+                                                                          quantitative skills to analyze real-
+                                                                          world problems.DR. KRISTIN HAR
+                                                                                       Weekly Lab
+                                                                          SDS 302 provides students with
+                                                                          the unique opportunity to analyze
+real-world data in a lab setting for 1.5 hour of class time each week. The weekly 1.5-hour lab sessions
+meet in FAC 101B. Attendance is mandatory and you are expected to arrive on time. All lab work is done
+in pairs. Students that are not in class by the time work has begun (usually within 5 minutes of the start
+of class) will not be allowed to work with a partner and will be docked 5 points from their lab grade for
+their first late lab, 10 points from the second, etc. If your lab partner doesn’t arrive on time, you may
+choose to work with another individual or work alone.
+
+
+                     WHAT ARE THE COURSE REQUIREMENTS?
+LECTURE ATTENDANCE & PARTICIPATION
+There are 25 points assigned for lecture attendance and participation. You must be present and
+participate (via Squarecap) in at least 80% of the lecture days to receive 25 points. If you participate in at
+least 50% of classes (but less than 80%) you will get 10 points. Otherwise, you get 0 points. You will need
+a working (and charged) cell phone, tablet, or laptop which can connect to the internet to participate
+each day.
+REQUIRED TEXTBOOK & MATERIALS
+Note: there is no textbook for this course.
+1. Software for Lab. Make sure you have a full copy of Excel on your computer (no trial versions). Excel
+     is free as part of a Microsoft bundle available to all students for download. Follow the directions on
+     the document posted on Canvas. If you use a Mac, you MUST upgrade to Excel 2016, previous
+     versions of Excel will not be supported. If you use a PC, Excel 2013 or 2016 will be acceptable.
+2. Squarecap Subscription.        We will not use Squarecap
+      Arrive on Time. If you arrive after the first       Use Electronic Devices for Class Purposes Only.
+   question you will not recieve attendance credit          Please check your social media accounts and
+                        for the day.                                       texts AFTER class.
+                                            EXPECTATIONS
+       Print the Class Handout. I will post a daily
+     handout on Canvas prior to each lecture. This            Bring Your Calculator, Formula Sheet, and
+    will simplify your note taking and include extra          Statistical Tables. You can use a scientific
+    practice to be completed outside of class. Print      calculator, but a graphing calculator is preferred.
+        it and bring it with you to class every day.
+
+
+               WHAT KINDS OF ASSIGNMENTS WILL WE DO?
+This course is divided into three-unit exams. Each unit ends with a lecture exam that will evaluate your
+knowledge of the material. All other unit assignments are learning tools designed to help you develop
+the necessary skills and understanding. Consistent performance on these assignments will help your
+grade, but your performance on exams will be considered the strongest indicator of your success in
+meeting the course learning outcomes.
+ WEEKLY DEADLINES
+         Assignment                Location                               When is it due?
+           Pre-Lab              Canvas (Lab)                           Thursdays @ 11:59pm
+         Homework               Canvas (Lab)                  Various deadlines (see course calendar)
+             Lab                Canvas (Lab)       By the end of lab hour, must be completed in lab classroom
+ASSIGNMENT DESCRIPTIONS
+Labs (45 pts X 5). Labs consist of two assignments: pre-lab (worth 10 points) and lab (worth 35
+points). Pre-lab is completed on-line and you can re-take it for a higher grade. Lab is completed
+during your assigned lab time.
+Homework Problems (100 pts). Homework problems cover data analysis problems from the topics
+covered in lecture. Homework must be submitted via Canvas by the deadline. You must
+photograph your handwritten work or type out your work. I suggest submitting using the Canvas
+By Instructure App available on Google Play or the iTunes store. Keep up with problem
+assignments due dates on Canvas.
+3 Exams (450 pts). There will be two in-class exams and the third exam will be held during the final exam
+session. These exams are a combination of multiple choice and hand problem-solving. You must show
+your work for full credit. They will cover material discussed in class and lab.
+Poster Project (200 pts total). The poster project will be presented during the assigned final examination
+period (you must be present for your project to be graded). This project will allow you to select your
+own research question of interest, collect your own data, and present your findings in a poster session.
+There will be several important deadlines throughout the semester leading up to the final presentation
+during your university assigned final exam time.
+
+
+                HOW WILL I BE GRADED?
+MISSED ASSIGNMENT POLICY We will offer make-up exams,
+assignments, and labs only under the following circumstances. For
+any other reason, a make-up is not guaranteed and a grade of “0”
+will be recorded for any missed lab, assignment, or exam.
+1. You are away from UT as part of a UT-sponsored activity including
+athletics. Check with me if you are uncertain whether your absence
+qualifies.
+ASSIGNMENTS Points 2. The lecture, lab, or exam is in conflict
+5 Labs              225      with a religious observance – notify me
+Homework            100      by the 12th day of class.
+3 Exams             450      3. You suffer from a chronic, documented illness or an emergency that
+Final Project       200      results in your missing an exam or lab. Under these circumstances, contact
+                             me as soon as possible to discuss a course of action.
+Attendance          25
+                                   If you miss an assignment for any other reason (ie. unexpected illness
+Total               1000
+                             not documented, car wreck) you have 24 hours to contact the TA and discuss
+your course of action. If you fail to contact the TA within this time frame you will not be allowed to make
+up missed assignments unless you have documentation indicating your inability to contact us. After your
+first late assignment, you will receive a grade of 0 on any missed or late lab or assignment unless you
+can provide documentation for one of the 3 reasons listed above. You must attend the final poster
+session in order to have your final project graded. Failure to attend the poster session will result in a
+grade of a zero for the final poster.
+          If you experience a Canvas issue and cannot upload an assignment through the system before
+the deadline, if you email the assignment to the instructor or TA prior to the deadline, the assignment
+will not be considered late. Emailing to state you are experiencing a problem, without including the
+assignment as an attachment will still count as a missed assignment.
+BONUS POINTS Occasionally, there will be assignments during the semester
+that I will offer as bonus points. These bonus points will be added to your           Course        Points
+overall TOTAL points for the class at the end of the semester.                         Grade      Needed
+REGRADE POLICY If you think there may be an error in grading, you should                 A           930
+bring it to our attention. To request a regrade, send an email to the instructor         A-          900
+that does the following:                                                                 B+          870
+• Include the words “Regrade Request for SDS 302” in the subject heading.                B           830
+     Include the unique number of the course or class and lab time, your                 B-          800
+     name, EID, the exact assignment (e.g., HW 3), and a clear concise                   C+          770
+     summary of the concern. If you do not provide evidence of a specific                C           730
+     error, your request for a regrade will not proceed.                                 C-          700
+There will be a one-week window after you receive your grade for regrade                 D+          670
+requests on any course assignment. Then, the grade sticks.
+                                                                                         D           630
+FINAL COURSE GRADES Final grades will be assigned according to the grade
+                                                                                         D-          600
+point cutoffs listed below. Please note that grade cutoffs are firm. We do not
+curve grades in this class. Keep track of your progress so you know if you are meeting your grade goal.
+Your total course grade will be reflected on the Canvas course site (not lab site). All grades will be copied
+over from the lab site to the main course site. To see how many points you have earned in the class at
+any point hover over your “Assignments” percentage.
+
+
+                            WHAT ARE THE CLASS POLICIES?
+STUDENT ACCOMMODATIONS Students with a documented disability may request appropriate
+academic accommodations from the Division of Diversity and Community Engagement, Services for
+Students with Disabilities, 512-471-6259 (voice) or 1-866-329-3986 (video phone).
+http://ddce.utexas.edu/disability/about/
+     • Please request a meeting as soon as possible to discuss any accommodations
+     • Please notify me as soon as possible if the material being presented in class is not accessible
+     • Please notify me if any of the physical space is difficult for you
+ EMERGENCY EVACUATIONS Occupants of buildings on The University of Texas at Austin campus are
+required to evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+requires exiting and assembling outside. Familiarize yourself with all exit doors of each classroom and
+building you may occupy. Remember that the nearest exit door may not be the one you used when
+entering the building. Students requiring assistance in evacuation shall inform me in writing during the
+first week of class. In the event of an evacuation, follow the instruction of faculty or class instructors. I
+will notify you via Canvas for follow up directions regarding missed class time. Do not re-enter a building
+unless given instructions by the following: Austin Fire Department, The University of Texas at Austin
+Police Department, or Fire Prevention Services office. More information can be found at:
+www.utexas.edu/emergency
+ IF YOU NEED HELP CMHC Crisis Line is a confidential service of CMHC that offers an opportunity for UT-
+Austin students to talk with trained counselors about urgent concerns. A counselor is available every day
+of the year, including holidays. You can call when you want, at your convenience. Telephone counselors
+will spend time addressing your immediate concerns. CMHC 24/7 Crisis Line: 512-471-CALL (2255).
+ACADEMIC HONESTY The course is built upon the idea that team-based learning is important and a
+powerful way to learn. I encourage you to study together often. However, there are times when you
+need to demonstrate your own ability to work and solve problems. Your projects and exams are
+independent assignments. This means these assignments are to be completed on your own, without
+discussion with your peers. You can work with other students to complete your homework, but you
+cannot copy answers from someone else. Students who violate these expectations can expect to receive
+a failing grade on the assignment and be reported to the Student Judicial Services for academic
+dishonesty.
+Additionally, you cannot share any assignment, handout, or document related to this class. Sharing any
+class materials online in any form, including the homework and assignments you submitted, without my
+express approval is considered academic dishonesty. If something is found online which you have
+posted, you will be reported for academic dishonesty to SJS.
+    Don’t understand something
+                                            •Raise your hand and ask a question!
+                in class?
+       Not sure how to solve a              •Watch the hand calculation videos on our website,
+               problem?                       review your notes, and go to office hours.
+     Can’t figure out how to do
+                                            •Review the online videos in your pre-labs.
+         something in Excel?
+                                            •Work the suggested problems in the course packet or
+     Practice, practice, practice!            the extra problems from the handout.
+     Need motivation to study?              •Form a study group and work together weekly.
+
+
+                        SDS 302 Course Outline – Second Summer Session
+                                        July and August 2018
+   Sun         Mon              Tue             Wed                  Thu               Fri      Sat
+15     15                16             17                   18               19             20
+       Classes Begin/    Center and     Normal model/        Sampling         Boxplot Lab
+       Intro to Data     Spread         z-scores             distributions &
+                                                             confidence
+                                                             interval HW Prob
+                                                             1 due and
+                                                             Histogram Pre-
+                                                             Lab due
+21     22                23             24                   25               26             27
+       One-sample t-test Exam Review    Exam 1               Independent t-   One-sample &
+       HW Prob 2 due     HW Prob 3 due                       test             Independent T-
+                                                                              test Lab
+                                                             T-test Pre-Lab
+                                                             due
+28     29                30             31                   August 1         2              3
+       Paired t-test     ANOVA          ANOVA/post-hoc Contingency            ANOVA Lab
+       HW Prob 4 due                    HW Prob 5 due        Tables
+                                                             ANVOA Pre-Lab
+                                                             due
+4      5                 6              7                    8                9              10
+       Chi-Square        Exam Review    Exam 2               Scatterplot/     Chi-square Lab
+       HW Prob 6 due                                         Correlation
+                                                             Chi-square Pre-
+                         HW Prob 7 due                       Lab due
+
+
+                                           July and August 2018
+   Sun            Mon               Tue            Wed                  Thu             Fri           Sat
+11         12                13            14                   15             16             17
+           Linear Regression Exponential   Logs and             Exam Review    Linear &
+                             Models        Exponents                           Exponential    Exam3/Poster
+                                                                               functions Lab  presentation
+                             HW Prob 8 due                      Linear Pre-lab
+           Submit project                                       due            HW Prob 10 due
+           data                                                 HW Prob 9 due  (extra credit)
+       Exam 3/Poster Presentation: Saturday August 17th 9 am – 12 pm (Upload Poster file by 9 am)

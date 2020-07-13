@@ -1,0 +1,169 @@
+                        International and Interstate Taxation - FALL, 2018
+                                            ACC 384.6 (#02765)
+Schedule:                Tue and Thu, 2:00pm-3:15pm
+Classroom:               CBA 4.324
+Office:                  CBA 6.304G.
+Office Hours:            1:00pm-1:40pm, Tue and Thur and by appointment.
+Instructor:              Stuart R. Singer
+Email:                   stuart.singer@mccombs.utexas.edu.
+Purpose of Course:
+The purpose of the class is to develop your ability to understand how U.S. tax law analyzes transactions
+involving more than one national jurisdiction. The core of the course is an understanding of how the United
+States, and to some extent, other countries, exercise their jurisdictions to tax income from international
+transactions. The course will also include an examination of the U.S. taxation of foreign-based income (foreign
+tax credits, Subpart F), the role of income tax treaties, determination of appropriate transfer prices between
+affiliated companies and the treatment of income from intellectual property.
+Class Schedule
+Thursday, October 11, will be HAT DAY. Everyone must wear a hat to class.
+Part of the class on Tuesday, September 18, will be devoted to a session on preparing the Practice
+Memorandum assigned on Monday, September 17. This practice memo will be due on Thursday, September
+20.
+Course Materials
+The course materials will consist of readings in Kuntz & Peroni, U.S. International Taxation, which is available
+in RIA-Checkpoint. Go to Table of Contents, then International Tax Library, then WG&L International
+Treatises, then Kuntz & Peroni. There will also be readings in Bittker & Eustice, Federal Taxation of
+Corporations and Shareholders, which is also available in RIA-Checkpoint. Go to Table of Contents, then
+Federal Library, then Federal Editorial Materials, then WG&L Federal Treatises, then Corporate Taxation, then
+B&E. The cases and other materials listed in the last column of this syllabus are collected in a packet which
+should be purchased at the COPY CENTER on the Third Floor in GSB. Finally, there are a few readings from
+the Hellerstein book, to be found in RIA, under the category “State Taxation” From time to time, there may also
+be other materials, including cases, regulations and rulings, all distributed to you on Canvas or by email.
+Classroom Deportment
+Cell phones must be turned off while you are in class. You may NOT use laptops in class. Beverages are
+OK, but no food in class.
+Evaluation and Grades
+I will determine your final grade on the basis of two factors: written assignments during the course (70%),and
+your participation in our discussions during class (30%). There will be no exams.
+Reading Assignments
+The tax issues involved in international transactions are difficult and complex, and even in a summary course
+such as this one the reading assignments are both detailed and long. Moreover, the knowledge in classes 1, 2
+and 3 will form the base for understanding the material in classes 4, 5, and 6, and so on. You cannot fall
+behind in these assignments
+                                                          1
+
+
+Written Assignments
+There will be three written assignments in the form which you, as professionals, would prepare for clients or
+employers. These may take the form of memoranda or drafting of sections of acquisition agreements. The
+memorandum assignments will be given to you on Monday, October 1, Monday, October 29, and
+Monday, December 3, respectively, and you will have 3 days to turn them in.
+Class Participation
+Just as I expect you to be able to communicate your analysis and conclusions in writing (in the memoranda
+discussed above), I also expect every student to participate regularly in our class discussion. There will be no
+exceptions; you cannot succeed in this course unless you are prepared every day to recite in class. It
+is far more important for each student to make efforts than to get the “right” answer. As professionals, all of the
+knowledge in the world will accomplish nothing unless it is coupled with the ability to express it clearly and to
+discuss it with your peers. I will grade each student each day on participation.
+Missed Assignments and Attendance
+You will be excused from turning in work timely if you are deceased or if you become a parent during the
+semester. I am willing to entertain other excuses, but don’t get your hopes up. A similar policy applies to
+taking an “incomplete” for the course.
+Scholastic Dishonesty--Departmental Policy on Scholastic Dishonesty. The Department of Accounting
+has no tolerance for acts of scholastic dishonesty. The responsibilities of both students and faculty with regard
+to scholastic dishonesty are described in detail in the department’s Policy Statement on Scholastic Dishonesty.
+By teaching this course, I have agreed to observe all the faculty responsibilities described in that document. By
+enrolling in this class, you have agreed to observe all the student responsibilities described in that document. If
+the application of that Policy Statement to this class and its assignments is unclear in any way, it is your
+responsibility to ask me for clarification.
+Memoranda: Each student is expected to complete the memoranda independently during the designated
+memorandum period. No student may refer to other students’ memorandum solutions or discuss the
+memorandum with other students during the memorandum period.
+Professional Conduct. The highest professional standards are expected of all members of the McCombs
+community. The collective class reputation and the value of the Texas experience hinges on this.
+Students with Disabilities: The University of Texas at Austin provides upon request appropriate academic
+accommodations for qualified students with disabilities. For more information, you may call the Office of the
+Dean of Students at 471-6259, 471-4641 TTY.
+NOTE: This schedule is tentative and may be changed during the semester due, among other
+things, to the need to add discussions on the latest changes to the Internal Revenue Code.
+    #    DATE                 TOPIC                   TEXT READING                               CASES, REGS, CODE
+                                                                                           [May be supplemented or modifie
+  1     8-30       Use of Precedent.             K&P:                        Excerpt from Saltzman, IRS Practice & Proced
+                   First Jurisdictional Basis:   ¶B1.02[3], B1.03[1]         Mayo Foundation
+                   RESIDENCE &                                               Cook v. Tait, Compagnie de Suez,
+                   NATIONALITY                                               Johansson
+  2-3   9-4 &      Second Jurisdictional         K&P: ¶1A2.03[1] & [2-       Boulez,
+        9-6        Basis: SOURCE                 a&b], 2.03[3a], 2.03[6a],   Paul Karrer, Rohmer
+                                                 2.03[7a]
+                                                          2
+
+
+4   9-11   Foreign Corps and             K&P ¶¶C1.03 [1],                      §§871(a), (b), (h)(1)-(3) & 881(a), (b) (c).
+           Nonresident Aliens and        [2] [c] [i] [ii] [iii], [h] [i], [j], Fernando Barba, Warwick Housden
+           FDAPI                         [3] [a] [4], [5], [6],                SDI Netherlands, Rev Rul 80-362
+                                         [9] [a] [13], [15]
+5   9-13   Withholding Rules             K&P ¶¶ C2.01, 2.02 [1],               A. C. Monk
+                                         [2],[3] [4][c][i], [6][a],            PLR 9252004
+                                         [7],&[8][c].                          Rev Ruls. 71-142, 73-419, 83-177
+    9-17   Assignment PRACTICE
+           MEMO
+6-7 9-18 & Third Jurisdictional Basis: : K & P ¶¶ C1.04[1], [2],               Pinchot, Evelyn Neill, Jorge Pasquel,
+    9-20   BUSINESS ACTIVITY             [4-a], [5-c]                          Elizabeth Herbert
+                                                                               Piedras Negras Broadcasting
+8   9-25   Nonresident Aliens and        K&P ¶¶ C1.04:                         Code §§ 871(d), 872, 882 and 884(a) & (b).
+           Foreign Corps Doing           [5] [c] [i] & [ii];                   Rev Ruls. 70-424, 72-280, 75-253,
+           Business in the U.S.          [5] [d] [i] & [ii]                      81-78 (with 84-17), 86-154.
+           Effectively Connected                                               Notice 87-56
+           Income                                                              Vitale v. Comm.
+9   9-27   Recognition and Blockage                                            Rev Ruls. 55-62, 74-351, 81-290
+           Issues                                                              Anderson Clayton, Sanford Berman
+                                                                               Phanor Eder, Warner Bros.
+    10-1   Assignment MEMO #1
+10- 10-2   Indirect Exporting:           K&P ¶¶ B2.02                          Moline Properties,
+           Definition of Entity, Choice                                        National Carbide,
+           of Entity, Capitalization.                                          Perry Bass, In Re Frazier
+                                                                               Johnson Bronze, Lloyd Noonan
+11  10-4   Foreign Tax Credit:           K&P ¶¶ B4.01,                         Regs. §1.901-2 excerpt
+           Part 1 Taxes on Income        B4.02 [1], [2], [5], [6], [8],        Rev Rul 57-516, American Metal Company
+                                         B4.03[1], [3][a]&[b],                 Rev Rul 72-346, Bank of America
+                                         [5][a]&[b], & [6];                    Rev Rul 69-653, Dubitzky
+                                         B4.05[1]-[6]
+12  10-9   Foreign Tax Credit:           K&P ¶¶ B4.07, B4.09[1]                Arundel Corp.
+           Part 2: Who is the            and [2][a] & [b]                      Rev Rul 69-468
+           Taxpayer? Timing and                                                Regs. §1.903-1 Excerpt.
+           Realization. Indirect Credit.                                       Amoco Corp.
+    10-11  HAT DAY
+13  10-11  Foreign Tax Credit:           K&P ¶¶ B4.16[1], [2], [10],           Section 909, Badger, Rev Rul 2003-8
+           Part 3: Limitations,          [15], &18][a].                        Rev Ruls 76-215, 78-410, ,
+           Matching issues. Allocation                                         Section 904(a), (b), (c) and (d)(1)
+           and Apportionment of
+           Expenses
+14  10-16  Tax Treaties                  K&P ¶¶ C4.01 [1] - [3],               Rev Ruls 55-617, 72-301,
+                                         C4.03,C4.04[1], [2],                  79-28, 79-199, 2000-59,
+                                         C4.05[1]-[4]                          2004-3, 2004-76
+                                         C4.12[1]-[3]                          Ismat Abeid
+15  10-18  Section 911: The Ultimate     K&P ¶¶ B1.04 [2][b][i],[ii],          Rev Ruls 67-158, 80-254. Brewster v. Comm.
+           Tax shelter                   [iv],[v]; [c] [i], [ii], [iii].       Vogt v. US., Cook v. US
+16  10-23  SubPart F: General and        K&P ¶¶ B3.02[a]&[b],                  Koehring
+           New DRD Rules                 B3.03[1]
+    10-29  Assignment MEMO #2
+17  10-30  SubPart F: Foreign Base       K&P ¶B3.05[1].                        Ashland Oil
+           Company Income                [2][a], [b][i], [c][i], [d], [e],     Dave Fishbein
+                                         [g], [k]-
+                                         ¶B3.05[3][a]&[d] ¶B3.05[8]
+18  11-1   Investments in U.S.           K&P ¶¶ B.3.06[1], [2] [a]-            Rev. Rul. 76-125, Ludwig v. Comm
+           Property                      [d],                                  AOD 1978-139, PLR 8042001
+                                         B3.06[3][e]&[g],                      Sherwood Properties
+                                         B3.08[1]                              FSA 200216022
+19- 11-6 & §482: Part One: General       K&P ¶¶ A3.03 [1]-[6],                 Local Finance, First Security Bank of Utah
+20  11-8   Rules; Interest               A3.04 [1], [3], [4], [5], [6]         Rev Rul 74-566, GCM 38545
+                                                     3
+
+
+21- 11-13 & §482: Part Two: Services,   K&P ¶¶ A3.05[1]-[4],          Diefenthal
+22  11-15   Tangible Property           A3.08 [2][a], [b], [d], [e],  Rev Rul 78-83
+                                        [f], [3], [4], [5], [6]       Lufkin Foundry
+                                                                      U.S. Steel
+23- 11-27 & §482: Part Three:           K&P ¶¶ A3.07 [2][d], [e]      Ciba-Geigy
+24  11-29   Intangibles, CSAs, Advance  [f], [g] & [h]                Proctor and Gamble.
+            Pricing Arrangements.       A3.07 [5][b], [c], [d], [e]
+                                        A3.09, A3.10
+    12-3    Assignment MEMO #3
+25  12-4    International               B&E ¶¶ 15.81, 15.82, 15.63    Code §§367 & 1248(a) and (b).
+            Reorganizations-367 and     & 15.83                       Rev Ruls 67-192, 69-156, 72-421, 74-60, 81-32,
+            1248.                                                     Dupont
+26  12-6    State Tax: Jurisdiction and Hellerstein Part IV, Chap.    Complete Auto Transit
+            Coverage                    6, ¶¶ 6.01, 6.02, 6.03, 6.05, Quill Corporation
+                                        6,06, 610, 6.15               Geoffrey, Inc.
+                                                                      Cerro Copper Products
+                                                                      America Online
+                                                    4

@@ -1,0 +1,189 @@
+                         THE UNIVERSITY OF TEXAS AT AUSTIN
+               Department of Aerospace Engineering and Engineering Mechanics
+                                ASE 320 Low Speed Aerodynamics
+                                            Summer 2020
+                                             SYLLABUS
+Unique Number:             74639
+Instructor:                Dr. Raghav Mahalingam
+                           raghavmahalingam@austin.utexas.edu
+Lecture Time:              M through F 11.30am-1pm
+Location:                  Zoom, Link available via Canvas Calender
+Office Hours:              By appointment
+Teaching Assistants:       None
+Web Page:                  Canvas (canvas.utexas.edu)
+Text:                      Fundamentals of Aerodynamics, 6th edition
+                           John D. Anderson, McGraw Hill
+Additional References: Fluid Mechanics, 6th Edition, Frank M. White, McGraw-Hill, 2003
+                           Introduction to Fluid Mechanics, 4th or later edition, Robert Fox, Alan
+                           McDonald and Philip Pritchard, Wiley.
+Catalog Description:       Fundamental concepts, fluid statics; integral and differential analysis;
+                           detailed analysis of inviscid, incompressible flows; aerodynamics of
+                           airfoils and wings. Three lecture hours a week for one semester.
+Course Objectives:         To develop student knowledge of fluid properties, fluid statics, integral
+                           and differential analysis of fluid flow problems, detailed analysis of
+                           inviscid incompressible flow, aerodynamics of wings and airfoils.
+Prerequisites:             Mathematics 427L and Mechanical Engineering 310T with a grade of
+                           at least C- in each.
+Computer:                  Homework problems might require the use of computer software tools
+                           and simple programming. You are expected to know how to use a
+                           computer.
+Important dates:
+Fri, June 19th         Test 1, Via Canvas
+Fri, Jul 3rd           Test 2, Via Canvas
+TBD, July 10/11        Final Exam, Via Canvas
+Note: No alternate date for the final. Check final exam schedule and location. If you have 3
+finals on the same day, start preparing NOW.
+Grading:
+         Homework: 15%
+         Two In-Class tests: 50% (25% each)
+         Final Exam: 35%
+
+
+Letter grades will be assigned as follows:
+    Score    95-100    90-95     85-89    80-84    75-79     70-74   65-69    60-64   50-59    <50
+   Grade        A        A-       B+        B        B-       C+       C       C-       D       F
+Knowledge, Skills, and Abilities Students Should Have Before Entering This Course:
+Mathematics of calculus and differential equations and background in physics.
+Knowledge, Skills, and Abilities Students Gain from this Course (Learning Outcomes):
+Physical understanding of the various physical phenomena that can occur in fluid flow.
+Basic tools of analysis of fluid mechanics: conservation of mass, momentum and energy and
+equations of state. An understanding of the analysis of simple inviscid, incompressible flows and
+the application of these to the flow over airfoils and finite wings.
+Impact On Subsequent Courses In Curriculum:
+The basic tools of fluid mechanics and the extensive applications to inviscid incompressible
+flows, including airfoils and wings, serve as a foundation for subsequent courses in compressible
+fluid mechanics (ASE 362K), applied aerodynamics (ASE 364), and propulsion (ASE 376K).
+Relationship of Course to Program Outcomes:
+This course contributes to the following ABET Criterion 3 outcomes and those specific to the
+EAC accredited program.
+Outcome                                         Ö Outcome                                          Ö
+a. An ability to apply knowledge of             Ö g. An ability to communicate effectively         Ö
+mathematics, science, and engineering
+b. An ability to design and conduct                h. the broad education necessary to
+experiments, as well as to analyze and             understand the impact of engineering
+interpret data                                     solutions in a global, economic,
+                                                   environmental, and societal context.
+c. an ability to design a system,                  i. A recognition of the need for and an
+component, or process to meet desired              ability to engage in life-long learning
+needs within realistic constraints such as
+economic, environmental, social,
+political, ethical, health and safety,
+manufacturability, and sustainability.
+d. An ability to function on multi-                j. A knowledge of contemporary issues
+disciplinary teams
+e. An ability to identify, formulate, and       Ö k. An ability to use the techniques, skills,     Ö
+solve engineering problems                         and modern engineering tools necessary
+                                                   for engineering practice
+f. An understanding of professional and
+     ethical responsibility
+
+
+ABET Program Criteria Achieved:
+Program criteria are unique to each degree program and are to be compiled from the program
+criteria given for each degree program and listed in table format below.
+  Criterion                    Ö Criterion                     Ö Criterion                   Ö
+  A. Aerodynamics              Ö G. Orbital Mechanics              M. Preliminary/Conceptual
+                                                                  Design
+  B. Aerospace Materials           H. Space Environment            N. Other Design Content
+  C. Structures                    I. Attitude Determination O. Professionalism
+                                  and Control
+  D. Propulsion                Ö J. Telecommunications             P. Computer Usage
+  E. Flight Mechanics          Ö K. Space Structures
+  F. Stability and Control         L. Rocket Propulsion        Ö
+
+
+Topics (#lectures):28
+    1. Introduction (1)
+    2. Fundamental Concepts, Aerodynamic forces, moments and coefficients, Dimensional
+         Analysis (3)
+    3. Fluid Statics and Dynamics (2)
+    4. Methods of flow description, Control Volumes, Integral Relations (4)
+    5. Differential Analysis, continuity, Navier-Stokes (5)
+    6. Incompressible Inviscid Flow, Euler equations, Bernoulli’s equation (1)
+    7. Flow About Immersed Bodies, Drag, Lift (5)
+    8. Review lectures (3)
+    9. In-Class Tests (2)
+Professionalism Topics: none
+Design Assignments: none
+Laboratory Assignments: None
+Class Format:
+This is a lecture class. It will help you to read the relevant chapters before the lectures. Do not
+schedule job interviews, plan trips, etc. which conflict with test dates. The final exam will be
+comprehensive.
+Class Outline:
+See lecture outline at the end of this syllabus
+Homework Policy:
+Homework is essential to help you master the material. Typically 2-4 homework problems will
+be assigned every week. There are a total of 9 regular homework assignments through the course
+and 1 advisement appointment (HWX) for a total of 10 points. They are generally due at the start
+of class on the day listed in this document. Homework solutions will be submitted on Canvas.
+There will be no paper submissions. Solutions to the homework will be posted electronically
+after the submission date and no homework will be accepted after it is posted unless you have
+obtained prior permission. You are welcome to discuss the homework problems and solution
+strategies with your classmates but solve the problems yourself. Copying homework from a
+Legacy folder or from another student and presenting it as your own work is a violation of
+professional ethics.
+Examinations:
+Two in-class tests and a final comprehensive exam. All exams will be closed book. Information
+handouts (equations, data etc.) will be provided with the exam if needed.
+Attendance:
+Your grades are determined by your performance on tests and homework. I strongly encourage
+you to attend class and I will not tutor you in my office on topics that were discussed in classes
+
+
+you did not attend. Homework must be turned in on time to receive credit and you must attend
+all tests unless you have a relevant documented reason for being absent.
+Please do not schedule job interviews, plant trips, etc. which conflict with test dates. If a test
+conflicts with a religious holiday that you observe, please notify me in advance so I can arrange
+an alternate test date for you. The same rules apply to homework submission. If you are sick for
+an exam please notify me beforehand via e-mail. A medical certificate is required for an excused
+absence and a make-up test.
+Evaluation:
+UT Course-Instructor survey at the end of the semester. Feedback on my teaching is welcome at
+any time. Tell me in person or send me a note. What you tell me early will benefit this class.
+Feedback at the end of the semester benefits the next class.
+Other Administrative Matters:
+1) Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University.
+Since such dishonesty harms the individual, all students, and the integrity of the University,
+policies on academic dishonesty will be strictly enforced. For further information please visit the
+Student Judicial Services web site: http://deanofstudents.utexas.edu/sjs/
+2) An engineering student must have the Dean’s approval to add or drop a course after the fourth
+class day of the term. Adds or drops are not approved after this except for good cause. “Good
+cause” is interpreted to be documented evidence of an extenuating nonacademic circumstance
+(such as health or personal problems) that did not exist on or before the fourth class day.
+Applications for approval to drop a course after the fourth class day should be made in the Office
+of Student Affairs, ECJ 2.200.
+3) Web-based, password-protected class sites are available for all accredited courses taught at
+The University. Syllabi, handouts, assignments and other resources are types of information that
+may be available within these sites. Site activities could include exchanging e-mail, engaging in
+class discussions and chats, and exchanging files. In addition, class e-mail rosters will be a
+component of the sites. Students who do not want their names included in these electronic class
+rosters must restrict their directory information in the Office of the Registrar, Main Building,
+Room 1. For information on restricting directory information see:
+http://registrar.utexas.edu/students/records/restrictmyinfo
+Course documents will be posted on Canvas
+4) All students should become familiar with the University's official e-mail student notification
+policy. It is the student's responsibility to keep the University informed as to changes in his or
+her e-mail address. Students are expected to check e-mail on a frequent and regular basis in order
+to stay current with University-related communications, recognizing that certain communications
+may be time-critical. It is recommended that e-mail be checked daily, but at a minimum, twice
+per week. The complete text of this policy and instructions for updating your e-mail address are
+available at http://www.utexas.edu/its/policies/emailnotify.html. In this course e-mail will be
+used as a means of communication with students. You will be responsible for checking your e-
+mail regularly for class work and announcements.
+
+
+5) The University of Texas at Austin provides, upon request, appropriate academic adjustments
+for qualified students with disabilities. Any student with a documented disability (physical or
+cognitive) who requires academic accommodations should contact the Division of Diversity and
+Community Engagement, Services for Students with Disabilities, 471-6259.
+http://www.utexas.edu/diversity/ddce/ssd
+6) By UT Austin policy, you must notify me of your pending absence at least fourteen days
+prior to the date of observance of a religious holy day. If you must miss a class, an
+examination, a work assignment, or a project in order to observe a religious holy day, you will be
+given an opportunity to complete the missed work within a reasonable time after the absence.
+
+
+ASE 320 Expected Course Outline
+Prepared by: Raghav Mahalingam  Date: 5/21/20

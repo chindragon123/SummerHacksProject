@@ -1,0 +1,188 @@
+AET 341C Course Syllabus
+                                               Interactive Music
+                                                   AET 341c
+"Computers and electronic music are not the opposite of the warm human music. It's exactly the same." -
+                                                      Bill Laswell
+                                                    Spring/2019
+                                            Room MRH 3.124 (MML)
+                                               M-W, 12:30pm – 2pm
+Instructor:                 Jack W Stamps, DMA
+                            Office: The Founrdry, jstamps@austin.utexas.edu
+                            210.849.534 (cell)
+Office Hours:               TBA
+I.           Rationale:
+AET 341c is a lecture/lab course designed to introduce students to the concepts and current trends of the
+use of virtual instruments. Looking closely at programs such as Kontakt, Absynth, Reaktor, Battery and
+more, students will learn how to “orchestrate” musical ideas. Students who successfully complete the
+course will be skilled in using virtual instruments to produce and arrange in a variety of contemporary
+musical settings.
+II.      Course Aims and Objectives:
+By the end of this course, students will:
+             o     Acquire a working knowledge of a variety virtual instruments and how best to use the effectively
+             o     Think critically about how and why to use certain instruments to achieve your musical goals
+             o     Understand how to arrange a complex composition from minimal MIDI data.
+             o     Understand how to make your own custom instruments for use across multiple projects and
+                   production settings
+             o     Understand how to best use virtual instruments to produce in a variety of different musical and
+                   genre settings.
+  II.     Course Schedule
+    Unit   Date                         Class Session                                 Assignments and Comments
+           8/28     Introduction, Syllabus, Overview
+            9/2     Labor Day Holiday: NO CLASS
+            9/4     Logic X Overview
+                                                            1
+
+
+AET 341C Course Syllabus
+            9/9    Absynth 1
+           9/11    Absynth 2
+           9/16    Absynth 3                                             Synthesis Assignment
+           9/18    Kontakt 1
+           9/23    Kontakt 2
+           9/25    Kontakt 3
+           9/30    Kontakt 4
+           10/2    Battery 1
+           10/7    Battery 2
+           10/9    Massive 1
+          10/14    Massive 2                                             Orchestral Assignment
+          10/16    FM8
+          10/21    Serum 1
+         10/23     Serum 2
+          10/28    Omnisphere 1
+          10/30    Omnisphere 2                                          Sample-based Synthesis Assignment
+           11/4    Omnishere 3
+           11/6    Spectrasonics Addl 1
+         11/11     Spectrasonics Addl 2
+         11/13     Reaktor 1
+         11/18     Reaktor 2
+          11/20    Reaktor 3 / Final Arrangement Assignment
+         11/27     NO CLASS/THANKSGIVING                                 Final Reaktor Patch
+           12/1    Work on Final Arrangement
+           12/4    Work on Final Arrangement
+           12/9    In class Presentations
+III. My Assumptions
+                I come to the teaching of this course with the assumption that you have varied musical
+                background. Thus, there are no pre-requisites in music theory or composition. The nature of the
+                coursework is such that the student, with no musical skill, can find his/her voice through the aid of
+                the digital audio workstation and copious examples of electronic music composition and music
+                software.
+                It has been my longstanding belief that, with the certain alignment of circumstances, creativity and
+                artistic discernment can be taught. It has been my experience with the teaching of this course that
+                students with little to no prior music experience stand to gain much knowledge from fellow
+                classmates with some musical skill. I have found the opposite to be true: that students with musical
+                experience learn A LOT from the outside-the-box perspective brought by in the inexperienced. I
+                will work hard to keep this dynamic alive throughout the term.
+IV. Course Requirements:
+        1. Class attendance and participation policy:
+                (a) Expected classroom behavior (may want to develop this with the students, e.g., What
+                guidelines are appropriate for behavior and participation in a large class? [See last page of this
+                handout for a sample.]
+                (b) Ground Rules for participation in discussions or activities
+                (c) Civility statement and code of conduct
+                                                         2
+
+
+AET 341C Course Syllabus
+                 Religious Holy Days
+                 By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to
+                 the date of observance of a religious holy day. If you must miss a class, an examination, a work
+                 assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+                 complete the missed work within a reasonable time after the absence.
+       2. Course Readings/Materials:
+                 I will post reading materials as necessary
+                 Supplies needed:
+                 One minimum 8gb flash drive
+       3. Assignments, Assessment, and Evaluation
+                 Regular and punctual attendance at all classes is required. Absences of each student are recorded
+                 without exception from the official date of her/his enrollment. The counting of absences begins
+                 on the first day of a student’s enrollment in the course after classes begin.
+                 Both tardiness and early departure from class are forms of absenteeism. If you are more than 20
+                 minutes late, this constitutes an absence. Lesser tardiness will affect your class participation grade
+                 for that day. Students are expected to be in class the entire class period and actively engaged in
+                 classroom activities at all times. Absences from the room in either body or spirit will negatively
+                 affect your grade.
+       4. Use of Canvas in class
+               In this class I use Canvas—a Web-based course management system with password-protected
+               access at http://courses.utexas.edu —to distribute course materials, to communicate and
+               collaborate online, to post grades, to submit assignments.
+VI. Grading Procedures: Grades will be based on:
+       1. Instrument Projects                                           30% total
+       2. 4 Arrangement/Orchestration Projects (7.5% each)              30%
+       3. Final Project                                                 30%
+       4. Class Participation/Discussion/Attendance                     10%
+        Letter Grade Policy:
+        To ensure fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B-
+        will be inclusive of all scores of 80.000 through 83.999... The University does not recognize the grade of
+        A+. Thus, the conversion from percentage value to letter grade is as follows:
+        A = 94 – 100
+        A- = 90 – 93.999…
+                                                         3
+
+
+AET 341C Course Syllabus
+           B+ = 87 – 89.999…
+           B = 84 – 86.999…
+           B- = 80 – 83.999…
+           C+ = 77 – 79.999…
+           C = 74 – 76.999…
+           C- = 70 – 73.999…
+           D+ = 67 – 69.999…
+           D = 64 – 66.999…
+           D- = 60 – 63.999…
+           F = 0 – 59.999…
+VII. Academic Integrity
+University of Texas Honor Code
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the university is expected to uphold these values through integrity,
+honesty, trust, fairness, and respect toward peers and community.
+VIII. Other University Notices and Policies
+ Use of E-mail for Official Correspondence to Students
+    • All students should become familiar with the University's official e-mail student notification policy. It is the
+         student's responsibility to keep the University informed as to changes in his or her e-mail address. Students
+         are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+         communications, recognizing that certain communications may be time-critical. It is recommended that e-
+         mail be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions
+         for updating your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564 .
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact Services for
+Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not required
+to provide accommodations without an official accommodation letter from SSD. (Note to Faculty: Details of a
+student’s disability are confidential. Faculty should not ask questions related to a student’s condition or diagnosis
+when receiving an official accommodation letter.)
+    ▪    Please notify me as quickly as possible if the material being presented in class is not accessible (e.g.,
+         instructional videos need captioning, course packets are not readable for proper alternative text
+         conversion, etc.).
+    ▪    Please notify me as early in the semester as possible if disability-related accommodations for field trips are
+         required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+         transportation, site accessibility, etc.).
+    ▪    Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+         reference SSD’s website for more disability-related information:
+         http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+                                                           4
+
+
+AET 341C Course Syllabus
+Behavior Concerns Advice Line (BCAL)
+ If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to
+ discuss by phone your concerns about another individual’s behavior. This service is provided through a partnership
+ among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee
+ Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit
+ http://www.utexas.edu/safety/bcal.
+Q drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As
+stated in Senate Bill 1231:
+          “Beginning with the fall 2007 academic term, an institution of higher education may not permit an
+   undergraduate student a total of more than six dropped courses, including any course a transfer student has
+   dropped at another institution of higher education, unless the student shows good cause for dropping more than
+   that number.”
+Emergency Evacuation Policy
+ Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm
+ is activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+          ▪ Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest
+              exit door may not be the one you used when you entered the building.
+          ▪ If you require assistance to evacuate, inform me in writing during the first week of class.
+          ▪ In the event of an evacuation, follow my instructions or those of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police
+Department, or the Fire Prevention Services office.
+_____________________________________________________________________________
+                                                          5

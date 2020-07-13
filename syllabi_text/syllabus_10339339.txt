@@ -1,0 +1,91 @@
+School of Architecture                                                        Spring 2020
+_____________________________________________________________________
+ARC 334L: Environmental Controls II
+______________________________________________________________________
+Instructor:      Michael Garrison
+Place:           11:00 AM-12:00PM MWF; Lab TBA: GOL 3.120
+Text:            Mechanical and Electrical Equipment for Buildings, 13th Edition,
+                 By Grondzik, Kwok, Wiley & Sons, New York, 2019
+Objective
+The intent of this course is to learn to integrate environmental control systems into the
+form making process of architectural design. This course is intended to be one of a
+series of building science courses which describe the function of building in filtering the
+environment about their occupants.            Environmental Controls I considered the
+fundamentals of Lighting, Electrical Systems and Acoustics. Environmental Controls II
+considers the application of the thermal environment, the issues of water systems and
+the application of the fire code as well as other technical problems encountered in
+building design. We will focus on how the various human sensory systems are
+supported by related building; mechanical, building and environmental controls sub-
+systems.
+In Environmental Controls II, application sections are divided into four parts: Fire
+Protection; Vertical Transportation; Heating, Venting, and Air Conditioning; and
+Plumbing. These sections will be organized in the following way:
+        1. Required fire protection and fire exits.
+        2. Review of elevator and escalator specifications.
+        3. Sizing heating, venting and air conditioning systems.
+        4. Servicing the water needs of plumbing.
+Goals
+The goal of this course is to develop a means by which designers can create energy-
+efficient buildings. These means shall include both: (1) to understand the forms and
+components of a building that provide efficiency and comfort; (2) processes for use in
+design that will encourage the selection of the proper physical responses and facilitate
+the investigation of the likely performance of these decisions. Successful completion of
+this course should give the student the ability to:
+        1. Determine building environmental controls needs for fostering comfort and
+           performance requirements.
+        2. To suggest building strategies to satisfy these needs.
+        3. To synthesize building solutions and environmental control schemes that
+           promote the design of efficient buildings.
+        4. To analytically and physically evaluate the performance of their environmental
+           control decisions.
+
+
+Architecture 334L: Spring 2020     box class site guides & MEEB Readings (13th Edition)
+W      Jan    22    Class Introduction & Environmental Resources   1-36
+F      Jan    24    Homework one: precedent case study analysis    37-65
+M      Jan    27    LEED for Building & Commercial interiors       Box guide 1-3
+W      Jan    29    Site &Resources                                67-111
+F      Jan    31    Envelopes, Shading & Geometry                  251-276
+M      Feb    03    Homework No. 1 review                          1179-1224
+W      Feb    05    Fire Protection and Fire Exits                 1225-1253
+F      Feb    07    Fire Rating                                    Box guide 4
+M      Feb    10    Building Code Analysis                         1485-1563
+W      Feb    12    Elevators & vertical transportation systems    1564-1594
+F      Feb    14    EXAM No. 1                                     TA review
+M      Feb    17    Energy Conservation                            115-136
+W      Feb    19    Design for Heating                             277-324
+F      Feb    21    Design for Cooling                             325-383
+M      Feb    24    Day lighting, DFM                              383-440
+W      Feb    26    Daylight modeling                              441-500
+F      Feb    28    Microclimate                                   501-528
+M      Mar    02    Building configuration                         529-604
+W      Mar    04    Heat transfer and thermal comfort              605-698
+F      Mar    06    Heat loss                                      Box guide 5
+M      Mar    09    Heat gain                                      Box guide 6
+W      Mar    11    Thermal Load Analysis                          Box guide 7
+F      Mar    13    Zoning the HVAC System                         Box guide 8
+M      Mar    16    Spring Break                                   Spring Break
+W      Mar    18    Spring Break                                   Spring Break
+F      Mar    20    Spring Break                                   Spring Break
+M      Mar    23    Sizing the HVAC System                         Box guide 9-10
+W      Mar    25    Sizing the HVAC System                         129-167
+F      Mar    27    HVAC Case Studies                              Box guide 11-13
+M      Mar    30    HVAC Case Studies                              Box guide 14
+W      Apr    01    HVAC Systems                                   Box guide 15
+F      Apr    03    Mechanical Room                                Box guide 16
+M      Apr    06    Cooling Towers & Geothermal Systems            Box guide 17
+W      Apr    08    EXAM No. 2                                     TA review
+F      Apr    10    HVAC Duct integration case studies             Box guide 18
+M      Apr    13    Cogeneration                                   Box guide 19
+W      Apr    15    Duct integration plan                          Box guide 20
+F      Apr    17    District Systems                               865-902
+M      Apr    20    Homework 2 & 3 review                          909-959
+W      Apr    22    PV and Solar Hot Water Systems                 1423-1448
+F      Apr    24    Potable water and water harvesting             855-896
+M      Apr    27    Storm water systems                            897-986
+W      Apr    29    Waste water systems                            987-1058
+F      May    01    Solid Waste Management                         1059-1074
+M      May    04    Materials and Interior Air Quality             137-175
+W      May    06    Design reviews (no class)                      Box guide 21
+F      May    08    Design review (no class)
+TBA                  Final EXAM

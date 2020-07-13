@@ -1,0 +1,201 @@
+AET 339 (20680)     The University of Texas at Austin | College of Fine Arts | Arts and Entertainment Technologies
+Spring 2019         Syllabus
+Course Information  TECHNICAL ART I
+                    Tuesday/Thursday 11a - 12:30p | DFA 4.106
+                    Course website at ​http://canvas.utexas.edu
+Instructor          Michael Baker, Director of Game Design, Department of Arts and Entertainment Technologies
+                    michael.baker@austin.utexas.edu
+                    Office hours: Wednesday 12:00p - 1:30p in DFA 4.106
+Catalog Description An applied course focused on the technical aspects of game content creation.
+Prerequisite(s)     Game Art Pipeline or demonstrable experience working with game assets.
+Course materials    A computer capable of running Unity and Unreal engine. A 3 button mouse.
+Objectives &        This course challenges students to find solutions to common technical problems which occur during
+Assessment          game development. A role playing format will be used to simulate studio conditions. The instructor will
+                    play the part of Technical Lead and the students will serve as Technical Artists. Assignments in the form
+                    of technical challenges will be revealed throughout the semester. Students will research options, devise
+                    solutions and present their work using industry standards. In general, students will work individually,
+                    though small teams may be formed for some assignments.
+                    Examples of tech art workflows for games:
+                    ● https://www.artstation.com/artwork/3m9qD
+                    ● https://www.youtube.com/watch?v=UNxOxiR5T_M
+                    ● https://www.youtube.com/watch?v=wt2yYnBRD3U
+                    ● https://80.lv/articles/overwatch-technical-overview/
+                    By the end of the course, students should be able to:
+                    1) Prototype simple interactions.
+                    2) Create custom shaders.
+                    3) Automate asset creation and modification.
+                    4) Determine in-game content budgets and optimize performance.
+                    5) Troubleshoot rendering problems and recommend best practices.
+                    6) Port assets between different engines.
+Grading             This course is project based. There will be no exams. Assignments are equally weighted toward 90% of
+                    the final class grade. The remaining 10% of the final grade is based on professionalism (see
+                    Professionalism below).
+                    No late work will be accepted. No incompletes will be given. If you feel you will not be able to complete
+                    all work on time, you should ask the instructor for a grade of Q or drop before the deadline for doing so
+                    passes.
+                    Grading breakdown:
+                    Each assignment will be graded according the following rubric:
+                    Clarity of solution: 40 points      Quality of solution: 40 points       Quality of presentation: 20 points
+                    Final grades will be determined using the following grade distribution. Please note: to ensure fairness,
+                    all numbers are absolute, and will not be rounded up or down at any stage. Thus a B- will be inclusive of
+                    all scores of 80.000 through 83.999. The University does not recognize the grade of A+.
+                       A = 94-100           B+ = 87-89            C+ = 77-79            D+ = 67-69          F = 0-60
+                       A- = 90-93           B = 84-86             C = 74-76             D = 64-66
+                                            B- = 80-83            C- = 70-73            D- = 60-63
+Professionalism     Professionalism is expected of all students and includes attending class during scheduled meeting times,
+                    communicating clearly, respecting peers, and taking the class seriously. ​Rolling into class 15 minutes
+                    late with a starbucks...while texting...on a skateboard...with earbuds blasting Kpop is NOT professional
+                    conduct​. However, if you catch the flu, get a flat tire, or otherwise cannot attend class, please contact
+
+
+                       BOTH the instructor and TA, and attach any class work as needed. Please note 3 unexcused absences
+                       will lower your course grade by one letter.
+UT Electronic Mail     Electronic mail (e-mail) is a mechanism for official University and instructor communication to students.
+Notification Policy    Students are expected to check e-mail on a frequent and regular basis in order to stay current with
+                       University- and course-related communications, recognizing that certain communications may be
+                       time-critical. It is recommended that e-mail be checked daily, but at a minimum, twice per week.
+                       It is the responsibility of every student to keep the University and instructor informed of changes in his
+                       or her official e-mail address (do so at https://utdirect.utexas.edu/utdirect/bio/address_change.WBX).
+                       Consequently, e-mail returned to the University with "User Unknown" is not an acceptable excuse for
+                       missed communication. Similarly, undeliverable messages returned because of a full inbox or use of a
+                       spam filter will be considered delivered without further action required of the University or instructor.
+                       (see ​http://www.utexas.edu/cio/policies/university-electronic-mail-student-notification-policy​)
+Use of Class Materials The materials used in this class, including, but not limited to, exams, quizzes, and homework
+                       assignments are copyright protected works. Any unauthorized copying of the class materials is a
+                       violation of federal law and may result in disciplinary actions being taken against the student.
+                       Additionally, the sharing of class materials without the specific, express approval of the instructor may
+                       be a violation of the University's Student Honor Code and an act of academic dishonesty, which could
+                       result in further disciplinary action. This includes, among other things, uploading class materials to
+                       websites for the purpose of sharing those materials with other current or future students.
+                       (from ​https://wikis.utexas.edu/display/coursematerials/Sample+Use+Statement+for+Syllabus​)
+Religious Holidays     Section 51.911 of the Texas Education Code states that a student shall be excused from attending
+                       classes or other required activities, including examinations, for the observance of a religious holy day,
+                       including travel for that purpose. A student whose absence is excused under this subsection may not be
+                       penalized for that absence and shall be allowed to take an examination or complete an assignment
+                       from which the student is excused within a reasonable time after the absence. University policy
+                       requires students to notify each of their instructors at least fourteen days prior to the date they will be
+                       absent from scheduled classes to observe a religious holy day.
+                       (from ​http://www.utexas.edu/provost/policies/religious_holidays/1555_001.pdf​)
+Classroom Etiquette    Please observe the following rules during class as a courtesy to fellow students and the instructor.
+                       1) ​Be on time at the beginning of class. ​If you must come in late at the beginning of class, please enter
+                       the room and seat yourself as quietly and unobtrusively as possible.
+                       2) ​Turn off your cell phone’s notification sounds upon entering the classroom​. If you forget to do so, and
+                       your phone rings, chirps, or vibrates loudly during class, turn it off immediately and discreetly.
+                       3)​ Food is not allowed in class. Drinks in closed containers are permitted but must be kept on the floor or
+                       out of sight when not in use.
+Academic               The University's ​Honor Code​ states that “As a student of The University of Texas at Austin, I shall abide
+Integrity              by the core values of the University and uphold academic integrity.” You are expected to maintain
+                       absolute integrity and a high standard of individual honor in scholastic work undertaken at the
+                       University. At a minimum, you should complete any assignments, exams, and other scholastic
+                       endeavors with the utmost honesty, which requires you to:
+                       ● acknowledge the contributions of other sources to your scholastic efforts;
+                       ● complete your assignments independently unless expressly authorized to seek or obtain assistance in
+                           preparing them;
+                       ● follow instructions for assignments and exams, and observe the standards of your academic
+                           discipline; and
+                       ● avoid engaging in any form of academic dishonesty on behalf of yourself or another student.
+                       (adapted from ​http://deanofstudents.utexas.edu/sjs/acint_student.php​)
+Academic Dishonesty In promoting a high standard of academic integrity, the University broadly defines academic dishonesty
+                        as including ​any act designed to give an unfair or undeserved academic advantage​, such as:
+                       ● Cheating
+                       ● Plagiarism
+                       ● Unauthorized Collaboration / Collusion
+                       ● Falsifying Academic Records
+                       ● Misrepresenting Facts (e.g., providing false information to postpone an exam, obtain an extended
+                           deadline for an assignment, or even gain an unearned financial benefit)
+                       ● M​ultiple submissions​ (submitting the same assignment for two courses without authorization)
+                       ● Any other acts (or attempted acts) that violate the basic standard of academic integrity
+                       (adapted from ​http://deanofstudents.utexas.edu/sjs/acadint_whatis.php​)
+
+
+                        Students who violate University rules on academic dishonesty are subject to disciplinary penalties,
+                         including the possibility of failure in the course and/or dismissal from the University.
+                        (from ​http://deanofstudents.utexas.edu/sjs/acint_faculty_syllabus.php​)
+Plagiarism              “Plagiarism” includes, but is not limited to, the appropriation of, buying, receiving as a gift, or obtaining
+                         by any means material that is attributable in whole or in part to another source, including words, ideas,
+                         illustrations, structure, computer code, and other expression or media, and presenting that material as
+                         one’s own academic work being offered for credit or in conjunction with a program course requirement
+                         (from Sec. 11-402,
+                         http://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline-and-conduct​).
+Copyright and           Understanding the basic principles of copyright and fair use is of critical importance to designers. Many
+Fair Use                of the uses we will make of texts, images, and videos this semester will be covered by the doctrine of
+                        fair use. However, as creators, you need to be aware of your own and other copyright holders’ legal
+                        rights, and to properly identify and license your own and others’ works. We will discuss these issues
+                        during the semester as needed, but when you have questions about whether or when you can
+                        appropriate someone else’s work, a useful resource is Georgia K. Harper’s Copyright Crash Course,
+                        available at ​http://copyright.lib.utexas.edu/​.
+Services for Students The University of Texas at Austin provides upon request appropriate academic accommodations for
+with Disabilities (SSD) qualified students with disabilities. For more information, contact Services for Students with Disabilities
+                        (512-471-6259, ​ssd@austin.utexas.edu​, http://ddce.utexas.edu/disability/, or videophone
+                        512-471-6644). Please provide documentation of your needs during the first week of class, if possible,
+                        so that I can make the necessary accommodations promptly.
+Student Support         There are numerous free and/or low-cost support services available to students at UT. They include
+Services                (but are not limited to) the following:
+                        Fine Arts Career Services​ (512-232-7333, ​utexas.edu/finearts/careers​) provides a full range
+                        of services and resources to support students and alumni.
+                        The Undergraduate Writing Center
+                        (512-471-6222, ​uwc.utexas.edu)​ helps students with every phase of writing assignments for
+                        their courses.
+                        The Sanger Learning Center​ (512-471-3614, ​utexas.edu/ugs/slc​) provides study skills,
+                        time-management, and note-taking courses.
+                        University Health Services​ (512-471-4955, ​healthyhorns.utexas.edu)​ provides medical and health
+                        promotion services for currently enrolled students and some non-students who are
+                        officially enrolled in certain University programs.
+                        The Counseling and Mental Health Center​ (512-471-3515, ​cmhc.utexas.edu)​ helps students with their
+                        personal concerns so that they can meet the daily challenges of student life.
+Emergency               Mass e-mails (in addition to sirens and fire alarms, when appropriate) will be used to provide students,
+Procedures              faculty, and staff with information regarding potential threats to the safety and security of the campus
+                        community. E-mails will also be used as a way to notify students, faculty, and staff of emergency
+                        situations and keep them updated on the situation. Emergency officials also have the ability to
+                        disseminate important information via text message directly to the cell phones of users subscribed to
+                        the service. Please consider subscribing to this service at
+                        https://utdirect.utexas.edu/apps/csas/text/main/​.
+                        (​adapted from ​http://www.utexas.edu/safety/preparedness/plans/EmergencyManagementPlan2013a.pdf​)
+Campus Carry            As permitted by Texas state law, the concealed carry of handguns by permit holders is generally allowed
+                        in outdoor areas, as well as buildings and spaces that are accessible to the public. Permit holders are
+                        allowed to carry in classrooms. It is the responsibility of concealed-carry license holders to carry their
+                        handguns on or about their person at all times while on campus. “About” the person means that a
+                        license holder may carry a holstered handgun in a backpack or handbag, but the backpack or handbag
+                        must be close enough that the license holder can grasp it without materially changing position. The
+                        holster must completely cover the trigger area and have enough tension to keep the gun in place if
+                        jostled. A license holder may not carry a partially or wholly visible handgun on campus premises or on
+                        any university driveway, street, sidewalk or walkway, parking lot, parking garage, or other parking area.
+                        The open carry of handguns is not permitted on campus. Anyone who sees an openly carried gun on
+                        campus should immediately call 911. (from ​https://campuscarry.utexas.edu/students​)
+Overview of             The course schedule may be adjusted to accommodate UT closures, instructor illness, student
+Schedule                needs/interests, and other opportunities. Any significant alterations to the schedule will be announced
+                        in class and on Canvas.
+
+
+Course Schedule
+T 22 Jan        Syllabus, course overview
+R 24 Jan        Project 1 intro: interaction prototype
+T 29 Jan        Example project
+R 31 Jan        Demo as needed
+T 5 Feb         Studio time
+R 7 Feb         Project 1 due
+T 12 Feb        Review, Project 2 intro: custom shaders
+R 14 Feb        Studio time
+T 19 Feb        Demo as needed
+R 21 Feb        Project 2 due
+T 26 Feb        Review, Project 3 intro: automation
+R 28 Feb        Studio time
+T 5 Mar         Demo as needed
+R 7 Mar         Studio time
+T 12 Mar        Demo as needed
+R 14 Mar        Project 3 due
+SPRING BREAK
+T 26 Mar        Review, Project 4 intro: rendering optimization
+R 28 Mar        Studio time
+T 2 Apr         Demo as needed
+R 4 Apr         Project 4 due
+T 9 Apr         Review, Project 5 intro: performance optimization
+R 11 Apr        Studio time
+T 16 Apr        Demo as needed
+R 18 Apr        Project 5 due
+T 23 Apr        Review, Project 6 intro: porting
+R 25 Apr        Studio time
+T 30 Apr        Demo as needed
+R 2 May         Studio time
+T 7 May         Demo as needed
+R 9 May         Project 6 due

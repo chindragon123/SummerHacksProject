@@ -1,0 +1,115 @@
+                                        Economics 324
+                              Introduction to Labor Economics
+                                         Summer 2019
+Instructor: Katrine Holm Reiso (katrineholmreiso@gmail.com)
+Office Hours: Monday/Friday 2:30-3:30 in BRB 4.102
+Teaching Assistant: Sam Stripling (samstripling@utexas.edu)
+Office Hours: Wednesday/Thursday 2:30-3:30 in BRB 4.120
+Course Details: Meets M/T/W/Th/F 1:00pm-2:30pm BRB 1.118
+This course provides a survey of labor economics with an emphasis on policy issues.
+While the course teaches the analytical tools necessary to understand how labor markets
+work, it is structured around a number of prominent labor market policy issues, such as
+immigration, inequality and minimum wages.
+For example, some of the questions we will examine include:
+       Does increasing the minimum wage increase unemployment, and thus end up
+          hurting the people it is intended to help?
+       Do higher levels of welfare benefits reduce work incentives?
+       Do immigrants hurt the wages or employment opportunities of native workers?
+       What has caused rising wage inequality in the U.S., and should we be concerned
+          about it?
+       Does going to school for one more year increase a worker’s earnings?
+Goals of the Course: The primary goal of the course is to develop your ability to study,
+analyze, and ultimately reach informed opinions about the numerous policy questions that
+arise with respect to labor markets in the U.S. and other countries. To help develop this
+ability, we will draw on economic models of labor markets, examine the role of labor
+market institutions, and study empirical evidence on these policy issues.
+After successfully completing this course, students will be able to:
+     Apply and explain at an introductory level the economic models related to labor
+         supply, labor demand, and labor market equilibrium
+     Describe how economic theory and evidence apply to and explain trends in labor
+         force participation, hours of work, and wages
+     Construct, defend, and analyze important labor policies
+     Demonstrate proficiency with simple quantitative and economics tools useful in
+         understanding labor markets and labor market institutions
+     Comprehend, assess, and critique existing empirical work in labor economics
+
+
+                                               2
+Textbook:       Labor Economics, seventh edition, by George J. Borjas
+                (Note that older versions are also fine.)
+We will systematically go through the topics covered in the textbook. Reading the
+relevant chapter ahead of time will prepare you to get the most out of class.
+Class Web Page:
+There is a class web page on Canvas (https://canvas.utexas.edu). I will post the course
+syllabus there as well as practice problems and exam solutions.
+Course Requirements:
+Your grade for the course will be determined by your performance on three in-class
+exams. Overall course grades will be assigned using +/- grading (i.e., A,
+A-, B+, B, B-, etc.). The overall course grades will be assigned to you based on your
+weighted average course score and your performance relative to the rest of the class.
+Exams:
+All three exams will take place during regular class meetings (i.e., no exam will be held
+during the final exam period). No make-up exams will be given. All exams will be
+closed book. There will be no make-up exams for the in-class exams; if you have a valid
+medical excuse (and a doctor’s note), I will put more weight on the other two midterms.
+The exams will be held on the following dates (with the weight of each exam in the
+overall course grade indicated in parentheses):
+First Exam (35%): In class on Tuesday, June 18.
+Second Exam (35%): In class on Monday, July 1.
+Third Exam (30%): In class on Thursday, July 11.
+I will post homework problems on the class Canvas page periodically and I will
+subsequently post answers to these problems. Your answers to these problems will not be
+collected and will not contribute directly to your grade. However, I strongly urge you to
+work on the problems (before looking at the solutions) as they will be a good indicator of
+kinds of questions you can expect on exams. There are also many worthwhile problems at
+the end of each chapter in the textbook. Solutions to the textbook problems also will be
+posted on the class Canvas page.
+
+
+                                             3
+Laptop Policy/Taking Notes:
+To keep everyone focused on the class and on each other, laptops and all other electronic
+devices are not allowed in the classroom. If you want to store all class material on your
+laptop, transcribing your handwritten notes after lecture is a great a way to learn the
+material.
+Accommodations:
+If you believe you need an accommodation for a disability, please let me or the TA know
+at your earliest convenience. Some aspects of this course may be modified to facilitate
+your participation and progress. As soon as you make us aware of your needs, we can
+work with the Office of Services for Students with Disabilities to help us determine
+appropriate accommodations.
+Course Schedule
+A tentative course schedule is shown below. The topics covered, the time devoted to each
+topic, and the chapters covered on each midterm exam are only forecasts and may change.
+If we do not maintain the pace implied by the schedule, the content of the exams will be
+adjusted to reflect what we have covered.
+Date             Topic or Activity                                     Reading
+Thu.,    6/6     Introduction                                          Ch. 1 (+ Appendix)
+Fri.,    6/7     Labor Supply                                          Ch. 2
+Mon.,    6/10    Labor Supply                                          Ch. 2
+Tue.,    6/11    Labor Supply                                          Ch. 2
+Wed.,    6/12    Labor Supply/Labor Demand                             Ch. 2/Ch. 3
+Thu.,    6/13    Labor Demand                                          Ch. 3
+Fri.,    6/14    Labor Demand                                          Ch. 3
+Mon.,    6/17    Labor Demand                                          Ch. 3
+Tue.,    6/18    Midterm 1
+Wed.,    6/19    Labor market equilibrium                              Ch. 4
+Thu.,    6/20    Labor market equilibrium                              Ch. 4
+Fri.,    6/21    Labor market equilibrium                              Ch. 4
+Mon.,    6/24    Compensating Wage Differentials                       Ch. 5
+Tue.,    6/25    Compensating Wage Differentials/Human Capital         Ch. 5/Ch.6
+Wed.,    6/26    Human Capital                                         Ch.6
+Thu.,    6/27    Human Capital                                         Ch.6
+Fri.,    6/28    TBA
+Mon.,    7/1     Midterm 2
+Tue.,    7/2     Wage Structure                                        Ch.7
+
+
+                                        4
+Wed., 7/3  Wage Structure/Labor mobiliy   Ch.7/Ch.8
+Thu., 7/4  NO CLASS – Fouth of July
+Fri., 7/5  Labor mobiliy                  Ch.8
+Mon., 7/8  Labor mobility                 Ch.8
+Tue., 7/9  Labor market discrimination    Ch.9
+Wed., 7/10 Labor market discrimination    Ch.9
+Thu., 7/11 Midterm 3

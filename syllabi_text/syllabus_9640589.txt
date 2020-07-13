@@ -1,0 +1,329 @@
+* HP8e = Human Physiology 8th ed; LM = Lab Manual. Do reading BEFORE lab
+**Reading is in addition to reading lab exercise
+***There may be more homework assigned than listed in schedule
+                         BIO 165U                Summer 2019 Systems Physiology Lab Schedule
+       Week       of
+                                                 Lab 1: Safety, Solutions & Osmolarity , Excel & Graphing, Intro to
+ 1                       Topic
+       June       10                             LabStation
+                         Reading**               HP8e*: pp. 20-21: LM pp. 74-77
+                                                 Orientation quiz; MSDS assignment; Solutions exercise; Accuracy and
+                         In lab assignment
+                                                 Precision
+                                                 Osmolarity Graph; HR graph; Histogram; Online Safety and Human
+                         Homework***             Subjects Training
+ 2     June       17     Topic                   Lab 2: Scientific Research, Statistics, Experimental Design
+                         Reading                 HP8e: pp. 18-23; LM pp. 78-106
+                                                 Informal HR protocol; Paper analysis; Annotated bibliography for assigned
+                         In lab assignment       paper; Analysis and graphing of HR data;
+                         Homework                Literature Search Homework; Muscle CAPP Protocol rough draft
+ 3     June       24     Topic                   Lab 3: Muscle Physiology, EMG, and Force Transduction
+                         Reading                 HP8e pp. 376-395; LM pp.
+                         In lab assignment       Muscle CAPP Protocol final draft; Muscle Lab Report
+                         Homework                Muscle CAPP R&D; Peer Eval 1
+       July       01     Holiday                 Labs will not meet this week
+ 4     July       08     Topic                   Lab 4: Neurophysiology and Endocrinology
+                         Reading                 HP8e: pp. 205-216; Ch. 8; pp. 707-718
+                         In lab assignment       Neuro and Endo Lab Report
+ 5     July       15     Topic                   Lab 5: Heart Sounds, ECG and Blood Pressure
+                         Reading                 HP8e: pp. 448-459; 481-492
+                         In lab assignment       ECG & BP Lab Report
+                         Homework                Diving Reflex Protocol
+ 6     July       22     Topic                   Lab 6: Cardiovascular Reflexes and Dynamics
+                         Reading                 HP8e: pp. 436-440; 459-471; 492-495
+                         In lab assignment       Cardio Dynamics activity and report
+                         Homework                Diving Reflex R&D; Peer Eval 2
+ 7     July       29     Topic                   Lab 7: Respiratory Physiology
+                         Reading                 HP8e: pp. 542-544; 578-582
+                         In lab Assignment       Respiratory lab report; Test 1
+ 8     Aug        05     Topic                   Lab 8: Renal Physiology—Volume Loading
+                         Reading                 HP8e: Chap 19; 619-641
+                         Homework                Renal R & D
+
+
+9 Aug 12 Topic      Lab 9: Final Case Study Presentations
+         Due in lab Renal R&D
+                    Case Study Analysis and Presentation
+                    Test 2 (Optional; No Final Exam)
+         Homework   Peer Evaluation 3
+
+
+                                        BIO 165U Syllabus
+                                           Summer 2019
+Course Director:       Jan Machart             janmachart@utexas.edu
+                       Office: PAI 3.10D       (512) 897-9851 OH: posted to Canvas
+TA name _______________________________________________________________
+TA contact info __________________________________________________________
+REQUIREMENTS
+Prerequisite: Credit for or concurrent enrollment with a C average in BIO 365S (Systems
+Physiology) is required. Please notify your instructor if you do not have the BIO 365S
+prerequisite.
+Required Materials:
+     Lab manual - available in print from the Co-op. Additional documents maybe posted in
+        the class master Canvas site. It is your responsibility to bring the appropriate printed
+        pages to lab.
+     Book: Human Physiology: An Integrated Approach (Silverthorn, 8e preferred; 7e ok)
+     Lab Attire: long pants, closed toe shoes, either scrub top or lab coat or jacket (hip
+        length or longer, any color). Search online (e.g., Amazon.com) for lab coats or
+        purchase locally. Examples of places to buy are J.C. Penney, Total Uniforms (1301 W
+        34th St).
+COURSE GOALS
+This lab provides hands-on experience with human physiology, using an experimental approach.
+Thus, you and/or your team will be required to read the primary scientific literature, write
+protocols, and collect and analyze data. You will summarize these data either in a lab report or
+by writing a results and discussions in the format of scientific papers submitted for publication.
+This lab also has a health professions focus, thus you will analyze case studies and make
+diagnoses. We hope that the emphasis on science will give you an appreciation for the origin of
+the information so necessary for health professions.
+This course consists of one four-hour laboratory session a week, plus additional time outside of
+lab needed for completion of assignments, research, or computer work. We hope that you have
+fun in this course and we welcome your comments, critiques, and suggestions.
+
+
+Course Goals
+1. allow students to experience the physiology they have studied in lecture
+2. give students an appreciation for structure-function relationships of the human body
+3. give students experience collecting, analyzing, and presenting data
+4. give students an appreciation of the variability inherent in a population of humans
+5. give students an understanding of the difficulties inherent in designing experiments using
+human subjects
+6. have students work together effectively in teams
+7. encourage students to apply physiology in the form of case studies
+Course Objectives. Students who complete this class should be able to:
+1. describe the basic anatomy and physiology of various organ systems studied in the lab.
+2. search, read, evaluate, and properly reference the primary literature.
+3. design a controlled experiment, write a protocol for it, and execute it.
+4. analyze and critique the design of experiments of others.
+5. collect appropriate data, analyze it, and present it in the most appropriate form (graph or
+table).
+6. write and cite in correct scientific format.
+7. use Excel for spreadsheet, data analysis, and graph construction.
+8. use a word processing program such as Word to write and import graphics.
+9. use basic lab equipment including computer data acquisition systems.
+10. cooperate with classmates and work effectively in teams.
+11. analyze case studies
+EXPECTATIONS
+You are expected to:
+Attend all labs. Roll will be taken in lab. Attendance will not be excused for illness without a
+written doctor’s note. The only excuse for missing class will be documented illness or
+death/major illness in the family, or other emergencies approved by the course director. It is
+NOT APPROPRIATE to schedule doctor/vet/car/interview appointments during your assigned
+lab time because there will be no makeups for unexcused absences. When you miss a lab, your
+absence also affects your team members. Students who miss assignments without an excused
+absence will receive a zero for the missed assignment.
+If you miss a lab, please consult the director to determine whether it is more appropriate to attend
+a lab later in the week or to simply obtain data from lab mates. Missing a lab or going to a
+different lab section one week due to an excused absence does NOT excuse you from your
+responsibility to your team. You are still expected to contribute fully to the team’s work, even if
+you were not in the lab to collect the data with the team. In some instances you might be asked to
+work with the team in your makeup lab instead of your original assigned team.
+Contribute appropriately while in lab. We expect that you will be on time to lab, stay until all
+work is complete, clean up the work area after completion of the lab and cooperate with lab
+mates and instructors. You should exhibit a good attitude, cheerfulness, and interest. Each lab
+team should wash, dry, and store all glassware and supplies, and leave its workstation clean and
+
+
+organized. The TA will check each workstation before anyone is allowed to leave lab. If a
+student is consistently deficient in these attributes, we will document this and we reserve the
+right to subtract up to 5% of your semester grade from your final average for failure to
+perform adequately in lab.
+Work in teams and evaluate your lab partners. Learning how to work effectively with
+colleagues will be an important part of your post-college career, so this course is designed to
+give you practice in this area. Team members must be able to communicate effectively with each
+other and negotiate division of labor. If your team members are not doing their share of the work
+or not interacting appropriately, you will be able to rate their performance through confidential
+peer evaluations. For all group experiments, the team turns in one proposal, protocol, methods,
+or results and discussion. All team members will get the same grade for this written work.
+However, if a conflict cannot be resolved, team members may turn in separate papers.
+You will be working in teams of 3-4 for these labs. Instructors will make the team assignments.
+You will change teams several times during the semester. You are expected to work together for
+all stages of each lab. That means that you must be able to contact each other outside of the lab
+setting to collaborate on reports.
+You will turn in peer evaluations for each team and for each member in the team. Peer
+evaluations are done through Canvas and the results of individual evaluations will be seen only
+by the instructors, so you can be honest about what you say.
+You will be on multiple teams during the semester and your compiled peer evaluations (how you
+are scored by your team mates) count as 3% of your grade. Because it is important that everyone
+rates the other members of the team, completion of peer evaluations will also count as 3% of the
+grade. If your evaluations indicate that you are not doing your fair share of the work, you will be
+warned.
+What kinds of behaviors make a bad team member?
+             not doing fair share of the work
+             failure to communicate, either by failing to answer messages or failure to
+                participate in team meetings. We understand that some students hold jobs in
+                addition to school, but there are many ways to have virtual group meetings and
+                contribute without physically meeting
+             refusing to compromise
+             doing all the work yourself and not accepting team member contributions
+Note: If your lab partner does not contribute to an assignment, you should 1) not allow
+him or her to sign the cover sheet, 2) report him or her immediately to the TA and/or lab
+director, and 3) evaluate him or her appropriately on the peer evaluation. Note below that
+all lab partners must agree that the slacker partner needs to be penalized.
+Contribute appropriately to team writing assignments. A student who does not contribute
+his/her share to an assignment will incur a penalty for that grade. The penalty will be based on
+degree of lack of contribution and can range from 5-100% of grade. In order for this penalty to
+
+
+be enforced, all lab partners of the slacker student must agree on lack of contribution. However,
+if a student receives multiple “bad” peer evaluations, the lab director may override the lab
+partner agreement policy. The penalty will be decided by the lab director, based on lab partner
+input and inability of the student to demonstrate contribution.
+Conversely, if the student does not accept input from his/her team members and this is apparent
+from the peer evaluations, he or she will incur a 20% penalty, calculated as described above.
+The penalized grade will be calculated by taking the team’s grade on the assignment and
+multiplying by 0.8. For example, the team’s R&D grade is an 85. Difficult Student then gets 85 ×
+0.8 = 68.
+Also, we reserve the right to subtract up to 10% from the final average for students who have a
+lab history of not contributing, despite what was put on the cover sheets. We also reserve the
+right to fail students who fail to participate in the final project or the final case study and
+presentation.
+Submit work on time and in the proper format. The week-by-week schedule in the lab
+manual shows you what is due and when it is due. Peer evaluations are also listed on the
+schedule. CLOSING DATES WILL NOT BE EXTENDED JUST BECAUSE YOU FORGOT
+TO COMPLETE AN ASSIGNMENT ON TIME! Failure to complete a peer evaluation on time
+may mean a 0 for that grade.
+Homework is due at the beginning of the lab period. It is considered late if it is not in the TA’s
+possession by ten minutes after the start of lab. Papers that are turned in later in the lab period
+will be penalized 5%. Papers turned in after the lab period will be penalized 10% of the total
+point value for each day or partial day the report is late. Extensions will be granted only for
+exceptional circumstances, such as a documented illness or death in the family. THE USUAL
+LOAD OF ACADEMIA IS NOT AN ACCEPTABLE REASON FOR AN EXTENSION.
+All lab reports must be typed, double-spaced unless otherwise specified. Graphs must be
+computer-generated. We may also require that lab reports be submitted through SafeAssign or
+another plagiarism prevention application. Any questions about grading must be raised
+within one week of getting the work back. No re-grades are possible after that time. Grading
+disputes between the student and TA will be resolved by the course director.
+Write effectively. Clear writing is an extremely important skill. Your TA and the course
+director are available to answer specific questions about writing lab reports. However, we cannot
+be expected to correct long-standing writing deficiencies. You are encouraged to take your
+papers to the Undergraduate Writing Center for FREE assistance with writing skills, particularly
+if English is not your native language. Substandard writing will not be accepted and may be
+returned for revision without grading.
+Be prepared and get assistance if necessary. It is important that you come to lab fully
+prepared to do the exercise assigned for that week, with the lab manual on hand. You should
+know not only what equipment you will be using, but how to use it, what you will be measuring,
+and why. You should arrive at lab prepared to begin immediately, knowing the material well
+
+
+enough to ace a quiz over it!
+In addition, please realize that the labs at the beginning of the course emphasize skills that are
+necessary for the rest of the semester, such as statistics and graphing and use of the data
+acquisition system. Learn these skills while they are the focus, as later in the semester we will
+assume that you have mastered them. Uncorrected problems in these areas can make this class a
+painful experience, so ASK FOR HELP.
+This is an upper division course and it is your responsibility to ask for help if you are having
+difficulty. Your TA and the course director are both available during office hours and by email to
+assist you or suggest another source of assistance. If you have personal problems that interfere
+with your performance, please inform us of them in a timely fashion. If you experience serious
+problems with your lab team members, you should tell us in addition to reporting the problem in
+the peer evaluation.
+ASSESSMENT
+GRADING. Most grades in this class will be TEAM grades. The grade assigned to the team
+will be the grade for each individual in the team – no exceptions. If you feel that someone in the
+team did not cooperate or did not do his/her share of the work, you should use the peer
+evaluation part of the class to indicate this. See the section on peer evaluation. In addition, if the
+problem is extreme, you should comment directly to your TA and the course director.
+Grade breakdown         * Starred items are individual grades. Everything else is a team grade.
+Homework and in-lab assignments (some may be individual*)                             30%
+Protocols                                                                             12%
+Results & Discussions                                                                 18%
+Final Case Study and Presentation                                                     10%
+Tests*                                                                                20%
+Pop Quizzes*                                                                            4%
+Peer evaluations                                                                        6%
+                        (Scores from your team mates* 3%)
+                        (Completing evaluations of your teammates* 3%)
+Papers will be graded using the rubrics posted.
+Final letter grades will be assigned, based on a 10 point scale and the plus/minus system. Thus:
+89.5 – 92.5 = A- , 92.6+ = A
+79.5-82.5 = B-, 82.6-86.4 = B, 86.5-89.4 = B+
+69.5-72.5 = C-, 72.6-76.4 = C, 76.5 -79.4 = C+
+59.5 -62.5 = D-, 62.6 – 66.4 = D, 66.5 – 69.4 = D+             < 59.5 = F
+
+
+GENERAL LAB RULES & INFORMATION
+1. No food or drink in the lab except in designated experiments.
+2. LAPTOP OR CELL PHONE use in lab is only at the discretion of the teaching assistant.
+3. Labs are messy and may involve the use of chemicals that will bleach or stain clothing. Dress
+appropriately – if you treasure a particular item of clothing, don’t wear it to lab.
+4. Be on time to the lab.
+5. A first aid kit with Band-Aids etc. is available in the lab. If you cut yourself, please try to put
+on your own Band-Aid. If you must assist someone who is bleeding, please observe precautions
+and PUT ON GLOVES. Wipe up any blood and dispose of bloody towels, wipes, etc. in a
+biohazard box.
+6. Participation in experiments where the student in the subject is strictly voluntary. If you have
+any medical condition that might put you or others at risk if you participate, do not volunteer.
+7. Ladies’ room is in the east wing of PAI third floor. Men’s rooms are on floors 2 and 4.
+ACADEMIC DISHONESTY
+Academic dishonesty (cheating) will not be tolerated in any form. The most common form of
+academic dishonesty is plagiarism and unauthorized collusion. Also, note that it is academic
+dishonesty to misuse the class materials, such as sharing them on the Internet. See last paragraph
+in this section for further information.
+Copying or paraphrasing someone else's work, whether a published paper, web page, or lab
+report, in whole or in part, is considered academic dishonesty. So is falsifying data. All written
+work you turn in must be your own, in your own words. Lab reports that have identical
+written material or that are substantially the same (i.e. occasional words added, deleted, or
+changed) will be considered a scholastic violation and will be reported to the Dean of
+Students as such.
+You may work with your lab team except in those experiments designated as individual
+assignments. This means that you may share the work of doing data calculations and you may
+discuss the interpretation of the data with your lab team, but any written work must be entirely
+your own. Using someone else's data without permission of the instructor is not permitted.
+Copying or paraphrasing material from another source, including the lab manual, without
+acknowledging the source is academic dishonesty. Word-for-word quotations placed in quotation
+marks are rarely used in scientific writing and therefore are not appropriate in this class. If you
+use outside materials, you must paraphrase them and cite them at the end of the lab report.
+The penalties for cheating range from a zero on the assignment or test to an "F" in the course.
+Academic dishonesty includes (but is not limited to) cheating on exams and quizzes, altering
+
+
+tests after they have been returned, and failing to cite references or plagiarizing from references
+used in the case studies.
+It is highly recommended that you read the site on academic integrity, published by the Dean of
+Students:
+         http://www.utexas.edu/depts/dos/sjs/academicintegrity.html
+         http://deanofstudents.utexas.edu/sjs/scholdis_plagiarism.php
+         http://deanofstudents.utexas.edu/sjs/scholdis_avoid_para.php
+         http://www.utexas.edu/lbj/students/writing/plagiarism.pdf
+         A Guide to Avoiding Plagiarism - LBJ School of Public Affairs
+Students who violate the academic dishonesty rules will be called to a meeting with their
+teaching assistant and the course director. If the students dispute the facts upon which the charge
+is made or if they desire a hearing, the matter will be referred to the office of the Dean of
+Students. If the students do not dispute the facts upon which the violation is based, they will sign
+a written waiver of the hearing procedure and will be assigned a zero for the material in question.
+In all cases where an academic penalty is assigned, a Faculty Disposition form, signed by the
+student, will be filed with the Dean of Students.
+USE OF CLASS MATERIALS: The materials used in this class, including, but not limited to,
+exams, quizzes, and homework assignments are copyright protected works. Any unauthorized
+copying of the class materials is a violation of federal law and may result in disciplinary actions
+being taken against the student. Additionally, the sharing of class materials without the specific,
+express approval of the instructor may be a violation of the University's Student Honor Code and
+an act of academic dishonesty, which could result in further disciplinary action. This includes,
+among other things, uploading class materials to websites for the purpose of sharing those
+materials with other current or future students.
+MISCELLANEOUS INFORMATION
+Academic accommodations. Students with disabilities may request appropriate academic
+accommodations from the Division of Diversity and Community Engagement, Services for
+Students with Disabilities, 471-6259, http://www.utexas.edu/diversity/ddce/ssd. You should
+give us your letter no later than 7 days after classes start.
+Religious holidays. By UT Austin policy, you must notify us in writing of your pending
+absence at least fourteen days prior to the date of observance of a religious holy day. If you must
+miss a class, an examination, a work assignment, or a project in order to observe a religious holy
+day, you have an opportunity to complete the missed work within a reasonable time after the
+absence.
+
+
+Emergency evacuation (from the Office of Campus Safety and Security)
+       -    Occupants of buildings on The University of Texas at Austin campus are required
+     to evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+                             requires exiting and assembling outside.
+         -   Familiarize yourself with all exit doors of each classroom and building you may
+  occupy. Remember that the nearest exit door may not be the one you used when entering the
+                                             building.
+        -    Students requiring assistance in evacuation shall inform their instructor in writing
+                                  during the first week of class.
+       -    In the event of an evacuation, follow the instruction of faculty or class instructors.
+        -    Do not re-enter a building unless given instructions by the following: Austin Fire
+      Department, The University of Texas at Austin Police Department, or Fire Prevention
+                                          Services office
+                 -     Behavior Concerns Advice Line (BCAL): 512-232-5050

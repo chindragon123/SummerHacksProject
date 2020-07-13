@@ -1,0 +1,481 @@
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+                           UNIVERSITY OF TEXAS AT AUSTIN
+                                    SYLLABUS HIS s322M
+                             HISTORY OF MODERN SCIENCE
+                                        SUMMER 2019
+Instructor: Van Herd, M. Div., Ph.D.           Teaching Assistant: TBA
+JES A321B                                      Department of History
+512-692-9310                                   TBA
+herd@austin.utexas.edu                         Contact: TBA
+                                               tba@utexas.edu
+Office hours: 2:30-3:50 RLM 7.114              Office hours: TBA
+UTEACH Intern: TBA
+Office Hours: TBA
+Location: TBA
+Contact:
+Class Times: 1:00-2:20 PM
+Labs: In Class
+Class Meeting Place: RLM 7.114
+Class Days: MTWTHF
+Aun aprendo.—Phillip Melanchthon
+Course Description:
+History of Modern Science explores the intellectual, social, and cultural history and
+philosophy of science and mathematics from the Renaissance to the present. It is a stand-
+alone complement to HIS 329U Perspectives on Natural Science and Mathematics that is
+primarily designed for pre-service STEM educators in UTeach College of Natural Sciences
+but that is open to all those interested.
+Few fields of human activity are more associated with the rise of the modern world,
+specifically the modern Western world, than that human intellectual endeavor known as
+“science.” This course examines the history, epistemology, and development of STEM2 in the
+West through the conceptual framework from the Scientific Revolution in the 16th century to
+the current day. While this course tracks major scientific and technological advances since
+                                                                                            1
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+1700, its lens will be the history of mathematics and the history of quantum mechanics and
+their centrality to modern science and technology.
+As such, the readings and lessons explore the philosophical, historical, epistemological, and
+metaphysical foundations of science, engineering, medicine, and mathematics. Moreover,
+this course attempts to identify and analyze the goals of natural philosophers, scientists, and
+mathematicians; that is, why did they think the knowledge they discovered and promulgated
+was important? This course also investigates the methods deployed to establish the
+credibility or authority of knowledge. Finally, the course focuses upon theoretical content of
+theories or, what did humanity know at any given point in history?
+Subsequently, we shall employ case studies of key figures in modern science each day in the
+classroom. This will be of especial help as we examine the marriage of science, technology,
+and engineering in the post-Newtonian era and the prodromal scientific events that heralded
+the beginning of the 20th century.
+As time permits, we shall also examine briefly the history of medicine and the history of
+engineering as well as the history of science in key non-Western cultures, such as the
+Needham Hypothesis as applied to Asia, and archaeoastronomy pertaining to Mesoamerica
+as well as the Towers of Zimbabwe, to name a few.
+Course Goals:
+     1. To afford the student an overview of the history and philosophy of science and
+        mathematics, for purposes of general education and to foster reflection on the
+        student’s own reasons, goals, and major.
+     2. To enable the student to employ this broader history and philosophical context in
+        science and mathematics.
+     3. To improve each student’s communication, research and information analysis skills.
+     4. To foster scholarly autonomy.
+     5. To advance STEM2 across the baccalaureate curriculum.
+Teaching and Learning Strategies:
+This course will use lecture, multimedia, class discussion, guest speakers, independent
+reading, and small group activities. Assignments are process-oriented to afford the student
+opportunities to demonstrate comprehension of background knowledge as well as the ability
+to integrate scientific, philosophical, and historiographical content. It is the instructor’s aim
+to foster an atmosphere of scholarly autonomy; hence, the European seminar model is the
+regulative ideal upon which this course is based. In other words, this course is a team effort;
+a team comprising the students, instructor, TA, and other Intern. Some of the sessions will
+be developed and led by students.
+Evaluation Methods:
+Evaluation will be based on a combination of written and oral reports, labs, and exercises
+designed to foster critical thinking and synthesis of course concepts.
+Required Texts:
+1. Capra, Fritjof. Learning from Leonardo: Decoding the Notebooks of a Genius. San Francisco:
+        BK Currents, 2013. ISBN: 978-1609949891.
+2. Dobbs, Betty Jo Teeter, and Margaret Jacob. Newton and the Culture of Newtonianism. New
+        York: Humanity Books, 1994. ISBN-10: 1573925454 and ISBN-13: 978-1573925457.
+                                                                                                  2
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+3. Gribbin, John. The Scientists: A History of Science Told through the Lives of Its Greatest
+         Inventors. New York: Random House, 2004. ISBN: 9780812967883. Also available in
+         Kindle.™
+4. Kuhn, Thomas S. The Copernican Revolution. ANY edition. Cambridge, MA: Harvard
+         University, 1985. ISBN-13: 978-1567312171. Also available in GoogleBooks and
+         Kindle.™ Please note that ANY edition is just fine for the purposes of the course. ☺
+PROJECT OPTION for TExES Mathematics/Physical Science/Engineering 6–12 (274)
+examinees and/or Mathematics Majors:
+         Hawking, Stephen. God Created Integers: The Mathematical Breakthroughs that
+         Changed History. New York: Running Press, 2007. Also available as Ebook PDF
+         download.
+The two (2) materials denoted with an asterisk are the foundational materials for the course
+Some additional material will be distributed in class and perhaps on CANVAS. There may be
+some materials placed on physical reserve in the Perry Castañeda and/or PMA Libraries from
+time to time.
+Course outline and conceptual background:
+Section 1—Prolegomena: Why history and philosophy in the science and
+mathematics classroom?
+Here shall be explored the various meanings attributed to the terms “science” and
+“revolution, and “mediaeval.” The student is to be equipped with the necessary conceptual
+and lexical tools so as to be able to reflect historically upon these issues. This week will be
+devoted to exploring the various definitions and philosophies of historiography as these
+methods are applied to the history of STEM. In our first substantive session, we shall ask the
+large, framing question of the identity of this subject. What is the subject of the history of
+science? Does it include, for example, authoritative knowledge about the world that later
+came to be seen as unscientific (such as magic, magia)? What about cultures that have had
+sophisticated enterprises devoted to understanding the physical world which do not map
+easily onto the Western concept of science? If we do include such entities as magic, what
+should be included? And how do we address enterprises such as meteorology, that are
+undoubtedly scientific in central respects yet depend on extensive engagement by a dispersed
+laity? These questions not only define the limits of a field, but also implicitly position its
+center and periphery, and suggest proper lines of approach.
+Section 2— Methods and Reasoning in STEM2
+One of the central concepts of the history of science has been that of the revolution. Whether
+speaking of physical, chemical, or life sciences (of Copernicus, Newton, Lavoisier, or Darwin)
+historians of science have routinely invoked the notion of scientific revolutions to capture the
+radical importance of their subject. The concept of revolution is itself historical (it is indebted
+to political upheavals since at least 1688); less obviously, it carries implications both positive
+and negative. Here we shall look at what historians of science have meant when they have
+talked of revolutions. Our example will be perhaps the canonical instance, namely the shift
+from a geocentric to a heliocentric universe in the sixteenth and seventeenth centuries. We
+examine Thomas Kuhn’s Structure of Scientific Revolutions and lectures in this course will
+refer to the new, exhaustive discussion by Robert Westman. Background for this material,
+while not assigned reading, can be found in Nicholas Jardine’s reflections on the role of
+                                                                                                  3
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+historiography in establishing Copernicanism, and Peter Galison’s suggestive remarks on the
+pitfalls of holism involved in talk of revolutions in general.
+Here are some supplemental sources that may be of interest:
+R. S. Westman, The Copernican Question: Prognostication, Skepticism, and Celestial Order
+         (2010), chs. 2-3 (62-105).
+N. Copernicus, Commentariolus. There are various translations available, of which a readily
+         accessible one is Noel Swerdlow, “The Derivation and First Draft of Copernicus’s
+         Planetary Theory: A Translation of the Commentariolus with Commentary,”
+         Proceedings of the American Philosophical Society 117:6 (December 1973), 423-512.
+N. Jardine, The Birth of History and Philosophy of Science: Kepler’s ‘A Defence of Tycho
+         Against Ursus’ with Essays on its Provenance and Significance (1988), 225-86.
+P. Galison, Image and Logic: A Material Culture of Microphysics (1997), 781-810.
+Section 3—Mathematics, Science, and Society
+This unit will give us some background in understanding the nature, concept, and role of
+commensurability and mathematics, both per se as well as applied to the modeling of the
+physical and life sciences. We will focus on the flourishing of this notion since the 17th
+century, philosophical and scientific attacks on the idea, and its persistence into the 21st
+century.
+Section 4—Technology, Engineering, and Medicine
+Section 5— Part 5: Contemporary Debates and Historical Perspectives on STEM2
+and Education
+Here shall be examined the development and character of “information.” This includes, but is
+not restricted to, what are often called the digital and network revolutions. These
+transformations (such as popular computing, digital media, the Internet, networked wireless
+communications, as well as open-source and open-access protocols) clearly affect all aspects
+of the late-modern world. Although information is often thought of in terms of strictly
+contemporary history – or even in terms that are expressly anti-historical – the technologies,
+codes, conceptions, practices, communities, and commitments of information culture
+possess deep and complex historical roots. In the end, it seems that historians have two
+duties here, which exemplify the point made at the start of the course about recursive
+historiography. One duty is to reveal the historical development of information in all its
+complexity – to apply historiography to information itself. The other is to apply information
+techniques to their own enterprise, so as to preserve and enhance historical research and
+teaching. Historians of science may be unusually well placed to lead that dual endeavor. We
+also consider briefly the work of such philosophers of science as Carl Hempel and Wesley
+Salmon.
+Here are some optional background reading suggestions:
+Guldi, J. Roads to Power: Britain Invents the Infrastructure State (2011), 153-211.
+Huchingson, James Edward. Pandemonium Tremendum: Chaos and Mystery in the Life of
+         God. Cleveland: Pilgrim Press, 2001.
+                                                                                              4
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+                                   ASSIGNMENTS                                  100 %
+           Attendance                                                            15 %
+           Semester Project (if group project, graded individually)              25 %
+                Topic Proposal                                                    2.5 %
+                Abstract                                                          2.5 %
+                Presentation of Project                                            5 %
+                Project                                                          15 %
+           Other Written Assignments                                             15 %
+                Annotated Bibliography (3 parts)                                   5%
+                Wikipedia Article                                                  5%
+                Descriptive Bibliography (Archives) Project                        5%
+           Reading Comprehension/Reflection Quizzes                               25 %
+           Group Labs (10@ 2 pts)                                                20 %
+           Extra Credit Opportunities Announced Periodically                        
+Participation and Attendance: 15%
+Active and insightful attendance and engagement will be rewarded. Everyone is expected to
+participate in discussions and in small group labs. Participation in discussion sections and
+some peer editing will be included.
+Lab Assignments: 20%
+These are mostly plus-check-minus (and some graded) assignments that are designed to
+improve comprehension and integration.
+Reading Comprehension/Reflection Questions: 25%
+For most days that you have a reading assignment due, you will respond to a set of brief
+questions. Usually, these worksheets will be due the next class day, but some will be
+submitted on Canvas as announced. Late assignments will receive half-credit. Some
+questions will guide and assess your comprehension of historical material, others will be
+open-ended reflections upon that material. Questions may draw on readings up to and
+including those scheduled for the upcoming class day. Unless otherwise noted, you may
+refer to course material for reference. Study collaboration is encouraged; however,
+copying classmates’ responses is an Honor Code violation. This category also includes
+occasional in-class writing, quizzes, activities, and peer reviews.
+Written Assignments: Includes Wikipedia Article and Bibliographic Description papers.
+Instructions to be given in class.
+Semester Project: 25% (consists of the following elements)
+        Annotated Bibliography: 5%
+        A bibliography containing at least fifteen (15) quality sources on the topic of your
+        lesson plan. Each entry on the form provided must include a summary of the content
+        of the source and explaining its importance.
+        Topic Proposal: 2.5 %
+        Abstract: 2.5 %
+        Research Project: 15%
+ Possibility 1: Research Paper
+ Possibility 2: Audiovisual Presentation
+ Possibility 3: Working in pairs, you will prepare and revise one 5E Lesson Plan integrating
+ a historical topic into a science or math lesson. These lessons are considered part of the
+                                                                                             5
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+ course, and should focus on an interesting or important historical event, idea or method.
+ The 5E Lesson Plans will be critical for providing the intellectual history component of the
+ course—i.e. what scientists and mathematicians knew. Handouts, examples, assessment
+ lists, etc. will explain the assignment and establish clear expectations.
+ Possibility 4: Play or other creative work
+ Possibility 5: Recreate an historical experiment or fabricate an historical scientific
+ instrument.
+         Project Presentation: 5% (If the paper or other non-public option is chosen, this
+grade is folded into the research score.
+EXTRA CREDIT ☺ OPPORTUNITIES
+In addition to “surprise” extra credit opportunities to be announced at intervals during the
+semester, students may receive up to five (5) extra credit points for attendance at the 2
+weekly Star Parties, held by the Astronomy Department. Students may submit pink
+attendance slips for receipt of said credit. In addition, students who visit the professor
+during office hours at least two (2) times during the semester will receive one (1) point of
+extra credit. ☺
+Grading:
+Letter grades on students’ transcripts will be assigned according to the following percentage
+distribution:
+90 % or above A
+80 % - 89 % B
+70 % - 79 %        C
+60 % - 69 %        D
+59 % or below F
+According to University of Texas policy, each of these categories can include + and – grading.
+For more information, please consult: http://registrar.utexas.edu/students/grades/.
+Fractional percentages will be rounded upward.
+In general:
+    • A grade of A implies that all requirements have been met and substantially exceeded.
+    • A grade of B implies that all requirements have been fully met.
+    • A grade of C implies that all requirements have been minimally met.
+    • A grade of D implies that some or all of the requirements have not been minimally
+         met.
+    • A grade of F implies failure to meet minimal requirements.
+For this course, the following grading criteria will also apply to each assignment:
+96% or above -- A+ Beyond the Call of Duty
+These assignments fulfill the stated requirements unusually well, go beyond what is required,
+and contain no errors of any sort. They integrate material from different classes (i.e.,
+materials covered in or readings assigned for classes on different topics) into a clear and
+coherent response. All the important points are covered and more. When appropriate these
+assignments recognize possible conflicts or problems with what is said and explain the pros
+and cons of different approaches. A 96% may cover fewer points than 100% answers or have
+an area in which more discussion is needed. A 100% is perfect, uniformly excellent
+throughout, and includes some genuinely original ideas (going beyond what has been said in
+class or readings).
+90 to 95%: A -- Good Solid Work
+                                                                                              6
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+These assignments are fully developed and are focused and coherent. They are competently
+done, without serious errors. No important points are omitted. They may however fail to
+integrate materials completely, or have little to say that is not obvious or they may draw all or
+most of their material from classes or readings on a single topic. These assignments have all
+the elements of a more highly ranked assignment, but do not cover as much as answers in the
+96% and up range. A lower score within the range lacks thoroughness or perceptiveness,
+perhaps raising points without explaining them fully, or may have some additional flaw (a
+serious omission or minor factual error).
+8o to 89%: B -- Good in Some Respects, but Deficient in Others
+These assignments are seriously flawed. They may fail to complete part of the assignment,
+may have more serious errors, or may miss important points or misrepresent sources.
+70 to 79%: C -- Seriously Deficient
+These assignments do not respond to the questions asked. They ignore what was asked (all
+or key parts of a assignment) or are full of errors.
+Less than 69%: D-- Not completed
+The assignment was not completed and the student did not provide an acceptable reason for
+not completing it.
+Style Manual:
+This manual has been officially adopted as the preferred style manual for several of the
+University colleges. Its use is preferred for this class using the footnote-bibliography option.
+Please speak to the instructor if you wish to use another style as this is negotiable. 
+The Chicago Manual of Style: The Essential Guide for Writers, Editors, and
+         Publishers, 16th edition. Chicago, IL: The University of Chicago Press, 2010.
+The Chicago Manual of Style Web site (especially see the link to “Q & A [Questions and
+Answers]”). Quick guide available at:
+http://www.press.uchicago.edu/Misc/Chicago/cmosfaq/
+Writing Centers:
+For assistance in documenting research materials or organizing thoughts for assignments,
+students can make appointments for FREE conferences with writing consultants at UT.
+Due Dates and Late Assignments:
+Assignments are due at the end of class on the
+stated due date unless otherwise specified.
+Assignments will be accepted later than the due date
+only by prior arrangement with the instructor or in
+the case of a documented illness or emergency.
+Assignments submitted later than the due date for
+reasons other than documented illness or
+emergency will be subject to an automatic reduction
+of 10% of the grade for the assignment.
+Class Attendance Policy (required policy):
+“Class attendance is a requirement and use of the
+full class period is expected. You will be allowed
+three sick, personal, physical or mental health days without grading consequences. It is up
+to your discretion how you use these three days. Being late to class three times or leaving
+class early three times will count as an absence. 15 minutes late to the start of class will
+constitute a tardy. Leaving class before being dismissed by your professor will constitute
+                                                                                                7
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+an early departure. A 4th absence will result in the lowering of your final grade by one
+letter grade. Absences, tardiness and/or early departures beyond this could result in course
+failure. If a serious medical or personal situation occurs affecting attendance, please
+discuss it with your professor.”
+University of Texas Honor Code (required note):
+“The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity, and responsibility. Each member of the university is
+expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.”
+University Attendance Policy: Religious Holy Days:
+“A student who misses classes or other required activities, including examinations, for the
+observance of a religious holy day should inform the instructor, in writing, as far in
+advance of the absence as possible so that arrangements can be made to complete an
+assignment within a reasonable time after the absence.”
+University Academic Integrity and Scholastic Honesty (General Information
+Catalogue):
+“The value of a university degree depends on the absolute integrity of the work done by
+each student for that degree, a student should maintain a high standard of individual honor
+in his or her scholastic work” (page 98). Students who violate University rules on scholastic
+dishonesty are subject to disciplinary penalties, including the possibility of failure in the
+course and/or dismissal from the University. Since such dishonesty harms the individual,
+all students, and the integrity of the University, policies on scholastic dishonesty will be
+strictly enforced.”
+Reasonable Accommodations:
+Students requesting academic accommodations in the classroom must present a letter
+prepared by SSD verifying the need for accommodations to each of their instructors (In the
+School of Law, students should request letters to the Assistant Dean for Student Services,
+who will make the accommodation arrangements). The student's file must be in Active status
+prior to the preparation of these letters. For more information, visit:
+http://www.utexas.edu/diversity/ddce/ssd/letters.php/.
+Cell Phone Use:
+In consideration of their classmates, students are strongly urged to leave cell phones turned
+“off” or “silent” during class delivery. If it is necessary to leave a cell phone activated during
+the class, please make every effort to step outside of the classroom, or away from the class,
+should you accept a call.
+Student Evaluation of Class:
+At the end of the term, each student will be asked to complete an UT evaluation form that
+elicits opinions about the quality and relevance of course content and the quality of
+instruction. The instructor will NOT see course evaluations until after grades have been
+turned in to the Registrar’s Office. Student input is used by the instructor for instructional
+improvement as well as by the History Department for annual faculty assessment and
+promotion decisions. Your careful and accurate completion of the evaluation form is very
+important and most appreciated.
+Course Schedule*
+The following course schedule is subject to change due to inclement weather and other unforeseen changes, as well as official
+schedules of the Harry Ransom Center and other venues we shall visit during the course. More importantly, learning is a
+dynamic process and, as such, expansions and emendations often occur in the classroom setting. Therefore, the foregoing
+is intended solely as a predictive guide to the organizing genius of this class, but is not intended to be slavishly prescriptive.
+Acknowledgements: Several policies and materials in this syllabus were adapted from Prof. R. H. Taylor’s LIS 5043—
+SU 2004 Syllabus and Prof. C. Brown’s LIS 5293-Spr 2006 Syllabus at the University of Oklahoma, and from Astronomy
+162 at the University of Tennessee for the introductory material found in this syllabus. Sections of the course outline are
+borrowed from Prof. Adrian Johns’ HIST 25307, Winter Quarter 2012, at the University of Chicago.
+                                                                                                                                 8
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+                                                           *DRAFT 1 COURSE SCHEDULE*
+ CLASS PERIOD          DATE                   TOPIC                   LABORATORIES          READINGS DUE         ASSIGNMENTS DUE
+                                 Part 1: Why History and Philosophy of STEM2?
+       1      MON 15 JUL 2019      Course Introduction        (1) Candle in a Jar      _____                 ___
+       2      TUES 16 JUL 2019     1. Historiography of       (1) Lab Group Formation  1. Gribbin,           READING QUIZ 1 DUE
+                                            Science           (2) Creatio ex materia  Introduction and pp.
+                                                              (3) Lab 2 Elements       1-6
+                                   2. Ancient Cosmology
+                                                                                       2. Capra, Preface,
+                                                                                       Prologue and
+                                                                                       Timeline
+       3      WED 17 JUL 2019      Ancient Kinematics         (3) Aristarchus (Gnomon) Kuhn, Chapter 1 and   READING QUIZ 2 DUE
+                                                              (4) Star Party!         Technical Appendix
+       4      THUR 18 JUL 2019     Aristotelian Cosmology     (4) 1. Anaximander’s     Kuhn, Chapter 2       READING QUIZ 3 DUE
+                                                              Universe
+                                                              2. Dr. Who Film
+                               Part 2: Historical Methods and Reasoning in STEM2
+       5      FRI 19 JUL 2019        Apollo XI Lunar Landing  Kepler’s Somnium         Kuhn, Chapter 3       READING QUIZ 4 DUE
+                                        50th Anniversary
+                                         Celebration!                                                      *STAR PARTY (PAI)*
+       6      MON 22 JUL 2019      Ptolemaic Universe         (5) Astrolabe and        Capra, Chapter 1      READING QUIZ 5 DUE
+                                                              Antikythera
+                                                                                                             Choose Presentation
+                                                                                                             Dates
+       7      TUES 23 JUL 2019     “Saving the Appearances”   (6) Ptolemy’s Universe   Gribbin, Chapter 1
+       8      WED 24 JUL 2019      Meet at Harry Ransom       (0) Descriptive          Gribbin, Chapter 3    1. PROJECT PROPOSAL
+                                   Center                     Bibliography                                   DUE
+                                                                                                             2. *STAR PARTY (RLM)*
+                                                                                                             3. Select Manuscript
+       9      THUR 25 JUL 2019     Mediaeval Cosmology and    (7) Foucault’s Pendulum  Gribbin, Chapters 4-5
+                                   Kinematics                 (Optional)
+      10      FRI 26 JUL 2019      Copernicus the Play        (8) Copernican Cosmology Kuhn, Chapter 5       1. QUIZ 6 DUE
+                                                                                                             2. Ptolemy Lab (6) Due
+                                                                                                             3. *STAR PARTY (PAI)*
+                                                                                                                                    9
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+ CLASS PERIOD         DATE                  TOPIC                LABORATORIES          READINGS DUE         ASSIGNMENTS DUE
+      11      MON 29 JUL 2019    Copernicus Part II       (9) Wittenberg Cosmology Capra, Chapter 2      READING QUIZ 7 DUE
+      12      TUES 30 JUL 2019   Tycho Brahe and the Orbs  (10) Tychonic Cosmology Kuhn, Chapter 6       [Five Book Resources
+                                                                                   Gribbin, pp. 33-68    Due]
+                                                                                   Mysterium
+                                                                                   Cosmographicum
+                                                                                   Harmonice Mundi
+      13      WED 31 JUL 2019    Johannes Kepler          PRESENTATION: TBA        Kepler’s Somnium      READING QUIZ 8 DUE
+                                                          (11) The Neo-Pythagorean Gribbin, Chapter 3    *STAR PARTY (RLM)*
+                                                          Universe
+      14      THUR 1 AUG 2019    The Galileo Affair       PRESENTATION: TBA        Galileo, Letter to    [Project Abstract Due]
+                                                                                   Grand Duchess
+                                                          (12) Galilean Relativity
+      15      FRI 2 AUG 2019     Evangelista Torricelli   (13) Alchemy             (in class) Jenkins    *STAR PARTY (PAI)*
+                                 Sir Robert Boyle and the                          article (brief
+                                 Vacuum Pump                                       overview)
+      16      MON 5 AUG 2019     Sir Isaac Newton         Newton (General          Gribbin Chapter 4     READING QUIZ 9 DUE
+                                 Theology                 Scholium)                                      (Boyle supplement)
+                                 Newtonianism
+                                 Mathematics (Principia)
+                                           Part 3: Making STEM2 Modern
+      17      TUES 6 AUG 2019    From Pascal to Euler:    PRESENTATIONS: TBA       Review Gribbin Ch 5
+                                 Making Mathematics       Divide by Zero
+                                 Modern and Felinus       Pascal’s Triangle
+                                 Matematicus: The n-Lives <TBD: Faraday’s Motor>
+                                 of an Equation
+      18      WED 7 AUG 2019     MEET AT BLANTON          Art and Science          Dobbs, First Half     READING QUIZ 10 DUE
+                                 MUSEUM OF ART                                                           (Newton # 1)
+                                                                                                         *STAR PARTY (RLM)*
+      19      THUR 8 AUG 2019    MEET AT HRC              Descriptive Bibliography                       Wikipedia Article Due
+                                                          for History of Math
+      20      FRI 9 AUG 2019     Darwin                   PRESENTATIONS: TBA       Gribbin, Chapter 7    READING QUIZ 10 DUE
+                                                                                   Dobbs, Second Half    (Newton # 2)
+                                                          (14)Natural Selection
+                                                          (Thomas Malthus)
+      21      MON 12 AUG 2019    MEET TEXAS MNH                                    Capra, Chapters 8 + 9 ART MUSEUM QUIZ
+                                                                                                                                10
+
+
+HERD 82075 HIS F322M - HISTORY OF MODERN SCIENCE MTWRF 100P - 230P RLM 7.114
+ CLASS PERIOD         DATE                     TOPIC               LABORATORIES            READINGS DUE        ASSIGNMENTS DUE
+                                                                                        Museums Article     DUE (#11)
+                           Part 4: Contemporary Debates and Historical Perspectives on STEM2
+      22      TUES 13 AUG 2019      Engineering and/as       PRESENTATION: TBA          Capra, Chapter 5    MUSEUMS AND
+                                    Science: Nuclear                                                        NATURAL HISTORY
+                                    Engineering Case Study   (15) Reactor Theory and β-                     Lab Due
+                                    (Rickover)               Radiation (Cloud Chamber)
+                                                             Electromagnetism
+                                                             Rocketry
+      23                            Science and the Civil    PRESENTATIONS: TBA         Gribbin, Chapter 13 NUCLEAR HANDOUT
+              WED 14 AUG 2019       Society-Gender(ed)                                                      DUE (Quiz 12)
+                                    Science (Sandra Harding)
+      24      THUR 15 AUG 2019      The Grand Mystery        PRESENTATIONS: TBA         Capra, Chapter 7    *STAR PARTY (RLM)*
+                                                                                        Review Kuhn 13      ::Descriptive
+                                                                                                            Bibliography Due::
+      25      FRI 16 AUG 2019       Einstein, Boltzmann, and PRESENTATIONS: TBA         Capra, Coda
+                                    Maxwell
+                                                              LAST DAY!!!             Review Kuhn
+                                    Cold War Science                                    Postscript
+                                    Kurt Gödel and
+                                    Information:
+                                    Incompleteness Theorem
+    NOTE      WED 21 AUG 2019       ALL OUTSTANDING WORK AND FINAL PROJECT DUE BY 11:59 PM
+                                                                                                                               11

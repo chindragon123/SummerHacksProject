@@ -1,0 +1,111 @@
+               HUMAN BIOLOGY: EPIGENETICS, GENETICS AND EVOLUTION
+                                        BIO346, FALL 2018
+Instructor: Dr. Steve Phelps
+Office: 22 Patterson Labs                              Discussion Leader: Jason Ikpatt
+Office hours: Tues 11am-12pm or by appt                Office: 58 Patterson Labs
+Email: sphelps@mail.utexas.edu                         Office hours: Jason, Fri 2-3pm
+Twitter: @evolbrain                                    Email: ikpatt@utexas.edu
+Please e-mail for appointments or emergencies only, and be sure to put “BIO346” in the
+subject heading. We are happy to meet students during office hours, but it is really inefficient
+to answer questions about the course over email. Plus we’d rather get to know you in person.
+Attendance at exams is required. You must take exams in the registered period. Make-up
+exams are only by prior arrangement, in the case of extreme and documented reasons. Make-
+up exams may take a different form than the regularly scheduled exam, including essay exams
+for example.
+This is a fun but challenging course that surveys the molecular and evolutionary underpinnings
+of human physiology and behavior. The course is intended as a broad summary and synthesis
+of diverse areas of biology with an emphasis on its unifying concepts. Material is organized into
+three broad themes: 1. Epigenetics, genetics and society. 2. Human diversity, and 3.
+Becoming human. The class will use principles of biology that are derived from work with many
+species and apply them to understanding human form and function. The first theme,
+Epigenetics, genetics and society, discusses how our experience in the world interacts with our
+genome. Human diversity explores concepts of race, geographic variation, population evolution
+and recent human history. The last theme, Becoming human, moves progressively farther back
+in time to understand the origins of the structure of our bodies and the cells that comprise them.
+The class assumes a familiarity with Mendelian genetics and molecular genetics, including the
+mechanisms of eukaryotic gene regulation. Students are expected to be proficient with the
+concept of phylogeny. These expectations are based on students having successfully
+completed the required pre-requisite courses BIO311C, BIO311D, and BIO325, or their
+equivalents. Our major learning objectives are to:
+     1. Understand the molecular basis of interactions between genomes and environments
+     2. Understand how societal factors (poverty, stress, trauma) influence genome function
+     3. Understand genetic contributions to health and disease
+     4. Describe how human movements have shaped genetic variation
+     5. Detect evidence of natural selection within the genome
+     6. Understand how selection and mutation shape health and disease
+     7. Identify the relationship between the human body and its homologs in other species
+     8. Understand the continuity of biological processes across timescales
+The class meets Tuesday and Thursday from 9:30am-11am. There are weekly discussion with
+times varying according to section. To evaluate your understanding, there will be three in-class
+exams, three quizzes, and some miscellaneous assignments. Exams emphasize integration and
+application of concepts, and are designed to mimic the range of questions students can expect
+to find on pre-professional exams, like the Medical College Admissions Test. Grades will be
+weighted as follows.
+
+
+         Exam 1,        Tuesday, October 2                          100pts
+         Exam 2,        Thursday, November 1                        100pts
+         Exam 3,        Thursday, December 6                        100pts
+         Discussion section                                         100pts
+                Discussion participation and attendance 20pts
+                Quizzes, 3 @ 10pts 30pts
+                Additional assignments TBD 50pts
+         Total                                                      400pts
+Scores on tests will be curved. We will calculate the curve by averaging the top three scores in
+the class, subtracting the average from 100, and adding the difference to everyone’s exam
+scores. The total percentage of correct items will be converted into letter grades using the
+familiar standards: A = 90.0-100, B = 80.0-89.9, C = 70.0-79.9, and D = 60.0-69.9.
+The course reading will be a mixture of scientific and popular press articles distributed as pdf
+files. These pdfs are available in the course Canvas site. Underlined readings are original
+scientific papers (so allow more time to get through them). Items in blue refer to the discussion
+section.
+                 Theme 1: Epigenetics, genetics & society         Student reading
+                 Introduction: epigenetics, genetics &
+        30-Aug   evolution
+                 No discussion
+         4-Sep   Epigenetics defined                              Bonetta 2008, Mukherjee 2016
+         6-Sep   Developmental origins of health and disease      Barker 1990
+                 What is epigenetics? DTC genetic testic          Coyne blog post
+        11-Sep   Parenting, stress and poverty                    Sapolsky 2005, Hackman Meaney 2010
+        13-Sep   Sexual differentiation
+                 Quiz 1: Epigenetics and early life
+        18-Sep   Transgenerational epigenetics                    Rando 2015, Heijmans et al 2008
+        20-Sep   Heritability, mutation and association           Wray 2008, Kruglyak 2008, Maher 2008
+                 Epigenetics of the holocaust?                    Yehuda et al 2016, Guardian vs Ewan Birney
+        25-Sep   Heritability, mutation and association
+        27-Sep   Review
+                 Heritability and epigenetics problems
+          2-Oct  Exam 1
+                 Theme 2: Human diversification
+          4-Oct Geographic variation and race                     Parra et al. 2003
+                 Genetics, drift and migration -- in class
+                 problems                                         Barbujani and Colonna 2010
+          9-Oct Drift, mutation and migration                     Cavalii-Sforza 1969
+        11-Oct Ancient migrations                                 (Barbujani and Colonna 2010)
+                 Population genetics take-home quiz               Bersaglieri et al 2004
+
+
+16-Oct Population genetics, selection and disease
+18-Oct Evolution in response to climate           Jablonski and Chapin 2003, Jablonski 2010
+       Lactase persistence module
+23-Oct Evolution of agriculture and diet          Cochran and Harpending 2009 (Ch 3), Curry 20
+25-Oct The genus Homo                             Pontzer 2012
+       Neanderthal module
+30-Oct Review
+ 1-Nov Exam 2
+       Theme 3: Becoming human
+ 6-Nov Phylogeny, brains and cognition            Boyd Silver 2015
+ 8-Nov Phylogeny, brains and cognition
+       Phylogeny & adaptation                     Pollard 2009
+13-Nov Sensation: Sight, smell, sound             Gilad Paabo 2004
+15-Nov Primate sexuality & attachment             Fisher Brown 2005
+       Quiz: Brain, behavior and evolution
+20-Nov Limbs                                      Prabhakar Noonan 2008
+22-Nov Thanksgiving
+       Development and limb evolution
+26-Nov Limbs                                      Riddle & Tabin 1999
+29-Nov Guts                                       Yei Keenan 2017
+       Metabolism module
+ 4-Dec Tissues, cells & nuclei                    Mattiroli Luger 2017
+               Dec 5: Special evening review
+ 6-Dec Exam 3

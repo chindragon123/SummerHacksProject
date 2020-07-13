@@ -1,0 +1,185 @@
+          ME 366J Mechanical Engineering Design Methodology
+              Mechanical Engineering Department, The University of Texas at Austin
+                                          Summer 2020,
+Teaching Team
+Instructor: Dr. Christopher Rylander
+Office: ETC 7.142D, Phone: 232-6144,                      Email: cgr@austin.utexas.edu
+Office Hours: W 1–2 pm or by appointment
+Large Lecture: TTH 10 am - 12 pm, Zoom
+Lab: WF 3:30 am – 5:30 pm, Zoom (attendance mandatory)
+Teaching Assistants:
+Sean Brocklehurst swbrock@gmail.com
+Van Herd herd@austin.utexas.edu
+Learning Objectives:
+In this course, you will learn how to solve open engineering design problems using systematic
+design thinking and practices. At the end of the course, you will be able to:
+• Define an open engineering design problem, including gathering customer needs and
+    formulating engineering requirements/specifications to address a need.
+• Generate a variety of concepts that are both creative and useful.
+• Make well-informed, well-justified design decisions in the early and later stages of design
+• Design and analyze experiments, following statistical best practices in Design of Experiments
+    (DoE), to inform the design process.
+• Create and interrogate simulation models to evaluate and refine potential designs.
+• Design and build low- and high-resolution prototypes to inform the design process.
+• Embody solutions with “Design for X” considerations, where the X could represent
+    manufacturing, assembly, environment, or modularity/flexibility.
+• Communicate intermediate and final designs clearly and effectively in written, oral, and
+    multimedia formats.
+Textbooks
+Suggested readings are taken from two different textbooks. Two copies of each textbook are
+    available on reserve at the PMA library in RLM.
+    (1) Otto, K.N. and K. L. Wood, 2001, Product Design: Techniques in Reverse Engineering and
+         New Product Development, Prentice Hall, Upper Saddle River, NJ. (Abbreviated as O&W
+         in the lecture schedule)
+    (2) Ulrich, K.T. and S.D. Eppinger, 2016, Product Design and Development, 6th Edition, McGraw
+         Hill Education, New York, NY. (Abbreviated as U&E in the lecture schedule)
+Canvas
+The teaching team will post lecture slides, assignments, and other handouts and interesting links
+on the Canvas web site. Please logon at canvas.utexas.edu. The web site is password-protected.
+Site activities may include exchanging email, engaging in class discussions and chats, and
+exchanging files. In addition, electronic class rosters will be a component of the site. Students
+                                                 1
+
+
+who do not want their information included in these electronic class rosters must restrict their
+directory information in the Office of the Registrar.
+Grading
+                                                                                                     Total
+     Semester Long Project**                                                                          69%
+         Project Proposal                                                                10%
+         Design Review                                                                   10%
+         Video Design Checks (3x 8% ea)                                                  24%
+         Final Report                                                                    15%
+         Final Presentation                                                              10%
+     Personal Design Notebook                                                                         25%
+     Lecture and Lab Attendance                                                                       6%
+                                                                                                     100%
+     ** The teaching team reserves the right to substantially lower or raise project grades for
+     individual students based on effort, participation, peer evaluations, and lab/class attendance
+     throughout the semester.
+     All assignments will be graded with an 80% weighting toward technical content and 20%
+     toward writing or oral communication ability.
+Assignments, Exams, and Related Items
+Project. As a member of a team of approximately five students, you will have the opportunity to
+design, fabricate, and test an engineering system, as described in your semester-long project
+assignment. The project is divided into three phases: (I) Task Clarification leading to your Project
+Proposal, (II) Conceptual Design leading to your mid-semester Design Review, and (III)
+Embodiment and Detail Design leading to your Final Project Report and Presentation. Subsequent
+handouts will provide detailed guidelines for each of the project-related activities.
+Personal Design Notebook. You will be required to maintain a Personal Design Notebook to
+document your individual efforts for the project. It should include accounts of design activities,
+thoughts, analyses, calculations, sketches, intermediate results, refinements, and other
+information relevant to your individual contribution to the design project. Record all of your
+project-related work in your Personal Design Notebook, which will be submitted weekly as a pdf
+file to the Canvas web site.
+Attendance, Participation, Peer Evaluations. Attendance and participation in class and lab is
+mandatory and monitored. Notify the teaching team in advance if you must be absent for a
+legitimate reason. The teaching team considers this assessment in your final grade, along with
+the results of peer and instructor evaluations of your participation in team project activities. Peer
+evaluations are due by 5 pm on Canvas the day following each of the 3 Project Notebooks
+deadlines. The teaching team reserves the right to substantially lower or raise project grades for
+individual students based on effort, participation, peer evaluations, and lab/class attendance throughout the
+semester.
+Assigned Reading. Exams and other assignments will draw upon only the material presented in
+lecture and lab. The assigned readings are designed to enhance your understanding of the
+material presented in lecture, and help you cover lecture materials in the event of an absence
+from class. The assigned readings are available in textbooks on reserve at the PMA library.
+                                                       2
+
+
+Deadlines and Penalties. All assignments must be submitted on time. Assignments are due at the
+times and places designated on the course schedule. Unless prior approval is obtained from the
+teaching team, late assignments will be penalized 10% or one letter grade immediately following
+the deadline, and increasing 10% per additional day late.
+Academic Integrity
+Academic dishonesty will not be tolerated in this course. Penalties are likely to include a grade of
+F for the activity and/or for the course. Ask your instructor or teaching assistant if you have any
+questions about expectations for a particular activity. You are encouraged to discuss any aspect
+of the course with classmates and project team members, but remember the following rules:
+• Do not plagiarize the work of others by copying from the web, other students, previous
+     students, articles, or other sources (aside from compiling work from your teammates for
+     group project activities) without properly referencing your sources.
+• Do not give or receive assistance from another student during an exam or consult any
+     materials other than those specifically permitted by your instructor during an exam.
+Prerequisites
+Prerequisites are strictly enforced. According to the Undergraduate Catalog, the prerequisites are:
+Mechanical Engineering 302, 330, 130L, 335, 338, 339, 139L, 340, 140L, 333T, or the equivalent.
+Please see the instructor if you have any questions about the requirements.
+ME 366J is a prerequisite for ME 266K, Mechanical Engineering Design Project. In ME 266K, you
+will use much of the knowledge gained in this course, including the ability to formulate open
+engineering design problems and the ability to solve them via effective use of solution generation
+techniques, engineering analysis and experimentation, systematic decision-making, reverse
+engineering, and speaking, writing, and collaborative team-building skills.
+Adding/Dropping the Course
+An engineering student must have the Dean’s approval to add or drop a course after the fourth
+class day of the semester or after the second class day of a summer term. Adds/Drops are not
+approved after the fourth class day, except for a good cause such as documented evidence of an
+extenuating non-academic circumstance (e.g., health or personal problems) that did not exist on
+or before the fourth class day. Applications for approval to drop a course after the fourth class
+day should be made Engineering Student Services.
+Course/Instructor Evaluation
+All students will have the opportunity to evaluate the course and instructor using the standard
+Course Instructor Survey form during the last week of classes. Intermediate surveys may also be
+conducted by the instructor during the semester. Constructive feedback is encouraged at any
+time via personal discussions or email.
+ABET Requirements
+ME 366J contributes to all the following ABET Program Outcomes (2018 version):
+1      Ability to identify, formulate, and solve complex engineering problems by applying
+       principles of engineering, science, and mathematics.
+2      Ability to apply engineering design to produce solutions that meet specified needs with
+       consideration of public health, safety, and welfare, as well as global, cultural, social,
+                                                   3
+
+
+      environmental, and economic factor.
+3     Ability to communicate effectively with a range of audiences.
+4     Ability to recognize ethical and professional responsibilities in engineering situations and
+      make informed judgments, which must consider the impact of engineering solutions in
+      global, economic, environmental, and societal contexts.
+5     Ability to function effectively on a team whose members together provide leadership,
+      create a collaborative and inclusive environment, establish goals, plan tasks, and meet
+      objectives.
+6     Ability to develop and conduct appropriate experimentation, analyze and interpret data,
+      and use engineering judgment to draw conclusions.
+7     Ability to acquire and apply new knowledge as needed, using appropriate learning
+      strategies
+Writing Flag Requirements
+This course carries the Writing Flag. Writing Flag courses are designed to give students
+experience with writing in an academic discipline. In this class, you can expect to write regularly
+during the semester, complete substantial writing projects, and receive feedback from your
+instructor to help you improve your writing. You will also have the opportunity to revise one or
+more assignments, and you may be asked to read and discuss your peers’ work. You should
+therefore expect a substantial portion of your grade to come from your written work. Writing
+Flag classes meet the Core Communications objectives of Critical Thinking, Communication,
+Teamwork, and Personal Responsibility, established by the Texas Higher Education
+Coordinating Board.
+Plagiarism and Academic Integrity
+Using someone else’s work in your own writing without giving proper credit is considered
+plagiarism, a serious form of academic dishonesty that can result in severe penalties. Copying
+someone else’s work, buying a paper and submitting it as your own, copying and pasting text
+(even with changes), or borrowing images from an online source, are some examples of
+plagiarism. Even if you plagiarize accidentally, you can be held responsible and penalized.
+Learning to cite sources appropriately is an important part of becoming a professional. When you
+are unsure about citation, you are encouraged to ask your instructor (who is already an expert in
+the discipline) what is appropriate in the context of your assignment. Consultants at
+The University Writing Center can also help you determine whether you are citing sources
+correctly—and they have helpful guides online for using direct quotations and paraphrasing.
+Reviewing those skills will help you feel confident that you are handling sources professionally
+in your writing.
+You can read the University’s definition of plagiarism and other forms of academic dishonesty in
+Sec. 11–402 of the Student Conduct Code. For more information, visit the Dean of Students’ site.
+Supplemental References
+Handouts to be supplied in class.
+Pahl, G. and W. Beitz, 1996, Engineering Design: A Systematic Approach, 2nd Edition, Springer-
+    Verlag, NY.
+Pugh, S., 1991, Total Design: Integrated Methods for Successful Product Engineering, Addison-Wesley,
+    Boston.
+                                                   4
+
+
+Ullman, D. G., 1997, The Mechanical Design Process, 2nd Edition, McGraw-Hill, NY.
+Special Needs
+The University of Texas at Austin provides upon request appropriate academic adjustments for
+qualified students with disabilities. For more information, contact the Office of Services for
+Students with Disabilities at 471-6259, 471-4641 TDD.
+                                                 5

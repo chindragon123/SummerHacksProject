@@ -1,0 +1,293 @@
+David (D.S.) Cohen          ds.cohen@austin.utexas.edu        Office: DFA 4.112 Thursday 2-4p          Fall 2018
+AET 336 Game History and Theory
+Course Sections
+ Instructor                  TA                     UID              Meeting Times           Room
+ David (D.S.) Cohen          Samantha Brown         20944            M/W 12:30 - 2P          DFA 4.106
+Abstract
+        From the catalogue: Introduction to critical and historical approaches to video games and game
+        design, including video game histories and archives, critical media theory in game development
+        and contemporary social issues in gaming.
+Objective
+        Through historical examination, identify how game design and player engagement was innovated
+        through the origins and progression of game technology; where mechanics that continue to be
+        used today began, and how they have changed through decades of iteration and evolution.
+Assessment
+        This course is project and journal based. There will be no exams. Grading is based on successful
+        completion of project, and journal objectives. Assignments are worth 60%, the final project is
+        worth 30%, and the remaining 10% of the final grade is based on professionalism which is earned
+        by attending class during the scheduled meeting times and conducting oneself in a professional
+        manner.
+        No late work will be accepted. No incompletes will be given. If you feel you will not be able to
+        complete all work on time, you should ask the instructor for a grade of Q or drop before the
+        deadline for doing so passes.
+        Note: If you catch the flu, get a flat tire, or otherwise cannot attend class, please send an
+        email and attach any class work as needed.
+        Final grades will be determined on the basis of the following rubric. Please note: to ensure
+        fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B-
+        will be inclusive of all scores of 80.000 through 83.999. The University does not recognize the
+        grade of A+.
+        Letter grade equivalents:
+          A = 94-100                         C+ = 77-79                          D+ = 67-69
+          A- = 90-93                         C = 74-76                           D = 64-66
+          B+ = 87-89                         C- = 70-73                          D- = 60-63
+          B = 84-86                                                              F = 0-60
+          B- = 80-83
+                                                                                                               1
+
+
+        File Format:
+        Presentations, docs, spreadsheets, flowcharts, concept art, etc. File Format: PDF;
+        Game Builds – File Format: Executable file (.exe)
+        File Naming Convention: ​If submitting as an individual…
+        Firstname_Lastname_AssignmentName_Numeric DateSubmitted
+        Example: davidc_conceptpitch_07042018
+        If submitting as a team…​TeamName_AssignmentName_DateSubmitted
+        Example: davidc_conceptpitch_07042018
+        IMPORTANT: Do not use slashes (/) in the date, as the system will not accept it and it may not
+        read correctly.
+Classroom Policy
+        Devices
+              ● Must be kept in silent mode unless an emergency notification is expected (please discuss
+                   this with me prior to class).
+              ● Can be used for research and class note taking, but not for social media (unless related to
+                   class activities)
+        Food/Drink
+              ●    Food is not allowed in class.
+              ●    Drinks in closed containers are permitted but must be kept on the floor or out of sight
+                   when not in use.
+Required Equipment
+        All students MUST have access to a portable computer capable of running Unity, GameMaker
+        Pro, or Construct game Engine(s), and Twine. Either Mac or PC is fine.
+Calendar
+Note – This is outline, assignments, and reading are subject to change by the instructor, without
+notification in certain cases.
+ 1          8/29                                                                  Journal 1
+            Course Intro
+            What is play?
+            The Player loop
+            Journal 1​: Research a pre-video/digital coin-op arcade game.
+            Analyze the game design, and player loop
+ 2          9/3
+            Labor Day - No Class
+            9/5                                                                   Journal 2
+            Age of Discovery
+            - Electronic Games
+            - First Computer Games
+                                                                                                           2
+
+
+  - First AI Game
+  - Brown Box Project
+   Journal 2:​ Research one of the first electronic (non-video) games.
+  Analyze the game design, mechanics, and user interface.
+3 9/10                                                                      Project 1
+  The First Generation
+  Project 1:​ Design a game using just the capabilities of this first
+  generation of game technology. Don't recreate an existing game; create
+  new gameplay opportunities.
+  9/12
+  The First Generation (Cont.)
+  Continue Project 1
+4 9/17                                                                      Project 2 - Part 1
+  Adventure Games (Text/Graphical/Point-and-click/Serialized)
+  Project 2 - Part 1: ​Design a game map, and two puzzles for a text
+  adventure game.
+  Familiarize yourself with Twine. A tool for making text adventure games.
+  http://twinery.org/
+  9/19
+  Adventure Games (Cont.)
+  Continue Project 2 - Part 1
+5 9/24                                                                      Project 2 - Part 2
+  Rom Cartridge Revolution                                                  Journal 3
+  Journal 3:​ Select an Atari 2600, ColecoVision, Intellivision or pre-1984
+  arcade game that you feel innovated in some way. Examine the
+  gameplay mechanics and player interaction. Where was it successful?
+  Where did it fail?
+  Project 2- Part 2: ​Using Twine, create a text adventure game based on
+  the map and puzzles you created in Part 1
+  9/26
+  Rom Cartridge Revolution (Part 2)
+  Project 2 - Part 2​ Continued
+6 10/1                                                                      Journal 4
+  Industry Crash (1983)
+  Journal 4:​ Compare Atari 2600 game to an NES game
+  10/3
+  Industry Rebirth (1884)
+7 10/8                                                                      Journal 5
+  Home Computer Gaming
+  Journal 5:​ Compare NES game with PC games the period/generation.
+  10/10
+  Computer Gaming (Cont)
+8 10/15                                                                     Journal 6
+  Handheld Gaming
+  Journal 6:​ Identify and compare a game from the First or Second
+  generation of handheld systems, with a modern mobile (iOS/Androud)
+  game in the same genre. Outline and examine the differences between
+  the player loop, and interface.
+                                                                                               3
+
+
+   10/17
+   Handheld Gaming (Cont.)
+9  10/22                                                                  Project 3 (Team Based
+   16-bit gaming The Console Wars Begin                                   Final Project)
+   Project 3 - Team Based Project - ​Design and build a game for a first  Journal 7
+   through third generation game platform
+   -
+   10/24
+   64-bit - Games Move to Disc (Except Nintendo)
+   Journal 7:​ Examine and explain how the transition from 2D to 3D games
+   impacted game mechanics and experience.
+10 10/29                                                                  Project 3 (Cont.)
+   3D Games                                                               Journal 8
+   -
+   10/31
+   Experimental Games
+   Journal 8: ​Identify and research a pre-2000 experimental art game.
+   Break down the user experience and why it was a significant artistic
+   statement.
+11 11/5                                                                   Project 3 (Cont.)
+   Online Gaming
+   -
+   11/7
+   Online Gaming (Cont.)
+12 11/12
+   History of Game Development
+   -
+   11/14
+   History of Game Development
+13 11/19
+   History of Game Audio
+   -
+   11/21
+   Thanksgiving - No Class
+14 11/26                                                                  Project 3 (Cont.)
+   VR/AR Gaming                                                           Journal 9
+   Journal 9 ​- Compare VR/AR user experience to that of the early
+   first-person games. Examine design considerations that need to be
+   made between these different experiences.
+   -
+   11/28
+   VR/AR Gaming
+15 12/3                                                                   Project 3 (Cont.)
+   Looking at the Future though the Past                                  Journal 10
+   Journal 10 -​ Select a currently used game mechanic and research its
+   origins. Examine how the mechanic has evolved.
+   -
+   12/5
+   LAB/Check-In
+16 12/10 (Last day before finals)
+                                                                                                4
+
+
+         FINAL DUE
+Units of Study
+   1. Game Design Evolution
+           ○ Using research and exploration to identify how game design and development has
+               evolved through the progression of technology.
+   2. Innovation through limitations
+           ○ Readings and discussion of how early game design had to innovate through the tools that
+               were available.
+           ○ Designing and building games within the confines of these limitations.
+   3. Understanding through the past how we play today
+           ○ Understanding the gameplay loop (Compulsion loop, core loop, experience loop) and
+               how it changes based on platform.
+Process
+      Students will maintain a journal as a record of their research on platform specific game design
+      and comparing games, technology, and mechanics.
+      Individually and in teams, students will design, and build games using the mechanics and
+      limitations of platforms from specific time periods.
+      Journals 1-3 - Due 10/1
+           ●   Journal 1: ​Research a pre-video/digital coin-op arcade game. Analyze the game design,
+               and player loop
+           ●   Journal 2:​ Research one of the first electronic (non-video) games. Analyze the game
+               design, mechanics, and user interface.
+           ●   Journal 3: ​Select an Atari 2600, ColecoVision, Intellivision or pre-1984 arcade game that
+               you feel innovated in some way. Examine the gameplay mechanics and player interaction.
+               Where was it successful? Where did it fail?
+      Journals 4-6 - Due 10/26
+           ●   Journal 4:​ Compare Atari 2600 game to an NES game
+           ●   Journal 5: ​Compare NES game with PC games the period/generation.
+           ●   Journal 6: ​Identify and compare a game from the First or Second generation of handheld
+               systems, with a modern mobile (iOS/Android) game in the same genre. Outline and
+               examine the differences between the player loop, and interface.
+      Journals 7-8 - Due 11/26
+           ●   Journal 7:​ Examine and explain how the transition from 2D to 3D games impacted game
+               mechanics and experience.
+           ●   Journal 8:​ Identify and research a pre-2000 experimental art game. Break down the user
+               experience and why it was a significant artistic statement.
+      Journals 9-10 - Due 12/10
+           ●   Journal 9: ​Compare VR/AR user experience to that of the early first-person games.
+               Examine design considerations that need to be made between these different
+               experiences.
+           ●   Journal 10​ Select a currently used game mechanic and research its origins. Examine how
+               the mechanic has evolved.
+                                                                                                          5
+
+
+         Projects
+         Project 1 Individual Project - Due 9/17
+         Building within design limitations of the first generation. Design a game using just the capabilities
+         of this first generation of game technology. Don't recreate an existing game; create new
+         gameplay opportunities.
+         Project 2 Individual Project - Part 1 Due 9/21 , Part 2 Due 10/8
+         Exploring how environmental navigation, puzzle mechanics, and decision trees can be
+         experienced through text-only gameplay.
+         Part 1: Design a game map, and two puzzles for a text adventure game.
+         Part 2: Using Twine, create a text adventure game based on the map and puzzles you created in
+         Part 1
+         Project 3 Team Based - Weekly Progress Reports Due Each Tuesday - Final Project Due 12/10
+         I​dentifying and building gameplay opportunities within the confines of graphical, mechanical, and
+         interfaces of early game technology.
+         As a team, select a platform from the first through third generation of video game consoles.
+         Design and build a game that would be able to operate on that platform using Unity, Construct
+         GameMake Pro. Games must exhibit a core loop/experience loop that is indicative of the period,
+         and include at least one new concept in mechanics. Games can be Single or multi-screen. Single
+         screen games can have multiple stages, however multi-screen (3 or more) games should be
+         limited to a single level.
+         While the final project will be due on 12/10, weekly reports from the team need to be submitted
+         every Tuesday starting 10/29. Weekly reports must include progress updates, learnings, and a
+         breakdown of the work accomplished by each team member.
+Class Attendance Policy
+As detailed above, attending class during the scheduled meeting times earns professionalism credit.
+Credit is NOT earned for arriving late, leaving early, or failing to attend class meetings. If attending a
+scheduled class meeting is not possible, students are expected to promptly notify the instructor of
+extenuating circumstances.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six
+(6). As stated in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of higher
+education may not permit an undergraduate student a total of more than six dropped courses, including
+                                                                                                             6
+
+
+any course a transfer student has dropped at another institution of higher education, unless the student
+shows good cause for dropping more than that number.”
+University Attendance Policy: Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date
+of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a
+project in order to observe a religious holy day, I will give you an opportunity to complete the missed
+work within a reasonable time after the absence.
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact
+Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone).
+Faculty are not required to provide accommodations without an official accommodation letter from SSD.
+academic honesty University of Texas Honor Code The core values of The University of Texas at Austin
+are learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each member of
+the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice
+Line to discuss by phone your concerns about another individual’s behavior. This service is provided
+through a partnership among the Office of the Dean of Students, the Counseling and Mental Health
+Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police Department
+(UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a
+fire alarm is activated or an announcement is made. Please be aware of the following policies regarding
+evacuation: • Familiarize yourself with all exit doors of the classroom and the building. Remember that
+the nearest exit door may not be the one you used when you entered the building. • If you require
+assistance to evacuate, inform me in writing during the first week of class. • In the event of an
+evacuation, follow my instructions or those of class instructors. Do not re-enter a building unless you’re
+given instructions by the Austin Fire Department, the UT Austin Police Department, or the Fire Prevention
+Services office.
+                                                                                                           7

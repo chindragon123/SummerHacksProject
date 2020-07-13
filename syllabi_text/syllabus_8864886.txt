@@ -1,0 +1,357 @@
+  Instructor                                                  Email
+  Alex Karner, PhD                                            alex.karner@utexas.edu
+  Assistant Professor
+  Graduate Program in Community & Regional                    Office hours1
+  Planning                                                    SUT 3.134
+  School of Architecture                                      Monday 3-5
+Course overview
+Transportation systems connect us to the people and things we need to lead a fulfilling life: school,
+work, food, medical care, friends, and family, to name just a few. But these connections do not come
+without costs—transportation systems produce profound environmental and social impacts. Greenhouse
+gas emissions from transportation activities constitute a third of the US total, urban air quality continues
+to be a problem in many areas of the country, and about 30,000 people die each year due in collisions
+involving motorized vehicles. Many of these impacts are associated with the automobile. Although
+automotive technology continues to improve, resulting in cleaner, safer cars, relying on them as our
+primary mode entails public health implications and the threat of crippling urban congestion.
+This course is an introduction to urban passenger transportation policy and planning in the US with a
+sustainability focus. The course is structured around three components on which we will spend
+approximately four weeks each:
+     1) History, theory, and problem definition
+     2) The planning process, and
+     3) Solutions
+Throughout the semester, we will come to understand how our current transportation systems came to
+be, what a sustainable system would look like, policies and planning approaches that will help is to
+achieve it, and challenges we’re likely to face. Part of the difficulty arises from the fact that planning is
+inherently a political as well as technical activity. Determining what the “best” solution is in any given
+situation is likely to involve the varied needs and desires of elected officials, members of the public, and
+experts. As engineers and planners, ones who will interact with engineers and planners, or regular folks
+who care about transportation-related issues, you will need to navigate this sometimes-fraught landscape
+to make progress. We will examine the actual transportation planning process at all levels of
+government, hear from local and regional planners about their work, and learn about the (quantitative
+and qualitative) methods that planners use to both comply with the law and help inform decision makers.
+1
+  Schedule an office hours appointment here: https://alexkarner.youcanbook.me. Students who have booked an appointment
+will receive priority, but drop-ins are always fine.
+                                                            -1-
+
+
+ARC 327R/URB 352: Urban Transportation                                                               Karner
+Learning objectives
+Upon completion of this course, students will have demonstrated mastery of the following concepts
+through in-class discussion and debate, detailed analysis and thoughtful reflection in assignments, and
+performance on examinations:
+    1. The relationship between transportation and land use, including how and why the current
+        transportation system emerged, and why transportation planning is a vitally important endeavor.
+    2. The multifaceted and evolving nature of sustainability and how it is being applied to real-world
+        transportation planning efforts across the United States.
+    3. The practice of transportation planning at federal, state, regional, and local levels, including the
+        laws and regulations that planners follow regarding transportation plans, environmental review,
+        air quality conformity, and environmental justice, among others.
+    4. The analytical methods employed by transportation planners to assess the performance of
+        existing and future transportation systems (e.g. key concepts related to regional travel demand
+        models, traffic impact assessments, level of service analysis, and parking demand analysis).
+    5. Public participation in planning, specifically how members of the public make their views
+        known, formally and informally, in the transportation planning process and how that (sometimes)
+        affects outcomes.
+    6. Concrete policies and planning strategies that facilitate sustainable urban transportation systems
+        on both the infrastructure and land use sides. Legal and policy frameworks and initiatives that
+        support the development of such systems.
+How to succeed in this course
+There is no secret to success in this course. If you attend all classes, complete required readings on time,
+pay attention, take notes, and participate actively, you will certainly be well-positioned to perform well.
+Importantly, I am not looking for students to espouse specific viewpoints. In fact, I welcome
+disagreement and debate as a key method by which we can all make our arguments sharper and more
+convincing. The last thing I want is for you to give me an answer you think I want to hear, rather than
+the one you believe to be true.
+Note about office hours: I hold office hours for your benefit. They are a time for you to come and get
+more clarity on the course material or ask about assignments. They are also an opportunity to talk with
+me in a more informal setting about academic issues that are not directly related to class (e.g. graduate
+school, letters of recommendation, career advice, etc.). I’ve set up an appointment scheduler to make it
+easy to book time in 15-minute increments (https://alexkarner.youcanbook.me) but also feel free to drop
+in during the scheduled time.
+Course expectations and policies
+Attendance
+Attendance during all class periods is mandatory; this is especially important because our class only
+meets once a week. Please arrive on-time and stay the entire class. I understand that occasional events
+may prevent you from attending class. In the event that you’re missing class due to an approved
+absence, you will be allowed to make up missed graded work. If you miss class due to a major medical
+or family emergency, I will require additional documentation and make up work will be allowed at my
+discretion. Regardless of the reason for absence, students alone are responsible for any class material
+they miss.
+                                                     -2-
+
+
+ARC 327R/URB 352: Urban Transportation                                                               Karner
+Readings
+There is no assigned textbook for this course. All readings are available either on Canvas or are linked to
+from this syllabus. For each week, all assigned readings must be completed by the beginning of class.
+These readings were selected carefully so that they are accessible and not overly burdensome. Reading
+and synthesizing them will be vitally important to facilitate good in-class discussions. The final slide of
+each lecture will include a “further reading” list that students can use to dive deeper into subjects of
+interest.
+Guest speakers
+Throughout the semester we will have an opportunity to hear from planning professionals working in the
+region on various issues. Please extend them the same courtesy that you would extend to me. It also
+helps to ask really good questions – use the time to get to know what real planners are doing in the
+world, what they love/hate about their jobs, the challenges they face, and successes they’ve won. This
+will make sure that they want to come back in the future!
+Use of laptops, phones, and other devices
+Use of technology in class is generally permitted provided the use is for purposes related to the course.
+Please turn all cell phones to silent (not vibrate) when in class. Do not text, email, or browse non-class
+websites during class time. These activities are distracting to you, your peers, and me. Violation of this
+policy may result in dismissal from class and the loss of credit for that day’s in-class activities.
+Disability accommodations
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical
+information that you need to share with me, or if you need specific arrangements in case the building
+needs to be evacuated, please let me know. I am committed to creating an effective learning
+environment for all students, but I can only do so if you discuss your needs with me as early as possible.
+I promise to maintain the confidentiality of these discussions. If appropriate, also contact Services for
+Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video phone). More information
+is available here: http://ddce.utexas.edu/disability/about/
+Plagiarism and cheating
+We will be completing writing assignments for this course. Plagiarism involves using the words or ideas
+of another person as your own. It is perfectly acceptable to borrow ideas from other scholars. Indeed,
+this is how scholarship advances. But those words and ideas must be appropriately referenced with a
+citation and page number, as appropriate. Please use APA format for work prepared for this class. If you
+are planning to continue in academia, it will be in your interest to learn to use one of the many pieces of
+available citation management software. Zotero is a great option that’s free for everyone.2
+If you are caught plagiarizing or cheating, you will be dealt with according to the University of Texas
+Honor Code. For any questions involving these or any other Academic Honor Code issues, please
+consult me or http://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline-
+and-conduct/. If you are not sure what constitutes cheating or plagiarizing, please come see me.
+2
+  https://www.zotero.org/
+                                                     -3-
+
+
+ARC 327R/URB 352: Urban Transportation                                                                 Karner
+Student assessments
+The student assessments for this course will involve a mix of participation, in-class presentations,
+quizzes, a midterm examination, written assignments, data analysis, and a final examination.
+Some projects will be completed in groups, but unless specifically identified as group work, all
+assessments are to be completed by you alone. All group work will involve the completion of peer-
+evaluation forms by each group member. Details regarding each category of evaluation are included
+below.
+Participation
+Because of the technical and political nature of transportation planning and policy (not to mention the
+lived experience and frustration of congestion, long public transit wait times, and inadequate bicycle and
+pedestrian facilities), I’m sure that many of you have opinions to share about our current and future
+transportation systems! Please share these during class while being respectful of other students’ opinions
+and time. We will also have structured in-class participation activities involving small group
+discussions. Students are expected to be active and engaged during these times; ideally they’ll give
+students who are less comfortable with public speaking a low-stress opportunity to speak their minds. I
+will post midterm participation grades so you will have a sense of your standing and the ability to
+improve during the second half of the course. These will not be made final until the end of the semester.
+Quizzes
+At the end of most class meetings (as indicated on the syllabus), there will be a very short quiz on that
+week’s reading and lecture material. These will consist of multiple choice, true/false, and short answer
+questions and are designed simply to assess whether you have completed the readings, attended lecture,
+and paid attention. They are not meant to be too difficult or to stretch your understanding of the material.
+I will drop your lowest quiz grade. If you miss a quiz due to an unexcused absence, you will receive a
+zero.
+In-class activities
+We will often have in-class activities that will be completed in small groups, discussed, and submitted
+for credit (as indicated on the syllabus). These will sometimes involve basic math, so having a scientific
+calculator on all class days will be helpful. I will drop your lowest in-class activity grade. If you do not
+attend class on the day that an in-class activity is conducted, you will receive a zero.
+Assignment #1: Planning memo (due 10/2 by 11:55pm), addresses learning objectives 1 and 2
+You will complete this assignment in groups of two that you choose. You can also work solo. As a
+practicing transportation planner, you will often be called upon to give your opinion or summarize your
+analysis about a particular project or policy. In this assignment, you will discuss one of four
+transportation-relevant projects in the Texas Triangle megaregion:
+    1.  North Houston Highway Improvement Project: http://www.ih45northandmore.com/
+    2.  Texas Bullet Train (Houston-Dallas high-speed rail): https://www.texascentral.com/
+    3.  Dallas D2 subway: https://www.dart.org/about/expansion/downtowndallas.asp
+    4.  Capital Metro “Remap”: https://www.capmetro.org/remap/
+You can also examine a project that you choose. It could be within or outside of the Texas Triangle.
+Please discuss it with me beforehand to make sure it’s appropriate.
+Imagine that you are a practicing planner and your boss (the planning director) has asked you to assess
+the potential for the project to advance the sustainability goals discussed in the first third of the course.
+Based on assigned course readings and at least two other sources (academic articles or agency reports)
+                                                      -4-
+
+
+ARC 327R/URB 352: Urban Transportation                                                                Karner
+that you will search for and cite appropriately, deliver your opinion on the project. Begin by
+summarizing what the project is and its stated goals using materials that you can find online. Follow up
+by describing the project’s (likely or realized) sustainability impacts. The memo should be concise: no
+longer than two pages (12 point, Times New Roman font, 1” margins, single-spaced), not including your
+references. Further details about the assignment will be available on Canvas.
+Assignment #2: Accessibility analysis (due 11/6 by 11:55pm), addresses learning objectives 3 and 4
+The second third of the course will introduce you to some of the technical methods that planners use to
+evaluate transportation projects and plans. In this assignment you will work with actual data gleaned
+from regional travel demand models and US Census Bureau sources. You will work in groups of up to
+three that you choose. You can also work solo, but it is likely that the assignment will be very
+challenging if you work alone. The assignment’s goal will be to analyze the effects of a particular
+planning effort on different demographic groups in terms of accessibility. The project can either be
+completed on your own or in groups of two that you choose. All of the required analyses can be
+completed using Microsoft Excel, but if you’re familiar with another platform (e.g. R, Python, Matlab),
+you’re welcome to use it.
+To be successful, at least one group member should be reasonably familiar with Excel (or another
+platform). If you’d like to complete the work on your own and your Excel abilities are rusty, you’ll want
+to give yourself plenty of lead time to complete the assignment. Please see Dr. Karner if you need
+additional help or guidance.
+You will submit a final report that includes a mix of text, figures, and tables that will be four pages in
+length (12 point, Times New Roman font, 1” margins, single spaced), again not including references.
+Complete details about the project will be available on Canvas.
+Midterm examination
+A midterm examination will be given on 10/18 during the regular lecture period and will cover material
+up to and including the lecture on 10/4. The midterm will consist of multiple choice, true/false, and short
+answer questions. Make-up exams will be allowed only for excused absences. It is the student’s
+responsibility to contact the instructor as soon as possible to schedule a make-up exam. Use of a
+scientific calculator will be permitted.
+Final examination
+A final examination will be given during the regular examination time and will be cumulative (i.e. will
+cover the entire course). The final will consist of multiple choice, true/false, short answer, calculations,
+and essay-style questions. Use of a scientific calculator will be permitted.
+Policy on late work
+All written work must be turned into Canvas at the date and time noted on the assignment prompt. Work
+submitted late will receive a five-point penalty (on a traditional 100-point grading scale) per day or
+portion of day late, unless prior arrangements have been made with the instructor.
+                                                     -5-
+
+
+ARC 327R/URB 352: Urban Transportation                                                             Karner
+Grading
+Final percentage grades will be assigned based on the following seven components, weighted as shown:
+                             Participation                               5
+                             In-class exercises                         10
+                             Quizzes                                    15
+                             Assignment #1: Planning memo               15
+                             Assignment #2: Accessibility analysis      15
+                             Midterm examination                        15
+                             Final examination                          25
+                             Total                                     100
+The results of any individual assessment may be weighted upward or downward (i.e. curved) at Dr.
+Karner’s discretion. After any curve is applied, and to ensure fairness, all numbers are absolute and will
+not be rounded up or down. Your final percentage will be translated into a letter grade as follows:
+ A          94-100     B+         87-89      C+         77-79      D+         67-69    F          0-60
+ A-         90-93      B          84-86      C          74-76      D          64-66
+                       B-         80-83      C-         70-73      D-         60-63
+                                                   -6-
+
+
+ARC 327R/URB 352: Urban Transportation                                                                 Karner
+Schedule (version 1.0, current as of 08/29/2018)
+The following table outlines the course schedule including due dates, examinations, readings, and other
+important events. This schedule is subject to change, and the most current version can always be found
+on Canvas.
+  Week Topic                           Readings and Assignments Due
+ History, Theory, and Problem Definition
+           Course overview,
+                                       Readings (required)
+  8/30     motivation, and key
+                                       None
+           transportation concepts
+                                       Lecture/readings quiz #1
+                                       In-class activity #1
+           Urban transportation
+   9/6
+           history
+                                       Readings (required)
+                                       Muller (2004). “Transportation and urban form.”
+                                       Lecture/readings quiz #2
+                                       In-class activity #2
+                                       Readings (required)
+           Travel behavior and land
+                                       Washington DOT. (2012). “Tools for estimating VMT
+  9/13     use-transportation
+                                       reductions from built environment changes.” pp. 2-12.
+           interactions
+                                       Giuliano (1995). “The weakening transportation-land use
+                                       connection.”
+                                       Cervero and Landis (1995). “The transportation-land use
+                                       connection still matters.”
+                                       Lecture/readings quiz #3
+                                       In-class activity #3
+           Sustainability, resilience, Readings (required)
+  9/20
+           and equity                  Tumlin. (2012). “Sustainable Transportation Planning.”
+                                       Chapter 2.
+                                       Chester and Horvath. (2010). “Life-cycle assessment of high-
+                                       speed rail.”
+ The Planning Process
+                                       Lecture/readings quiz #4
+                                       Readings (required)
+                                       Transportation for America (2011). “Transportation 101” pp. 23-
+           Transportation planning     57.
+  9/27                                 USDOT. (2009). “A guide to transportation decisionmaking.”
+           process 1: Governance
+                                       Federal Highway Administration. (2015). “The Transportation
+                                       Planning Process Briefing Book.” Part 1.
+                                       http://www.fhwa.dot.gov/planning/publications/briefing_book/p
+                                       art01.cfm
+                               PLANNING MEMO DUE 10/2 BY 11:55pm
+                                       Lecture/readings quiz #5
+                                       In-class activity #4
+           Transportation planning     Readings (required)
+  10/4     process 2: Regional         Sciara (2017). “Metropolitan transportation planning.”
+           transportation planning     Federal Highway Administration. (2015). “The Transportation
+                                       Planning Process Briefing Book.” Part 2 (only read the
+                                       sections on “Air quality,” “Transportation equity,” and
+                                       “Performance-based planning”, and “Planning data and tools”).
+                                                         -7-
+
+
+ARC 327R/URB 352: Urban Transportation                                                                  Karner
+                                       http://www.fhwa.dot.gov/planning/publications/briefing_book/p
+                                       art02.cfm
+                                       Assignment 2 preparation. Bring a laptop with Microsoft Excel
+           Performance-based           installed for this class if you can.
+  10/11    planning: accessibility
+           analysis                    Readings (required)
+                                       TBD
+  10/18                                     MIDTERM EXAMINATION
+  10/25    Dr. Karner away at ACSP (no class)
+                                       Lecture/readings quiz #6
+           Transportation planning
+                                       Readings (required)
+           process 3: Public
+                                       Bullard (2004). “Introduction.” (From Highway Robbery.)
+           participation and
+                                       Marcantonio and Karner (2014). “Disadvantaged communities
+           advocacy
+                                       teach regional planners a lesson in equitable and sustainable
+                                       development.”
+                          ACCESSIBILITY ANALYSIS DUE 11/6 BY 11:55PM
+ Solutions and strategies
+                                       Lecture/readings quiz #7
+                                       In-class activity #5
+           Full cost pricing, tolling,
+   11/8
+           HOT lanes, parking          Readings (required)
+                                       Litman. (2014). “Economically Optimal Transport Prices and
+                                       Markets.”
+                                       Lecture/readings quiz #8
+           Land use policies and
+                                       In-class activity #6
+           strategies: Jobs-housing
+  11/15
+           balance, affordable
+                                       Readings (required)
+           housing
+                                       Benner and Karner (2016). “Low-wage jobs housing fit.”
+  11/22    Thanksgiving (no class)
+                                       Lecture/readings quiz #9
+                                       In-class activity #7
+           Alternative modes:
+  11/29    Bicycling, walking, and     Readings (required)
+           public transit              Pucher, J. and R. Buehler. (2008) “Making cycling irresistible.”
+                                       Walker, J. (2012). “Why we should stop talking about ‘bus
+                                       stigma.’” (Atlantic CityLab post.)
+                                       Lecture/readings quiz #10
+                                       In-class activity #8
+                                       Readings (required)
+                                       Walker, J. (2012). “Will driverless cars abolish buses?” (Blog
+                                       post.)
+                                       Agyeman, J. and D. McLaren (2016). “Apps Don’t Make a City
+   12/6    Future of transportation    Smart.” https://www.bostonglobe.com/ideas/2016/08/13/apps-
+                                       don-make-city-smart/YrEuTHcHAFArq5piut1nrN/story.html
+                                       Watch these:
+                                       Prof. Chandra Bhat on automated vehicles:
+                                       https://www.youtube.com/watch?v=85kzWIFuwXg
+                                       Matt George on Bridj:
+                                       https://www.youtube.com/watch?v=cDzimeOpQfM
+                               FINAL EXAMINATION 12/13 7:00-10:00pm
+                                                         -8-

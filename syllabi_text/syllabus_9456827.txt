@@ -1,0 +1,181 @@
+The University of Texas at Austin School of Architecture Spring 2019
+ARC 327R/386M Studies in Light and Materials
+COURSE OVERVIEW
+An oft-repeated cliché is that architects do not design buildings, they design “space.” Architects
+and Interior Designers may draw surfaces and objects, but their ability to knowingly imbue those
+surfaces with territory and effect supposedly differentiates architecture from quotidian building.
+Presumptively, the more gifted the designer, the more cerebral the effects. And even though we
+cannot trace a line of causation from the objective precision of the geometrically constructed
+surface to the subjective perception of the imagined space, we unconditionally accept that the
+surface is the progenitor--the author--of the effects that determine perception.
+In order to bring a more direct relationship between surfaces and space we have turned ever
+more to the idea of the active surface, the smart façade, the intelligent building. We know that
+effect cannot be accidental, incidental or simply the product of creative genius.
+We hope that the intangible effects we so desire will appear if we can simply assign the
+responsibility for producing those effects to the same surfaces that we have always made, it is
+just that now our smart surfaces provide so many functional alternatives that surely one of those
+alternatives will create that elusive imagined environment. Smartness, however, is not manifest in
+the material choice, but in the instrumentality of the material. What we have not done well in our
+rush to activate every surface is actually imagine the intended environment. The objective of this
+seminar then is to understand and design for effect. Fundamental to this will be developing an
+understanding of the contingency of perceptual effects as instrumentalized, yet differentiated,
+from the constituency of material surfaces.
+Materiality resides in an artifact, as substance and properties, and in its realization, as function
+and image. Materiality is therefore constituent in that it can be defined, specified, produced and
+controlled. Our normative means of design privileges materiality: we create, situate and
+represent surfaces, and we presume that those surfaces are the determinant of how we perceive
+the spatial environment. Materiality is, however, just a subordinate player in perception.
+Perception is driven by local, discrete, and transient energy exchanges between the human body
+and its immediate surroundings. The surfaces of the building might provide an armature for these
+exchanges, they might provide a context for the exchanges, but they do not generate them. The
+architecture of a perceptual environment is instead an architecture of contingency. Not geometry
+and surface, but heat and light. Not form and materials, but sensuality and tactility. A contingent
+architecture emerges through the interaction of the body and responds to each body with
+behaviors that are specific to that moment in time and to that given individual. The objective
+totality of a geometrically derived architecture gives way to subjective discretion when the
+contingencies are designed.
+In their seminal essay “Transparency: Literal and Phenomenal” of 1964, Colin Rowe and Robert
+Slutzky differentiated literal transparency as being a “physical fact” such as that associated with
+material properties, whereas phenomenal transparency was more difficult to define, as it was
+ambiguous, such as due to the conditions produced by overlapping or interpenetrating entities.
+We might consider that the terms we are using this semester--constituent and contingent--could
+be directly substituted for literal and phenomenal, but this would be incorrect, as what Rowe and
+Slutsky consider to be physical fact is also phenomenal or contingent, and those conditions that
+they consider to be ambiguous do indeed have physical facts or constituent properties
+underpinning their results. They have oversimplified the literal and over-mystified the
+phenomenal.
+We typically think of two boundaries in architecture: the literal or physical boundary between
+exterior and interior, and the figural or “phenomenal” boundary between public and private.
+Paradoxically, however, the architectural manifestation of both boundaries tends to be quite
+similar. Interior and exterior, or public and private are typically represented by distinct zones in
+plan or section, and their boundaries are treated as discontinuities with the exception of a
+“threshold condition” which serves more as a gate than it does as a transition. The interior and
+
+
+the private thereby become defensible zones. Exterior and the public become that which is the
+indefinite “other.”
+In architecture, boundaries demarcate and establish difference; as a result, the architectural
+boundary is definite and didactic. In thermodynamics, boundaries negotiate and mediate
+difference; as a result, the thermodynamic boundary is dynamic and transient. Can we design an
+architectural boundary that behaves thermodynamically? Essentially, we want to create active
+zones of negotiation to mediate between static architectural conditions.
+COURSE OBJECTIVES
+The primary objective is to establish a framework for a more strategic instrumentalization of
+materials and technologies into the design process in which architects and interior designers are
+able to fully exploit new developments without the constraints of empiricism. This course will re-
+open the question of light in architecture. Rather than “training” the class participants in the
+application of strategies and techniques accepted by practice, this course will begin to redefine
+the problem. Among the widely-held assumptions and practices that will be questioned are: the
+privileging of the envelope as the boundary between daylight supply and its interior utilization, the
+use of planar glazing as the mediating material, and the integration of exterior view and interior
+luminosity as a composite function. Fundamental to challenging these assumptions is an
+understanding of the physical behavior and properties of light, and necessary for developing a
+response is the ability to manipulate those behaviors and properties. Recognizing that much of
+this knowledge is not inherent to our profession, we will turn to those disciplines in which the
+knowledge is housed.
+Instead of a descriptive survey of advancements in materials and technologies, the course will
+extract the persistent behaviors of these materials, essentially using them to invert our normative
+approach to technology in design. These behaviors will serve to query the fundamental purpose
+of many of our building technologies so that rather than searching for the means to optimize
+performance, we will re-open the question as to what phenomena we wish to act on, and how
+they can manipulated. The phenomena that matter are not those of the building environment, but
+those that produce the perception of that environment. The materials and technologies become
+our tools, not our object, in redesigning the sensual experience of the human body.
+COURSE DESCRIPTION
+This seminar will overview the basic characteristics and families of “phenomenological” materials,
+with a special focus on materials and technologies that have a relationship to light and vision. We
+will examine, in depth, materials and technologies such as LEDs, smart glazing, displays and
+interactive surfaces and explore some of the contemporary experiments taking place in the
+architecture profession. Throughout the semester, we will catalog the relevant behaviors and
+begin to develop a mapping between behaviors and phenomena. Each student will be required to
+be able to coherently discuss material fundamentals and comprehensively analyze current
+applications. There will be weekly brief exercises, and three major assignments, including a
+precedent analysis and materials demonstration assignment, leading up to the final project.
+Final Project: For the final project of the seminar, each student will develop and ‘build’ a material
+installation to be located on different sites in our buildings. The installations, which may be either
+physical or computational, will each negotiate a specific boundary condition. Although the
+installation will be constructed as a constituent material system, it must be capable of creating
+multiple contingent environments. These environments will be contingent upon both the physical
+environment--for example the position of the sun--as well as the physiological condition--for
+example contrast in the retinal receptor field. The ultimate objective of the final project is to
+produce a single (and minimal) physical intervention with multiple perceptual manifestations.
+
+
+COURSE REQUIREMENTS
+This course is a seminar meeting only once per week, therefore regular attendance and
+participation are necessary, as well as timely completion of all exercises, assignments and
+presentations. Students should expect to present prepared material and/or participate every
+week. There will be a final project/mockup review in April. There will be a local field trip to the
+Ellsworth Kelly Installation at the Blanton that will occur on a day other than scheduled for our
+class meeting, and there may also be some reshuffling of the sequence due to administrative
+conflicts. A limited number of smart / high-performance materials and light technologies will be
+available for student use, but they must be returned at the culmination of the course.
+The course grade will be determined as follows:
+     •   20% course participation and exercises
+     •   50% student presentations
+     •   30% final project/installation
+All aspects must be completed to the instructor’s satisfaction for the student to pass the course.
+No late assignments will be accepted without a written medical excuse or documentation from
+Student Services. All assignments must be performed individually unless the Instructor explicitly
+provides instruction as to whether one is eligible to work with a partner.
+COURSE INFORMATION
+Instructor:               Michelle Addington, Henry M. Rockwell Professor of Architecture
+                          Contact: addington@utexas.edu
+Teaching Assistant:       Georges Fares georgesfares@utexas.edu
+Course Time/Place:        Most meetings to take place in room WMB 3.108 on Tuesdays from 1:00
+                          pm to 4:00 pm. Due to the timing of administrative commitments and of a
+                          field trip, a few classes may have to be rescheduled.
+Course references:        The following book serves as a basis for much of the course and is
+                          recommended, however, PDF files of the relevant chapters will be
+                          available for free on the course site.
+                          Addington, D. Michelle and Daniel Schodek, Smart Materials and
+                          Technologies for the Architecture and Design Professions (Oxford:
+                          Architectural Press, 2004)
+COURSE SCHEDULE
+22 January
+         Introduction to course
+                  Course premise
+                  Overview of course structure
+29 January
+         Introduction to materials/phenomena/behaviors
+                  Designer’s experiments
+5 February
+         Student Presentations / dislocated surfaces
+
+
+12 February
+         Behavior / Phenomena
+                 Light and Vision
+19 February
+         No class
+26 February
+         Behavior / Phenomena
+                 The physics of light
+                 Material interactions
+5 March
+         Student Presentations / precedent analyses
+12 March
+         Behavior / Phenomena
+                 Natural phenomena
+19 March
+         No class: Mid-term week
+26 March
+         Behavior / Phenomena
+                 Sources
+2 April
+         Student presentations / window installations
+9 April
+         Materials / Primer
+                 High performance materials
+                 Property changing materials
+                 Chromatic materials
+16 April
+         Materials / Primer
+                 Energy exchanging materials/technologies
+                 Light-emitting materials/technologies
+23 April
+         Applications/Installations
+30 April
+         Project presentations
+7 May
+         Course Wrap-up

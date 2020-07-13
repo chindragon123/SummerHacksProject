@@ -1,0 +1,234 @@
+                                                     Fall – Autumn - 2018
+                              AET345: Designing Virtual Worlds - Unique #: 21025
+                                                       Michael McKellar
+                           Office Hours: 9:30 – 11:30 PLAI LAB/DFA 4.132E (Or by appointment)
+                                             Tuesday & Thursday 02:00-03:30pm
+                                                             PAC 3.204
+OVERVIEW
+This is a unique class offering lab-based exploration of the design, composition and creation of virtual environments.
+From snapshot 360 images to more dynamic and expansive interactive worlds this class will explore the fundamentals of
+designing for fully surrounding experience as well as giving students to explore design in some of the latest virtual reality
+technologies, with potential to create our own.
+Discussion based learning in the forms of review, analysis and critique of common technologies, tools and examples of
+existing work will allow students to creatively engage and develop new expansive worlds.
+COURSE DESCRIPTION
+This lecture/lab course serves as the introduction to the design process for immersive digital environments. The approach
+to teaching allows students to actively participant in discussion, learning and review of important past and present work
+and practitioners.
+Students will explore and develop skills in the common methodologies and technologies for the design, development and
+review of virtual worlds.
+Over the semester these skills will be tested in the creation of different worlds/environments around a given theme, with a
+majority of the creative direction left at the student’s discretion. – the expression of the correct narrative being the end
+goal.
+Students who complete this course will leave with an understanding and the practical skills required in the workflow,
+methodology and considerations necessary to practically realize digital environments. It will also give students a chance to
+utilise industry leading software (Touchdesigner, unity etc) as well as cutting edge hardware (360º cameras, HMDs etc) in
+new ways. This is a completely dynamic class within the PLAI lab, giving access and potential to develop unique experiences
+as and when required.
+LEARNING OUTCOMES
+By the end of the semester, students will be able to:
+      •    Critically analyse and discuss the qualities of immersive and virtual environments;
+      •    Demonstrate practical ability in the planning, implementation and development of a compelling virtual narrative;
+      •    Gain introductory-level experience to various advance industry techniques and methodologies;
+      •    Design, create and implement immersive 360º worlds in a variety of professional settings.
+COURSE REQUIREMENTS
+      •    Participation (15%): Students should be prepared to raise ideas, critique designs and add to class discussions, this
+           is expected weekly.
+      •    Critical writing (15%): Critical reflection and review of a student chosen immersive or interactive virtual (360º)
+           experience
+      •    Project 1 (15%): Populating a world: Using class learned techniques to create a virtual world in either real-time
+           graphics or 360º imagery against a given brief. This is given in week 3, due in week 5 (09/27/18).
+      •    Project 2 (20%): Design of a virtual world: written proposal outlining creative direction and narrative for a
+           student led virtual world design. This will be developed during designated lab time, using class learned themes.
+           This project is given in week 5, due in week 8 (10/18/18).
+      •    Project 3 (30%): Realising design: Using the design created in project 2, students will fulfil their vision using
+           various skills learned in class. This may require some physical work to construct certain elements of the world,
+           rather than virtual constructs. Given week 9, presented to class in week 15 (12/04/18 & 12/06/18).
+      •    Attendance (5%): Attendance is taken during every class
+There is no final exam for this class.
+CLASS POLICIES
+
+
+UT ELECTRONIC MAIL NOTIFICATION POLICY
+Electronic mail (e-mail) is a mechanism for official University and instructor communication to students. Students are
+ expected to check e-mail on a frequent and regular basis in order to stay current with University- and course-related
+ communications, recognizing that certain communications may be time-critical. It is recommended that e-mail be checked
+ daily, but at a minimum, twice per week.
+It is the responsibility of every student to keep the University and instructor informed of changes in his or her official e-
+ mail address (do so at https://utdirect.utexas.edu/utdirect/bio/address_change.WBX). Consequently, e-mail returned to
+ the University with "User Unknown" is not an acceptable excuse for missed communication. Similarly, undeliverable
+ messages returned because of a full inbox or use of a spam filter will be considered delivered without further action
+ required of the University or instructor.
+(see http://www.utexas.edu/cio/policies/university-electronic-mail-student-notification-policy)
+ATTENDANCE
+Attendance and punctuality are professional attributes. This class is designed to provide students skills for a more practical
+and professional future career.
+You are allowed three absences for illness or personal reasons; however, you will likely miss points for in-class assignments
+or activities as a result, and these generally cannot be made up. However, if a serious medical or personal crisis
+(hospitalization, death in the family, etc.) impacts your attendance, please inform me as soon as possible. In addition, see
+the exception below for religious holy days.
+Arriving more than ten minutes late at the beginning of class or after a break, leaving class without permission, and leaving
+class prior to dismissal for the day all count as being tardy. Three tardies equals an absence. Four absences will lower your
+course grade by one letter grade. Additional absences may result in failure of the course.
+Learning, research and development within the class all build on knowledge gained from previous lessons, you are
+responsible for making up for work missed during any absence. It is your responsibly to obtain any notes or assignments
+from one of your classmates.
+RELIGIOUS HOLIDAYS
+Section 51.911 of the Texas Education Code states that a student shall be excused from attending classes or other required
+activities, including examinations, for the observance of a religious holy day, including travel for that purpose. A student
+whose absence is excused under this subsection may not be penalized for that absence and shall be allowed to take an
+examination or complete an assignment from which the student is excused within a reasonable time after the absence.
+University policy requires students to notify each of their instructors at least fourteen days prior to the date they will be
+absent from scheduled classes to observe a religious holy day.
+(from http://www.utexas.edu/provost/policies/religious_holidays/1555_001.pdf)
+SERVICES FOR STUDENTS WITH DISABILITIES (SSD)
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with
+disabilities. For more information, contact Services for Students with Disabilities (512-471-
+6259, ssd@austin.utexas.edu, http://ddce.utexas.edu/disability/, or videophone 512-471-6644). Please provide
+documentation of your needs during the first week of class, if possible, so that I can make the necessary accommodations
+promptly.
+CLASSROOM ETIQUETTE
+       1.   Be on time at the start of class time and after any breaks
+       2.   This class is a place for artistic discussion and critique, not texting on your phone – please turn them on silent
+       3.   Discussion is good, distraction is bad – I reserve the right to reduce marks for that day’s assigned work for repeat
+            offenders
+       4.   Consider bringing headphones/earphones for any periods of solo work, such as class work sessions
+COURSE COMMUNITACTION
+The syllabus and assignments will be posted on the course Canvas site. All communications outside class hours is via
+Canvas.
+This class is designed around discussion and group learning, it will help everyone if you post questions in the discussion
+area wherever possible. I will post, comment and otherwise add to the discussion wherever relevant, or with topics to help
+steer general discussion in class.
+I will attempt to respond to all private communications within 24 hours on weekdays.
+I normally check emails twice per day, once in the afternoon, once in the evening.
+       •    Always ask questions where there is doubt. Do not make assumptions.
+
+
+ASSIGNMENTS
+   •   All assignments will be given out and discussed during class time and available to view on Canvas.
+   •   Technical assignments will be given out in class as we go through various software’s and implementations, each
+       will have a homework assignment for the following week to advance and develop on the work completed during
+       class. Additional smaller assignments may be made throughout the semester as the need arises.
+   •   You are responsible for making up for any class work missed – specifically technical challenges completed during
+       class time as these, and the homework assignment contribute heavily to the final grade.
+   •   It is your responsibility to ask and inquire if you are unclear about what is required or when.
+ASSIGNMENTS DEADLINES
+   • It is vital that you do not get behind in this class as all work builds upon previous work.
+   • As a general rule all projects, reading, research and homework assignments must be completed begore the
+       beginning of each class period. However, many class assignments have a due date and time in the evening before
+       class. This allows time for review and feedback, as well as discussion based upon the submitted work during the
+       next lesson. Any work not submitted on time will still receive feedback but will not benefit from peer review in
+       class time.
+   •   All work is due as specified in the assignment listed on canvas. Work not completed before the canvas deadline
+       will be considered late.
+   •   Any work turned in late, without prior consent and valid reason will result in a single grade drop from the
+       deserved reward (an A submission will reward a B etc).
+   •   Critical writing tasks are given in weeks 1 and 12, due the following Thursday.
+   •   Project 1 is formally given during week 3 and due in week 5 (09/27/18)
+   •   Project 2 is formally given during week 5 and due in week 8 (10/18/18)
+   •   Project 3 is formally given during week 9 and due in week 15 in the form of a presentation to class (12/04/18 &
+       12/06/18)
+CLASS SCHEDULE
+     Week      Days         Topics                                          Homework/assessments
+     1
+               30-Aug       Class Intro                                     Critical writing 1
+                            Discussion - What is a virtual world?
+                            Lecture/Lab - Getting ready
+     2         04-Sep       Discussion - Designing Experience
+                            Lecture/Lab - Looking at the
+                            hardware/software
+               06-Sep       Lab                                                                        Critical writing
+                                                                                                       due
+     3         11-Sep       Discussion - The design process                 Project 1
+                            Lecture/Lab - Getting started in
+                            Touchdesigner
+               13-Sep       Lab
+     4         18-Sep       Discussion - The design process 2
+                            Lecture/Lab - Planning an environment in
+                            TD
+               20-Sep       Lab
+     5         25-Sep       Discussion - building a world                   Project 2
+                            Lecture/Lab - Controlling an environment
+                            in TD
+               27-Sep       Lab                                                                        Project 1 due
+
+
+       6         02-Oct         Discussion - building a world 2
+                                Lecture/Lab - Getting started in Unity
+                 04-Oct         Lab
+       7         09-Oct         Discussion - tbc
+                                Lecture/Lab - planning an environment in
+                                Unity
+                 11-Oct         Lab
+       8         16-Oct         Discussion - tbc
+                                Lecture/Lab - Controlling an environment
+                                in Unity
+                 18-Oct         Lab                                                            Project 2 due
+       9         23-Oct         Discussion - tbc                            Project 3
+                                Lecture/Lab - 360° capture
+                 25-Oct         Lab
+       10        30-Oct         Discussion - tbc
+                                Lecture/Lab - 360° capture part 2
+                 01-Nov         Lab
+       11        06-Nov         Discussion - tbc
+                                Lecture/Lab - handling 360° content
+                 08-Nov         Lab
+       12        13-Nov         Discussion - tbc                            Critical writing 2
+                                Lecture/Lab - Getting ready
+                 15-Nov         Lab
+       13        20-Nov         Discussion - tbc
+                                Lecture/Lab - Getting ready
+                 22-Nov         Thanksgiving - no class                                        Critical writing
+                                                                                               2
+       14        27-Nov         Lab - project support
+                 29-Nov         Lab - project support
+       15        04-Dec         Project 3 Presentations                                        Project 3 due
+                 06-Dec         Project 3 Presentations                                        Project 3 due
+       16        11-Dec         No Class
+                 13-Dec         No Class
+EVAULATION & GRADING
+Neatness, scholarship and presentation will all count towards your final grade:
+Being able to visually communicate ideas is part of the process.
+YOU WILL BE GRADED ON
+    •     Reading, discussion, Participation (15%);
+    •     Critical reflection (critical writing) (15%);
+    •     Project 1 (15%);
+    •     Project 2 (20%);
+    •     Project 3 (30%);
+    •     Attendance (5%)
+
+
+This course does not have a final exam.
+GRADING SCHEME
+To ensure fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B- will be inclusive of
+all scores of 80.000 through 83.999... The University does not recognize the grade of A+. Thus, the conversion from
+percentage value to letter grade is as follows:
+      •    A=          94+
+      •    A- =        90 – 93.999…
+      •    B+ =        87 – 89.999…
+      •    B=          84 – 86.999…
+      •    B- =        80 – 83.999…
+      •    C+ =        77 – 79.999…
+      •    C=          74 – 76.999…
+      •    C- =        70 – 73.999…
+      •    D+ =        67 – 69.999…
+      •    D=          64 – 66.999…
+      •    D- =        60 – 63.999…
+      •    F=          0 – 59.999…
+PRIVACY
+This class is designed to be an open space for discussion, critique and learning. What is said about each other’s work during
+this class should remain in the classroom. It will not be published in a blog or any other personal website, tweeted or
+posted on social networks.
+MOBILE DEVICES
+Mobile devices of any kind must be silenced and out of sight.
+There may be times when using a mobile is appropriate, such as aiding in discussion – these times will be very obviously
+announced. Texting, talking or otherwise using a mobile device is never appropriate during class.
+RESOURCES AND EQUIPMENT
+This class will take part in the PLAI lab, with access to the software, hardware and computers required for the course.
+Using your personal devices/laptops is permitted but would be expected to run everything to a satisfactory level.
+This is normally a laptop or desktop with a discrete GPU installed.
+This class will utilise a number of software that have various commercial, free to-use, or educational licenses.
+Students using their own devices should use this list an example of potential requirements:
+      •    Unity games engine (offers free educational access)
+      •    Touchdesigner ($300 educational license – vast non-commercial usability)
+      •    Adobe Creative suite (manipulating and controlling images and video captured in 360º)

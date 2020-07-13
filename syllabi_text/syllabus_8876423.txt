@@ -1,0 +1,626 @@
+    WORLD ARCHITECTURE: INDUSTRIAL REVOLUTION TO PRESENT
+                                         ARC 318L-W
+                                          FALL 2018
+Instructor: Dr. Richard Cleary
+Office hours: W 2:00-3:00 Th 1:30-2:30, and by appointment
+Office: 4.122 Sutton Hall
+email: cleary@austin.utexas.edu
+Teaching Assistants:
+Barbara Cortizo de Aguiar                       barbara.aguiar@utexas.edu
+Betsy Frederick-Rothwell                        betsyfr@utexas.edu
+Rosa Fry                                        rosalisafry@gmail.com
+Karen Kincaid Brady                             karenk1127@utexas.edu
+Sydney Steadman                                 sydneyritter@utexas.edu
+Lectures T Th 9:30-10:50, HRH 2.104 (Jessen Auditorium)
+Discussion Sections
+00625 Tuesday           11:00-12:00     UTC 4.120
+00630 Thursday          11:00-12:00     SUT 2.114
+00635 Tuesday           12:00-1:00      CBA 4.346
+00640 Tuesday           12:30-1:30      SUT 2.110
+00645 Tuesday           1:00-2:00       CBA 4.346
+00650 Monday            2:00-3:00       CAL 323
+00655 Wednesday         2:00-3:00       WMB 4.118
+00660 Thursday          2:00-3:00       SUT 2.112
+00665 Wednesday         10:00-11:00     PAR 210
+00670 Monday            10:00-11:00     PAR 210
+Description
+This is the second course in the School of Architecture’s two-part introduction to the
+history of architecture. It offers a global perspective of buildings, their settings, and the
+dissemination of ideas about architecture from the eighteenth century to the present.
+Particular attention is given to the relationships among architectural expression, meaning,
+and building technology and to issues arising when architectural traditions of one culture
+are imposed upon or otherwise adapted by another.
+The course may be taken for partial fulfillment of the following University core
+curriculum requirements:
+•   Global Cultures Flag
+•   Writing Flag
+•   Visual and Performing Arts Core Component Area
+
+
+                                                                                             2
+Educational Objectives
+•   Establish chronological and thematic frameworks for the study of architectural history
+•   Understand the broader cultural factors that frame the design of the built environment
+•   Understand how notions of modernity and modernism apply to architecture
+•   Develop skills of description and formal analysis
+•   Be able to critically respond to primary and secondary texts on nineteenth- and
+    twentieth-century architecture
+•   Be able to conduct research using secondary sources
+CIDA Objectives (Interior Design)
+•   Understand the social, political, and physical influences affecting historical changes
+    in the design of the built environment in the nineteenth and twentieth centuries
+•   Identify movements and traditions in nineteenth- and twentieth-century architecture
+Core Curriculum Notes
+Global Cultures
+This course carries the Global Cultures flag. Global Cultures courses are designed to
+increase your familiarity with cultural groups outside the United States. You should
+therefore expect a substantial portion of your grade to come from assignments covering
+the practices, beliefs, and histories of at least one non-U.S. cultural group, past or present.
+Writing
+This course carries the Writing flag. Writing flag courses are designed to give students
+experience with writing in an academic discipline. In this class, you can expect to write
+regularly during the semester, complete substantial writing projects, and receive feedback
+from your instructor to help you improve your writing. You will also have the
+opportunity to revise one or more assignments, and to read and discuss your peers' work.
+A substantial portion of your grade will come from your written work.
+Visual and Performing Arts
+This course may be used to fulfill the visual and performing arts component of the
+University core curriculum and addresses the following four core objectives established
+by the Texas Higher Education Coordinating Board: communication skills, critical
+thinking skills, teamwork, and social responsibility.
+Texts
+•   Barry Bergdoll, European Architecture, 1750-1890 (Oxford University Press, 2000)
+•   William J. R. Curtis, Modern Architecture since 1900 (Prentice-Hall, 1996)
+•   Course reader available from the textbook department of the University Coop
+•   (Recommended) John Fleming, Hugh Honour, Nikolaus Pevsner, The Penguin
+    Dictionary of Architecture (Penguin Books, 4th edition, 1991)
+
+
+                                                                                           3
+Services for Students
+Any student with a documented disability (physical or cognitive) who requires academic
+accommodations should contact Services for Students with Disabilities
+(ddce.utexas.edu/disability/) as soon as possible to request an official letter outlining
+authorized accommodations. We will do our best to work with you.
+The Counseling & Mental Health Center (CMHC) offers resources for general health
+and well-being, time management, stress management, test anxiety and other personal
+concerns. The Center is located on the 5th floor of the Student Services Building. The
+telephone number is (512) 471-3515. http://cmhc.utexas.edu
+If you have concerns about the behavior of someone, the Behavior Concerns Advice
+Line offers assistance 24/7: (512) 232-5050.
+The University Writing Center located in the UT Learning Commons area at Perry-
+Castañeda Library provides individual, professional advice on all aspects of writing for
+UT undergraduates on a drop-in basis or by appointment. The Center’s staff can help you
+with any writing assignment at any stage of development. uwc.utexas.edu
+Office of Campus Safety and Security: www.utexas.edu/safety: Emergency: 911
+                                     GROUND RULES
+This is a large class in a large room, and we must work together to create a good
+environment for learning. Newspaper reading, posting photos of your weekend on
+Facebook, chatting with friends, eating breakfast tacos, and snoring are disruptive to
+those around you, so catch up on news, meals, and sleep before class. Please note that this
+is one of the finest auditoriums on campus. Help keep it that way by not bringing food or
+drink into the hall.
+Policy on attendance and due dates:
+Regular attendance is expected. Students with more than two unexcused absences from
+the weekly discussion sections will be penalized by a reduction of the final letter grade.
+All assignments and examinations must be submitted on the due dates. Late papers will
+be penalized by a grade reduction. Incompletes (X grades) will be awarded only in
+instances of medical or severe family emergencies. Documentation may be required.
+Accommodation for religious holidays
+By UT Austin policy, you must notify your teaching assistant or me of your pending
+absence at least fourteen days prior to the date of observance of a religious holy day. If
+you must miss a class, an examination, a work assignment, or a project in order to
+observe a religious holy day, you will be given the opportunity to complete the missed
+work within a reasonable time after the absence.
+
+
+                                                                                            4
+The Honor Code:
+The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity and responsibility. Each member of the University is
+expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.
+A note on plagiarism
+Please heed your professional responsibilities regarding plagiarism. The work you
+present must be your own unless you explicitly indicate otherwise. Be attentive to your
+use of sources. If you copy or closely paraphrase language from a source (print or
+internet), you must provide a citation. If you are unsure about what constitutes plagiarism
+or are unfamiliar with the mechanics of citations (it also is important to know when not to
+footnote) please ask us for assistance.
+Evaluation
+Grades will be based on mid-term and final examinations, reader response statements, a
+building description essay, and a research project, which includes a presentation at an
+evening poster session and a final paper. Evaluations will be represented by a cumulative
+point system with letter grades determined as a percentage of a given score. Thus, a score
+of 40 on the 50-point building description assignment is 80%, a B-; a semester total of
+435 out of the 500 possible points is 87%, a B+.
+My standards regarding grades are as follows: A represents exemplary work in which the
+student has successfully realized his or her stated objectives in terms of content and style;
+B has a broader compass in which the intentions of the assignment are met adequately but
+with some weakness of content or style or reticence in approach; C recognizes effort but
+acknowledges serious problems in content or style; D and F reflect a lack of effort. I
+award incompletes only in cases of illness or other personal emergencies.
+Reader Response Essays                           20 points each (except for #1); 100 total
+points
+Due in section (note: late reader responses will not be accepted except in cases of
+documented illness or family emergency)
+#1 Week of 3 September (ungraded, prepare the prompts for discussion)
+#2 Week of 10 September
+#3 Week of 17 September
+#4 Week of 1 October
+#5 Week of 15 October
+#6 Week of 29 October
+Building Description                              50 points
+Due in section week of 24 September (revised paper due on Tuesday, 16 October)
+Midterm Examination
+Tuesday, 9 October                               100 points
+
+
+                                                                                             5
+Research Project                                 150 total points
+         Proposal                                  10 points
+         Due in section, week of 22 October
+         Outline                                   10 points
+         Due in section, week of 5 November
+         Poster Session                            30 points
+         Thursday afternoon, 15 November
+         Final Paper                             100 points
+         Monday, 10 December, 5:00 p.m.
+                Electronic submission or hard copy to teaching assistant
+Final Examination                                100 points
+Thursday, 13 December, 9:00 am - 12 pm, Jessen Auditorium (our usual classroom)
+                                    SURVIVAL SKILLS
+This course covers a broad range of material in a very short time. Many places and events
+will be unfamiliar, you will encounter architecture’s specialized vocabulary, and the
+material we expect you to master may require considerable time to sort out. All this will
+happen alongside the myriad demands of your other courses. The best way to assure
+success is to keep up and be an active participant. Regular class attendance in the lectures
+and the discussion sections is the essential first step. The second is to develop an effective
+system of note taking. Your notes should record the over-all structure and key points of
+each lecture and be cross-referenced to the reading assignments. Review your notes
+frequently to correct misspellings, add information, and mark questions. You may find it
+useful to form a study group that meets periodically throughout the semester.
+Don’t hesitate to ask questions in class and to take advantage of our office hours. The
+teaching assistants and I are very willing to meet with you to discuss the course or just to
+talk. If our posted hours aren’t convenient, we can make an appointment for another time.
+Course materials on Canvas
+The syllabus, pdfs of the lectures, and other class materials will be available in folders on
+the course Canvas site.
+Research tools
+The teaching assistants and I recognize that many of you are new to doing research on
+architectural history. Please feel free to talk with us as you start planning your research
+project.
+The website of the Architecture and Planning Library offers many useful tips for
+conducting research on architectural topics: http://www.lib.utexas.edu/apl/index.html.
+When setting out to learn more about a particular topic, many students forget about two
+types of valuable sources: (1) specialized encyclopedias and dictionaries and (2) journal
+articles. Encyclopedias and dictionaries will provide answers for many basic questions
+and help you to define topics. Three excellent sources are the Macmillan Encyclopedia of
+
+
+                                                                                           6
+Architects (a biographical dictionary) available in the reference area of the Architecture
+and Planning Library, the Encyclopedia of 20th-Century Architecture available in the
+library and on-line, and the encyclopedic Dictionary of Art (also available on-line), which
+covers individual designers, historic and stylistic periods, theoretical concepts, and
+terminology.
+Don’t limit your bibliographic searches to the books in UTCAT. Journal articles can be
+identified using search engines supported by University Libraries. See the link: Databases
+and Indexes to Articles. http://www.lib.utexas.edu/indexes/ For architecture, an essential
+search tool is the Avery Index to Architectural Periodicals. Many full-text articles on
+architecture may be found by searching the JSTOR database.
+The Web as a research tool. Useful websites will be cited from time to time in the
+lectures and discussion sections and posted on Canvas. You will discover others on your
+own. When you encounter information from unfamiliar sources, treat it critically.
+Alongside the useful, accurate information a Google search can generate is a tremendous
+amount of junk, and you must determine which is which. Consider the identity of the
+author and corroborate the information with other sources known to be reliable.
+Wikipedia is useful as a point of departure, but many of its entries on architectural
+subjects are derived from outdated or unsubstantiated secondary sources and should not
+be regarded as authoritative. If you use material from the Web for your papers or research
+project, cite the full URL in your bibliography.
+Assigned Readings
+Think of the texts by Barry Bergdoll and William Curtis as reference tools. Skim them
+for an overview and slow down when you encounter discussions of the people and
+buildings introduced in class.
+The course reader available at the Co-op contains articles and book excerpts offering a
+variety of perspectives on topics and methodology. Approach your reading so that you
+can speak to the principal themes of each article and how the author has developed his or
+her argument. Expect to encounter questions related to the articles in the reader on the
+examinations.
+Supplemental Texts
+If you took ARC 318K and own a copy of Spiro Kostof’s A History of Architecture:
+Settings and Rituals, I recommend that you hang on to it for use as a general reference.
+The Penguin Dictionary of Architecture is a handy reference for terms and capsule
+accounts of architects and historical periods.
+The following survey texts will be useful as you refine your lecture notes and begin
+research for your papers. All have been placed on reserve in the Architecture and
+Planning Library.
+Luis E. Carranza and Fernando Luiz Lara, Modern Architecture in Latin America: Art,
+    Technology, and Utopia (Austin: University of Texas Press, 2014). NA 702.5 C37
+    2014
+
+
+                                                                                            7
+Kenneth Frampton, Modern Architecture: A Critical History, 3rd edition (London:
+    Thames & Hudson, 1992). NA 500 F75 1992
+Mark Girouard, Cities & People: A Social and Architectural History (New Haven: Yale
+    University Press, 1985). HT 111 G47 1985
+Spiro Kostof, The Architect: Chapters in the History of the Profession (New York:
+    Oxford University Press, 1977). NA 1995 A73
+Thomas Leslie, Chicago Skyscrapers, 1871-1934 (Urbana, IL: University of Illinois
+    Press, 2013). NA 6232 L47 2013
+Ulrich Pfammatter, Building the Future: Building Technology and Cultural History from
+    the Industrial Revolution until Today (Munich: Prestel, 2008). NA 2543 T43 P4913
+    2008
+Andrew Saint, Architect and Engineer: A Study in Sibling Rivalry (New Haven: Yale
+    University Press, 2007). NA 2543 E54 S25 2007
+Gwendolyn Wright, USA: Modern Architectures in History (London: Reaktion, 2008).
+    NA 712.5 M63 W75 2008
+                                WRITING ASSIGNMENTS
+Please note the terms description and analysis in the assignments. Description refers to
+the systematic accounting of an object or situation. It aspires to objectivity and the
+assertion of fact. Analysis refers to an investigation of the described object or situation
+(the fact) with the intent of understanding how it came to be, how it is put together, or
+how it works. Analysis of an object, for example, might reveal its compositional structure
+(proportion, patterning). Analysis of a situation, on the other hand, might place it in a
+historical context and assess its impact. Analysis requires independent thinking and
+creativity, because it draws on the application of information and method that lie outside
+the object, such as the application of geometry to analyze the composition of a façade or
+the use of models of individual or social behavior to account for human deeds. It requires
+you to have an opinion that you can support by demonstration. The paper assignments
+and the research project are intended to help you develop your ability to conduct
+historical analysis.
+Late papers will not be accepted except in cases of documented illness or family
+emergency.
+Reader Response Essays
+The reader response essays are intended to sharpen your ability to read critically and to
+provide a basis for discussion in the weekly section meetings. Each paper should be two
+pages long (about 500-600 words, double-spaced). It should include a sentence or two
+summarizing the principal theme of the article and a longer discussion of an aspect that
+you find interesting. You may express support or disagreement with the author’s position,
+comment on the subject matter, or otherwise relate it to something you’ve encountered
+elsewhere. The object of the exercise is to set out your thoughts clearly and concisely and
+to offer a direction for further discussion. The criteria for evaluation are as follows:
+evidence of your comprehension of the article, expression of a personal point of view,
+clarity of expression.
+
+
+                                                                                           8
+Building Description Essay (Due in your discussion section the week of 24 September)
+The purpose of this assignment is to refine your ability to describe a building clearly and
+concisely. Please select a building from the following list and describe its façade. Your
+paper should be about 700 words long. If possible, include a photograph (it can be one
+taken with your phone).
+This is an exercise of direct observation. While you may consult secondary sources, you
+should not rely on them as the basis of your description. If you use secondary sources
+such as books, articles, or websites, please cite them in a bibliography.
+The challenge in writing architectural descriptions is to present the building in a way that
+allows the reader to visualize it. One way to think about this is as if you are describing
+the building to a friend over the telephone. An effective approach is to proceed from the
+general to the specific. In so doing, organize your text around aspects you consider
+significant, such as massing, materials, fenestration (windows and doors), and ornament.
+The papers will be peer reviewed in discussion sections the week of 24 September,
+reviewed by the teaching assistants, and returned the following week for revision. The
+final submission is due in lecture on Tuesday, 16 October. Criteria for evaluation:
+organization and approach, use of appropriate architectural terminology, clarity of
+expression.
+Building List (describe the principal façade only)
+French Legation, 1840-41 (802 San Marcos St.)
+Neill-Cochran House, Abner Cook, 1855 (2310 San Gabriel Street)
+Nowotny Building (part of UT’s Little Campus), Abner Cook, 1857 (Red River & MLK)
+Old General Land Office Building, Conrad C. Stremme, 1857 (East 11th & Brazos)
+Johns-Hamilton Building (Barclay Building), 1870 (716 Congress)
+St. Mary’s Cathedral, 1874-1884, Nicholas Clayton (203 East 10th Street)
+Townsend-Thompson Building, 1875 (718 Congress Avenue)
+Walter Tips Building, J. N. Preston, 1876 (710-712 Congress Avenue)
+Hannig Building, J. N. Preston, 1876 (206 East 6th Street)
+John Bremond, Jr. House, George Fiegel, 1886-87 (700 Guadalupe St)
+Southwestern Telegraph & Telephone Building, 1886/stone façade 1898 (410 Congress)
+Elisabet Ney Museum, begun 1892 (304 East 44th Street)
+McKean-Eilers Buildings, Burt McDonald & J. Reily Gordon, 1897 (323 Congress)
+Research Project
+This project allows you to investigate a topic of your choice in some depth. It has two
+principal components: presentation of research in the poster session and the final paper.
+Please note the due dates. The timing is tight, and it is very important to plan ahead.
+Topic selection. Anything within the chronological scope of this course is fair game. You
+may analyze a single building or compare certain points among several buildings. You
+may focus on themes in the work of a single architect or relate specific features of a
+building to the interests of its patron or the needs of those who used it. You may examine
+vernacular buildings, materials, construction systems, response to climate, or
+relationships with landscape. As you think about selecting a topic, keep in mind the basic
+
+
+                                                                                           9
+questions architectural historians ask: (1) what is it? (description and comparison); (2)
+how and why was it made? (narrative and contextual histories); (3) how does it work?
+(composition, structure, use, meaning). It is important to focus your topic so you can get
+beyond general description and have the time and space to develop your analysis. Feel
+free to brainstorm topic ideas with us.
+Besides the canonical figures who populate the pages of the survey texts, there are many
+others with outstanding achievements who merit study. One of the strengths of William
+Curtis’s survey is his coverage of modernist architecture in Latin America, Spain, and
+parts of Asia, but there is much more to be done. Africa, for example, has received
+comparatively little attention. Women have only recently enjoyed a place in the spotlight.
+For the United States, see Sarah Allaback, The First American Women Architects
+(Urbana, IL: University of Illinois Press, 2008), available in the reference area of the
+Architecture & Planning Library: NA 736 A48 2008. There are few histories of African-
+American architects. See Dreck Spurlock Wilson, ed., African-American Architects: A
+Biographical Dictionary, 1865-1945 (New York: Routledge, 2004): reference area NA
+736 A47; Ellen Weiss, An Annotated Bibliography on African-American Architects and
+Builders (Philadelphia: Society of Architectural Historians, 2003): reference area NA 738
+N5 W43 2003.
+Project proposal, due in discussion section the week of 22 October
+Prepare a statement of about 1-2 pages (double-spaced) that 1) identifies your topic
+(including names, dates, and places, as appropriate), 2) states what you find interesting
+about it, 3) indicates your intended focus, and 4) describes the status of your research.
+Append a preliminary bibliography indicating what you’ve looked at and what is on your
+“to do” list. The bibliography must include print sources (books or journal articles, which
+may include online copies of print sources) in addition to any survey texts or websites
+you might use. Remember that if you use a website such as Wikipedia, you must
+corroborate the information by consulting scholarly sources.
+Project outline, due in discussion section the week of 5 November
+Prepare an outline showing the scope and organization of your final paper. It should
+begin with a sentence or two that concisely describes the scope of your project. For the
+sections for which you have completed substantial research, use an expanded format
+including topic sentences for key parts. Include a bibliography annotating the sources you
+have consulted to indicate their importance to your project.
+Poster session, Thursday afternoon, 15 November
+Professional meetings of architectural historians frequently include poster sessions, which
+resemble a science fair without the dry-ice volcanoes. Scholars summarize their work on
+a poster displaying graphics and text that allow audience members to quickly grasp the
+key issues. The author then responds to questions. We will adapt this system to provide
+an opportunity for others to learn from your research and for you to receive constructive
+feedback from your colleagues.
+The poster. Use poster board or plotter paper measuring around 22” x 28.” It should be
+easily readable from a distance of several feet. It should have a title at the top (format
+may be horizontal or vertical) and your name. The layout of text and graphic information
+
+
+                                                                                            10
+should allow viewers to easily grasp the scope of your project, your approach, and key
+findings. All photographs or diagrams copied from published sources must include a
+credit line. Note to the graphically challenged: this isn’t a test of artistic skill. The
+objective is to present ideas effectively.
+Abstract and bibliography. Your poster must be accompanied by an abstract of about 300
+words (1-2 pages, double spaced), plus your bibliography. What is an abstract? It is a
+highly-condensed summary presenting the particular focus and findings of your research.
+It must show how you have made the topic your own.
+Oral presentation. We will divide the class into groups capable of fitting comfortably in
+the Sutton Hall 4th-floor corridor. Each large group will be divided into small groups of
+four students who will share their work with each other. Each student will have ten
+minutes to present his or her poster and respond to questions.
+Evaluation. The criteria for evaluation will be based on the following: (1) clear definition
+and development of the topic; (2) command of the subject – has the author personalized
+it? (3) presentation – appearance of the poster, ability of the author to explain the project.
+Note: the challenge in this project is in demonstrating your intellectual engagement with
+your subject. A series of general views of a building will not accomplish this unless the
+basis for their selection is made clear by your layout and accompanying text.
+Final paper, due 5:00 p.m., Monday, 10 December
+After receiving feedback from your colleagues and the teaching assistants at the poster
+session, please expand the findings outlined in your poster and abstract into a paper with
+a text of about 2500 words (8-10 pages double-spaced) plus notes, bibliography, and
+illustrations. This should require little, if any, additional research. Focus your attention on
+developing your points as clearly as possible. Evaluation will consider the thoroughness
+of your research, your ability to define and develop a topic within the constraints of the
+exercise (time, space limitations), and the clarity of your writing.
+Bibliography and footnote (or endnote) formats
+Bibliographic citations allow your readers to trace the path you took in your research.
+Scholarly publications typically prescribe specific formats. For this assignment, you may
+use a format with which you are familiar or follow the following examples:
+Footnote or endnote
+Book:
+First name Last name, Title (Location: Publisher, Year of publication), page number(s).
+Richard Cleary, Merchant Prince and Master Builder: Edgar J. Kaufmann and Frank
+Lloyd Wright (Pittsburgh and Seattle: Carnegie Museum of Art and University of
+Washington Press, 1999), 23-55.
+Article:
+First name Last name, “Title of article,” Title of Journal volume number/issue number
+(Month, Year), page number(s) containing the information or quote you are citing
+Renee Y. Chow, “In a Field of Party Walls: Drawing Shanghai’s Lilong,” Journal of the
+Society of Architectural Historians, 73/1 (March 2014), 18.
+
+
+                                                                                        11
+URL (same format for footnote or bibliography):
+Handbook of Texas Online, s.v., “Myers, Elijah H.,”
+http://www.tsha.utexas.edu/handbook/online/articles/MM/fmy2.html (accessed August
+28, 2010).
+Bibliography (has slightly different format than a footnote—author names are
+alphabetized)
+Book:
+Last name, First name. Title (Location: Publisher, Year of publication).
+Cleary, Richard. Merchant Prince and Master Builder: Edgar J. Kaufmann and Frank
+Lloyd Wright (Pittsburgh and Seattle: Carnegie Museum of Art and University of
+Washington Press, 1999).
+Article:
+Last name, First name, “Title of article,” Title of Journal volume number/issue number
+(Month, Year), page numbers of entire article.
+Chow, Renee Y. “In a Field of Party Walls: Drawing Shanghai’s Lilong,” Journal of the
+Society of Architectural Historians, 73/1 (March 2014), 16-27.
+For additional information consult a style guide such as Kate L. Turabian, A Manual for
+Writers of Term Papers, Theses, and Dissertations (University of Chicago Press,
+available online: https://www.chicagomanualofstyle.org/turabian/citation-guide.html).
+                      MIDTERM AND FINAL EXAMINATIONS
+The midterm (Tuesday, 9 October) and final examinations (Thursday, 13 December) will
+have similar formats: identification of ten buildings (location, name, date, architect)
+discussed in the lectures and noted on the lecture notes posted on Canvas; three essays
+selected from a set of study questions.
+
+
+                                                                                        12
+                              SCHEDULE OF CLASSES
+Week 1
+Thursday, 30 August: Introduction
+Reader: Hilde Heynen, “Concepts of Modernity,” in Architecture and Modernity: A
+Critique (Cambridge, MA: MIT University Press, 1999), 8-14. Note: this essay offers an
+introduction to ways of thinking about modernity. I suggest you return to it from time to
+time during the semester.
+Discussion Sections do not meet this week
+Week 2
+Monday, 3 September: Labor Day Holiday – No classes
+Tuesday, 4 September: Cities and Landscapes in the Age of the Enlightenment
+Thursday, 6 September: Rule, Sensibility, and Character in Architecture (Guest
+lecture by Professor Mirka Beneš)
+Discussion Section Topic: Classicism and the Picturesque
+Reader response #1 due: follow the instructions on Canvas
+Bergdoll, Chaps. 1, 2, 3
+Week 3
+Tuesday, 11 September: Historicism and the Gothic Revival
+Bergdoll, Chaps. 5-6
+Thursday, 13 September: Historicism and Nationalism in 19th-Century American
+Architecture
+Curtis, Chap. 2
+Discussion Section Topic: John Ruskin and Eugène Viollet-le-Duc
+Reader response #2 due
+Reader: John Ruskin, The Seven Lamps of Architecture (1849) (New York: Noonday
+Press, 1961): Chap. 2, “The Lamp of Truth,” 34-59; Eugène-Emmanuel Viollet-le-Duc,
+Discourses on Architecture, Benjamin Bucknall, trans. (1875) (New York: Grove Press,
+1959): Lecture X, 446-455, 473-487.
+Week 4
+Tuesday, 18 September: Colonialism and Identity in British India
+Thursday, 20 September: Meiji Japan and Japonisme
+Discussion Section Topic: East Meets West
+Reader response #3 due
+Reader: Thomas R. Metcalf, “Architecture and the Representation of Empire: India,
+1860-1910,” Representations, no. 6 (Spring 1984), 37-65; Cherie Wendelken, “The
+Tectonics of Japanese Style: Architect and Carpenter in the Late Meiji Period,” Art
+Journal 55/3 (Autumn, 1996), 28-37; Toshio Watanabe, “Josiah Conder’s Rokumeikan:
+Architecture and National Representation in Meiji Japan,” Art Journal 55/3 (Autumn,
+1996), 21-27.
+
+
+                                                                                      13
+Week 5
+Tuesday, 25 September: Building with Iron, Steel, and Reinforced Concrete
+Bergdoll, pp. 179-184, Chap. 7; Curtis, Chap. 4
+Thursday, 27 September: Railroads and Skyscrapers
+For more on the design and engineering of early skyscrapers, see Thomas Leslie,
+Chicago Skyscrapers, 1871-1934, available on reserve in the Architecture & Planning
+Library.
+Discussion Section Topic: Building Description Peer Review
+Building description essay due
+Week 6
+Tuesday, 2 October: Cities in the Age of Industrialization
+Bergdoll, Chap. 8
+Reader: Renee Y. Chow, “In a Field of Party Walls: Drawing Shanghai’s Lilong,”
+Journal of the Society of Architectural Historians, 73/1 (March 2014), 16-27; Luis E.
+Carranza and Fernando Luiz Lara, “Francisco Pereira Passos Begins a Project to
+‘Civilize’ Rio de Janeiro by Applying Baron Haussmann’s Ideas as an Answer to the
+Tropical (Lack of) Urbanism,” in Modern Architecture in Latin America: Art,
+Technology, and Utopia (Austin: University of Texas Press, 2014), 7-9.
+Thursday, 4 October: The House Beautiful at the Turn of the 20th Century
+Curtis, Chaps. 5, 7
+Discussion Section Topic: Frank Lloyd Wright
+Reader response #4 due
+Reader: Frank Lloyd Wright, “In the Cause of Architecture,” (1908); reprinted in Bruce
+Brooks Pfeiffer, ed., Frank Lloyd Wright: Collected Writings, vol. 1 (New York: Rizzoli
+and the Frank Lloyd Wright Foundation, 1992), 84-100; Reyner Banham, “The Well-
+Tempered Home,” in The Architecture of the Well-Tempered Environment (Cambridge,
+MA: MIT Press, 1969), 93-121.
+Week 7
+Tuesday, 9 October: Midterm Examination
+Thursday, 11 October: Leaf and Crystal, Visions for a New Architecture
+Bergdoll, Chap. 9; Curtis, Chap. 3
+Discussion Section Topic: Adolf Loos
+Reader: Adolf Loos, “Ornament and Crime” (1910, published 1912), in Ulrich Conrads,
+ed., Programs and Manifestoes on 20th-Century Architecture (Cambridge, MA: MIT
+Press, 1975), 19-24.
+
+
+                                                                                     14
+Week 8
+Tuesday, 16 October: The German Werkbund; Futurism
+Curtis, Chaps. 6, 9, 12
+Revised Building Description due by time of lecture
+Thursday, 18 October: De Stijl; the Soviet Avant-Garde
+Discussion Section Topic: Manifestos of Modernism
+Reader Response #5 due
+Reader: Hermann Muthesius, Henry van de Velde, “Werkbund Theses and Antitheses”
+(1914), in Ulrich Conrads, ed., Programs and Manifestoes on 20th-Century Architecture
+(Cambridge, MA: MIT Press, 1975), 28-31; Antonio Sant’Elia and Filippo Tommaso
+Marinetti, “Futurist Architecture” (1914), in Conrads, 34-38; Theo van Doesburg,
+“Towards a Plastic Architecture” (1924), in Conrads, 78-80; Mieczysław Szczuka and
+Teresa Zarnower, “What is Constructivism?” (1924), in Tim and Charlotte Benton,
+Dennis Sharp, eds., Architecture and Design: 1890-1939 (New York: Whitney Library of
+Design, 1975), 102-103.
+Week 9
+Tuesday 23 October: The Modernist Villa
+Curtis, Chaps. 16, 18, 19
+Thursday, 25 October: Modernism and Social Housing
+Curtis, Chaps. 14, 24
+Discussion Section Topic: Le Corbusier vs the Neue Sachlichkeit
+Research project proposal due
+Reader: Le Corbusier, Towards a New Architecture (1923/1925), reprinted 1931 (New
+York: Dover, 1986), 85-148; Hannes Meyer, “Building” (Bauhaus: Zeitschrift für
+Gestaltung, 1928), reprinted in Ulrich Conrads, ed., Programs and Manifestoes, 117-19.
+Week 10
+Tuesday, 30 October: Architectural Education
+Curtis, Chap. 11
+Reader: Walter Gropius, “Programme of the Staatliches Bauhaus in Weimar” (1919), in
+Conrads, Programs and Manifestoes, 49-53
+Thursday, 1 November: The Modernist Canon and Other Expressions
+Curtis, Chaps. 15, 17
+Discussion Section Topic: Who Gets to Be an Architect?
+Reader response #6 due
+Reader: Gwendolyn Wright, “On the Fringe of the Profession: Women in American
+Architecture,” in Spiro Kostof, ed., The Architect (New York: Oxford University Press,
+1977), 280-308; Whitney M. Young, Jr., “Unedited Transcript of the Speech Made to the
+American Institute of Architects in 1968,” in Linda Kisk, ed., 20 on 20/20 Vision:
+Perspectives on Diversity and Design (Boston: Boston Society of Architects and the AIA
+Diversity Committee, 2003), 9-22; Madhavi Desai, “Shifting Boundaries and Creating
+Identities: Women Architects in India: 1960 Onward,” in D. Fairchild Ruggles, ed.,
+
+
+                                                                                      15
+Woman’s Eye, Woman’s Hand: Making Art and Architecture in Modern India: A
+Collection of Essays (New Delhi: Zubann, 2014), 207-227.
+Week 11
+Tuesday, 6 November: Modernism and Expressions of Religious Faith
+Thursday, 8 November: Architecture and the Automobile
+Curtis, Chaps. 22, 26
+Discussion Section Topic: Research projects
+Research project outline due
+Week 12
+Tuesday, 13 November: Architects’ Romance with Technology
+Thursday, 15 November: Postmodernism v Modernism
+Curtis, Chaps. 30, 32, 33
+Reader: Robert Venturi, Complexity and Contradiction in Architecture (New York:
+Museum of Modern Art, 1966), 22-45; Jane Jacobs, The Death and Life of Great
+American Cities (New York: Vintage Books, 1961), 3-25, 55-62.
+Thursday late afternoon/evening: Poster Session
+Discussion Section Topic: Research Projects
+Week 13
+Tuesday, 20 November: Modernism and National Identity in Brazil and Mexico
+Curtis, Chap. 27; Keith Eggener, “Contrasting Images of Identify in the Post-War
+Mexican Architecture of Luis Barragan and Juan O’Gorman,” Journal of Latin American
+Cultural Studies 9/1 (2000), 27-45.
+Wednesday, 21 November – Saturday, 24 November: Thanksgiving Holiday!
+No discussion sections this week
+Week 14
+Tuesday, 27 November: Modernity and National Identity in Japan and China
+Thursday, 29 November: Modernity and National Identity in Nigeria, the Indian
+Subcontinent, and the Middle East
+Curtis, Chap. 31
+Discussion Section Topic: Modernism in the Middle East, Africa, and China
+Reader: Nezar Alsayyad, “From Modernism to Globalization: The Middle East in
+Context,” in Sandy Isenstadt and Kishwar Rizvi, eds., Modernism and the Middle East:
+Architecture and Politics in the Twentieth Century (Seattle: University of Washington
+Press, 2008), 255-266; Cary Y. Liu, “Encountering the Dilemma of Change in the
+Architectural and Urban History of Shanghai,” Journal of the Society of Architectural
+Historians, 73/1 (March 2014), 118-136; Hannah Le Roux, “Modern Architecture in
+Post-Colonial Ghana and Nigeria,” Architectural History 47 (2004), 361-392.
+
+
+                                                                            16
+Week 15
+Tuesday, 4 December: Architectural Themes of the 21st Century
+Curtis, Chaps. 34, 35, Conclusion
+Thursday, 6 December: No class (Final reviews in School of Architecture)
+Discussion Section Topic: Wrapping Up
+Week 16
+Monday, 10 December: Last Class Day (UT)
+Final research paper due by 5:00 p.m. as directed by teaching assistants
+Monday discussion section meets as directed by teaching assistant
+No other class meeting
+Final Examination: Thursday, 13 December, 9:00 am-12:00 pm, Jessen Auditorium

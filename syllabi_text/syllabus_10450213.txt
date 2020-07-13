@@ -1,0 +1,404 @@
+M E 334 MATERIALS ENGINEERING
+17615 Tues, Thu, Fri: 11:00 am - 1 pm
+ON-LINE
+INSTRUCTOR: David Mitlin, Department of Mechanical Engineering
+FANCY TITLES AND WEBSITES:
+David Allen Cockrell Endowed Professor
+Walker Department of Mechanical Engineering
+The University of Texas at Austin
+Austin, Texas 78712-1591
+Associate Editor, Sustainable Energy and Fuels - RSC
+https://www.me.utexas.edu/faculty/faculty-directory/mitlin
+Office Hours: Directly After Class, or by appointment (email me).
+Emails are the best way to reach me since it allows me to work off my calendar.
+*If you email me and don’t hear the same day, feel free to ping again, I won’t be offended!
+I get over 100 non-spam emails per day, so occasionally some get missed.
+Texbook: William D. Callister, Jr. and David G. Rethwisch. Materials Science and Engineering: An
+Introduction, 10th Ed. (Hoboken, NJ: John Wiley and Sons, Inc.) 2018. Students may purchase the E-Text
+version from www.wiley.com ($76.00, ISBN 978-1-119-40549-8). The E-Text is also available with an
+abridged print version of the text ($97.95, ISBN 978-1-119- 46315-3). The Kindle Edition is available from
+Amazon.com for $76.00.
+ATTENDANCE AND ABSENCES
+Refer to the General Information Catalog, available on-line, for University policy on attendance and
+absences.
+RESTRICTIONS:
+PLEASE OUT OF RESPECT FOR YOU FELLOW STUDENTS AND THE INSTRUCTOR, DO NOT TALK
+IN CLASS. IF THERE IS SOMETHING URGENT, FEEL FREE TO EXCUSE YOURSELF FROM THE
+CLASSROOM AND COME BACK ONCE YOU ARE DONE. REFER TO THE GENERAL INFORMATION
+CATALOG, AVAILABLE ON-LINE, FOR UNIVERSITY POLICY ON OTHER RESTRICTIONS.
+STUDENT RIGHTS & RESPONSABILITIES:
+You have a right to a learning environment that supports mental and physical wellness;
+You have a right to respect;
+You have a right to be assessed and graded fairly;
+You have a right to freedom of opinion and expression;
+You have a right to privacy and confidentiality;
+You have a right to meaningful and equal participation, to self-organize groups to improve your
+learning environment;
+You have a right to learn in an environment that is welcoming to all people. No student shall be
+isolated, excluded or diminished in any way.
+With these rights come responsibilities:
+You are responsible for taking care of yourself, managing your time, and communicating with the teaching
+team and with others if things start to feel out of control or overwhelming;
+You are responsible for acting in a way that is worthy of respect and always respectful of others. Your
+experience with this course is directly related to the quality of the energy that you bring to it, and your
+energy shapes the quality of your peers’ experiences;
+You are responsible for creating an inclusive environment and for speaking up when someone is excluded;
+You are responsible for holding yourself accountable to these standards, holding each other to these
+standards, and holding the teaching team accountable as well.
+                                                                                                         1
+
+
+Personal pronoun preference:
+Professional courtesy and sensitivity are especially important with respect to individuals and topics
+dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance,
+and nationalities. Class rosters are provided to the instructor with the student’s legal name. I will gladly
+honor your request to address you by an alternate name or gender pronoun. Please advise me of this
+preference early in the semester so that I may make appropriate changes to my records.
+ACADEMIC INTEGRITY:
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a student
+of The University of Texas at Austin, I shall abide by the core values of the University and uphold
+academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that
+are not your own (or that you have used in previous class), you must cite your sources. Otherwise you
+will be guilty of plagiarism and subject to academic disciplinary action, including failure of the course. You
+are responsible for understanding UT’s Academic Honesty and the University Honor Code which can be
+found at the following web address: http://deanofstudents.utexas.edu/sjs/acint_student.php
+COURSE-INSTRUCTOR SURVEY:
+The course and instructor will be evaluated using standard evaluation forms at the end of the course.
+Students are encouraged to provide continuous feedback to the instructor throughout the course.
+UNIVERSITY RESOURCES FOR STUDENTS:
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please
+let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the
+requirements of the course. There are also a range of resources on campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical information
+that you need to share with me, or if you need specific arrangements in case the building needs to be
+evacuated, please let me know. I am committed to creating an effective learning environment for all
+students, but I can only do so if you discuss your needs with me as early as possible. I promise to
+maintain the confidentiality of these discussions. If appropriate, also contact Services for Students with
+Disabilities,        512-471-6259         (voice)        or       1-866-329-3986         (video        phone).
+http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and
+cope with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful
+resources available on campus and an important part of the college experience is learning how to ask for
+help. Asking for support sooner rather than later is often helpful. If you or anyone you know experiences
+any academic stress, difficult life events, or feelings like anxiety or
+depression, we strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/                                      2
+
+
+IMPORTANT SAFETY INFORMATION:
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel
+right – it probably isn’t. Trust your instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety and
+Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that
+the nearest exit door may not be the one you used when entering the building;
+Students requiring assistance in evacuation shall inform their instructor in writing during the first week of
+class;
+In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a
+building unless given instructions by the following: Austin Fire Department, The University of Texas at
+Austin Police Department, or Fire Prevention Services office.
+Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+www.utexas.edu/emergency
+OTHER ITEMS:
+Web-based, password-protected class sites are associated with all academic courses taught at the
+University. Students who do not want their names included in these electronic class rosters must restrict
+their directory information in the Office of the Registrar, Main Building, Room 1. For information on
+restricting directory information, see: http://registrar.utexas.edu/students/records/restrictmyinfo .
+Engineers are required to meet the highest levels of professional conduct and to responsibly handle
+complicated and often dangerous equipment and technical tasks. You will be held to those same
+expectations by your instructor during your studies and training. You are expected to obtain all pertinent
+safety training and to follow all safety procedures for equipment you handle and tasks you conduct.
+Failure to do so will result in a penalty on your course grade, a penalty completely at the discretion of the
+instructor. For example, explosive launching of any projectile in an inappropriate location or direction will
+result in a failing grade in this course. This is set as course policy so that it will be administered by the
+University for the instructor posthumously, if required.
+ COURSE OUTLINE AND REQUIRED READINGS FROM THE COURSE TEXT:
+All instructions, assignments, readings, rubrics and essential information will be on the Canvas website at
+https://utexas.instructure.com. Check this site regularly and use it to ask questions about the course
+schedule.
+Changes: to the schedule may be made at my discretion and if circumstances require. It is your
+responsibility to note these changes when announced (although I will do my best to ensure that you
+receive the changes with as much advanced notice as possible).
+COURSE GOALS: Learn to explain the observed properties of engineering materials on the basis of an
+understanding of fundamental concepts: chemical bonding, crystal structures, defects, diffusion, phase
+diagrams, solidification, and development of microstructures;
+Develop an understanding of the mechanical properties of metals and alloys, ceramics and polymers;
+Learn to tailor the mechanical properties of metals and alloys by mechanical processing, heat treatment,
+and alteration of microstructures;
+Develop an understanding of the differences in the structure and properties of metals, ceramics and
+polymers.
+KNOWLEDGE, ABILITIES AND SKILLS NEEDED FOR THIS COURSE: Knowledge of introductory
+chemistry; Ability to follow detailed instructions, definitions, and specifications; Ability to quickly absorb
+and comprehend new concepts and information; Ability to read, write, and speak clearly and effectively in
+English; Ability to allocate resources towards the completion of homework assignments on schedule;
+Ability to pay consistent attention to the course material daily throughout the semester.                      3
+
+
+KNOWLEDGE, ABILITIES AND SKILLS TO BE GAINED FROM THIS COURSE
+Knowledge of the basic concepts that control the properties of engineering materials and the structure-
+property relationships of materials;
+Understanding of the mechanical properties of materials and the various ways by which the
+mechanical properties of materials can be altered;
+Ability to consider the selection of metal alloys for various applications based on mechanical properties;
+Ability to correlate materials theory to experimental data collected in the laboratory in a separate
+laboratory course ME 134L on materials properties and processing;
+Ability to apply a basic knowledge of chemistry, physics, and mathematics to understand the properties of
+real- world materials;
+Recognition and appreciation of the interdisciplinary nature of subjects at higher levels of science
+and engineering.
+IMPACT ON SUBSEQUENT COURSES IN THE CURRICULUM COURSE
+The knowledge gained in ME 334 is utilized to understand the experimental data collected in the ME 134L
+Materials Engineering Laboratory course;
+ME 334 is a prerequisite for ME 338 Machine Elements and all the elective courses in the
+“Materials Engineering” area of the Mechanical Engineering curriculum.
+OUTCOMES
+ABET EC 2000 outcomes are: 1. knowledge of and ability to apply engineering and science fundamentals
+to real problems; and 8. ability and desire to lay a foundation for continued learning beyond the
+baccalaureate degree. ASME outcomes are: a) knowledge of chemistry and calculus-based physics with
+in-depth knowledge of at least one; and b) the ability to apply advanced mathematics through multivariate
+calculus and differential equations.
+Course Objectives: The properties and performance of engineering materials are controlled by crystal
+structure, bonding, composition, and microstructure. The overall objective of this course is that students
+learn to explain the observed properties of engineering materials on the basis of an understanding of
+fundamental concepts such as crystal structures, defects, diffusion and phase equilibria. To obtain this
+objective, the course establishes first the fundamentals of atomic structure and bonding, crystal
+structures, imperfections (defects), diffusion, phase diagrams and solidification. These ideas are then
+applied to the mechanical properties of the major classes of materials: metals and alloys, ceramics,
+polymers, and composites. The course concludes with a brief overview of the electrical, magnetic, and
+optical properties of materials. Some of the above concepts will also be demonstrated through laboratory
+experiments taught in a separate laboratory course, ME 134L Materials Engineering Laboratory.
+* Exams will be scheduled to correspond to appropriate break points in the subject matter. You
+will be informed of the exact date no later than one week before the exam.
+Final Exam: Date and location assigned by UT. The final exam must be taken at the time and on the
+date given in the Course Schedule. All exams are closed book and closed notes, and no personal scratch
+paper may be used. You may use a calculator (or a slide rule), a straight edge may be useful.
+Homework Assignments will be due approximately once per week. Completed assignments must be
+turned in at the beginning of lecture on the assigned due dates. Late homework assignments will not be
+accepted since it is unfair to everyone else. Solutions to assignments will be provided at the end of lecture
+on the assigned due dates. Students are encouraged to discuss the homework exercises and work
+together to understand solution strategies, but the solutions turned in by each student must be the final
+work of the individual student. At the end, you really are just cheating yourself by copying homework from
+others.
+                                                                                                            4
+
+
+All Exams, except the final exam, will be conducted during normal lecture periods in the assigned
+classroom on dates specified by the instructor. Each in-class exam will be timed for fifty (50)
+minutes. The final exam is cumulative and will be conducted only at the assigned time and location
+scheduled by the University. All exams are closed book and closed notes. The only items allowed for use
+during exams are calculators, pencils, pens, straight edges and drafting triangles. The memory of any
+programmable calculator must be cleared prior to its use for exam.
+Regrades: Refer to the General Information Catalog, available on-line, for University policy on regrades.
+PREREQUISITES:
+Completion of CH 301, ME 302, PHY 303K and PHY 103M with a grade of at least C− in each; credit or
+registration for ME 134L, PHY303L, PHY 103N and EM 319; admission to an appropriate major sequence
+in engineering.
+NOTES:
+Skeletal Lecture Notes will be Available on Canvas. It is the students’ responsibility to come to
+class to fill out the necessary details. The post-lecture filled-in notes will NOT be posted on
+Canvas. So if you don’t come to class, it’s your responsibility to obtain the notes from other
+students or to learn the content from the textbook.
+Lecture Philosophy: Out of respect for your fellow students and for the professor please do not
+hold private conversations during the lecture portion of the class. The professor takes this very
+seriously. If you have something urgent to say, please feel free to leave the classroom.
+Course Content Philosophy: My philosophy is that you might as well learn the fundamentals of
+corrosion properly now, rather than having to continuously struggle with this throughout your
+career. However, for most of us it is the practical examples that make the material sink in. So what
+we will do is to go back and fourth between basic theory and engineering applications. Initially
+the material will start out heavy on the theory side since without the fundamental understanding
+the applications are meaningless. Please note that this is a high-level engineering course, not a
+survey of technologies and methods.
+Grading:
+Course grades will be calculated using scores from three in-class exams, a final exam, homework
+assignments and quizzes/class participation, with weights given in the table below on the left. Letter
+grades will be assigned based on these scores, as given in the table below on the right. Plus/minus
+designations will be used for grades near the boundaries of the letter-grade transitions shown in the table.
+Exam 1: 25%
+Exam 2: 25%
+Final Exam: 40%
+Homework: 10%
+                                                                                                           5
+
+
+Topic Topics                                                                     Reading
+/Week (approximate outline, see Course Notes for Key Concepts)
+      Introduction, Elasticity, Stress – Strain, Stress – Strain Diagrams, Course Notes 1,
+1     Hardness                                                                   Callister Ch 6
+      Exams 1 - 2 NOT Cumulative, Final Exam – YES Cumulative
+2     Atomic Bonding                                                             Course Notes 2,
+                                                                                 Callister Ch 2
+3     Crystallography and Crystal Structures                                     Course Notes 3
+      Exam 1 on Topics 1 - 3                                                     Callister Ch 3,4
+4     Basics of Phase Transformations, Diffusion and Phase Diagrams              Course Notes 4
+                                                                                 Callister Ch 5, 9
+5     Crystal Defects - Dislocations, Grain Boundaries,                          Course Notes 5
+      Deformation Mechanisms including Creep                                     Callister 7, 10
+      Exam 2 on Topics 4 - 5
+6     Kinetics of phase transformations and solidification,                      Course Notes 6
+      Solid-state transformation kinetics, the Fe-C system                       Callister 9, 10
+7     Steels structure, heat treatment of ferrous and non-ferrous alloys, creep, Course     Notes  7
+      sensitization and other bad things that happen at high temperatures        Callister 10,
+8     Ceramics                                                                   Course Notes 8
+                                                                                 Callister 13,
+                                                                                      6
+
+
+                                   COURSE ROADMAP
+   Section 1        Elastic and Plastic Flow: Metals and Polymers
+Topics covered:
+1) Elastic stress-strain relations
+2) Understanding the stress-strain curve of steels and other metals.
+3) Plastic flow: ductility, toughness and failure
+4) Deformation and simplified structure of polymers
+Significance: To align well with the 134L Mat Sci Laboratory, we start with mechanical properties
+of metals and polymers. Some of you have had this content in other courses. This section is not
+meant to be mathematically difficult, but rather to set the stage for understand what happens
+“inside” the material when it is deformed and why some metals are brittle while others are ductile.
+By the time this class is over, you should be able to look at a stress-strain curve and go “hey, I
+understand why this steel fails early, or why this aluminum alloy is really deformable.” Viewed this
+way, this section sets the stage for the resto of the course.
+Required Reading: Course Notes #1
+Recommended Reading: Callister Ch 6, 15
+                                                                                                   7
+
+
+          Section 2          Atomic Bonding
+Topics covered:
+1) Bonding in covalent, ionic and metallic materials
+2) How elastic properties scale with bonding and with melting point.
+Significance: Since this is a materials science and not a chemistry course, this section will be fairly short.
+Its purpose is primarily to give a background on why certain materials are very elastically stiff, e.g.
+tungsten, while others are elastically soft, e.g. lead or lithium metal.
+Required Reading: Course Notes #2
+Recommended Reading: Callister Ch 2
+           Section 3          Materials Science Crystallography
+  Topics covered:
+  1) Definition of a crystal and of a unit cell, atom locations
+  2) Crystallographic directions and planes (Miller Indices)
+  3) Linear, planar and volumetric atomic density
+  4) Angles between planes and between directions in cubic crystals
+  5) Working with HCP crystals.
+  6) Bravais lattices
+  Significance: Crystallography is the language materials engineers use to communicate
+  what is happening in their materials. For example, during the ductile-to-brittle transition, Fe
+  cleaves on the (001) planes; (001) Si is the standard substrate for semiconductors;
+  deformation in aluminum alloys occurs on the <110> (111) system; and extruded wire
+  usually displays a <111> or <110> type of texture. It is thus critical for you to become fluent
+  in crystallographic notation.
+  Required Reading: Course Notes #3
+  Recommended Reading: Callister Ch 3,4
+                                                                                                             8
+
+
+         Section 4   Phase Diagrams and Thermodynamics
+Topics covered:
+1) Overview of phase diagrams
+2) The Phase Rule, the Lever Rule
+3) Solid solution basics
+4) Eutectic microstructures
+5) Basic solution thermodynamics
+Significance: Phase diagrams are the meat-and-potatoes of materials science and being fluent in them
+will give you a major edge in the workplace. Phase diagrams are a map of what exists at what
+temperature and metallurgical composition. Armed with that understanding, you should be able to predict
+basic metallurgical properties of industrial alloys. We will also cover some solution thermodynamics to put
+what you measure into the proper theoretical context. That portion will be relatively brief, mostly it’s about
+being able to fluently read and predict the phases present and their compositions.
+Required Reading: Course Notes #4
+Recommended Reading: Callister 5, 9
+                                                                                                               9
+
+
+        Section 5         Crystal Defects - Dislocations, Grain Boundaries,
+                          Deformation Mechanisms including Creep
+Topics covered:
+1) Vacancies in crystalline materials.
+2) General definition of a dislocation; Burgers vector, line direction, slip plane
+3) Perfect dislocations in fcc metals and balancing dislocation reactions.
+4) Stacking faults and partial dislocations in fcc metals.
+5) Perfect dislocations in bcc metals and hcp metals.
+6) Dislocation Slip and Dislocation Creep
+Significance: Defects in materials can be either very beneficial or very detrimental, and the ability to
+manipulate them is the bread-and-butter of a materials engineer. No other discipline knows how to do
+this, though physicists and electrical engineers often try without much success. By developing a
+fundamental quantitative understanding of the nature defects in materials, you will be able to make a
+tremendous impact in a company’s bottom line, with the associated material rewards coming your way.
+In this chapter you will become familiar with the only defect that is always present in materials - a
+vacancy, and a defect almost solely responsible for deformation (or lack of it) in metals, ceramics and
+semiconductors - the dislocation.
+In the Al alloy industry (Alcan, etc.) control of vacancies is critical for processing of strong alloys. It is the
+vacancies retained from hot processing (400°C and above) of Al alloys that aid the low temperature
+precipitation hardening that gives commercial alloys their high strength.
+Required Reading: Course Notes # 5
+Recommended Reading: Callister 7, 10
+                                                                                                                   10
+
+
+         Section 6    Kinetics of Phase Transformations and Solidification
+Topics covered:
+1) Temperature Time Transformation (TTT) Diagrams
+2) Martensite, Bainite, Pearlite
+3) Solidification Structures
+4) Cast Iron and Steel Structures
+Significance
+This is an “applied”, “industrially relevant” section where you will get your first taste of real solid-state phase
+transformations as applied to real commercial processes. The seemingly abstract diffusional reactions constitute
+the absolute core of commercial metallurgy.
+This section covers the key topic of diffusion and martensite formation, but does it from an applied rather than an
+abstract vantage point. Without these there would literally be no structural alloys since non-heat treated metals
+both soft and brittle. Now that you know thermodynamics of solid phase transformations and crystallography and
+defects, you can start to integrate this knowledge to understand these important topics. If I taught you diffusional
+phase transformations before you learned sections 1 and 2 it would have been a confusing mess.
+Practically speaking few commercial alloys are purely martensitic, since this phase in its untempered state is very
+brittle. So most often martensite formation is something to be avoided at all costs or at least neutralized with a
+post heat treatment.
+Required Reading: Course Notes 6
+Recommended Reading: Callister Ch 9, 10
+                                                                                                                     11
+
+
+          Section 7     Applied Phase Transformations: Heat treatment of alloys (includes diffusion
+                        and martensite formation)
+Topics covered:
+1) Heat treating of nonferrous alloys (includes basics of precipitation hardening and diffusion)
+2) Heat treating of steel (includes section on basics of martensite and bainite formation)
+Significance
+This is an “applied”, “industrially relevant” section where you will get your first taste of real solid-state phase
+transformations as applied to real commercial processes. The seemingly abstract diffusional reactions constitute
+the absolute core of commercial metallurgy.
+This section covers the key topic of diffusion and martensite formation, but does it from an applied rather than an
+abstract vantage point. Without these there would literally be no structural alloys since non-heat treated metals
+both soft and brittle. Now that you know thermodynamics of solid phase transformations and crystallography and
+defects, you can start to integrate this knowledge to understand these important topics. If I taught you diffusional
+phase transformations before you learned sections 1 and 2 it would have been a confusing mess.
+Practically speaking few commercial alloys are purely martensitic, since this phase in its untempered state is very
+brittle. So most often martensite formation is something to be avoided at all costs or at least neutralized with a
+post heat treatment.
+Required Reading: Course Notes 7
+Recommended Reading: Callister Ch 10
+                                                                                                                     12
+
+
+       Section 8   Ceramics
+Topics covered:
+1) Chemistry,
+2) Structure,
+3) Vacancies,
+4) Mechanical Properties
+5) Processing
+Significance
+Ceramics are part of this course, although not a primary focus. Here we will cover the basics.
+Required Reading: Course Notes 8
+Recommended Reading: Callister Ch 12, 13
+                                                                                               13

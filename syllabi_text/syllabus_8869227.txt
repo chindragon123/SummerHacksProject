@@ -1,0 +1,315 @@
+AET 316: Foundations of New Performance Technology / Smith                                    Fall 2018
+                                                    Fall 2018
+              AET 316: Foundations of New Performance Technologies – Unique # 20885
+                      Monday / Wednesday 10:00am – 11:30am WIN 1.138 & PAC 3.204
+Instructor:     Matthew R. Smith
+Office Hours: M, W: 1:00pm – 2:00pm and by appointment
+                T, TH: 10:00am – 11:00am and by appointment
+Email:          matt.smith@austin.utexas.edu
+TA:             Alex Gendal, alexgendal@utexas.edu
+COURSE DESCRIPTION:
+This course is a lecture / lab course designed to introduce students to the basic concepts, methods,
+and systems utilized in the field of Live Entertainment. The primary focus is to explore core
+technologies and illuminate how each area of work within Projection, Lighting and interactivity relates
+and is connected to others. Through a mixture of lectures and lab classes the students will be
+introduced to the tools and techniques prevalent in four specific applications of Live Entertainment:
+projection, conventional & intelligent lighting, 3-D previsualization, and interactive & generative
+imagery. Topics include the historical landmarks of interactive performance, projection system
+design, media servers, common signal and data formats, imagery creation for live performance, and
+current trends in live event technology. Student activities include: programming lights, controlling
+media servers, and designing an interactive projection system.
+LEARNING OUTCOMES:
+By the end of the semester, students should be able to:
+• apply principles and elements of design;
+• create and implement original lighting designs;
+• effectively troubleshoot an interactive system;
+• critically examine projection techniques
+COURSE MATERIALS:
+•   8GB maximum USB drive
+•   Pencil
+•   1 – notebook (small or medium in size, easily accessible for notetaking and may be used during
+    quizzes)
+COURSE REQUIREMENTS:
+• Quizzes (10%): A total of 5 quizzes will be administered throughout the semester.
+•   Project 1 (10%):   QLab – complete preliminary show file
+•   Project 2 (20%):   QLab – performance
+•   Project 3 (10%):   Hog 4 – complete LightConverse project folder & connectivity with Hog 4 PC
+•   Project 4 (20%):   Hog 4 – performance
+•   Project 5 (10%):   disguise – proof of concept & feedback
+•   Project 6 (20%):   disguise – performance
+
+
+AET 316: Foundations of New Performance Technology / Smith                                      Fall 2018
+GRADING:
+Quizzes                                                                                              10%
+Project 1                                                                                            10%
+Project 2                                                                                            20%
+Project 3                                                                                            10%
+Project 4                                                                                            20%
+Project 5                                                                                            10%
+Project 6                                                                                            20%
+                                                                                                    100%
+If you submit your assignment late it will not be reviewed in class.
+All work is due as specified in the assignment listed in canvas. Work not completed prior to the
+canvas deadline will be considered late.
+Any work turned in late, regardless of the excuse, will result in a grade reduction of one full letter for
+each calendar date it is late (an A would become a B and so on).
+In summary:
+Every assignment has a due date and time.
+I do accept work after the due date, however, assignments automatically lose one full letter
+grade for every calendar date submitted late and they will not be reviewed in class.
+Any work turned in more than 4 calendar days late will receive an automatic F. If you are having difficulty
+completing your work on time, please speak to me privately prior to the deadline, so we may discuss a
+possible arrangement.
+                       All assignments will be graded within 7 days of submission date.
+Grading Scheme
+A- Represents outstanding participation in all course activities. All assigned work must be completed
+on time and with a very high quality of demonstrated skill and technique. There is an evidence of
+significant development across all dimensions of learning. The result at this level demonstrates activity
+that goes significantly beyond the required course work in one or more areas.
+B- Represents excellent participation in all course activities; all assigned work must be completed on
+time with consistently high quality in course work. There is an evidence of marked development
+across all dimensions of learning.
+C- Represents good participation in all course activities; all assigned work completed, with generally
+good quality in course work. There is evidence of some development across all dimensions of
+learning.
+D- Represents uneven participation in all course activities; some gaps in assigned work completed,
+with inconsistent quality in course work. The evidence of development across all dimensions of
+learning is unclear.
+F- Represents minimal participation in all course activities; serious gaps in assigned work completed,
+or very low quality in course work. Development evidence is not available.
+Please Note: If you are concerned about your grade – check in with us regularly so that we can
+determine where you’re at, and what might need to be done to correct any problems. Do not wait
+until the end of the semester!
+                                              Page 2
+
+
+AET 316: Foundations of New Performance Technology / Smith                                      Fall 2018
+ATTENDANCE:
+ATTENDANCE IS MANDATORY - Being a professional requires a habit of discipline and rigor.
+Professionals in the arts achieve at the highest level when they work with determination and
+dedication to detail. Your attention to attendance and lecture information gathering is an important
+element of establishing professional standards and practices. The course lectures and discussions will
+involve a significant amount of information that will not be available in any other form (textbook,
+handouts); therefore, regular attendance is necessary for successful completion of the class.
+If you need to miss class for legitimate reasons it is your responsibility to contact me directly with this
+information. Sending a message by way of another student of an impending absence does not
+constitute a legitimate notification.
+For each unexcused absence after your first three, your final grade will be lowered by one letter
+grade. Seven unexcused absences constitute an automatic F in the class.
+Please be on time for class. If you are more than 5 minutes late for class you will be counted as
+tardy. Every two instances you are tardy will be counted as one time absent.
+Privacy
+What we say about each other’s work during this class should remain in the classroom. It will not be
+published in a blog or on any other personal website, tweeted, or posted on social networks. Please
+respect each other’s work.
+Resources
+reference online:
+www.figure53.com
+www.highend.com
+www.disguise.one
+UTIM Wiki
+CLASS CALENDAR
+Instructor reserves the right to adjust the calendar to fit the needs of the class.
+Week 1:
+ Wednesday: August 29th
+ -Introduction
+ -Syllabus overview
+ -Tour
+Week 2:
+ Monday: September 3rd
+ LABOR DAY – NO CLASS
+Week 2:
+ Wednesday: September 5th
+ -Projection Design overview (role of designer, engineer, operator)
+ -Samples of projection designs shown (Matt & Alex)
+ -Projection Engineering overview (projection plot, section, system diagram & equipment list)
+ -Samples shown (Matt & Alex)
+ -Discussion: how to choose playback system
+                                             Page 3
+
+
+AET 316: Foundations of New Performance Technology / Smith                          Fall 2018
+Week 3:
+ Monday: September 10th
+ -QLab overview (interface, audition window, screens vs surfaces, mapping)
+Week 3:
+ Wednesday: September 12th
+ -QLab continued (cue lists, auto-continue & auto-follow, effects, fades, audio)
+Week 4:
+ Monday: September 17th
+ -QLab continued (sample work from Matt & Alex)
+ -QLab Q&A (specific ideas or challenges)
+Week 4:
+ Wednesday: September 19th
+ -*DUE – Project 1*
+ -QLab Q&A (1 on 1 with Matt or Jon on a per project basis)
+Week 5:
+ Monday: September 24th
+ -Projection Equipment in detail (projectors, signal distribution)
+Week 5:
+ Wednesday: September 26th
+ -Projection Equipment in detail (projection surfaces, mounting & rigging hardware)
+Week 6:
+ Monday: October 1st
+ -*DUE – Project 2*, Presentation Day
+Week 6:
+ Wednesday: October 3rd
+ -Project 2 Presentations continued
+ -Lighting Design overview (role of designer, engineer, operator)
+ -LightConverse overview (interface, editor, visualizer, 3D model library)
+Week 7:
+ Monday: October 8th
+ -LightConverse continued (adding fixtures & props)
+ -LightConverse continued (object textures, custom object scaling)
+Week 7:
+ Wednesday: October 10th
+ - Hog 4 PC overview (console layout, windows, fixture library)
+                                           Page 4
+
+
+AET 316: Foundations of New Performance Technology / Smith              Fall 2018
+Week 8:
+ Monday: October 15th
+ -Hog 4 PC continued (patching, user numbers, programmer, cue lists)
+Week 8:
+ Wednesday: October 17th
+ -LightConverse Q&A (1 on 1 with Matt or Alex on a per project basis)
+ -Hog 4 PC continued (LightConverse connectivity, cuelist introduction)
+Week 9:
+ Monday: October 22nd
+ -*DUE – Project 3*
+Week 9:
+ Wednesday: October 24th
+ -in-class work day
+Week 10:
+ Monday: October 29th
+ -in-class work day
+Week 10:
+ Wednesday: October 31st
+ -*DUE – Project 4*, Presentation Day
+Week 11:
+ Monday: November 5th
+ - Project 4 Presentations continued
+Week 11:
+ Wednesday: November 7th
+ - disguise overview (interface, timeline, menus, feedmap)
+Week 12:
+ Monday: November 12th
+ -disguise continued (cues, play variations, projector calibration)
+Week 12:
+ Wednesday: November 14th
+ -disguise continued (UV maps)
+Week 13:
+ Monday: November 19th
+ -disguise Q&A (1 on 1 with Matt or Alex on a per project basis)
+Week 13:
+ Wednesday: November 21st
+ -THANKSGIVING HOLIDAY – NO CLASS
+                                             Page 5
+
+
+AET 316: Foundations of New Performance Technology / Smith                                     Fall 2018
+Week 14:
+ Monday: November 26th
+ -in-class work day
+Week 14:
+ Wednesday: November 28th
+ -*DUE – Project 5*
+ -in-class work day
+Week 15:
+ Monday: December 3rd
+ -in-class work day
+Week 15:
+ Wednesday: December 5th
+ -*DUE – Project 6*
+Week 16:
+ Monday: December 10th
+ -Project 6 Presentations continued
+ -LAST CLASS DAY
+                POLICIES OF THIS COURSE AND THE UNIVERSITY OF TEXAS
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+complete the missed work within a reasonable time after the absence.
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-
+drop deadline, which typically occurs near the middle of the semester. Under Texas law, you are only
+allowed six Q drops while you are in college at any public Texas institution. For more information,
+see: http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+Student Accommodations
+Students with a documented disability may request appropriate academic accommodations from
+the Division of Diversity and Community Engagement, Services for Students with Disabilities,
+512-471-6259 (voice) or 1-866-329-3986 (video phone). http://ddce.utexas.edu/disability/about/
+     • Please request a meeting as soon as possible to discuss any accommodations
+     • Please notify me as soon as possible if the material being presented in class is not accessible
+     • Please notify me if any of the physical space is difficult for you
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code:
+                                             Page 6
+
+
+AET 316: Foundations of New Performance Technology / Smith                                     Fall 2018
+     “As a student of The University of Texas at Austin, I shall abide by the core values
+     of the University and uphold academic integrity.”
+This means that work you produce on assignments, tests and exams is all your own work, unless it is
+assigned as group work. I will make it clear for each test, exam or assignment whether collaboration is
+encouraged or not.
+Always cite your sources. If you use words or ideas that are not your own (or that you have used in
+previous class), you must make that clear otherwise you will be guilty of plagiarism and subject to
+academic disciplinary action, including failure of the course.
+You are responsible for understanding UT’s Academic Honesty Policy which can be found at the
+following web address: http://deanofstudents.utexas.edu/sjs/acint_student.php]
+University Resources for Students
+The university has numerous resources for students to provide assistance and support for your
+learning, use these to help you succeed in your classes.
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+Center each year to improve their academic performance? All students are welcome to take advantage
+of Sanger Center’s classes and workshops, private learning specialist appointments, peer academic
+coaching, and tutoring for more than 70 courses in 15 different subject areas. For more information,
+please visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+The University Writing Center
+The University Writing Center offers free, individualized, expert help with writing for any UT student,
+by appointment or on a drop-in basis. Consultants help students develop strategies to improve their
+writing. The assistance we provide is intended to foster students’ resourcefulness and self-reliance.
+http://uwc.utexas.edu/
+Counseling and Mental Health Center
+The Counseling and Mental Health Center (CMHC) provides counseling, psychiatric, consultation,
+and prevention services that facilitate students' academic and life goals and enhance their personal
+growth and well-being. http://cmhc.utexas.edu/
+Student Emergency Services
+ http://deanofstudents.utexas.edu/emergency/
+ITS
+Need help with technology? http://www.utexas.edu/its/
+Libraries
+Need help searching for information? http://www.lib.utexas.edu/
+Canvas
+Canvas help is available 24/7 at https://utexas.instructure.com/courses/633028/pages/student-
+tutorials
+                                             Page 7
+
+
+AET 316: Foundations of New Performance Technology / Smith                                     Fall 2018
+Important Safety Information
+BCAL
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call
+BCAL (the Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If
+something doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+Evacuation Information
+The following recommendations regarding emergency evacuation from the Office of Campus
+Safety and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when an alarm or alert is activated. Alarm activation or announcement requires exiting and
+assembling outside, unless told otherwise by an official representative.
+     • Familiarize yourself with all exit doors of each classroom and building you may occupy.
+         Remember that the nearest exit door may not be the one you used when entering the building.
+     • Students requiring assistance in evacuation shall inform their instructor in writing during the
+         first week of class.
+     • In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-
+         enter a building unless given instructions by the following: Austin Fire Department, The
+         University of Texas at Austin Police Department, or Fire Prevention Services office.
+Link to information regarding emergency evacuation routes and emergency procedures can be found
+at: www.utexas.edu/emergency
+                                             Page 8

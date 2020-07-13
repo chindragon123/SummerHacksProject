@@ -1,0 +1,176 @@
+                  ME 353 Engineering Finance - Summer 2020
+Place and time: Zoom Class Meetings (Live and recorded): M W Th 1:00 - 3:30 pm
+Professor:      Erhan Kutanoglu (a.k.a. Dr. K)
+Office:         ETC 5.114
+Office Hours:   M Th 12:15 - 12:45 pm via Zoom (If you need to see me outside of the office hours, please
+                send me an e-mail to make an appointment.)
+e-mail:         erhank@mail.utexas.edu
+Teaching         Name                      Office Hours                    E-mail                   Office
+Assistant:      Ashutosh Shukla         M Th 3:30-4:00pm        ashutosh.shukla@utexas.edu        ETC 5.138
+Class Web page Canvas: http://canvas.utexas.edu
+Course          ME 353. Engineering Finance.
+Description     Evaluating the financial impact of engineering decisions. Comparing alternatives with cash
+                flow analysis considering rate of return, inflation, and taxes, with emphasis on analyzing
+                risk. Managing complex projects with activity scheduling and resource allocation
+                considering cash flows. Methods include probabilistic analysis and simulation. Three
+                lecture hours and two discussion hours a week for one semester.
+                Prerequisites:
+                Mathematics 408C, Mechanical Engineering 205 or 318M, and 335 with a grade of at least
+                C in each, and admission to an appropriate major sequence in engineering.
+Objective       The purpose of this course is to relate engineering decisions to the larger goals of business
+                and government. Decisions made by design and manufacturing engineers require the
+                expenditure of capital and affect the profitability of the organization. In addition to
+                technical competence, engineering decisions must have economic justification. With this
+                course the student will learn about the economic effects of decisions and methods for
+                comparing engineering alternatives using economic criteria. The professor and TAs are
+                dedicated to continually improving the teaching/learning activities of this course. We
+                expect that the students will join us in this dedication.
+Text            Fundamentals of Engineering Economics (Fourth Edition)
+                Chan S. Park
+                Pearson/Prentice Hall
+                ISBN: 0-13-487007-7
+                https://www.vitalsource.com/referral?term=9780134872728
+                With MyLab Access – ISBN: 0134872754
+                The textbook has an accompanying website: http://www.pearsonhighered.com/park/
+Computational   Microsoft Excel
+Tools
+
+
+Lessons       I plan to hold live (and hopefully interactive) Zoom sessions at our scheduled class times.
+              Please try to attend the live session if at all possible. I plan to record the live session and
+              upload the recording after each class. You will also have access to PowerPoint slides and
+              other material on Canvas. This will be useful for students who miss the live class session or
+              for anyone for reviewing later on. We will rely on Canvas and Zoom, so if you experience
+              any problems with either, please let me know as soon as possible so that we can get help to
+              fix them.
+TA Discussion You will have weekly discussion sessions with your TA. There will be specific assignments
+Sessions      (case studies or events) to be done during your session and to be submitted via Canvas. You
+              will earn learning activities points from your discussion session events, ranging from 0 to 4.
+Homework      Homework assignments are done as individuals. They are due 11:59pm on the scheduled
+              due date via Canvas. Homework credit is awarded to the learning activities portion of the
+              grade. On each homework assignment, you receive 0, 1, 2, or 3 points. You receive 3 points
+              if you did all of the problems correctly. You receive 2 points if you made a decent effort to
+              do the homework and did most of the problems correctly. You receive 1 point if you only
+              put in relatively little effort in doing the homework. 0 points are awarded if you do not hand
+              in an assignment, or for all intents and purposes, your answers are equivalent to zero effort.
+Exams         There is one midterm exam, scheduled as follows:
+                            o Exam 1: June 24
+              There will be a comprehensive final exam scheduled for July 10, 9:00 am - 12:00 pm.
+              All students must take the exams and quizzes when scheduled. There will be no make-up
+              exams, except for a documented medical emergency.
+              Exams will cover material from the textbook and lecture. Exams will be open book and
+              open notes. You may use a calculator (including financial calculators) or Excel during the
+              exams. However, you must clearly show your work including cash flow diagrams and
+              all formulas used in your solution. Your work needs to be such that someone could
+              reproduce your answer without the use of a financial calculator or spreadsheet. No credit
+              will be given for a problem where this is not the case.
+Grading       There are two grade components for this course:
+                   • Learning Activities: 0-30%, and
+                   • Exams: 70-100%.
+              The points for the learning activities (homework assignments and discussion session
+              events) are added up to find a learning activities score and truncated to a maximum of 30.
+              The total weight of the three exams is 100% (each exam equally weighted) minus the
+              number of points earned for the learning activities.
+              For example, if a student accumulates 30 LA points during the semester, and earns 75% and
+              85% on the exams, then the final grade will be 30 + (100 - 30) * (75 + 85)/200 = 86. If, on
+              the other hand, a student accumulates only 5 points during the semester, and earns 75% and
+              85% on the exams, then the final grade will be 5+(100-5)*(75+85)/200 = 81. If a student
+              with the same exams did not earn any LA points, the final grade will be 100*(75+85)/200 =
+              80.
+              If your overall weighted average falls within one of the following ranges, you are
+              guaranteed one of the letter grades for the corresponding range.
+                                                                                                          2
+
+
+                                                    Average Overall Score            Letter Grade
+                                                           90 - 100%                    A or A-
+                                                            80 - 90%                 B+, B, or B-
+                                                            70 - 80%                 C+, C, or C-
+                                                            60 - 70%                 D+, D, or D-
+                                                          Below 60%                        F
+               Important Remarks:
+               • Note that doing homework or events, even only a few assignments, can never lower
+                    your course average.
+               • I will be comparing your overall class average against everyone else's average,
+                    including homework and events performance. Therefore, it is quite likely that someone
+                    who has a lower test average yet did more homework and events will obtain a better
+                    letter grade than you.
+Regrading      If you feel that you weren't graded fairly on an exam question, first look at the solution key,
+               then write a note to your TA explaining how your answer compares to the posted solution
+               and why you think you deserve more credit. Hand in your note and exam to your TA or me
+               no later than 1 week after the exam is returned. If you have a question about homework
+               grading, you can discuss it with your TA, again with a note that explains your reason for
+               deserving more credit.
+Scholastic     The core values of The University of Texas at Austin are learning, discovery, freedom,
+Dishonesty     leadership, individual opportunity, and responsibility. Each member of the university is
+               expected to uphold these values through integrity, honesty, trust, fairness, and respect
+               toward peers and community. Students who violate University rules on scholastic
+               dishonesty are subject to disciplinary penalties, including the possibility of failure in the
+               course and dismissal from the University. Since dishonesty harms the individual, fellow
+               students, and the integrity of the University, policies on scholastic dishonesty will be
+               strictly enforced. Cheating will not be tolerated, and incidents of dishonesty will be
+               reported. For more information, and for what constitutes "cheating," see:
+               http://deanofstudents.utexas.edu/sjs/scholdis.php and http://catalog.utexas.edu/general-
+               information/student-services/discipline/.
+Students with  The University of Texas at Austin provides, upon request, appropriate academic
+Disabilities   adjustments for qualified students with disabilities. Students with disabilities may request
+               appropriate academic accommodations from the Division of Diversity and Community
+               Engagement, Services for Students with Disabilities, 512-471-6259,
+               http://diversity.utexas.edu/disability/. Please provide proper documentation from the SSD
+               Office at the beginning of the semester.
+Course         Please feel free to share any feedback you have during the semester and I will consider and
+Evaluation     try to incorporate your suggestions into our teaching throughout the semester. Near the end
+               of the semester, you will have an opportunity to anonymously evaluate the course and
+               instructor using the standard Cockrell School of Engineering evaluation form. Your
+               comments during and at the end of the semester will be greatly appreciated!
+Religious Holy By UT Austin policy, you must notify me of your pending absence at least fourteen days
+Days           prior to the date of observance of a religious holy day. If you must miss a class, an exam, a
+               work assignment, or a project in order to observe a religious holy day, you will be given an
+               opportunity to complete the missed work within a reasonable time after the absence.
+Dropping       An engineering student must have the Dean's approval to add or drop a course after the 2nd
+               class day of the semester. A student seeking to drop a class after the 2nd class day should
+               visit the Cockrell School of Engineering Student Services, EER 2.848, 471-4321.
+                                                                                                        3
+
+
+Canvas       This course uses Canvas, a Web-based course management system in which a password
+             protected site is created for each course. (Student enrollments in each course are updated
+             each evening.) Canvas can be used to distribute course materials, to communicate and
+             collaborate online, to post grades, to submit assignments, and to take online quizzes and
+             surveys. You will be responsible for checking the Canvas course site regularly for class
+             work and announcements.
+E-mail       In this course e-mail will be used as a means of communication with students. You will be
+Notification responsible for checking your e-mail regularly for class work and announcements. Note: if
+Policy       you are an employee of the University, your e-mail address in Canvas is your employee
+             address. The complete text of this policy and instructions for updating your e-mail address
+             are available at https://cio.utexas.edu/policies/university-electronic-mail-student-
+             notification-policy.
+Web Site and Web-based, password-protected class sites are associated with all academic courses taught
+Privacy      at The University. The syllabus, handouts, assignments and other resources are types of
+             information that may be available within this site. Site activities could include exchanging
+             e-mail, engaging in class discussions and chats, and exchanging files. In addition, a class e-
+             mail roster will be a component of the sites. Students who do not want their names included
+             in this electronic class roster must restrict their directory information in the Office of the
+             Registrar, Main Building, Room 1.
+Tentative    Please note: We may not cover all these topics and the order may be slightly different. We
+Outline      may make adjustments during the semester.
+             Foundations
+             Chapter 1 – Engineering Economic Decisions
+             Chapter 2 – Time Value of Money
+             Chapter 3 – Understanding Money Management
+             Decision Making
+             Chapter 5 – Single Project Present-Worth Analysis
+             Chapter 6 – Single Project Annual-Equivalence Analysis
+             Chapter 7 – Single Project Rate-of-Return Analysis
+             Chapter 5 – Multi-Project Present-Worth Analysis
+             Chapter 6 – Multi-Project Annual-Equivalence Analysis
+             Chapter 7 – Multi-Project Rate-of-Return Analysis
+             Extension and Applications
+             Chapter 8 – Single and Multiple Public Projects and Benefit-Cost Analysis
+             Chapter 9 – Depreciation and Income Taxes
+             Chapter 12 – Replacement Decisions
+             Chapter 4 – Equivalence Calculations under Inflation
+             Incorporating Uncertainty
+             Chapter 11 – Handling Project Uncertainty
+             Notes – Decision Trees
+                                                                                                       4

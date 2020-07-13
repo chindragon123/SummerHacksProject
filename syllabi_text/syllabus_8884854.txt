@@ -1,0 +1,138 @@
+2D Game Development Capstone Syllabus
+Fall 2018: C S 354S with AET 376, RTF 344N, ART 379S, MUS 376J, T D 354T
+Class Meeting Time: M 12:30 – 2:00 and W 6:00 – 9:00 pm
+Room: GDC 6.202
+Instructor: Dr. Paul Toprac; email: topcat@cs.utexas.edu
+Office Hours: TH 3:30 – 5:00 (or email for an appointment)
+Office: GDC 6.318
+Proctor: Ben Johnson: bencj96@gmail.com
+Course Overview
+The Capstone is focused on learning how to create 2D games using industry standard tools
+and best practices in medium-size interdisciplinary teams. Topics covered are game
+ideation, prototyping, testing, and iterating. Teams use the agile/scrum development
+methodology as the framework for completing their games. Learning team dynamics, as
+well as development best practices, is core for creating games and the class. In addition,
+there is an emphasis on connecting the work performed in class to that being done in
+industry. Industry partners playtest games and provide feedback, and the class presents
+their post-mortems within a game studio. Students become prepared to find the
+appropriate position and ability to work within a studio environment. In the end, teams
+make awesome games to show prospective employers and the public!
+This course has the Independent Inquiry flag.
+Learning Outcomes
+     •   Execute to the agile development methodology
+     •   Apply industry best development practices
+     •   Develop and execute presentations
+     •   Create documentation and plans for action
+     •   Act and become an entry-level professional
+     •   Produce and present a 2D game in a medium-sized team
+Course Requirements
+1. Pre-requisites
+   Upper-division standing and consent of instructor.
+2. Textbooks, Software, Hardware
+   Recommended (Optional) books:
+         For Game Design: Level Up! by Scott Rogers
+         For Mobile Game Design: Swipe This!: The Guide to Great Touchscreen Game Design by Scott Rogers
+   Software: Unity 2018 is highly recommended but another game engine can be used with
+   permission of the instructor.
+   Hardware: It is very difficult to be successful in this class without a laptop.
+
+
+   3. Grading and Assessment
+                                              Points
+        Course Reflection                        5
+        Game Analyses                            5
+        Game Documentation                      15
+        Game Presentations                      25                 There is no
+        Game Test Reports                       15                 Final Exam!
+        Game Trailer                             5
+        Scrum Exam                               5
+        Team Evals                               5
+        Job Search Products                     10
+        Professionalism                         10
+                                 TOTAL          100
+4. Course Policies
+Attendance Policy
+Attendance and participation in all classes is expected, but if you cannot make it to class,
+there are consequences. Being consistently late to class is not cool and it will have a
+negative impact on your grade. Also, assignments are due at the beginning of class and
+there are consequences for turning in assignments after this time.
+Days Absent       Consequence             Cumulative
+    1-3                 Free                   Free
+      4               -1 point               -1 point
+      5              -2 points              -3 points
+      6              -4 points              -7 points
+      7              -8 points             -15 points
+      8             -16 points             -31 points
+        (on the 9 absence, you automatically fail)
+                 th
+Late Work Policy
+Hours Late        Consequence             Cumulative
+      1              -2 points              -2 points
+      2              -4 points              -6 points
+      3              -8 points             -14 points
+      4             -16 points             -30 points
+      5             -20 points             -50 points
+Computer Policy
+Your computer is to stay closed unless otherwise indicated by the professor. Mobile phones
+are not to be used in class. If there is an emergency, please leave the class.
+Professionalism
+This course is a preparation for employment in a studio. Therefore we expect you to act in
+class as you would in the workplace. While studios are often informal, they still require
+everyone to be respectful of others. Furthermore, attendance both for the class and when
+your team meets are critical. How your teammates view the quality and quantity of your
+work, as well as your team skills are important. Finally, how much work you produced, as
+recorded in agile dev software tool, will be considered.
+
+
+5. Final Grade Scale
+                Percent               Letter                                 Description
+                                      Grade
+                 94-100                A               Excellent scholarship
+                 90-93                 A-              Excellent scholarship
+                 87-89                 B+              Good scholarship
+                 84-86                 B               Good scholarship
+                 80-83                 B-              Good scholarship
+                 77-79                 C+              Fair scholarship
+                 74-76                 C               Fair scholarship
+                 70-73                 C-              Fair scholarship
+                  60-69                D               Poor scholarship
+             Less than 60              F               Failure
+6. Critical Dates (see UT Calendar for details) http://registrar.utexas.edu/calendars
+7. UT Policies
+The University of Texas Honor Code
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the University is expected to uphold these values through integrity,
+honesty, trust, fairness, and respect toward peers and community.
+Scholastic Dishonesty
+The University defines academic dishonesty as cheating, plagiarism, unauthorized collaboration, falsifying academic
+records, and any act designed to avoid participating honestly in the learning process. Scholastic dishonesty also
+includes, but is not limited to, providing false or misleading information to receive a postponement or an extension
+on a test, quiz, or other assignment, and submission of essentially the same written assignment for two courses
+without the prior permission of the instructor. By accepting this syllabus, you have agreed to these guidelines and
+must adhere to them. Scholastic dishonest damages both the student’s learning experience and readiness for the
+future demands of a work-career. Students who violate University rules on scholastic dishonesty are subject to
+disciplinary penalties, including the possibility of failure in the course and/or dismissal from the University. For more
+information on scholastic dishonesty, please visit the Student Judicial services Web site at
+http://deanofstudents.utexas.edu/sjs
+Undergraduate Writing Center
+The Undergraduate Writing Center, located in the FAC 211, phone 471-6222,
+http://www.utexas.edu/cola/centers/uwc/ offers individualized assistance to students who want to improve their
+writing skills. There is no charge, and students may come in on a drop-in or appointment basis.
+Services For Students With Disabilities
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students
+with disabilities. For more information, contact the Office of the Dean of Students at 471-6259, 471- 4641 TTY.
+Religious Holidays
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in order
+to observe a religious holy day, you will be given an opportunity to complete the missed work within a reasonable
+time after the absence.
+University Electronic Mail Notification Policy
+All students should become familiar with the University’s official e-mail student notification policy. The complete text
+of this policy for updating your e-mail address are available at http://www.utexas.edu/its/policies/emailnotify.html.
+In this course e-mail will be used as a means of communication with students. You will be responsible for checking
+your e-mail regularly for class work and announcements.
+Campus Safety
+Regarding emergency evacuation: 512-471-5767, http://www.utexas.edu/safety. Evacuate buildings when a fire
+alarm is activated. Alarm activation or announcement requires exiting and assembling outside. Further information
+regarding emergency evacuation routes and emergency procedures can be found at:
+http://www.utexas.edu/emergency. For Behavior Concerns Advice Line (BCAL): 512-232-5050.

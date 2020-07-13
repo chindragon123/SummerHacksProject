@@ -1,0 +1,329 @@
+                                                                                                               1
+                                           Numbering Race
+                                             (AFR 302M/ SDS 310T)
+                                                       Fall 2018
+                                         Flag: Quantitative Reasoning
+                                                  Mathematics (I)
+Dr. Marcelo Paixão – African and African Diaspora Studies Department (AADS) / Teresa
+                          Lozano Long Institute of Latin American Studies (LLILAS)
+               Tarsila do Amaral (Brazil 1886-1973) – Central do Brasil [Central Station] (1942). Contemporary
+               Art Museum of São Paulo. The UT Art & Art History Visual Resources Collection
+
+
+                                                                                                2
+1. Course Instructor and TA
+Instructor: Dr. Marcelo Paixão
+Email: marcelopaixao@utexas.edu
+Office Hours: By appointment
+2. Objectives of the course
+In this course, the students will learn about quantitative methodology and statistics through the
+lens of race relations. All of you will have the opportunity to examine, analyze, and critique
+real-world data, quantitative research, and public discourse concerning race in America and, as
+much as possible, in Latin America. Some empirical and quantitative skills that the students will
+learn this semester include: i) conceptualization and operationalization in quantitative
+measurement; ii) the calculation and interpretation of descriptive statistics and statistical
+relationships; iii) the application of statistical techniques to understand social phenomena; and
+iv) techniques for presenting results from quantitative analysis.
+We will discuss critical quantitative methods as they apply to the study of racial and social
+injustice and inequality. As we cover various statistical techniques, you will also be introduced
+to the origins of the term race, the quantitative actions that justify racial thinking and impact
+our current collective and individual understandings of race.
+This course satisfies the core math requirement and carries the quantitative reasoning flag.
+3. Course Requirements
+3.a. Required Readings/ Materials
+     ü Leon-Guerrero, Anna, and Chava Frankfort-Nachmias. 2015. Essentials of Social Statistics
+        for a Diverse Society. Thousand Oaks, CA: Sage Publications, Inc. (LGFN);
+     ü Scientific calculator;
+     ü Basic knowledge of Excel Microsoft
+     ü Optional: Wagner, William E. – Using IBM SPSS Statistics for research methods and
+        social science statistics. Los Angeles: SAGE, 2017, 6th edition.
+     ü Optional: IBM SPSS Statistics Standard Grad Pack 23.0 or 24.0 Academic (12 Month
+        License) available for purchase through UT’s Campus Computer Store;
+     ü Short substantive readings will be assigned throughout the semester. These required
+        readings will be available online through Canvas. Additional readings, exercises,
+
+
+                                                                                                  3
+        information sheets, guides, and links to websites will also be posted to assist you in this
+        course and enhance your class experience.
+3.b. Assignments and Assessments
+Weekly Assignments
+Weekly assignments are out-of-class and in-class quizzes that include questions designed to
+gauge the students´ understanding of the methodological and statistical concepts and other
+material covered in the readings covered throughout the semester.
+Out-of-class quizzes will be posted on Canvas every week by Friday (of the prior week). The
+due date is Friday (at 11:59 p.m.). Late assignments will result in a 10-point deduction per day
+of delay in the grade. Out of a total of eleven quizzes, we will drop the three lowest graded
+quizzes.
+In-class assignments will be made by three-student groups on the topic of the week. Those
+assignments will be uploaded to Canvas after completed to be graded.
+All quizzes and assignments upload to Canvas must be typed. We will not accept handwritten
+assignments.
+Students must include in the quiz/assignment all intermediate computations / step-by-step
+calculations and/or SPSS syntax to receive full credit.
+Exams
+There will be two in-class exams, 1:15 hour each. They may include a combination of multiple
+choice, definition, calculation/interpretation, or short essay questions on the topics covered for
+that section of the course.
+4. Grading Method
+4.1. Weights
+     ü  First-exam (30% of the final grade);
+     ü  Second-exam (30% of the final grade);
+     ü  Out-of-class Assignments (30% of the final grade);
+     ü  In-class Assignments (10% of the final grade)
+4.2. Grading Scale (valid for each assignment and the final grade)
+
+
+                                                                                                      4
+     Approving:
+     A = 94-100 / A- = 90-93 / B+ = 87-89 / B = 84-86 / B- = 80-83 / C+ = 77-79 / C = 74-76 / C-= 70-73
+         /
+     Failing:
+     D+ = 67-69 / D = 64-66 / D- = 60-63 / F = 00-60
+5. Classroom Dynamics
+Every Tuesday and Thursday the Instructor will use the first 45 minutes to present, show the
+step-by-step calculation and explain the content and practical application of the topic of the
+week.
+On Tuesdays, in the next 30 minutes, the students will be familiarized with estimation,
+interpretation, and presentation of quantitative data using SPSS. On Thursdays, the last 30
+minutes will be used to make an in-class assignment.
+All students are expected to have all assigned readings before the class in which they will be
+discussed. Come to class prepared to summarize, comment on, and ask questions about what
+you read and what we have covered in previous classes. If something from the text confuses
+you or you would like to discuss it more fully, please ask at the beginning of class to make sure
+we cover the topic or address your question in more detail.
+By default, all devices must be placed offline, unless when we need to access some online
+resources. It is not allowed to use the electronic devices to surf the web or for any other purpose
+not strictly related to class learning and assignments.
+It is strictly forbidden the use in the classroom of cell phones, apps, or electronic devices that
+can produce noises, divert attention or disturb in any way the lecture. In the case of
+unauthorized use of an electronic device, the student will be invited to leave the classroom and
+his/her attendance will be considered an unexcused absence.
+6. Class Materials and Communication
+Canvas will be the main tool for the development of the course (http://canvas.utexas.edu/). Log
+into the Canvas system with your UT EID, click on the class link under “Courses”. If you have
+any problem to access the materials, please contact the TA or the Professor. You can find
+support in using Canvas at the ITS Help Desk at 475-9400, Monday through Friday, 8 a.m. to 6
+p.m.
+
+
+                                                                                                                       5
+All reading materials, quizzes, surveys, databases, post grades, announcements, and other
+requested materials will be uploaded to Canvas. The student also will have to upload all the
+assignments to Canvas.
+                                           Attendance Rules and Delays
+  Attendance is defined as the physical presence of the student in the classroom for the entire scheduled class time. It
+  is expected that all students to attend class, be on time, and not leave class early. Attendance will be taken each
+  class.
+  At the beginning of each class the Instructor will open a sign-in sheet to be signed by each student. This list will
+  be available for the next ten minutes. If a student needs to leave class early, the Instructor must be informed at the
+  beginning of class. If not, student attendance will be nullified. Students who arrive more than five minutes late, or
+  who leave class early without talking to the Instructor first will be marked as tardy. Three tardies equal one
+  absence.
+  Attendance is mandatory, and the maximum number of unexcused absences is seven (7) classes. After this, the
+  student will have a penalty of 1.5 points per absence in the final grade (read grading method in section
+  4). A student will automatically be failed if he/she has more than twelve (12) unexcused absences. We
+  consider an excusable absence the impossibility to attend the class for legal or health problems. As such, it must be
+  justified followed by medical or legal documentation within one week from the absence.
+  The exam and assignments are also mandatories. Deadlines and exam dates are no-negotiable. If you are ill or
+  have an emergency that prevents you from being present in lab, or from taking an exam, you must communicate
+  this information to your instructor in advance of the due date and request a make-up lab and/or exam. However,
+  opportunities to make up labs or exams is the prerogative of the instructor and are not guaranteed. Please take
+  your course responsibilities seriously.
+  If a student has any restriction to attend class, deliver the assignment or make an exam by the appropriate
+  deadline due to religious, civil, or political reasons; please inform the Instructor and the TA by the end of the
+  second week of class.
+The Instructor can be contacted by e-mail at marcelopaixao@utexas.edu. He will answer every
+message within 48 hours. A face-to-face appointment with the Professor can be scheduled by e-
+mail. We ask you not to feel intimidated to contact the Instructor. We are very receptive and
+open to hearing your questions, doubts, problems, and suggestions. We also encourage all of
+you to be in permanent contact with the TA.
+7. What are the classroom and university rules?
+
+
+                                                                                                  6
+Classroom conduct. The Instructor is committed to creating a class environment framed on the
+student participation, creativity, critical thinking, respect and mutual understanding. The
+Professor will also attempt to guarantee a respectful and cheerful space of work and discussion.
+As such, it is expected that the students - and the Instructor and TA as well - attend the classes
+with a high spirit of tolerance, understanding, and openness to hear divergent opinions in the
+debate.
+Based on these principles, the Instructor encourages all the students to participate in the
+classroom exposing honestly their ideas and doubts, asking questions, and expressing their
+opinions regarding each subject under discussion. Actually, participation and questioning will
+be very positively evaluated. Based on those same principles, the Instructor will not accept any
+kind of derogatory or inappropriate behavior directed at classmates. Any student who gets out
+of hand will be asked to leave and marked absent for that class day. Moreover, all forms of
+discrimination based on gender, sexual orientation, ethnic, color, race, nationality or any other
+kind of intolerance and mistreatment are strictly forbidden. The Instructor also asks the
+students to avoid napping or dozing off during the classes.
+Policy on scholastic dishonesty. Students who violate University rules on academic dishonesty
+are subject to disciplinary penalties, including the possibility of failure in the course and/or
+dismissal from the University. Since such dishonesty harms the individual, all students, and the
+integrity of the University, policies on academic dishonesty will be strictly enforced. For further
+information, please visit the Office of Student Conduct and Academic Integrity website at
+http://deanofstudents.utexas.edu/conduct/.
+Students with disabilities. The University of Texas at Austin provides upon request
+appropriate academic adjustments for qualified students with disabilities. For more
+information,     contact     the    Services   for    Students      with    Disabilities    website:
+http://diversity.utexas.edu/disability/    and/or    http://diversity.utexas.edu/disability/how-to-
+register-with- ssd/
+Religious holy days. A student who misses an examination, work assignment, or another
+project due to the observance of a religious holy day will be given an opportunity to complete
+the work missed within a reasonable time after the absence, provided that he or she has
+properly notified each instructor. The policy of the University of Texas at Austin is that the
+student must notify each instructor at least fourteen days prior to the classes scheduled on
+dates he or she will be absent to observe a religious holy day. For religious holidays that fall
+within the first two weeks of the semester, the notice should be given on the first day of the
+semester. The student may not be penalized for these excused absences but the instructor may
+appropriately respond if the student fails to complete satisfactorily the missed assignment or
+examination within a reasonable time after the excused absence.
+
+
+                                                                                                                   7
+Unauthorized attendance. Except previously and expressed allowed by the Instructor, no one
+else but the Instructor and the TA and the enrolled students in the course “Numbering Race” is
+authorized to stay in the classroom during the classes. In case of any unauthorized presence,
+this person will be summoned to leave the classroom.
+Notification policy. All students should become familiar with the University's official e-mail
+student notification policy. It is the student's responsibility to keep the University informed as
+to changes in his or her e-mail address. Students are expected to check email on a frequent and
+regular basis in order to stay current with University-related communications, recognizing that
+certain communications may be time-critical. It is recommended that e-mail is checked daily,
+but at a minimum, twice per week. The complete text of this policy and instructions for
+updating your email address are available at http://www.utexas.edu/its/help/utmail/1564.
+8. Course schedule
+Note Regarding Syllabus Changes- The following schedule is tentative and may vary depending on class
+discussions and feedback. I reserve the right to make changes to the schedule of readings and/or lectures during the
+course of the semester and will announce these changes both in class and on Canvas. All new readings are
+highlighted in green.
+Week 1 (August 30) – Introduction of the course´s Syllabus, the Instructor and the Students.
+Reading -Syllabus of the course.
+Week 2 (September 4 and 6) - The What and the Why of Statistics.
+Leon-Guerrero, Anna, and Chava Frankfort-Nachmias. 2015. Essentials of Social Statistics for a
+Diverse Society, Chapter 1, p. 1-22 (from now on just ESSDS, Chapter, and range of pages).
+Frank, Reane. 2001. “The misuse of biology in demographic research on racial/ethnic
+differences: A reply to van den Oord and Rowe,” Demography 38(4): 563-567.
+Racial and ethnic inequality in America (Part I).
+(Watch the Video, 13:50 min.)
+https://www.youtube.com/watch?v=sagSyRHRHF4
+Week 3 (September 11 and 13) - The organization and graphic presentation of data
+ESSDS, Chapter 2, p. 23-68
+Wagner, William E. – Using IBM SPSS Statistics for research methods and social science
+statistics. Los Angeles: SAGE, 2017, 6th edition. (from now on just Using IBM SPSS, Chapter, and
+range of pages), Chapter 1, p. 1-14
+
+
+                                                                                                 8
+“A Growing divide on race” - The New York Times.
+https://www.nytimes.com/2014/08/20/upshot/americas-racial-divide-charted.html
+Trawalter Sophie, Hoffman Kelly, Waytz Adam. 2012. “Racial Bias in Perceptions of
+Others’ Pain”. PLoS ONE 7(11): e48546. doi:10.1371/journal.pone.0048546
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152334
+“Why we think black people feel less pain than white people and how it affects
+society” (Watch the Video, 4:22 min.)
+https://www.huffingtonpost.com/2013/10/17/racial-empathy-gap_n_4118252.html
+Week 4 (September 18 and 20) - Measures of central tendency
+ESSDS, Chapter 3, p. 69-94
+Using IBM SPSS, Chapter 4, p. 41-51
+Semega, Jessica L., Kayla R. Fontenot, and Melissa A. Kollar. 2016. “Income and Poverty in the
+United States: 2016, Current Population Reports”. The United States Census Bureau, p. 5-20.
+https://www.census.gov/content/dam/Census/library/publications/2017/demo/P60-259.pdf
+Week 5 (September 25 and 27) – Measures of variability
+ESSDS, Chapter 4, p. 95-118
+Using IBM SPSS, Chapter 4, p. 41-51
+Dubrow, Joshua. 2013. “Why should social scientists account for intersectionality in quantitative
+analysis of survey data?” pp. 161-177. In Intersectionality and kritik, Kallenberg, Vera, Jennifer
+Meyer, and Johanna M. Müller, Springer VS.
+Week 6 (October 2 and 4) – The normal distribution.
+ESSDS, Chapter 5, p. 119-138.
+Using IBM SPSS, Chapter 5, p. 52-77.
+Plucker, J. A., & Esping, A. (Eds.). (2014). Human intelligence: Historical influences, current
+controversies, teaching resources. Retrieved [insert on September 1, 2018], from
+http://www.intelltheory.com. http://www.intelltheory.com/bellcurve.shtml#part1, 16 p.
+
+
+                                                                                              9
+Week 7 (October 9 and 11) Sampling and sampling distribution; 1st In-class Exam.
+ESSDS, Chapter 6, p. 139-156.
+Using IBM SPSS, Chapter 5, p. 52-77.
+It will not have in-class assignment, no reading.
+                              October 11 – First In-class Exam
+Week 8 (October 16 and 18) – Estimation.
+ESSDS, Chapter 7, p. 157-178.
+Using IBM SPSS, Chapter 5, p. 52-77.
+Traub, Amy, Laura Sullivan, Tatjana Meschede, and Tom Shapiro. The asset value of whiteness:
+understanding the racial wealth gap. Institute for Assets and Social Policy (IASP), Brandeis
+University. 17 p.
+Week 9 (October 23 and 25) - Testing Hypothesis.
+ESSDS, Chapter 8, pp. 179-190 (exercises p. 206-208).
+Using IBM SPSS, Chapter 6, p. 78-91.
+Race and Ethnicity          Polling  Results;  Gallup.  https://news.gallup.com/poll/1687/race-
+relations.aspx.
+Week 10 (October 30 and November 1) – Testing Hypothesis & Bivariate Table.
+ESSDS, Chapters 8, pp. 190-211 and 9, pp. 212-227 (exercises p. 252-255).
+Using IBM SPSS, Chapter 6, pp. 78-91; and Chapter 7, p. 92-103.
+Boshara, Ray, William R. Emmons and Bryan J. Noeth. 2015. “The demographics of wealth: how
+age, education and race separate thrivers from strugglers in today’s economy”. Central Federal
+Reserve Bank of Saint Louis.24 p.
+Week 11 (November 6 and 8) – Bivariate Table.
+ESSDS, Chapter 9, p. 227-260.
+
+
+                                                                                              10
+Using IBM SPSS, Chapter 7, p. 92-103.
+Chandi Wagner. 2017. School segregation then & now: how to move toward a more perfect
+union. Center for Public Opinion. 22 p.
+PBS News Hour. 2018. “Poverty, segregation persist in U.S. schools, report says.”
+(Watch the Video, 6:46 min.)
+https://www.pbs.org/newshour/education/poverty-segregation-persist-in-u-s-schools-report-
+says
+Week 12 (November 13 and 15) – Analysis of Variance
+ESSDS, Chapter 10, p. 261-280.
+Using IBM SPSS, Chapter 10, p. 131-137.
+Nellis, Ashley. 2016. “The color of justice: racial and ethnic disparity in State prisons.” The
+Sentencing Project: research and advocacy for reform. 25 p.
+Week 13 (November 20 and 22) – Thanksgiving (no class).
+Week 14 (November 27 and 29) – Introduction to Correlation.
+ESSDS, Chapter 11, pp. 281-301 (exercises p. 309-313).
+Using IBM SPSS, Chapter 8, p. 104-114.
+Galton, Francis. 1907. Probability: the foundation of eugenics. The Popular Science Monthly, vol
+LXXI, p. 165-178.
+Holland, Paul. 2003. “Causation and race”. Research report. Educational Testing Service,
+Research & Development Division, Princeton, NJ, p. 26.
+Week 15 (December 4 and 6) – Introduction to Regression; 2nd In-class Exam.
+ESSDS, Chapter 11, p. 301-318.
+Using IBM SPSS, Chapter 9, p. 115-130.
+It will not have in-class assignment, no reading
+
+
+                                                                                              11
+                           December 6 – Second In-class Exam
+Appendix: The Meaning of Grades
+For students, the grading process can be a mystery. After completing your essay or exam, it
+may seem that they are sent off to a place where grades magically appear at random. I want to
+assure you that this is not the case. Just as you put time and effort into completing your
+assignments and exams, I put time and effort into grading them. This means that I do read every
+word of your essays, papers, and exam answers. Whenever possible, I will have detailed
+grading rubrics that allow me to deduct points in the same way from each student’s exam. In
+the case of response essays, in which a specific grading rubric is not practical, the following
+describes my view on what makes an answer worth each letter grade:
+A Work surpasses the requirements of an assignment by adding new insights, creativity,
+    and/or particularly thoughtful analysis or applications.         In “A” answers, students
+    demonstrate a complete understanding of the course material, have clearly stated purposes,
+    and support their ideas with examples when appropriate. Few changes, corrections, or
+    suggestions can be made regarding the accuracy of information or the effectiveness of
+    communication;
+B   Work meets the requirements of the assignment. In “B” answers, students demonstrate a
+    solid command of the course material, support their ideas with examples when appropriate,
+    state their purposes, and apply concepts to another context if applicable. “B” work is clear
+    and effective, has good organization, and has clearly expressed ideas;
+C Work partially meets the requirements of the assignment. In “C” answers, students
+    demonstrate an acceptable command of the course material and a basic ability to apply
+    concepts, support their ideas, and state their purposes. A “C” may indicate work that has
+    some gaps and errors or communication that is inconsistent or difficult to follow;
+D Work marginally meets the requirements of the assignment and has many areas that need
+    improvement. Often “D” work indicates an attempt to merely repeat the material from class
+    discussions without further insight or consideration;
+F   Work does not meet the requirements of the assignment. “F” work is consistently weak,
+    reflecting little thought or effort.

@@ -1,0 +1,402 @@
+Course Syllabus RTF w329c
+Summer 2019
+note: any part of this syllabus or the course structure itself, including how grades are tabulated
+or awarded may change at any time
+COURSE DESCRIPTION:
+Animation, Visual Effects, Digital Painting and CGI are used to digital content for a variety of
+formats including film, animation and video games. Through hands-on CREATIVE
+ASSIGNMENTS, you will learn the TOOLS and TECHNIQUES of Digital Media Production.
+You will apply these techniques to complete a variety of tasks in the PIPELINE of digital
+production: preproduction, performance, compositing, CG and interactive design. In the end,
+you must choose: Will you become a generalist across all digital media production or will you
+SPECIALIZE in one discipline? Perhaps you will you define a new role in digital media
+production.
+Instructor: Ben Bays (Links to an external site.)Links to an external site.
+Teaching Assistant: Sara Pinar Onder (Links to an external site.)Links to an external site.
+Online Class Format:
+Teaching and learning in this online course is different from from many face to face courses.
+It is iterative, it is self paced, it is non-linear.
+This course is a collection of CREATIVE ASSIGNMENTS -- which comprise the bulk of the
+course, SPEED CHALLENGES -- which reward you for maintaining a steady pace, and EXTRA
+CREDIT -- which is awarded for exceptional work, attending special events or completing other
+miscellaneous tasks.
+You may complete the CREATIVE ASSIGNMENTS in any order you wish, though I do ask that
+you complete the DMP Entrance Exam before you begin (and yes, this Exam does count as one
+of your CREATIVE ASSIGNMENTS).
+
+
+You may submit (and resubmit) a CREATIVE ASSIGNMENT as many times as you wish until
+you are satisfied with your grade. Made a mistake? Fix it and resubmit--no penalty.
+You may complete the CREATIVE ASSIGNMENTS at your own pace. There is only one
+required deadline in this course: August 16, 11:59 pm. After this date/time, I will not accept
+submissions (or revisions).
+Communication:
+If you wish, there need be very little communication between us.
+You can simply submit your assignments, we review (and grade) them.
+It may be that you would like to have a more substantial conversation about your work. We
+welcome this engagement.
+In order to streamline the process of communication, here are some rules:
+All written interactions between us will happen through CANVAS.
+If you have a question or comment about a particular CREATIVE ASSIGNMENT, please
+communicate in the comment section of that assignment
+example: "Is it okay to use Adobe Illustrator for this particular assignment?"
+Questions about HOW the course operates should be made via email to me through the Canvas
+Inbox System.
+example: "When are your office hours?"
+If you would like to discuss something in person, please make an appointment during office
+hours. Make an Appointment via this link. (Links to an external site.)Links to an external site.
+The TAs and I rotate grading projects and we all have access to all communication, so it may be
+you are engaged with several people in a thread.
+Responses via the CANVAS INBOX can take up to one week.
+Responses to SUBMISSION COMMENTS can take up to one week.
+Office Hours: I will be available both simultaneously online and in-person every week Thursday
+evenings. Time TBA.
+
+
+Office Location: I will hold office hours in a computer lab with all the software and equipment
+you need. Currently, I have CMB 4.114 reserved, but this may change.
+If you would like lock in a specific time to talk, you may Make an Appointment via this link.Links
+to an external site.
+If you are remote, you can use this link to join me via google hangout (appointment only).
+https://hangouts.google.com/hangouts/_/utexas.edu/onlineofficehoursforbenbays (Links to an
+external site.)Links to an external site.
+OR, you can just come in to the lab and I will be available to help you through any roadblocks
+you might encounter.
+Required Software: Adobe Photoshop, Adobe Animate, Adobe After Effects, Maya, Adobe
+Media Encoder
+Optional and Alternative Software: Unity3d, Unreal Editor, Adobe Character Animator
+This is an online course.
+Your task is to complete 15 CREATIVE ASSIGNMENTS and a selection of CHALLENGES
+before the end of the semester.
+CREATIVE ASSIGNMENTS are projects you create using digital media tools and techniques.
+Every assignment is worth 6 points--they are all equally weighted. You should complete 15
+CREATIVE ASSIGNMENTS by the end of the course.
+scoring: 15 CREATIVE ASSIGNMENTS X 6 points each = 90 points = 90% of your grade. (You
+can never make more than 90 points for doing the CREATIVE ASSIGNMENTS)
+CHALLENGES and EXTRA CREDIT are awarded for speed, initiative, and exceptional quality
+of work. CHALLENGES are not all equally scored.
+This CREATIVE ASSIGNMENTS are divided into 3 UNITS. Units do not represent a section of
+time, but organize similar topics/assignments into a weighted category within the gradebook.
+TOOLS UNIT :
+
+
+The TOOLS UNIT is focused on software.
+DMP Entrance Exam. Photoshop . Animate . After Effects . Maya
+PIPELINE UNIT :
+The PIPELINE UNIT is focused on the processes and intersections in digital media production
+within the RTF department.
+Pre-Production . Performance . Compositing . Simulation . Immersion
+SPECIALIZATION UNIT (pick any 5):
+The SPECIALIZATION UNIT allows you to choose from a large array of projects to define your
+area of interest
+Digital Painter I : Vehicle Design . Digital Painter II : Environment . Digital Painter III : Human .
+Digital Painter IV : Style . Digital Painter V : Portfolio
+Storyboard Artist I : Beatboards . Storyboard Artist II : Model Sheet . Storyboard Artist III : Previz
+. Storyboard Artist IV : Character . Storyboard Artist V : Pitch .
+Animator I : Bouncing Ball . Animator II : Secondary Motion . Animator III : Acting . Animator IV :
+Range Animator V : Reel
+Motion Graphics Artist I: LOGO . Motion Graphics Artist II: Lower Thirds . Motion Graphics Artist
+III : Simulation . Motion Graphics Artist IV : Expressions/Scripting . Motion Graphics Artist V :
+Reel
+VFX Artist I : Live Action . VFX Artist II : Split Screen . VFX Artist III : Form . VFX Artist IV :
+Depth . VFX Artist V : Breakdown
+CG Artist I : Environment . CG Artist II: Dynamics . CG Artist III : Sculpting . CG Artist IV :
+Rendering . CGI Artist V : Portfolio
+Interactive Designer I: Point and Click . Interactive Designer II: Walking Simulator . Interactive
+Designer III : VR . Interactive Designer IV : AR . Interactive Designer V : Game
+UI Designer I : Icon . UI Artist II: Title Screen . UI Artist III: Loading Screen . UI IV: In-Game UI .
+UI Artist V: Portfolio
+
+
+SPEED CHALLENGES -- awarded for pacing yourself correctly and not procrastinating.
+SPEED CHALLENGE: Complete 15 CREATIVE ASSIGNMENTS before this deadline
+SPEED CHALLENGE: Complete 5 CREATIVE ASSIGNMENTS before this deadline
+SPEED CHALLENGE: Complete 10 CREATIVE ASSIGNMENTS before this deadline
+SPEED CHALLENGE: Complete 15 CREATIVE ASSIGNMENTS before this deadline
+EXTRA CREDIT
+Extra Credit assignments may be also be added as opportunity arises during the semester.
+EXTRA CREDIT: Submit a Tutorial LINK
+EXTRA CREDIT: Take a SELFIE with Ben
+EXTRA CREDIT: Appear in one of your projects.
+EXTRA CREDIT: Your work FEATURED in the DMP showcase
+You do not have to complete every assignment offered in the course, but you need to complete
+at least 5 assignments from each UNIT in order to make an 90%(A-). There are MANY
+assignments in the SPECIALIZATION UNIT, so you can choose a focus or generalize, or put
+some different ideas together.
+Course Presentation
+The content for each ASSIGNMENT is presented in a few ways:
+VIDEOS. These videos are meant to be an introduction to some of the topics in the course.
+
+
+ONLINE RESOURCES. This is where you will find links to further information and tutorials. All
+the SKILLS can be learned online. If you find a tutorial or useful link I have not included, you
+may submit it as a CHALLENGE.
+STUDENT EXAMPLES. Want to know what the expectations are for your work? Check the
+student examples from your peers. Exceptional student work from current and previous
+semesters is on display. If there is nothing in that section yet, you can set the bar in terms of
+quality.
+COURSE EVALUATION:
+When the course begins, I will give you a default grade of ZERO for every single assignment.
+Do not panic. This is for gradebook purposes.
+Your goal (as always) is to go from 0 to 100 points. 100 points = 100 percent = A
+CREATIVE ASSIGNMENTS are worth 6 points each. This the the bulk of the course: projects
+which are intended to build your portfolio.
+CHALLENGES have different point values depending on their difficulty.
+CREATIVE ASSIGNMENTS = 90 points maximum
+The CREATIVE ASSIGNMENTS are organized into 3 UNITS:
+SOFTWARE UNIT
+PIPELINE UNIT
+SPECIALIZATION UNIT
+Complete 5 ASSIGNMENTS from each UNIT for a total of 15 CREATIVE ASSIGNMENTS.
+15 CREATIVE ASSIGNMENTS x 6 points each = 90 points
+CHALLENGES = no maximum
+CHALLENGES will allow you to fill in the final 10 points and move your grade from a 90 to a
+100. The total available points under the CHALLENGES section is more than 10, though.
+Clever use of CHALLENGES can allow you to game this course. Some challenges can be
+repeated. Some are one-time events. Some are timed. New CHALLENGES may be added as
+the semester progresses.
+
+
+DMP Grading Scheme
+Points = Percentage*
+The letter grades are awarded at the end of the semester according to the following chart.
+Name:
+Range:
+A
+100%
+to 95%
+A-
+< 95%
+to 90%
+B+
+< 90%
+to 85%
+B
+< 85%
+to 80%
+B-
+< 80%
+to 75%
+C+
+< 75%
+to 70%
+C
+< 70%
+to 65%
+C-
+< 65%
+to 60%
+F
+< 60%
+to 0%
+*I hope
+ Assignment Evaluation
+
+
+Each CREATIVE ASSIGNMENT is worth 6 points
+RUBRICS can help guide you through each assignment
+I have quantified my expectations in the RUBRIC.
+Have a question about the assignment or the rubric? Please pose that question in the
+comments section of that particular assignment. That way, CANVAS will direct me and the
+graders to the appropriate assignment.
+Checking your grade:
+Everything in this class goes through Canvas, the Grades section will be updated regularly.
+List of Software
+software.gif
+You MUST have access to the following software to complete the course. (available on Mac and
+PC)
+Adobe Photoshop
+Adobe Animate
+Adobe After Effects
+Adobe Media Encoder
+Autodesk Maya
+IF you wish to install the software on your own computer, here are the links:
+The Adobe Creative Suite is available to UT students as a subscription for 19.99/month.Links to
+an external site.
+For the truly cash-strapped, free trials Links to an external site.of the Adobe Creative Suite are
+available, but the time limit can be as little as 7 days.
+Autodesk Maya is FREE for students.Links to an external site.
+Create an account using your official UT email (name@mail.utexas.eduLinks to an external site.
+download MayaLinks to an external site.
+If you wish to work on campus, there are several media labs with the required software.
+List of Media Labs
+Media Labs.gif
+
+
+UT Austin has several media labs you can use.
+The following labs have the required software for this course.
+Media Labs for all majors:Links to an external site.
+Moody College Media LabsLinks to an external site.
+CMA 4.142 DML Lab Links to an external site.
+CMA 4.138 DML Lab Links to an external site.
+CMB 4.144 Links to an external site.
+CMB 4.120Links to an external site.
+Links to an external site.Links to an external site.
+Fair Use:
+You may use your own photos, videos, audio etc for any of the assignments. I welcome it.
+You may ALSO use any images, videos, audio from other sources including the internet. You
+are not limited to public domain or creative commons licensed footage. You may use anything
+provided you transform it.
+Ask yourself this question:
+ Is the use you want to make of another's work transformative -- that is, does it add value to and
+repurpose the work for a new audience -- and is the amount of material you want to use
+appropriate to achieve your transformative purpose?
+If you simply turn in someone else's video, it is not transformative (and is also plagiarism). But if
+you download a video and rotoscope or animate over it, it IS transformative. Every assignment
+in this course requires that you add something.
+Fair Use can seem complex, but in the context of this course, it is pretty clear: you CAN use
+other people work in your own provided you transform it.
+More on Fair Use Here. (Links to an external site.)Links to an external site.
+
+
+RTF Safety Policy
+Special safety precautions for your crew, actors and others in the area are required if you are
+undertaking any hazardous activities while filming, including but not limited to ANY driving or
+horseback/livestock shots, shooting in or around water or heights, or if you are using stunts,
+flames, pyrotechnics, squibs or simulated weapons. Please note that unlicensed handguns and
+other real weapons are never permitted in RTF studios or on location shoots. In addition, you
+must follow all federal, state and local laws and the rules of any venue or location at which you
+are filming regarding hazardous activities, including University of Texas at Austin rules if filming
+is done on campus.
+Student filmmakers must submit a detailed safety plan to their course instructor and the RTF
+Technical Facilities Manager if a script or project involves driving or horseback/livestock shots,
+shooting in or around water or heights, stunts, flames, pyrotechnics, squibs, weapons or any
+other hazardous activities (this requirement applies to all shoots, including documentary
+projects, but please see the special guidelines for documentary driving shots below). It is the
+responsibility of the student to hire experts in the field and budget at least $600/day for expert
+consultation and on-set supervision if, in the judgment of the class instructor and the Technical
+Facilities Manager, such expert consultation or supervision is necessary. In addition, any
+utilization of pyrotechnics on the University of Texas at Austin campus requires prior review and
+approval through the Fire Prevention Services office by the University Fire Marshal or their
+designee.
+Students should understand that driving while filming will be permitted only in strictly limited
+circumstances, such as on a private road or drive. In most circumstances, students who wish to
+undertake driving shots will be required to arrange for a police escort and a city permit.
+Monitors inside the vehicle will NOT be allowed while filming in a vehicle. Filming from the back
+of trucks is not considered safe and is not permitted under any circumstances.
+Documentary filming of an interview while the interview subject is driving is only permitted if the
+cameraperson is secured in a seat belt and is not directing the driver of the car in any way,
+besides engaging in a conversation in which the driver/interviewee has been informed not to
+look at the camera or the interviewer at all during the interview. In addition, any filming from a
+vehicle, for drive-by B-roll, must be done by a cameraperson secured in a seat belt, where the
+driver is not being directed in any way by the director, so that they are driving as they normally
+would. As noted above, any documentary student planning on filming in any vehicle must
+submit a safety plan to their course instructor and the RTF Technical Facilities Manager.
+Students who fail to comply with this policy will receive a failing grade in this class and will be
+barred from future access to RTF production and post-production equipment and facilities
+
+
+If Police, Fire, or EMS are called to your shoot, or any injuries on your shoot require medical
+attention, this must be reported to your instructor and the Assistant Director of Production
+Services, (Keefe Boerner Keefe.Boerner@austin.utexas.edu), within 24 hours of the incident.
+There is a form in checkout and on the RTF website that must be filled out and returned within
+three business days.
+Policy on Academic Integrity
+Students who violate University rules on academic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University.
+Since such dishonesty harms the individual, all students, and the integrity of the University,
+policies on academic dishonesty will be strictly enforced. For further information, please visit the
+Student Conduct and Academic Integrity website at: http://deanofstudents.utexas.edu/conduct
+(Links to an external site.)Links to an external site..
+Counseling and Mental Health Services
+Taking care of your general well-being is an important step in being a successful student. If
+stress, test anxiety, racing thoughts, feeling unmotivated or anything else is getting in your way,
+there are options available for support.
+For immediate support:
+-      Visit/Call the Counseling and Mental Health Center (CMHC): M-F 8-5p | SSB, 5th floor
+| 512-471- 3515 |cmhc.utexas.edu
+-      CMHC Crisis Line: 24/7 | 512.471.2255 | cmhc.utexas.edu/24hourcounseling.html
+CARE Counselor in the Moody College of Communication is: Abby Simpson, LCSW
+- |CMA 4.134 | 512-471- 7642 (Please leave a message if she is unavailable)
+FREE Services at CMHC:
+-      Brief assessments and referral services
+-      Mental health &amp; wellness articles - cmhc.utexas.edu/commonconcerns.html
+-      MindBody Lab - cmhc.utexas.edu/mindbodylab.html
+-      Classes, workshops, &amp; groups - cmhc.utexas.edu/groups.html
+Course Summary:
+Date Details
+Fri May 10, 2019
+Calendar Event          ALL ASSIGNMENTS and CHALLENGES are due by midnight!
+11:59pm
+Thu Jun 13, 2019
+Assignment SPEED CHALLENGE: Complete DMP Entrance Exam before this deadline
+due by 11:59pm
+
+
+Thu Jun 27, 2019
+Assignment SPEED CHALLENGE: Complete 5 CREATIVE ASSIGNMENTS before this
+deadline      due by 11:59pm
+Thu Jul 18, 2019
+Assignment SPEED CHALLENGE: Complete 10 CREATIVE ASSIGNMENTS before this
+deadline      due by 11:59pm
+Thu Aug 8, 2019
+Assignment SPEED CHALLENGE: Complete 15 CREATIVE ASSIGNMENTS before this
+deadline      due by 11:59pm
+Fri Aug 16, 2019
+Calendar Event       Last Day of the Summer Semester. 12am
+Assignment EXTRA CREDIT: Complete eCIS           due by 11:59pm
+Assignment After Effects
+Assignment Animate
+Assignment Animator I : Bouncing Ball
+Assignment Animator II : Weight
+Assignment Animator III : Thinking
+Assignment Animator IV : Effects Animation
+Assignment Animator V : Portfolio
+Assignment CG Artist I : Prop
+Assignment CG Artist II: Dynamics
+Assignment CG Artist III : Sculpting
+Assignment CG Artist IV : Materials Rendering
+Assignment CGI Artist V : Portfolio
+Assignment Compositing
+Assignment Digital Painter I : Vehicle
+Assignment Digital Painter II : Environment
+Assignment Digital Painter III : Creature
+Assignment Digital Painter IV : Style
+Assignment Digital Painter V : Portfolio
+Assignment DMP Entrance Exam
+Assignment Emergent Media
+Assignment EXTRA CREDIT: Animated Film Screening presented by the South Asia Institute
+April 13th
+Assignment EXTRA CREDIT: APPEAR in one of your projects.
+Assignment EXTRA CREDIT: Attend IMAGINE MOODY event
+Assignment EXTRA CREDIT: Event at the FOUNDRY
+Assignment EXTRA CREDIT: Submit a Tutorial Link
+Assignment EXTRA CREDIT: Take a SELFIE with Ben
+Assignment EXTRA CREDIT: Take the LEAD: Achieve #1 position on BADGES leaderboard
+Assignment EXTRA CREDIT: Your work FEATURED as an example on an assignment page
+Assignment Interactive Designer I: Point and Click
+Assignment Interactive Designer II: Walking Simulator
+
+
+Assignment Interactive Designer III : Animated Character
+Assignment Interactive Designer IV : Button
+Assignment Interactive Designer V : Portfolio
+Assignment Maya
+Assignment Motion Graphics Artist I: LOGO
+Assignment Motion Graphics Artist II: Lower Thirds
+Assignment Motion Graphics Artist III : Animated Typography
+Assignment Motion Graphics Artist IV : Expressions/Scripting
+Assignment Motion Graphics Artist V : Reel
+Assignment Performance
+Assignment Photoshop
+Assignment Pre-Production
+Assignment Simulation
+Assignment Storyboard Artist I : Beatboards
+Assignment Storyboard Artist II : Character Model Sheet
+Assignment Storyboard Artist III : Storyboards
+Assignment Storyboard Artist IV : Animatic
+Assignment Storyboard Artist V : Portfolio
+Assignment UI Artist II: Title Screen
+Assignment UI Artist III: Loading Screen
+Assignment UI Artist V: Portfolio
+Assignment UI Designer I : Icon
+Assignment UI IV: In-Game UI
+Assignment UNFINISHED: CG Artist: Photogrammetry
+Assignment UNFINISHED: Color Palette
+Assignment UNFINISHED: Sprites
+Assignment VFX Artist I : Live Action
+Assignment VFX Artist II : Split Screen
+Assignment VFX Artist III : Form
+Assignment VFX Artist IV : Depth
+Assignment VFX Artist V : Portfolio
+Assignment VFX ARTIST: RETRO

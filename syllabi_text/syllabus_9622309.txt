@@ -1,0 +1,103 @@
+                      EE w313 Linear Systems and Signals (Summer 2019)
+                                      Unique Number 76045
+Lecture Hours by Instructor: MWF 11:30 AM -12:45 pm, EER 1.512
+Problem Solving Sessions by TA: Tuesdays 11:30-12:30 PM, ETC 5.148
+Instructors
+• Prof. Hazem Hajj: http://www.ece.utexas.edu/people/faculty/hazem-hajj
+Email: hazem.hajj@utexas.edu
+Office Hours: Before and after lecture MWF 11:0 0 am-11:30 am and 12:45-1:15 pm.
+Office Hours Location: Just outside of the classroom EER 1.512
+TA: Mr. Dan Jacobellis
+Email: danjacobellis@gmail.com
+Problem Solving (Videotaped): Tuesdays 11:30-12:30 PM (ETC 5.148)
+Office Hours: Tuesdays 2:00-2:30pm (ETC 5.148) and Thursdays 1:00-2:30 pm in EER 0.814A.
+This course will build a mathematical foundation for analyzing signal processing,
+communication, and control systems.
+Topic Outline
+Representation of signals and systems; system properties; sampling; Laplace and z-transforms;
+transfer functions and frequency response; convolution; stability; Fourier transform; feedback;
+and control applications. Computer analysis using MATLAB.
+Prerequisites
+Prerequisite: Biomedical Engineering 311, Electrical Engineering 411, or 331 with a grade of at
+least C-; Mathematics 427J or 427K with a grade of at least C-; and credit with a grade of at least
+C- or registration for Mathematics 340L.
+Required Textbook
+1. B. P. Lathi, Linear Systems and Signals, Oxford Univ. Press, 3rd ed., ISBN 978-0190200176,
+    November 2017.
+Optional Textbooks
+1. M. J. Roberts, Signals and Systems: Analysis of Signals Through Linear Systems, McGraw-
+Hill, ISBN 978-0072930443, June 2003.
+2. James H. McClellan, Ronald W. Schafer, and Mark A. Yoder, DSP First: A
+Multimedia Approach, Prentice-Hall, 2nd ed., 2015. On-line Demonstrations
+(at: http://dspfirst.gatech.edu/)
+Grading
+3% Attendance/Participation
+17% Homework + In-class evaluations
+20% Midterm #1
+20% Midterm #2
+40% Final Exam (Cumulative, twice as long as a midterm exam)
+Each in-class evaluation will count like an assignment. The lowest grade of the combination of
+
+
+(Homework + In-class evaluations) will be dropped.
+•   Midterm #1 (Friday, June 28, 2019). Exam will be held during lecture.
+•   Midterm #2 (Friday, August 2, 2019). Exam will be held during lecture.
+•   The final exam tentatively targeted for August 17, 2019 (Saturday) 9:00 AM -12:00 PM .
+    Will be set with help from the Office of the Registrar. Location: TBD.
+•
+Also note:
+• July 12: No class
+• August 16 is last day of classes.
+Lecture helps connect the pieces of the class together. Attendance in lecture is highly correlated
+to your final grade and helpful in landing industry positions. Moreover, it allows you to get the
+most for your tuition dollar. Plus and minus grades will be assigned for the final letter grades.
+Grades on assignments will be posted on the course Canvas site.
+Request for regrading an assignment must be made in writing within one (1) week of the graded
+assignment being made available to students in the class.
+Discussion of homework questions is encouraged, but…. Each of you needs to submit own
+independent homework solution. Late assignments will be subject to a penalty of 2% for every
+minute late.
+University Honor Code
+“The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity, and responsibility. Each member of the University is expected
+to uphold these values through integrity, honesty, fairness, and respect toward peers and
+community.” http://www.utexas.edu/about-ut/mission-core-purpose-honor-code
+Religious Holidays
+By UT Austin policy, you must notify the instructor of any pending absence at least fourteen (14)
+days prior to the date of observance of a religious holy day, or on the first class day if the
+observance takes place during the first fourteen days of the semester. If you must miss class, lab
+section, exam, or assignment to observe a religious holiday, you will have an opportunity to
+complete the missed work within a reasonable amount of time after the absence.
+College of Engineering Drop/Add Policy
+The Dean of Engineering must approve adding or dropping courses after the second class day of
+the summer term.
+Students with Disabilities
+UT provides upon request appropriate academic accommodations for qualified students with
+disabilities. Disabilities range from visual, hearing, and movement impairments to ADHD,
+psychological disorders (e.g. depression and bipolar disorder), and chronic health conditions (e.g.
+diabetes and cancer). These also include from temporary disabilities such as broken bones and
+recovery from surgery. For more information, contact Services for Students with Disabilities at
+(512) 471-6259 [voice], (866) 329-3986 [video phone], ssd@uts.cc.utexas.edu, or
+http://ddce.utexas.edu/disability.
+
+
+Lecture Topics (not necessarily covered in order below)
+1. Signals
+2. Systems
+3. Continuous-Time Convolution
+4. Differential Equations
+5. Discrete-Time Signals and Systems
+6. Discrete-Time Convolution
+7. Stability
+8. Difference Equations
+9. Fourier Series
+10. Fourier Analysis
+11. Fourier Transform Properties
+12. Sampling Theorem
+13. Laplace Transforms
+14. Inverse Laplace Transforms
+15. Transfer Functions
+16. System Realization
+17. Z-transform
+18. Difference Equations
+19. Frequency Response

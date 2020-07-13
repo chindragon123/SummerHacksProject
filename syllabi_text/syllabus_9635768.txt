@@ -1,0 +1,244 @@
+                             SDS f328M: Biostatistics Summer 2019
+                                        Unique No: 87070,87075,87080
+                                    Lecture: M-F 1pm-2:30pm in ETC 2.136
+                 Lab: Wednesday 9:30am-11am, 11am-12:30pm, 3pm-4:30pm in FAC 101B
+                                 Course Canvas Site: utexas.instructure.com
+ Instructor:         Steven Hernandez                      Office    By appointment M-TH 11-12:30pm
+ Email:              svhernandez316@utexas.edu             hours:
+ Office:             GDC 7.424
+Graduate Teaching Assistant (teaches lab sessions):
+Name: Yanxin Li
+Email: yanxinli@utexas.edu
+Office hours: Tuesday 2:30pm-4pm in GDC 2.402 and Friday 10:30am-12pm in GDC 5.304
+COURSE DESCRIPTION
+This course is designed to help students develop a basic understanding of biostatistics. By the end of this
+course, you will have a good working knowledge of statistical data analysis and interpretation, be able to
+determine the best analysis plan for a specific scientific question or experiment, choose and carry out the
+most appropriate statistical analyses, identify potential flaws with either the set-up of an experiment or
+the analysis of its data, and identify ethical issues in and apply ethical reasoning to biostatistical research.
+By the end of the course, you will also be familiar with conducting analyses using the statistical software R.
+COURSE OBJECTIVES
+The assessments in this course are designed to help students meet three course objectives:
+    1) Learn the basics of data analysis, specifically the statistical methods commonly used in application to
+        biological, medical and health sciences research.
+    2) Learn how to interpret the findings of data analysis and report the findings in scientific language.
+    3) Identify ethical issues in and apply ethical reasoning to biostatistical research.
+    4) Learn how to analyze and model real-world data using the software R.
+REQUIRED COURSE MATERIALS & SOFTWARE
+    • Register with Squarecap ($12 per semester, $18 for 1 year, or $50 for four years) and bring a web-
+        enabled device to every class: www.squarecap.com
+    • Download and install the statistics software package R and the user-friendly interface RStudio
+        (both are free): www.r-project.org www.rstudio.com
+RECOMMENDED TEXTBOOK
+Whitlock, M.C. and D. Schluter. The Analysis of Biological Data, 1st or 2nd ed., Roberts and Company
+Publishers, 2014. Books can be purchased at the UT Co-op and a few copies are on reserve at the Life
+Science and PMA Libraries.
+COURSE EXPECTATIONS
+Students are responsible for ensuring that they are prepared for class each day. Here are the daily
+requirements for class:
+    • Arrive on time.
+    • Silence any electronic devices.
+    • Bring your handouts, a scientific calculator, and a wifi-enabled device.
+                     Copyright © 2019 Dept. of Statistics and Data Sciences, UT Austin
+
+
+LECTURES AND PARTICIPATION
+Attendance and participation in lectures will be tracked using Squarecap. A daily class handout will be
+posted on Canvas. Students are expected to download, print and bring the handout to class (editing
+electronic versions is also acceptable). A portion of each class time will be devoted to working through the
+handout for the day.
+To earn participation credit for a given lecture, you must be present and participate via Squarecap.
+Although not graded on accuracy, answers to Squarecap questions must be logical and within a reasonable
+range of the correct answer. Students who earn credit for 80% or more of lectures (not including the
+first-class day or exam days) will receive all class participation points of the final course grade. Students
+who earn credit for 50-79% of class meetings will receive half of the participation points.
+Lecture slides will be posted on Canvas after each class. The slides are intended to help you follow along
+with the material and frame your own notes. Most students do not find that the lecture slides alone are
+sufficient when studying for exams, so I highly recommend taking your own detailed notes during class
+and using the slides as supplementary material.
+Note: Since the summer session is short, the course will be very fast paced, with new material covered
+every day. It is extremely important that you keep up with the material and attend lecture. Otherwise
+it will be easy to get left behind.
+LABS
+Weekly lab meetings are held in FAC 101B. Computers (running Windows) are available in the lab room,
+but you can bring your own laptop as long as R and RStudio are both installed. During the weekly
+computer labs, students will learn how to conduct data analysis in R and interpret the finding. Attendance
+of the computer labs is important since all project deliverables will use R. During lab sessions, students
+will be led through the analysis steps for the week’s material using an example data set and then complete
+a short lab assignment that will be due by 11:59pm. It is likely you will be exposed to topics in lab before
+learning them in lecture.
+RESEARCH PROJECT
+The final exam for this course is a poster session for the course research project. The research project is
+completed individually, and students will propose an analysis question, collect their own data, turn in
+preliminary descriptive analyses, and create a poster of their final results. There will be assignments
+related to the course project throughout the semester. Attendance at the poster presentation is
+mandatory – students who do not attend their final poster session will receive a zero for their final project
+poster assignment.
+                    Copyright © 2019 Dept. of Statistics and Data Sciences, UT Austin
+
+
+ASSIGNMENTS
+Your grade in this course will be based on the following:
+   •   Homework assignments are submitted online through Canvas.
+   •   Lab Questions are submitted online through Canvas
+   •   Project assignments are submitted online through Canvas.
+   •   Exams are comprehensive and taken during class.
+The point values of the required assessments are summarized below:
+                                           Assignment                      Points
+                          Participation                                      30
+                          Homework                                           100
+                          Lab Questions (5 @ 10pts each)                     50
+                          Research Project Proposal                          60
+                          Preliminary Analysis and Dataset                   80
+                          Final Project Poster and Presentation              120
+                          Exam 1                                             120
+                          Exam 2                                             120
+                          Exam 3                                             120
+                          Total                                             800
+FINAL COURSE GRADES
+Final grades will be assigned according to the grade cutoffs listed below (maximum points possible = 800).
+Grades are not calculated based on percentages and there is no rounding. Please note that grade cutoffs
+are firm and there is no curve for this course. Keep track of your progress so you know if you are
+meeting your grade goal throughout the semester.
+                                       Course Grade     Points Needed
+                                            A                 740
+                                            A-                720
+                                            B+                695
+                                            B                 660
+                                            B-                640
+                                            C+                615
+                                            C                 580
+                                            C-                560
+                                            D+                530
+                                            D                 500
+                                            D-                480
+PONTENTIAL BONUS POINT OPPORTUNITIES
+Frequently, students want an opportunity at the end of the semester to raise grades that are close to a
+grade cutoff. The grade cutoffs above are firm and there are no curves. However, during the semester,
+there will be opportunities for you to earn extra points via SquareCap for your final grade.
+                   Copyright © 2019 Dept. of Statistics and Data Sciences, UT Austin
+
+
+REGRADE POLICY
+If you think there may be an error in grading, bring it to our attention immediately. To request a regrade,
+come to office hours or send an email to me or the TA including your name, the specific assignment (e.g.,
+HW 3), and a concise summary of your concern. There is a one-week limit with respect to regrades on
+any course assignment. If you do not submit a regrade request within one week of when the grade is
+posted on Canvas, it will be regarded as final. Regrade requests made in-person to me or the TA before,
+during, or after class will not be considered.
+MISSED CLASS OR ASSIGNMENT POLICY
+Make-up exams and labs are offered only under the following circumstances:
+     •   You are away from UT as part of a UT-sponsored activity including athletics and UT-sponsored
+         organizations and you have notified me by the 12th class day.
+     •   The lab or exam is in conflict with a religious observance and you have notified me by the 12th
+         class day.
+     •   You suffer from a chronic, documented illness or an emergency that results in your missing an
+         exam or lab. Under these circumstances, contact me as soon as possible to discuss a course of
+         action.
+If you miss an exam, project assignment, or lab for any other reason, a make-up assessment is not
+guaranteed and a grade of “0” will be recorded for it. If you miss an assignment for any other reason (ie.
+unexpected illness not documented, car wreck) you have 24 hours to contact me and discuss your course
+of action. Late homework assignments will be accepted at my discretion only if there is proper
+communication. If you fail to contact the me within this time frame you will not be allowed to make up
+missed assignments.
+ACADEMIC HONESTY
+The course is built upon the idea that team-based learning is important and a powerful way to learn. We
+encourage you to study together. However, any work you turn in must be your own. Students can
+work on homework assignments together, but everything turned in under your name must be from your
+brain. Simply copying another student’s answers is always unacceptable.
+    Students who violate the academic honesty expectations for this class will be penalized, up to receiving a
+  failing grade for the class and being reported to the Office of the Dean of Students for academic dishonesty.
+       These types of violations are reported to professional schools, so Don’t Cheat – it’s not worth the
+                                                 consequences.
+Students should be aware that project assignments will be submitted to the plagiarism-detection tool
+Turnitin.com, which is intended to address plagiarism and improper citation. The software works by
+cross-referencing submitted materials with an archived database of journals, essay, newspaper articles,
+books, and other published work. Other methods may be used to determine the originality of the paper,
+and this software is not intended to replace or substitute for my judgement regarding detection of
+plagiarism.
+COURE MATERIAL
+The materials used in this class, including, but not limited to, lecture slides, exams, labs, worksheets,
+projects, and homework assignments are copyright protected works. Any unauthorized copying of the
+class materials is a violation of federal law and may result in disciplinary actions being taken against the
+student. Additionally, the sharing of class materials without the specific, expressed approval of the
+instructor may be a violation of the University's Student Honor Code and an act of academic dishonesty,
+which could result in further disciplinary action. This includes, among other things, uploading class
+materials to websites for the purpose of sharing those materials with other current or future students.
+                     Copyright © 2019 Dept. of Statistics and Data Sciences, UT Austin
+
+
+NON-DISCRIMINATION POLICY
+In accordance with federal and state law, UT Austin prohibits unlawful discrimination, including
+harassment, on the basis of race, skin color, religion, national origin, gender, gender identity, gender
+expression, sexual orientation, age, disability, citizenship, and veteran status.
+STUDENTS WITH DISABILITIES
+UT Austin provides upon request appropriate academic accommodations for qualified students with
+disabilities. Regardless of whether or not you plan to use your approved accommodations, bring me
+your accommodation letter within two weeks of receiving it. For more information, contact the Office of
+the Dean of Students at 471-6259.
+MATHEMATICS COMPONENT
+This course may be used to fulfill the mathematics component of the university core curriculum and
+addresses the following three core objectives established by the Texas Higher Education Coordinating
+Board: communication skills, critical thinking skills, and empirical and quantitative skills.
+QUANTITATIVE REASONING FLAG
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are designed to equip
+you with skills that are necessary for understanding the types of quantitative arguments you will regularly
+encounter in your adult and professional life. You should therefore expect a substantial portion of your
+grade to come from your use of quantitative skills to analyze real-world problems.
+INDEPENDENT INQUIRY FLAG
+This course carries the Independent Inquiry flag. Independent Inquiry courses are designed to engage you
+in the process of inquiry over the course of a semester, providing you with the opportunity for
+independent investigation of a question, problem, or project related to your major. You should therefore
+expect a substantial portion of your grade to come from the independent investigation and presentation of
+your own work.
+ETHICS FLAG
+This course carries the Ethics flag. Ethics courses are designed to equip you with skills that are necessary
+for making ethical decisions in your adult and professional life. You should therefore expect a substantial
+portion of your grade to come from assignments involving ethical issues and the process of applying
+ethical reasoning to real-life situations.
+EMERGENCY EVACUATION
+Occupants of buildings on the UT campus are required to evacuate buildings when a fire alarm is activated.
+Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that
+the nearest exit door may not be the one you used when entering the building. Students requiring
+assistance in evacuation shall inform their instructor in writing during the first week of class. In the event
+of an evacuation, follow the instruction of the instructor and TA. Do not re-enter a building unless given
+instructions by the Austin Fire Department, the UT Police Department, or Fire Prevention Services office.
+    • Behavior Concerns Advice Line (BCAL): 512-232-5050.
+    • For more information: www.utexas.edu/emergency
+                    Copyright © 2019 Dept. of Statistics and Data Sciences, UT Austin
+
+
+      SDS f328M Course Outline – Summer 2019 (Subject to change – will be notified via Canvas)
+                                                                        Chapters To
+ Day     Date                         Topic                                                     HW Due         Lab
+                                                                         Reference
+Thurs   6/6   Course Overview; Statistics & Samples                1                                --
+ Fri    6/7   Displaying & Describing Data                         2,3                              --
+Mon     6/10  Displaying & Describing                              2,3                              --
+Tues    6/11  Data Experimental Design, Data Cleaning              14 (sections 1, 3-4,7)           --
+Wed     6/12  Probability                                          5                             HW 1          Lab 1
+Thurs   6/13  Probability                                          5
+ Fri    6/14  Normal Distribution                                  10 (sections 1, 3-6)     Project Proposal
+Mon     6/17  Central Limit Theorem                                4, 10 (sections 5-6)          HW 2
+Tues    6/18  Hypothesis Testing                                   6                                --
+Wed     6/19  Exam 1                                               --                           Exam 1         Lab 2
+Thurs   6/20  One-Sample t                                         4, 11 (skip 11.5)                --
+ Fri    6/21  One-Sample t, Two-Sample t                           4, 11 (skip 11.5) & 12           --
+Mon     6/24  Two-Sample t                                         12 (skip 12.7)                HW 3
+Tues    6/25  Chi-Square Test of Independence                      9 (sections 1-3)                 --
+Wed     6/26  Odds Ratios                                          9 (sections 1-3)                            Lab 3
+Thurs   6/27  Chi-Square Goodness of Fit                           8 (sections 1-3)                 --
+ Fri    6/28  Non-Parametric Analysis                                                            HW 4
+                                                                   13
+Mon     7/1   Exam 2
+Tues    7/2   Correlation                                          16 (skip 16.5)                   --
+Wed     7/3   Regression                                           17 (sections 1,2,5)    Preliminary Analysis Lab 4
+Thurs   7/4   NO CLASS                                             --                               --
+ Fri    7/5   ANOVA                                                15 (sections 1-4)                --
+Mon     7/8   ANOVA                                                15 (sections 1-4)                --
+Tues    7/9   Statistical Modeling                                 18 (sections 1, 3-5)             --
+Wed     7/10  Statistical Modeling                                 18 (sections 1, 3-5)          HW 5          Lab 5
+Thurs   7/11  Exam 3                                                                                --
+ Sat    7/13  Final poster Session 9am-12pm                                                Final Poster Due
+              Location: TBD
+                          Copyright © 2019 Dept. of Statistics and Data Sciences, UT Austin

@@ -1,0 +1,241 @@
+OM 335: OPERATIONS MANAGEMENT
+OM 335: OPERATIONS MANAGEMENT (Summer 2020)
+#71539          :
+Instructor      : Michael Hasler            E-Mail : michael.hasler@mccombs.utexas.edu
+Office          : GSB 5.148                 Phone : (512) 587-1422 (cell)
+Mailbox         : CBA 5.202                 Course Website: http://courses.utexas.edu
+Office Hours    : TBD
+TA              : Paulina Echanove
+Email           : pauechanove@utexas.edu
+Phone           :
+Office hours    :
+COURSE DESCRIPTION:
+Operations Management (OM) is the cost effective management of resources to achieve
+organizational goals. OM focuses on the systematic planning, design, operation, control, and
+improvement of the processes which produce goods and deliver services. Managing
+operations is vital to every type of organization, for it is only through effective and efficient
+utilization of resources that an organization can be successful in the long run. This is
+especially true today, when we see that significant competitive advantages accrue to those
+firms that manage their operations effectively.
+I come to this course with over 25 years in operations, supply chain, and general management.
+The experience of owning, managing, and consulting to businesses of a variety of different
+sizes provides me with a context for this course that we can use for a basis of discussion and
+learning. Please question me on the issues in this course covered through the books, cases,
+and lecture so that your learning takes place at the level of quality you expect.
+This course is the “foundations course” for our Supply Chain Management major. This class
+can also be useful to students with other majors because every business has an operations
+component.
+This class will be conducted during the first session of the Summer 2020 classes. Students
+should take note that this course will be held online using Zoom and extensive use of Canvas.
+Registration in the course is authorization for the University of Texas to use any recordings or
+images from this class. If you choose to not be on-screen, please contact me directly.
+Prerequisites: credit or registration for BA 324 (or credit for MIS 324) and credit or registration
+for STA 309.
+COURSE OBJECTIVES:
+The main objectives of this course are:
+     • To provide you with an understanding of the crucial importance of operations
+         management in today’s business environment.
+
+
+    •   To familiarize you with the basic concepts, techniques, methods and applications of
+        operations management.
+    •   To enhance your analytical skills and ability to uncover problems and opportunities for
+        improvement in production and service processes.
+COURSE MATERIALS:
+1.      Optional Readings
+    •   Textbook: “Matching Supply with Demand: An Introduction to Operations Management”
+        by Cachon, G. and C. Terwiesch. New York, NY: McGraw-Hill / Irwin. 2006.
+        ISBN: 0-07-291899-3
+        Required Readings
+    •   Course Packet: Available at the University Co-op. It contains a set of cases we will
+        discuss in class.
+        All materials are available in an electronic format through the University Co-op.
+2. Course Website: This course will use Canvas extensively. The login page is located at
+http://courses.utexas.edu. A UT EID is required for accessing the web site. If you need more
+information or tutorials, go to http://www.utexas.edu/cc/Canvas. If you have problems using
+Canvas, you can call the ITS help desk at 512-475-9400. You will find the following on Canvas:
+        Course Notes: I will post the slides for each class on Canvas the night before each
+        class. You may download and print those slides if you would like to use them as lecture
+        note guides. I will purposely have some blank slides in the lecture for discussion
+        purposes.
+        Assignments and Solutions: The purpose of homework assignments is to provide
+        learning reinforcement and promote class preparedness. You will find that the
+        homework provides excellent learning feedback and is a confidence-building tool. The
+        assignments will also help you prepare for the exams.
+        Forums: I will provide a forum on Canvas if it is requested. If we have a forum, then
+        high quality forum postings will count toward your class participation grade. You can
+        also post any comments your have about the material and ask questions. Finally, you
+        can post comments, criticisms and suggestions anonymously regarding the course. In
+        particular, let me know throughout the semester if there is anything I can do to make the
+        delivery of the course better for you.
+        Surveys: Periodically throughout the semester I may be surveying the class for
+        feedback on the course and how it can be improved. Please participate in these
+        surveys, as I use them to adjust the class to improve your learning experience. If,
+        however, you have a suggestion, please feel free to contact me to share your thoughts.
+        Grades: Grades on exams and assignments will be posted on Canvas. Please check
+        that the grade posted is correct and notify the instructor (for exams) or the TAs (for
+        assignments) as soon as possible in case of a discrepancy.
+   OM 335, Summer 2020 —Hasler                                                                 2
+
+
+PERFORMANCE EVALUATION:
+Your grade will be assessed through homework assignments, exams and class participation.
+Below is a description of how the various types of assignments and tests contribute to your
+grade, as well as a description of each type of graded work.
+                                                                        Grade
+                  Exam 1                                                30%
+                  Exam 2                                                30%
+                  Homework assignments                                  25%
+                  Class Participation                                   15%
+                  Total                                                100%
+                             Letter Grade*          Numerical Range
+                                   A                    94.0 – 100
+                                   A-                   90.0 – 93.9
+                                   B+                   87.0 – 89.9
+                                   B                    84.0 – 86.9
+                                   B-                   80.0 – 83.9
+                                   C+                   77.0 – 79.9
+                                   C                    74.0 – 76.9
+                                   C-                   70.0 – 73.9
+*Comes from the Provost Recommended Grade Schedule
+Exams
+Exam 1 will cover the materials from roughly sessions 1-9 (Process Analysis and Quality).
+Exam 2 will be non-comprehensive and will focus on the materials from sessions 11-20
+(Project Management, Queuing Theory and Inventory Management).
+Exams will be online through Canvas and will be multiple choice. The exams are closed book
+and closed notes. Remember to have a calculator. You will be allowed to have a formula sheet
+that you will upload with your exam.
+Offering a make-up exam for a missed exam is entirely at the discretion of the instructor.
+Students with legitimate reasons and letters of proof could request to take make-up exams.
+Any concern regarding the grading of exams should be addressed directly to the instructor, no
+later than one weeks after the grade was assigned.
+Homework Assignments
+There are up to 12 homework assignments throughout the semester. You may do the
+homework assignments in teams unless otherwise noted, but in this case, each student must
+submit a separate copy of their own work in their own words and indicate the names of the
+people they worked with on the front page. If you do the assignment individually, then you may
+(and in fact are encouraged to) type it.
+Homework assignments will be submitted through Canvas by the beginning of the class
+session listed on the schedule. If the submission will take place any other way besides
+Canvas, we will discuss it beforehand in class. The solutions to the homework will be provided
+   OM 335, Summer 2020 —Hasler                                                              3
+
+
+at the end of the day when it is due; therefore no late homework assignments will be accepted.
+I do reserve the right to assign a make-up homework for pre-approved situations such as
+significant illness or emergency.
+When computing the average grade on homework assignments, your final score will be the
+total of your 10 best scores. Homework assignments will be graded by the TA on a scale of 0
+to 10. In general this means:
+ •   0 points for no submittal or no reasonable effort
+ •   2 point for submittal
+ •   4 points for submittal and good faith attempt, but missed the mark on the goal of the
+     assignment
+ •   6 points for essentially correct, good effort
+ •   8 points for correct, very good effort
+ •   10 points for exceptional work, including correct answers to the challenging questions
+ Points will be given for effort (especially for the case-based assignments), correctness of your
+ answers and presentation. Any concern regarding the grading of homework assignments
+ should be addressed directly to the TA and not to the instructor, no later than one week after
+ the grade was assigned.
+Class Participation
+Regular attendance at all class meetings is expected. Students are expected to prepare
+before class. Participation in class, in the form of answering questions and/or commenting on
+the material is strongly encouraged. Participation on the Canvas forum will also be counted
+towards the class participation grade, as long as the posted comments are relevant. In
+addition, coming to office hours counts as class participation as well and is judged accordingly.
+We may begin each class session with a discussion of a current news topic in the context of
+supply chain management. A news article will be posted the class session before it will be
+discussed (e.g., Monday posting for a Wednesday discussion). You are expected to read and
+develop your thoughts on the article before arriving in class. I will call on students randomly to
+begin the discussion.
+SCHOLASTIC DISHONESTY
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The
+responsibilities of both students and faculty with regard to scholastic dishonesty are described
+in detail in the BBA Program’s Statement on Scholastic Dishonesty at
+http://www.mccombs.utexas.edu/BBA/Code-of-Ethics.aspx. By teaching this course, I have
+agreed to observe all faculty responsibilities described in that document. By enrolling in this
+class, you have agreed to observe all student responsibilities described in that document. If
+the application of the Statement on Scholastic Dishonesty to this class or its assignments is
+unclear in any way, it is your responsibility to ask me for clarification. Students who violate
+University rules on scholastic dishonesty are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Since dishonesty
+harms the individual, all students, the integrity of the University, and the value of our academic
+brand, policies on scholastic dishonesty will be strictly enforced. You should refer to the
+Student Judicial Services website at http://deanofstudents.utexas.edu/sjs/ to access the official
+   OM 335, Summer 2020 —Hasler                                                                  4
+
+
+University policies and procedures on scholastic dishonesty as well as further elaboration on
+what constitutes scholastic dishonesty.
+STUDENTS WITH SPECIAL NEEDS
+Students with disabilities may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://www.utexas.edu/diversity/ddce/ssd/.
+If for some reason you need special assistance to take an exam or complete an assignment
+please notify me ahead of time so that special arrangements can be made in a timely fashion.
+STUDENTS WITH DIVERSITY AND INCLUSION
+It is my intent that students from all diverse backgrounds and perspectives be well served
+by this course, that students’ learning needs be addressed and that the diversity that
+students bring to this class can be comfortably expressed and be viewed as a resource,
+strength and benefit to all students. Please come to me at any time with any concerns.
+RELIGIOUS HOLY DAYS
+By UT Austin policy, you must notify me of your pending absence at least five days prior to
+the date of observance of a religious holy day. If you must miss a class, an examination, a
+work assignment, or a project in order to observe a religious holy day, you will be given an
+opportunity to complete the missed work within a reasonable time after the absence.
+CAMPUS SAFETY
+Please note the following recommendations regarding emergency evacuation, provided by the
+Office of Campus Safety and Security, 512-471-5767, http://www.utexas.edu/safety:
+     • Occupants of buildings on The University of Texas at Austin campus are required to
+        evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+        requires exiting and assembling outside.
+     • Familiarize yourself with all exit doors of each classroom and building you may occupy.
+        Remember that the nearest exit door may not be the one you used when entering the
+        building.
+     • Students requiring assistance in evacuation should inform the instructor in writing during
+        the first week of class.
+     • In the event of an evacuation, follow the instruction of faculty or class instructors.
+     • Do not re-enter a building unless given instructions by the following: Austin Fire
+        Department, The University of Texas at Austin Police Department, or Fire Prevention
+        Services office.
+     • Behavior Concerns Advice Line (BCAL): 512-232-5050
+     • Further information regarding emergency evacuation routes and emergency procedures
+        can be found at: http://www.utexas.edu/emergency.
+    OM 335, Summer 2020 —Hasler                                                               5
+
+
+SCHEDULE
+A tentative schedule of meetings, readings, and deliverables for the semester will be posted on
+Canvas. This is subject to change. When there are major changes, you will be notified by
+email; a current schedule will always be available on the Canvas course website.
+               OM 335--Intro to Operations Management: Summer 2020
+                                        Tentative Schedule--Version 05052020
+ Day Session Date                                            Topic                                 Work Due           Prep
+ Th      1    4-Jun  Introduction, Intro to QFD
+  M      2    8-Jun  Intro to Process Analysis                                                               Chapter 2
+                     Process Capacity and Bottlenecks, Rush Order Flow Time, Flow Analysis, Cycle
+   T     3    9-Jun  Time, Utilization
+  W      4    10-Jun Process Analysis, Capacity, etc., Line Balancing, Push vs Pull                          Chapter 3
+  Th     5    11-Jun Labor, Utilization, Profit                                                   HW 1       Chapter 4
+                     Batch systems, Set ups, and capacity--Recommended Batch Sizes, Target flow
+  M      6    15-Jun rates                                                                        HW 2       Chapter 7.1-7.5
+   T     7    16-Jun Processes in Services, Benihana                                              HW 3       Benihana case
+  W      8    17-Jun Begin Quality Management and Statistical Process Control                     HW 4
+                                                                                                             Chapter 10, 11, TMMC
+  Th     9    18-Jun Quality Management, Statistical Process Control, Toyota Production System    HW 5       Case
+  M     10    22-Jun Exam 1
+   T    11    23-Jun Intro to Project Management                                                             Chapter 5
+  W     12    24-Jun Project Management, Crashing                                                 HW 6
+  Th    13    25-Jun Queuing Theory                                                               HW 7 -- PM Chapter 8, 9
+  M     14    29-Jun Queuing Theory Wrap-up and Intro to Economic Order Quantity                             Chapter 7.6-7.10
+   T    15    30-Jun EOQ Wrap-up
+  W     16     1-Jul Newsvendor Model, discrete                                                   HW 8--EOQ  Chapter 12
+                                                                                                             Case in packet
+  Th    17     2-Jul Newsvendor Model, continuous, Sport Obermeyer                                HW 9--SO   Chapter 13
+  M     18     6-Jul Order-up-to Model, discrete                                                  HW 10--NV  Chapter 14
+   T    19     7-Jul OUT Model, continuous
+  W     20     8-Jul Bullwhip Effect and risk pooling                                             HW 11--OUT Chapter 15
+  Th    21     9-Jul Review and Wrapup
+               TBD   Exam 2                                                                                             .
+    OM 335, Summer 2020 —Hasler                                                                                               6

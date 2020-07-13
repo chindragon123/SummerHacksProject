@@ -1,0 +1,373 @@
+                       Department of Accounting
+          ACC 311 -- Fundamentals of Financial Accounting
+                                    Fall 2018 Syllabus
+Instructor:                           Aysa Dordzhieva
+E-mail:                               AysaDordzhieva@Mccombs.uTexas.edu
+Office:                               CBA 4M.230
+Office Hours:                         TBD – See Canvas
+Teaching Assistant: Skylar Deture skylar.deture@mccombs.utexas.edu
+TA Office & Office Hours:             TBD – See Canvas
+                                      Email questions are also encouraged and office
+                                      appointments can be set up via email.
+Class times and
+locations:                            Unique #02325 M/W 12:30-2:00pm UTC 3.132
+                                      Unique #02345 M/W 3:30-5:00am UTC 3.102
+                                      Unique #02355 M/W 5:00-6:30pm UTC 3.102
+Required Materials and Equipment:
+    •   Textbook: Financial Accounting, 9th Edition, by Libby, Libby, and Hodge,
+        (ISBN: 9781259947674, McGraw-Hill/Irwin, 2017). This is a customized version
+        packaged with Connect access.
+                  o On-Line Homework Manager: McGraw Hill Connect, packaged
+                       with the textbook. Follow this link once you have purchased the textbook:
+                       http://connect.mheducation.com/class/a-dordzhieva-f18-monwed
+    •   Accounting Cycle Supplement: Solid Footing: Building an Accounting
+        Foundation, 11th edition, by Dan Wiegand, (ISBN: 9780997381252, Micro
+        Solve Inc.). This is a textbook with accompanying software and files.
+    •   Calculator: A financial calculator is required for this course. A financial
+        calculator is one that has dedicated keys for convenience in working problems
+        involving the time-value of money. The keys typically are labeled N (number of
+        periods), I/Yr (required interest rate per period), PV (present value), PMT
+        (payment per period), and FV (single future payment amount). If you already
+        have such a calculator, you do not need to buy a new one. However, if you do not
+        already have such a calculator, you should buy an HP 10bII+. This calculator is
+        recommended by both the accounting and finance faculty of the McCombs School
+        of Business.
+
+
+   •    Note: You may NOT use calculators that have text memory (e.g. for programs) or
+        cell-phone calculators on quizzes or examinations. Examples of PROHIBITED
+        CALCULATORS are the TI-83, 84, 86 and 89. You may use simple 4-function
+        calculators if an exam or quiz does not require TVM calculations.
+Supplements
+   ▪    Certain Homework Solutions (will be made available on Canvas)
+   ▪    Instructor PowerPoint Slides and/or Notes (will be made available on Canvas)
+   ▪    Sample 311 Midterm Exams (will be made available on Canvas)
+   ▪    Canvas Website
+Prerequisite:
+      The prerequisite for this course is twenty-four semester hours of (prior) college
+      credit. If you do not satisfy this prerequisite, you should drop ACC 311, or the
+      Office of the Dean of Undergraduate Programs will drop you from the course.
+      Instructors may not waive prerequisites to their courses.
+Objectives of the course: To learn the following:
+     A. The nature and purpose of accounting for businesses, with emphasis on
+           corporate business entities.
+     B. Accounting methods and their use as an orderly means of recording,
+           classifying, and presenting useful information from a mass of data derived
+           from transactions and events affecting businesses.
+      C. The basic language of business as represented by business and accounting
+           terminology.
+      D. The concepts and standards underlying the measurements used in accounting
+           to prepare the financial statements of businesses.
+      E. The use and interpretation of financial reports (i.e., income statements, balance
+           sheets, statements of retained earnings, statements of cash flows) prepared for
+           users external to businesses (i.e., owners, creditors, government and investors).
+Quantitative Reasoning Flag
+    This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses
+    are designed to equip you with skills that are necessary for understanding the types
+    of quantitative arguments you will regularly encounter in your adult and professional
+    life. You should therefore expect a substantial portion of your grade to come from
+    your use of quantitative skills to analyze real-world problems.
+Course Routine
+    I will conduct the course by giving lectures, facilitating solutions to in-class
+    exercises and conducting discussions in a manner that encourages class participation
+    by students, consistent with the objectives of the course and the time available.
+    Students are expected to study the chapter readings before topics are
+    introduced in class and do assigned homework questions, exercises and
+    problems to reinforce what they learn (you can’t effectively learn accounting
+                                               2
+
+
+   without doing exercises and problems). Students are encouraged to ask questions
+   and to request that particular points be explained in more detail if they remain
+   confused or uncertain about items discussed or if concepts remain unclear.
+Homework
+   There are two types of homework in the course, Solid Footing homework and
+   textbook homework (Libby, Libby, Hodge).
+   Solid Footing Homework
+   During the first four weeks of the course, you will be learning about the accounting
+   cycle, the process with which companies capture transaction data, record them,
+   summarize them and transform them into financial statements that conform to
+   Generally Accepted Accounting Principles (GAAP). It is essential that every student
+   develop a solid understanding and ability to do accounting cycle tasks because these
+   accomplishments are the foundation for learning the remaining content of the course.
+   Accordingly, the faculty adopted Solid Footing, a semi-interactive tool for learning
+   the accounting cycle and statement of cash flows. It is meant to present, reinforce
+   and test progress in the accounting cycle in a way that leads to more consistent and
+   deeper understanding among our students, leading to less attrition and disappointing
+   grades in ACC 311. To be sure that all students keep up with the lessons during this
+   phase of the course, we require three Solid Footing homework assignments be
+   completed and uploaded through Canvas to be graded. See the homework
+   column of the course schedule for the assignments and dates on which they must be
+   uploaded. All assignments are due by 5pm on the date assigned. Two of the
+   assignments will be due in the first few weeks of the course and the last on
+   December 7th.
+   Textbook Homework
+   Textbook homework is assigned from the chapters we cover. As the name implies,
+   homework is meant to be completed outside of class. Textbook homework is further
+   divided into problems to be submitted for grading and problems that are neither
+   submitted nor graded. Graded questions are listed in bold-faced text on the
+   Course Schedule and are managed through the Connect system. Graded
+   homework must be completed individually, however you are permitted to
+   collaborate with classmates on figuring out how to structure the solution to assigned
+   questions. Graded homework is due by 8am on the day of class, and late
+   homework will not be accepted. Connect changes the numbers in the problem for
+   each student, so the data will differ from the textbook and your solution will not be
+   the same as your classmates’ solutions. Connect will grade these problems, provide
+   solutions (after all sections of ACC 311 have submitted their homework), and
+   indicate areas where you need to do additional study.
+   The homework grade is the percent of all graded problems completed correctly. No
+   homework assignments can be dropped in computing the final homework
+   grade.
+                                             3
+
+
+     The problems that are not required to be submitted or graded (not bold-faced) are as
+     critical to your success as those that are graded.
+If you have difficulty using Connect or encounter a problem with it please first try to
+resolve the problem with Connect Customer Support: 800.331.5094. If you have
+questions about how to solve the exercises or problems, please see your instructor or
+TA’s (listed above).
+Instructor Discretion
+     Instructor discretion may include (but is not limited to) announced or unannounced
+     quizzes (in or out of class), quizzes on Canvas, participation, extra homework, or
+     group projects. If I choose to make such assignments their scores will be treated as
+     part of the instructor discretion.
+In-class assignments
+    I plan to utilize in-class small group assignments for the instructor discretion grade
+    weighting. There will be approximately 8-10 assignments during the semester. If you
+    miss an assignment you will receive a zero for that assignment. No make-ups will be
+    given for missed points. If you leave class after taking the in-class assignment but
+    before the end of class, I reserve the right to discard any assignments for students not
+    in attendance for the entire class period. You MUST come to the section in which
+    you are officially registered to receive credit for in-class assignment. I do not return
+    in-class assignments, but they are kept in my office and you may come and examine
+    yours and ask questions.
+Class Protocol
+    If for some reason you are running late, do not feel you should skip class. Please
+    come in quietly and take a seat at the side or in the rear of the classroom. If you must
+    leave class early, please tell me before class starts. I would appreciate it. Such
+    comings and goings during class should be rare—do not let them become a habit.
+    If you need to miss a class or other required activity, including an examination, for
+    any reason, please inform me as far in advance of the absence as possible, so that I
+    can approve the absence as excused and arrangements can be made to complete any
+    missed work within a reasonable time after the absence. If you miss a class or other
+    required activity, including an examination, for reasons beyond your control,
+    precluding prior notice, inform me of the circumstances as soon as you are able.
+Personal Electronic Equipment Policy
+    The University delegates to individual faculty member’s responsibility for and
+    authority over classroom procedure and decorum. Due to abuse by those who came
+    before you, I regret to announce you may not use a LAPTOP, e-Tablet, CELL
+    PHONE, PDA, DVD player or MP3 (iPod) or any other such equipment during class
+    time (unless it is an accommodation specified by the Office of Services for Students
+    with Disabilities). Such types of equipment are distractions. Moreover, if I tolerate
+    any one student using such equipment, I cannot deny others. From experience, I
+    know that I cannot allow use of these distracters to escalate and get out of hand.
+                                               4
+
+
+   Therefore, I will not tolerate any use by any individual student while class is in
+   session. All such equipment should be turned off and put away. You are encouraged
+   to bring a calculator to class and have it ready to use.
+   In addition to the use of the above types of equipment, all other forms of distracting
+   behavior are prohibited. I won’t begin to list such behaviors; you should know what
+   is inappropriate.
+E-mail and Canvas
+   The use of email and Canvas is required for this course. I will frequently
+   communicate with the class with announcements and guidance and I will answer
+   questions via email. When you email me, please be sure to include “ACC 311 ” in
+   the subject line. Otherwise, your email might be screened out. I check my e-mail
+   at frequent intervals during weekdays and somewhat less regularly over weekends. I
+   will use the email addresses that are supplied to me on Canvas. They are the email
+   addresses that you have given the University for directory purposes. If you need to
+   update your email address with the University go to your UT Direct page and, under
+   personal info/all my addresses, change your email address. Before each class, I will
+   post on Canvas any PowerPoint slides I intend to use. You can print them in handout
+   style to save paper—either six slides to a page or, if you prefer, three slides
+   accompanied by note-taking space. It is your responsibility to regularly check both
+   your e-mail and the class website on Canvas.
+Grading Questions or Appeals
+   Do not wait until the end of the semester to question or appeal grade components
+   other than the final examination.
+   If you feel there exists a grading error on any of the grade components, or if you feel
+   you need to bring to the attention of our Teaching Assistant or me other facts or
+   circumstances that might affect the grade for that item, you will have ONE WEEK
+   from the date the grade is posted on Canvas to take such action and have the matter
+   resolved.
+Electronic Class Rosters & Privacy in Canvas
+   A recent opinion from the US Department of Education states that the University
+   must inform students in advance if their name will be appearing on an electronic class
+   roster: Since Fall 2001, web-based, password-protected class sites have been
+   available for all accredited courses taught at The University. Class e-mail rosters are
+   a component of the sites. Students who do not want their names included in these
+   electronic class rosters must restrict their directory information in the Office of the
+   Registrar, Main Building, Room 1. For information on restricting directory
+   information see: http://www.utexas.edu/student/registrar/catalogs/gi00-
+   01/app/appc09.html        Privacy in Canvas: Information in Canvas is protected by
+   your UTEID login. Please be aware that I will use a merged Canvas site for all
+   sections of the course that I am teaching this semester. This will allow students in
+   other sections to see that you are enrolled in the course and send you email from
+   within Canvas. However, they will not actually learn your email address and no other
+   personal data will be revealed through Canvas. If you have any concerns, please
+                                               5
+
+
+    contact the ITS Help Desk at 475-9400 for help removing your name from view of
+    other students.
+Academic Standards
+     A high academic level will be maintained with respect to (a) the quality of the course
+     and (b) grading. Semester grades will be determined using the following factors and
+     relative weights:
+                   Graded homework (Connect & Solid Footing)                                 15%
+                   Two (non-cumulative) Midterms:
+                      Lower Midterm                                                          15%
+                      Higher Midterm                                                         25%
+                   Final Exam (comprehensive)                                                35%
+                   Instructor discretion—quizzes, group projects, etc.                       10%
+                                                                                            100%
+    The ACC 311 faculty has adopted the University’s plus/minus grading as the standard
+    for all sections of the course.1 The faculty believes that plus/minus grading permits
+    us to better distinguish gradations in performance and provides better feedback to
+    students on their performance.
+    Course grades will be such that the class average will be in the range of 3.0 – 3.2.
+    Grades will be based on the total points earned in the course (as shown above).
+    You may assess your performance based on the traditional grade cutoffs of 90% = A-,
+    80% = B-, 70% = C-, 60% = D-, and below 60% = F. It is possible, but not
+    guaranteed, that we will curve grades at the end of the course. No grades will be
+    associated with scores on exams or quizzes during the semester. In addition, no
+    individual exam grades will be curved during the semester.
+    Incompletes will be given only in the RAREST of circumstances and only in
+    accordance with university policy. There will be no opportunity to raise your course
+    grade by doing “extra credit” work during or after the end of the semester—that
+    would violate University policy.
+Examinations
+    There will be two midterm examinations and a comprehensive final examination.
+     Exams 1 & 2 will be uniform (all sections at the same time).
+     Exam 1:              Wednesday Oct. 3rd                  7-9 PM Rooms TBA
+     Exam 2:              Wednesday Nov. 7th                  7-9 PM Rooms TBA
+     Make-ups will be the following day or evening.
+1
+  Under the traditional grading system an undergraduate student needs a D or better to receive credit for a
+course; under the plus/minus system an undergraduate student needs a D- or better to receive credit.
+                                                    6
+
+
+     The Final Exam will be uniform (all sections at the same time) and comprehensive
+     (covering the entire course). It will NOT be given on the dates and times listed in the
+     UT course schedule. The actual dates and times will be announced later in the
+     semester. NO EXAMS WILL BE GIVEN EARLY. IF YOU MUST SCHEDULE
+     AIRFARE BEFORE THE EXACT DATE OF THE FINAL IS KNOWN PLEASE
+     DO NOT SCHEDULE TRAVEL BEFORE THE LAST DAY OF FINALS.
+     Examinations are individual work; no collaboration of any kind is allowed. All
+     exams are also closed book/notes. Calculators that can store text are not allowed.
+     Only students with conflicts with other UT classes or UT exams, medical or other
+     documented emergencies and special needs will be given exams at times other than
+     the uniform exams. If you have a job or extra-curricular activities at the times of the
+     exams, this is notice that you are responsible to be excused, miss or work around
+     those other activities. Individual makeup exams must be taken within 72 hours of
+     the original exam.
+     Unexcused absence from any examination will result in a score of zero. If you miss
+     an exam due to an illness or other emergency reason, you should notify me as soon
+     as possible and provide me with written documentation (e.g., a note from the
+     attending physician) after you return. I have final authority to determine if your
+     absence should be excused and if I can give you a make-up exam. If you have an
+     excused absence from a mid-term exam and I cannot give you a make-up exam, you
+     will receive extra weight on your final to compensate for the missed examination.
+     If you need to make early travel reservations for the end of the semester, you should
+     make them for travel on December 20th or later—because we will not know until
+     well into the semester exactly when our examination will be scheduled by the
+     University. If you make non-refundable (or non-cancelable) arrangements for travel
+     before December 20th they will not be an acceptable reason for taking the final exam
+     early.
+Dropping the Course
+    Students must go through the official procedures to drop the course. A student who
+    stops attending the class and fails to officially drop will receive a grade of F. Consult
+    the Academic Calendar on the Registrar’s website
+    (http://registrar.utexas.edu/calendars/) for specific deadlines.
+Students with Disabilities
+Students with disabilities may request appropriate academic accommodations from the
+Division of Diversity and Community Engagement, Services for Students with
+Disabilities, 512-471-6259, http://diversity.utexas.edu/disability/.
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days
+prior to the date of observance of a religious holy day. If you must miss a class, an
+examination, a work assignment, or a project in order to observe a religious holy day, you
+                                               7
+
+
+will be given an opportunity to complete the missed work within a reasonable time after
+the absence.
+Policy on Scholastic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty.
+The responsibilities of both students and faculty with regard to scholastic dishonesty are
+described in detail in the BBA Program’s Statement on Scholastic Dishonesty at
+http://my.mccombs.utexas.edu/BBA/Code-of-Ethics. By teaching this course, I have
+agreed to observe all faculty responsibilities described there. By enrolling in this class,
+you have agreed to observe all student responsibilities described there. If the
+application of the Statement on Scholastic Dishonesty to this class or its assignments is
+unclear in any way, it is your responsibility to ask me for clarification. Students who
+violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University.
+Since dishonesty harms the individual, all students, the integrity of the University, and
+the value of our academic brand, policies on scholastic dishonesty will be strictly
+enforced. You should refer to the Student Conduct and Academic Integrity website at
+http://deanofstudents.utexas.edu/conduct/ to access the official University policies and
+procedures on scholastic dishonesty as well as further elaboration on what constitutes
+scholastic dishonesty.
+Campus Safety
+Please note the following recommendations regarding emergency evacuation, provided
+by the Office of Campus Safety and Security, 512-471-5767,
+https://preparedness.utexas.edu/:
+    • Occupants of buildings on The University of Texas at Austin campus are
+        required to evacuate buildings when a fire alarm is activated. Alarm activation
+        or announcement requires exiting and assembling outside.
+    • Familiarize yourself with all exit doors of each classroom and building you may
+        occupy. Remember that the nearest exit door may not be the one you used when
+        entering the building.
+    • Students requiring assistance in evacuation should inform the instructor in
+        writing during the first week of class.
+    • In the event of an evacuation, follow the instruction of faculty or class
+        instructors.
+    • Do not re-enter a building unless given instructions by the following: Austin Fire
+        Department, The University of Texas at Austin Police Department, or Fire
+        Prevention Services office.
+Behavior Concerns Advice Line (BCAL): 512-232-5050 or on-line.
+In case of emergency, further information will be available at:
+http://www.utexas.edu/emergency.
+                                               8
+
+
+                                                         ACC 311
+                Libby, Libby, Hodge Financial Accounting, Ninth Edition
+                         Textbook Material Excluded From the Course
+                                                         EXAM 1
+Chapter 1
+Chapter Supplement B: Employment in the Accounting Profession (p 23-24)
+Chapter 11
+Key Ratio Analysis: Dividend Yield (p 563)
+Stock Dividends and Stock Splits: (p 566-568)
+Preferred Stock: (p. 570-572)
+Chapter Supplement: Accounting for Owner’s Equity for Sole Proprietorships and Partnerships (p 574-578)
+                                                         EXAM 2
+Chapter 6
+Report, control and safeguard cash (p 299-304)
+Chapter 7
+Inventory Methods and Financial Statement Analysis (p 350-353)
+Chapter Supplement A: LIFO Liquidations (p 358-359)
+Chapter Supplement B: FIFO and LIFO Cost of Goods (p 359-360)
+Chapter Supplement C: Additional Issues in Measuring Purchases (p 360-361)
+Chapter 9
+Chapter Supplement A: Present Value Computations Using Excel (p 484)
+Chapter Supplement B: Deferred Taxes (p 485)
+                                                         EXAM 3
+Chapter 12
+Key Ratio Analysis: Quality of Income Ratio (p 615)
+Key Ratio Analysis: Capital Acquisitions Ratio and Free Cash Flow (p 618-619)
+Chapter Supplement A: Reporting Cash Flows from Operating Activities – Direct Method (p 625-628)
+Chapter 10
+DO NOT READ Chapter 10 in Libby, Libby & Hodge
+Read the supplemental Chapter 10 reading provided by the ACC 311 faculty on Canvas.
+APPENDIX A
+DO NOT READ APPENDIX A in Libby, Libby & Hodge
+Read the supplemental APPENDIX A reading provided by the ACC 311 faculty on Canvas.
+                       Anticipate slight differences in page number for the online textbook (E-book).
+                                                              9

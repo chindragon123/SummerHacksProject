@@ -1,0 +1,448 @@
+                                                 University of Texas at Austin
+                                                        Course Outline
+                            Economics 329: ECONOMIC STATISTICS-WB
+                                             Summer 2019, Unique Number 80330
+Course web site: Canvas at UT-Austin
+Instructor: Dr. Valerie R. Bencivenga
+Office: BRB 3.102C
+Office hours: By email, Piazza, and appointment
+Phone: 512-475-8509 (do not leave a message, email instead)
+Email: Eco329.vrb@gmail.com (course email for most email), benciven@utexas.edu (UT email for confidential matters)
+The best way to contact me is by email. I check email multiple times per day and usually I will reply within minutes or hours (or by
+the next day at the latest). Do not leave a phone message. Send an email to the course email. Do not use Canvas messaging.
+KEY INFORMATION
+Because this is an online course, and I won’t be greeting you and introducing the course to you in person, I’m
+putting some tips about key information and where to find it here at the beginning of the course outline. The usual
+course outline information then follows.
+In this course, you’ll watch videoed lectures (and do the associated reading in the textbook), take Canvas quizzes,
+and take three exams. You can take this course from anywhere (exams can be taken on the UT-Austin campus or at
+a testing center near you where you can take the exams in person in a proctored setting). All of the work and
+materials will be on the Canvas course web site from the start of the course, and you can do the work on your own
+schedule (except for Canvas quiz due dates and scheduled exams).
+All students should be concerned about keeping an appropriate pace and studying effectively so that you can do
+well on the exams, which count for 90% of your course grade. Midterm #1 is 15%, midterm #2 is 30%, and the
+final exam is 45%. The Canvas quizzes are 5% and the InstaPolls (pop up questions in lecture videos) are 5%.
+To help you, I’ve created the following tools, which are on Canvas:
+        2019 Summer Teaching & Learning Plan.xlsx. A downloadable Excel spreadsheet with a suggested day-
+         by-day schedule for viewing the lecture videos, Canvas quiz due dates, and targeted practice problems
+         (organized to coordinate with the lecture videos, links are in the topic modules on Canvas).
+        Calendar images (reproduced below).
+        ECO 329 Lecture Videos & Reading ONLINE COURSE.pdf. A table of the lecture videos and associated
+         reading (reproduced below).
+In addition, on Canvas you’ll find
+        Details about the course and strategies for learning are on the READ FIRST page.
+        Topic modules. Each topic module has a web page with a lot of information and links to the lecture videos.
+        5 semesters of old exams for practice. Additional practice problems. Formula sheets and probability tables
+         you’ll get with your exams.
+        Test center and remote testing information for students who elect to take their exams at a testing center.
+         Test Center & Remote Testing Information 2019.pdf (reproduced at the end of the course outline).
+COURSE OBJECTIVES
+Economic Statistics is a first course in quantitative methods that are widely used in economics and business. The
+main objectives of this course are to
+        explore methods for describing data
+        teach students how to build and analyze probability models of economic and business situations
+        introduce a variety of statistical methods used to draw conclusions from economic data, and to convey the
+         conceptual and mathematical foundations of these methods
+        lay a foundation for econometrics
+
+
+COURSE DESCRIPTION
+SEGMENT 1. The unit on descriptive statistics covers methods for describing the distribution of data on one or
+more variables, including measures of central tendency and dispersion, correlation, frequency distributions,
+percentiles, and histograms.
+In economics and business, we specify a probability model for the random process that generated the data (data-
+generating process, or DGP). The unit on probability theory covers the set-theoretic foundations of probability
+and the axioms of probability; rules of probability derived from the axioms, including Bayes’ Rule; counting rules;
+and joint probability distributions. MIDTERM #1.
+SEGMENT 2. Random variables are probability models of random quantities and events. We study the binomial,
+hypergeometric, and Poisson distributions, which are discrete random variables (used, for example, in quality
+control and to forecast customer arrivals). We study the uniform and normal distributions, which are
+continuous random variables (providing models of the amount of time to complete a task, or wages, for
+example). Random variables allow us to compute probabilities of events (for example, the probability a portfolio
+loses money, or the probability a bid wins in an auction). The chi-square, Student t, and F distributions, which
+are related to the normal distribution, are introduced for use later in this course and in econometrics (may be
+covered in the unit on sampling theory).
+Sampling theory builds probability models of the impact of randomness in the DGP on statistics we compute from
+data. We derive sampling distributions of various statistics in the context of different DGPs. The Central Limit
+Theorem sometimes allows us to derive approximate sampling distributions even when we don’t know much
+about the DGP. Part of sampling theory is covered in Segment 2. MIDTERM #2.
+SEGMENT 3. Sampling distributions provide a basis for choosing an estimator of a population parameter, and
+they allow us to calculate confidence intervals from data (intervals that quantify uncertainty in our estimates of
+parameters of the DGP, such as the true mean rate of output of a production process, or the true variance of the rate
+of return on a portfolio). We also develop hypothesis tests for a set of DGPs. Statistical inference (estimation and
+hypothesis testing) about one parameter of a single population and about the relationship between parameters
+across two populations are considered. FINAL EXAM.
+PREREQUISITES
+Grades of at least C- in ECO 304K and L and in MATH 408C and D or MATH 408K and L (or the equivalent)
+TEXTBOOK AND OTHER REQUIRED MATERIALS
+The required textbook is PROBABILITY AND STATISTICS FOR ENGINEERING AND THE SCIENCES, 9th edition,
+by Jay DEVORE (Cengage). The textbook is available in a hardcover edition for purchase. Alternatively, you can
+rent the textbook, which is less expensive. Here is the link to the Cengage web site, which has that option:
+https://www.cengage.com/c/probability-and-statistics-for-engineering-and-the-sciences-9e-devore
+LECTURE VIDEOS
+The topic modules on Canvas (Topics 1 through 10) have links to the lecture videos. You can watch the lecture
+videos as many times as you want but InstaPolls vanish once you pass them (see below). You are responsible for all
+material covered in the lectures.
+EVALUATION
+Your course score will be based on midterm exam #1 (15%), midterm exam #2 (30%), a final exam (45%),
+Canvas quizzes (5%), and InstaPoll questions (5%). Your course score will be computed as a weighted average,
+using your percentage scores on these components. A course grade will be assigned based on your course score
+relative to the distribution of course scores in the class together with an absolute standard that reflects required
+minimum knowledge needed for using statistics and for subsequent courses. Pluses and minuses will be used.
+The percentage of students receiving any particular letter grade is not predetermined. It is possible for all students
+to get a C or above, and for the large majority to receive an A or a B. However, lower grades will be assigned to
+students who do not demonstrate adequate proficiency and knowledge of the material.
+Curve. In this course, exam scores are “curved” by adjusting the “denominator” (dividing by a number less than the
+point total of the exam, which effectively converts some points to “extra credit”), and by setting cutoffs between
+letter grades.. After MT#1, I will post tentative cutoffs (percentage scores) between A, A-, B+, etc. After MT#2, I
+will announce updated cutoffs, based on the distribution of a weighted average of MT#1 and MT#2 scores. At the
+end of the semester, I will post final cutoffs for course grades, based on the distribution of course scores.
+                                                             2
+
+
+EXAMS
+Dates for the exams are below. The listed times are for students who elect to take the exams in person on the UT-
+Austin campus. Students who elect to take the exams at a testing center must take the exam on the same
+day, during a window of time (7 am to 1 pm for the midterms, 11 am to 8 pm for the final exam). See Test Center
+& Remote Testing Information 2019.pdf (below and posted on Canvas).
+          Midterm #1 June 24, 9:00 to 11:00 am                      CAL 100
+          Midterm #2 July 11, 9:00 to 11:00 am                      CAL 100
+          Final exam      Thursday Aug 1, 2:00 to 5:00 pm           TBA
+Let me know immediately if you have a conflict that prevents you from taking any of the exams at the scheduled
+time. If you have a conflict with another class or exam, I will schedule your exam at an alternate time. I give
+alternate time exams only to students who legitimately need them. If you do not notify me of a conflict by Friday
+June 14 at noon, you will be required to take the exams at the scheduled times unless an emergency arises.
+If you require an accommodation for a disability, please let me know about it as soon as possible, even if you don’t
+yet have your accommodation letter from Services for Students with Disabilities. See the section on
+accommodations for students with disabilities (below).
+There will be no makeup midterms. If you miss a midterm due to illness, a personal emergency, or other valid
+reason, and if you provide me with documentation of the event, I will re-weight your other exams. An illness or
+emergency must be serious and unavoidable, and documented, in order for you to be excused. Otherwise, you will
+receive a zero for the missed exam. Contact me by email as soon as possible, to discuss your situation.
+You must take the final exam at the scheduled or arranged time unless you have a valid, documented reason. A
+request to take the final exam at an alternate time should be made well ahead. If an illness or emergency prevents
+you from writing the final exam at the scheduled or arranged time, contact me by email at the earliest opportunity.
+If the illness or emergency is serious and unavoidable, and documented, you will receive an incomplete for the
+course, and a makeup final exam will be arranged, which may be during the following semester.
+A deadline for raising grading issues will be announced after each midterm exam, together with a process for
+submitting a request for your exam to be re-graded.
+CANVAS QUIZZES
+There are quizzes on Canvas, with due dates, that count as part of your course score. Point values of Canvas
+quiz questions vary. The number of questions and point values of Canvas quizzes vary. Each Canvas quiz question
+is either correct (full points) or wrong (zero points). Each quiz gives you two attempts and the last attempt
+counts (not the highest).
+You take the Canvas quizzes using the “Quizzes” tab on Canvas. Canvas quiz questions also are posted in the
+Canvas “topic modules”, so you can solve them before opening the Canvas quiz. I recommend this, because
+opening a Canvas quiz counts as an attempt. You may work in groups on the Canvas quizzes (but you should
+make sure you understand every solution in order to learn from the quizzes).
+Answers will be discussed in the problem-solving sessions but will not be posted on Canvas.
+INSTAPOLL QUESTIONS
+There are InstaPoll (pop-up) multiple choice questions embedded in the lecture videos. InstaPolls may pop up
+during the lecture or at the end. There are approximately 130 InstaPolls over the course. Each InstaPoll is worth 2
+points. Your answer is correct or incorrect. When an InstaPoll pops up, that is your only opportunity to
+answer. Once you answer, or if you pass the InstaPoll, it vanishes permanently. Do not scroll ahead or click
+ahead in the video. Any InstaPoll you pass will be lost permanently. All of the InstaPolls will be scored (“graded”)
+at the end of the course (on Aug. 1).
+PROBLEM-SOLVING SESSIONS (OPTIONAL)
+The problem-solving sessions are:
+         Wednesdays and Fridays 9:00 to 10:00 am
+      In RLP 0.112
+If you are in Austin, you are welcome to attend and ask questions in person. For other students, the problem-
+solving sessions will be available in Lectures Online (see “Lectures Online” tabs on Canvas). Depending on demand,
+the problem-solving sessions may also be “live streamed”.
+                                                           3
+
+
+On Canvas, see the downloadable Excel spreadsheet called “2019 Summer Teaching & Learning Plan.xlsx” for
+the schedule of problems the TA will solve in the problem-solving sessions.
+The TA will solve examples that will help you with the Canvas quizzes; go over the answers to the Canvas quizzes
+(after the due dates); and work through practice questions to help build your problem-solving skills and prepare
+for the exams. The objective is to give you practice with the logic involved in figuring out how to approach a
+problem, how to set it up, and how to solve it. The problem-solving sessions are optional but strongly
+recommended.
+CANVAS
+See the “READ FIRST” page on Canvas for an overview of the course, including the resources available on Canvas.
+There’s a link to “READ FIRST” on the home page, and you can find it directly in the “Schedule of work and
+information about graded work” module.
+PIAZZA
+This course will use Piazza, a discussion board that is built directly into the Canvas course web site. On Piazza,
+students can submit questions related to the content of the course that other students might benefit from seeing.
+Students are encouraged to answer each other’s questions. There’s no better way to be sure you understand
+something than to explain it to others! I will check Piazza regularly to answer questions and to “endorse” good
+answers submitted by students.
+COMMUNICATION
+You are responsible for all information posted on Canvas, including Canvas announcements. The TA’s and I will use
+Canvas announcements to communicate with students. Course announcements may come from me or the TA’s.
+You are responsible for all information in email exchanges directly between you and me, and between you and the
+TA’s. Emails from the TA’s and me may come from our UT email addresses, or the course gmail
+(Eco329.vrb@gmail.com), or an email address set up by the online courses team to use for arranging exams at
+testing centers (this email address is TBA). Check any email address that you have used to email me or the TA’s, as
+well as whichever of your email addresses is used by Canvas. I strongly recommend you set up Canvas so that
+announcements are emailed to you (in addition to remaining permanently on Canvas).
+OFFICE HOURS
+Because this is an online course, I plan to hold office hours by email, as well as through other channels, including
+Piazza, walk-in office hours in my UT office (posted ahead in Canvas announcements), and pre-arranged
+appointments in my UT office. I can also arrange to speak with students on the phone.
+For “email office hours” please use Eco329.vrb@gmail.com which is the course gmail. Feel free to embed or
+attach “snips” or photos of your work so that you can refer to details in your question.
+I will answer email promptly – usually within hours and definitely by the next day. Usually weekends are
+the same but occasionally on a weekend it might take me a bit longer to reply.
+Depending on enrollment, Dongchen Zhao, one of the TA’s, may have additional office hours for students to get
+help. If so, they will be posted on Canvas. Sangwoo Choi, the other TA, will grade the exams, and will answer
+student questions about grading.
+TEACHING ASSISTANTS
+TA names, and TA office numbers, office hours, and email addresses are also on Canvas.
+Name                             Office          Office hours            Email address
+Sangwoo Choi                     BRB             TBA                     onlineeco329odta@austin.utexas.edu
+Dongchen Zhao                    BRB                                     onlineeco329odta@austin.utexas.edu
+                                                            4
+
+
+SCHEDULE OF TOPICS AND READING
+Below is a schedule of the videoed lectures together with the pdf’s of the lecture slides (posted on Canvas) and the
+textbook reading. This schedule is also posted on Canvas in the “Schedule of work and information about graded
+work” module in a document with the title “ECO 329 Lecture Videos & Reading ONLINE COURSE.pdf”.
+On Canvas, you’ll find a page that has a calendar of topics, Canvas quizzes, and exams (same module). These
+calendar images are reproduced below.
+On Canvas, you’ll also find a downloadable Excel spreadsheet that has a day-by-day timetable of topics, Canvas
+quizzes, suggested dates for viewing the videoed lectures, the number of InstaPoll questions for each lecture, and a
+tentative list of problems that will be solved by the TA in each OPTIONAL problem-solving session. Same module.
+ECO 329 Lecture Videos & Reading ONLINE COURSE.pdf (also posted on Canvas):
+Topics            Lecture titles (and video titles)         Time    Lecture slides (file names) Devore    Notes
+1: Introduction   Introduction and the Nature of Economic   53:02   01-1 intro LECTURE          1.1
+                  Data
+2: Descriptive    Part 1, Lecture 1: Measures of Central    38:20   02-1 descriptive LECTURE 1  1.3
+Statistics        Tendency
+                  Part 1, Lecture 2: Measures of Dispersion 29:19   02-1 descriptive LECTURE 2  1.4       Skip boxplots
+                  Part 1, Lecture 3: Linear Transformation  30:14   02-1 descriptive LECTURE 3
+                  Part 2: Covariance and Correlation        39:11   02-2a descriptive LECTURE
+3: Frequency      Part 1: Frequency Distributions and       1:20:40 03a freq dist LECTURE       1.2       Skip stem and leaf
+Distribution      Grouped Data                                                                            plots and dotplots
+4: Probability    Part 1: Set Theory and the Axioms of      1:06:32 04-1 prob                   2.1, 2.2
+Theory            Probability
+                  Part 2: Rules of Probability              1:07:14 04-2 prob                   2.2, 2.3,
+                                                                                                2.4, 2.5
+                  Part 3, Lecture 1: Bayes Rule and         1:12:11 04-3 prob LECTURE ONE                 Bayes Rule is in 2.4
+                  Bivariate Probability Distributions
+                  Part 3, Lecture 2: Counting Rules         42:42   04-3 prob LECTURE TWO       2.3
+                  MIDTERM #1
+5: Discrete       Part 1: Random Variables and              1:41:36 05-1 discrete rv 1          3.1, 3.2,
+Random            Mathematical Expectations                                                     3.3
+Variables         Part 2: Joint Probability Distributions   2:09:00 05-2 discrete rv 2          5.1, 5.2  Part 2: Absorb the
+                  Part 3, Lecture 1: Binomial Random        1:10:06 05-3 discrete rv 3 LECTURE  3.4       discussion about
+                  Variable                                          1 binomial                            jointly distributed
+                  Part 3, Lecture 2: Poisson Random         19:58   05-3 discrete rv 3 LECTURE            discrete random
+                  Variable                                          2 Poisson                             variables. Re-read
+                  Part 3, Lecture 3: Hypergeometric         33:55   05-3 discrete rv 3 LECTURE  3.6       the discussion about
+                  Random Variable                                   3 hypergeometric                      jointly-distributed
+                  Review Questions: Binomial,               14:14   No posted file (InstaPoll   3.5       continuous random
+                  Hypergeometric and Poisson                        questions)                            variables along with
+                  Distributions                                                                           the next topic. Skip
+                                                                                                          Ex 5.8.
+6: Continuous     Part 1: Continuous Random Variables       1:34:58 06 continuous rv 1          4.1, 4.2
+Random            Part 2: Continuous Random Variables       1:50:23 06 continuous rv 2          4.3       4.3: Skip the
+Variables                                                                                                 binomial
+                                                                                                          approximation to the
+                  Part 3: Continuous Random Variables:      28:46   06 continuous rv 3 NORMAL   4.6       normal distribution
+                  Normal Plot                                       PLOT                                  Skip 4.4, 4.5
+7: Sampling       Part 1: Sampling Theory                   1:52:51 07 sampling 1 (BEFORE       5.3, 5.4,
+Theory                                                              MT#2)                       5.5
+                  MIDTERM #2
+                  Part 2: Sampling Theory                   1:38:37 07 sampling 1 (AFTER
+                                                                    MT#2)
+                  Review Questions: Sampling Theory         27:53   No posted file (InstaPoll
+                                                                    questions)
+                                                               5
+
+
+8: Point and  Part 1: Point and Interval Estimation   1:56:38 08-1 point & interval est   7.1, 7.2, Skip prediction
+Interval                                                      LECTURE                     7.3       interval, tolerance
+Estimation                                                                                          intervals
+              Part 2: Properties of Estimators        55:28   08-2 properties of          6.1       Skip Ex 6.8, skip 6.2,
+                                                              estimators LECTURE                    skip the score CI for p
+9: Hypothesis Part 1: Conceptual Framework for        37:45   09-1 hyp testing intro      8.1
+Testing       Hypothesis Tests                                LECTURE
+              Part 2: Hypothesis Testing: Success     1:18:45 09-2 Bernoulli pop LECTURE  8.4
+              Probability of a Bernoulli Population
+              Part 3: Hypothesis Testing: Population  2:07:44 09-3 population mean        8.2, 8.3
+              Mean                                            LECTURE
+              Part 4: Hypothesis Testing: Normal      NA      09-4 normal pop, variance
+              Population, Variance                            LECTURE
+              Part 5: Rejection Regions, Confidence   1:17:38 09-5 p-values etc LECTURE   8.5       Skip simultaneous
+              Intervals, and P-Values                                                               testing, likelihood
+                                                                                                    ratio principle
+10: Two       Part 1: Two Populations: Hypothesis     1:53:47 10-1 two pops, diff between 9.1, 9.2  Skip to pooled t
+Populations:  Tests and Confidence Intervals                  means LECTURE                         procedures in 9.2
+Hypothesis    Part 2: Hypothesis Tests and Confidence 33:35   10-2 two Bernoulli pops     9.4
+Tests and     Intervals: Two Bernoulli Populations,           LECTURE
+Confidence    Large Samples
+Intervals     Part 3: Hypothesis Tests and Confidence 55:50   10-3 two normal pops, diff  9.5
+              Intervals: Variances of Two Normal              between variances LECTURE
+              Populations
+              FINAL EXAM
+                                                         6
+
+
+These calendar images are also posted on Canvas (see the “Calendar Images SUMMER 2019 ONLINE COURSE” page):
+                                                                7
+
+
+QUANTITATIVE REASONING FLAG. This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are
+designed to equip you with skills that are necessary for understanding the types of quantitative arguments you will regularly
+encounter in your adult and professional life. You should therefore expect a substantial portion of your grade to come from
+your use of quantitative skills to analyze real-world problems.
+ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES. A student with a disability may request academic accommodations
+from Services for Students with Disabilities (512-471-6259, http://diversity.utexas.edu/disability/). SSD accepts
+documentation of the disability, and provides the student with letters for their instructors stating the appropriate
+accommodations. SSD also provides guidelines for informing instructors about needed accommodations.
+Let me know of any accommodation(s) you will need as early in the session as possible, even if you don’t have your
+accommodation letter yet. In order to receive an accommodation, I need either the SSD letter or knowledge that the letter is
+on its way at least as far ahead as specified by SSD guidelines for informing instructors. (If you receive an accommodation, I
+will need your SSD accommodation letter in order for your score to count toward your course grade.)
+RELIGIOUS HOLY DAYS. By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, or an assignment, in order to observe a
+religious holy day, you will be given an opportunity to complete the missed work within a reasonable amount of time after the
+absence.
+ACADEMIC INTEGRITY. Each student in this course is expected to abide by the University of Texas Honor Code:
+          “The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+          opportunity, and responsibility. Each member of the university is expected to uphold these values through
+          integrity, honesty, trust, fairness, and respect toward peers and community.”
+On all graded work in this course, you are expected to submit work that is your own. On homework and quizzes, you are
+welcome to discuss with others how to approach a problem, but the last step before you submit your answer should be that
+you solve the problem yourself. However, discussion in class about clicker questions is allowed and encouraged.
+During exams, you must do your own work. Unless it is explicitly allowed, you may consult only the materials provided as
+part of the exam, and you may not look at notes, books, articles, etc., whether yours or anyone else’s. No communication of
+any kind is permitted between students during exams (written, verbal, non-verbal, etc.). You may not look at another
+student’s work, and you may not show another student your work. Any such behavior during the examinations will result in
+failure of the exam, and may lead to failure of the course and University disciplinary action.
+USE OF EMAIL FOR OFFICIAL CORRESPONDENCE TO STUDENTS. All students should become familiar with the University's
+official email student notification policy. It is the student's responsibility to keep the University informed of any changes in his
+or her email address. Students are expected to check email on a frequent and regular basis in order to stay current with
+University communications, recognizing that certain communications may be time-critical. This includes emails from
+instructors. It is recommended that email be checked daily.
+EMERGENCY EVACUATION. From the Office of Campus Safety and Security (512-471-5767,
+http://www.utexas.edu/safety/):
+     o Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings when a fire
+          alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+     o Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that the nearest
+          exit door may not be the one you used when entering the building.
+     o Students requiring assistance in evacuation shall inform their instructor in writing during the first week of class.
+     o In the event of an evacuation, follow the instruction of faculty or class instructors.
+     o Do not re-enter a building unless given instructions by the following: Austin Fire Department, The University of Texas
+          at Austin Police Department, or Fire Prevention Services office.
+     o Behavior Concerns Advice Line (BCAL): 512-232-5050
+     o Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+          utexas.edu/emergency.
+BEHAVIOR CONCERNS ADVICE LINE (BCAL). If you become worried about someone who is acting differently, you may call the
+Behavior Concerns Advice Line at 512-232-5050 to discuss your concerns about their behavior. This service is provided by
+the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance Program (EAP),
+and the University of Texas Police Department (UTPD). Visit http://www.utexas.edu/safety/bcal for more information.
+                                                                   8
+
+
+Test Center & Remote Testing Information 2019.pdf (also posted on Canvas)
+                                                Economics 329
+                                Su19 - ECONOMIC STATISTICS-WB (80330)
+                                      Online with On-demand Lectures
+Testing Information
+Exams for Eco 329 are NOT online, as may have been the case for previous online courses you have taken.
+They also do NOT use online proctoring. Students have two options for writing their exams:
+    1. Students may take their exams on the UT Austin campus. See the course outline or the Canvas
+       course web site for the dates, times, and locations (rooms) for Midterm Exam #1 and Midterm
+       Exam #2, and for the date and time of the Final Exam (the room for the final is TBA).
+    2. Students make take their exams at a certified testing center. Exams taken at a testing center
+       must be taken on the same dates, and within a time window around the UT Austin exam time.
+       See the course outline or the Canvas course web site (“READ FIRST” page) for the time windows.
+    3. There are three exams. A student may choose to take any or all of them at a testing center.
+For those students using a certified testing center, please note:
+          Eco 329 exams must be taken IN PERSON in a proctored environment. (They are not online
+           exams, and online proctoring, i.e., remote proctoring by a proctor who monitors the student
+           visually using the student’s computer’s camera, is not allowed.)
+          Use of a testing center is at the student’s expense. This includes paying for the student’s
+           answers to be “overnighted” to Dr. Bencivenga if the testing center cannot scan and email the
+           answers to Dr. Bencivenga. See below for information about getting your completed exam to
+           Dr. Bencivenga.
+          Students should schedule their exams at a testing center AS SOON AS POSSIBLE to make sure
+           the testing center has the capabilities and hours of operation that they need, and to reserve
+           spots for their exams. Because the exams must be taken on specific dates and in specific time
+           windows, immediately compare those to the days and hours that the testing center is open.
+          The student is responsible for providing all required information to the testing center and to
+           Dr. Bencivenga ahead of time, so she can send the exam and exam instructions to the testing
+           center ahead of time.
+          Contact Dr. Bencivenga immediately if you have any questions or if you run into any problems
+           arranging to take your exams at a testing center. Dr. Bencivenga will do what she can to
+           facilitate the arrangements but the requirements of proctored exams taken in person on
+           specific days and within specific windows of time cannot be relaxed. One accommodation Dr.
+           Bencivenga can make, especially for students abroad, is to designate a local person, such as
+           a teacher or librarian, as an acceptable proctor.
+To find a certified testing center in your area, check this link:
+      https://extension.utexas.edu/resources/policies/testing_sites_us
+                                                        9
+
+
+Signing up for each exam
+About two weeks before each exam (MT#1, MT#2, and the final exam), students will receive a Canvas
+announcement from Dr. Bencivenga or from the TA, asking whether they plan to take the exam at a
+testing center. The announcement will include a “form” asking for information about the testing center.
+       To take the exam at a testing center, fill out the form in the emailed announcement and then
+        forward the email to Dr. Bencivenga. Dr. Bencivenga will tell you which email address to use
+        when you forward your completed form. Do NOT reply to Canvas.
+        Make sure your “settings” in Canvas cause announcements to be emailed to you, and check your
+        email, so you receive the announcements with the sign-up forms.
+       If you plan to take the exam on the UT Austin campus, you do NOT need to complete the form. We
+        will assume that any student who does not fill out the form and return it by email will take
+        the exam on the UT Austin campus.
+       If students follow these instructions, the designated email address will have an email from every
+        student who wants to take the exam at a testing center, with the correct subject line. Do not alter
+        this plan!
+       Fill out the form for EVERY EXAM where you plan to use a testing center (even if it’s the same
+        testing center for more than one exam).
+Taking Your Exam
+If you are taking the exam on the UT Austin campus, bring your student ID, a government-issued photo
+ID, a calculator, and a blank “blue book” for writing the exam.
+The formula sheet and probability tables will be distributed along with your exam. Do not attempt to use
+your own printouts of those; the proctoring instructions will tell the proctor not to allow that.
+If you are taking your exam at a certified testing center, bring your student ID, a government-issued
+photo ID, a calculator, and a blank “blue book” for writing the exam, in addition to any other
+documentation the testing center requests (be sure to check in advance what identification your center
+needs). If a blue book is not available, bring blank paper and ask the proctor to improvise a blue book by
+stapling together some blank paper.
+Arranging for Your Completed Exam to be Returned to Dr. Bencivenga for Grading
+All students must return the exam questions as well as the blue book with their answers (or their exam
+grade will be zero).
+Dr. Bencivenga must get your completed exam (exam answers) quickly, for grading. This is especially
+true for the final exam, where the window for getting grades to the registrar is short.
+For students who are using a testing center, there are two options:
+    1. PREFERRED. Arrange for the testing center to scan your exam answers and email them to Dr.
+        Bencivenga. (The email address will be in the exam instructions.) If you use this option, you
+        MUST also provide the testing center with a postage-paid mailing envelope so that your exam
+        answers can be mailed to Dr. Bencivenga (“snail mail” is fine if your exam answers are scanned
+        and emailed).
+                                                        10
+
+
+    2. ACCEPTABLE BUT NOT PREFERRED. Provide the testing center with a prepaid envelope so
+       that the exam can be “overnighted” (Fedex, USPS overnight mail, etc.) to Dr. Bencivenga at UT
+       Austin. The mailing address will be in the exam instructions.
+    3. Dr. Bencivenga may assign a grade of “incomplete” to a student whose completed exam
+       does not arrive by the next day, by email (scanned) or by Fedex, USPS overnight mail, etc.
+       “The next day” means the day after the exam. The incomplete will be changed to a letter grade
+       once Dr. Bencivenga receives the exam and it has been graded, which could take several weeks
+       after it arrives.
+In 2019, the Eco 329 final exam is Thursday Aug. 1. Grades are due by 10 am on Tuesday Aug. 6. On
+Monday Aug. 5, Dr. Bencivenga will be finishing up grading and assigning course grades. UT Austin is
+closed on Saturday and Sunday. Any mail and shipments that arrive on Saturday or Sunday, including
+Fedexes, will be delivered to the Economics Department on Monday. There will not be enough time on
+Monday to grade exams that arrive on Monday. This is why a grade of “incomplete” may be assigned to
+any student whose final exam answers do not arrive by Friday.
+In case of a problem when you arrive at your testing center
+Dr. Bencivenga will provide your testing center with the exam and a cover sheet detailing the exam
+instructions, materials you are allowed to use, the time limit, and other necessary information. If there is
+any question or concern about the testing conditions when you arrive, please have your testing center
+contact Dr. Bencivenga at 512-731-8299 or vrbencivenga@gmail.com, immediately. (These are Dr.
+Bencivenga’s cell phone number and personal email address, which should be used only if there is an
+urgent problem with your exam-taking conditions.)
+Be sure to check the testing center’s requirements before you arrive. It is your responsibility to be
+prepared with identification, test materials, mailing materials, and anything else the testing center might
+require.
+                                                      11

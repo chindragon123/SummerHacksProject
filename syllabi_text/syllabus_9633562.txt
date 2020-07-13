@@ -1,0 +1,180 @@
+                        Health Economics: Eco F325K- Summer 2019
+                                     Unique Number: 80320
+  Instructor: Helen Schneider                               Class Time: MTWTHF 10-11:30 p.m.
+  Office: 3.116 BRB                                         Class Location: BRB 1.118
+  Office Phone: 471-1734                                    Office Hours: Tuesdays: 11:30-12:00
+  E-mail: h.schneider@eco.utexas.edu                                     Wednesdays: 11:30-12:00
+                                                                           or by appointment
+  TA: Mauricio Stern
+  mauricio.stern@utexas.edu
+  TA Office Hours: Mondays, 12-2, BRB 2.158
+ INTRODUCTION
+Health care is an exciting and evolving field in which government policies play a vital role. The
+course is designed for undergraduate students who seek an understanding of how to apply basic
+microeconomic tools to the study of health and medical care issues. This course will examine the
+special features of medical care as a commodity, the demand for health and medical care services,
+the economic explanations for the behavior of medical care providers, the functioning of insurance
+markets, federal health insurance programs, and regulation. Finally, this course will examine ideas
+for health care reform. Empirical results, current issues, and policy applications will be discussed
+throughout the course.
+Prerequisites: Intermediate Microeconomics (420K) is an essential prerequisite for this course.
+If it’s been a while since you took intermediate microeconomics, the textbook provides a review in
+Chapter 2. Chapter 3 reviews statistical tools for health economics.
+ COURSE MATERRIALS
+Required Reading: The Economics of Health and Health Care, Folland, Goodman and Stano, 8th
+Edition (Taylor & Francis, 2017)
+Additional Reading: Additional required and optional readings from sources other than the
+textbook will be posted on the course website (see below).
+The course outline gives the chapters and articles that correspond to the lectures. For better
+understanding of the course material the assigned reading must be finished before the class period.
+Website: Course material will be on the university’s Canvas system. In particular, homework
+assignments will not be handed out in class; they will be posted on Canvas for students to download.
+This class will also use the Grades feature on Canvas so that students can keep track of their scores
+on assignments and exams.
+POLICY ON STUDENTS WITH DISABILITIES
+The University of Texas at Austin provides upon receipt appropriate academic adjustments for
+qualified students with disabilities. For more information, contact the Office of the Dean of
+Students—Services for Students with Disabilities, 471-6259.
+                                                  1
+
+
+SCHOLASTIC DISHONESTY POLICY
+Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University. Since such
+dishonesty harms the individual, all students, and the integrity of the University, policies on
+scholastic dishonesty will be strictly enforced.
+EVALUATION AND GRADING
+ Tests. There will be two exams and a comprehensive final exam. If you have an emergency that
+prevents you from taking an exam, I need to be notified by e-mail or phone no later than the day of
+the exam. There will be no make-up exams for the midterms. Should dire circumstances (e.g.
+illness) prevent you from taking a test, its weight will be added to your final exam.
+Problem Sets. Three problem sets will count towards your final grade. All assignments may be
+obtained at the class web page. Collaboration among students in working out problem sets is
+encouraged, but you must write up your own homework. Questions very similar to the problem
+sets will appear on the exams. It behooves you to make sure that you understand and can present
+the solutions to problems on your own in spite of working on the material with one another.
+Turning in identical problem sets will result in a zero for both parties. Problem Sets are due at the
+beginning of class on their due date. Problem sets WILL NOT be accepted late. This is an absolute
+policy. Please do not ask for extensions. Answer keys will be posted after the due date.
+Policy Paper. You will be required to complete a policy paper that applies economic methodology
+to investigate the economics of a health care issue. Theoretical, empirical, or critical review papers
+are acceptable. Pure literature reviews (i.e., a type of book report) are unacceptable; you must
+display some original thinking. The paper should be no longer than 5 pages, and will be due on
+July 11. More details will be discussed in class on June 28.
+Grading Policy: A letter grade will be assigned based on your weighted course average score and
+your performance relative to the rest of the class. Letter grades include A, A-, B+, ... , D, D-, F.
+                                                                  Percentage of
+                     Requirement                                   Final Grade
+                     Problem Sets                                        15
+                     Exam 1                                              20
+                     Exam 2                                              20
+                     Policy Paper                                        15
+                     Final Exam                                          30
+                                                                        100
+                                                   2
+
+
+COURSE OUTLINE AND READING LIST
+This is only a suggested outline and is subject to change, unlike the exam dates, which are fixed.
+Any readings that are not from the textbook are posted on Canvas.
+FGS=Folland, Goodman and Stano, 8th edition
+ Date             Topic                                Reading Assignment
+ 6/6       TH Introduction                              FGS, Chapter 1
+ 6/7       F     The Production of Health               Newhouse, Joseph P. “Medical Care Costs:
+                 Demand for Health Capital                How Much Welfare Loss?” Journal of
+                                                          Economic Perspectives, 6(3), 1992, 3-21.
+                                                        FSG, Chapter 5
+ 6/10      M     Demand for Health Capital              FGS, Chapter 7
+                                                        Corman, et al. “Birth Outcome Production
+                                                          Function in the United States.” Journal of
+                                                          Human Resources 22, 1987 339-60
+                                                        Sommers et al. “Changes in Mortality after
+                                                          Massachusetts Health Care Reform.” Annals
+                                                          of Internal Medicine 160(9), 585-593.
+ 6/11      T     Government Policy Towards              FSG, Chapter 23
+                 Health Behavior                        Cutler, et al. “Why Have Americans Become
+                 Special Topic:                           More Obese?” Journal of Economic
+                 Economics of Obesity                     Perspectives 17(3), 2004, 93-118.
+ 6/12      W     Special Topic:                         Phelps, Chapter 4
+                 Demand for Medical Care                Pauly, Mark. “The Economics of Moral
+                                                          Hazard,” American Economics Review 58:3,
+                 The Economics of Moral Hazard            March 1968, 531-537.
+ 6/13      TH    Measuring Health Care Demand           FGS, Chapter 8; FGS, Chapter 9
+                 Elasticity                             Manning et al. “Health Insurance and the
+                 Risk and Insurance                       Demand for Medical Care: Evidence from a
+                                                          Randomized Experiment.” American
+                                                          Economic Review 77:3, June 1987, 251-277.
+                                                        Finkelstein et al. "The Oregon Health
+                                                          Insurance Experiment: Evidence from the
+                                                          First Year.” Quarterly Journal of Economics,
+                                                          127(3), 2012, 1057-1106.
+ 6/14      F     Asymmetric Information and             FGS, Chapter 10
+                 Health Insurance                       Graves and Gruber. “How Did Health Care
+                 Problem Set I Posted                     Reform in Massachusetts Impact Insurance
+                                                          Premiums?” American Economics Review
+                                                          102(3), 2012.
+ 6/17      M     Employer Provision of Health           FGS, Chapter 11
+                 Insurance and Its Implications         Abraham and Royalty. “How Has the
+                                                          Affordable Care Act Affected Work and
+                 The Uninsured                            Wages?” LDI Issue Briefs 21(3), 2017.
+                                                        Kuttner, R. “The American Health Care
+                                                          System-Health Insurance Coverage.” NEJM,
+                                                          344(14), April 5 2001.
+ 6/18      T     Managed Care                           FGS, Chapter 12
+                 Problem Set 1 due
+                                                  3
+
+
+6/19 W  Review
+6/20 TH Exam 1
+6/21 F  Health Care Reform in the US       FSG, Chapter 22
+                                           Chandra, et al. “The Importance of the
+                                            Individual Mandate-Evidence from
+                                            Massachusetts.” NEJM January 12, 2011.
+6/24 M  Supply of Medical Care:            FSG, Chapter 13
+        Hospitals                           Reinhardt, Uwe. “The Economics of For-
+                                            Profit and Not-For-Profit Hospitals.” Health
+                                            Affairs, 19:6, 178-185.
+6/25 T  Supply of Medical Care:            FGS, Chapter 15
+        Physicians                         FSG, Chapter 16
+        Health Care Labor Markets and
+        Professional Training
+6/26 W  Special Topic:                     Cutler, David M and Mark McClellan. “Is
+        Technology in Medicine              Technological Change in Medicine Worth It?”
+                                            Health Affairs, 20(5), 2001, 11-29.
+                                           Hamilton and McManus. “The effect of
+                                            Insurance Mandates on Choices and
+                                            Outcomes in Infertility Treatments Markets.”
+                                            Health Economics, Sep 9, 2011.
+6/27 TH The Pharmaceutical Industry:       FSG, Chapter 17
+        Drug Pricing and Profits
+6/28 F  Paper Discussion                   Atherly and Rubin. The Cost-Effectiveness
+        Special Topic: Direct to            of DTCA for Prescription Drugs. Medical
+        Consumer Advertising                Care Research and Review, 66(6), 2009, 639-
+        Problem Set 2 posted                657.
+7/1  M  Equity, Efficiency, and Need       FSG, Chapter 18
+        Government Regulation &            FSG, Chapter 19
+        Government Failure
+7/2  T  Review
+        Problem Set 2 due
+7/3  W  Exam II
+7/4  TH                                INDEPENDENCE DAY
+7/5  F  Social Insurance: Medicaid and     FSG, Chapter 20
+        Medicare
+        Problem Set 3 posted
+7/8  M  Comparative Health Care            FSG, Chapter 21
+        Systems                            Lu, Jui-Fen Rachel and William C. Hsiao.
+                                            “Does Universal Health Insurance Make
+                                            Health Care Unaffordable? Lessons From
+                                            Taiwan.” Health Affairs, 22(3), 2003, pp. 77-
+                                            88.
+7/9  T  Special topics
+        Problem Set 3 due
+7/10 W  Catch-up and Review
+7/11 TH Review
+        Policy Paper Due
+7/13 S  Final Exam (7-10 pm)
+                                       4
+
+
+5

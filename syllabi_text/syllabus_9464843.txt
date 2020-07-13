@@ -1,0 +1,356 @@
+                             Nina C. Young - Intermediate Computer Music Syllabus - pg. 1 of 11
+                                  Intermediate Computer Music:
+       Using MaxMSP / Jitter to Create Interactive Mixed-Music Projects
+                  - MUS 329M (22545) AET 332 (20645) | Spring 2019 -
+                                  Tues / Thurs 2-3:20pm | MRH 4.170 (EMS Studio 2)
+                                 Prerequisite: MUS 329 J, or permission of instructor
+Instructor:
+          Dr. Nina C. Young
+          Office: MRH 4.156
+          Office Hours: Tues / Thurs 3:30 - 4pm, or by appointment
+          Email: ​nina.young@austin.utexas.edu
+          Pronouns: she/her
+Teaching Assistant:
+          Monte Taylor
+          Email: ​montehtaylor@gmail.com
+          Pronouns: he/him
+Course Description:
+This class is the second of a 2-semester sequence focused on using the computer to create generative music and
+to enable the creation of multimedia interactive performance, composition, and improvisation environments. In
+this second project-oriented course, students will enhance their knowledge of the graphical programming
+language MaxMSP and supplement this with other computer/electronic music tools to implement creative projects.
+Topics include synthesis techniques, video/graphics, multi-channel audio, tracking methods, aesthetics, historic
+and current repertoire, software architecture, performance organization, and documentation strategies. The
+course is focused around the creation of a significant final interactive performance work that will be featured on
+at least one end-of-semester EARS concert.
+Course Objectives:
+     ● Advance and expand upon existing skills in Max/MSP to create music, audio, and video applications. Use
+          Max/MSP to study audio synthesis and processing algorithms.
+     ● Learn the basics of Jitter - real-time video, graphics, and matrix processing.
+     ● Investigate multi-channel audio and manipulation techniques.
+     ● Investigate techniques, working methods, and aesthetics of interactive media performance composition.
+
+
+                          Nina C. Young - Intermediate Computer Music Syllabus - pg. 2 of 11
+   ● Interview an active artist using Max in their workflow.
+   ● Create an original interactive performance piece for at least one live performer and computer.
+   ● Write an original piece of interactive computer music (or design a performance environment, or other
+      approved final project) using primarily MaxMSP.
+   ● Become aware of repertoire, including contemporary and historic works of interactive composition and
+      performance.
+Materials:
+   ● A licensed copy of Max/MSP v.8 on personal computer. Available at ​https://cycling74.com
+                    ■ Start with the 30 day trial
+                    ■ After 30 days, purchase an academic license:
+                             ● $250: Max Academic Permanent License (with $99 upgrades to future versions)
+                                   - recommended
+                             ● $59: Max Academic Annual Subscription
+   ● All other software is optional and should be purchased at the discretion of the student. The UTEMS
+      studios have many software available that you can use, in studio. Note: some of the supplemental tools I
+      will demo in class are only available on Macs. This does not mean that there aren’t PC equivalents
+      available.
+   ● Additional readings / listening: available for download or from the Performing Arts Library.
+   ● A good pair of closed headphones.
+Supplemental Materials:
+   ● DAW (Digital Audio Workstation) such as Logic Pro, Cubase, ProTools, Ableton, etc
+           ○ Free: Ardour, Audacity
+   ● Roads, Curtis: ​The Computer Music Tutorial (​ Cambridge: MIT Press, 1996)
+   ● Cipriani, Alessandro & Maurizio Giri: Electronic Music and Sound Design - Theory and Practice with Max 7,
+      Volumes 1&2, 2017.
+   ● Manzo, V.J. ​Max/MSP/Jitter for Music: A Practical Guide to Developing Interactive Music Systems for
+      Education and More
+   ● MIDI controller
+
+
+                           Nina C. Young - Intermediate Computer Music Syllabus - pg. 3 of 11
+   ● You are ​HIGHLY ENCOURAGED​ (read: I kind of expect you to be there at least 50% of the time) to attend
+      the UTEMS Wednesday ​Electronic, Computer, and Experimental Music Seminar​. The schedule can be found
+      here​, and includes a really exciting guest roster, as well as workshops in Spear and Audiosculpt.
+Assessment Measures:
+      55%       Final Project Checkpoints (8 total)
+      20%       Module Programming Assignments (4 total)
+      15%       Midterm Interview Project (5% presentation, 5% paper, 5% transcript)
+      10%       Attendance, participation, HW: Reading / Listening / Max Tutorials (7 total)
+      Canvas will be used to communicate all course information including calendar updates, lecture notes,
+      example patches, listenings, readings, and assignment prompts. All assignments must be submitted on
+      Canvas unless otherwise noted. Students must come to class with assignments on their computers (or
+      already loaded onto the studio machine), and be prepared to present them in class.
+      Assignments will be posted as the semester progresses. Students are responsible for checking Canvas
+      for updates, prompts, and deadlines.
+      Midterm Interview Project:
+      You will contact a currently active MaxMSP / computer music practitioner that you admire to learn about
+      their work. You will conduct an official interview (in person, video chat, phone, etc.) and create a
+      transcript (5% of course grade). You will also focus on 1-2 of their works and investigate their artistic
+      process, aesthetics, and programming strategies. You will give a 15 minute presentation (5% of course
+      grade) in class on the individual and their work, and you will write a 4-7 page paper (5% of course grade)
+      on your findings.
+      Final Project (Checkpoints):
+      The focus of the class is on a polished work for live performer and interactive media that uses a score,
+      events, and the Max environment. (Graphic scores are available to students without thorough training in
+      notated western music composition.) To make sure that you are working on this throughout the
+      semester, you must complete a series of 8-checkpoints. These are SERIOUS deadlines!
+Course Calendar
+      All instructions, assignments, readings, rubrics, and essential information will be on the Canvas website.
+      Check this site regularly to stay updated on the course schedule.
+      Class Schedule and Topics:
+
+
+           Nina C. Young - Intermediate Computer Music Syllabus - pg. 4 of 11
+SYNTHESIS MODULE:
+Week 01: Course intro and synthesis techniques
+    ● Tues 01/22: Class intro. Workflow for making Mixed Music (live instruments and
+         interactive media). Dates and deadlines.
+    ● Thurs 01/24: A Deeper look at synthesis: additive, AM
+Week 2: A Deeper look at synthesis: ring modulation, FM, Wavetable
+    ● Tues 01/29:
+    ● Thurs 01/31:
+Week 3: Granular Synthesis and other fun tricks
+    ● Tues 02/05: Tom Echols leads a class on working with granular synthesis
+    ● Thurs 02/07: Fun tricks, and Final Project tutorial: how to mic your musicians
+         Module programming Assignment A:
+         Synthesis etude, due 02/12.
+JITTER MODULE:
+Week 4: Working with Jitter week 1
+    ● Tues 02/12: Intro (prospective grad students visit class)
+    ● Thurs 02/14: Tom Echols workshop / tutorial
+Week 5: Working with Jitter, week 2
+    ● Tues 02/19: Tom Echols workshop / tutorial
+    ● Thurs 02/22: Tom Echols workshop / tutorial
+         Module programming Assignment B:
+         Create a jitter etude, due 02/28.
+ARCHITECTURE, AESTHETICS, LOGISTICS MODULE:
+Week 6: Patch architecture and creating mock-ups.
+    ● Tues 02/26:
+    ● Thurs 02/28:
+Week 7: Pitch-shifting, time stretching, spectral freeze
+    ● Tues 03/05:
+    ● Thurs 03/07: When to fake live processing? (1 student midterm interview presentation)
+​Week 8: 15-minute Midterm interview presentations
+    ● ​Tues 03/12: 3 student presentations
+    ● Thurs 03/14: 3 student presentations
+
+
+           Nina C. Young - Intermediate Computer Music Syllabus - pg. 5 of 11
+          Module programming Assignment C:
+          Create your own buffer recording, pitch-shifter, time-stretching, and spectral freeze
+          modules that can be inserted into your patch architecture. Make sure these modules
+          have an argument based message and/or pattr storage system that works with your
+          master patch architecture. Due 03/28.
+[SPRING BREAK]
+MULTI-CHANNEL AUDIO MODULE:
+Week 9: Multi-channel Audio, IRCAM’s spat5, Max 8’s new “mc” objects
+     ● Tues March 26:
+     ● Thurs March 28:
+Week 10: …Continued…Multi-channel Audio, IRCAM’s spat5, Max 8’s new “mc” objects
+     ● Tues April 2:
+     ● Thurs April 4:
+Week 11: …Continued…Multi-channel Audio, IRCAM’s spat5, Max 8’s new “mc” objects
+     ● Tues April 9:
+     ● Thurs April 11:
+Module programming Assignment D:
+Create your two modules of your choosing using mc.
+Implement multi-channel and mixdown functionality into your master performance patch. Due
+04/18.
+PROJECT IMPLEMENTATION MODULE:
+Week 12: Event triggers: pedals, pitch-tracking, amplitude tracking, etc.
+     ● Tues April 16:
+     ● Thurs April 18:
+Week 13: Individual 30 minute lessons on work-in-progress, to be scheduled around and outside
+of class time.
+Week 14: Logistics, equipment, mixing boards, signal flow – how to make a live show!
+     ● Tues April 30:
+     ● Thursday May 2: guest artist lecture: Efraín Rozas (part of Seminar Series)
+Week 15: FINAL CONCERT AND FEEDBACK
+     ● Tues May 7: preparation for final concert
+     ● Thurs May 9: Concert @Imagine Art!
+
+
+                     Nina C. Young - Intermediate Computer Music Syllabus - pg. 6 of 11
+Assignment Deadlines:
+·​ ​01/29: Final Project Checkpoint 1: Project Proposal, confirmed musical collaborator.
+·​ ​01/31: HW 1: Reading / Listening Written Response. Max Tutorials.
+·​ ​02/07: HW 2: Reading / Listening Written Response. Max Tutorials.
+·​ ​02/12: Module programming Assignment A
+·​ ​02/14: Final Project Checkpoint 2: “Discovery” recording session with collaborating musician to be
+completed. Finding sounds, techniques, audio for soundfiles.
+·​ ​02/19: HW 3: Reading / Listening Written Response. Max Tutorials.
+·​ ​02/26: HW 4: Reading / Listening Written Response. Max Tutorials.
+·​ ​02/28: Module programming Assignment B
+·​ ​03/05: Final Project Checkpoint 3: listen to and parse through audio from discovery recording
+sessions. Begin to make test files and soundfiles.
+·​ ​03/07: HW 4: Reading / Listening Written Response. Max Tutorials.
+·​ ​03/12: Midterm Interview In-Class Presentation (sign-up).
+03/14: Midterm Interview In-Class Presentation (sign-up). Midterm interview transcription and paper due.
+·​ ​03/26: Final Project Checkpoint 4: Draft of score/project outline due, send to performer and arrange
+mock-up recording session.
+·​ ​03/26: HW 5: Reading / Listening Written Response. Max Tutorials.
+·​ ​03/28: Module programming Assignment C
+·​ ​04/04: Final Project Checkpoint 5: recording session completed, and mock-up of instrumental part
+edited. Now you can begin to fully test your modules and the flow between events in your patch. Feel
+free to sketch ideas in a DAW and then implement them in a similar fashion with Max.
+·​ ​04/09: HW 6: Reading / Listening Written Response. Max Tutorials.
+·​ ​04/16: HW 7: Reading / Listening Written Response. Max Tutorials.
+·​ ​04/18: Module programming Assignment D
+·​ ​04/22: Final Project Checkpoint 6: Final score edits due to performer (they need time to learn your
+piece)! Fully functional mock-up of piece, using the mock-up recording in your Max framework. This will
+be discussed in your private lesson. Make sure you have schedule rehearsals with your musicians!
+·​ ​05/07: Final Project Checkpoint 7: Final Concert
+·​ ​05/15: Final Project Checkpoint 8: Documentation, Recording, and Materials, due (online submission).
+HURRAY! You did it!!!
+
+
+                        Nina C. Young - Intermediate Computer Music Syllabus - pg. 7 of 11
+Course Policies:
+      Classroom expectations:
+             All students are expected to participate in class discussion, and are expected to respect the
+             opinions and statements of their classmates during discussion and classroom activities.
+      Attendance:
+             Since I do not rely on a single textbook, but instead draw from various sources, some of which
+             are unpublished, it is essential that you attend class regularly. Excessive absences will be noted
+             and will affect your final grade, both directly (class participation grade) and indirectly (you won't
+             know what you're doing in the assignments, quizzes, midterm exam, and/or the final
+             exam/project). This is a fun class, show up, learn stuff, and you’ll do just fine!
+      Assignments:
+             All assignments must be submitted via Canvas by the due date and time specified. Any sounds,
+             abstractions, plugins, or other external files must be included in your submission. If something
+             is missing, you will be notified and given the opportunity to resubmit, but with a late penalty. All
+             grades are considered final and non-negotiable.
+      Late Assignments:
+             In fairness to all students, I will not give full-credit to late assignments. An automatic 5-point
+             deduction is given to late assignments submitted within a week of the deadline. Assignments
+             will receive 10-point deductions for every additional late week. Just do the work, even if it isn’t
+             perfect - you will learn something! Yay!
+              Final Project Checkpoints and Midterm deadlines are non-negotiable.
+             Please do not stress out about the amount of assignments due. The schedule looks nuts, but it is
+             simply a way for me to guide you through your final project and to make sure you deliver a great
+             work by the end of the semester.
+             The University of Texas at Austin provides, upon request, academic accommodations for
+             qualified students with disabilities. See “University Policies” for more information.
+
+
+                          Nina C. Young - Intermediate Computer Music Syllabus - pg. 8 of 11
+      Student Rights and Responsibilities:
+          ● You have a right to a learning environment that supports mental and physical wellness. You have
+              a right to respect.
+          ● You have a right to be assessed and graded fairly.
+          ● You have a right to freedom of opinion and expression.
+          ● You have a right to privacy and confidentiality.
+          ● You have a right to meaningful and equal participation, to self-organize groups to improve your
+              learning environment.
+          ● You have a right to learn in an environment that is welcoming to all people. No student shall be
+              isolated, excluded or diminished in any way.
+      With these rights come responsibilities:
+          ● You are responsible for taking care of yourself, managing your time, and communicating with
+              the teaching team and with others if things start to feel out of control or overwhelming.
+          ● You are responsible for acting in a way that is worthy of respect and always respectful of others.
+          ● Your experience with this course is directly related to the quality of the energy that you bring to
+              it, and your energy shapes the quality of your peers’ experiences.
+          ● You are responsible for creating an inclusive environment and for speaking up when someone is
+              excluded.
+          ● You are responsible for holding yourself accountable to these standards, holding each other to
+              these standards, and holding the teaching team accountable as well.
+      Personal Pronoun Preference and Names:
+              Professional courtesy and sensitivity are especially important with respect to individuals and
+              topics dealing with differences of race, culture, religion, politics, sexual orientation, gender,
+              gender variance, and nationalities. Class rosters are provided to the instructor with the student’s
+              legal name. I will gladly honor your request to address you by a name different than what
+              appears on the roster, and by the gender pronouns you use. Please advise me of this preference
+              early in the semester so that I may make appropriate changes to my records.
+University Policies:
+      Academic Integrity:
+              Each student in the course is expected to abide by the University of Texas Honor Code: “As a
+              student of The University of Texas at Austin, I shall abide by the core values of the University and
+
+
+                  Nina C. Young - Intermediate Computer Music Syllabus - pg. 9 of 11
+       uphold academic integrity.” ​Plagiarism is taken very seriously at UT. ​Therefore, if you use
+       words or ideas that are not your own (or that you have used in previous class), you must cite
+       your sources. Otherwise you will be guilty of plagiarism and subject to academic disciplinary
+       action, including failure of the course. You are responsible for understanding UT’s Academic
+       Honesty and the University Honor Code which can be found at the following web address:
+       http://deanofstudents.utexas.edu/sjs/ acint_student.php
+Q Drop Policy:
+       If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the
+       Q-drop deadline, which typically occurs near the middle of the semester. Under Texas law, you
+       are only allowed six Q drops while you are in college at any public Texas institution. For more
+       information, see: ​http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students:
+       Your success in this class is important to me. We will all need accommodations because we all
+       learn differently. If there are aspects of this course that prevent you from learning or exclude
+       you, please let me know as soon as possible. Together we’ll develop strategies to meet both your
+       needs and the requirements of the course. There are also a range of resources on campus:
+       Services for Students with Disabilities
+       This class respects and welcomes students of all backgrounds, identities, and abilities. If there
+       are circumstances that make our learning environment and activities difficult, if you have
+       medical information that you need to share with me, or if you need specific arrangements in
+       case the building needs to be evacuated, please let me know. I am committed to creating an
+       effective learning environment for all students, but I can only do so if you discuss your needs
+       with me as early as possible. I promise to maintain the confidentiality of these discussions. If
+       appropriate, also contact Services for Students with Disabilities, 512-471-6259 (voice) or
+       1-866-329- 3986 (video phone). ​http://ddce.utexas.edu/disability/about/
+       Counseling and Mental Health Center
+       Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding
+       drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve
+       your goals and cope with stress.
+
+
+                     Nina C. Young - Intermediate Computer Music Syllabus - pg. 10 of 11
+         All of us benefit from support during times of struggle. You are not alone. There are many helpful
+         resources available on campus and an important part of the college experience is learning how
+         to ask for help. Asking for support sooner rather than later is often helpful.
+         If you or anyone you know experiences any academic stress, difficult life events, or feelings like
+         anxiety or depression, we strongly encourage you to seek support.
+         http:// ​www.cmhc.utexas.edu/individualcounseling.html
+         The Sanger Learning Center
+         Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+         Center each year to improve their academic performance? All students are welcome to take
+         advantage of Sanger Center’s classes and workshops, private learning specialist appointments,
+         peer academic coaching, and tutoring for more than 70 courses in 15 different subject areas. For
+         more information, please visit ​http://www.utexas.edu/ugs/slc​ or call 512-471-3614 (JES A332).
+         Undergraduate Writing Center:
+          ​http://uwc.utexas.edu/
+         Libraries:
+         http://www.lib.utexas.edu/
+         ITS:
+         http://www.utexas.edu/its/
+         Student Emergency Services:
+         http://deanofstudents.utexas.edu/emergency/
+Important Safety Information:
+         If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL
+         (the Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something
+         doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+Title IX Reporting
+         Title IX is a federal law that protects against sex and gender-based discrimination, sexual
+         harassment, sexual assault, sexual misconduct, dating/domestic violence and stalking at
+         federally funded educational institutions. UT Austin is committed to fostering a learning and
+
+
+                       Nina C. Young - Intermediate Computer Music Syllabus - pg. 11 of 11
+          working environment free from discrimination in all its forms. When sexual misconduct occurs in
+          our community, the university can:
+               1. Intervene to prevent harmful behavior from continuing or escalating.
+               2. Provide support and remedies to students and employees who have experienced harm
+                    or have become involved in a Title IX investigation.
+               3. Investigate and discipline violations of the university’s relevant ​policies​.
+          Faculty members and certain staff members are considered “Responsible Employees” or
+          “Mandatory Reporters,” which means that they are required to report violations of Title IX to the
+          Title IX Coordinator. ​I am a Responsible Employee and must report any Title IX related
+          incidents ​that are disclosed in writing, discussion, or one-on-one. Before talking with me, or
+          with any faculty or staff member about a Title IX related incident, be sure to ask whether they
+          are a responsible employee. If you want to speak with someone for support or remedies without
+          making an official report to the university, email advocate@austin.utexas.edu For more
+          information about reporting options and resources, visit titleix.utexas.edu or contact the Title IX
+          Office at ​titleix@austin.utexas.edu​ .
+The following recommendations regarding emergency evacuation from the Office of Campus Safety and
+Security, 512-471-5767, ​http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside.
+Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that
+the nearest exit door may not be the one you used when entering the building. Students requiring
+assistance in evacuation shall inform their instructor in writing during the first week of class.
+In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re- enter a
+building unless given instructions by the following: Austin Fire Department, The University of Texas at
+Austin Police Department, or Fire Prevention Services office.
+Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+www.utexas.edu/emergency

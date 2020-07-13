@@ -1,0 +1,104 @@
+                        M325K – Discrete Mathematics (IBL)
+                    Weekdays 2:30-4p, online via Zoom (85501)
+Instructor: Dr. Zachary Miner
+E-mail: zminer@math.utexas.edu.
+Website: Accessible from Canvas, https://utexas.instructure.com.
+Zoom office hours: Weekdays 10-10:45a, and by appointment
+Course Texts: Notes and problem sets provided by instructor; and
+                  The 5 Elements of Effective Thinking, by Burger and Starbird.
+Course objectives.
+This course carries the Independent Inquiry flag and will be held in an Inquiry Based Learning (IBL)
+format. In this instructional method, students are required to prove theorems as we need them and
+present them to the class. During the Zoom sessions, you will present proofs that you have written
+and see proofs that your classmates have written. The course will cover logic, proof techniques, set
+theory, elementary number theory, functions, and relations. Class attendance is mandatory and will
+be recorded. If you are unable to be online during our usual class time, a recording will be made
+available on Canvas for you to view at any time.
+Prerequisites.
+This course is designed for students who have done well in a calculus course, for example M408D
+or 408L, and to introduce them to the basic techniques of mathematical proof. Please see me if you
+have questions about your readiness for this class.
+Homework.
+Assignments are made up of proving theorems, answering questions, and working exercises in the
+notes. There will be assignments due every day and submitted through Canvas. Late homework will
+not be accepted. Both the quality and correctness of your work will be graded. In particular, proofs
+should be written in complete sentences. This helps you organize your thoughts, leads to clearer
+and more correct proofs, and is much easier to explain to others. Using technical symbols should be
+avoided when writing assignments.
+You should write your solutions up neatly before the class in which the homework is due, and upload
+the work to Canvas before each Zoom session begins.
+The lowest 2 homework scores will be dropped. You should still write up proofs from homework
+assignments you miss, for your own benefit and to have as a resource for you as you continue your
+mathematical studies.
+Presentations and Participation.
+On each class day, I will ask you to present proofs of theorems or answer exercises that you have
+submitted via Canvas. I will assign small groups of people to specific exercises so you can write
+up particularly well those that you will present via Zoom. I will show your written work via Zoom
+while you explain it. Please attend each Zoom session prepared to present the exercises and theorems
+scheduled for that day. If you proved one theorem that you thought was particularly interesting or
+difficult, you should let us know so we all can see your proof.
+    Keep in mind that explaining a proof is a bit different from writing a proof. The act of talking
+about a proof gives you the opportunity to show people how the ideas of the proof fit together, and
+what issues you had to deal with when working on the problem. One thing I want you to develop
+in this course, besides your proving skills, is your ability to communicate mathematics to others.
+    When your classmates are presenting, it is your responsibility to follow their line of reasoning.
+Keep in mind that their argument may be different from yours. If you see something in a proof that
+you don’t understand, please ask about it. If you see a possible mistake, please ask about it. If there
+is something about the proof that you thought was interesting or clever, feel free to comment on it!
+In each case, please be considerate of the person presenting, and treat him/her the way you’d like
+to be treated when it’s your turn to present.
+                                                    1
+
+
+Class rules.
+Most of the problems that we will prove in this course can be readily found in any good Discrete
+Mathematics textbook or on the internet. This semester, you may not use these sources, because
+one of the main goals of the course is to help you to learn to think independently. Therefore, for
+purposes of this class, turning in a solution to a homework problem that you obtained from an
+outside source is considered plagiarism, just like writing a report that consists entirely of quotes
+from other books or papers would be considered plagiarism in another course.
+    I encourage you to work with your classmates when working on homework for this class, but
+please use the following method in doing so. First work on the problem on your own. If you get
+stuck, one source for help is to ask me for a hint. Alternatively, you may work with other students
+who have not solved the problem. If you ask a student in the class who has solved the problem,
+that is OK; however, the student who knows the answer should not simply tell the answer. Instead,
+the person who knows should give helpful guidance so that you can solve the problem on your own.
+As a general rule, everything you turn in for this class should represent your own work; it should
+not be something that somebody else gave you without any work on your part, and it should, of
+course, never be copied from someone else’s paper. If you do learn a substantial part of the idea of
+a problem from someone else, then please note that fact on your paper.
+Oral exams.
+I will have each student give a short presentation of their proofs to a few exam problems not covered
+during the regular sessions of class. I will post these problems on Canvas roughly one week in
+advance of each oral exam date.
+Tentative Exam schedule:
+    Exam I: Saturday-Monday, June 20-22;
+    Exam II: Sunday-Monday, July 5-6;
+    Final Exam: Friday-Sunday, July 10-12.
+Grades.
+On all work, your grade will be computed as a percentage: the number of points you earned divided
+by the number of points possible. It is unlikely that any grade will be curved. The percentages of
+each type of work that will be used to compute your final grade are
+    Homework: 15%
+    The 5 Elements of Effective Thinking response: 5%
+    Presentations and participation: 30%
+    Midterms (Oral Exams): 25%
+    Final (Oral Exam): 25%
+Grades will be assigned in a standard manner:
+    93-100 A ; 90-92 A- ; 87-89 B+ ; 83-86 B ; 80-82 B- ; 77-79 C+ ; 73-76 C ; 70-72 C- ; etc. . .
+Deadlines for dropping a course
+If you drop a class on or before June 9th, the class will not show up on your transcript. If you drop
+a class after that date, the course will show up on the transcript with a Q grade. After July 9th, it
+is not possible to drop a course except for extenuating (usually non-academic) circumstances.
+Students with disabilities.
+The University of Texas provides, upon request, appropriate academic accommodations for quali-
+fied students with disabilities. For more information, contact the office of the Dean of Students at
+471-6259, TTY 471-4641.
+Counseling and Mental Health Center
+Student Services Bldg (SSB), 5th Floor
+Hours: M–F 8a–5p
+Phone: 512-471-3515 (appointments)         512-471-CALL (crisis)       E-mail: www.cmhc.utexas.edu
+One more thing!
+I am committed to doing everything I can to help you make the most of this course. If you have
+questions, comments, or suggestions regarding our class, please do not hesitate to contact me.
+                                                   2

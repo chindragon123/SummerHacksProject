@@ -1,0 +1,246 @@
+Syllabus RTF 301N Introduction to Editing for non-majors – Summer 2019
+Faculty Anne Lewis alewis615@earthlink.net 512-656-0507 (please text if necessary)
+Faculty Office Hours MW 3-6 in my office CMA6.110. Also by appointment.
+Classes MTWTH 1-3 CMA 4.144
+Course Objectives and Description
+This is the first editing class that RTF has offered to non-majors, intended to build confidence
+in editing so that you can complete projects without boring or confusing the audience. It is
+hands (and eyes and ears) on. By the end of the session, you should understand basic editing
+theory, be able to organize material and construct it into meaningful sequences, and feel
+comfortable with Adobe Premiere.
+The course is non-competitive and process oriented. There are five projects. I believe that if you
+commit yourself fully to this class you will be able to complete every exercise between Monday
+and Thursday, with the majority of the work completed during class. Feel free to show your
+work to fellow students at any point – or visit me during office hours for editor's notes.
+Completed projects will be screened and discussed during Thursday classes. We will treat each
+other’s work with respect and kindness.
+Course Outline
+6/6 - 6/13 Project 1: Event. From 20 minutes of footage edit a 1.5 - 2.5 minute piece that
+allows us to experience the event. Basic editing theory and techniques. Get up to speed on
+Adobe Premiere.
+6/17 – 6/20 Project 2: Interview. From 10 minutes of interview and 6 minutes of cutaway
+material plus music if you choose, edit a 1-2 minute piece for condensed content and emotional
+impact. Explore condensing and organizing ideas, language, cut aways.
+6/24 -- 6/27 Project 3: a scene from a short comedy by Sophia Loffreda. Edit for character, plot,
+and humor. About 2 minutes. Additional editing techniques including comedy editing.
+7/1 - 7/3 Project 4: Create a video remix from YouTube material of your choice. (Try to keep it
+to 1-2 minutes but no constraints.) Pay attention to detailed instructions on how to download
+so we don’t have quarantined computers in the lab.
+7/8 - 7/11 Project 5: Shoot and edit a short piece of your choice. Subject matter, length, and
+genre is totally up to you. I can offer prompts. From start to finish in 4 days.
+The course is non-competitive and process oriented. Feel free to show your work to fellow
+students at any point – or schedule an appointment. Completed projects will be screened in
+class. Revisions are optional. We will treat each other’s work with respect and kindness.
+Reading
+The semester is a continuing experiment in avoiding the costs of a reading packet by posting
+links and documents on Canvas. Readings are optional and meant to deepen understanding of
+theory and lecture material.
+Materials
+A thumb drive to save your project files is recommended. If you would like to work at home or
+on additional stations at the university, an external hard drive. We suggest at least 500 gigs to
+
+
+make your purchase worthwhile.
+https://wikis.utexas.edu/display/comm/Recommended+Hard+Drives+for+Non-Linear+Editing
+Grades
+Please ignore the grade book on canvas! I will try to be accurate on the details, but I
+calculate attendance in a different way.
+Attendance/participation                        2 points off final grade for each unexcused class absence –
+                                                or if you sleep, tweet, text, e-mail, or in any way become
+                                                semi-conscious or unconscious in class. Please make up
+                                                classes during my office hours whether excused or not.
+Editing exercises                               14 points each. Please understand that these will not be
+                                                harshly graded. The first three have constraints you must
+                                                follow to get full credit. We will show every exercise on
+                                                Thursday to the class for comments. You will be expected
+                                                to comment on at least one other student’s exercise
+                                                during discussion (1 point per exercise).
+         My freedom will be so much the greater and more meaningful the more narrowly I limit my
+         field of action and the more I surround myself with obstacles. Whatever diminishes constraint
+         diminishes strength. The more constraints one imposes, the more one frees one's self of the
+         chains that shackle the spirit. -Igor Stravinsky
+Constraints
+Statue
+     1. 1.5-2.5 minutes that allows us to experience the event.
+     2. Natural audio throughout. Do not strip the audio tracks. You may lower them.
+     3. No footage other than that provided except optional music.
+     4. If you use music it must either relate to the woman who suggests the Navy Hymn or be brilliant. And
+         the project must work without it. No manipulated cuts to music, especially on the downbeat.
+     5. No more than one title sentence about the event (optional).
+     6. No voice over narration that you write.
+     7. At least 6 visual cuts and no more than 20.
+     8. You must not use the comments by the woman or the argument at the end as a voice over that you
+         illustrate for structure. These are optional. Structure from the event.
+Kenneth Interview
+     1. 1-2 minutes long.
+     2. We should understand more about Kenneth at the end of the sequence than we did at the beginning.
+         Create an emotional/idea arc.
+     3. Avoid repetition unless it adds to the emotional content.
+     4. You are allowed to be transparent. You can use the interviewer’s questions and the visual of the set
+         up.
+     5. The grammar and rhythm of the words must be timed accurately. Be aware of inflection and add tone
+         if you need pauses.
+     6. No obscure references.
+     7. Maximum 1 jump cut.
+     8. At least 50% sync.
+     9. Anything you see on screen you must hear.
+     10. Any lyrics in the music you choose that don’t make sense should be eliminated. At least one music
+         edit if you use music. You do not need to close music at the end.
+The Green
+     1. 2-3 minutes long. Must include Scenes 2J through 6. You do not need to include the entire bike ride.
+     2. At least one line of dialogue edited out.
+     3. At least 2 moments cut for comedy probably with pauses.
+     4. At least 4 J or L cuts where the line of dialogue doesn’t begin or end in sync.
+     5. At least 3 reactions.
+     6. No jump cuts. Honor continuity.
+     7. One effect at most, aside from beginning and ending fades (if you’d like).
+     8. Use music at least for the bike ride.
+
+
+Calendar
+WEEK 1   Lectures and labs                                 Assignments
+TH 6/6   The cut. Murch discussion. Cutting vs.
+         assembly.
+WEEK 2   EVENT-- Statue
+M 6/10   Introduction to exercise 1 Statue. Experience an If you plan to work on an external
+         event.                                            hard drive, bring it with you,
+         Lab 1. Set up Statue on the EditShare. View, log, and
+                                                           formatted for Mac OS Journaled.
+         subclip the raw material into a selects bin.
+         Create a selects string out. Save the project.
+T 6/11   Selects to Assembly/Rough cut. Structure and      Log notes and organized project.
+         condense observational footage. Examples of       Selects string out.
+         verite.
+         Lab 2. Duplicate selects string out. Assembly reorder,
+         3 point edits, insert, overwrite,
+         Extract.
+W 6/12   Assembly/Rough cut to Fine Cut. Additional        Assembly/Rough cut. Bring or know
+         examples observational cinema.                    location of music if you’d like to use
+         Lab 3. Track management, trim, import and         some.
+         lay in audio, export.
+TH 6/13  Screenings Exercise 1.                            DUE DATE exercise 1 Statue. Export
+                                                           an uncompressed QT. Put it in the
+                                                           EditShare.
+WEEK 3   INTERVIEW -- Kenneth
+M 6/17   Introduction to Exercise 2 Interview Kenneth –
+         Select, structure, condense, and add actuality
+         To interview.
+         Lab 4. Set up Kenneth interview. Subclip selects.
+         Create a selects string out in order shot.
+T 6/18   Examples of interview editing. A and B roll       Log notes and organized project.
+         (or not!)                                         Selects string out.
+         Lab 5. Structure and condense interview. Audio
+         accuracy. Rhythm.
+W 6/19   Interview editing demonstration. Examples of      Assembly. Every piece of interview
+         Great interview editing. Lab 6. L and J cuts.     should be timed so that you could
+         Refine interview using multiple audio tracks      close your eyes and it would seem
+         and music.                                        natural.
+TH 6/20  Screenings Exercise 2.                            DUE DATE exercise 2 Interview
+                                                           Kenneth.
+                                                           Export an uncompressed QT.
+                                                           Put it in the EditShare.
+WEEK 4   FICTION – the Green
+M 6/24   Introduction to Exercise 3 – scene from
+         The Green --comedic fiction scenes with
+         multiple characters.
+         Lab 7. Fiction methodology. Break into scenes
+         and takes with naming conventions. Create
+         assembly to rehearse material.
+T 6/25   Dialogue editing. The dance of looks.             Notes with preferred takes.
+         Lab 8. Two approaches to dialogue editing.        Organized project.
+W 6/26   Comedy editing.
+         Lab 9. A few additional editing techniques.
+         Match frame. Color correction and titles. A few
+         effects.
+
+
+TH 6/27          Screenings and discussion Exercise 3.                          DUE DATE exercise 3 The Green.
+                                                                                Export an uncompressed QT.
+                                                                                Put it in the EditShare.
+WEEK 5           REMIX
+M 7/1            Introduction to Exercise 4 – Video Remix.
+                 Examples.
+                 Lab 10. Download from YouTube.
+T 7/2            Create video remix. You will need to finish the
+                 project during class or early Thursday morning.
+W 7/3            Screenings and discussion Exercise 4.                          DUE DATE exercise 4 Video Remix.
+                                                                                Export an uncompressed QT.
+                                                                                Put it in the EditShare.
+JULY 4
+WEEK 6           SHOOT AND EDIT
+M 7/9            Come with an idea of something you would like
+                 to shoot and a camera. Undecided? I’ll give
+                 you a prompt. No camera? We’ll have some in
+                 class or you can go out with a buddy.
+                 If possible Lab 11.
+T 7/10           Lab 11. Import from iPhone or other camera.
+                 Set up Premiere project. Pull selects and show
+                 1-3 to the class.
+W 7/11           Edit your project. Add music if you’d like. Class
+                 survey.
+Th 7/12          Exercise 5 screenings and discussions.                          DUE DATE exercise 5 your project.
+                                                                                Export an uncompressed QT.
+                                                                                Put it in the EditShare.
+The University of Texas Honor Code
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the University is expected to uphold these values through integrity,
+honesty, trust, fairness, and respect toward peers and community.
+Scholastic Dishonesty
+The University defines academic dishonesty as cheating, plagiarism, unauthorized collaboration, falsifying academic
+records, and any act designed to avoid participating honestly in the learning process. Scholastic dishonesty also
+includes, but is not limited to, providing false or misleading information to receive a postponement or an extension on
+a test, quiz, or other assignment, and submission of essentially the same written assignment for two courses without
+the prior permission of the instructor. By accepting this syllabus, you have agreed to these guidelines and must adhere
+to them. Scholastic dishonest damages both the student’s learning experience and readiness for the future demands of
+a work-career. Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University. For more information on
+scholastic dishonesty, please visit the Student Judicial services Web site at http://deanofstudents.utexas.edu/sjs
+Undergraduate Writing Center
+The Undergraduate Writing Center, located in the FAC 211, phone 471-6222, http://www.utexas.edu/cola/centers/uwc/
+offers individualized assistance to students who want to improve their writing skills. There is no charge, and students
+may come in on a drop-in or appointment basis.
+Services For Students With Disabilities
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students
+with disabilities. For more information, contact the Office of the Dean of Students at 471-6259, 471-4641 TTY.
+Religious Holidays
+Religious holy days sometimes conflict with class and examination schedules. If you miss a work assignment or other
+project due to the observance of a religious holy day you will be given an opportunity to complete the work missed
+within a reasonable time after the absence. It is the policy of the University of Texas at Austin that you must notify each
+of your instructors at least fourteen days prior to the classes scheduled on dates you will be absent to observe a
+religious holy day.
+University Electronic Mail Notification Policy
+All students should become familiar with the University’s official e-mail student notification policy. It is the student’s
+responsibility to keep the University informed as to changes in his or her e-mail address. Students are expected to
+check e-mail on a frequent and regular basis in order to stay current with University-related communications,
+
+
+recognizing that certain communications may be time-critical. It is recommended that e-mail be checked daily, but at a
+minimum, twice per week. The complete text of this policy and instructions for updating your e-mail address are
+available at http://www.utexas.edu/its/policies/emailnotify.html.
+Use of Canvas.
+This course will use Canvas this summer.
+Copyright and Fair Use: You may find the need to use copyrighted material this semester: music, photographs, movie
+clips, or any other expression. You may use these materials according to the rules of fair use. However, you do not
+own the copyright to the exercise material, which has been generously donated only for classroom use. As a copyright
+holder yourself in other production classes, you understand the importance of copyright ownership. It is your
+responsibility to secure music and archival footage licenses as well as artwork, location and personal releases. You will
+find release templates on the RTF website.
+For some uses, however, neither you nor anyone else needs to license copyrighted material. This is because copyright
+law exists to encourage and support creativity. Copyright law recognizes that creativity doesn’t arise in a vacuum. As
+creators, we all stand on the shoulders of giants. New works of art (such as films, books, poems, paintings) all make
+use of what has gone before. Thus, copyright law not only protects authors with a copyright that lets them decide who
+can use their works, but also offers exemptions from the author’s control. For filmmakers, the most important
+exemption is the doctrine of fair use. You can rely on fair use, where appropriate, in the film and media projects you
+undertake for this course. If you are making a documentary film, consult the influential Documentary Filmmakers
+Statement of Best Practices in Fair Use http://www.centerforsocialmedia.org/files/pdf/fair_use_final.pdf which was
+created by a group of national filmmaker organizations, has been endorsed by the University Film and Video
+Association, and is now relied on by film festivals, insurers, cablecasters, distributors and public broadcasters. Fair use
+also applies in the fiction film environment, but not necessarily to the same extent or in the same way.
+As always, the central question is whether the new use is "transformative" -- i.e., whether it adds significant value by
+modifying or recontextualizing the original. For more understanding, including information on when you can use works
+for free http://www.centerforsocialmedia.org/files/pdf/free_use.pdf without even using fair use, why you (mostly) don’t
+need to worry about trademarks http://www.centerforsocialmedia.org/files/pdf/free_use.pdf what is in the public
+domain http://www.centerforsocialmedia.org/rock/backgrounddocs/copyrightterm.pdf how fair use lawsuits
+http://www.centerforsocialmedia.org/videos/sets/fair_use_case_studies have been settled, and on how fair use has
+been employed successfully http://www.centerforsocialmedia.org/videos/sets/fair_use_case_studies in documentary
+film, visit centerforsocialmedia.org/fairuse

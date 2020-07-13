@@ -1,0 +1,343 @@
+Geography 301K - Weather and Climate (Unique # 81390)
+Second Summer Semester 2019
+Use of Class Materials
+The materials used in this class, including, but not limited to, exams, quizzes, and homework assignments are
+copyright protected works. Any unauthorized copying and selling of the class materials is a violation of federal law
+and may result in disciplinary actions being taken against the student. Additionally, the sharing of class materials
+without the specific, express approval of the instructor may be a violation of the University's Student Honor Code
+and an act of academic dishonesty, which could result in further disciplinary action. This includes, among other
+things, uploading any and all class materials (including class notes) to web sites for the purpose of selling and/or
+sharing those materials with other current or future students.
+“Non Technology” Classroom (for “in person” class)
+I prohibit the use of laptop computers and smart phones (including texting) during class time unless specified by
+the instructor and/or TA. This is a “zero tolerance” policy - we will be monitoring the classroom and will stop
+lecture and ask anyone using a device to turn it off. My expectation is that you are here to listen to and take part in
+lecture. Accordingly, your class notes must be taken with paper and pen.
+Class Location and Time - MTuWThF 11:30a-12:45p in Gates Dell Complex (GDC) 6.202
+INSTRUCTOR: Troy Kimmel, Senior Lecturer CV BIO (Email: tkimmel@austin.utexas.edu )
+TEACHING ASSISTANT: Preston McLaughlin (Email: prestonmclaughlin@utexas.edu)
+OFFICE: Liberal Arts Building - Patton Hall - RLP (Just east of UT Student Activity Center), Room 3.412
+OFFICE HOURS (8 1/2 Hours Weekly): M-F 11:00 am to 11:30 am & M-Th 12:45pm - 2:30pm
+PHONES: Home Office 512-335-6472 - auto forwards to my cell (Use at all times other than class time/office hours)
+            UT Office 512-232-1590 (Office hours only), UT Geography Switchboard 512-471-5116
+CLASS OBJECTIVES:
+Our study of weather and climate is intended for Geography / Environment majors and all others interested in a broad brush examination
+of the atmospheric and climatic sciences. This study will be introductory in nature with only a very basic use of mathematics. We will start
+with a study of meteorology. From this foundation, we will go into the different aspects of the atmosphere and then, later, into
+climatological matters and discuss the various climatic regimes including that of Texas and the local area.
+ATTENDANCE:
+While this is probably not going to be the hardest course you've ever taken (or will take) in your college career, it is intensive. This is due,
+primarily, to the amount of material to be covered during the semester. It is, therefore, my philosophy that your success in this course will
+vary directly with your class attendance. Be aware of the fact that attendance will be taken on a regular basis, through the SquareCap
+classroom management application (which will be necessary for you to purchase); we will be using this application through your smart
+phone web browser. This attendance information will be used in the computation of your final class grade. Excessive absences will work
+against you while perfect attendance can help you to the next highest letter grade in borderline situations at the end of the semester.
+Regarding our class time, promptness is expected; you should make every effort to be in the classroom or on line at the times indicated.
+Late arrivals are an interruption to the class material being presented and are unfair to your fellow students that have made the effort to
+be on time.
+UNIVERSITY OF TEXAS / POLICY ON SCHOLASTIC DISHONESTY:
+In this class, there is zero tolerance for students who violate university rules on scholastic dishonesty with all suspected cases turned
+over to the University’s Dean of Students office. Penalties for scholastic include the possibility of failure of course and dismissal from the
+University. Since dishonesty harms the individual, fellow students and the integrity of the University, policies
+on scholastic dishonesty will be STRICTLY ENFORCED in this class.
+AMERICANS WITH DISABILITIES ACT (ADA):
+The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more
+information, contact the Division of Diversity and Community Engagement, Services for Students with Disabilities at 471-6259, 471-6441
+TTY, 866-329-3986 video phone.
+If you have documentation regarding accommodations from the Dean of Students office, you must meet with me, in person and during
+office hours, as early as possible in the semester to discuss exact accommodations. When you come to this meeting, you will be
+required to provide written documentation from the Services for Students with Disabilities. Accommodations are NOT effective until
+you meet with me in office hours with your paperwork. No exceptions.
+TEXTBOOK MATERIAL:
+We will utilize the following textbook during the semester:
+Essentials of Meteorology (8th Edition) - C. Donald Ahrens - Required (No other publisher material needed, so new or used OK)
+Goode's World Atlas (23rd Edition) - Recommended
+These books are available at the University Coop and other campus bookstores as well through on-line textbook web sites.
+Please shop around for the best price.
+
+
+GRADING PROCEDURE:
+Your final grade will be determined by your numerical performance on the examinations as noted:
+Examination #1                                   200 points
+Examination #2                                   200 points
+Examination #3                                   200 points
+Place Name Examination                            50 points
+Examination #4                                   200 points
+Attendance Quizzes/Exercises                      50 points
+Final Cumulative Exam                            300 points
+Only three of the regular examination scores will count; the lowest of the four grades will be dropped (see MAKE-UP EXAMINATIONS).
+All numerical scores will be added together to arrive at a possible 1000 points at the end of the semester, where, when utilizing the UT
+“Plus” / “Minus” Final Grade Grading System and applying it to our 1000 point grading s ystem...
+900-933 = A- (GPA earned = 3.67), 934-1000 = A (GPA earned = 4.00)
+800-833 = B- (GPA earned = 2.67), 834-866 = B (GPA earned = 3.00), 867-899 = B+ (GPA earned = 3.33)
+700-733 = C- (GPA earned = 1.67), 734-766 = C (GPA earned = 2.00), 767-799 = C+ (GPA earned = 2.33)
+600-633 = D- (GPA earned = 0.67), 634-666 = D (GPA earned = 1.00), 767-799 = D+ (GPA earned = 1.33)
+0-599 = F (GPA earned = 0.00)
+All 200 point exams in this class are given outside of our class time during the mid and late afternoon hours (see the class material time
+line on the fourth page of this syllabus for the four exact dates).
+All examinations will be objective (multiple choice). Exams will not be returned to you although your exam key (showing you the number
+of the question you missed) will be available through Canvas after each exam; If you want to see an exam or go over your answers, you
+must bring a paper copy of your exam key or a piece pf paper indicating the questions you missed during office hours. Any questions
+regarding exams will be brought forth within the specified number of days after the exam date otherwise the grade is considered final.
+MAKE-UP EXAMINATIONS:
+There will be NO make-up of the four regular examinations under ANY CIRCUMSTANCES. It's precisely for the reasons of sickness and
+other unplanned absences as well as for the occasional "bad" test day that I allow the lowest of your regular four examination scores to
+be dropped. Also, please note that you are required to take the final exam on the date and time as specified by the University (no
+excused absences).
+EXAMINATION DAYS:
+In order to ensure honesty in the classroom (and given the class size for this particular class and section), please note that I have set
+guidelines in reference to examination days:
+# Beginning with the handout of the examinations, I expect silence
+# All material that you bring with you on examination day will be placed on the floor under your seat
+# No headwear (caps, hats, hoodies) will be worn while in our classroom on examination days
+# Once the examination is distributed, there will be no leaving the classroom for any reason.
+CLASSROOM / CAMPUS EMERGENCY ACTION PLANS:
+The status of University of Texas campus activities in times of emergency (i.e., severe/inclement
+weather) along with some important procedures in case of emergencies on our campus as well as in our classrooms can always be
+found on the University of Texas Emergency Web Page.
+The University of Texas maintains Emergency Action Plans that addresses emergencies that could potentially affect the our community.
+You can reference the various plans here.
+Our UT Siren System is used in times of emergencies when it is necessary for you to "shelter in place" in campus buildings (remain in or
+go to the nearest building on campus when the siren is activated and remain there until the "all clear" is given). The UT Siren System, as
+part of policy, is tested monthly on the first Wednesday of every month between 11:50 am and 12:00 noon. Please don't take the siren
+system tests for granted; be ready to take action if the siren system is activated!
+We will discuss, during the first class day of the session, our emergency plan for our specific classroom in case of fire, severe/inclement
+weather and other different situations. Please take this discussion seriously and ask any questions that you may have!!
+UT POLICY ON EMAIL NOTIFICATION
+Instructor to student email is a recognized and accepted form of official communication here at the University of Texas.
+It is critically important that (1) you make sure to have your current and most frequently checked email address on file in UT Direct and
+(2) you check it on a daily basis. I will send class email frequently during the semester and you'll be given updates and change notices in
+references to lectures as well as exams.
+
+
+GEOGRAPHY 301K (SECOND SUMMER SEMESTER 2019) CLASS MATERIAL OUTLINE
+GRG301K Class Note Outline
+                                                                                         TEXT
+DATE              SUBJECT MATTER                                                         CHAPTERS
+15 Jul -          Introduction to Weather, Climate and the Atmosphere                    Ch 1
+22 Jul
+(5 Class          Earth-Sun Relationship; Heat Transfer & Balance; Greenhouse Effect,    Ch 2, 3
+Sessions)         Energy Balance
+                  Latent Heat, Latitudinal Heat Balance; Heat and Temperature;           Ch 3
+                  Temperature Scales, Data, Uses
+                  Moisture, Moisture Measurements; Atmospheric Stability; Dew/Frost;     Ch 4, 5
+                  Cloud Formation; Fogs Types and Formation
+Tue / 23 Jul... 300pm-415pm... JGB 2.218 ... EXAMINATION #1 (Covered in class lecture material - Roughly Ch 1 - 4)
+23 Jul -          Cloud Classification, Types/Features; Precipitation Formation/Types    Ch 5
+30 Jul
+(6 Class          Atmospheric Pressure; Pressure Readings;                               Ch 6
+Sessions)         The "Standard" Atmosphere; Global Scale/Upper Level Winds;
+                  Forces at Work; Wind Measurement
+                  General Air Circulation; Jet Streams, El Nino/La Nina/ENSO;            Ch 7, 8
+                  Local Scale Winds; Air Masses; Weather Patterns; Cyclogenesis
+Wed / 31Jul... 300pm-415pm... CLA 0.128 ... EXAMINATION #2 (Covered in class lecture material - Roughly Ch 6 - 8)
+31 Jul -          High and Low Pressure Areas; Fronts and Associated Weather             Ch 8
+07 Aug
+(5 Class          Weather Forecasting                                                    Ch 9
+Sessions)
+                  Introduction to Thunderstorms; Thunderstorm Hazards - Lightning,       Ch 10
+                  Hail, Flash Floods
+Tue / 06 Aug ... In Class Time... GDC 6.202... PLACE NAME EXAM
+Thu / 08 Aug ... 300pm-415pm... CLA 0.128 ... EXAMINATION #3 (Covered in class lecture material - Roughly Ch 9-10)
+08 Aug -          Tornadoes                                                              Ch 10
+15 Aug
+(5 Class          Tropical Meteorology                                                   Ch 11
+Sessions)
+                  Introduction to Climatology and Climate Classification                 Ch 13
+                  Koppen Climate Types A (Tropical) and B (Arid)                         Ch 13
+                  Koppen Climate Types C (Subtropical) and D (Temperate)                 Ch 13
+                  Koppen Climate Types E (Polar) and H (Highland)                        Ch 13
+                  US/Texas/Austin Climate Classification & Climate Change                Ch 14
+Thu / 15 Aug... 300pm-415pm... CLA 0.128... EXAMINATION #4 (Covered in class lecture material- Roughly Ch 10-14)
+Fri / 16 Aug... In Class Time... FINAL EXAM REVIEW SESSION
+Fri / 16 Aug ... CLA 3.412... FINAL OFFICE HOURS (1:00pm to 3:30pm)
+Mon/19 Aug... 900am-12 noon... TBA... FINAL GRG301K CUMULATIVE EXAMINATION
+
+
+GRG301K / PLACE NAME LOCATION LIST
+About Geography (Thought.com) - Blank Base Map Web Site
+On Line Geography Knowledge Quiz
+Sheppard Software Geography Quizzes
+This is a list of geographic locations of which all graduating high school and college students should be aware. Put your atlas skills to work by using your
+Goode’s World Atlas (strongly recommended), get to know the actual locations of each place listed here.
+GLOBAL SCALE FEATURES
+  * Equator                                           * Tropic of Cancer                      * Tropic of Capricorn
+  * Arctic Circle                                     * Antarctic Circle                      * North Pole
+  * South Pole                                        * Prime Meridian                        * International Date Line
+CONTINENTS
+  * Europe                                            * Africa                                * North America
+  * South America                                     * Asia                                  * Antarctica
+  * Australia
+OCEANS
+  * Atlantic                                          * Pacific                               * Indian
+  * Arctic
+SEAS, BAYS, GULFS, STRAITS, CHANNELS, PASSAGES, CANALS
+  * Mediterranean Sea                                 * Strait of Gibraltar                   * Dardanelles
+  * Black Sea                                         * Suez Canal                            * Red Sea
+  * Arabian Sea                                       * Persian/arabian Gulf                  * Bay of Bengal
+  * South China Sea                                   * Gulf of Alaska                        * Hudson Bay
+  * Gulf of Mexico                                    * Caribbean Sea                         * Panama Canal
+  * Strait of Florida                                 * Windward Passage                      * Strait of Magellan
+  * Drake Passage                                     * Cape of Good Hope                     * Cape Horn
+  * North Sea                                         * Yucatan Channel                       * Bering Sea
+  * Strait of Hormuz                                  * Prince William Sound
+MAJOR ISLANDS AND ISLAND GROUPS
+  * Greenland                                         * Iceland                               * Greater Antilles
+  * Lesser Antilles                                   * British Isles                         * Madagascar
+  * Cyprus                                            * Sicily                                * Borneo
+  * New Guinea                                        * Taiwan                                * Japan
+  * Aleutian Islands                                  * Hawaiian Islands                      * New Zealand
+  * Azores                                            * Canary Islands                        * Bahama Islands
+  * Bermuda                                           * Trinidad                              * Windward Islands
+  * Philippines                                       * Seychelles
+OCEAN CURRENTS
+  * North Equatorial Current                          * Equatorial Counter Current            * South Equatorial Current
+  * Gulf Stream                                       * Labrador Current                      * Canary Current
+  * East Brazil Current                               * Japan (Kuroshio) Current              * California Current
+  * Alaska Current                                    * Peru (Humboldt) Current               * East Australian Current
+MAJOR MOUNTAIN RANGES, PLATEAUS AND BASINS
+  * Alps                                              * Andes Mountains                       * Atlas Mountains
+  * Brazilian Highlands                               * Arabian Plateau                       * Himalayas
+  * Hindu Kush Mountains                              * Rocky Mountains                       * Ural Mountains
+  * Congo Basin                                       * Great Basin                           * Amazon Basin
+  * Iranian Plateau
+DESERTS
+  * Atacama                                           * Australian                            * Gobi
+  * Kalahari                                          * Patagonian                            * Sahara
+  * Mojave                                            * Sonora                                * Chihuahua
+PENINSULAS
+  * Arabian                                           * Balkan                                * Crimean
+  * Florida                                           * Iberian                               * Korean
+  * Italian                                           * Indochina                             * Indian
+  * Scandinavian                                      * Yucatan                               * Baja California
+  * Labrador                                          * Palmer (Antarctic)
+
+
+NORTH AMERICAN PHYSICAL FEATURES
+  * Sierra Nevada                                   * Sierra Madre Oriental         * Sierra Madre Occidental
+  * Appalachian Mountains                           * Alaska Range Brooks Range     * Ozark Plateau
+  * Baffin Island                                   * Vancouver Island              * Long Island
+  * Newfoundland                                    * Gulf of St. Lawrence          * Puget Sound
+  * James Bay                                       * Cape Hatteras                 * San Francisco Bay
+  * Tampa Bay                                       * Chesapeake Bay                * Delaware Bay
+  * Long Island Sound                               * Grand Canyon                  * Lake Winnepeg
+  * Lake Superior                                   * Lake Michigan                 * Lake Huron
+  * Lake Erie                                       * Lake Ontario                  * Great Salt Lake
+  * Lake Okeechobee                                 * Columbia-Snake River          * Yukon River
+  * Fraser River                                    * Colorado River (Southwest US) * Colorado River (Texas)
+  * Mississippi River                               * Missouri River                * Arkansas River
+  * Ohio River                                      * Tennessee River               * James River
+  * Potomac River                                   * Rio Grande River              * Red River (of the North)
+  * Red River (Texas/Oklahoma)                      * Brazos River
+CANADIAN PROVINCES
+  * Price Edward Island                             * Nova Scotia                   * New Brunswick
+  * Newfoundland                                    * Quebec                        * Ontario
+  * Manitoba                                        * Saskatchewan                  * Alberta
+  * British Columbia
+CANADIAN TERRITORIES
+  * Northwest Territories                           * Yukon
+UNITED STATES
+  * Know All Fifty States and the State Capital of Each
+  * District of Columbia
+  * Major Cities:
+       O New York City                              O Chicago                       O Los Angeles
+       O San Francisco                              O Seattle                       O Dallas/Fort Worth
+       O Miami                                      O Boston                        O Washington DC
+       O Houston                                    O St Louis                      O New Orleans
+       O Minneapolis/St. Paul                       O Denver                        O Memphis
+       O Atlanta                                    O Miami                         O Detroit
+MEXICO
+  * Know That it Consists of 31 States and Federal District of Mexico City
+  * Know Locations of the U.S./ Mexico Border States:
+       O Sonora                                     O Chihuahua                     O Coahuila
+       O Nuevo Leon                                 O Tamaulipas
+CENTRAL AMERICAN REGION
+  * Belize                                          * Guatemala                     * El Salvador
+  * Honduras                                        * Nicaragua                     * Costa Rica
+  * Panama
+CARIBBEAN REGION
+  * Puerto Rico                                     * U. S. Virgin Islands          * Cuba
+  * Haiti                                           * Dominican Republic            * Jamaica
+SOUTH AMERICAN REGION
+  * Colombia                                        * Venezuela                     * Guyana
+  * Suriname                                        * French Guiana                 * Ecuador
+  * Peru                                            * Brazil                        * Bolivia
+  * Chile                                           * Paraguay                      * Argentina
+  * Uruguay
+UNITED KINGDOM
+  * England                                         * Wales                         * Scotland
+  * Northern Ireland
+EUROPE
+  * Finland                                         * Sweden                        * Norway
+  * Denmark                                         * Iceland                       * Republic of Ireland
+  * France                                          * Germany                       * Belgium
+  * the Netherlands                                 * Luxembourg                    * Switzerland
+  * Austria                                         * Spain                         * Portugal
+  * Italy                                           * Greece                        * Malta
+  * European Turkey                                 * Poland                        * Hungary
+  * Czech Republic                                  * Romania                       * Bulgaria
+  * Republic of Macedonia                           * Croatia                       * Serbia
+  * Montenegro                                      * Bosnia Herzegovina            * Albania
+  * Slovakia
+
+
+SOUTHWESTERN ASIA
+  * Turkey                                         * Syria                                  * Lebanon
+  * Jordan                                         * Saudi Arabia                           * Yemen
+  * Oman                                           * United Arab Emirates                   * Qatar
+  * Bahrain                                       * Kuwait                                  * Iraq
+  * Israel                                         * Iran                                   * Afghanistan
+SOUTHERN ASIA
+  * Pakistan                                      * India                                   * Bangladesh
+  * Sri Lanka                                     * Myanmar / Burma                         * Nepal
+  * Bhutan
+SOUTHEASTERN ASIA
+  * Thailand                                       * Laos                                   * Vietnam
+  * Cambodia                                       * Malaysia                               * Brunei
+  * Indonesia                                      * Philippines
+EAST AND INTERIOR ASIA
+  * People's Republic of China (Mainland)
+  * People's Republic of Mongolia
+  * Democratic People's Republic of Korea (North Korea)
+  * Republic of Korea (South Korea)
+NORTHERN AFRICA
+  * Morocco                                        * Algeria                                * Tunisia
+  * Libya                                          * Egypt
+SAHARAN AFRICA
+  * Mauritania                                     * Mali                                   * Niger
+  * Chad                                           * Sudan
+WESTERN AFRICA
+  * Gambia                                         * Senegal                                * Guinea
+  * Guinea-Bissau                                  * Liberia                                * Ivory Coast (Cote D’ivoire)
+  * Ghana                                          * Burkina Faso                           * Togo
+  * Benin                                         * Nigeria                                 * Cameroon
+  * Sierra Leone
+EQUATORIAL / CENTRAL AFRICA
+  * Central African Republic                       * Equatorial Guinea                      * Gabon
+  * Congo Republic                                 * Democratic Republic of Congo (Zaire)
+EASTERN AFRICA
+  * Ethiopia                                       * Somalia                                * Kenya
+  * Uganda                                         * Rwanda                                 * Burundi
+  * Tanzania                                       * Djibouti                               * Eritrea
+SOUTHERN AFRICA
+  * Angola                                        * Zambia                                  * Malawi
+  * Botswana                                      * Zimbabwe                                * Mozambique
+  * Swaziland                                     * Lesotho                                 * Republic of South Africa
+  * Namibia
+RUSSIAN FEDERATION
+  * Russia                                         * Ukraine                                * Armenia
+  * Azerbaijan                                    * Belarus                                 * Georgia
+  * Kazakhstan                                    * Kyrgyzstan                              * Moldavia
+  * Tadzhikistan                                   * Turkmenistan                           * Uzbekistan
+  * Estonia                                       * Latvia                                  * Lithuania
+AUSTRALIA
+  * Australian Capital District                   * Western Australia                       * Northern Territory
+  * Queensland                                     * New South Wales                        * Victoria
+  * South Australia                               * Tasmania
+OCEANIA
+  * Polynesia (Area Inside a Triangular Line That Connects Hawaiian Islands
+  * Easter Island and New Zealand - Means "Many Islands."
+  * Micronesia (North & West of Polynesia - Means "Small Islands."
+  * Melanesia (Narrow Area West of Polynesia - Means "Black Islands,"
+                                Which Mainly Refers to the Color of the Inhabitants of These Islands)
+Last updated 06/05/2018 tmk

@@ -1,0 +1,141 @@
+foundations of digital imaging and visualization
+// introduction to digital content creation, manipulation, transmission, and critical inspection
+              AET306                                                                      neal daugherty   (kneel dock-er-tee)
+Description                                                                  Instructor
+              unique ID:        20715                                                     email:		         neal_daugherty@utexas.edu
+              meeting:		        m/w - 12:30pm- 2pm                                        phone:		         512-695-9749 ( between 11am and 7pm)
+              location		        DFA 4.126                                                 office:		        TBD
+              format: 		        foundations                                               hours:		         By Appointment
+context and objectives
+By utilizing contemporary computer graphic software, digital capture and imaging devices, and a digital vocabulary of the artistic use
+of technology within our culture, this course’s objective is to enable the student to make educated technological and conceptual de-
+cisions on how to explore and utilize the computer and digital technology within their own creative and technical career all focused
+by conceptual aesthetic development.
+This course will develop concepts and skills by addressing assigned conceptual problems. These problems or “project modules”
+will help the student creatively consider the interaction of media, imagery, composition, content, and digital manipulation methods.
+Weekly individual technical and conceptual growth will be applied to each module and also factored into the student’s final grade.
+The Work Ethic and Participation module grade will be for the instructor’s use and is discretionary.
+Research topics and readings are to be expected. Participation in assignments and class is expected and mandatory. Expect addi-
+tional work outside of the specified class time. Expect additional Internet tutorials. With the exception of the grade and attendance
+policies, parts of this syllabus are subject to change with advance notice, as deemed necessary or appropriate by the instructor.
+project modules
+These modules will be based on lectures, technical demonstrations, assignments, research and tutorials, and a creative project. Stu-
+dents will collaborate together in groups and also work individually on projects. In addition to the discussions of the formal concep-
+tual and technical content of the class, broad dialogue may occur regarding technology and art and its social and historical context.
+This may include the expression of thoughts, experience and concepts of contemporary and historical individuals and events. Self-
+expression is to be expected and explored both visually and verbally.
+                 Sequence and Imagery (Adobe Photoshop basics, image editing, image resolution theory, digital image/video		
+                 capture, color space, and printing): Development of basic digital image editing skills with digital exploration		
+                 into both static and temporal space. - 20% your cumulative grade.
+                 Vector Space and Logotypes (Adobe Illustrator, visual synthesis, vector vs. raster space, 					
+                 layout design and typography basics): Exploration into vector vs. raster file manipulation, digital file formats,
+                 digital multi-tasking. - 20% your cumulative grade.
+                 3D Space and Presentation (SketchUp, Adobe Photoshop, Adobe InDesign, Adobe Illustrator): Exploration into 		
+                 the basics of 3D space and presentation. - 20% your cumulative grade.
+                 Temporal Space and Time (Adobe Premiere Pro, non-linear digital video editing, digital cinematography 			
+                 digital presentation, and transmission): Exploration into digital video, capture, editing, manipulation, transmission 		
+                 and presentation in technical and creative capacitates. - 20% your cumulative grade.
+                 Animation and Motion (Adobe After Effects, digital rotoscoping, 2D Animation, and storyboarding):
+                 Development of traditional and digital animation skills, keyframing and motion tracking, compression theory,
+                 digital animation work flows, and practical story boarding. - 20% your cumulative grade.
+                 Work Ethic and Participation (Critical Thinking, Individual Progress, and ‘playing nice with others’): Development of a good 		
+                 work ethic, a learned vocabulary, digital multi-tasking applied to collaborative critical thinking and developed digital technical 		
+                 skills. Discretionary for determination of individual growth in both technical and conceptual thinking and application. This 		
+                 module will be on-going throughout the semester and will be factored into your cumulative grade.
+Canvas and course schedule: In this class I use Canvas - a Web-based course management system with password-protected access
+through UT Direct - distribute course materials, to communicate and collaborate online, to post grades, to submit assignments, and
+to give you online quizzes and surveys. You can find support in using Canvas at the ITS Help Desk at 475-9400, Monday through
+Friday, 8 a.m. to 6 p.m., so plan accordingly.
+
+
+storage, media, service requirements & recommendations
+Each student will need to purchase/have available the following for the course:
+Personal Laptop (From your admissions advising)
+Internet Access and a Working E-mail Address
+Adobe Creative Cloud Master Collection
+USB Flash/Thumb drive(s) and/or Portable External hard disk drive(s)
+Cloud Storage Access (Dropbox, Google Drive, etc.)
+Personal Sketchbook
+**backup of your data is solely your responsibility and should be done daily to avoid loss of any work**
+use of e-mail for official correspondence to students
+All students should become familiar with the University’s official e-mail student notification policy. It is the student’s responsibil-
+ity to keep the University informed as to changes in his or her e-mail address. Students are expected to check e-mail on a frequent
+and regular basis in order to stay current with University-related communications, recognizing that certain communications may be
+time-critical. It is recommended that e-mail be checked daily, but at a minimum, twice per week. The complete text of this policy and
+instructions for updating your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564
+grades and grading policy
+Each student will receive seven module grades for the semester. The grades will be based on completion of particular projects and
+assignments throughout the duration of the course. Students will be evaluated on comprehension of specific terminology, grasp of
+course technology, presentation, aesthetic development and conceptual growth. Collaboration with others students will be expected
+and factors of attendance and class participation will be extremely important to each project’s grade.
+Grading in a creative course is inevitably subjective, meaning that the final evaluation of the work pre­sented is based on how the cri-
+teria for the assignments is met and on the opinion of the instructor as to the work’s quality. The following offers some of the criteria
+used in determining grades. Grades will be based upon the criteria of Concept, Technical Skills, Participation and Work Ethics, Presen-
+tation and Craft, and Critical Thinking.
+          A+/- means outstanding work exceeding the requirements in both quantity and quality. A clear and complete understanding
+          of techniques and processes is evidenced. Significant participation in critiques has occurred. Finished and fully developed work
+          is innovative and well presented.
+          B+/- means good work beyond the requirements. Good understanding of techniques and processes is evidenced.
+          Individual approach has formed.
+          C+/- means average work. Requirements are met; projects are completed on time. Regular attendance is maintained. Ad		
+          equate participation in critiques and understanding of techniques and processes is evidenced.
+          D+/- means poor work. Requirements barely met, understanding of techniques and processes lacking. Skill level low.
+          F means unacceptable work. Requirements not met. Little understanding of techniques or processes.
+          Grading System Scale:
+          A           = 4.00       C        = 2.00
+          A-          = 3.67       C-       = 1.67
+          B+          = 3.33       D+       = 1.33
+          B           = 3.00       D        = 1.00
+          B-          = 2.67       D-       = 0.67
+          C+          = 2.33       F        = 0.00
+class attendance policy
+Class attendance is a requirement (being 20% of your total grade) and use of the full class period is expected. Being late to class
+three times or leaving class early three times will count as an absence. 15 minutes late to the start of class will constitute a tardy. Leav-
+ing class before being dismissed by your professor will constitute an early departure. Absentee grades under 80% will result in the
+lowering of your final grade by one letter grade. Absences, tardiness and/or early departures beyond this could result in course failure.
+If a serious medical or personal situation occurs affecting attendance, please discuss it with your professor. No late work will be ac-
+cepted. No incompletes will be given. If you feel you will not be able to complete all work on time, you should ask the instructor for a
+grade of Q or drop before the deadline for doing so passes.
+Q drop Policy The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As stated
+in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of higher education may not permit an undergraduate
+student a total of more than six dropped courses, including any course a transfer student has dropped at another institution of higher
+education, unless the student shows good cause for dropping more than that number.”
+
+
+university attendance policy: religious holy days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of observance of a religious
+holy day. If you must miss a class, an examination, a work assignment, or a project in order to observe a religious holy day, I will give
+you an opportunity to complete the missed work within a reasonable time after the absence.
+documented disability statement
+Any student with a documented disability who requires academic accommodations should contact Services for Students with Dis-
+abilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not required to provide accommodations
+without an official accommodation letter from SSD.
+academic honesty
+University of Texas Honor Code
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and responsi-
+bility. Each member of the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect toward
+peers and community.
+behavior concerns advice line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to discuss by phone
+your concerns about another individual’s behavior. This service is provided through a partnership among the Office of the Dean of
+Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas
+Police Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+emergency evacuation policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm is activated or an
+announcement is made. Please be aware of the following policies regarding evacuation:
+•          Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest exit door may not be 		
+           the one you used when you entered the building.
+•          If you require assistance to evacuate, inform me in writing during the first week of class.
+•          In the event of an evacuation, follow my instructions or those of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police Department, or the
+Fire Prevention Services office.
+
+
+
+
+
+
+
+
+
+

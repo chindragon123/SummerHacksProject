@@ -1,0 +1,247 @@
+                    M f362K PROBABILITY I – FIRST DAY HANDOUT
+          Summer 2019, Unique # 86370, MTWThF 1:00 pm to 2:30 pm, RLM 6.104
+Instructor: Kanthimathi Sathasivan, Ph.D. (You can call me Dr. Satha)
+Course Website: https://canvas.utexas.edu/
+Course Description: An introductory course in the mathematical theory of probability,
+fundamental to further work in probability and statistics, includes basic probability properties,
+conditional probability and independence, various discrete and continuous random variables,
+expectation and variance, central limit theorem, and joint probability distributions. Principles of
+set theory and a set of axioms for probability are used to derive some probability density and/or
+distribution functions. Special counting techniques are developed to handle some problems.
+Properties associated with a random variable are developed for the usual elementary
+distributions. Problem solving is required, and some theorem proving can be done, but the course
+emphasizes computation and intuition. A student may not receive credit for M316 after
+completing M362K with a grade of C- or better. Mathematics 362K and Statistics and Scientific
+Computation 321 may not both be counted.
+Prerequisite: M 408D, 408L or 408S with a grade of at least C-.
+What will be learned?
+Basic combinatorics: Counting principle, permutations, combinations.
+Basic concepts: Sample spaces, events, basic axioms and theorems of probability, finite sample
+spaces with equally likely probabilities.
+Conditional probability: Reduced sample space, independence, Bayes' Theorem.
+Random variables: Discrete and continuous random variables, discrete probability functions and
+continuous probability density functions, distribution functions, expectation, variance, functions
+of random variables.
+Special distributions: Bernoulli, Binomial, Poisson, Geometric, Negative binomial, Hyper-
+Geometric, and Uniform discrete random variables, Uniform, Normal, and Exponential
+continuous random variables, approximation of Binomial by Poisson or Normal.
+Jointly distributed random variables: Joint distribution functions, independence, conditional
+distributions, expectation, covariance
+Sums of independent random variables: expectation, variance.
+Inequalities and Limit theorems: Markov's and Chebyshev's inequalities, Weak and Strong Law
+of Large Numbers, Central Limit Theorem.
+Main skills and attitudes to be developed:
+The ability to think and approach a problem mathematically, to develop problem solving skills,
+to improve written and organizational skills, to explain and reason solutions, to apply the
+techniques and skills to other areas, to prepare the fundamentals for other courses
+
+
+Required Text: A First Course in Probability, tenth edition by Sheldon Ross
+GRADING: Final grade for the course will be determined using two midterm tests worth 25%
+each, final exam worth 30%, and homework and quizzes worth 20%. Minimum score needed for
+the + and – letter grades are given in the table below.
+Percent     93%     90%     87%      83%     80%     77%      73%      70%   67%     63%      60%
+Grade        A       A-      B+       B       B-      C+       C        C-    D+       D       D-
+TESTS (50%): The two midterm tests will be given during your regular class period. Tentative
+test dates and chapters covered are June 19th (Chapters 1, 2, 3 and sections 4.1 to 4.5) and
+July 3rd (sections 4.6 to 4.8.2, Chapter 5, and sections 6.1 to 6.5). Prior to each midterm, I
+will announce in class information about the midterm. Tests will be returned in class. If you have
+grading questions you need to return the test to me right away and I will hold on to your test until
+you come and talk to me in my office. Any questions concerning the grading must be addressed
+within one week after papers are returned in class. There will not be any makeup or rescheduled
+tests for any reason. If you must miss a test, your final exam grade will replace the missed test
+grade.
+FINAL EXAM (30%): Final exam is mandatory and it will be given on Saturday, the 13th of
+July from 9 am to 12 noon. The location will be announced during the last week of classes. The
+final exam will be comprehensive.
+You may use any scientific calculator (no graphing or no professional calculators) that does not
+do integrals on midterm tests and the final exam. Make sure it has !, nCr, and nPr.
+Recommended (easy to use) calculators are TI-30XIIS, TI-30XIIB (MultiView okay). Other
+common calculators are TI30xa, TI30xs. You will not be allowed to use graphing calculators or
+professional (Pro) calculators or calculators that can do integration.
+HOMEWORK and QUIZZES (20%): Homework will be assigned over the lecture.
+Homework will be posted on canvas. It will be easier to do the homework if you collaborate with
+another student or do it in a group. Get some contact information from your classmates. You are
+encouraged to discuss homework assignments with your peers but you are expected to keep a
+homework notebook of your own work. Always provide the reason and enough work to check
+the validity of your solution. Few problems from your assigned homework will be collected and
+graded. Assignments are due at the beginning of the class on the due date and WILL NOT BE
+ACCEPTED LATE OR EARLY FOR ANY REASON. Do not send your assignment
+electronically through email. It will not be accepted. Use smooth edged paper to do the
+homework. If you rip off paper from your notebook, make sure you cut the edges. You should
+staple your homework papers before class, fold in the middle lengthwise with page 1 inside and
+PRINT your full name, EID, homework number, and M f362K – 1 pm - Dr. Satha, on the inside
+right top and outside right top. There may be quizzes in class on the material covered before or
+discussed in the lecture using Squarecap or on paper. (Squarecap is free for our class. Do not buy
+Squarecap.) Four lowest grades in this category (Homework and quizzes) will be dropped and
+that will accommodate students who must miss a class or homework due to any reason.
+
+
+LECTURE: We will cover a fair amount of material from Chapters 1 to 8. We will not cover all
+sections. There is a wealth of examples in the text. The instructor has time to present only some
+of them. That does not prevent you from going over them by yourself. The material covered in
+roughly the second half of this course is more difficult than the material in the earlier chapters.
+ATTENDANCE: I expect you to be committed to attend all classes and to be on time. If you
+must miss class (unavoidable), you should get the notes from a classmate. The material covered
+in class and the homework problems assigned will give you an idea of the level of difficulty
+considered in this class. The material becomes difficult after chapter 3 and do not underestimate
+the class using the first three chapters or your first test grade.
+ELECTRONIC DEVICES: All cell phones and other electronic devices (e.g. laptop, ipod,
+ipad) must be turned completely off and put away during lecture and exams. Using these devices
+or reading newspapers or sleeping during class is a distraction to the faculty and to your fellow
+classmates and they don’t like it.
+How will students learn?
+Students attend lectures and solve problems by actively involving and participating in every
+learning activity. Attempt and solve the problems assigned for practice. Complete all the
+assigned homework with a due date in an organized manner and turn it in on time. Practice
+problems to prepare for midterms and exam. Students form group study sessions to review.
+OTHER INFORMATION
+Students with disabilities: The University of Texas provides upon request appropriate academic
+accommodations for qualified students with disabilities. For more information, contact the Office
+of the Dean of Students at 471-6259, 471-6441 TTY, http://www.utexas.edu/diversity/ddce/ssd/.
+If you qualify under the University’s Learning Disability Policy, your letter from the Dean will
+take effect after it is presented to your instructor.
+Academic dishonesty: You are encouraged to discuss homework assignments with your peers
+but you are expected to submit your own work. During tests you are expected to keep your eyes
+only on your test. Students who violate these expectations can expect to receive a failing grade
+on the test or the course and be reported to the Dean of Students office for academic dishonesty.
+These types of violations are reported to professional schools, should you ever decide to apply
+one day. Don’t do it – it’s not worth the consequences.
+“Plagiarism” includes, but is not limited to, the appropriation of, buying, receiving as a gift, or
+obtaining by any means material that is attributable in whole or in part to another source,
+including words, ideas, illustrations, structure, computer code, and other expression or media,
+and presenting that material as one’s own academic work being offered for credit or in
+conjunction with a program course requirement.
+University Code of Conduct: The core values of the University of Texas at Austin are learning,
+discovery, freedom, leadership, individual opportunity, and responsibility. Each member of the
+
+
+University is expected to uphold these values through integrity, honesty, trust, fairness, and
+respect toward peers and community.
+http://catalog.utexas.edu/general-information/the-university/#universitycodeofconduct)
+Religious holidays: By UT Austin policy, you must notify me of your pending absence at least
+fourteen days prior to the date of observance of a religious holy day. If you must miss a class, a
+test, a homework assignment in order to observe a religious holy day, you will be given an
+opportunity to complete the missed work within a reasonable time after the absence.
+Email: If you must email me include M 362K, class time and the brief reason for the email on
+subject line. Always include your full name, EID and what you want to communicate in the body
+of the email. Before emailing, check if the information you are looking for is available on
+canvas, or class work (e.g. due dates, homework, etc). I will answer your email only if it is
+necessary (determined by me). Please wait for at least 24 hours or the weekend before you send
+me a reminder.
+Computer Lab: The 40-seat undergrad computer lab, RLM 7.122, is open to all students
+enrolled in Math courses. Students can sign up for an individual account themselves in the
+computer lab using their UT EID. The computers have most of the mainstream commercial math
+software: mathematica, maple, matlab, magma, and an assortment of open source programs.
+Counseling and Mental Health Center
+Student Services Bldg (SSB), 5th Floor
+Hours: M--F 8am--5pm
+512 471 3515
+www.cmhc.utexas.edu
+
+
+Emergency evacuation procedure from the Office of Campus Safety and Security:
+512-471-5767, http://www.utexas.edu/safety/ :
+1. Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and
+assembling outside.
+2. Familiarize yourself with all exit doors of each classroom and building you may occupy.
+Remember that the nearest exit door may not be the one you used when entering the building.
+3. Students requiring assistance in evacuation shall inform their instructor in writing during the
+first week of class.
+4. In the event of an evacuation, follow the instruction of faculty or class instructors.
+5. Do not re-enter a building unless given instructions by the following: Austin Fire Department,
+The University of Texas at Austin Police Department, or Fire Prevention Services office.
+6. Behavior Concerns Advice Line (BCAL): 512-232-5050.
+7. A link to information regarding emergency evacuation routes and emergency procedures can
+be found at: www.utexas.edu/emergency
+Weapons Policies and Safety:
+It is our intention to create a peaceful and secure environment that is conducive to active
+learning in our classroom. We expect that all students will respect one another, the TA and the
+Professor. With the exception of concealed handguns, no weapons may be brought into the
+classroom.
+For more detailed information about Campus Carry consult (http://campuscarry.utexas.edu/).
+Four Key points:
+1. The law does NOT allow open carry on campus
+2.    A person must have a license to carry a concealed handgun on campus.
+3.    One must be age 21 or older to obtain a license to carry
+4.    The law still makes it a crime for a license holder to carry a concealed handgun while
+     intoxicated.
+Course participants with a license to carry a handgun who choose to bring a gun on campus,
+must keep it concealed, with the trigger locked, and on their possession at all times. If a gun or
+any other weapon becomes visible, the person who sees the weapon should leave the classroom
+and immediately call 911 so that law enforcement personnel can take appropriate action and
+restore an atmosphere conducive to learning.
+
+
+Handguns may not be brought to the classroom in backpacks, bags, purses, or other objects that
+could separate you from your weapon. University policy and the implementation of the law
+would be violated by the separation of the gun owner from their weapon that would result from
+these required classroom activities.
+We encourage students to develop habits that keep them safe without the need to carry guns. For
+example, when traveling on campus, especially after dark, be sure to travel in groups of 2 or
+more friends. If you must stay late to work on a project and have no one to escort you, call
+SURE walk 512-232-9255 or book a walk on line at orderasurewalk@gmail.com to obtain an
+escort, or call 911 any time you feel unsafe. Talk with your fellow students to develop buddy
+systems that help you to be safe and secure at parties and other events, especially where you
+might become intoxicated. We encourage you to share your knowledge of maintaining health
+and safety with others.
+Please keep our classrooms safe and peaceful conducive to effective learning.
+IMPORTANT DATES FOR FIRST-TERM
+June 7th, Friday: Last day of the official add/drop period; after this date, changes in registration
+require the approval of the department chair and usually the student’s dean. Last day
+undergraduate students may register and pay tuition without the approval of the registrar. (See
+General Information, chapter 4, for details.)
+June 11th, Tuesday: Fourth class day; this is the date the official enrollment count is taken. Last
+day an undergraduate student may add a class, with required approvals except for rare and
+extenuating circumstances.
+June 26th, Wednesday: Last day an undergraduate student may change registration in a class to
+or from the pass/fail basis or credit/no credit basis.
+July 11th, Thursday: Last day to drop a class, with required approvals.
+DEADLINES FOR DROPPING A COURSE: If you drop a class on or before the 4th class
+day, the class will not show up on your transcript. If you drop a class after that date, the course
+will show up on the transcript with a “Q” grade. After the last day to withdraw, it is not possible
+to drop a course except for extenuating (usually non-academic) circumstances.
+
+
+                            Tentative Schedule - Mf362K Summer 2019
+                (Textbook: A First Course in Probability, tenth edition by Sheldon Ross)
+Class     Date      Day       Sections                                   Topic
+  1      June 6    Thurs      1.1, 1.2      Introduction, Basic principle of counting
+  2      June 7     Fri       1.3, 1.4      Permutations, Combinations
+  3     June 10    Mon      2.1, 2.2, 2.3   Introduction, Sample Space and Events, Axioms of
+                                            Probability
+  4     June 11     Tue     2.4, 2.5, 2.7   Some Simple Propositions, Sample Spaces Having Equally
+                                            Likely Outcomes, Probability as a Measure of belief
+  5     June 12    Wed        3.1, 3.2      Introduction, Conditional Probabilities
+  6     June 13    Thurs      3.3, 3.4      Baye’s Formula, Independent Events
+  7     June 14     Fri       4.1, 4.2      Random Variables, Discrete Random Variables
+  8     June 17    Mon        4.3, 4.4      Expected Value, Expectation of a Function of a Random
+                                            Variable
+  9     June 18     Tue          4.5        Variance
+ 10     June 19    Wed        TEST 1        Sections 1.1 to 4.5
+ 11     June 20    Thurs     4.6, 4.6.1     The Bernoulli and Binomial Random Variables, Properties
+                                            of Binomial Random Variable
+ 12     June 21     Fri      4.7, 4.8.1,    The Poisson Random Variable, The Geometric Random
+                                4.8.2       Variable, The Negative Binomial Random Variable
+ 13     June 24    Mon        5.1, 5.2      Introduction, Expectation and Variance of Continuous
+                                            Random Variables
+ 14     June 25     Tue       5.3, 5.4      The Uniform Random Variable, Normal Random Variable
+ 15     June 26    Wed       5.4.1, 5.5     The Normal Approximation to the Binomial Distribution,
+                                            Exponential Random Variable
+ 16     June 27    Thurs         5.7        The Distribution of a Function of a Random Variable
+ 17     June 28     Fri       6.1, 6.2      Joint Distribution Functions, Independent Random
+                                            Variables
+ 18      July 1    Mon           6.3        Sums of Independent Random Variables
+ 19      July 2     Tue       6.4, 6.5      Conditional Distributions: Discrete Case, Continuous Case
+ 20      July 3    Wed        TEST 2        Sections 4.6 to 6.5
+ 21      July 8    Mon      6.6, 7.1, 7.2   Order Statistics, Introduction, Expectations of Sums of
+                                            Random Variables
+ 22      July 9     Tue          7.4        Covariance, Variance of Sums, and Correlations
+ 23     July 10    Wed        8.1, 8.2      Introduction, Chebyshev’s Inequality and the Weak Law of
+                                            Large Numbers
+ 24     July 11    Thurs      8.3, 8.4      The Central Limit Theorem, The Strong Law of Large
+                                            Numbers
+ 25     July 13     Sat   COMPREHENSIVE FINAL EXAM – 9 am to 12 noon
+    Note: The above schedule is tentative and it is subject to change. Any change to this
+    schedule will be announced in class.

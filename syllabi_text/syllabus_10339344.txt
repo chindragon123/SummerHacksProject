@@ -1,0 +1,98 @@
+SPRING 2020                                                                                                                             Instructor: Rasa Navasaityte
+ARCH 327R/ARC 386                                                                                                                       rasa.navasaityte@utexas.edu
+                                                                                                                                        Office Hours: by Appointment
+Composition and Architecture
+Departing from the compositional principals of the Bauhaus and its bottom-up strategies, we ask what
+composition can do for architecture today. In this course, we will reflect on advances in computation, eco-
+logical thinking, shared technologies, and the opportunities they compositionally open to us for architecture.
+Architecture is here researched by design; not by words, not by numbers but by composition only.
+This year, we will advance from Augmented to Mixed Realities: when digital objects are no longer implied
+onto a physical reality but are themselves equally real. What kind of opportunities evolve at an architectural
+scale when compositions are neither virtual nor real but mixed realities?
+ Individual or joined as team, participants will compose an architectural chunk using AR and Mixed Reality
+technology. The seminar will begin with an introduction to Unity3D and continues with a series of design
+experiments; from simple to complex; from research to design.
+Conceptual model / Team Archifilade City: Zhaoyue Zhang, Mengshi Fu, Chenyi Yao, Ren Wang / Research Cluster 17 - Large City Architecture / B-Pro Urban Design, The Bartlett School of
+Architecture, UCL, London, 2018-2019.
+UTSOA / 2020 / spring semester / Composition and Architecture
+
+
+SEMESTER SCHEDULE
+Week 00                                      Week 06                                  Week 10
+        Fri        introduction lecture                Fri     Unity workshop                 Fri  main project
+                                             Week 07                                  			                    (group work)
+Week 01
+                                                       Fri     Midterm Presentation   Week 11
+        Fri        composition 1             			(13 March)                                    Fri  main project
+Week 02                                      Assignment 2                             			                    (group work)
+        Fri        composition 2                                                      Week 12
+Week 03                                                                                       Fri  main project
+                                                                                      			                    (group work)
+        Fri        composition 3             Week 08
+                                                                                      Week 13
+                                             Spring Break March 16-20
+Assignment 1                                                                                  Fri  main project
+                                             Week 09                                  			                    (group work)
+                                                       Fri      main project          Week 14
+Week 04                                      			                         (group work)         Fri  Final Presentation
+        Fri        Unity workshop                                                     		
+Week 05
+                                                                                      Assignment 3
+        Fri        Unity workshop
+Assignment 1 / Learning technical skills
+following the seminar’s tutorials, develop six compositional studies, submitted as jpeg, individual work:
+1. Point 2. Line 3. Surface
+4.–6. Compositional Groups
+Assignment 2 / Figure Figuration
+develop design ideas based on compositional thinking, according to individual feedback, group work:
+three jpeg files expressing spatial complexity.
+Assignment 3 / Mixed Spaces
+Build a figurative, spatial experience in mixed reality, exploring the implications for architectural assembly.
+Submission: Video; recordings of the building process and spatial experience.
+EVALUATION CRITERIA
+While each project contains certain quantifiable elements for evaluation, a significant portion of each grade
+is derived from broader and more subjective criteria.
+Student work will be evaluated according to its rigor and evolution over the semester. Grades are subject to
+deductions for late arrivals, absences, and late or incomplete work at the discretion of the instructor.
+Grading for an assignment is broken into four components, each of which is given roughly equal weight:
+Pursuit: the consistent and rigorous development and testing of ideas.
+•       The ability to formulate a query or thesis and pursue a self-determined concomitant method of inquiry
+•       The ability to identify and implement various processual mechanisms (software, sketch drawing and
+        models, etc.) in the development of the design
+UTSOA / 2020 / spring semester / Composition and Architecture
+
+
+•       Initiative as demonstrated in work ethic – Does the student do what is asked; go beyond what is 		
+        asked; direct their own efforts; eager to produce the next iteration of the design?
+Grasp: the ideas and understanding of the project at hand and integration of knowledge introduced in com-
+panion courses.
+•       A strong and clearly stated design objective
+•       Spatial complexity
+•       Synthetic thinking; the ability to holistically organize a project as demonstrated through creative 		
+        engagement with issues of structure, construction, and assembly,
+•       Material sensitivity as demonstrated in spatial assembly
+Resolution: of the design objective; the demonstration of competence, completeness, and finesse in the
+final design presentation.
+•       Quality of presentation; clarity of communication; appropriateness of media strategy and level of
+        skill displayed through the work presented at all stages of the design process; technical documentation
+Engagement: the active participation in studio activities, leadership, collaboration, group discussions and
+reviews.
+GRADE DESCRIPTIONS
+A/A- Excellent Project surpasses expectations in terms of inventiveness, appropriateness, visual lan-
+guage, conceptual rigor, craft, and personal development. Student pursues concepts and techniques above
+and beyond what is discussed in class. Project is complete on all levels.
+B+/B/B- Above Average Project is thorough, well presented, diligently pursued, and successfully complet-
+ed. Student pursues ideas and suggestions presented in class and puts in effort to resolve required pro-
+jects. Project is complete on all levels and demonstrates potential for excellence.
+C+/C Average Project meets the minimum requirements. Suggestions made in class and not pursued with
+dedication and rigor. Project is incomplete in one or more areas.
+C-/D+/D/D- Poor Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of presentation
+are not level-appropriate. Student does not demonstrate the required competence and knowledge base.
+F Fail Project is unresolved. Minimum objectives are not met. Performance is not acceptable. Note that this
+grade will be assigned when students have excessive unexcused absences.
+X Excused Incomplete Can be given only for legitimate reasons of illness or family emergency. Simply not
+completing work on time is not an adequate cause for assigning this evaluation. It may only be used after
+consultation with the Associate Deans’ offices and with an agreement as to a new completion date. Work
+must be completed before the second week of the next semester in which the student is enrolling, accord-
+ing to the School of Architecture policy.
+UTSOA / 2020 / spring semester / Composition and Architecture

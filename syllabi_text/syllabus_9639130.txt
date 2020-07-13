@@ -1,0 +1,45 @@
+       MATH 328K (86345): Introduction to Number Theory - Summer 2019
+Class meetings: MTWTHF 11:30am - 1:00pm in RLM 7.104.
+Instructor: Kiryl Tsishchanka, office RLM 13.164.
+Office hours: MTWTHF 1:00 - 1:30pm or by appointment.
+Office Phone: (512)471-6410
+E-mail address: kit@math.utexas.edu
+Web: web.ma.utexas.edu/users/kit/number theory.html
+Textbook: Elementary Number Theory and Its Application, 6th edition, by Kenneth H. Rosen.
+Prerequisites and degree relevance: M341 or M325K, with a grade of at least C-. This is
+a first course that emphasizes understanding and creating proofs; therefore, it must provide a
+transition from the problem-solving approach of calculus to the entirely rigorous approach of
+advanced courses such as M365C or M373K.
+Homework: There will be homework assignments due on Tuesdays and Fridays. Late home-
+work will not be accepted for any reason. If you are not in class on Tuesday or Friday, you
+can turn in your homework earlier (either in class or during office hours only), but not later.
+Electronic submissions will not be accepted. One lowest homework score will be dropped at
+the end of the semester.
+Exams: There will a 75 min. in-class midterm exam (Wed, June 26) and the final exam
+(Fri, July 12, 9:00am-12:00pm in RLM 7.104). A makeup will be given only if you miss a test
+because of a university sponsored event or a documented medical excuse. Class notes, books,
+cell phones, calculators and other aids will not be allowed.
+Grading and Attendance: To compute your final course grade, I will average your homework
+(20%), the midterm exam (35%) and the final exam (45%). Class attendance will be taken at
+the beginning of each class and will contribute towards your final grade. An absence cannot be
+excused for any reason. One lowest attendance score will be dropped at the end of the semester.
+The cut-off numbers for grades will be:
+                                       Cut-offs   Grades
+                                           93     A
+                                           90     A-
+                                           87     B+
+                                           83     B
+                                           80     B-
+                                           77     C+
+                                           73     C
+                                           70     C-
+                                           60     D
+Documented Disabilities: If you have a documented disability, you should contact Services
+for Students with Disabilities (SSD) at (512) 471-6259 (voice) or (866) 329-3986 (video phone),
+
+
+or visit http://ddce.utexas.edu/disability/. You must contact me by the 12th class day
+to ensure that accommodations can be made.
+University Honor Code: Cheating is punished to the fullest extent allowed by university
+policy. Cheating includes, but is not limited to, using any electronic device on an exam, and
+presenting another person’s work as your own.

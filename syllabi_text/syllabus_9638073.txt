@@ -1,0 +1,280 @@
+Psy N418 (Unique 83099)             Statistics and Research Design                      Summer 2019
+Class Times & Location:                      MTuWTh 8:30 to 9:45 AM                     SEA 2.108
+Lab Times and Locations:                     TuTh 10:00 to 11:45 AM                     SEA 2.114
+Instructor:        Patrick Carroll, Ph.D.
+                            SEA 5.204        (512) 477-3906                     carroll@utexas.edu
+                            Office Hours: Monday & Wednesday                    10:00 to 11:00 AM
+                                                                                and by appointment
+TA:                Avery Campos
+                            Avery’s contact information and office hours will be posted on CANVAS.
+Required Texts:
+• Statistics Unplugged by Sally Caldwell (4th Edition, Copyright 2013) Wadsworth/Cengage
+     Only the textbook is required. No other bundled material is needed.
+Other Supplies:
+• Please bring a calculator to all classes and to the tests. A simple $1 calculator is fine. You don’t need
+     anything fancy.
+• You will need access to a computer. If you have a laptop you can bring to class, you may find that
+     preferable to using the department’s computers. Your computer should have MS Word and Excel
+     (available for free from the university). You should download JASP to your computer.
+Course Objectives
+Students will acquire an appreciation for, as well as some knowledge of, the scientific
+method as it is applied within the field of psychology. Students will learn to critically evaluate
+published research, to form empirically testable hypotheses, and to design and conduct
+experiments relevant to those hypotheses. Students also will learn to employ computers to
+statistically describe and evaluate experimental data. Considerable emphasis will be placed on
+the writing of research reports with clarity and objectivity. As this is a writing intensive course,
+you will gain experience presenting your knowledge verbally through critical writing and speech.
+This course carries several flags:
+• Writing Flag courses are designed to give students experience with writing in an academic discipline.
+     In this class, you can expect to write regularly during the semester, complete substantial writing
+     projects, and receive feedback to help you improve your writing. You will also have the opportunity to
+     improve your writing through revision, and you may be asked to read and discuss your peers’ work.
+     You should therefore expect a substantial portion of your grade to come from your written work.
+     Writing Flag classes meet the Core Communications objectives of Critical Thinking, Communication,
+     Teamwork, and Personal Responsibility, established by the Texas Higher Education Coordinating
+     Board.
+• Quantitative Reasoning Flag courses are designed to equip you with skills that are necessary for
+     understanding the types of quantitative arguments you will regularly encounter in your adult and
+     professional life. You should therefore expect a substantial portion of your grade to come from your
+     use of quantitative skills to analyze real-world problems.
+• Independent Inquiry Flag courses are designed to engage you in the process of inquiry over the
+     course of a semester, providing you with the opportunity for independent investigation of a question,
+     problem, or project related to your major. You should therefore expect a substantial portion of your
+     grade to come from the independent investigation and presentation of your own work.
+Keeping Up
+     The CANVAS website for this class will be used to help you keep track of assignments on a weekly
+     basis. Please refer to CANVAS regularly to keep track of assignments and activities both for lecture
+     and lab.
+
+
+                                           COURSE STRUCTURE
+Lecture Sessions
+     The Monday through Thursday meetings of the class will include lectures and a variety of class
+     activities. These will focus on conceptual understanding of statistics, research design, and research
+     methods, as well as explanation of analytic procedures for the various statistical tests. Tests
+     (Midterm and Final Exam) will focus on topics and skills developed in this part of the class.
+Lab Sessions
+     The Tuesday and Thursday lab meetings will focus on hands-on application of research methods,
+     procedures, and statistical tests. Labs will involve group work and it will be NECESSARY to devote
+     time outside of class or lab to group work. If you are not willing or able to commit time outside of
+     class, you should not remain enrolled in this course.
+                                                ASSESSMENT
+Grading Percentages
+     Grades are based on your performance on a variety of tasks and activities.
+    Note that the grades above are divided into two nearly equal parts: 50% from lecture-related
+    assessment (midterm and final, Aplia, quizzes), 45% from lab-related assessment (research project
+    and lab activities), and a final 5% based on your involvement in and contributions to the class. You
+    must receive a minimum of 70% of the possible points in each of the lab and lecture portions of the
+    class to receive a “C” or higher in the class. In other words, if either part is lower than 70%, a “C-“ is
+    the best grade you can receive. A high lab-related grade cannot save poor test performance, and
+    high test grades cannot make up for poor lab performance.
+    NOTE: With a “C-“, you cannot take upper division Psychology courses.
+Final Course Grades
+     Final course grades will be based on the percentage of the total possible points that you receive
+     with the following ranges:
+     Grades merely reflect your performance on the tests, papers, and other activities. I cannot evaluate
+
+
+     how hard you work, how smart or motivated you are, how important the grade is to your future goals,
+     how much you know of untested material, how well you would have done with a different testing
+     format, how good a human being you are, or myriad other factors. I don’t trivialize the importance of
+     these other factors, but they will not be calculated into your grade. I am simply not capable of fairly
+     and meaningfully incorporating them into my assessment.
+Exams (15% and 25% of grade)
+     There will be two major tests, a midterm and a final test. Both are required. The midterm will be
+     administered during the regularly scheduled class time. The final exam will take place during the
+     exam period, as scheduled by the University Registrar.
+                                   https://registrar.utexas.edu/schedules/196/finals
+     The exams will test your knowledge of statistics and research methodology. Questions will include
+     statistical computations, multiple choice items, and conceptual essays and explanations. See the
+     calendar on CANVAS for the time of the midterm and the registrar’s website (URL above) for the
+     final exam.
+     Missing an Exam: An excused absence from an exam will only be given for major documented
+     emergencies. If a makeup exam is necessary, the time and place will be determined by
+     arrangement. Makeup exams may be in a different format from the original exam.
+Math Quizzes (10% of grade)
+     The major tests are focused on using statistical information to understand research. Knowledge of
+     how you calculate statistical tests and measures is important, because these procedures reveal what
+     the statistics actually measure. After each section of the course, you will take a quiz testing your
+     ability to use the formulas (sometimes memorized, sometimes provided) to find the correct values of
+     the statistics. The times of the quizzes will be announced at least two days in advance and
+     homework problems will be provided (on CANVAS) to allow you to prepare.
+Lab Assignments (20% of grade)
+    A variety of writing assignments will be given in the lab portion of the course as you learn about
+    research methods, statistics, and APA writing style. There are no optional lab assignments.
+    Passing grades for each assignment require that you complete the assignment in a timely way.
+    However, even if you miss the due date, you cannot pass the course without completing all
+    assignments. For missed assignments, the lab instructor will work with you to determine a time and
+    date to submit the assignment to allow you to pass the class. Please Note: Late lab assignments
+    will be penalized 10% of the total immediately after the deadline and 10% of the total for each
+    additional day it is late. After four days (96 hours after the due date/time), the assignment will
+    receive an automatic zero. After Week 7 (anything due after July 21), late assignments will not
+    be accepted.)
+Major Research Project (final paper 20%, drafts 5% of grade)
+     During the much of the semester, you will work in groups on a major research project. This will
+     involve designing and conducting a study, analyzing results, and reporting the findings. You will
+     report your findings in the major APA paper due at the end of the semester. More information about
+     this project will be provided as the semester progresses.
+     The 5% of the grade will be based on your drafts of the various portions of the paper, submitted
+     across several weeks. These drafts will be graded as DRAFTS. Grades on them should be
+     understood as “work-in-progress” grades, NOT as indicators of the grade they will contribute to the
+     final version of the paper.
+Participation (5% of grade)
+     This is an assessment by the instructors (with possible feedback as well from other students) about
+     your general level of participation in the class, your active involvement in and contributions to
+     activities, your level of attendance and communication.
+
+
+Tentative Reading Plan
+                                 NOTES ON OTHER IMPORTANT ISSUES
+Lectures: A considerable amount of class time will be devoted to lectures and in-class activities.
+    Lectures will often be used to clarify material in the readings, but they will also cover other material.
+    The lectures are not intended as an alternative way to learn the information in the text. Note: Any
+    formal lecture slides will be posted on CANVAS after the lecture.
+Lecture Attendance Policy: Attendance is required for both lecture classes and labs. We will record
+    attendance. On-time attendance of less that 70% to lecture will be considered unacceptable and will
+    result in a grade penalty of at least one letter grade.
+        Class starts at 8:30 and ends at 9:45 AM. I will attempt to respect both of those time limits. Please
+    treat me with courtesy and I will reciprocate with equal courtesy. If the location of your prior class
+    makes arriving in the room prior to 8:30 difficult, you should talk with me about that issue at the
+    beginning of the semester. No one should have to leave prior to the end of class on a regular basis.
+    If you do need to leave prior to the end of class, you should inform me before class.
+Lab Attendance and Homework Policy: Lab starts at 10:00 AM and ends at 11:45 AM.
+    On-time attendance of all labs is required. Should a genuine emergency prevent you from attending
+    a lab on time or at all, three actions are required: (1) the lab instructor must be contacted ASAP--
+    preferably before lab; (2) the other members of your research team must be contacted ASAP--
+    preferably before lab; and (3) you arrange with the Lab Instructor to make up the lab activities
+        Reference (3) above: Unless it is cleared by the lab instructor, homework from labs that are
+    missed may NOT be made up. If you do not meet with the lab instructor after a missed lab (or, if the
+    lab instructor prefers, have a phone conference), then the lab instructor may not accept homework
+    for a missed lab.
+Reading Assignments: Reading assignments will be posted on CANVAS in weekly folders. For
+    assignments after the first week, the planned readings that are entered before the beginning of the
+    course can be (and probably will be) modified as the semester progresses. Verify your readings at
+    the beginning of each week to be sure you know the official readings. Any additional readings not in
+    the textbooks will be posted on CANVAS and made available for download in pdf format.
+Course Prerequisites:
+    The Psychology Department will drop all students who do not meet the following prerequisites: PSY
+    301 with a C or better; Math 302 or a higher-level mathematics course.
+Students with Disabilities Policy—University of Texas at Austin. The University of Texas at Austin
+    provides upon request appropriate academic accommodations for qualified students with disabilities.
+    For more information, contact the Office of the Dean of Students at 471-6259, TTY: 471-4641.
+
+
+Academic Integrity:
+You are expected to uphold and reflect the University Code of Conduct and the Student
+Honor Code in this course: Student Honor Code: “As a student of The University of Texas at Austin, I
+shall abide by the core values of the University and uphold academic integrity.” University Code of
+Conduct: “The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity, and responsibility. Each member of the university is expected to uphold
+these values through integrity, honesty, trust, fairness, and respect toward peers and community.”
+Cheating and plagiarism are serious offenses. They not only undermine your ability to grow intellectually
+and think for yourself but they can also lead to you being suspended or expelled from the University for
+scholastic dishonesty. Cheating includes copying another student’s answers on a test or assignment and
+using notes, books, cell phones, etc., to answer questions on a test or assignment when such materials
+are not permitted.
+Plagiarism includes (1) copying passages verbatim from another writer’s work and representing them as
+one’s own work; (2) any use of another’s work that is submitted as one’s own work without giving the
+original author sufficient credit; (3) submitting answers or papers written by another student; and (4)
+reading someone else’s answers or paper, then copying the main ideas or parts of their answers/writing
+into your own answers/writing. It is your responsibility to know what plagiarism is, and how to avoid it:
+http://www.lib.utexas.edu/services/instruction/learningmodules/plagiarism/
+Cases of cheating and plagiarism will be referred to the Honor Code Council.
+You can find out more about academic integrity at:
+http://deanofstudents.utexas.edu/sjs/scholdis.php
+Media Issues:
+In Class
+•     Please turn off and put away all cell phones and other messaging devices during class. Don’t read or
+      send messages during class.
+•     If you bring a computer to class, multitask modestly and discreetly. Excessive use of a computer for
+      purposes unrelated to the class is distracting to other students and rude to the instructor.
+•     Turn off and securely put away any and all electronic devices during testing (quizzes and exams).
+      Avoid even the appearance of impropriety.
+Communication Outside of Class
+•     When possible, please favor email messages over telephone calls when contacting Dr. Carroll. In
+      general, email messages will lead to quicker and more reliable communication.
+•     When sending emails, please assume a casually formal relationship. Identify yourself and indicating
+      that you are in this class (Psy418). Please make phone messages similarly informative.
+•     We (the instructor and TA) will try to respond to emails or telephone calls promptly, but we do not
+      monitor these media obsessively. If you do not receive a response within 24 hours, please resend
+      the message or speak with us in class.
+•     We do not necessarily check for messages over the weekend. Messages (phone or email) sent late
+      on Friday may remain unseen or unheard until Monday morning. Similarly, we do not generally
+      check for class messages outside of normal work hours. A message sent in the evening or night on
+      weekdays may not be seen or heard until some time the next day.
+•     Occasionally messages can be inadvertently overlooked or incorrectly channeled by the mailer
+      system to a “junk” mailbox. We apologize in advance if this should happen to you, and we hope you
+      will simply send a follow-up message without feeling slighted. We will attempt to be attentive and
+      responsive.
+
+
+Classroom Etiquette
+I am committed to upholding the University Code of Conduct in order to facilitate a productive learning
+environment for all students. I expect that we all treat each other and the classroom with respect. To help
+everyone get the most out of this experience, in-class distractions must be avoided. Examples of
+distractions include (but are not limited to): cell phone use, private conversations, sleeping, online
+shopping, smoking e-cigarettes, checking your email, etc. Coming to class engaged, treating your
+classmates with respect and not distracting them is your best bet for success, and will help you avoid
+losing participation points.
+Disabilities
+I am committed to providing a level playing field for all students in this course. If you need
+accommodations (or think you might) to perform your best, please talk with me at the beginning of the
+semester. The University of Texas at Austin provides upon request appropriate academic
+accommodations for qualified students with disabilities. For more information, contact the Services for
+Students with Disabilities: Call 512-471-6259, Videophone 512-410-6644, Email ssd@austin.utexas.edu,
+Website http://ddce.utexas.edu/disability/
+Emergency Procedures
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside. Familiarize yourself with all exit doors of each classroom and building you may occupy.
+Remember that the nearest exit door may not be the one you used when entering the building. Students
+requiring assistance in evacuation shall inform their instructor in writing during the first week of class. In
+the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a building
+unless given instructions by the following: Austin Fire Department, The University of Texas at Austin
+Police Department, or Fire Prevention Services office.
+Religious Holidays
+I believe it is important for everyone in the academic community to respect the beliefs and belief-based
+practices of others. Because we are a diverse community, if you wish accommodations, it is important
+that you provide me with the necessary information in a timely manner, so that I can make the necessary
+adjustments to scheduled deadlines, tests, or activities. According to UT Austin policy, you must notify me
+of your pending absence at least fourteen days prior to the date of observance of a religious holy day. If
+you must miss a class, an examination, a work assignment, or a project in order to observe a religious
+holy day, you will be given an opportunity to complete the missed work within a reasonable time after the
+absence.
+Academic Resources
+Please contact the following organizations for invaluable support in meeting your
+academic and professional goals:
+University Libraries – call 512-475-4250 (main library phone number) or visit the website at
+www.lib.utexas.edu. They can provide in-depth assistance finding research sources, avoiding
+plagiarism, and using APA format.
+Sanger Learning and Career Center – call 512-232-8400 or visit the career website at
+www.utexas.edu/ugs/csacc/career or the learning center website at
+http://www.utexas.edu/ugs/slc
+University Writing Center – PCL 2.330, call 512-471-6222 or visit the website at
+uwc.utexas.edu/ the writing center provides free, individualized writing assistance on a drop-in
+basis. Feedback from an informed audience is a normal part of a successful writing project.
+
+
+Additional Student Resources
+If you are struggling in any way, I strongly encourage you to seek out any additional resources available
+through the university that might help you to find security, cope, move in positive directions, and even
+thrive:
+University Emergency – visit the website for up to the minute updates on emergency status
+http://www.utexas.edu/emergency/
+Office of Campus Safety and Security – call 512-471-5767 or visit the website for tips and
+information http://besafe.utexas.edu
+Student Emergency Services – call 512-471-5017 or visit the website
+http://deanofstudents.utexas.edu/emergency/ SES provides students at the University of Texas
+at Austin with resources and support during times of personal or family crisis or emergency.
+Counseling and Mental Health Center – call 512-471-3515 or 512-471-2255 for 24/7
+counseling or visit the website cmhc.utexas.edu The university counseling center provides
+individual, group, telephone or crisis counseling to all University of Texas students who are
+currently enrolled in classes. The Telephone Counseling Line is available year-round, 24/7.
+Behavior Concerns Advice Line (BCAL) – call 512-232-5050 (or 911 if emergency) or visit
+https://www.utexas.edu/safety/bcal/. Get advice or share anonymous concerns about an
+individual 24/7.
+Student Disclosures of Sexual Violence
+         The University of Texas fosters a campus free of sexual violence including sexual harassment,
+domestic violence, dating violence, stalking, and/or any form of sex or gender discrimination. If you
+disclose a personal experience as a UT student, the course instructor is required to notify UT's Title IX
+Office.

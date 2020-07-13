@@ -1,0 +1,395 @@
+                                                                                    Revised January 17, 2020
+                                                                                          Subject to Revision
+SYLLABUS : SPRING 2019
+ARC 327R | ARC 386M | ARI 350R | ARI 386M
+Managing the Design Project
+Project Management for the Design Professional
+Professor: Dr. Richard W. Jennings, FAIA
+Time:         Thursday, 2:00-5:00 pm
+Room:         SUT 2.110
+Course Description
+The project is the basic defining element of architectural, engineering, interior design, and planning
+practice. It is through the process of managing and leading projects that design concepts are translated
+into reality. This course addresses the management and leadership of design projects, including
+buildings, interiors, planning, and other types of professional services projects.
+Valuable to students of architecture, architectural engineering, interior design, landscape architecture,
+civil, structural, mechanical and electrical building engineering, planning, and students in real estate and
+business who want to learn about the process of managing and delivering projects.
+This course provides a solid introduction to project management, including: project start up; scoping,
+budgeting, and scheduling; financial management and control of projects; owner and client
+relationships; establishing and negotiating professional fees; project revenue recognition, earned value
+management, and percent complete determination; overview of both traditional and newer alternate
+project delivery approaches, including traditional design-bid-build, design-build, bridging, fast-track, and
+Integrated Project Delivery (IPD); introduction to Gantt charts, critical path scheduling and other
+scheduling techniques; team building; coalescing owner-designer-contractor relationships; professional
+services delivery; project risks and mitigation; life cycle costing analysis; project close-out,
+commissioning, post-occupancy services; and other project management topics.
+The course is comprised of lectures, written assignments, readings, real-world cases, role-playing
+exercises based on real-world situations, and expert guest speakers from the design, construction and
+real estate fields. There is no textbook for the class. All of the suggested readings will be available as PDF
+files on the Canvas course website. This course complements other practice-related courses.
+Assignments
+There are Assigned readings and short written assignments. In addition, in lieu of examinations there is a
+5-page Midterm and 5-7-page Final Paper, double spaced preferred, on the student’s choice of relevant
+topics, such as the project management process, client relationship management, advantages and
+disadvantages of various design service delivery methods, team building, integrated project delivery,
+project communications, or design team leadership. There will several in-class exercises that reinforce
+concepts covered in the course.
+Evaluation
+Student evaluations will be based on class attendance, preparation and participation (20%), written
+assignments (25%), the midterm paper (25%), and the final paper (30%).
+
+
+Managing the Design Project
+Spring 2020
+Texts and Readings
+All assigned readings are posted on the course website in PDF format and intended as background to
+supplement class discussions. The readings include excerpts from The Architect’s Handbook of
+Professional Practice, 14th and 15th Editions, American Institute of Architects; (An Electronic version is
+available via library website) Integrated Project Delivery: A Guide, published by the American Institute of
+Architects and the AIA California Council, The Project Management Institute’s Body of Knowledge (BOK),
+and various other relevant articles and papers.
+Syllabus
+Session 1 January 23        Course Overview and Introduction to Project Management
+                            Course overview, discussion of topics to be covered, assignments, grading,
+                            review of syllabus, pedagogical expectations, and an introduction to the scope
+                            and unique dimensions of project management; discussion of forms of project
+                            organizations, roles and relationships; overview of the different types of
+                            projects; and the perspectives of owner, client, developer, architect, designer,
+                            contractor in project management.
+                            Suggested Readings: AIA, Thinking Like a Client; AIA, Client Perceptions Study;
+                            AIA, Plan for Success; CURT, Owner Study 2018; Whitemer, 4 Things You Must
+                            Do at the Start of Every Project.
+Session 2 January 30        Essential Skills and Attitudes of the Project Manager
+                            Essential skills and attitudes needed by the effective project manager in the
+                            design firm environment; sustaining the often-juxtaposed goals of design
+                            quality, satisfied clients, and effective project management; team building and
+                            coordination; importance of appropriate and special attitudes and techniques
+                            necessary in coordinating design professionals and design projects.
+                            Suggested Readings: The Architect’s Handbook of Professional Practice,
+                            Section 13.1, “The Effective Project Manager” (14th Ed.) and Section 10.1
+                            “Managing Architectural Projects” (15th Ed.), both posted in the course
+                            Readings folder. In addition, the 14th and 15th editions of the AIA Handbook
+                            are available electronically at the following links:
+                            https://ebookcentral-proquest-
+                            com.ezproxy.lib.utexas.edu/lib/utxa/detail.action?docID=1443899&query=the
+                            +architect%27s+handbook+of+professional+practice
+                            and
+                            https://ebookcentral-proquest-
+                            com.ezproxy.lib.utexas.edu/lib/utxa/detail.action?docID=818987&query=the+
+                            architect%27s+handbook+of+professional+practice
+Session 3 February 6        Project Delivery Approaches
+                            Introduction to various project delivery approaches including the traditional
+                            approach, alternate approaches such as Fast-Track, Bridging, CM at Risk,
+                            Hyper-Track, and Integrated Project Delivery; the merits, disadvantages and
+                            applicability of each approach will be discussed.
+                            Suggested Readings: The Architect’s Handbook of Professional Practice,
+                            Section 11.4, “Project Delivery Methods;” AIA, Primer on Project Delivery
+                            Terms; AIA, Integrated Project Delivery: A Guide, and Drive On!: A Project
+                            Manager Story. Will discuss case in class.
+Richard W. Jennings                   Managing the Design Project                   Spring 2020       Page 2
+
+
+Managing the Design Project
+Spring 2020
+                      Assignment No. 1: Recommend a Project Delivery Approach. Due February
+                      27.
+Session 4 February 13 The Project Management Process
+                      Discussion of managing a design project, both delivery of design services and
+                      the design professional’s involvement in project planning and build phases;
+                      discussion of the functions of project management including planning,
+                      organizing, staffing, facilitating, coordinating, obtaining and providing
+                      feedback; consultant selection and coordination; the project work plan; team
+                      coordination; introduction to agreement analyses; role definitions;
+                      responsibility matrices; checklists; schedules; and other project management
+                      tools.
+                      Guest: Stephi Motal, AIA, Project Manager, Black & Vernooy Architecture
+                      and Urban Design.
+                      Suggested Readings: Pressman, Chapter 4, “Project Management;” Haviland,
+                      Chap. 1, “Understanding Project Management;” and AIA, “Project
+                      Management Techniques.”
+Session 5 February 20 The Project Triad – Scope, Cost, Time
+                      Scope, cost and time are critical elements of any project; a change in one of
+                      these elements affects the other two; discussion of importance of defining
+                      and documenting project scope, quality, and client expectations; discussion of
+                      purpose and development of project budgets, cost estimates, and schedules;
+                      presentation of sample exhibits that are used in actual practice.
+                      Guest: TBA
+                      Suggested Readings: The Architect’s Handbook of Professional Practice,
+                      Section 13.5, “Construction Cost Management;” AIA, “Managing the
+                      Contingency Allowance;” and AIA, “Elements of Realistic Project Budgets.”
+                      Assignment No. 2: Prepare an Overall Project Budget, due before midnight,
+                      March 12.
+Session 6 February 27 The Economics of Design Services and Financial Control of Design Projects
+                      Introduction to the economics of architectural practice; staff utilization
+                      modeling, multiple concept, and economic billing rates; setting and
+                      negotiating compensation; agreements and their analysis; budgeting and
+                      scheduling the delivery of design services, professional staff and consultants;
+                      reporting and controls; introduction to design services reporting software
+                      such as Deltek Vision® that architects and large and small design firms employ
+                      to manage project services.
+                      Guest: Derek Villemez, Development Services Manager, DPR Construction.
+                      Suggested Readings: Dickenson, “A Better Value;” AIA 8.1, “Financial
+                      Planning;” and AIA 13.3, “Project Controls.”
+                      Assignment No. 1 Due Before Midnight
+                      Assignment No. 3: Prepare Economics of a Firm and Calculate a Fee, due
+                      before midnight, April 2.
+Richard W. Jennings            Managing the Design Project                   Spring 2020       Page 3
+
+
+Managing the Design Project
+Spring 2020
+Session 7 March 5     Understanding the Client & Trusted Advisor Concept
+                      Discussion of types of clients, their expectations, needs and perspectives;
+                      coalescing the client; discussion of client view versus design professional view
+                      of new projects; strategies and tactics for more effective client management;
+                      introduction to the “trusted advisor” concept by David Maister and how it can
+                      facilitate improved client relationships and interactions with the design
+                      professional; discussion of how design professionals can become more than
+                      consultants to their clients.
+                      Guest: Paul A. Bielamowicz, AIA, LEED AP, Principal, Page Southerland Page,
+                      Inc. (PAGE) Architecture Engineering Interiors Consulting.
+                      Suggested Readings: Maister, “The Trusted Advisor Notes;” Maister,
+                      “Professionalism in Consulting;” Maister, “A Matter of Trust;” and The
+                      Architect’s Handbook of Professional Practice, Section 6.3, “Building Client
+                      Relationships.”
+Session 8 March 12    Managing Innovative Projects
+                      Effectively managing the innovative project; discussion of the project
+                      management requirements of unique and innovative projects. Assignment:
+                      Assignment No. 2 Due Before Midnight
+                      Suggested Readings: Fischer, “Virtuoso Teams” and Thurm, “Master of the
+                      House.”
+No Class   March 19   Spring Break - No Class
+Session 9 March 26    Project Budgeting, Estimating, Control, & Life Cycle Costing
+                      Introduction to the overall project budget, cost estimating, cost reporting and
+                      control; discussion of the various techniques that can be employed to assist
+                      the client with more than construction costs; brief overview of basic real
+                      estate economics; introduction to life cycle costing including present value,
+                      future value, annuities and return on investment decision making concepts.
+                      Suggested Readings: The Architect’s Handbook of Professional Practice,
+                      Section 12.12, “Life Cycle Costing” and review Section 13.5, “Construction
+                      Cost Management.”
+                      Assignment No. 4: Prepare a Life Cycle Cost Analysis, due April 16.
+Session 10 April 2    Project Scheduling
+                      Project scheduling as it relates both to delivering design services and
+                      construction projects; introduction to Gantt Charts, Critical Path Method
+                      (CPM), and Precedent Diagramming Method (PDM) techniques of scheduling
+                      design services and construction; review of scheduling software applications.
+                      Suggested Readings: AIA, “Project Scheduling: A Way to Evaluate Workload”
+                      and review the scheduling part of The Architect’s Handbook of Professional
+                      Practice, Section 13.3, “Project Controls.”
+                      Assignment No. 3 Due Before Midnight
+Richard W. Jennings             Managing the Design Project                   Spring 2020      Page 4
+
+
+Managing the Design Project
+Spring 2020
+Session 11 April 9    Project Risks and Mitigation
+                      Introduction to various risks that design professionals incur in delivering
+                      design services in the project management context, and how those risks can
+                      be mitigated; importance of acting within the scope and dimensions of
+                      professional liability insurance in managing the design project; discussion of
+                      appropriate project documentation and communication to minimize risk.
+                      Guest: Shawn Brown, Principal, Crowell Builders.
+                      Suggested Readings: Simpson, “Risky Business” and AIA, “Quality Control –
+                      Managing the Top 5 Risks.”
+                      Midterm Paper Due Before Midnight.
+Session 12 April 16   Project Communications, Team Building, Leadership & Conflict Resolution
+                      Importance of communications in the management of design projects;
+                      strategies and tactics for effective communication; making client
+                      recommendations and client decisions; ethics involved in making
+                      recommendations and analyses; importance of and techniques for
+                      confronting project issues early and resolving conflicts amicably; project
+                      directories, meeting documentation, correspondence, and other
+                      communication techniques for effective use among project teams.
+                      Suggested Readings: AIA, “The Art of Listening,” and The Architect’s
+                      Handbook of Professional Practice, Section 6.2, “Communicating with Clients.”
+                      Assignment No. 4 Due Before Midnight.
+Session 13 April 23   Project Close Out & Post-Occupancy Services
+                      Definition and obligations of the project manager in project close out;
+                      discussion of final documentation and transmittal of information to the client;
+                      discussion of importance of following up to ensure the final details of a design
+                      project are completed; overview of post-occupancy services and their benefits
+                      to both the client and design professional.
+                      Suggested Readings: The Architect’s Handbook of Professional Practice,
+                      Section 12.6, “Project Closeouts” and Gonchar, “Looking Back and Moving
+                      Forward : Post Occupancy Evaluations;” Adler, “Finish Strong Project Close
+                      outs.”
+Session 14 April 30   Project Management and the Future
+                      Discussion of new forms and concepts of design project management, trends,
+                      and future challenges and opportunities for the design and construction
+                      professional, including the future of disruptive technologies such as wider
+                      adoption of fully integrated BIM, cloud computing, VPNs and others.
+                      Suggested Readings: Bernstein, “Repositioning Practice for the Future;”
+                      Whitemyer, “Future Evidence Based Design;” Fisher, “Architecture and the
+                      Third Industrial Revolution;” Baker, “Can Technology Solve Architects’
+                      Productivity Challenge?”
+Session 15 May 7      Final Class Session
+                      A summary presentation of the topics and concepts covered during the
+                      semester and discussion of topics of interest to the students.
+Richard W. Jennings             Managing the Design Project                   Spring 2020       Page 5
+
+
+Managing the Design Project
+Spring 2020
+Assignments:
+                      Assignment        Topic                                     Due Date
+                      Assignment 1      Recommend a Delivery Approach            February 27
+                      Assignment 2      Prepare an Overall Project Budget         March 12
+                      Assignment 3      Prepare Economics of Firm and a Fee         April 2
+                      Midterm Paper Choice of Topic                                 April 9
+                      Assignment 4      Prepare a Life Cycle Cost Analysis         April 16
+                      Final Paper       Choice of Topic                            May 14
+Guests:
+                      Date*             Guests
+                      February 13       Stephi Motal, Project Manager, Black & Vernooy
+                      February 27       Derek Villemez, Development Services, DPR Construction
+                      March 5           Paul A. Bielamowicz, Principal, PAGE
+                      April 9           Shawn Brown, Principal, Crowell Builders
+                      * All speaker dates have been confirmed.
+Professor:            Dr. Richard W. Jennings, FAIA is an Adjunct Professor of Architecture at The
+                      University of Texas at Austin School of Architecture and former faculty
+                      member of the Harvard University Graduate School of Design. He is also a
+                      Senior Consultant with a New York City investment banking firm providing
+                      advisory services to architecture and engineering firms in the areas of
+                      valuations, mergers and acquisitions and business consulting. With more than
+                      35 years of professional experience, Dr. Jennings has led large design firms
+                      and managed the design and construction of numerous large-scale
+                      commercial office buildings, hotels, planning and mixed-use projects. He was
+                      co-founder, managing principal, president and CEO of a nationally operating
+                      architectural and planning firm, and prior to co-founding that firm, he was a
+                      principal and director of the architecture and technical services division of a
+                      700-person firm global architecture, engineering and construction
+                      management firm. A Fellow of the American Institute of Architects, Dr.
+                      Jennings holds the National Council of Architectural Boards (NCARB)
+                      certificate and is registered to practice architecture in multiple states. He is a
+                      member of the College of Fellows of the American Institute of Architects
+                      (FAIA), Project Management Institute (PMI), and the American Planning
+                      Association (APA). He is a director of the Charles Moore Foundation in Austin,
+                      Texas. Dr. Jennings was a founding member and researcher of both the RMJM
+                      Integrated Practice Research Program and Zofnass Infrastructure
+Richard W. Jennings             Managing the Design Project                     Spring 2020       Page 6
+
+
+Managing the Design Project
+Spring 2020
+                           Sustainability Research Initiatives at Harvard University where he authored a
+                           number of case studies and was a contributor to the research and content of
+                           Infrastructure Sustainability and Design published by Routledge, 2013. Dr.
+                           Jennings has also taught Professional Practice at the Rice University School of
+                           Architecture. He received a Doctor of Design (DDes) degree from the Harvard
+                           University Graduate School of Design, and a Master of Design Studies (MDes)
+                           degree with Distinction from the Harvard University Graduate School of
+                           Design, where he received the Dimitris Pikionis Award for highest academic
+                           achievement. He also holds Master of Business Administration (MBA), Master
+                           of Architecture (MArch) and Bachelor of Science degrees.
+Contact & Hours:           Dr. Richard W. Jennings, FAIA
+                           The University of Texas at Austin
+                           School of Architecture
+                           Email: rjenn@msn.com or rjenn@utexas.edu
+                           Telephone: 512-496-6450
+                           Office: GOL 2.204. Hours by Appointment
+Notes:
+Grading
+Attendance & Participation        20%
+Written Assignments               25%
+Midterm Paper                     25%
+Final Paper                       30%
+Late work
+Late work will be handled on a case-by-case basis.
+Absences
+Class attendance and participation is important and is therefore part of the course grade. Excused
+absences are for religious holidays, illnesses, or extenuating circumstances due to an emergency.
+Attendance
+Regular attendance at all class meetings is expected. A student who misses class or other required
+activities, including examinations, for the observance of a religious holy day should inform the professor
+in advance of the absence so arrangements can be made to complete an assignment or cover the class
+material within a reasonable time after the absence.
+Guest Speakers
+The exact dates of guest speaker appearances are subject to change. Guest speakers take time from
+their day to speak to the class. Class attendance is important at all times but is essential when a guest
+speaker is present.
+UNIVERSITY POLICIES
+Students are expected to comply with university policies and are encouraged to become familiar with
+the resources available through the university some of which are listed below. However, students
+should visit the appropriate university website for the latest the polices and resources.
+Richard W. Jennings                  Managing the Design Project                     Spring 2020      Page 7
+
+
+Managing the Design Project
+Spring 2020
+Disabilities
+Students with disabilities may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://diversity.utexas.edu/disability
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a
+student of The University of Texas at Austin, I shall abide by the core values of the
+University and uphold academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if
+you use words or ideas that are not your own (or that you have used in previous class), you must
+cite your sources. Otherwise you will be guilty of plagiarism and subject to academic disciplinary
+action, including failure of the course. You are responsible for understanding UT’s Academic
+Honesty and the University Honor Code which can be found at the following web address:
+https://deanofstudents.arizona.edu/policies/code-academic-integrity
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+deadline, which typically occurs near the middle of the semester. Under Texas law, you are only
+allowed six Q drops while you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please let
+me know as soon as possible. Together we’ll develop strategies to meet both your needs and the
+requirements of the course. There are also a range of resources on campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical
+information that you need to share with me, or if you need specific arrangements in case the building
+needs to be evacuated, please let me know. I am committed to creating an effective learning
+environment for all students, but I can only do so if you discuss your needs with me as early as
+possible. I promise to maintain the confidentiality of these discussions. If appropriate, also contact
+Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video phone).
+http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and
+cope with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful
+resources available on campus and an important part of the college experience is learning how to ask for
+help. Asking for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety
+or depression, we strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+Richard W. Jennings                   Managing the Design Project                   Spring 2020       Page 8
+
+
+Managing the Design Project
+Spring 2020
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+Center each year to improve their academic performance? All students are welcome to take advantage
+of Sanger Center’s classes and workshops, private learning specialist appointments, peer academic
+coaching, and tutoring for more than 70 courses in 15 different subject areas. For more information,
+please visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Important Safety Information:
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL
+(the Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something
+doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety
+and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and
+assembling outside.
+  • Familiarize yourself with all exit doors of each classroom and building you may occupy.
+      Remember that the nearest exit door may not be the one you used when entering the building.
+  • Students requiring assistance in evacuation shall inform their instructor in writing during the first
+      week of class.
+  • In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-
+      enter a building unless given instructions by the following: Austin Fire Department, The University
+      of Texas at Austin Police Department, or Fire Prevention Services office.
+###
+Richard W. Jennings                   Managing the Design Project                   Spring 2020      Page 9

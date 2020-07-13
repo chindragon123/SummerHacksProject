@@ -1,0 +1,130 @@
+      Syllabus for Mw427L (Unique # 85509) - Summer, 2020
+Instructor: Alex Macedo
+Office: RLM 13.140 (but currently my house)
+Email: amacedo@math.utexas.edu
+Teaching assistant:
+Office:
+Email:
+Teaching assistant:
+Office:
+Email:
+Class time/location: MWF 1-2:30pm CT (see Canvas; a recording of it will be uploaded to Canvas)
+Discussion time/location: TTh 1-2:30pm CT via ZOOM
+Office Hours: MWF 2:30-3:30pm CT (via ZOOM)
+Webpage: all course materials will be posted on Canvas or Quest.
+Course overview and objectives: we start the course with a discussion of curves and surfaces in
+R2 and R3 . To study those objects, we introduce tools such as matrices, inner products and the cross
+product. We then proceed to develop calculus for scalar a vector-valued functions of several variables. In
+particular, we discuss their limits, derivatives and integrals. We finish the course with Stokes’s theorem,
+which relates the integral over the boundary of a curve or surface U ⊂ R3 to the integral of a suitable
+object over U .
+Text: No textbook is required but, if you want some recommendations, here a few textbooks that I like:
+   • Vector Calculus by J. Marsden and A. Tromba. This is UT’s official textbook recommendation.
+      It’s a standard textbook that contains all the topics we will cover in the class.
+   • Calculus: Early Transcendentals by J. Stewart. If you already have this textbook from your
+      calculus classes, you can also use it for this course. It’s another standard textbook. A lot of Quest
+      problems were adapted from this book.
+   • Calculus on Manifolds by M. Spivak. It contains a more in-depth discussion of the topics in the
+      course. It is also a good introduction to elements from measure theory and differential topology.
+      Don’t use it as your primary source for learning the subject. Use it as a complement if you want
+      to be become a better mathematician.
+   • Vector Calculus by P. Baxandall and H. Liebeck. This textbook is for those who want a more
+      rigorous approach to vector calculus. Don’t use it as your primary source for learning the subject.
+      Use it as a complement if you want to be become a better mathematician.
+Prerequisites: M 408D, 408L, or 408S with a grade of at least C-.
+                                                       1
+
+
+Letter grades: All grades will be recorded in Canvas. Attendance will not be taken and it will not be
+used in the computation of your grade. Partial numerical grades are not rounded. The final numerical
+average (whose computation is described in the next two sections) is rounded up and computed on a scale
+from 0 to 100, to one decimal place. Your final letter grade will be converted from your final numerical
+average using a scale not stricter than the following:
+                    A:   92.6 − 100                                       C:  72.6 − 76.5
+                  A− :   89.6 − 92.5                                   C− :   69.6 − 72.5
+                  B+ :   86.6 − 89.5                                   D+ :   66.6 − 69.5
+                    B:   82.6 − 86.5                                      D:  62.6 − 66.5
+                  B− :   79.6 − 82.5                                   D− :   59.6 − 62.5
+                  C+ :   76.6 − 79.5                                      F:  0 − 59.5
+Assignments and exams:
+   1. Homework: weekly available on Quest. Homework is always due at 11:59pm CT on Sundays
+      unless otherwise stated. Solutions to the problems will become available on Quest right after the
+      submission deadline, so no late homework will be accepted. Your homework average (HA) will be
+      the arithmetic mean of your 7 highest homework grades.
+   2. Quizzes: biweekly on Tuesdays and Thursdays during discussion. Before each discussion, you
+      will be assigned a problem. This problem will often be a variation of one of the problems from
+      the homework. Your solution must be submitted online via Canvas as a single PDF file. The
+      deadline for the submission is 11:59pm CT on the same day the problem is assigned. Solutions to
+      the quizzes will become available on Canvas right after the submission deadline, so no late quiz will
+      be accepted. Your quiz average (QA) will be the arithmetic mean of your 15 highest quiz grades.
+   3. Midterm: there will be 2 take-home midterm exams, hence two midterm grades, (M1) and (M2).
+      Each midterm will be posted on a Friday and it will be due 48 hours after it is posted, on a Sunday.
+      Solutions must be submitted online via Canvas as a single PDF file. For instance, you may scan a
+      handwritten work using an app like Adobe Scan using a smartphone. Solutions to the midterms
+      will become available on Canvas right after the submission deadline, so no late submission will be
+      accepted. Midterm 1 is due 07/05 and Midterm 2 is due 08/09.
+   4. Final: there will be a take-home final that will become available on the last day of class and will
+      be due at 11:59 PM CT on 08/16. Solutions must be submitted online via Canvas as a single PDF
+      file. For instance, you may scan a handwritten work using an app like Adobe Scan on your phone.
+      Solutions to the final will become available on Canvas right after the submission deadline, so no
+      late submission will be accepted. If you miss the final, your final exam grade (FE) will be 0. The
+      final is cumulative and it will contain three sections. Section 1 consists of problems covering the
+                                                     2
+
+
+       topics from midterm 1, section 2 consists of problems covering the topics from midterm 2, and
+       section 3 consists of problems covering the topics introduced in class after midterm 2.
+    5. Replacing a midterm grade: when submitting your final, you can choose to replace one and
+       only one midterm grade with the percentage you obtain in the corresponding section of the final,
+       should this percentage be higher than your midterm grade. For instance, suppose your M1 grade
+       is 75 and, when submitting your final, you declare that you would like to replace your M1 grade.
+       If you get 81% of the points from section 1 in the final, then your new M1 grade is 81. If however
+       you get only 70% of the points from section 1 in the final, then your M1 grade stays as 75. Your
+       scores in sections 2 and 3 from the final will not be reflected in the M1 grade.
+Grade calculation: With the notation from the previous section, the final numerical average (FNA)
+will be computed as follows:
+                            FNA = 0.15 (HA + QA) + 0.2 (M1 + M2) + 0.3(FE).
+     Academic Dishonesty: Academic dishonesty of any kind will not be tolerated, and is punished to
+the fullest extent allowed by university policy.
+     Students with Disabilities: Upon request, The University of Texas at Austin provides appropriate
+academic accommodations for qualified students with disabilities. For more information, contact the Of-
+fice of the Dean of Students at 512-471-6259, 512-471-4641 TTY. If you plan on using accommodations,
+please notify me early in the semester.
+     Mental Health Services: The Counseling and Mental Health Center may be reached at 512-471-
+3515 (appointments) and 512-471-CALL (crisis line).
+     Religious holidays: Per university policy, you must notify me of your pending absence at least
+fourteen days prior to the date of observance of a religious holiday. You will be given an opportunity to
+complete any missed work within a reasonable amount of time after the absence.
+                                                       3
+
+
+Tentative schedule: Any change will be communicated via Canvas.
+06/05: Rn is an inner product space.
+06/08: Determinants and the cross product.
+06/10: Lines and planes.
+06/12: Parametrized curves and surfaces.
+06/15: Cylindrical and spherical coordinates.
+06/17: Limits.
+06/19: Differentiability and the Jacobian matrix.
+06/22: Chain rule.
+06/24: Directional derivatives and the gradient of a scalar function.
+06/26: Tangent lines and tangent planes.
+06/29: Taylor’s theorem.
+07/01: Critical points, local extrema and the second derivative test.
+07/03: Lagrange multipliers.
+07/06: Vector fields and differential forms: gradient, divergence and curl.
+07/08: Exact vs closed differential forms and potential functions.
+07/10: Double and triple integrals (I).
+07/13: Double and triple integrals (II).
+07/15: Change of variables.
+07/17: Arclength and path integrals.
+07/27: Orientation of parametrized curves and line integrals.
+07/29: Surface area and the surface integral of a scalar function.
+07/31: Orientation of parametrized surfaces and the surface integral of a vector field.
+08/03: Boundaries and orientability for parametrized curves and surfaces; Stokes’s theorem.
+08/05: Stokes’s theorem for 1-forms in R2 : Green’s theorem.
+08/07: Stokes’s theorem for 1-forms in R3 : the Kelvin-Stokes theorem.
+08/10: Stokes’s theorem for 2-forms in R3 : Gauss’s theorem.
+08/12: Integrating vector fields with isolated discontinuities.
+08/14: Conservative and solenoidal vector fields.
+                                                     4

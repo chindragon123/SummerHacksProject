@@ -1,0 +1,176 @@
+                M408C Summer 2019 First Half
+                Differential & Integral Calculus
+Prof Info       Professor: Kathy Davis         Phone: 471-0128
+                Office Hours: MW 12:50-1:30; Extra appointments MWF mornings
+                Office: RLM 9.138		
+                Email: davis@math.utexas.edu 8am-5pm Use this NOT Canvas
+                Web Site: http://www.ma.utexas.edu/users/davis/408C
+Grading         Homework 0%            Not collected, not graded
+                Exams           50%    Two (in-TA session). See p2 for dates.
+                Quizzes         25%    Two (in-TA session).
+                Final           25%    See p2 for date.
+                Cheat Sheets           E1 and E2. One 8.5 by 11 sheet; any thing
+                			                    you want on it.
+                Make-Ups               You must tell us in advance (even same day)		
+Grades          89.6-100        A
+                88.6-89.5       A-		
+                79.6-88.5       B
+                78.6-79.5       B-
+                69.6-78.5       C
+                68.6-69.5       C-
+                59.6-68.5       D
+                Below           F
+Final Exemption All 100's
+Canvas          We will not use Canvas
+Text            Stewart, Calculus, Early Transcendentals, Eighth Edition, used
+                only for extra homework. You can buy an online book. See the
+                links on my site and in Canvas.
+Topics          Chapters 2-6, roughly. Detailed syllabus : p5 or
+                 http://www.ma.utexas.edu/academics/courses/syllabi/M408C.php
+PreReqs         Appropriate score on placement exams.
+Goals           Goals: This isn't a theorem/proof class. The goal is for you to learn
+                new techniques, to write answers in a clear coherent form, to see
+                applications and to get some understanding of why calculus works.
+SSD             The University of Texas provides appropriate academic accommodations
+                for qualified students with disabilities. For more information,contact the
+                Office of the Dean of Students at 471-6259, 471-6441 TTY. If you plan on
+                using accomodations, YOU NEED TO SEE ME EARLY in the semester,
+                and RESERVE A ROOM EARLY, or you'll lose your chance.
+
+
+Exam Dates
+E1 Thursday June 27
+E2 Tuesday July 16
+Final Exam Date
+Sat August 18, 7pm
+Other Important Dates
+Friday June 7 		        Classes Start
+July 3-4		              Holiday
+July 12			              Holiday (finals for other classes)
+August 16		             Last Class Day
+TA Info
+All your exam and quizzes are in your TA session. If you switch times, I won't grade your exams.
+Talk to us if you must switch, even for just one day.
+TA:       				                          Phone:
+Email:
+TA Session Meets Here:
+86305 TTh 10-11:30 am        CPE 2.206
+86310 TTh 10-11:30 am        RLM 5.104
+TA Office Hours:
+Getting A Regrade
+You can ask for a regrade to correct things that you feel we missed, or graded unfairly.
+We will never lower your grade.
+The Rules: Ignore the rules, I won't regrade your stuff
+0) To get a regrade, you must take the exam/quiz in ink.
+1) You can't get a regrade if you don't pick up your stuff
+2) Compare your work with the online solutions.
+3) Mark what you want me to look at, and give the exam/quiz to me in class. NOT MY OFFICE
+4) Ask for the regrade within three MWF days after we give it back in TA session.
+5) I'll bring the regraded paper to class with me, usually the next class day.
+Ichiban Very Important Rule: Don't throw stuff away. I give second regrades before the final.
+
+
+Computing your grade
+AV = 25*(Quiz Average) + .5*(Exam Average) .25*Final
+Your average determines your grade: no special deals, no retakes, no curves. The rules on this
+syllabus are legally binding.
+Study Advice
+a) You will need to be in class, taking notes.
+b) Watch out for your algebra; it's easy to lose points.
+c) You need to show work. Anyone can get answers from Google; I want to see what you learned.
+Here's a general plan for studying:
+a) Start with working problems. If you get stuck, check your notes to see whether I did a
+similar problem. If not, discuss it with your study pals. You can also take a picture of your
+work and email me.
+b) If something seems wrong on the 14U problems, email me. Don't waste hours of your
+own time.
+c) Go to TA session to work practice quiz/exam problems.
+Where to find study material:
+a) The problems in Stewart are too simple, so we have extra practice. For studying, you can start
+with Stewart but that isn't enough and your exam problems will be harder.
+b) Every week I post 14U problems with solutions. Because the course moves so quickly, you need
+to do these problems every night, after the lecture, or at the very least, every weekend. Solutions are
+posted, too!
+c) The homework has problems to practice you for the quizzes and exams. They don't have solutions;
+these are meant to be done in your TA session.
+ d) Finally, GO THROUGH YOUR NOTES to see if there's anything you've missed.
+This is not a course in which you drill dozens of problems and then get you problems just like
+the drill. You need to do more than problems: you need to think about the kinds of problems you've
+seen and you need to organizePERCENT
+                                  that inQ1a
+                                          your mind. The YAPS are designed to help.
+                                                                              Histogram of scores on q1,
+ 45
+ 40
+                                                                              Spring 2019.
+ 35
+                                                                              About 90% of students had
+ 30
+                                                                              caculus before.
+ 25
+                                                                              50% did not come to class.
+                                                                              Many of those who were
+ 20
+ 15                                                                           in class spent the time on
+ 10
+                                                                              their phones.
+  5
+  0
+     to 0  to 9 to 19 to 29 to 39  to 49 to 59 to 69 to 79 to 89 to 99 eq 100
+
+
+ 6/6/18    Th          No Class
+ 6/7/18     F      Section 2.2, 2.3
+6/10/18    M       Section 2.3, 2.4
+6/11/18     T
+6/12/18    W       Section 2.5, 2.6
+6/13/18    Th            Q1
+6/14/18     F    Section 2.6, 2.7, 28
+6/17/18    M       Section 3.1, 3.2
+6/18/18     T
+6/19/18    W       Section 3.2, 3.3
+6/20/18    Th
+6/21/18     F        Section 3.4
+6/24/18    M         Section 3.5
+6/25/18     T
+6/26/18    W         Section 3.6
+6/27/18    Th             E1
+6/28/18     F        Section 3.8
+ 7/1/18    M         Section 3.9
+ 7/2/18     T
+ 7/3/18    W          HOLIDAY
+ 7/4/18    Th         HOLIDAY
+ 7/5/18     F       Section 3.10
+ 7/8/18    M      Section 3.11. 4.1
+ 7/9/18     T            Q2
+7/10/18    W       Section 4.2, 4.3
+7/11/18    Th
+7/12/18     F         HOLIDAY
+7/15/18    M       Switch Teachers
+7/16/18     T             E2
+7/17/18    W         Section 4.4
+7/18/18    Th
+7/19/18     F        Section 4.4
+7/22/18    M         Section 4.5
+7/23/18     T
+7/24/18    W       Section 4.7, 4.9
+7/25/18    Th            Q3
+7/26/18     F      Section 5.1, 5.2
+7/29/18    M         Section 5.3
+7/30/18     T
+7/31/18    W         Section 5.4
+ 8/1/18    Th             E3
+ 8/2/18     F        Section 5.5
+ 8/5/18    M         Section 5.4
+ 8/6/18     T
+ 8/7/18    W         Section 5.5
+ 8/8/18    Th            Q4
+ 8/9/18     F        Section 6.1
+8/12/18    M         Section 6.2
+8/13/18     T
+8/14/18    W         Section 6.2
+8/15/18    Th
+8/16/18     F      Section 8.1, 8.2
+8/17/18 Saturday     Final Exam
+
+

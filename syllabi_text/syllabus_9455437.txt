@@ -1,0 +1,116 @@
+ARC 328F/381F/LAR392F/ARI392F: VISUAL COMMUNICATIONS
+Digital Drawing and Fabrication
+University of Texas at Austin School of Architecture
+Spring 2019
+Danelle Briscoe                                     briscoed@utexas.edu, 512.810.3133
+Associate Professor                                 Office hours: GOL 4.134, Monday (9‐11am or by appt.)
+Savannah Simenhoff                                  ssimenhoff02@gmail.com
+Teaching Assistant
+Feathered Pavilion
+Arman Hadilou, Digital Drawing and Fabrication 2012
+DESCRIPTION
+This course will focus on advanced visual communication methodologies necessary for architectural
+generation, translation, and output. Students will gain comprehension of 2D and 3D digital design drawing,
+modeling, and fabrication skills using various pictorial systems such as orthographic, para‐line, diagram, and
+projection views. Generation will be a sequential development that moves through scales of representation
+via digital modeling, visual programming and CAD/CAM procedures. Attention will also be given to color
+theory and overall compositional values.
+The class will progress through lectures, video tutorials, presentations, and pinup discussions. Topics and
+assignments will be introduced and developed within class time as a compressive framework through which
+to explore visual design workflows and output scenarios. The coursework will be treated as an instrument
+of individual investigation and experimentation. Interim submissions and a final portfolio submission will
+be the ultimate consideration for grading.
+WORK
+Class will be held on Friday from 9‐11am and Tuesday from 5‐6pm in WMB 5.114 (5th floor computer lab)
+unless otherwise noted. Assignments will be due at the beginning of class or as assigned.
+                                                                                        DIGITAL DRAWING & FABRICATION __ sp2019
+
+
+STUDENT LEARNING OBJECTIVES
+The learning objectives will be evaluated through the graphic systems and procedures as listed above:
+• General introduction to the theoretical underpinnings of current digital technology.
+• Historical reference for the factors contributing to the use of technology for visual communication in
+architecture
+• Role of CAD/CAM technology in the present architecture profession.
+• Preliminary introduction and translation of complex 3D geometric modeling to modeling techniques.
+• General introduction to the techniques of 2D and 3D CAM fabrication.
+• Hands‐on introduction to the use of the laser cutter, CNC, Kuka Robot and 3D printer.
+SCHEDULE
+Week                Topic                                               Assn                                %
+wk 1‐3              Diagram                                             Figure Ground                       15
+wk 4‐7              Orthographic                                        Shade/Shadow+Poche’                 20
+wk 8‐ 12            Form                                                Generation & Assembly               30
+wk 9                s p r i n g b r e a k
+wk 13‐16            Projection                                          insideOUT                           25
+wk 17               Portfolio                                           final submission                    10
+REFERENCES
+(A web site on Canvas provides all required assignments, reference materials and copies of the weekly lectures.)
+http://issuu.com/ani.arzumanyan/docs/the_new structuralism design engineering_and_arc.
+Cook, Peter. Drawing: the Emotive Force of Architecture, “The Drawing Redefined,” London: John Wiley &
+Sons Ltd., 2008, pp. 195‐202.
+Tufte, Edward. Envisioning Information. “Color and Information”. New York: Graphics Press, May 1990,
+pp. 81‐94.
+Borden, Gail. Process: Material and Representation in Architecture. New York: Routledge Press, 2012.
+Rowan, Jonah. “In Praise of Orthographic Projection” Fresh Punches: Experimental Architecture Exhibition
+Catalogue, eds. Nathan Hume, Abigail Coover Hume, Paul Ruppert, CreateSpace Independent Publishing
+Platform, 2013
+https://thinkparametric.com/library
+http://drawingarchitecture.tumblr.com
+http://vi.sualize.us/tag/architecture drawing/
+https://dwgmodels.com/
+http://lynda.com
+HARDWARE/SOFTWARE
+It is required that you have a laptop able to run Autodesk Revit Architecture, Rhino and Adobe Suite
+platform. *You may download and install Autodesk products from: http://students.autodesk.com/
+Required Software:
+       Adobe Suite:                         Autodesk:*                              Other:
+             • Photoshop CS3                      • AutoCAD                         • Rhino
+             • Illustrator CS3                    • Revit 2019                      • Grasshopper
+             • InDesign CS3                       • Dynamo                          • Enscape plugin
+             • Acrobat CS3
+
+
+EVALUATION
+Establishing grades for projects of a creative nature is a more complex matter than grading in other
+academic areas. While each project contains certain quantifiable elements by which it may be evaluated,
+a significant portion of each grade is derived from a broader, more subjective set of issues.
+Each assignment will be weighted based on its duration and complexity. Your work will be evaluated on
+its rigor and evolution over the semester. Although grades will be distributed at the completion of
+interim assignments (90%) and final (10%) portfolio submissions. The instructor and teaching assistant are
+available for any questions or concerns throughout the semester.
+GRADE DESCRIPTIONS
+A/A‐ : excellent
+The work submitted surpasses expectations in terms of inventiveness, appropriateness, verbal and visual ability, craft, and personal
+development. Student pursues ideas and techniques above and beyond what is discussed in class.
+B+/B/B‐ : above average
+The work submitted is thorough, diligently pursued, and successfully executed. Student pursues ideas and techniques presented in
+class and puts in effort to resolve assignment. The work demonstrates potential for excellence and is complete.
+C+/C/C‐ : average
+The work submitted meets the minimum requirements. Suggestions made in class are not pursued with dedication and/or the work
+submitted is incomplete. (Note: C‐ does not meet the minimum grade to be counted toward the student’s degree.)
+D+/D/D‐ : below average
+The work submitted does not address basic skills including graphic skills, verbal clarity or presentation is not level appropriate.
+Student does not demonstrate the required conceptual and technical rigor expected and/or the work submitted is incomplete.
+F: failure
+Minimum objectives are not met. Performance is not acceptable.
+X: excused incomplete
+Given for reasons of illness or family emergency. An incomplete is assigned after consultation with the Associate Deans’ offices.
+Coursework must be completed prior to the beginning of the following semester.
+ATTENDANCE
+Attendance is mandatory. Participation is expected. Students with three (3) unexcused absences may be
+dropped from the course without further notice. The minimum penalty for more than three unexcused
+absences is a full letter drop in your grade for the course. Please contact the instructor prior to class
+(briscoed@mail.utexas.edu) if you will be late or miss class.
+Religious holy days sometimes conflict with class and examination schedules. If you miss an examination,
+work assignment, or other project due to the observance of a religious holy day you will be given an
+opportunity to complete the work missed within a reasonable time after the absence. Please notify each
+of your instructors as far in advance as possible prior to the classes scheduled on dates you will be absent
+to observe a religious holy day.
+STUDENTS WITH DISABILITIES
+Students with disabilities who require special accommodations need to get a letter that documents the
+disability from the Services for Students with Disabilities area of the Office of the Dean of Students (471‐
+6259 voice or 471‐4641 TTY for users who are deaf or hard of hearing). This letter should be presented to
+the instructor in each course at the beginning of the semester and accommodations needed should be
+discussed at that time. Five business days before an exam the student should remind the instructor of any
+testing accommodations that will be needed.
+                                                                                 DIGITAL DRAWING & FABRICATION __ sp2019

@@ -1,0 +1,370 @@
+                                                          Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+                     Measuring Racial Inequality:
+ indexes to calculate social disparities and segregation
+                                        (AFR 350, # 30605)
+                                        (LAS 322, # 39205)
+                                             Spring 2020
+                     Palmer Heyden (USA, 1890 - 1973), Midsummer in Harlem, 1938.
+                          UT Art & Collection History Visual Resources Collection.
+Flagged as:
+    ✓ Cultural diversity
+    ✓ Global cultures
+    ✓ Quantitative Reasoning
+Dr. Marcelo Paixão – African and African Diaspora Studies Department (AADS) / Teresa
+                         Lozano Long Institute of Latin American Studies (LLILAS)
+                                                                                                                       1
+
+
+                                                     Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+Measuring Racial Inequality: indexes to calculate social disparities and segregation (Spring
+2020)
+A. Course Instructor and TA:
+    ✓ Instructor: Dr. Marcelo Paixão
+         .
+B. Objectives of the course
+“Measuring Racial Inequality” is an undergraduate course that aims at introducing the
+students to the main methods of calculation and theoretical interpretation of indicators,
+indexes, and scales for the study of socioracial inequality, discrimination and segregation. It
+includes the understanding of the importance of an index and indicator, the statistical
+development of these indexes, their theoretical properties, and how these approaches
+dialogue with social theory and problems of currents societies all over the world.
+We understand an index as a number designed to capture some aspect of the social reality (for
+instance, income distribution, segregation, diversity, etc.) on a specific scale, usually ranging
+from zero to one (sometimes for practical reasons, from zero to one hundred). These scales
+mirror levels of intensity of some social phenomena: from lesser (closer to zero) to higher
+(closer to one). Indexes are generated from one or more demographic indicators (prices,
+incomes, schooling, etc.) but express this dimension through easier visualization and
+interpretation.
+In its statistical and mathematic dimensions, our course will focus on how to construct,
+calculate, and understand these indexes applied to measure social and racial inequality, as
+expressed by Gini, Theil, and Atkinson Indexes, as well the Oaxaca-Blinder method of
+decomposition to calculate the height of the marginal effect of discrimination on the
+inequality. We will also use the indexes to study problems of dissimilarity and segregation in
+the urban space and to measure ethnic-racial distance, including an introduction to the
+multivariate analysis. Summing up, the students will learn how to calculate these Indexes and
+how to interpret these different methods and apply them in their social, political, and cultural
+dimensions.
+We expect the students will develop the following skills:
+    i)      Interpreting indexes and indicators properties to measure social/racial inequality,
+            social distance and attitudinal or behavioral patterns – including by the calculation
+            and theoretical interpretation of those indicators;
+    ii)     Representing indexes of social and racial disparities through graphs, tables, charts,
+            and diagrams (like, for example, meanings and function of the Lorenz Curve);
+    iii)    Formulating explanations using appropriate language to express, analyze and
+            criticize index on social or racial inequality;
+    iv)     Learning how to use index and scale of social inequality and distance, as well as of
+            patterns of ethnic-racial interactions in order to communicate, both in oral and
+            written forms, aspects of the social reality, normative judgments, and alternative
+            proposals to improve the social fabric.
+                                                                                                                  2
+
+
+                                                             Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+The course focuses on U.S. statistics, because of the availability of dozens of sources of
+demographic data by gender, race, and ethnicity. But we will include statistical references of
+selected Latin American countries like, for example, Brazil, Colombia, Ecuador, and Mexico.
+It allows us to make comparative studies of different national realities. That is why the course
+is flagged as “Quantitative Reasoning,” “Cultural Diversity,” and “Global Cultures.”
+On January 27, 2014, CBS News broadcasted a debate on social inequality in the USA. On the website, we read:
+“There are two common ways of measuring the degree of inequality. One is to build graphs showing how the share
+of the nation's income has changed over time for income groups. The second is to calculate what is known as the
+Gini coefficient”. On June 19, 2015, Aaron Blake, a CBS journalist, wrote: “only a few other major metropolitan
+areas that rank ahead of D.C. on the dissimilarity index -- Detroit, New Orleans, Memphis, and Atlanta - are as
+heavily African American.”
+These examples show how often words like Index, Gini, Theil, Atkinson, Dissimilarity Index, among others, are
+contained in newspapers, websites, and in the public debate in order to assess levels of social inequality, injustice,
+and segregation. These Indexes are also tools both for policymakers and for the empowerment of communities and
+social activists.
+Do you know what these concepts mean? How are they calculated? Do you know their limits and potentiality to
+debate problems of social and racial disparities and injustices? We hope to be able to give you the essential tools
+to answer these questions during our course.
+The course is divided into three units. In the first one, we will study some scales for the
+measurement of social inequality with special focus on Lorenz Curve, Gini Index, and
+Atkinson Index.
+The second part will cover the decomposition method the entropy measure (Theil Index – T
+and L) and an introduction to Oaxaca-Blinder. The unit will focus on decomposition methods
+to the analysis of ethnic-race and gender inequality and discrimination.
+The third unit is centered on questions of calculation, interpretation of Indexes for the study
+of social distance, and segregation: Dissimilarity, Isolation, and Interaction Indexes. This part
+will also incorporate an introduction to the Multivariate analysis using the General Social
+Survey (GSS).
+C. What are the classroom and university rules?
+Classroom conduct. The Professor is committed to creating a class environment framed on
+student participation, creativity, critical thinking, respect, and mutual understanding. The
+Professor will also attempt to guarantee a respectful and cheerful space of work and
+discussion. As such, it is expected that the students - and the Instructor as well - attend the
+classes with a high spirit of tolerance, understanding and openness to hear divergent opinions
+in the debate. Based on these principles, the Instructor encourages all the students to
+participate in the classroom, exposing their ideas and doubts honestly, asking questions, and
+expressing their opinions regarding each subject under discussion. Participation and
+questioning will be very positively evaluated.
+                                                                                                                          3
+
+
+                                                     Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+The Professor will not accept any kind of derogatory or inappropriate behavior directed to
+classmates. Moreover, all forms of discrimination based on gender, sexual orientation, ethnic,
+color, race, nationality, or any other kind of intolerance and mistreatment are strictly
+forbidden. The Instructor also asks the students to avoid napping or dozing off during the
+classes.
+Use of computer devices. By default, all devices must be placed offline. It is not allowed to use
+electronic devices to surf the web or for any other purpose not strictly related to class learning
+and assignments. It is strictly forbidden the use in the classroom of cell phones, apps, or
+electronic devices that can produce noises, divert attention or disturb in any way the lecture.
+In the case of unauthorized use of any device, the students will be invited to leave the
+classroom, and their attendance will be considered as an unexcused absence.
+Policy on scholastic dishonesty. Students who violate University rules on academic dishonesty
+are subject to disciplinary penalties, including the possibility of failure in the course and/or
+dismissal from the University. Since such fraud harms the individual, all students, and the
+integrity of the University, policies on academic dishonesty will be strictly enforced. For
+further information, please visit the Office of Student Conduct and Academic Integrity
+website at http://deanofstudents.utexas.edu/conduct/.
+Students with disabilities. The University of Texas at Austin provides upon request appropriate
+academic adjustments for qualified students with disabilities. For more information, contact
+the Services for Students with Disabilities website: http://diversity.utexas.edu/disability/
+and/or http://diversity.utexas.edu/disability/how-to- register-with- ssd/
+Religious holy days. Students who miss a class or examination, due to this reason will be given
+an opportunity to complete the missed assignment within a reasonable time after the absence,
+if they have adequately notified each instructor. The students must inform the Instructor at
+least fourteen days prior to the class when they will be absent to observe their religious duties.
+Unauthorized attendance. Except previously and expressed allowed by the Instructor, no one
+else but the Instructor, the TA, and the enrolled students in the course “Measuring Racial
+Inequality” is authorized to stay in the classroom during the classes. In case of any
+unauthorized presence, this person will be invited to leave, and if they do not do so,
+immediately the class will be suspended.
+                                                                                                                  4
+
+
+                                                         Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+                                      Delays and Attendance Rules
+     At the beginning of each class the Instructor will open a sign-in sheet to be signed by each
+     student. This list will be available for the next 10 minutes. If a student needs to leave class
+     early, the Instructor must be informed at the beginning of class. If not, student attendance
+     will be nullified.
+     Attendance is mandatory and the absence must be justified. We consider an excusable
+     absence the impossibility to attend the class for legal or health problems followed by medical
+     or legal documentation signed by a lawyer of a physician within one week from the absence.
+     The maximum number of unexcused absences is nine (9) classes. After this, the student will
+     have a penalty of 1.5 point per absence in the final grade (see the grading method in section
+     D). Student will automatically be failed if they have more than sixteen (16) unexcused
+     absences.
+     The exams, in-class assignements, and wekly assignment are mandatories. Deadlines and
+     exam dates are no-negotiable. All quizzes and assignments must be written in Times New
+     Roman 12 and the calculation in an electronic spreadsheet (Excel, Notepad, etc.). Late
+     assignments will result in a 5 points deduction per day of delay in the grade.
+D. Grade Method
+D.1. Assigment Weights
+ ✓       1st Exam (25% of the total)
+ ✓       2nd Exam (25% of the total)
+ ✓       3rd Exam (25% of the total)
+ ✓       In-Class Assignment (10% of the total, an average of ten best grades)
+ ✓       Weekly Assignment (15% of the total)
+D.2. Numeric and Correspondent Letter Grading:
+Approving:
+A = 94-100 / A- = 90-93 / B+ = 87-89 / B = 84-86 / B- = 80-83 / C+ = 77-79 / C = 74-76 / C-
+        = 70-73 /
+Failing:
+D+ = 67-69 / D = 64-66 / D- = 60-63 / F = 00-60
+                                                                                                                      5
+
+
+                                                    Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+We will also use this numeric grade to score each assignment: In-Class Assignment,
+Weekly Assignment, and Exams.
+E. Class Method, Assignments and Exams
+Every class will last 1:15 minutes.
+On Mondays, the class will focus on the statistical dimensions of each concept that will be
+introduced. It includes explaining how the index is calculated and general statistical
+properties. The Instructor will teach using Excel and IBM Statistical Package for Social Science
+(SPSS) in class.
+On Wednesdays, we will deepen our analysis of the concepts introduced on Monday, and we
+will present possible interpretations of the sociological, cultural, or political meaning of the
+indexes. The students will be making an in-class assignment (about 25 minutes) that will need
+to be uploaded to Canvas at the end of the class. The students are free to choose if they want
+to work alone or with one (1) partner.
+Every Wednesday afternoon, the Professor will upload a quiz on Canvas to be answered and
+uploaded by the students to Canvas by Friday at 11:59 p.m. The first assignment will be
+released on January 29 and needs to be uploaded to Canvas by January 31.
+On the first day of the semester, the students will answer a (non-graded) quiz. They will
+answer about their academic background, acquaintance with statistics, and general interest in
+attending the course.
+The students will make three in-class exams, each of one covering one part of the course Units.
+All the exams will have two to three questions that may be subdivided in subsections. One
+question will be based on a statistical calculation of some index, and the other will be based
+on the interpretation of statistical data on social/race inequality or social distance. The first
+exam will be held on February 19, the second on April 1, and the last on May 6.
+Although the Instructor is expecting that every student already has some previous basic
+understanding of elementary knowledge of mathematics and statistics, we also know that
+“Measuring Racial Inequality…” is an introductory course. As such, we also expect that even
+students with a basic level of can attend the classes and make the assignments.
+Students are encouraged to make direct contact with the Instructor. You can use the e-mail
+Intranet on Canvas or e-mail him (marcelopaixao@utexas.edu). Please, allow 48 hours (2
+business days) for a response to e-mail inquiries. We also recommend you to be in touch with
+the TA to solve your questions and doubts, get further information about the course, and
+provide you academic support during the semester.
+                                                                                                                 6
+
+
+                                                             Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+                                 Paulo Freire, QR and the Fight for Freedom
+Paulo Freire is not only one of the most relevant
+Latin American educators of the last hundred years
+but also one of the most influential educators in the
+contemporary era worldwide. He achieved
+popularity following the publication of two of his
+books in which he systematizes the lessons learned                                                       Paulo Freire
+                                                                                                      (Brazil, 1921-1997)
+during his work in Brazil and Chile in the 1960s:
+Educação como prática da Liberdade (Education
+as freedom practice, 1967), and Pedagogia do
+oprimido (Pedagogy of the Oppressed, 1970).
+His critical pedagogy focuses on the most significant problems in the lives of the students, using their vocabulary
+and examples elicited from the community to which they belong. This method allows the Instructor to challenge
+the students to overcome an uncritical vision of the world and inspire reflexive thinking.
+We cannot mechanically transpose Freire´s proposal into a classroom at UT. However, despite the differences
+between a poor rural village and a U.S. prestigious university, we can envision a nexus between these distinct
+universes. The chronic difficulties encountered by students from historically underserved communities with
+Quantitative Reasoning courses can be interpreted – paraphrasing Freire – as a form of illiteracy or functional
+illiteracy on numbers. Also, the Brazilian educator stressed that the difficulties of the poor communities’ literacy
+process were a consequence of the limitations of the traditional teaching methods, and he encouraged alternative
+and critical pedagogies.
+Similarly, scholars have already proved that the causes of the challenges faced by historically underserved
+communities are not due only to the humble familiar backgrounds but are mainly driven by discriminatory
+practices and prejudices in the educational system since the first days of school.
+F. Course schedule
+Unit 1. Indexes Applied to the Study of Social Inequality: Gini and Atkinson
+Week 1 – January 22: Professor, TA, course Syllabus, and student’s introduction.
+Week 2 – January 27 and 29: Why is social inequality a big problem of humanity today? / Scales
+for the Measurement of Social Inequality: frequencies, proportion and disproportions,
+quintiles and deciles, ratios.
+Reading
+      ✓ Cowell, Frank A. 2013/1977. Measuring Inequality. Oxford: Oxford University Press.
+          Chapter 2 (Charting Inequality), p. 17-38;
+      ✓ Stiglitz, Joseph. Globalism´s Discontents. The American Prospect; Winter 2002;
+          ProQuest, p. A16-A21;
+      ✓ Alvaredo, Facundo et alii. World Inequality Report, Executive Summary, p. 7-21;
+      ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+          disparities and segregation, Week 2.
+                                                                                                                          7
+
+
+                                                Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+   ✓ . Class Presentation Week 2
+Week 3 – February 3 and 5: Lorenz Curve and Gini Index Calculation / Gini Index, properties,
+and applications.
+Reading
+   ✓ Bellù, Lorenzo Giovanni: Charting income inequality: the Lorenz Curve. Agricultural
+       Policy Support Service, Policy Assistance Division, FAO, Rome, Italy, 17 p.;
+   ✓ Lorenz, Max. O. 1905. Methods of concentration of wealth. American Statistical
+       Association Vol 9, no 70, Jun. pp. 209-219;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+       disparities and segregation, Week 3.
+Week 4 – February 10 and 12: Gini Index, properties, and applications.
+Reading
+   ✓ Coulter, Philip B. 1989. Measuring inequality: a methodological Handbook. Boulder /
+       London: Westview Pres Inc. Part of Chapter 2 (Inequality Theory), pp. 50-58;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+       disparities and segregation, Week 4;
+   ✓ Watch the video The Gini Coefficient
+       https://www.youtube.com/watch?v=Yu8ehXSNobI
+Reading
+Week 5 – February 17 and 19. Social Welfare Function - Atkinson Index and the aversion to the
+inequality, definition, interpretation, and calculation / Atkinson Index, properties,
+applications, and quantifying moral judgments about social inequality.
+Reading
+   ✓ Coulter, Philip B. 1989. Measuring inequality: a methodological Handbook. Boulder /
+       London: Westview Pres Inc. Part of Chapter 6 (Indexes based on the social welfare
+       model), pp. 115-128;
+   ✓ Haughton, Jonathan and Shahidur R. Khander. 2009. Handbook on poverty and
+       inequality. Washington D.C.: The World Bank. Chapter 6 (Inequality measures) pp.
+       107-108;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+       disparities and segregation, Week 5.
+Week 6 – February 24 and 26: Revision for the first exam / First Exam.
+(No In-Class and Weekly Assignments)
+
+
+                                                   Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+     February 26: First Exam
+Unit 2. Measures of Entropy, Calculating Discrimination
+Week 7 – March 2 and 4: Measure of entropy, Theil T Index / Theil L Index properties, and
+applications.
+Reading
+   ✓ Coulter, Philip B. 1989. Measuring inequality: a methodological Handbook. Boulder /
+        London: Westview Pres Inc. Part of Chapter 3 (Indexes based on the deviations model),
+        pp. 101-113;
+   ✓ Haughton, Jonathan and Shahidur R. Khander. 2009. Handbook on poverty and
+        inequality. Washington D.C.: The World Bank. Chapter 6 (Inequality measures) pp.
+        106-107;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+        disparities and segregation, Week 7.
+Week 8 – March 9 and 11: Theil T and L Index Decomposition / Comparing Theil T and L
+Indexes.
+Reading
+   ✓ Hero, R.; Levy, M. – The racial structure of the economic inequality in the United
+        States: Understanding continuity and change in the era of “great divergence”. Social
+        Science Quarterly, vol. 97, n. 3, Sep., 2016, pp. 491-505
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+        disparities and segregation, Week 8.
+Week 9 - Spring Break (March 16 and 18 no class)
+Week 10 – March 23 and 25: Introduction to Correlation and Regression for the Calculation of
+Social and Racial Inequality.
+Reading
+   ✓ Guerrero, Anna-Leon and Chava Frankfort-Nachmias. 2015. Washington D.C.: Sage,
+        Selected part of Chapter 11 (Correlation and Regression), pp. 281-318.;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+        disparities and segregation, Week 10.
+Reading
+Week 11 – March 30 and April 1st: Oaxaca-Blinder model, definition, calculation, interpretation,
+and application.
+
+
+                                                   Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+Reading
+   ✓ Blank, R; Dabady, M; Citro, F. 2004. Measuring racial discrimination. National Research
+        Council (this PDF is available from the at: http://www.nap.edu/catalog/10887.html),
+        2004. Chapter 4 (Theories of discrimination) pp. 55-70 and 7 (Statistical Analysis of
+        Observational Data), p. 118-137;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+        disparities and segregation, Week 11.
+Week 12 - April 6 and 8: Revision for the second exam / Second Exam.
+(No In-Class and Weekly Assignments)
+     April 8: Second Exam
+Unit 3. Measurement and Indexes of Social Distance
+Week 13 – April 13 and 15: Definition of Social Distance and Segregation, Exploring the
+General Social Survey (GSS).
+Reading
+   ✓ Wark, Colin and John F. Galliher. 2007. Emory Bogardus and the Origins of the Social
+        Distance Scale. The American Sociologist, Vol. 38, No 4 (Dec.), pp. 383-395;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+        disparities and segregation, Week 13;
+   ✓ Third text to be defined
+Week 14 – April 20 and 22: Concept of Segregation, Dissimilarity or Duncan Index / Using Gini
+Index to Calculate Social Distance.
+Reading
+   ✓ Duncan, O; Duncan, B. - A methodological analysis of segregation indexes. American
+        Sociological Review, Vol. 20, n. 2 (Apr., 1955), pp. 210-217
+   ✓ Telles, E. – Race in another America: the significance of skin-color in Brazil. Princeton:
+        Princeton University Press, 2004. Chapter 8 (Residential segregation, pp. 194-215);
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+        disparities and segregation, Week 14.
+   ✓
+Week 15 – April 27 and 29April: Interaction Index / Isolation Index
+Reading
+
+
+                                                  Measuring Racial Inequality, Spring 2020, Dr. Marcelo Paixão
+   ✓ Massey, D.; Nancy, D. - The Dimensions of Residential Segregation. Social Forces, Vol.
+       67, No. 2 (Dec., 1988), pp. 281-315
+   ✓ Robinson, Vaughan. 1980. Lieberson's Isolation Index: a case study evaluation. Area,
+       Vol. 12, no 4, pp. 307-312
+   ✓ Weinberg, Iceland, Steinmetz. 2002. Measurement of segregation by US Bureau of the
+       Census in racial and ethnic residential segregation in the United States: 1980-2000. Appendix
+       8 (Measures of residential segregation), pp. 119-123;
+   ✓ Paixão, Marcelo. 2018. Measuring Racial Inequality: indexes to calculate social
+       disparities and segregation, Week 15.
+   ✓
+Reading
+Week 16 – May 4 and 6: May 4 - Revision for the Third Exam
+     May 6: Third Exam
+(No In-Class and Weekly Assignments)

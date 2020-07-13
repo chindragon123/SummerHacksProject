@@ -1,0 +1,361 @@
+                                       ARC 327R/386M Energy Modeling & the Design Process
+                                                                University of Texas at Austin
+                                                                    School of Architecture
+                                                                                    Fall 2018
+Syllabus
+Lecture:        M 7:00-10:00 pm Sut 2.110
+Unique #:       00759 , 00989
+Course Website: http://energymodeldesignprocess.wordpress.com/
+Contact:
+Instructor:     Dason Whitsett
+Office:         t.b.d.
+Office hours:   Monday 5:00-6:00
+Email:          dwhitsett@utexas.edu
+Description:
+This course explores how energy simulation can support the design of comfortable
+low-carbon, high-performance buildings. Students will learn to set comfort and
+energy use goals and use simulation to parametrically evaluate the impacts of
+various design strategies on the targeted performance. EnergyPlus and
+OpenStudio are the primary software tools used, but students will leave the course
+with a solid foundation in the broad principles that apply to any simulation tool. In
+addition, the course looks at how simulation tools have been used historically and
+what possibilities exist for the future. Readings are diverse, spanning from technical
+topics to phenomenology.
+For the major project of the semester, students design a remodel of an existing
+building to Passive House standards in a multi-stage parametric analysis process.
+Hybrid strategies- those which leverage passive means and user engagement in
+combination with active systems- will be the focus of these investigations. Energy
+performance of the final design will be compared to benchmarks and the
+Architecture 2030 targets.
+On the final project, students reverse this process- conceiving of a thermal
+experience and apply knowledge of building performance principles to the
+design of a building to create that experience with minimal energy expenditure.
+Learning Objectives:
+1. Develop familiarity with principles and tools of parametric energy simulation.
+2. Critically evaluate the role and reliability of simulation in the design process.
+3. Begin to use quantitative simulation data to evaluate qualitative design goals
+                                              1
+
+
+                                      ARC 327R/386M Energy Modeling & the Design Process
+                                                                      University of Texas at Austin
+                                                                          School of Architecture
+                                                                                          Fall 2018
+Prerequisites:
+Previous energy simulation experience is not necessary, but basic knowledge of
+building energy performance is. Prerequisites would be satisfied by any of the
+following: Environmental Controls II, Solar Geometry and Energy Flow in Buildings,
+or consent of the instructor. Engineering students generally have appropriate
+background experience.
+Format:
+This will be a seminar-style class with a considerable portion of time devoted to class
+discussion and presentation by students. Because of the nature of the course, there
+is a significant opportunity for learning from the findings of other students. A high
+degree of class participation will be expected of students.
+Texts & Tools:
+Required Books
+Heschong, Lisa. 1979. Thermal Delight in Architecture. Cambridge, Mass: MIT Press.
+Pallasmaa, Juhani. 2012. The Eyes of the Skin: Architecture and the Senses.
+         Chichester: Wiley-Academy.
+Additional readings will be posted on Box and assigned from the software
+documentation materials. Readings will be assigned on the course website, so
+check in there regularly for updates.
+Required Software
+All of the following software is available for free download at the links provided.
+You should download and install the software in the order it is listed below. All in
+Mac or PC version according to preference except as noted otherwise.
+Install in this Order
+1. SketchUp 2017. Either Sketchup Make or Sketchup Pro will work.
+http://www.sketchup.com/download/all
+2. OpenStudio v2.60- Create a username and password to log in.
+https://www.openstudio.net
+Recommended Software
+Text Editor for PC: Notepad ++ https://notepad-plus-plus.org/
+with the EnergyPlus syntax highlighting tool available at:
+http://energyplus.helpserve.com/Knowledgebase/List/Index/44/utilities
+Text Editor for Mac: Text Wrangler
+https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12
+                                             2
+
+
+                                     ARC 327R/386M Energy Modeling & the Design Process
+                                                               University of Texas at Austin
+                                                                   School of Architecture
+                                                                                   Fall 2018
+Box desktop application- UT cloud storage solution.
+Optional Software
+Euclid 0.9.3-
+http://bigladdersoftware.com/projects/euclid/
+EnergyPlus 8.7- Create a username and password to log in.
+https://energyplus.net/downloads
+If newer versions of software are released during the course of the semester, do
+not upgrade unless we agree as a class to do so. Be careful not to follow the
+prompts that the programs will give you. Once you have multiple versions, it
+becomes more complicated to ensure you are using the correct one, and you
+generally can’t save back to earlier versions.
+Computer System Requirements
+You may need access to a Windows PC for portions of this course- the computers in
+the computer lab will work for this need if you are a Mac user, but it is more
+convenient to have your own. All of the software we will be using is available for
+Mac, and I will be running OpenStudio mainly on my Mac. Howerver, the Mac OS
+version of EnergyPlus lacks a tool that we may use in the latter part of the semester.
+Using a Mac in Bootcamp mode or with an emulator such as Parallels generally
+works well. Some students have found emulators to be finicky, so I recommend
+Bootcamp. Parallels and Windows are available to students at reduced cost from
+the Campus Computer Store. Support for operating system issues is available from
+the IT desk in the FAC.
+Web Resources:
+The course website at http://energymodeldesignprocess.wordpress.com/ will be an
+important interface point. It will detail assignments, provide important links, tips,
+reminders, etc. Students should click on the “follow” at the bottom of the left bar to
+be sure to receive important updates. This is how the instructor will notify the class of
+new information.
+The course will also make extensive use of Box as a repository for files for download
+and for students to upload assignments to. The instructor will create a shared folder
+for distributing materials to the class and a shared folder with each individual student
+for handing in assignments digitally. You need to have your box account associated
+with your EID for this to work properly.
+Assignments:
+Introductory Exercises
+                                             3
+
+
+                                      ARC 327R/386M Energy Modeling & the Design Process
+                                                                 University of Texas at Austin
+                                                                     School of Architecture
+                                                                                     Fall 2018
+Students will complete several introductory simulation assignments to get familiar
+with the fundamentals of simulation software.
+Case Study
+Groups of students will be asked to develop a case study critically evaluating the
+use of simulation in a built project. Each group will present their findings to the class.
+Simulation Project 1: Parametric Building Performance Optimization
+Students will select an existing building to perform a series of simulation analyses
+upon. Each student will simulate the baseline energy performance of the structure,
+parametrically consider various energy conserving measures (ECMs), to compare
+the simulated energy performance of the structure to measured data where
+available and to achieve a level of performance meeting the Passive House
+standard.
+Simulation Project 2: Simulation as a Design Tool
+Having developed basic skills at applying simulation, students will establish a set of
+thermal, energy, light and other performance criteria for a space or built element
+and use simulation in combination with their knowledge of passive design principles
+to propose a design that fulfills those criteria as closely as possible.
+Final Paper
+This short paper will be the student’s opportunity to demonstrate the ability to
+translate from quantitative data to the qualitative experience. Each student will
+write a narrative in the style of Italo Calvino’s Invisible Cities describing what it is like
+to experience the space designed in Project 2. An appendix will provide
+quantitative backup for description in the narrative.
+Writing and Communication Skills
+Developing the ability to effectively communicate your ideas is essential to
+success in any field today. As our world becomes more mobile and digitally
+connected, more and more information is transmitted via graphics and the written
+word. The quality of your communication will affect your grades.
+If you need help with writing, please avail yourself of the services available at the
+UT Learning Center in Jester Center. For more information on their services see:
+http://registrar.utexas.edu/catalogs/gi09-10/ch05/
+Presentations:
+Students will present their work to the class on several occasions during the semester.
+Presentations serve two main functions in the course. First, there is significant
+opportunity for learning from the findings and experience of other students. Second,
+it is essential to develop the skill to communicate what you have found to others.
+The best analysis in the world is useless if you cannot convey the findings effectively
+to others involved in the project. Collaboration is the future of (sustainable) design,
+which means that effective communication skills are more essential than ever.
+                                              4
+
+
+                                     ARC 327R/386M Energy Modeling & the Design Process
+                                                             University of Texas at Austin
+                                                                  School of Architecture
+                                                                                 Fall 2018
+Attendance:
+Attendance is mandatory and will bear upon the class participation grade. The
+course will be fast-paced and catching up once behind will be difficult. Please
+notify the instructor in advance of necessary absences or if you are sick. Students
+with three or more unexcused absences will be dropped from the course without
+notice.
+A student who is absent from a class for the observance of a religious holy day
+may complete the work issued within a reasonable time after the absence if
+proper notice has been given. The deadline for notification of such an absence is
+fourteen days prior to the class absence or the first class day for religious holy days
+that fall within the first two weeks of the semester.
+Late Work:
+All work is due on the day assigned. Grades will be reduced one half-letter grade
+for each day an assignment is late. Get your work done on time! It makes
+everyone’s life much better and you will learn more. Catching up is difficult once
+behind.
+Grading Scale:
+A       Exceptional work
+A-      Work goes well beyond minimum of assignment in effort and insight
+B+      Work demonstrates particularly solid reasoning and good effort
+B       Good work
+B-      Assignment completed with minor problems
+C       Assignment completed, but with problems
+D       Assignment incomplete and/or has significant problems
+F       Unacceptable work
+No incompletes will be given without full documentation of extenuating
+circumstances as covered by University policy.
+Grade Weighting:
+Class participation            15
+Introductory Exercises         10
+Case Study                     15
+Project 1                      25
+Project 2                      25
+Final Paper                    10
+Total                         100%
+                                             5
+
+
+    Course Outline- Energy Modeling & the Design Process- Fall 2017
+                        Abbre                                                             Assignmen         Gen Reading
+    Week                      Class                                           M eet In:                                     OS Tra ining                                           Training Link
+                            v                                                             t Due             Due
+    1      9/3    1.1             Labor Day- No Class
+    2     9/10    1.1      g.01 Class Introduction
+                                                                                          Software                          Follow link: Installatiion Instructions and Workflow
+                  1.2      a.01 Software Introduction, [Ex A Skills]                                                                                                               http://nrel.github.io/OpenStudio-user-documentation/getting_started/getting_started/#installation-instructions
+                                                                                          Installed                         Overview.
+    3     9/17    2.1      g.02 Simulation Software Background                            Exercise A        Wk 2 readings
+                                                                                                                            Follow link: Introductory Tutorial: "Selecting
+                                  OS Intro- Concepts: Space, Story,                       Case Study
+                  2.2      a.02                                                                                             Template", "Skp Plugin- Buiding Envelope", "Skp        "
+                                  Zone                                                    topic selected
+                                                                                                                            Plugin- Space Types and Thermal Zones"
+                                Scripts, Building Form & Envelope, [Ex
+                  2.3      a.03                                                                                             Follow link: Remaining videos on page.                 "
+                                B1 Skills]
+                                                                                                                            On Box: _OpenStudio Interface Quickstart.pdf
+    4     9/24    3.1                                                                                       Wk 3 readings
+                                                                                                                            through "SketchUp — User Scripts".
+                                                                                                                            On Box: _OpenStudio Interface Quickstart.pdf
+                  3.2      a.04 Measures, HVAC Intro, [Ex B2 Skills]                      Exercise B1                       through "BCL Account Page
+                                                                                                                            bcl.nrel.gov".
+                                                                                                                            On Box: _PAT-Quick_Start_Guide.pdf through
+                  3.3      a.05 Parametric Analysis, [Ex B3 Skills]                       Exercise B2                                                                              Constructions — Materials
+                                                                                                                            "View Locally Run Results"
+    5     10/1    4.1     th.01      Framing Experience & Sustainability                                    Wk 4 readings
+                                  Buiding Geometry, Definitions, [Ex C                                                      Follow link and Practice Sketchup if you are not
+                  4.2      a.06                                                           Exercise C                                                                               http://nrel.github.io/OpenStudio-user-documentation/reference/sketchup_plugin_interface/
+                                  Skills]                                                                                   already familiar with the interface.
+                  4.3     p.01 Case Study Presentations                                   Case Study
+    6     10/8    5.1     th.02       Performative Design- Perspectives                                     Wk 5 readings
+6                                                                                                                           Follow link: "Envelope" and "Constructions" sections
+                  5.2      g.04 t.b.d.                                                    Exercise B3                                                                              http://nrel.github.io/OpenStudio-user-documentation/tutorials/creating_your_model/
+                                                                                                                            on left menu.
+                               Energy Benchmarking, PH, Envelope,                                                           On Box: _OpenStudio Interface Quickstart.pdf
+                  5.3     b.01
+                                                                                                                                                                                                                                                                                                    ARC 327R/386M Energy Modeling & the Design Process
+                               Geometry Creation                                                                            through "Constructions- Materials".
+                                                                                                                            On Box: _OpenStudio Interface Quickstart.pdf
+    7    10/15    6.1     w.01 Project 1 Meetings                                         P1 Proposal       Wk 6 readings
+                                                                                                                            through "Thermal Zones".
+                               Envelope- Fenestration, Shading,
+                  6.2     b.02                                                                                              Follow Link: all                                       http://nrel.github.io/OpenStudio-user-documentation/tutorials/tutorial_shadingcontrols/
+                               Window Shades
+                                                                                                                            Follow Link: :"OpenStudio Application", "Site",
+                                                                                                                            "Downloading Components…", "Using Facility Tab",
+                  6.3     w.02 Working Session- Project 1. 9:30-noon                                                                                                               http://nrel.github.io/OpenStudio-user-documentation/tutorials/creating_your_model/
+                                                                                                                            "Spaces", and "Thermal Zones" sections on left
+                                                                                                                            menu.
+         10/22    7.1
+                                                                                                                                                                                                                                                                                                                           University of Texas at Austin
+    8                      g.05                        Guest Presentation                                   Wk 7 readings
+                                                                                          P1a Code
+                  7.2     w.03 Working Session- Project 1. 9:30-noon
+                                                                                          Baseline
+                                                                                          P1b Envelope                      Follow Link: : "Schedules" and "Internal Loads"
+                  7.3     b.03 Schedules and Loads                                                                                                                                 "
+                                                                                          Modifications                     sections on left menu.
+    9    10/29    8.1     th.03          Performative Design- Possibilities                                 Wk 8 readings
+                                                                                          P1b Envelope                      On Box: _OpenStudio Interface Quickstart.pdf
+                  8.2     b.04 Lighting and Daylighting
+                                                                                          Modifications                     through "Constructions- Materials".
+                                                                                          P1c Schedules
+                  8.3                                                                                                                                                              http://nrel.github.io/OpenStudio-user-documentation/tutorials/creating_your_model/
+                                                                                                                                                                                                                                                                                                                                School of Architecture
+                          b.05 Daylighting                                                & Internal                        Follow Link: all
+                                                                                          Loads
+    10    11/5   10.1     w.04 Working Session- Project 1. time t.b.d.                                      Wk 9 readings
+                 10.2     b.06 Ventilation/Infiltration                                   P1d Daylighting
+                                                                                                                            On Box: _OpenStudio Interface Quickstart.pdf
+                 10.3     b.07 HVAC                                                                                         through "HVAC — Edit Variable Refrigerant Flow
+                                                                                                                            (VRF)".
+    11   11/12   11.1     w.05 Working Session- Project 1. time t.b.d.                    P1e Ventilation Wk 10 readings
+                                                                                                                                                                                                                                                                                                                                               Fall 2018
+
+
+                 11.2   b.08 HVAC
+                 11.3   c.01 Generators & Renewables                     P1f HVAC
+    12   11/19   12.1   th.04            Performative Design- The Eye                  Wk 11 readings
+                 12.2   p.02 Project 1 Presentations
+                 12.3   p.03 Project 1 Presentations                     P1 Report
+    13   11/26   13.1   th.05          Performative Design- The Body                   Wk 12 readings
+                 13.2   c.02 Advanced Topics- Algorithms and PCM
+                 13.3   c.03 Advanced Topics
+                                   Performative Design- Reality Check
+    14    12/3   15.1   th.06                                                          Wk 13 readings   Site/Source Energy, Reports
+                                                (Waltz & POE reports)
+                 15.2   w.07 Working Session- Project 2. time t.b.d.                                    Energy Generation, Water
+                                Uncertainty, Role of Simulation, Right
+                 15.3   th.07                                                                           Guest Lecture- TBA
+                                Tools
+    15   12/10   16.1   p.04 Project 2 Presentations                     Project 2
+                 16.2   p.05 Project 2 Presentations
+                 16.3    g.07 Wrap-up                                    Final Paper
+7
+                                                                                                                                      ARC 327R/386M Energy Modeling & the Design Process
+                                                                                                                                                             University of Texas at Austin
+                                                                                                                                                                  School of Architecture
+                                                                                                                                                                                 Fall 2018
+
+
+                                               ARC 327R/386M Energy Modeling & the Design Process
+                                                                                 University of Texas at Austin
+                                                                                        School of Architecture
+                                                                                                        Fall 2018
+The University Honor Code:
+The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity and responsibility. Each member of the University is
+expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.
+Academic Dishonesty
+Academic dishonesty or scholastic dishonesty includes, but is not limited to, cheating,
+plagiarism, collusion, falsifying academic records, misrepresenting facts, and any act
+designed to give unfair academic advantage to the student (such as, but not limited to,
+submission of essentially the same written assignment for two classes without the prior
+permission of the instructor), or the attempt to commit such an act.
+Plagiarism includes, but is not limited to, the appropriation of, buying, receiving as a gift, or
+obtaining by any means material that is attributable in whole or in part to another source,
+including words, ideas, illustrations, structure, computer code, and other expression or
+media, and presenting that material as one’s own academic work being offered for credit.
+For more information on the University’s policies on academic dishonesty, please see:
+http://registrar.utexas.edu/catalogs/gi09-10/app/gi09.appc03.html
+Students in Need of Special Accommodations:
+At the beginning of the semester, students with disabilities who need special
+accommodations should notify the instructor by presenting a letter prepared by the
+Services for Students with Disabilities Office. To ensure that the most appropriate
+accommodations can be provided, students should contact the SSD Office at 471-6259 or
+471-4641 TTY.
+Counseling and Mental Health Services
+Taking care of your general well-being is an important step in being a successful student. If stress, test
+anxiety, racing thoughts, feeling unmotivated or anything else is getting in your way, there are options
+available for support.
+For immediate support:
+-     Visit/Call the Counseling and Mental Health Center (CMHC): M-F 8-5p | SSB, 5th floor | 512-471-
+3515 |cmhc.utexas.edu
+-     CMHC Crisis Line: 24/7 | 512.471.2255 | cmhc.utexas.edu/24hourcounseling.html
+CARE Counselor in the School of Architexture is: Abby Simpson, LCSW
+          -     M-F 8-5p | BMC 3.390 | 512-471-7642 (Please *leave a message* if she is unavailable)
+Other Services at CMHC:
+-     Brief assessments and referral services
+-     Mental health & wellness articles - cmhc.utexas.edu/commonconcerns.html
+-     MindBody Lab - cmhc.utexas.edu/mindbodylab.html
+-     Classes, workshops, & groups - cmhc.utexas.edu/groups.html
+-     Tips on self-care - cmhc.utexas.edu/selfcare.html
+Other Helpful Offices at UT
+-       Student Emergency Services (SES) - deanofstudents.utexas.edu/emergency
+-       Services for Students with Disabilities (SSD) – diversity.utexas.edu/disability
+-       Office of the Student Ombuds - ombuds.utexas.edu/student
+                                                          8

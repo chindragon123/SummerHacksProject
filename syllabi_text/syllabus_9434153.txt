@@ -1,0 +1,146 @@
+ARC 327R 2 / 386M 3
+Digital Photography : Architectural Potential
+Spring 2019
+David Heymann
+Tuesday, 2:00-5:00
+Course Description
+The subject matter of this seminar is the potential of digital photography to describe architecture in ways that take distinct
+advantage of digital imagery’s particular attribute: the ridiculously easy mutability of images by the means of production. While it
+is true that all photographic images are by default manipulated (initially by lensing, framing, editing, etc.), and that, already since
+the earliest years of photography, images have been intentionally falsified, nonetheless, one essential truism of pre-digital
+photography has been a base-line trust in the fealty of the image (partly because of the extraordinary technical skill required to
+seamlessly combine negative based images). One hallmark of the end of the Modern era was a criticism of this particular quality
+of photographs, and, arguably, the trust we have in photographic images has evolved from blindness to something more
+nuanced, a change only accelerated by the arrival of digital photography and the various processes by which such images are
+endlessly alterable. That said, the status of photographs with regard to truth may have changed, but photographs are no less
+interesting for that change — they just have a different potential.
+In this seminar, we are interested in how the particular and complex mediated fact of digital photographs allows for new means to
+describe architecture. You will be working on this problem directly, by taking and manipulating photographs (for this course you
+will need a digital camera, and the Adobe Creative Suite software package). During the first quarter of the semester you will be
+undertaking exercises based on short lectures intended to introduce you to a series of essential issues and techniques central to
+photography, architectural photography, and digital photography. During the second quarter of the semester you will undertake
+the documentation of a single building as a means to explore the limits of digital photographs to describe architectural space in
+ways associated with traditional architectural photography. From this work you are to develop an open-ended thesis about the
+potential of digital images to describe architecture that you will use to develop a self-guided investigation through the remainder
+of the semester.
+This is NOT a course about the history of photography (though that will be touched on), the history of architectural photography
+(though that too will be touched on), or the techniques used in architectural photography (ditto). This is NOT a course about
+making the airless perfect isolated object image you see in architecture magazines. This is also NOT a training course in the
+techniques used to make digital photographs. This IS a theory class that takes the form of a design-based seminar. The course
+asks: how can architecture now best be explained through the medium of the digital photograph, as a consequence of the
+potential of the medium, and the current status of photographic images?
+Your grade will be based on the ambition, insight and drive you bring to the specific photographic project you will undertake
+documenting architecture in ways that only digital imagery allows, and the quality of images you produce. Central to the
+
+
+discussion in this course is the complex question of the distinction between a great photograph (which has an evolving cultural
+component), and a great architectural photograph (which not play the same role culturally as a photograph). You will be expected
+to take a thesis-based stance on this question, and make that stance evident in the photographs you make.
+The class meets once a week. Most classes will consist of two parts. Most weeks, at the start of class, you will be presenting
+photographs (sometimes printed out, sometimes on the monitor – we will decide which format works best as we proceed) as your
+form of argument about the topic or exercise introduced in the prior class lecture and/or the readings for class. We will be
+discussing/criticizing these photographs as they pertain to the issues at hand. Though you will be making your argument visually,
+first and foremost, through the evidence of photographs, you will have to expand your arguments verbally. But, in this class, the
+SANAA rule applies: you cannot say anything UNLESS you bring photographs.
+Readings
+I will post most of the readings on Blackboard. In addition, there are several books you will need to buy for this course (get them
+at Amazon, where they will be cheapest):
+1. John Szarkowski: Looking at Photographs (Museum of Modern Art). I have already written you over the break about reading
+this essential text. As I wrote in that email, this book is a great introduction to theory in the form of the practice of seeing and
+thinking, to the evaluation of the products of culture in general, to a broad brush history of Western photography in particular,
+and, specifically, to the simultaneous valuation of individual photographs as singularly important while at the same time being
+symptomatic of larger trends (the ability to express this contradictory facet of art objects was Szarkowski’s exceptional gift as a
+thinker and writer). Plus Szarkowski was one of the great crafters of words. As I wrote, I have found this book a bottomless
+source of inspiration. You should be able to get this book second hand.
+2. Jesus Vassallo: Seamless: Digital Collage and Dirty Realism in Contemporary Architecture. This book gets right at the issue.
+How does digital photography change architecture? In these terrific essays, the author documents case studies in which this
+question is actively at work in direct collaborations between photographers and architects. Also, writing about photography is a
+famous black hole that Vassallo manages to side step, somehow.
+You do not need to buy, but should consider purchasing:
+Susan Sontag: On Photography. All after-Modern theories of photography more or less begin with the arguments first put forward
+clearly in this small book. These can be summarized in several ways, but the easiest is to say that, in the modern world,
+photographs validate rather than document, and so they are neither neutral nor innocent, despite their seeming that way.
+Sontag’s ideas owe much to Walter Benjamin, but we are not going to go that far back.
+Erroll Morris: Seeing is Believing: Observations on the Mysteries of Photographs. One whole branch of the discussions about
+photographs as cultural objects in the After-Modern has to do with authenticity. Morris is — as you know if you have seen The
+Thin Blue Line —obsessed with the actual truth, so, given Sontag’s dictum, that means he is necessarily obsessed with the
+difference between the problematic truth of an image, and the actual truth. These are great essays. I have copied one for you,
+but they are all good, if a little obsessive.
+There are technical books that might aid you if you want to get into the complexities of image processing:
+Ben Long: Complete Digital Photography (7th edition). We are not really going to go too deeply into the techniques involved in
+digital photography, but this is pretty much the standard textbook. I find it larded with a lot of tricks about composition, which rely
+on a general rather than conditional definition of beauty. These are of use only in so far as you have to be careful not to rely on
+them in this course: for you to know why, re-read Szarkowski’s essay on the Lee Freidlander photograph…
+
+
+Adrian Schulz: Architectural Photography. This seems to be a very popular book, and it is clear and readable. Again, it covers a
+lot of basics, and lists a lot of tricks, but with more clarity than the Ben Long book. It does not go as deeply into image
+management and processing as the Long book, but we are using this basic outline for this course.
+Work
+The final product of this seminar will be an individual visual study that has three subjects: 1. an underlying aesthetic
+question that you are asking about digital photography’s potential as a distinct medium; 2. The representation of
+architecture, through the study of which aspects of the aesthetic question become apparent; 3. a format for
+presenting this study that is itself related to 1 and 2. With regard to the assignment, I want to make a couple of
+suggestions. Though 1 and 2 seem the drivers here, please do not underestimate 3. Remember: this is a course in
+the theory of representation. In the simplest sense, theories of representation run smack into theories of aesthetics,
+and aesthetics is the contested bridge between what you think is beautiful and what is culturally considered beautiful
+(which may not be the same thing). It is of course a truism of the After-Modern era that all means of communication
+are laden with content!
+Your production in this class will first be controlled by the camera you have to work with. Please start now thinking of
+what the limits of that might afford. By way of example, here is UTSOA student Bud Frank’s stitched pan of Bernini’s
+circular colonnade at St. Peters. Because the camera is rotating about the center point as it pans, it flattens that
+building into a perfectly rectangular elevation, while everything else warps. Actually, it is no less warped, but as a
+phenomenon of optics, it has warped into normalcy. This is about as useful an image as I have ever come across to
+explain what the camera sees versus what your eye, in collaboration with your brain, thinks it sees.
+Bud’s photo could, of course, have been made with an older format film camera (in fact, such panning cameras were
+quite popular). Beyond the potential, in this class, that a camera offers, you must deal specifically with the potential
+
+
+digital images provide. I cannot stress enough about how you might think of the digital image in a dynamic way: its
+warp-ability, transmutability, its potential for collaboration, etc., all open doors into NOT thinking of it as a little window
+that records faithfully a moment in space/time. There are multiple ways it can be stitched, and multiple axis’ across
+which it can be set or stitched. Its warp-ability means that it can be configured into a measured document, set against
+other images, or other forms of representation. I would think of it as a drawing tool, like an adjustable triangle; or as a
+fact set in space. I would begin to think of it as dispassionately as I could, almost clinically. Here is a goofy example
+of something that can readily be done digitally that would almost be impossible in analog:
+You are going to be pushing hardest on this boundary, and in so doing challenge conventions of format. Specifically,
+I want you to see where the potential of digital representation leads with regard to how architecture can be explained.
+On the next page is a better example of what I mean: Paul Hester’s superimposition of an old and new photograph.
+Again, this COULD be done with analog, but it is closer, and it necessarily engages us in an interesting theory
+question: the degree to which we no longer believe in the verity — the truth — of the photograph, and the potential of
+
+
+that strange evolution. These two issues — the distinct potential of the digital photograph, and its possibility as a
+heightened non-reality — really are the SUBJECT of this course. Your task will be to find how to apply these
+potentials to the representation of architecture.
+E V A L U A T I O N :
+Your grade for this course will be assigned on the basis of:
+- Initial Exercises                                                   10%
+- Single building documentation                                       25%
+- Thesis photograph portfolio                                         40%
+- Participation in discussion                                         25%
+
+
+Class participation is key to your grade: you must take part – that means: talk. Attendance is mandatory. One class session is
+the equivalent of two normal classes, so two absences will constitute a letter grade drop, and with three absences you will be
+stricken from the roll.
+Religious holy days sometimes conflict with class schedules. You must notify each of your instructors as far in advance as
+possible prior to the classes scheduled on dates you will be absent to observe a religious holy day.
+The UT Honor Code applies to all work undertaken in this course. Here it is:
+“The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity and responsibility. Each member of the university is expected to uphold these values through integrity,
+honesty, trust, fairness and respect toward peers and community.”
+You must also review the University website about plagiarism: it is useful about what is expected in terms of identification of
+sources: http://deanofstudents.utexas.edu/sjs/acadint_plagiarism.php
+From that website, please review the link about Academic Integrity, and the consequences of Academic Dishonesty.
+S T U D E N T S           W I T H      D I S A B I L I T I E S :
+Students with disabilities who require special accommodations need to get a letter that documents the disability from the
+Services for Students with Disabilities area of the Office of the Dean of Students (471-6259 voice or 471-4641 TTY for users who
+are deaf or hard of hearing). This letter should be presented to the instructor in each course at the beginning of the semester and
+accommodations needed should be discussed at that time. Five business days before an exam the student should remind the
+instructor of any testing accommodations that will be needed.
+S E C U R I T Y ,          S A F E T Y :
+Because this class meets late, please be mindful not to admit any uninvited visitors and keep all exterior doors locked after
+hours.
+C O N T A C T :
+David Heymann: heymann@utexas.edu

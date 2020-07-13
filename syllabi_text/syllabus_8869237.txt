@@ -1,0 +1,371 @@
+Michael Baker (T/R)          michael.baker@austin.utexas.edu   Office: DFA 4.112 Wednesday 10a-12p   Fall 2018
+David (D.S.) Cohen (M/W)        ds.cohen@austin.utexas.edu
+AET 318 FOUNDATIONS OF GAMES & PLAYABLE APPS
+Course Sections
+ Instructor              TA                    UID                  Meeting Times          Room
+ Baker                   Jessica Chambers      20894                T/R 12:30 - 2p         DFA 4.106
+ Cohen                   Alex Iveroth          20890                M/W 2 - 3:30P          DFA 4.112
+Abstract
+        From the catalog: Introduction to concepts of game play, game narrative, user-interaction,
+        modeling, and animation. Historical examination of game genres, systems, and games from a
+        cultural and gender perspective.
+Objective
+        Learn the fundamentals of design for the screen based interactive medium of video games.
+Assessment
+        This course is project based. There will be no exams. Grading is based on successful completion
+        of project objectives. Assignments are worth 60%, the final project is worth 30%, and the
+        remaining 10% of the final grade is based on professionalism which is earned by attending class
+        during the scheduled meeting times and conducting oneself in a professional manner.
+        No late work will be accepted. No incompletes will be given. If you feel you will not be able to
+        complete all work on time, you should ask the instructor for a grade of Q or drop before the
+        deadline for doing so passes.
+        Note: If you catch the flu, get a flat tire, or otherwise cannot attend class, please send an
+        email and attach any class work as needed.
+        Final grades will be determined on the basis of the following rubric. Please note: to ensure
+        fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B-
+        will be inclusive of all scores of 80.000 through 83.999. The University does not recognize the
+        grade of A+.
+        Letter grade equivalents:
+          A = 94-100                         C+ = 77-79                         D+ = 67-69
+          A- = 90-93                         C = 74-76                          D = 64-66
+          B+ = 87-89                         C- = 70-73                         D- = 60-63
+          B = 84-86                                                             F = 0-60
+          B- = 80-83
+                                                                                                             1
+
+
+        File Format:
+        Presentations, docs, spreadsheets, flowcharts, concept art, etc. File Format: PDF;
+        Game Builds – File Format: Executable file (.exe)
+        File Naming Convention: ​If submitting as an individual…
+        Firstname_Lastname_AssignmentName_Numeric DateSubmitted
+        Example: cohend_conceptpitch_07042018
+        If submitting as a team…​TeamName_AssignmentName_DateSubmitted
+        Example: cohend_conceptpitch_07042018
+        IMPORTANT: Do not use slashes (/) in the date, as the system will not accept it and it may not
+        read correctly.
+Classroom Policy
+        Devices
+              ● Must be kept in silent mode unless an emergency notification is expected (please discuss
+                   this with me prior to class).
+              ● Can be used for research and class note taking, but not for social media (unless related to
+                   class activities)
+        Food/Drink
+              ●    Food is not allowed in class.
+              ●    Drinks in closed containers are permitted but must be kept on the floor or out of sight
+                   when not in use.
+Required Equipment
+        All students MUST have access to a portable computer capable of running the Unity game
+        engine. Either Mac or PC is fine.
+Calendar
+Note – This is outline, assignments, and reading are subject to change by the instructor, without
+notification in certain cases.
+ 1          Course Intro                                                            Project 1: Exploration &
+ 8/29       HW​: ​I Have No Words and I Must Design                                 Documentation
+ 2          9/3
+ 9/3        Labor Day - No Class
+            9/4 No Class
+            Design kits, ​Possibility Space​. Intro to ​Explorational Game Design​.
+            HW​: Create 3 challenges using your design kit and create one page play
+            instructions with diagrams.
+ 3          Playtesting
+ 9/10       HW:​ Document the design
+                                                                                                             2
+
+
+      in class: design three additional challenges based on another students’
+      design.
+      HW: ​Finalize challenges and documentation (DD and instructions),
+4     Postmortem discussion                                                   Project 1: Exploration
+9/17  Due next class​: Write and submit postmortem
+                                                                              ------------------------------------
+      Design Reboot - Explorational Game Design
+      HW​: A Theory of Fun for Game Design Chapters 1 - 4.
+      Learn Unity basics. ​https://goo.gl/vwmnm6                              Project 2: Exploration
+5     Lecture/Discussion - ​Mechanics​, ​Dynamics​. Intro to Project 2        Project 2: Exploration
+9/24  HW:​ Begin Project 2
+      LAB
+      HW:​ Continue developing Project 2
+6     Playtesting
+10/1
+      PROJECT 2 DUE
+      HW: ​Art of Game Design Chapter 7
+7     Lecture/Discussion -. Intro to Project 3                                Project 3: Exploration
+10/8  HW:
+      Begin Project 3
+      LAB
+      HW:​ Continue developing Project 3
+8     Playtesting
+10/15
+      PROJECT 3 DUE
+      HW: Art of Game Design Ch 8, Design of Everyday Things Ch 4
+9     Lecture/Discussion - Intro to Project 4                                 Project 4: Exploration
+10/22
+      LAB
+      HW:​ Continue developing Project 4
+10    Playtesting
+10/29
+      PROJECT 4 DUE
+      HW​: Art of Game Design Chapter 5
+11    Lecture/Discussion - Level design. Intro to Project 5. Theme Jam!!      Project 5: Theme
+11/5  HW: Mood Board, 3 themes (NO FAN ART OR MEMES!), pick one.
+      LAB - Theme check in
+      HW: Begin Integration
+12    LAB/Check-in
+11/12 Playtesting
+      LAB/Check-in
+      Playtesting
+13    LAB/Check-in
+11/19 Playtesting
+      Thanksgiving (No Class)
+                                                                                                                   3
+
+
+14    Pitch documents. Postmortem.   Project 6: Final
+11/26 HW: Create pitch doc
+      Pitch docs review
+15    LAB/Playtesting
+12/3
+      LAB/Playtesting. Postmortem.
+16    12/10 (Last day before finals)
+12/10 FINAL DUE
+                                                      4
+
+
+Units of Study
+      1. Explorational Game Design
+              ○ Use explorational game design techniques to discover gameplay and create interesting
+                  play opportunities.
+      2. Elements of Game Design
+              ○ Readings and discussion of important design topics
+              ○ Theme development and content considerations.
+      3. Level Design Fundamentals
+              ○ Prerequisites for engaging in level design.
+              ○ Creating meaningful play.
+Process
+           Students will work individually using explorational game design techniques to discover play
+           opportunities within interactive systems, develop theme, and create level design.
+           Projects 1 - 4: Explorational Game Design
+                  Utilize Explorational Game Design1 techniques to create 3 different challenges based on
+                  discovered gameplay opportunities in the provided starter materials. It’s CRITICAL that
+                  NO additional content be added, however duplication/modification of the starter
+                  assets/systems is allowed - provided functionality is NOT significantly changed and visual
+                  changes are limited to primitive shapes and colors. These constraints are essential to the
+                  process.
+                  Projects which contain superimposed, significantly modified, or additional content will
+                  receive a grade of 0. DO NOT under any circumstances add representational or
+                  thematic content. No Exceptions.
+           Project 5: Theme and Story
+                  Choose one of the previous 3 projects and develop a theme and/or story which aligns
+                  with discovered gameplay. Begin integrating themed assets into the project.
+           Project 6: What is Level Design?
+                  Design a sequence of 5 levels which plot some type of progression. Progression can be
+                  based on difficulty, story, theme, etc. Consider using challenges or obstacles to create
+                  this sequence. Create a successful build which starts with level 1 and allows the player to
+                  progress to level 5. The levels should be playable by anyone in the class with minimal
+                  practice. In other words, the levels should not be too difficult to complete.
+           Project 7: Final
+                  Integrate final themed assets and refine/balance gameplay. Students are encouraged to
+                  create their own themed assets, but purchased asset kits may also be used. As with
+                  Project 6, the final must function as a playable build which starts at level 1 and ends with
+                  level 5. A starting menu screen is optional.
+1
+  https://goo.gl/DWB5jP​, Design Reboot, Jonathan Blow (2007)
+                                                                                                               5
+
+
+            Requirements:
+                  ●    Submit final executable on itch.io
+                  ●    Final hi res images and breakdown on ArtStation showing workflow breakdown
+                       and explaining each step in your process from concept to completion.
+                  ●    Pitch doc
+                  ●    Postmortem
+                  ●    Submit zip file to Canvas containing:
+                           ○    Final executable
+                           ○    Final images and breakdown
+                           ○    Links to itch.io and ArtStation
+                           ○    Pitch doc and postmortem
+Elements of Game Design
+   ● Possibility Space​ (Will Wright, 2006):
+        ○   A conceptual region which defines the range of possible player activities within a game.
+        ○    ​https://goo.gl/7n55Qn​, ​Dream Machines,​ Will Wright (2006)
+   ● Kinesthetics:​
+        ○ The sensation of movement of one’s physical body. This is related to proprioception
+            which describes the sensation of position and orientation of limbs and muscle strain.
+            When considered in the context of the rapid feedback loops in screen based games,
+            Kinesthetics is perhaps THE primary characteristic which defines videogames as a unique
+            medium.
+        ○ https://goo.gl/HLjKWY​, ​Kinaesthetics​, Errant Signal (2012)
+   ● Explorational Game Design:​
+        ○ Also known as Forward Game Design2 and related to emergent gameplay, this idea was
+            introduced by Jonathan Blow in his GDC 2007 talk Design Reboot. Explorational Game
+            Design (EGD) can be viewed as a “bottom up” approach to designing play systems in that
+            the process requires designers to develop their “listening” skills in order to discover the
+            latent play possibilities within interaction mechanics. This is contrasted with the more
+            traditional “top down” approach (referred to as architected design by Blow) which
+            subverts all development in service of a design document. Explorational Game Design is
+            generally a more reliable means of creating meaningful play experiences as thinking
+            through the play possibilities of a dynamic interactive system is nearly impossible for most
+            humans.
+        ○ https://goo.gl/DWB5jP​, ​Design Reboot,​ Jonathan Blow (2007)
+        ○ https://goo.gl/oKuL5s​, ​Today I’m Going to Design an Ernesto Boss,​ Daniel Benmergui (2014)
+2
+                                                                                                        6
+
+
+● Endogenous Meaning:
+     ○  Proceeding from within; derived internally. A game’s structure creates its own meanings.
+        Explorational and Forward Design techniques seek to discover the endogenous meaning
+        of interactive systems.
+     ○   ​https://goo.gl/fjHgwY​,​ I Have No Words and I Must Design,​ Costikyan (1994),
+● Mechanics​:
+     ○  Discrete actions which change the state of the game world. Players and Non-player
+        agents interact with mechanics during play. e.g. jump, move, collect, shoot, score.
+● Dynamics​:
+     ○  Sometimes referred to as emergent gameplay, dynamics are the result of mechanics
+        combined through play. e.g. move and jump are combined to create platformer gameplay.
+● Aesthetics:
+     ○  The “content” of games which exists in the realm of emotion and sensation. In an applied
+        sense, aesthetics can refer to any and all of the following: visual design, story, play
+        systems, values, endogeny, ludonarrative meaning, and any other content not easily
+        defined as mechanics, dynamics, or play systems.
+● Game Feel/Juice​:
+     ○ The intangible yet essential quality of a gameplay experience which defines the “feel” of
+        interaction. Closely related to the harmony between kinesthetics and audiovisual
+        feedback, Game Feel or Juice is essential for engagement, especially for action games.
+     ○ https://goo.gl/BSLHMx​, ​Secrets of Game Feel and Juice,​ Mark Brown (2015)
+● Rewards:
+     ○  Symbolic tokens which mark progress in games. ​Intrinsic ​rewards occur in the player’s
+        brain in the form of chemical releases associated with pattern recognition and problem
+        solving. ​Extrinsic ​rewards are given to the player by the game. They have no value
+        outside the context of the game systems. The simplest type of extrinsic reward is the
+        schedule reward, which is a token given to the player when a clearly defined task is
+        completed.
+● Ludonarrative and Ludonarrative Dissonance
+     ○  Ludonarrative is the “story” generated through play. In open world games, this story is
+        unique to the each player as their decisions during play determine a course of events. In
+        story driven games or those with a distinct imposed narrative, play is often limited and
+        serves only to unlock the next part of a predetermined sequence. Ludonarrative
+        Dissonance is said to occur when a game’s narrative and its play systems conflict. i.e.
+        when a game’s systems permit only actions which conflict with the in-game story. The
+                                                                                                  7
+
+
+         term originated in a game criticism context by Clint Hocking. Some designers view
+         Ludonarrative Dissonance as a tool.
+      ○  https://goo.gl/4X4VFN​, ​The Debate That Never Took Place,​ Errant Signal (2015)
+      ○  https://goo.gl/uk65TJ​, ​Ludonarrative Dissonance in Bioshock,​ Hocking (2007)
+● Flow​:
+      ○ Defined by Mihaly Csikszentmihalyi (Meehai, Chik-sent-meehai) in 1975. Flow is the mental
+         state of operation in which a person performing an activity is fully immersed in a feeling of
+         energized focus, full involvement, and enjoyment in the process of the activity. In game
+         design, the “flow channel” is a conceptual model which defines a region in which players
+         enjoy maximum engagement while completing tasks of increasing difficulty.
+● LeBlanc’s Taxonomy​:
+      ○  Aesthetics defined in the MDA framework as an attempt to more precisely describe “fun”
+         and “gameplay”. The taxonomy includes: Sensation, Fantasy, Narrative, Challenge,
+         Fellowship, Discovery, Expression, and Submission; and is intended as recombinant utility
+         for analyzing game content.
+      ○  https://goo.gl/32LeXX​, ​MDA: A Formal Approach to Game Design and Game Research,​ Hunicke,
+         LeBlanc, Zubek (2004)
+● Bartle Types​:
+      ○  A classification of player types in terms of play motivation: Killers, Achievers, Explorers,
+         and Socializers. Later Bartle mapped the types on 2 axes relative to play goals: Acting -
+         Interacting, and Players - World. The Bartle types are often misinterpreted as describing a
+         player’s single motivation, while in reality players may engage in each of the four types (or
+         many more) at different times during a play session.
+      ○  https://goo.gl/X2gyBf​, ​Hearts, Clubs, Diamonds, Spades: Players Who suit MUDs​,​ Richard Bartle
+         (1996)
+● Affordance
+      ○ (James Gibson 1977): A relation between and object and organism. Affordances are the
+         “action possibilities” latent in the environment which are dependent on an agent’s
+         capabilities. e.g. a door knob or teacup handle. As a design tool, affordances can be used
+         to create play depth or by extension, suggest player actions, or manipulate players
+         expectations.
+      ○ J. J. Gibson (1966). ​The Senses Considered as Perceptual Systems.​ Allen and Unwin, London.
+                                                                                                           8
+
+
+Designing Play Experience
+           Video games are interactive screen based experiences.
+           Their systems are dynamically manipulated by players and provide a high speed continuous
+           feedback loop - these are THE distinguishing features of the medium which set it apart from
+           tabletop games, sports, and other screen based media.
+           Games should be FUN.
+           This oft invoked phrase represents a misunderstanding of why videogames are compelling.
+           Evidence suggests that player engagement is directly correlated with chosen meaningful work3 -
+           the results of which can foster a sense of accomplishment, reward, awe, surprise, joy,
+           appreciation, delight, content, or satisfaction to name a few.
+           When exploring a game idea, use the following list to develop the play experience:
+               ●   Screen based interactive experiences such as videogames function like a ​conversation​.
+                   The player “speaks” through the controls and inputs, and the game “replies” by updating
+                   the game state.
+               ●   Engagement ​(a.k.a Fun) results from pattern recognition (​learning​), decision making
+                   (​strategy​), and problem solving (​feedback​).
+               ●   Games ​teach ​by exposing ​patterns a     ​ nd providing feedback to the player.
+               ●   Players learn by employing strategy and ​interacting ​with the game world.
+               ●   Strategy (or ​informed decision making​) is only possible in the presence of clear patterns
+                   and feedback.
+               ●   Obstacles ​are learning opportunities which advance the player's knowledge and
+                   understanding of the game world.
+               ●   Challenges a    ​ re reinforcement opportunities which confirm/expand the player’s
+                   knowledge of game systems.
+               ●   Intrinsic a​ nd ​extrinsic rewards m ​ ark player progress.
+               ●   Players are generally motivated by ​meaningful play (or work),​ which manifests in
+                   different forms at different times. Some of these are: skill mastery, social connection,
+                   exploration, story, achievement, reward, collection, fantasy, challenge, discovery,
+                   expression, fellowship, competition, distraction, culture, and many others scattered across
+                   the wide spectrum of human drive and desire.
+               ●   The relationship between ​theme​, ​narrative,​ and ​play s​ ystems should be clear and
+                   symbiotic - even if in an unexpected way.
+3
+  ​https://goo.gl/TSP7iJ​, ​Reality is Broken​, Jane MacGonigal (2010)
+                                                                                                              9
+
+
+Class Attendance Policy
+As detailed above, attending class during the scheduled meeting times earns professionalism credit.
+Credit is NOT earned for arriving late, leaving early, or failing to attend class meetings. If attending a
+scheduled class meeting is not possible, students are expected to promptly notify the instructor of
+extenuating circumstances.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six
+(6). As stated in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of higher
+education may not permit an undergraduate student a total of more than six dropped courses, including
+any course a transfer student has dropped at another institution of higher education, unless the student
+shows good cause for dropping more than that number.”
+University Attendance Policy: Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date
+of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a
+project in order to observe a religious holy day, I will give you an opportunity to complete the missed
+work within a reasonable time after the absence.
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact
+Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone).
+Faculty are not required to provide accommodations without an official accommodation letter from SSD.
+academic honesty University of Texas Honor Code The core values of The University of Texas at Austin
+are learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each member of
+the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice
+Line to discuss by phone your concerns about another individual’s behavior. This service is provided
+through a partnership among the Office of the Dean of Students, the Counseling and Mental Health
+Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police Department
+(UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a
+fire alarm is activated or an announcement is made. Please be aware of the following policies regarding
+evacuation: • Familiarize yourself with all exit doors of the classroom and the building. Remember that
+the nearest exit door may not be the one you used when you entered the building. • If you require
+assistance to evacuate, inform me in writing during the first week of class. • In the event of an
+evacuation, follow my instructions or those of class instructors. Do not re-enter a building unless you’re
+                                                                                                           10
+
+
+given instructions by the Austin Fire Department, the UT Austin Police Department, or the Fire Prevention
+Services office.
+NOTES
+Expanded terminology - integration into play test forms
+    - Was the core gameplay loop clear?
+                                                                                                        11

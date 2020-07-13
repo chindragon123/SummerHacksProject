@@ -1,0 +1,296 @@
+  GOV 365L, ANS 361: Ethnic Politics in Taiwan, China, and Asia
+                                         University of Texas at Austin
+                     Mondays, Wednesdays, and Fridays 9:00-10:30am – Parlin Hall 303
+                                                  Spring 2020
+                                    Unique #: 38115 (GOV), 32220 (ANS)
+\ Contact Information \
+   Professor Amy Liu
+   Office Location: Batts Hall 3.128
+   Email: amy.liu@austin.utexas.edu
+   Office Hours: Mondays 2:30-4:00pm and Wednesdays 1:00-2:30pm
+\ Course Description \
+   This course is primarily about ethnic politics in Taiwan – an empirically interesting, normatively
+   reassuring, but theoretically complicated case. We will begin with a study of different theories of ethnic
+   politics. Then we will draw on these theories to get an understanding of how different governments have
+   responded to their ethnic “Chinese” populations. But we will first begin in Southeast Asia where the
+   notion of “Chinese” – e.g., historical origins and their political situation – are easier to grasp. Second,
+   with an understanding of not just ethnic politics theoretically but also what it means to be empirically
+   “Chinese”, we then turn to the Taiwan case. We will examine why the Taiwanese state transitioned from
+   being an authoritarian regime – where an ethnic minority repressed the majority – to one that is
+   democratic and accommodating of even the most marginalized minorities. The current state of ethnic
+   accommodation is not only arguably the most liberal in Asia, but it rivals some of the most
+   accommodating western democracies. Third, we then situate the Taiwanese experience by looking at that
+   of China. We will conclude the course by discussing the challenges and benefits of ethnic diversity – and
+   the implications not just for Asia but the United States as well.
+\ Course Structure \
+   The class is a lecture/seminar meeting three times a week. Reading assignments are important and should
+   be done before each class. Attendance will not be taken in the course. You are, however, strongly
+   encouraged to attend each class for several reasons. First, the readings and class lectures are not
+   substitutes. In class, I will present additional materials that either challenge or build on the arguments
+   made in the readings. Second, some of the readings are more difficult than others. When this is the case,
+   I will devote significant class time going over the reading. And third, if you are absent on a quiz day (see
+   below), you will receive a 0% on that specific quiz. I will not post lecture notes online. If you do miss
+   class, I strongly encourage you to get notes from a classmate first before you come to my office hours.
+   Prerequisites
+                                                       1
+
+
+Students wishing to enroll in this class must have taken a foundational course in government or Asian
+studies. The course also assumes basic knowledge of world history. Students who find themselves lost
+during lectures or class discussions should see me during office hours immediately.
+Readings
+There are two required books for the course:
+     1.  Brown, Michael E. and Sumit Ganguly. 2003. Fighting Words: Language Policy and
+         Ethnic Relations in Asia. Cambridge, MA: MIT Press. ISBN-13: 978-0262025355
+         (hereafter referred to as “Brown and Ganguly”).
+     2.  Fell, Dafydd. 2012. Government and Politics in Taiwan. New York, NY: Routledge.
+         ISBN-13: 978-0415575423 (hereafter referred to as “Fell”).
+While the two books are required for the course, the purchase of either one is not. You can access the
+first book, Fighting Words, electronically for free on Google Scholar (http://scholar.google.com) – with
+some missing pages and sections – or through the library catalog system (https://search.lib.utexas.edu).
+I have placed a copy of the second book, Government and Politics in Taiwan, on reserve at the Perry-
+Castañeda Library (24-hour checkout period). The book is also available with some missing sections on
+Google Scholar. And you may also come to my office hours to scan my copy. Of course, for those of you
+who want to purchase a copy and can, Amazon is probably the easiest option.
+All other readings will be on Canvas (https://canvas.utexas.edu) under the File tab (File\Readings).
+Grading
+The grading scale is as follows: A: >94%, A-: 90-93%, B+: 87-89%, B: 84-86%, B-: 80-83%, C+: 77-79%,
+C: 74-76%; C-: 70-73%; D+: 67-69%; D: 64-66%; D-: 60-63%; F: <60%. I round using the conventional
+rounding rules.
+Your final grade is composed of the following five parts:
+     1.  Quizzes: 25%
+     2.  Newspaper Corpus: 25%
+     3.  Big Data Analysis: 25%
+     4.  Policy Proposal: 25%
+The quizzes can be cumulative and cover both the lectures notes and assigned readings. Quiz dates will
+usually be announced in the previous class. I do, however, reserve the right to administer pop quizzes.
+These quizzes will test key information. On average, there will be one quiz per week. On each announced
+quiz, there will be a bonus question (worth 3% of the quiz) about current affairs in Taiwan and Asia. I
+strongly encourage you to read the following news sources on a regular basis:
+        China Post: http://www.chinapost.com.tw
+        Taipei Times: http://www.taipeitimes.com
+        BBC: http://www.bbc.co.uk/news/world/europe
+        Washington Post: http://www.washingtonpost.com/world/europe
+                                                   2
+
+
+   One objective of this course is to expose you to how social science research is done. One field that is
+   growing in popularity – not just in academia but also among job employers – is big data. Big data is the
+   computational use of large datasets to identify trends and associations among some phenomenon of
+   interest. Examples could include shopping tendencies, ride-share hailing behavior, and when – and in what
+   context – certain words get used.
+   In this class, you will gain basic familiarity with how big data works. You will scrape two different news
+   sources on a topic of your choosing – subject to my approval. The topic must be related to either (1)
+   ethnic politics – in any country; or (2) Taiwan, China, or Asia – on any subject. Suitable topics could
+   include bilingual education in Texas, the 2020 presidential elections in Taiwan, or the Rohingyas in
+   Myanmar. A project looking at the Australian bushfire, for example, would not be appropriate in this
+   context. The newspaper articles you scrape will form your corpus.
+   Once you have your corpus, you will learn different ways to analyze the data. We will focus on word
+   frequencies (e.g., what are the most common roots); word types (e.g., are the words generally positive or
+   negative in connotation); and if time permitting, word association (e.g., what pair of words appear most
+   commonly together). After you have completed your analysis, you will write a summary report.
+   I will provide more information later and throughout the course. I suspect this process will be the first
+   time for most of you. If this is the case, do not worry! We will spend several class periods going over this.
+   I will also be available in office hours to help guide you through this process.
+   At the end of the semester, you will be given the specifics of a real-world, real-time challenge pertaining
+   to an ethnic minority. You will be asked to draft a policy proposal – drawing on what you have learned
+   in the course.
+\ Course Policies \
+   Missed Quizzes and Assignments
+   I will only take the top ten quiz grades. As such, if you are absent for whatever reason on a day a quiz is
+   given, you will receive a 0% for that specific quiz. There are no makeup quizzes. If you miss between
+   40-50% of the total in-class quizzes given, your final quiz grade for the semester will be a 0%. If you miss
+   50% or more of the in-class quizzes given, you will automatically fail the course.
+   Make-up assignments will only be given in the case of sickness (requiring a doctor’s note), family
+   emergency (requiring a Dean’s note), or religious observance (requiring prior approval from the
+   instructor). There are no exceptions.
+   Appeals
+   If you believe a grade does not reflect your performance, you are welcomed to dispute the grade. I ask
+   that all grade appeals be made in writing. In the memo, explain why you should receive a higher grade
+   on that quiz or assignment. This should be done within a week after the grade is announced and submitted
+   after class or in office hours. You will get a response in writing addressing your concerns.
+                                                        3
+
+
+Students with Disabilities
+Students with disabilities may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities: 512.471.6259 or
+http://www.utexas.edu/diversity/ddce/ssd/.
+Religious Observances
+By university policy, you must notify me of your pending absence at least fourteen days prior to the date
+of observance of a religious holy day. If you must miss an assignment in order to observe a religious holy
+day, you will be given an opportunity to complete the missed work within a reasonable time after the
+absence.
+Academic Dishonesty
+“Scholastic dishonesty… includes, but is not limited to, cheating, plagiarism, collusion, falsifying academic
+records, and any act designed to give unfair academic advantage to the student (such as, but not limited
+to, submission of essentially the same written assignment for two courses without prior permission of the
+instructor, providing false or misleading information in an effort to receive a postponement or an extension
+on a test, quiz, or other assignment), or the attempt to commit such an act” (Section 11-802 (b),
+Institutional Rules on Student Services and Activities).
+If you have any questions about what constitutes scholastic dishonesty, you should consult with me and
+http://deanofstudents.utexas.edu/sjs/academicintegrity.html. Any student that violates this policy will
+fail this course and have the details of the violation reported to Student Judicial Services.
+Emergency Evacuation Policy
+In the event of a fire or other emergency, it may be necessary to evacuate a building rapidly. Upon the
+activation of a fire alarm or the announcement of an emergency in a university building, all occupants of
+the building are required to evacuate and assemble outside. Once evacuated, no one may re-enter the
+building without instruction to do so from the Austin Fire Department, University of Texas at Austin
+Police Department, or Fire Prevention Services office.
+Students should familiarize themselves with all the exit doors of each room and building they occupy at
+the university. Students should also remember that the nearest exit routes may not be the same as the
+way they typically enter buildings.
+Students requiring assistance in evacuation shall inform their instructors in writing during the first week
+of class. Faculty members must then provide this information to the Fire Prevention Services office by
+fax (512.232.2759), with “Attn. Mr. Roosevelt Easley” written in the subject line.
+Information regarding emergency evacuation routes and emergency procedures can be found at
+http://www.utexas.edu/emergency.
+Additional Policies
+Since studies have shown people are more likely to multi-task (i.e., be distracted and be distracting) when
+they are sitting behind a computer, I do not allow laptop computers or tablets in the classroom. In the
+same spirit, please do not check your email, browse the internet, or send messages on your phone in the
+                                                     4
+
+
+middle of class. I reserve the right to confiscate your phone for the class period and/or penalize the entire
+class for violations of this policy.
+Also, when emailing me, address me with either “Prof” or “Dr”. Do not use messaging or Twitter language.
+I reserve the right to not respond to emails in the twelve hours before an assignment due.
+                                                     5
+
+
+\ Course Schedule \
+             01/22 (Wednesday) — Introduction
+          Primordialism versus Politics
+ Week 1
+             01/24 (Friday) — Ethnicity versus Nations: What is Chinese?
+                  Canvas \ Taylor, Jay. The Generalissimo: Chiang Kai-Shek and the Struggle for Modern
+                     China (excerpts from Chapters 1 and 3).
+             01/27 (Monday) — Origin and Construction of Ethnicity
+                  Canvas \ Chandra, Kanchan. “Cumulative Findings in the Study of Ethnic Politics.”
+             01/29 (Wednesday) — Ethnicity and Institutions
+                  Canvas \ Reilly, Benjamin. “Electoral System for Divided Societies.”
+ Week 2
+          Comparative Ethnic Politics: Southeast Asia
+             01/31 (Friday) — The Chinese in Southeast Asia ***
+                  Canvas \ Skinner, G. William. “Report on the Chinese in Southeast Asia”
+             02/03 (Monday) — Political Institutions in Indonesia
+                  Canvas \ Dayley, Robert and Clark D. Neher. “Chapter 4. Indonesia.”
+ Week 3
+             02/05 (Wednesday) — Ethnic Politics in Indonesia
+                  Brown and Ganguly: Chapter 9.
+             02/07 (Friday) — Politics towards the Chinese in Indonesia: Proquest
+             02/10 (Monday) — Political Institutions in Thailand
+                  Canvas \ Dayley, Robert and Clark D. Neher. “Chapter 2. Thailand.”
+             02/12 (Wednesday) — Ethnic Politics in Thailand
+ Week 4
+                  Brown and Ganguly: 177-196.
+             02/14 (Friday) —Politics towards the Chinese in Thailand: Proquest
+                     Due: Big Data Topic (submit on Canvas by 5pm)
+                                                      6
+
+
+            02/17 (Monday) — Political Institutions in Malaysia
+                 Canvas \ Dayley, Robert and Clark D. Neher. “Chapter 5. Malaysia.”
+Week 5
+            02/19 (Wednesday) — Ethnic Politics in Malaysia
+                 Brown and Ganguly: 239-254.
+            02/21 (Friday) — Politics Towards the Chinese in Malaysia: Proquest
+         Taiwan under the Japanese
+            02/24 (Monday) — Political Institutions under the Japanese
+                 Fell: 11-12.
+Week 6
+            02/26 (Wednesday) — Ethnic Politics under the Japanese
+                 Brown and Ganguly: 392-394.
+            02/28 (Friday) — Public Attitudes toward the Japanese today
+                 Canvas \ Liu, Amy H. and Hu Yue. “Effects of Foreign Language Proficiency on
+                    Public Attitudes.”
+         Taiwan under Hard Authoritarianism (1945-1969)
+            03/02 (Monday) — Political Institutions under Hard Authoritarianism
+                 Fell: 12-16 and 43-45.
+Week 7
+                    Due: Big Data Corpus (submit on Canvas by 9am)
+            03/04 (Wednesday) — Political Institutions under Hard Authoritarianism
+                 Fell: 17-24.
+            03/06 (Friday) — Ethnic Politics under Hard Authoritarianism
+                 Brown and Ganguly: 395-397.
+            03/09 (Monday) — Linguistic Inquiry of Word Count (LIWC)
+                 Canvas \ Zimmer, Ben. “Book Review – The Power of Pronouns”
+Week 8
+                    Guest Speaker: Anastasiya Byelousova, (Plan II))
+            03/11 (Wednesday) — Word Associations
+            03/13 (Friday) — Word Associations
+                                                    7
+
+
+             03/16 (Monday) — No Class (Spring Break)
+Week 9
+             03/18 (Wednesday) — No Class (Spring Break)
+             03/20 (Friday) — No Class (Spring Break)
+          Taiwan under Soft Authoritarianism (1969-1986)
+             03/23 (Monday) — Political Institutions under Soft Authoritarianism
+                  Fell: 24-27, 45-46, and 134-137.
+Week 10
+             03/25 (Wednesday) — Ethnic Politics under Soft Authoritarianism
+                  Brown and Ganguly: 397-399.
+          Taiwan and Democratization (1986-1996)
+             03/27 (Friday) — Political Institutions with Democratization
+                  Fell: Chapter 3.
+             03/30 (Monday) — Political Institutions with Democratization
+                  Fell: 46-47 and 57-65.
+             04/01 (Wednesday) — Political Institutions with Democratization
+Week 11
+                  Fell: 137-139.
+             04/03 (Friday) — Ethnic Politics with Democratization
+                  Brown and Ganguly: 399-404.
+                     Due: Big Data Analysis (submit on Canvas by 5pm)
+          Taiwan in the Democratic Era
+             04/06 (Monday) — Political Institutions in the Democratic Era
+                  Fell: Chapter 6.
+Week 12              Guest Speaker: Keith Chew, PhD Student (GOV)
+             04/08 (Wednesday) — Ethnic Politics in the Democratic Era
+                  Canvas \ Shih, Cheng-Feng. “Language and Ethnic Politics in Taiwan.”
+                     Guest Speaker: Chun-Ying Wu, PhD Candidate (GOV)
+                                                      8
+
+
+             04/10 (Friday) — Ethnic Politics in the Democratic Era
+                  Canvas \ TBD
+             04/13 (Monday) — Ethnic Politics in the Democratic Era: Aboriginal Politics
+                  Canvas \ Ku, Kun-hui. “Minority, Indigenous Politics in the Emerging Taiwanese
+                    Nationalism.”
+Week 13
+             04/15 (Wednesday) — Ethnic Politics in the Democratic Era: New Resident Politics
+                  Canvas \ Tsai, Ming-Chang. “‘Foreign Brides’ Meet Ethnic Politics in Taiwan.”
+             04/17 (Friday) — Public Attitudes and National Identity: Chinese versus Taiwanese
+                  Fell: 139-149.
+                  Canvas \ The Monkey Cage. “The Taiwanese see themselves as Taiwanese.”
+          Comparative Ethnic Politics: China
+             04/20 (Monday) — Political Institutions in China
+                  Canvas \ Starr, John Bryan. “Chapter 3: The Party State.”
+Week 14      04/22 (Wednesday) — Ethnic Politics in China: Historical
+                  Brown and Ganguly: Chapter 12
+             04/24 (Friday) — Ethnic Politics in China Today: Xinjiang
+                  Canvas \ Liu, Amy H. and Kevin Peters. “The Hanification of Xinjiang.”
+             04/27 (Monday) — (Ethnic) Politics in China Today: Taiwan
+                  Canvas \ Kao, Jay Chieh. “How does the Pro-Beijing Media Influence Voter
+                    Behavior and Opinion?”
+                     Guest Speaker: Jay Kao, PhD Candidate (GOV)
+Week 16
+             04/29 (Wednesday) — (Ethnic) Politics in China Today: Hong Kong
+                  Canvas \ TBD
+          Ethnic Diversity
+             05/01 (Friday) — Measuring Ethnicity
+                  Canvas \ “Ethnologue: Introduction to the Printed Volume.”
+                                                     9
+
+
+          05/04 (Monday) — Detriments of Diversity
+               Canvas \ Anderson, Christopher J. and Aida Paskeviciute. “How Ethnic and
+                 Linguistic Heterogeneity Influence the Prospects for Civil Society.”
+Week 16
+          05/06 (Wednesday) — Benefits of Diversity
+               Canvas \ Oliver, J. Eric and Janelle Wong. “Intergroup Prejudice in Multiethnic
+                 Settings.”
+          05/08 (Friday) — In-Class Policy Proposal
+                                                 10

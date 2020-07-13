@@ -1,0 +1,559 @@
+                                                   Syllabus
+                Accounting 327: Financial Statement Analysis and Valuation
+                                                Spring 2020
+Class Hours:        MW 2:00-3:30 (Unique #: 02310)                     Location: UTC 4.134
+                    MW 3:30-5:00 (Unique #: 02315)                                   UTC 4.134
+Instructor:         Bill Spiller                                       Office: CBA 6.304H
+    E-mail:         bill.spiller@mccombs.utexas.edu                    Phone: please use email
+    Office Hrs:     Tuesday 9:00-11:30am, and 1:00-4pm
+TA:                 Savayra Panjwani                                   Office:              TBD
+    E-mail:         Savayra Panjwani@utexas.edu                        Office Hrs:          TBD
+Course Description:
+This course deals with the analysis of financial information, particularly firms’ financial statements, to
+determine value. Valuation is necessary for making decisions to invest in businesses, but also many other
+decisions as well. The primary focus will be on valuing operating activities, with some attention given to
+the valuation of debt and equity. Methods to determine value using fundamental analysis and forecasting
+will be examined in detail and applied in situations involving publicly listed companies.
+Particular emphasis in this course is given to the discounted cash flow model and two accounting-based
+valuation models: the residual operating income model and the abnormal operating income growth model.
+The appeal of the accounting-based models is that valuation is based on numbers that are not only
+available ex-post but they are also commonly available ex-ante as forecasts. Companies have used
+accounting information for ex-post performance evaluation for decades but different (generally cash flow)
+data have been used for ex-ante decision making. Now we have methods which permit use of the same
+data for ex-ante decision making and for ex-post performance evaluation.
+Topics include a comparison of cash-flow-based and accounting-based approaches to valuation, methods
+of financial statement analysis, dealing with various accounting methodologies, forecasting firms' future
+performance, and the analysis of risk.
+Student Learning Outcomes and Objectives:
+1) Students will be able to calculate values using different valuation methodologies including discounted
+     cash flow, residual operating income, and abnormal operating income growth models.
+2) Students will understand the role of financial statements in determining value and how to analyze
+     financial statements to get at the relevant information.
+3) Students will be able to perform traditional ratio analysis as well as understand its role in forecasting
+     and valuation.
+This class will provide a strong foundation and practical tools both for careers in the field of finance and/or
+accounting. While the material you will learn is grounded in valuation theory, you will find it is also
+incredibly practical and relevant.
+                                                       1                          Spiller, ACC 327, Spring 2020
+
+
+Required Textbooks and Other Materials:
+Valuation Using Financial Statements, by Sommers and Easton (Cambridge Business Publishers, 2018),
+     ISBN 978-1-61853-290-9
+There is no course packet to purchase. Additional materials may be made available via Canvas and/or
+distributed in class.
+Grading Policy:
+Although grades are important in the short-run, a true measure of your success comes in how much you
+learn that can be applied to your future career. Your goal should be to work hard and do the best you can
+to maximize your learning. I am not looking for you to simply memorize and spit back information, though
+you will need to know this information to do well in the class. What I expect of you is to make sense of
+what you read and what we discuss, and enter into a dialogue with me and your peers about it.
+Mastering and making sense of the material we cover is the key to maximizing your grade. I am more
+than happy to help you, in and out of class, achieve this; I strive to be a teacher, after all. However, the
+discipline, timely study and preparation habits, and simple hard work necessary to do well are matters
+largely in your own hands. I will not give you grades; you will earn them.
+All work undertaken and submitted in this course will be governed by the Cox Honor Code (violations are
+discussed in the Academic Dishonesty section). Grades will be based on the following:
+          Two Midterms (each worth 15%)                                                         30%
+          Daily Work                                                                             20%
+          Final examination                                                                     30%
+          Written valuation project report                                                      20%
+The percentage earned in the class may be adjusted downward due to deficiencies in professionalism. A
+downward adjustment of up to 5% from student’s total above may be made at the professor’s discretion
+based upon professionalism in class. Incompletes will be given only in accordance with University policy.
+Course and Instructor Policies:
+Attendance, Participation, and Professionalism
+     Class attendance is expected as it will be beneficial to mastering the material. You should be in your
+     seat and ready to begin discussion of the material at hand at the beginning of class. “Ready” means
+     having your notes and text open and on the table before you at the beginning of class. Late arrivals
+     should expect to be penalized through determination of the participation adjustment. Your cell phone
+     will not ring during class and you will neither send nor receive text messages during class. You will
+     focus on the class. If you miss a class, it is your responsibility to get notes from a classmate.
+     You are expected to read the required textbook material and related readings in a timely fashion. Part
+     of taking a class is being prepared for class. This means you will have done your readings before we
+     treat them in class. Failure to do so will almost assuredly lead to an incomplete grasp of the material,
+     inability to contribute to and/or learn from class discussions, and yield a lower grade in the course. As
+     the professor will regularly cold call on students, lack of preparation will yield uncomfortable situations
+     for you now just as it would in a meeting with a client or supervisor. The good news is this is
+     avoidable by being prepared to discuss the topic, or at least have questions concerning it.
+     Discussion and cold calling allow practice articulating your positions and defending them verbally
+     which is a necessary business skill regardless of discipline. You will have to speak publicly, in
+     meetings or groups as a business person. You might as well start the practice now. Please do not
+     hesitate to volunteer when you have something of value to add to the discussion and to raise
+     questions if you are confused. Textbook readings are shown in the attached schedule and additional
+     materials may be made available on Canvas.
+     Professionalism is measured based on your preparation for class, engagement in class activities, and
+     conducting yourself in a business-like manner. The possible adjustment of the final grade for
+                                                         2                         Spiller, ACC 327, Spring 2020
+
+
+     professionalism will be evaluated relative to other students in the class. Please bear in mind that
+     virtually all grading schemes are subjective to some extent, and participation is no exception. You are
+     preparing for positions in business and as such are expected to be acting accordingly.
+Examinations
+     There will be two midterms and a final examination administered with time and date as noted on the
+     attached schedule. The midterm exams will cover only material covered up to the exam. While the
+     final exam will cover the entire class, its goal is to ensure you have understood the information
+     necessary to complete a valuation similar to the group project as an individual. As such, the exam will
+     measure your ability to understand and apply the concepts you have learned from the textbook, your
+     work on the project, and class discussions. While the ideas may appear in slightly new garb, the
+     material is expected to be familiar. Your best method of studying for the exam will be to prepare for
+     and participate in class and be well versed in all aspects of the group project. The final grade
+     distribution may be curved downward (lowering of cutoffs) recognizing the nature of the course and
+     potential issues related to question wording or test length.
+Daily Work
+Daily work will be work assigned during class and taken up at the end of class. We will leave time at the
+end of class to complete the assignment. The assignments will be to determine what some variable is in
+the Form 10-K or to make a calculation from information that is contained in the financial statements. We
+will have a minimum of 12 but may have more and we will drop the two lowest scores.
+Valuation Project
+     The information on the valuation project contained in the project guide (distributed in hard copy and
+     available on Canvas) is hereby incorporated by reference. This document will provide a description of
+     the requirements for the final project report to be submitted as well as suggestions on how your group
+     should be progressing during the module. The project is a very hands on learning experience
+     completed as a team from which you will gain practical experience in and tools for valuation. We may
+     meet as groups as needed with the professor during the semester.
+E-Mail and Canvas
+     During the semester, e-mail messages will be sent to your mccombs.edu account as shown on
+     canvas. Additionally, the class Canvas page will be updated with useful course information. You are
+     responsible for the content of e-mail messages and the material posted to Canvas. On Canvas, you
+     will find information of significance to the class – syllabus, project description, course up-dates, hand-
+     outs, a discussion board, and the like. The discussion board in Canvas will allow you to post
+     questions and seek help in understanding concepts. In addition to the professor, other students will
+     also be able to help with issues arising providing an opportunity for collaborative learning. The
+     announcements page will provide a quick way to communicate things coming up. You should plan to
+     visit Canvas regularly.
+Academic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The
+responsibilities of both students and faculty with regard to scholastic dishonesty are described in detail
+in the BBA Program’s Statement on Scholastic Dishonesty at http://my.mccombs.utexas.edu/BBA/Code-
+of-Ethics. By teaching this course, I have agreed to observe all faculty responsibilities described there.
+By enrolling in this class, you have agreed to observe all student responsibilities described there. If the
+application of the Statement on Scholastic Dishonesty to this class or its assignments is unclear in any
+way, it is your responsibility to ask me for clarification. Students who violate University rules on
+scholastic dishonesty are subject to disciplinary penalties, including the possibility of failure in the course
+and/or dismissal from the University. Since dishonesty harms the individual, all students, the integrity of
+the University, and the value of our academic brand, policies on scholastic dishonesty will be strictly
+enforced. You should refer to the Student Conduct and Academic Integrity website at
+http://deanofstudents.utexas.edu/conduct/ to access the official University policies and procedures on
+                                                          3                        Spiller, ACC 327, Spring 2020
+
+
+scholastic dishonesty as well as further elaboration on what constitutes scholastic dishonesty.
+Document Retention
+     All project submissions and exams will be held for one academic year following the completion of the
+     course. They will then be destroyed. Any grade discrepancies must be cleared within the first two
+     weeks of the following long semester, Fall 2020.
+Dropping the Course
+     You must follow official University withdrawal procedures to drop this course. Failure to attend
+     classes and/or take the exam does not constitute a drop and a student who stops attending the class
+     without officially dropping will receive a grade of F.
+Disability Accommodations:
+Students with disabilities may request appropriate academic accommodations from the Division
+of Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://diversity.utexas.edu/disability/.
+Excused Absences for University Extracurricular Activities:
+Students participating in an officially sanctioned, scheduled University extracurricular activity should be
+given the opportunity to make up class assignments or other graded assignments missed as a result of
+their participation. It is the responsibility of the student to make arrangements with the instructor prior to
+any missed scheduled examination or other missed assignment for making up the work. (University
+Undergraduate Catalogue) Normally, you will need to complete anything required prior to the scheduled
+absence.
+Religious Observance:
+Religiously observant students wishing to be absent on holidays that require missing class should notify
+their professors in writing two weeks before the holiday and should discuss with them, in advance,
+acceptable ways of making up any work missed because of the absence.
+Assignments and Academic Calendar:
+The following page contains the anticipated dates that we will cover the assigned material in class. The
+professor reserves the right to go faster or slower as class progress dictates.
+                                                          4                      Spiller, ACC 327, Spring 2020
+
+
+         Class Schedule
+Week     Date             Chapter
+1    Wed 1/22           Intro Syllabus
+2    Mon 1/27           Ch 1 The Link Between
+                        Valuation and F/S Analysis
+     Wed 1/29           Ch 2 Role of Accounting
+3    Mon 2/3            Ch 3 Reformulation to Identify
+                        Operating Activities
+     Wed 2/5            Ch 3 Con’t
+4    Mon 2/10           Ch 4 Use of Additional
+                        Information to Enhance
+                        Reformulation
+     Wed 2/12           Ch 5 Adjusting Accounting
+                        Information
+5    Mon 2/17           Ch 5 Con’t
+     Wed 2/19           Speaker – Purchase Price
+                        Allocation
+6    Mon 2/24           Ch 5/Ch 6 Analysis of Enterprise
+                        Operations
+     Wed 2/26           Ch 6 Con’t
+7    Mon 3/2            Midterm 1
+     Wed 3/4            Ch 7 Full Information
+                        Forecasting
+8    Mon 3/9            Ch 8 Market Multiple Valuation
+     Wed 3/11           Speaker - Impairments
+9    Mar 16-20          Spring Break
+10   Mon 3/23           Ch 9 Cost of Capital for Equity
+                        and Operations
+     Wed 3/25           Ch 10 Valuation Using
+                        Forecasts of Cash Flows
+11   Mon 3/30           Ch 10 Con’t
+     Wed 4/1            Speaker Complex Financial
+                        Instruments
+12   Mon 4/6            Ch 11Valuation Using the
+                        Residual Operating Income
+                        Method
+     Wed 4/8            Ch 12 Valuation Using the
+                        Abnormal Operating Income
+                        Growth Model
+13   Mon 4/13           Ch 13 Steady State and
+     Wed 4/15           Forecast Horizon
+                        Ch 14 Valuation of Equity
+14   Mon 4/20           Speaker Valuation of Equity
+     Wed 4/22           Midterm 2
+15   Mon 4/27           Speaker Valuing Intangibles
+     Wed 4/29           Speaker Fair Value Opinions
+16   Mon 5/4            Written Class Projects Due
+     Wed 5/6            Final Exam
+                5             Spiller, ACC 327, Spring 2020
+
+
+                                      Valuation Project Guide
+                               McCombs ACC 327 – Spring 2020
+General
+The course provides a practical guide to company valuation with an emphasis on understanding and
+using the information in companies’ financial statements. Almost all of the textbook discussion is based
+on Procter and Gamble (PG), a member of the Personal Products industry. You are likely quite familiar
+with many PG products; e.g., Tide laundry detergent, Nyquil medicine, Crest toothpaste, Gillette grooming
+products, and Bounty paper towels. In doing this, the text provides a step-by-step guide through the
+process leading from financial statements to valuation.
+The goal of the course project is to apply the material covered in the class by replicating implementation
+with another publicly traded company. After completing each module, each team will conduct the
+analyses that have been done for PG in the text using their company. Throughout the course, your team
+will build the analysis of your company until you arrive at the valuation and reach conclusions about the
+company and industry.
+Forming Teams
+For this course, you are required to complete a project, which involves valuation and financial statement
+analysis and uses the tools developed in the course. The project must be done in teams of four or five.
+You will be allowed to choose teams, but all must be enrolled in the same section of the course. It is
+advised that you find diverse team members as the skills formed by working with different backgrounds
+and strengths/weaknesses are crucial for future success in the business world. At times, you may
+encounter struggles in working with the other members of your team including disagreements on items
+and scheduling conflicts. Learning how to work past these obstacles to achieve the goal is part of the task
+ahead of you.
+One group member should email bill.spiller@mccombs.utexas.edu your desired group member list no
+later than 5:00pm on Friday, February 7th. The final assignment of groups (there may be
+addition/adjustment of group members) will be communicated via a posting on Canvas. (Unfortunately,
+delaying group assignment is necessary should someone be adding or dropping the course during the
+first week of class!)
+Assignment of a Company
+Each team will conduct a valuation of a publicly traded company and complete a valuation report with an
+emphasis on understanding your company and the extent to which the share price is believed to reflect
+the intrinsic (estimated) value of these shares. Each group in the class will be working on one of three
+companies: AutoZone (AZO), Advance Auto Parts (AAP), or O’Reilly Auto Parts (ORLY). As all members
+of the class will be working on companies in the same industry, this will yield a more in-depth knowledge
+of the industry and all class members being an expert on one of your company’s competitors.
+Companies will be assigned to teams. Finalized group assignments and company assignments are
+expected to be posted on Canvas before 5pm on Friday, February 14th to allow you to get started right
+away.
+Weekly Project Progress Expectations
+The meetings of the course will be very interactive. Our goal is to learn in a number of ways:
+      Before class:
+      •    By reading the textbook and any other assigned readings
+      In class:
+                                                       6                        Spiller, ACC 327, Spring 2020
+
+
+     •   By attending and participating in class discussions of the textbook and issues arising in your
+         project
+     •   By applying the analyses covered in the current chapters on a company examined collectively by
+         all of us together in class
+     After class:
+     •   By applying the learning from class regarding the current chapters to your project company
+     •   By discussing issues that arise with teammates and your professor.
+While your team may be tempted to take the PG or KMB valuation spreadsheets that will be provided and
+modify it for your company, that is generally a very inefficient approach. Those spreadsheets should be
+viewed as resources (just as the textbook is). Further, you can think of the quizzes as testing whether you
+could do each step of the project individually. If you do not understand what has occurred, either due to
+allocations of steps in the project to specific team members or if your team has only followed the PG
+spreadsheet blindly, your understanding will assuredly be insufficient.
+Application of Weekly Coverage to Your Project Company
+ Chapters 1 and 2: Introduction
+ Chapter 1: The message of the first chapter is get to know the operating activities of the company you
+ are valuing. Of course you will become more and more familiar with your company as the course
+ progresses, but your assignment related to Chapter 1 is to investigate the operations of your focus
+ company as thoroughly as possible using whatever sources you imagine. The financial statements filed
+ with the SEC are a key place to start and you must obtain and read these statements, particularly the
+ most recent Form 10-K. Of course there are many other sources, such as the company’s website,
+ newspapers, and investor websites such as www.seekingalpha.com and www.finance.yahoo.com.
+ After you have investigated your company as thoroughly as time permits, get together with the other
+ members of your team to discuss your company and the industry. It is suggested that your efforts
+ associated with this chapter should devote roughly equal time to the industry and your chosen
+ company. (While there is a smaller than desired amount of time between the assignment of a company
+ to your team on Saturday and the second class, figure out a way to get this done.)
+ Chapter 2: No specific project related tasks, but make sure you understand the concepts!
+ Chapters 3, 4, and 5: Reformulate the financials for your company
+ Chapter 3: Assemble at least the past three Income Statements, Statements of Comprehensive
+ Income, and Statement of Changes in Shareholder Equity and the past four Balance Sheets in
+ spreadsheet form. You may choose to copy these from the most recent Form 10-K or to download
+ them from online services such as www.mergentonline.com. If you choose the later, be sure to check
+ that all line-items from the online version are the same as those in the Form 10-K; this checking may
+ save you a lot of time at a later stage when you will need to be sure that the aggregate numbers on
+ each of the financial statements are equal to the sum of their components. (The various “spreadsheet
+ tips” in the textbook, see page 3.2 for an example, are very hands on hints provided to save you time
+ and energy.)
+ Chapter 4: Dig into the footnotes from the recent Form 10-K’s for your company to expand the
+ information beyond that which is available from the face of the financial statements. You should also
+ consider any other information that you looked for (because you thought it could be useful) but were
+ unable to find. Expect this issue to be discussed in class with comparisons to the other teams who are
+ working on your competitors.
+ Chapter 5: Where appropriate, follow the procedures outlined in the textbook to adjust the accounting
+ information to render the accounting data for your company and its competitors more comparable.
+                                                       7                        Spiller, ACC 327, Spring 2020
+
+
+Ensure that you are aware of differences across the competitor companies. You should focus on the
+calculations you have done for your company but you should also, where appropriate, understand
+comparisons to other companies in your industry.
+By now you should have reformulated spreadsheets identifying NOA, NFL, NOPAT and FEAT. In
+assembling the spreadsheets, you should note for discussion in class and/or final project: (1) the
+assumptions that you made (and justifications for these assumptions); and, (2) unanswered questions,
+which you expect would require further analysis in the future.
+Please be aware that the work for Chapters 3, 4, and 5 are generally the hardest and most time
+consuming of the entire course. Work together, check in with the professor, but don’t spin your
+wheels endlessly!
+Chapters 6 and 7: DuPont analysis and Full information forecasting
+Chapter 6: Carry out a DuPont analysis and the preparation of common size financials following the
+example in the textbook. Discuss with your team the differences noted over time and any information
+you may have on how your company differs from the industry. A dataset with information for a variety
+of companies will be provided to you to use in gathering information on competitors.
+Chapter 7: In completing the forecast, you should consult all available sources of information. This
+could include (but is not limited to) the company’s annual and quarterly reports, annual and quarterly
+reports of comparable firms, industry analyses, and company websites, analysts’ reports, press
+releases, recent press articles on your company, on comparable companies, and on the industry. (You
+get the idea!) At some point, you could even seek information from investor relations personnel at your
+company.
+     1. Based on this knowledge of your company, your company’s product(s), your company’s share
+         of the market, the market size, changes in consumer tastes, demand, etc., forecast sales for at
+         least the next 5 years.
+     2. Identify key expense line-items that would be considered critical for your company. Examples
+         may be advertising expense (as in Coca Cola and Pepsi), R&D (as in pharmaceuticals),
+         administrative expense (if this is large and there is an obvious difference between your
+         company and comparable companies), etc. Forecast these expenses as a proportion of sales
+         revenue for each of at least the next 5 years. For non-key items, in a similar manner to above,
+         but with less emphasis on detail, prepare a forecast of each line item of NOPAT to sales for at
+         least the next 5 years. In doing so, you will address the necessary forecast of your company’s
+         tax rate for the next 5 years. Also, explicitly discuss any unusual items expected over the
+         forecast period.
+     3. Forecast the inventory, payables, receivables, PPE, cash, and any other elements of NOA
+         required to support the forecasted sales level (these should be expressed as a percentage of
+         forecasted sales).
+     4. Review your forecasts of sales growth, operating PM, and operating ATO for reasonableness.
+         You should be able to provide a carefully reasoned argument to support each of these
+         sets of forecasts.
+Chapters 8 and 9: Valuation using multiples and estimating the cost of capital
+Chapter 8: When meeting with your team, you should identify which multiples would be most
+appropriate and if any companies beyond those being done by other teams would be considered
+comparables for your project company. A resource in this will be the dataset you received for the
+DuPont analysis in Chapter 6. Be sure to consider if there is an industry-specific multiple such as the
+one illustrated in Chapter 8 via (P – B)/R&D. Determine the data you would need to gather for your
+company to calculate the multiple (i.e, R&D expenses in the example in the chapter). Discuss the level
+                                                        8                       Spiller, ACC 327, Spring 2020
+
+
+of comfort you would have investing your own funds based on an analysis of multiples for your
+company and members of its industry. While you are not required to implement a market multiples
+analysis, you are required to have thoroughly vetted the process.
+Chapter 9: To compute the cost of capital, there are several steps to be undertaken:
+         1. Using the methods described in the Appendix to Chapter 9, arrive at estimates of , , and
+             the corresponding standard errors. Ensure the members of your team can interpret, in
+             layman’s terms, the meaning and implications of your estimates.
+         2. Locate at least three estimates of  (Beta) for your company from financial websites.
+         3. Choose among your estimates of  for your company. Using this estimate, an estimate of
+             the risk free rate of return, and an estimate of the market premium, obtain an estimate of
+             the cost of equity capital for your firm.
+         4. Estimate the cost of debt capital for your firm.
+         5. Calculate the weighted average cost of capital for your firm (i.e., the cost of capital for
+             operations).
+         6. Use a Bloomberg terminal to find their estimate of the weighted average cost of capital for
+             comparison. Consider the sources of differences between your estimate and that of
+             Bloomberg.
+Be prepared to discuss your efforts and issues encountered in estimating cost of capital. We will be
+comparing cost of capital estimates between your company and its’ competitor in your section as a part
+of class.
+Project Status Check:
+As a part of week 5, each group will meet with the professor for approximately 15-20 minutes to
+discuss the status of their project. The goal is to ensure appropriate progress is being made and
+ensure any issues encountered have been addressed in a timely manner. Each group will be assigned
+a score of 0 to 5 that will be included as a component in the written project score. Scoring will be
+determined based on whether the group is on staying current on the project and issues noted at this
+time. (The goal is ensure you have reached the point where you are ready to implement the valuation
+models introduced in the remainder of the course.)
+Chapter 10: Cash-flow based valuation
+Chapter 10: Build your spreadsheet for the free cash flow (FCF) valuation model using your forecasts
+of free cash flow from Chapter 7 and your weighted-average cost of operating capital from Chapter 9 to
+estimate the intrinsic value of the operations of your firm.
+Chapters 11 and 12: Residual operating income and abnormal operating income growth valuation
+Chapters 11 and 12: Build your spreadsheets for the residual operating income (ROPI) and the
+abnormal operating income growth (AOIG) valuation models to estimate the intrinsic value of your firm.
+Note that the estimated value should be exactly the same as you obtained with the free cash flow
+valuation model.
+                                                       9                       Spiller, ACC 327, Spring 2020
+
+
+  Chapters 13 and 14: Steady state assumptions and valuation of equity
+  Chapter 13: Consider the calculations of value from Chapters 10, 11, and 12 in determining which
+  model your team would choose to employ in practice for your company. Discuss within your team the
+  concerns you have about having achieved steady state as well as additional steps that could be taken
+  to minimize these effects were you to have additional time/resources available.
+  Chapter 14: Obtain an estimate of the market value of debt for your firm. Use this estimate and the
+  estimate of the value of the operations determined in Chapters 10, 11, and 12 to estimate the value of
+  an equity share in your firm after properly adjusting for dates and other issues elaborated on in Chapter
+  14.
+  Finally, set up a sensitivity matrix in which you show the effect on your estimate of the value of an
+  equity share of increasing and decreasing your assumptions. For example, increasing or decreasing
+  your assumed WACC by 1% and by 2% while also increasing or decreasing your assumed sales
+  growth rate by 1% and by 2%. Also, consider effects of operating PM and operating ATO at a
+  minimum.
+Valuation Project Write-up
+This preparation of the spreadsheet for the group valuation project is the anchor of the course. The write-
+up allows you to discuss the steps taken, issues encountered, and things learned. Your team submission
+will be composed of four deliverables:
+      •   Valuation spreadsheet: constructed throughout the course
+      •   Executive summary
+      •   Full report: Ideally written “as you go” throughout the course (details below)
+      •   Listing of issues: any items arising in the analysis of your company that were not covered in the
+          textbook
+If you write the full report and the list of issues as you go, there will be very little that remains to be
+completed after week 7. Stay current!
+Executive Summary
+Prepare a single-page (500 word maximum) summary of your analysis and the results/conclusions as
+though it is being submitted to your supervisor for review. The document should contain the following
+header followed by the company analysis.
+“Company Name – LastName1, LastName2, etc.                                                         Spring 2019”
+Full report
+The full written report is best thought of as a series of small write-ups detailing aspects of the analysis of
+your company. Overall, you are attempting to communicate 1) that you completed the required analysis at
+each point, 2) an understanding of the implications of each step and any assumptions required, and 3)
+what additional tasks would be investigated/completed if this was expanded in time/effort beyond being a
+course project.
+The following is designed to help you envision what might be contained in your report. Each element
+written-up should be brief (no more than 2 pages). Any supporting charts, spreadsheets, and exhibits
+                                                         10                           Spiller, ACC 327, Spring 2020
+
+
+should be referenced and included at the end of the report. Please clean up all exhibits and appendices
+so they are presented in good form and consistently formatted (i.e., do not append exhibits haphazardly
+to your written report). Except as noted below, not every step / decision / issue has to be covered in your
+write-up (focus on what you believe to be most important). As a starting point, you might choose to cover
+the following questions:
+     •    Chapter 1 (Required)
+          What are the primary issues that are expected to impact the valuation of a company in your
+          industry? Also, note the most crucial differences identified between your company and its
+          competitors.
+     •    Chapters 3, 4, and 5
+          Did anything severely affect your ability to reformulate the financial statements and adjust the
+          accounting of your company? Your attachments should include the reformulated financial
+          statements you have prepared.
+     •    Chapters 6 and 7
+          Were any significant items noted in your ratio analysis that impacted your subsequent forecasts?
+          What is the most critical forecast? Which forecasts have the most and least confidence? If
+          particular issues arose during forecasting, discuss what you encountered and the method used to
+          resolve.
+     •    Chapter 8 (Required)
+          Which multiples would be most appropriate for your company/industry? Which companies you
+          would consider as comparables? Discuss the level of comfort you would have investing your own
+          funds based on an analysis of these multiples for your company and members of its industry.
+     •    Chapter 9
+          Were any issues encountered in estimating cost of capital? What are the most critical
+          assumptions made in estimating cost of capital for operations for your company? What is your
+          level of comfort with the estimate you used in the valuation exercise?
+     •    Chapters 10, 11, and 12
+          What issues did you encounter in building your spreadsheets for the free cash flow, residual
+          operating income, and abnormal operating income growth valuation models? Identify any issues
+          encountered in arriving at exactly the same value across models.
+     •    Chapter 13
+          Which model would your team choose to employ in practice for your company? What concerns
+          do you have about having achieved steady state? Are there additional steps that could be taken
+          to minimize issues were you to have additional time/resources available?
+     •    Chapter 14 (Sensitivity Required)
+          How does the estimated equity value compare to the market value observed? What do you
+          believe drove the difference observed? What factor appears to be the most important driver
+          based on your sensitivity analysis? At a minimum, you should consider sensitivity to operating
+          PM, operating ATO, steady state growth, and WACC in the sensitivity matrixes you prepare.
+Remember, please cut out all extraneous material and do not include filler or fluff. In the end it is quality,
+not quantity, which counts.
+A list of references should be included as part of your written report. Citations within your document may
+be informal such as “2018 10-K page 74”. However, do not under any circumstances cite or copy
+material from other sources without attribution.
+                                                        11                         Spiller, ACC 327, Spring 2020
+
+
+Listing of Issues
+Indicate group members, company name, and the issues noted in studying your company that were not
+addressed in the textbook. Please know that I may follow up for more clarification on some items. Many of
+the side notes in the current textbook arose from prior students’ projects. (Yes, this is a part of gathering
+information for the next edition!)
+Submission
+     •   The underlying valuation spreadsheet should be submitted electronically. Prior to submission,
+         ensure that the file opens with links and calculations working correctly (Excel online or Google
+         spreadsheets sometimes have issues).
+     •   Your executive summary, full report (typed and double-spaced text), and listing of issues should
+         be submitted both electronically (pdf preferred) and a hard copy hand delivered to Crow 373.
+     •   Submissions are due by 5pm on May 2nd. Early submission is encouraged.
+Keys to Success
+     •   Stay current on the spreadsheet and write-up
+     •   Seek help from professor rather than spinning your wheels
+     •   Understand each element of the project since it will be directly tested on the final
+The following rubric will provide insight into what is sought in the written reports comprising the final
+project submission.
+                                                        12                        Spiller, ACC 327, Spring 2020
+
+
+Accounting-Based Valuation Project Grading Rubric                                                                                                        Spiller – McCombs – ACC 327
+ Goals and learning objectives: Communication: Students communicate effectively and professionally
+                                Application: Students apply methods of analysis appropriately
+                                Critical Thinking: Students clarify, frame, challenge and synthesize ideas and information
+                                                                                         Exceeds                                Meets                         Below Expectations
+                    Points    Points               Exceptional                         Expectations                          Expectations                      and Unacceptable
+                   Possible   Earned                  100%                               85-95%                                70-80%                           65% and below
+                                       Appears neat & organized;            Generally logical but occasionally    Skips around, but addresses all     Haphazard; difficult to follow;
+    Organization
+                                       logical; no spelling or grammar      skips around; few lapses in           the points; occasional lapses in    several grammar and/or spelling
+                      4                errors; uses active voice; guides    grammar or spelling; generally        grammar and spelling; reader        errors; generally sloppy in
+                                       the reader through to the point.     guides the reader.                    must work to follow the train of    appearance.
+                                                                                                                  thought.
+                                       Summarizes the facts and             Demonstrates an understanding         Generally understands the facts     Does not recognize the facts and
+  Facts and                            assumptions completely; key          of most facts and assumptions;        and assumptions; does not           assumptions and does not
+ Assumption           5                facts and assumptions identified;    generally recognizes that             distinguish between facts and       demonstrate an understanding
+      s                                distinguishes between facts and      assumptions that are most             assumptions; recognizes some        of them; challenges nothing.
+                                       assumptions.                         critical.                             items that should be challenged.
+                                       Presents an insightful and           Generally analyzes all the issues     Analysis is superficial; treats     Appears lost; does not
+                                       thorough analysis of all issues;     in light of the methods identified,   some issues as “given” when a       understand the issues sufficiently
+  Discussion                           presents persuasive arguments        but does not connect in some          challenging analysis is required;   to be able to connect them to
+                      8                directly relating the facts to the   areas; arguments are not always       arguments are not well              the methods identified and
+ and Analysis                          issues and clearly tying them to     persuasive and leave some work        supported; arguments are one-       evaluate them; does not
+                                       the methods developed in the         to the reader to connect the          sided and do not address            understand the project.
+                                       course.                              dots.                                 alternatives.
+                                       Provides all necessary materials     Provides most necessary               Some of the necessary materials     Materials to support the
+                                       to support discussion and            materials to support discussion       to support discussion and           discussion and analysis are not
+                                       analysis; materials are organized    and analysis; materials are           analysis are provided; materials    adequate; materials appear
+ Supporting                            and presented consistently;          generally organized and               are presented consistently, but     thrown together rather than
+                      8
+                                       reader can easily determine what     presented consistently; reader        not organized; reader must          uniform; reader is unsure why
+  Materials                            is contained and the source of       needs to determine what is            determine reason for inclusion.     items are included.
+                                       information.                         contained and the source of
+                                                                            information.
+                                       Conclusions follow from the          Conclusions generally follow          Some conclusions follow from        Conclusions are unsupported;
+                                       analysis; they are logical and       from the analysis but support is      the analysis, but not clearly;      they do not follow logically from
+    Conclusion
+                                       supported; there is no hedging       not fully integrated into the         conclusions are “hedged” with       the analysis.
+                      5
+                                       and no part of conclusions are       conclusions; leaves some work to      new issues or alternatives not
+                                       unsupported.                         the reader; offers some               previously addressed.
+                                                                            unsupported conclusions.
+                                                             13                          Spiller, ACC 327, Spring 2020
+
+

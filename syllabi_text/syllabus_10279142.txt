@@ -1,0 +1,339 @@
+                                              Texas Applied Arts
+                                    DIGITAL FABRICATION – SPRING 2020
+                   TD 354T (unique #26040) – AET 329J (unique #20875) – TD 388L (unique #26225)
+INSTRUCTOR          J.E. JOHNSON
+:
+E-MAIL:             jjohnson@texasperformingarts.org
+OFFICE HOURS:       Thursdays 9:00-11:00am
+CLASS:              Monday and Wednesday 9:30 – 11:00 am
+LOCATION:           Hatchery PAC 3.2045A and other locations as specified
+WEBSITE:            http://sites.utexas.edu/appliedarts/
+COURSE DESCRIPTION
+Digital Fabrication will focus on specific skills and habits of mind associated with the craft of making physical
+objects by way of computer aided design (CAD) and computer numeric controlled (CNC) machines. Though digital
+fabrication is a very broad field we will cover only: fused filament fabrication (FFF) 3D printing, laser cutting, CNC
+routing, and vinyl cutting. We will use these tools in a rapid and iterative process to create, evaluate, and improve
+upon functional objects. Though previous experience in any handicraft or computer design application will be
+beneficial, the course is designed for each student to grow from their existing strengths and interests.
+This course will work with small teams from AET Design Studio taught by Michael Baker and Kyle Evans. Using
+knowledge and skills from the first half of the semester, we will develop fabrication solutions for interactive
+experiences.
+LEARNING OUTCOMES
+Within the context of Digital Fabrication as described above, students will be evaluated their growth in the
+following areas of learning.
+     1. Demonstrate methods to acquire and adapt existing 3D designs.
+     2. Identify processes, materials, and joining techniques to create durable objects.
+     3. Choose appropriate surface treatments for cardboard, plastics, and wood.
+     4. Discriminate between digital design applications and fabrication processes to develop workflows specific to
+        needs of desired outcomes.
+     5. Design fabrication solutions with an intentional, iterative process.
+     6. Develop effective collaborative relationships with peers and instructors to build and install a public exhibit.
+
+
+TEXTBOOKS, SUPPLIES, AND MATERIALS
+Textbook - REQUIRED
+Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists. by Dustyn Roberts.
+Supplies - Every student should own these items
+     § Computer capable of running Fusion 360
+     § SD Card – 8 GB to 32GB more. BIGGER IS NOT BETTER! Needed to transfer files to the 3D printers in The
+         Hatchery. ($10 or less)
+     § USB Flash Drive – 8 GB or more. Needed to transfer files to equipment in The Foundry. ($10 or less)
+     § 3-button mouse with scroll wheel – efficient use of software will require functionality of scroll wheel and
+         right clicks. ($10 - $50)
+     § 6 inch digital calipers – Need to take precise measurements of materials and troubleshoot fit issues. Also
+         convenient way to convert inches to millimeters. ($10 - $20)
+Project materials
+There will be a selection of no-cost materials available to students including
+     § various wood and metal stock
+     § plastics, paper, and plywood suitable for laser cutting
+     § 3D printing filament
+     § hardware, electronics, etc. found in Hatchery or Automation Lab
+Final project materials
+After student teams are assigned each team will have access to a budget to purchase materials. Amount TBA.
+Materials requests must be made in writing on team Trello board. If a student chooses to purchase out of pocket
+no reimbursement can be made.
+Completed final projects will remain the property of the University of Texas and may be used for future exhibition.
+With instructor consent, components owned by the student that can reasonably be removed from the project
+(e.g. micro controllers, servos, etc.) may be returned to the student after the final day of class. Students use these
+items at their own risk. Damaged or lost items cannot not be replaced.
+SOFTWARE
+Digital Fabrication is not 3D modeling course nor does it require previous experience in 3D modelling. However,
+we are going to use a few different 3D modeling tools to manipulate and modify existing models. To do this, all
+students should install some software on your computer. All required software is free to students and the system
+requirements are modest.
+Required
+Autodesk Fusion 360 – We will be using Fusion 360 to create and edit our designs.
+Slicer for Fusion 360
+Meshmixer – Prepare 3D prints
+Cura – Software required to operate 3D printer
+RetinaEngrave v3.0 – Full Spectrum Laser design and control software
+Optional
+Adobe Illustrator, Vectorworks, AutoCAD, Pepakura, others with instructor consent
+1/20/20 9:00 AM                                                                                                       2
+
+
+CLASS SCHEDULE
+As the course progresses we may choose to modify schedule to better facilitate student learning. Schedule
+modifications will be communicated to class via Canvas.
+Week      Date   Monday                          Date  Wednesday                    Assignment       Assignment
+                                                                                    Given            Due
+  1       1/20     Martin Luther King Jr Holiday 1/22  ONBOARDING                    – Roctopus on
+                                                        – Craft                        Lulzbot Mini
+                                                        – Additive / subtractive     – OH500
+                                                        – Materials – 3D Sketch
+                                                        – Software
+                                                        – Safety
+                                                        – Final project overview
+                                                        – Learning resources
+  2       1/27   DISCUSSION: Maker Culture       1/29  DISCUSSION: Design Cycle     – File Exports    – Rocktopus
+                 TOPIC: Filetypes and Workflows        TOPIC: Small and rapid         (STL, DXF, and    on Lulzbot
+                 PRACTICE: Orthographic                PRACTICE: Fusion 360           PDF)              Mini
+                 sketches                                                           – File Imports
+                                                                                      (STL)
+                                                       Roberts xi-xviii, 256-278
+                 Leah Buechley Who makes?              LinkedIn Learning Fusion 360
+                 Lynda Drawing Systems Ch 3            Ch 1 -3
+  3        2/3   DISCUSSION: Cardboard!          2/5   TOPIC: Tolerances and Slicer Laser joinery    – File Exports
+                 TOPIC: Laser cutting, nets,           PRACTICE: Laser                                 (STL, DXF,
+                 joints                                                                                and PDF)
+                                                                                                     – File Imports
+                                                                                                       (STL)
+                                                                                                     – Foundry 3D
+                 Roberts 34-38, 43-47                                                                  printer cert
+                 Surprisingly Awesome:                 LinkedIn Learning Fusion 360
+                 Cardboard                             Ch 4 -5
+  4       2/10   DISCUSSION: Plastics and        2/12  TOPIC: FFF supports          3D print         Laser joinery
+                    sustainability                     PRACTICE: Cura               problem
+                 TOPIC: FFF challenges                 PRESENTATION: Laser joinery
+                                                       assignments
+                 Lynda Meshmixer Intro - Ch 1
+                 PLA Filament video                    LinkedIn Learning Fusion 360
+                                                       Ch 6-7
+  5       2/17   DISCUSSION: Plywood             2/19  DISCUSSION: Craft            Low Poly Paper   3D print
+                                                       TOPIC: Combined processes                     problem
+                                                         and assembly
+                 History of plywood in ten             Instructables: Bulbasaur
+                 objects                               Bert Simons Website
+                 Plywood being made video
+                                                       Pye 17-29
+  6       2/24   TOPIC: Joints and Connections   2/26  TOPIC: CNC Router Operation  Paper Popup      Low Poly Paper
+1/20/20 9:00 AM                                                                                                     3
+
+
+                  Roberts 52-71
+  7        3/2    TOPIC: CNC Router Operation   3/4        TOPIC: Foldable Nets        CNC Joints         Paper Popup
+                                                           GUEST: Tim Ziegler
+                  Lynda: Fusion 360 Multibody -
+                  all                                      Instructables: Bulbasaur
+                                                           Bert Simons Website
+  8        3/9    TOPIC: RFPs from AET Studio   3/11       Project Planning                               CNC Joints
+                                                           Vinyl Cutter UT Foundry
+          3/16    SPRING BREAK                  3/18       SPRING BREAK
+  9       3/23    Group focused work            3/25       Group focused work
+  10      3/30    Group focused work            4/1        Group focused work
+  11       4/6    Group focused work:           4/8        Group focused work
+                  REVISIONS                                WORKING PROTOTYPE
+  12      4/13    Group focused work            4/15       Group focused work
+  13      4/20    Group focused work: FINAL     4/22       Group focused work
+  14      4/27    Group focused work            4/29       Group focused work
+  15       5/4    Tidy up                       5/6        Final documentation
+COURSE FORMAT
+Class time
+Sprint Meetings are critical to the success of projects. They are a time to assess progress, set specific sprint goals
+for the next week and address any new constraints.
+Lab use – PAC Safety and Stewardship
+Machine time on 3D printers, laser cutter, and CNC router will be reserved in two hour blocks on Canvas. CNC
+router will be available only during business hours Monday through Friday, 8am to 5pm
+Proximity card access to the Texas Performing Arts building and the Scenic Art Studio door 6am to 10pm daily. No
+one may work in the Hatchery, Automation Lab, or Scenic Art Studio alone outside standard working hours,
+Monday through Friday 8am to 5pm. Plan accordingly. The Loading Dock and Scenic Art Studio doors are armed at
+6:00pm. If the doors are left propped open, they will trigger a silent alarm, UT PD will arrive, and we will be fined.
+Security will be present on Bass Concert Hall event days. Please stay contained to the Hatchery or Automation Lab
+during these events. Failure to adhere to security policies may lead to expulsion from the course.
+Safety
+Students must wear the following safety equipment when working with the CNC Router:
+         • Safety Glasses or Goggles
+         • Dust Mask or Respirator
+         • Hearing Protection
+         • Closed Toe Shoes
+1/20/20 9:00 AM                                                                                                        4
+
+
+         Additionally, students must be cautious of any jewelry, loose fitting clothing, and long hair around all
+         machines. Students are not permitted to wear gloves while using machines. Students should not use
+         equipment with which they are unfamiliar. If you have a question, please ask. Do not use equipment if
+         you are under the influence of drugs or alcohol, hung over, sick, tired, or otherwise unfocused. Unsafe
+         behavior will not be tolerated and may result in expulsion from the class. Keeping the labs clean, putting
+         away tools and properly storing materials are important aspects of class safety. Proper shop maintenance
+         will be monitored and evaluated.
+Online Platforms
+Each member of the class has the responsibility to become proficient in the following online tools.
+• Canvas: This course management platform will be used to upload assignments and blog posts for peer
+   assessment.
+• Social Media: Students will be encouraged to post to social media to promote their work and network with
+   other makers using when appropriate. Course instructors will also promote student work on the Applied Arts
+   accounts. If you do not wish to have images of your face or project posted publicly please notify an instructor.
+              – YouTube https://www.youtube.com/c/TexasAppliedArts
+              – Facebook https://www.facebook.com/texasappliedarts
+              – Twitter https://twitter.com/utappliedarts
+              – Instagram https://www.instagram.com/utappliedarts/
+• UT Box: This is the UT supported cloud storage service. Any file necessary for the design, planning, or
+   production of raptor projects must be saved in the Raptor Class Share folder. Please maintain good filename
+   and folder hygiene and version control. https://utexas.box.com/v/digfab20-class-share
+1/20/20 9:00 AM                                                                                                     5
+
+
+ASSESSMENT AND LATE POLICY
+Only instructors of record will issue final grades. However, instructors will make judgments based on data
+gathered from self, peer, and professional performance appraisals to provide relevant feedback and scores.
+Final assignment points will be reduced 20% for every day late.
+Dependability and Readiness—80 points
+After teams are assigned, collaborators should arrive to meetings on time and ready to present a progress report
+with visuals and/or prototypes. Students attendance in class is not only for their own benefit. All teams will benefit
+from engaged respondents.
+Onboarding—15 points (satisfactory/no credit)
+     § 5 points: Safety Training
+     § 5 points: 30 second introduction video
+     § 5 points: Pre-course survey
+Clean up and Stewardship of workspace—15 points
+Attendance—50 points (56 possible)
+     § The class will depend on engagement from all members of the class.
+     § To incentivize attendance a single question quiz will be given. Quizzes count for 2 points each
+          (satisfactory/no credit).
+Assignments—80 points
+Skill builders—10 points each x 8 weeks (satisfactory/no credit)
+Engagement, Performance, and Growth—80 points
+Evaluation criteria will include key competencies including: goal setting, decision making and critical thinking,
+effective communication, problem solving, relationship management, analytical thinking, accuracy and attention
+to detail, producing results, flexibility and adaptability, teamwork, quality of failure, and followership.
+     § 40 points: (5 points midterm + 35 points final) Self Evaluations
+     § 40 points: (5 points midterm + 35 points final) Instructor Evaluation
+Final Project—80 points
+     § 20 points: execution
+     § 20 points: participation
+     § 20 points: peer evaluation
+     § 20 points: documentation
+  Grading            This course is project based. There will be no exams.
+                     Grading breakdown:
+                     Each assignment will be graded according the following rubric:
+                     Final grades will be determined using the following grade distribution. Please note: to ensure
+                     fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus, a B-
+                     will be inclusive of all scores of 80.000 through 83.999. The University does not recognize the
+                     grade of A+.
+1/20/20 9:00 AM                                                                                                       6
+
+
+                  A = 94-100             B+ = 87-89          C+ = 77-79          D+ = 67-69           F = 0-60
+                  A- = 90-93             B = 84-86           C = 74-76           D = 64-66
+                                         B- = 80-83          C- = 70-73          D- = 60-63
+  Professionalism Professionalism is expected of all students and includes attending class during scheduled
+                  meeting times, communicating clearly, respecting peers, and taking the class seriously.
+                  However, if you catch the flu, get a flat tire, or otherwise cannot attend class, please contact
+                  BOTH the instructor and TA, and attach any class work as needed.
+  UT Electronic   Electronic mail (e-mail) is a mechanism for official University and instructor communication to
+  Mail            students. Students are expected to check e-mail on a frequent and regular basis in order to
+  Notification    stay current with University- and course-related communications, recognizing that certain
+  Policy          communications may be time-critical. It is recommended that e-mail be checked daily, but at a
+                  minimum, twice per week.
+                  It is the responsibility of every student to keep the University and instructor informed of
+                  changes in his or her official e-mail address (do so at
+                  https://utdirect.utexas.edu/utdirect/bio/address_change.WBX). Consequently, e-mail returned
+                  to the University with "User Unknown" is not an acceptable excuse for missed communication.
+                  Similarly, undeliverable messages returned because of a full inbox or use of a spam filter will be
+                  considered delivered without further action required of the University or instructor.
+                  (see http://www.utexas.edu/cio/policies/university-electronic-mail-student-notification-policy)
+  Use of Class    The materials used in this class, including, but not limited to, exams, quizzes, and homework
+  Materials       assignments are copyright protected works. Any unauthorized copying of the class materials is
+                  a violation of federal law and may result in disciplinary actions being taken against the
+                  student. Additionally, the sharing of class materials without the specific, express approval of
+                  the instructor may be a violation of the University's Student Honor Code and an act of
+                  academic dishonesty, which could result in further disciplinary action. This includes, among
+                  other things, uploading class materials to websites for the purpose of sharing those materials
+                  with other current or future students.
+                  (from https://wikis.utexas.edu/display/coursematerials/Sample+Use+Statement+for+Syllabus)
+  Religious       Section 51.911 of the Texas Education Code states that a student shall be excused from
+  Holidays        attending classes or other required activities, including examinations, for the observance of a
+                  religious holy day, including travel for that purpose. A student whose absence is excused under
+                  this subsection may not be penalized for that absence and shall be allowed to take an
+                  examination or complete an assignment from which the student is excused within a reasonable
+                  time after the absence. University policy requires students to notify each of their instructors at
+                  least fourteen days prior to the date they will be absent from scheduled classes to observe a
+                  religious holy day.
+                  (from http://www.utexas.edu/provost/policies/religious_holidays/1555_001.pdf)
+  Copyright and Understanding the basic principles of copyright and fair use is of critical importance to
+  Fair Use        designers. Many of the uses we will make of texts, images, and videos this semester will be
+                  covered by the doctrine of fair use. However, as creators, you need to be aware of your own
+                  and other copyright holders’ legal rights, and to properly identify and license your own and
+                  others’ works. We will discuss these issues during the semester as needed, but when you have
+                  questions about whether or when you can appropriate someone else’s work, a useful resource
+1/20/20 9:00 AM                                                                                                      7
+
+
+                is Georgia K. Harper’s Copyright Crash Course, available at http://copyright.lib.utexas.edu/.
+  Services for  The University of Texas at Austin provides upon request appropriate academic
+  Students with accommodations for qualified students with disabilities. For more information, contact
+  Disabilities  Services for Students with Disabilities (512-471-6259, ssd@austin.utexas.edu,
+  (SSD)         http://ddce.utexas.edu/disability/, or videophone 512-471-6644). Please provide
+                documentation of your needs during the first week of class, if possible, so that I can make the
+                necessary accommodations promptly.
+  Student       There are numerous free and/or low-cost support services available to students at UT. They
+  Support       include (but are not limited to) the following:
+  Services      Fine Arts Career Services (512-232-7333, utexas.edu/finearts/careers) provides a full range
+                of services and resources to support students and alumni.
+                The Undergraduate Writing Center
+                (512-471-6222, uwc.utexas.edu) helps students with every phase of writing assignments for
+                their courses.
+                The Sanger Learning Center (512-471-3614, utexas.edu/ugs/slc) provides study skills,
+                time-management, and note-taking courses.
+                University Health Services (512-471-4955, healthyhorns.utexas.edu) provides medical and
+                health promotion services for currently enrolled students and some non-students who are
+                officially enrolled in certain University programs.
+                The Counseling and Mental Health Center (512-471-3515, cmhc.utexas.edu) helps students
+                with their personal concerns so that they can meet the daily challenges of student life.
+  Emergency     Mass e-mails (in addition to sirens and fire alarms, when appropriate) will be used to provide
+  Procedures    students, faculty, and staff with information regarding potential threats to the safety and
+                security of the campus community. E-mails will also be used as a way to notify students,
+                faculty, and staff of emergency situations and keep them updated on the situation. Emergency
+                officials also have the ability to disseminate important information via text message directly to
+                the cell phones of users subscribed to the service. Please consider subscribing to this service at
+                https://utdirect.utexas.edu/apps/csas/text/main/.
+                (adapted from
+                http://www.utexas.edu/safety/preparedness/plans/EmergencyManagementPlan2013a.pdf)
+  Campus Carry As permitted by Texas state law, the concealed carry of handguns by permit holders is
+                generally allowed in outdoor areas, as well as buildings and spaces that are accessible to the
+                public. Permit holders are allowed to carry in classrooms. It is the responsibility of concealed-
+                carry license holders to carry their handguns on or about their person at all times while on
+                campus. “About” the person means that a license holder may carry a holstered handgun in a
+                backpack or handbag, but the backpack or handbag must be close enough that the license
+                holder can grasp it without materially changing position. The holster must completely cover the
+                trigger area and have enough tension to keep the gun in place if jostled. A license holder may
+                not carry a partially or wholly visible handgun on campus premises or on any university
+                driveway, street, sidewalk or walkway, parking lot, parking garage, or other parking area.
+                The open carry of handguns is not permitted on campus. Anyone who sees an openly carried
+                gun on campus should immediately call 911. (from https://campuscarry.utexas.edu/students)
+1/20/20 9:00 AM                                                                                                    8
+
+
+Risk Statement
+*Caution: Students participating in Department of Theatre & Dance classes do so at their own risk. As with any physical activity, there is
+always the chance of personal injury occurring during the normal conduct of Production Lab and Advanced Production Lab. The instructor is
+not responsible for student injuries or accidents, which may occur during the normal conduct of classes.
+Title IX:
+The University encourages affected individuals to promptly report incidents of sex and gender discrimination, sexual harassment, sexual
+assault, sexual misconduct, interpersonal violence, and stalking as provided in this policy. The University also encourages individuals who
+may have witnessed instances of prohibited conduct to report such information as outlined in this policy.
+Responsible employees of the University are required to promptly report incidents of prohibited conduct. The University will respond to all
+reports made under this policy. The University will conduct a prompt, fair, and impartial investigation and resolution for complaints and,
+where appropriate, issue remedial measures and/or sanctions.
+Please be advised that I am considered a “responsible employee” at UT. As such, I am required to report any incidents of sexual
+harassment or assault to the UT Title IX Coordinator. If you would like to have a confidential conversation about sexual misconduct, please
+contact the UT Counseling and Mental Health Center at (512) 471-3515 to schedule an appointment. The CMHC crisis line is (512) 471-CALL
+(2255) . You may also call Austin SafePlace 24/7 at (512) 267-SAFE (7233).
+http://www.utexas.edu/its/policies/emailnotify.html.
+Q drop Policy: The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As stated in
+Senate Bill 1231: “Beginning with the fall 2007 academic term, an institution of higher education may not permit an undergraduate
+student a total of more than six dropped courses, including any course a transfer student has dropped at another institution of higher
+education, unless the student shows good cause for dropping more than that number.”
+Changes:
+This syllabus is subject to change upon the discretion of the instructors.
+1/20/20 9:00 AM                                                                                                                             9

@@ -1,0 +1,135 @@
+                        THE UNIVERSITY OF TEXAS AT AUSTIN
+            M E F361F RADIATION & RADIATION PROTECTION LAB
+                      M E F390N HEALTH PHYSICS LABORATORY
+                                             Summer 2019
+                                            May 22 - June 4
+                                              SYLLABUS
+UNIQUE NUMBER:             76575/76635
+INSTRUCTOR:                Dr. Sheldon Landsberger s.landsberger@mail.utexas.edu
+                           Dr. William Charlton wscharlton@austin.utexas.edu
+TIME:                      Lectures: 11:00 to 1:30
+                           Labs: 1:30 to 5:00
+PLACE:                     Lectures: NETL Annex
+                           Labs: NETL Laboratories
+TEACHING ASST.:            Ryan Lester : ryanlester10@sbcglobal.net
+WEB PAGE:                  http://canvas.utexas.edu
+OFFICE HOURS:              NETL
+                           10:00 to 11:00
+OBJECTIVES:
+    At the end of the course students should be able to:
+    • Explain how a radiation detector works
+    • Design photon and neutron shields
+    • Put together electronics for radiation detector system
+TEXT:
+Measurement and Detection of Radiation, Third Edition by N. Tsoulfanidis and S. Landsberger
+Radiation Detection and Measurement, G.F. Knoll (optional)
+GRADING:
+                           Minor Laboratory Reports          35%
+                           Major Laboratory Reports          35%
+                           Exam                              30%
+                           Total                             100%
+                           90-100%                    A
+                           85-90%                     B+
+                           80-84%                     B
+                           75-79%                     C+
+                           70-74%                     C
+                           65-69%                     D+
+                           60-64%                     D
+                           0-59%                      F
+                                                Page 1 of 4
+
+
+HOMEWORK POLICY:
+     1)       Homework for this class consists of laboratory write-up.
+     2)       Minor lab reports written up and kept in notebook.
+     3)       Major lab reports are written on computer based software.
+     4)       All labs (minor and major) are due one week after class ends.
+EXAMINATIONS:
+A final take home exam will be given that covers the material covered in class.
+CLASS FORMAT:
+This class will consist of daily lectures and laboratories.
+ATTENDANCE:
+Regular attendance is expected in this class. Students must talk to the instructor to account for missed
+classes.
+IMPORTANT DATES:
+See class schedule.
+KNOWLEDGE, SKILLS, AND ABILITIES STUDENTS SHOULD HAVE BEFORE ENTERING
+THIS COURSE:
+     • algebra, calculus, and differential equations
+     • introductory statistics
+     • general physics
+     • general chemistry
+     • strong communication skills in English
+     • strong computer skills
+IMPACT on SUBSEQUENT COURSES in CURRICULUM:
+This course provides a foundation for nearly all future courses in the nuclear program. These include
+radiation protection, radiation waste, health physics, and reactor theory.
+                                                 Page 2 of 4
+
+
+ABET EC2000 PROGRAM OUTCOMES ACHIEVED:
+This course contributes to the following ME Program Outcomes for ME (√).
+Outcome                                                  √       Outcome                                               √
+1. Knowledge of and ability to apply engineering         √       6. Ability to communicate in written, oral and        √
+and science fundamentals to real problems.                       graphical forms.
+2. Ability to formulate and solve open-ended                     7. Ability to work in teams and apply interpersonal   √
+problems.                                                        skills in engineering contexts.
+3. Ability to design mechanical components,                      8. Ability and desire to lay a foundation for         √
+systems, and processes.                                          continued learning beyond the baccalaureate
+                                                                 degree.
+4. Ability to set up and conduct experiments, and        √       9. Awareness of professional issues in engineering
+to present the results in a professional manner.                 practice, including ethical responsibility, safety,
+                                                                 the creative enterprise, and loyalty and
+                                                                 commitment to the profession.
+5. Ability to use modern computer tools in               √       10. Awareness of contemporary issues in               √
+mechanical engineering.                                          engineering practice, including economic, social,
+                                                                 political, and environmental issues and global
+                                                                 impact.
+ASME PROGRAM CRITERIA OUTCOMES ACHIEVED:
+Mechanical Engineering Criterion                                                                                     √
+a. Knowledge of chemistry and calculus-based physics with in-depth knowledge of at least one.                        √
+b. The ability to apply advanced mathematics through multivariate calculus and differential                          √
+equations.
+c. Familiarity with statistics and linear algebra.                                                                   √
+d. Ability to work professionally in both the thermal and mechanical systems areas including the
+design and realization of such systems.
+COMPUTER USEAGE:
+Laboratory data analysis will require the use of a computer. This includes the use of spreadsheets, plotting
+programs, statistics programs, browsers, document production programs, and specific course software.
+The paper for the class should be entirely composed in an electronic format.
+CLASS SCHEDULE AND OUTLINE:                     Listed on Canvas web site
+SPECIAL NOTES:
+The University of Texas at Austin provides upon receipt appropriate academic adjustments for qualified
+students with disabilities. For more information, contact the Office of the Dean of Students 471-6259, 471-
+4641 TDD or the College of Engineering Director of Students with Disabilities at 471-4321.
+Students should be aware that all required writing assignments may be submitted through a software
+program called Turnitin. Turnitin is a software resource designed to help students avoid plagiarism and
+improper citation. The software encourages original writing and proper citation documentation practices by
+cross-referencing submitted materials with an archived database of journals, essays, newspaper articles,
+books, and other published work.
+MEASUREMENT AND EVALUATION CENTER:
+Measurement and Evaluation Center forms for the College of Engineering will be used during the last week
+of class to evaluate the course and the instructor.
+Mid-way through the semester, an informal evaluation form will be presented to the class. The informal
+evaluation will be utilized by the instructor to adapt the class to the needs of the students.
+                                                   Page 3 of 4
+
+
+USE OF CLASS MATERIAL
+The materials used in this class, including, but not limited to, exams, quizzes, homework assignments, and
+lectures are copyright protected works. Any unauthorized copying of the class materials is a violation of
+federal law and may result in disciplinary actions being taken against the student. Additionally, the sharing
+of class materials without the specific, express approval of the instructor may be a violation of the
+University's Student Honor Code and an act of academic dishonesty, which could result in further
+disciplinary action. This includes, among other things, uploading class materials to websites for the
+purpose of sharing those materials with other current or future students.
+ACADEMIC INTEGRITY
+Each student in the course is expected to abide by The University of Texas Honor Code:
+“As a student of The University of Texas at Austin, I shall abide by the core values of the University and
+uphold academic integrity.”
+Plagiarism is taken very seriously at UT: Therefore, if you use words or idea that are not your own (or
+that you have used in a previous class), you must cite your sources. Otherwise you will be guilty of
+plagiarism and subject to academic disciplinary action, including failure of the course. You are responsible
+for understanding UT’s Academic Honesty and the University Honor Code which can be found at the
+following web address: http://deanofstudents.utexas.edu/sjs/acint_student.php
+                                                 Page 4 of 4

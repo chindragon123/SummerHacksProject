@@ -1,0 +1,325 @@
+                       Department of Accounting
+  ACC 311H -- Fundamentals of Financial Accounting: Honors
+                                    Fall 2019 Syllabus
+Instructor:                            Aysa Dordzhieva
+E-mail:                                Aysa.Dordzhieva@Mccombs.uTexas.edu
+Office:                                CBA 4M.230
+Office Hours:                          TBD – See Canvas
+Teaching Assistant: Yiying Chen yiying.chen@utexas.edu
+                        Cody Strynadka cms1996@utexas.edu
+TA Office & Office Hours:              TBD – See Canvas
+                                       Email questions are also encouraged and office
+                                       appointments can be set up via email.
+Class times and
+locations:                             Unique #02430 T/Th 9:30-11:00am CBA 5.328
+                                       Unique #02435 T/Th 11:00-12:30pm CBA 5.328
+                                       Unique #02440 T/Th 12:30-2:00pm CBA 5.328
+Required Materials and Equipment:
+             Textbook: Financial Accounting, 10th Edition, by Libby, Libby, and
+              Hodge, (ISBN: 978-1259964947, McGraw-Hill/Irwin, 2020). This is a
+              customized version packaged with Connect access.
+                  o On-Line Homework Manager: McGraw Hill Connect, packaged
+                       with the textbook. Follow this link once you have purchased the textbook:
+                       https://connect.mheducation.com/class/a-dordzhieva-fall-2019-tth
+       Calculator: A financial calculator is required for this course. A financial
+        calculator is one that has dedicated keys for convenience in working problems
+        involving the time-value of money. The keys typically are labeled N (number of
+        periods), I/Yr (required interest rate per period), PV (present value), PMT
+        (payment per period), and FV (single future payment amount). If you already
+        have such a calculator, you do not need to buy a new one. However, if you do not
+        already have such a calculator, you should buy an HP 10bII+. This calculator is
+        recommended by both the accounting and finance faculty of the McCombs School
+        of Business.
+       Note: You may NOT use calculators that have text memory (e.g. for programs) or
+        cell-phone calculators on quizzes or examinations. Examples of PROHIBITED
+
+
+        CALCULATORS are the TI-83, 84, 86 and 89. You may use simple 4-function
+        calculators if an exam or quiz does not require TVM calculations.
+Supplements
+       Certain Homework Solutions (will be made available on Canvas)
+       Instructor PowerPoint Slides and/or Notes (will be made available on Canvas)
+       Supplemental materials (will be made available on Canvas)
+       Canvas Website
+Objectives of the course: To learn the following:
+     A. The nature and purpose of accounting for businesses, with emphasis on
+           corporate business entities.
+     B. Accounting methods and their use as an orderly means of recording,
+           classifying, and presenting useful information from a mass of data derived
+           from transactions and events affecting businesses.
+      C. The basic language of business as represented by business and accounting
+           terminology.
+      D. The concepts and standards underlying the measurements used in accounting
+           to prepare the financial statements of businesses.
+      E. The use and interpretation of financial reports (i.e., income statements, balance
+           sheets, statements of stockholders’ equity, and statements of cash flows)
+           prepared for users external to businesses (i.e., owners, creditors, government
+           and investors).
+Quantitative Reasoning Flag
+    This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses
+    are designed to equip you with skills that are necessary for understanding the types
+    of quantitative arguments you will regularly encounter in your adult and professional
+    life. You should therefore expect a substantial portion of your grade to come from
+    your use of quantitative skills to analyze real-world problems.
+Course Conduct
+    I will conduct the course by giving lectures, facilitating solutions to in-class
+    exercises and conducting discussions in a manner that encourages class participation
+    by students, consistent with the objectives of the course and the time available.
+    Students are expected to study the chapter readings before topics are
+    introduced in class and do assigned homework questions, exercises and
+    problems to reinforce what they learn (you can’t effectively learn accounting
+    without doing exercises and problems).
+In-Class Participation
+    During most classes, I will discuss topics assigned for the day. The goal of my
+    presentations is to highlight important and/or complex aspects of the topics.
+    Although my presentations are likely to be structured in a way that develops topic-
+    content understanding, they are not intended to be the sole source for your learning.
+                                              2
+
+
+     The assigned textbook reading and problem-solving activities should also serve this
+     purpose. The textbook provides a comprehensive analysis of topics and covers a
+     wider range of topics in more detail than my presentations. You should regard my
+     presentations as opportunities to (i) refine the knowledge you acquired from the
+     readings, (ii) ask questions to resolve any confusion, and (iii) suggest observations
+     that will test and deepen your understanding of the topics. I strongly encourage
+     clarifying and probing questions. Your classmates will (usually) appreciate them if
+     for no other reason than to slow me down.
+Homework
+     Homework is assigned from the chapters we cover. As the name implies, homework
+     is meant to be completed outside of class. Textbook homework is further divided
+     into problems to be submitted for grading and problems that are neither submitted
+     nor graded. Graded questions are listed in bold-faced text on the Course
+     Schedule and are managed through the Connect system. Graded homework must
+     be completed individually, however you are permitted to collaborate with classmates
+     on figuring out how to structure the solution to assigned questions. Graded
+     homework is due by 12am on the day of class, and late homework will not be
+     accepted. Connect changes the numbers in the problem for each student, so the data
+     will differ from the textbook and your solution will not be the same as your
+     classmates’ solutions. Connect will grade these problems, provide solutions and
+     indicate areas where you need to do additional study.
+     No homework assignments can be dropped in computing the final homework
+     grade.
+If you have difficulty using Connect or encounter a problem with it please first try to
+resolve the problem with Connect Customer Support: 800.331.5094. If you have
+questions about how to solve the exercises or problems, please see your instructor or
+TA’s (listed above).
+In-class group work and quizzes
+    I plan to utilize in-class group assignments and quizzes (in or out of class). There
+    will be approximately 8-10 assignments during the semester. If you miss an in-class
+    assignment you will receive a zero for that assignment. No make-ups will be given
+    for missed points. If you leave class after taking the in-class assignment but before
+    the end of class, I reserve the right to discard any assignments for students not in
+    attendance for the entire class period. You MUST come to the section in which you
+    are officially registered to receive credit for an in-class assignment. I do not return
+    group assignments, but they are kept in my office and you may come and examine
+    yours and ask questions.
+Class Protocol
+    If for some reason you are running late, do not feel you should skip class. Please
+    come in quietly and take a seat at the side or in the rear of the classroom. If you must
+    leave class early, please tell me before class starts. I would appreciate it. Such
+                                                3
+
+
+   comings and goings during class should be rare—do not let them become a habit.
+   If you need to miss a class or other required activity, including an examination, for
+   any reason, please inform me as far in advance of the absence as possible, so that I
+   can approve the absence as excused and arrangements can be made to complete any
+   missed work within a reasonable time after the absence. If you miss a class or other
+   required activity, including an examination, for reasons beyond your control,
+   precluding prior notice, inform me of the circumstances as soon as you are able.
+   All forms of distracting behavior are prohibited. Cell phones, laptop, tablets, and
+   other electronic devices should be turned off unless instructed otherwise.
+E-mail and Canvas
+   The use of email and Canvas is required for this course. I will frequently
+   communicate with the class with announcements and guidance and I will answer
+   questions via email. When you email me, please be sure to include “ACC 311H”
+   in the subject line. Otherwise, your email might be screened out. I check my e-
+   mail at frequent intervals during weekdays and somewhat less regularly over
+   weekends. I will use the email addresses that are supplied to me on Canvas. They
+   are the email addresses that you have given the University for directory purposes. If
+   you need to update your email address with the University go to your UT Direct page
+   and, under personal info/all my addresses, change your email address. Before each
+   class, I will post on Canvas any PowerPoint slides I intend to use. You can print
+   them in handout style to save paper—either six slides to a page or, if you prefer, three
+   slides accompanied by note-taking space. It is your responsibility to regularly check
+   both your e-mail and the class website on Canvas.
+Grading Questions or Appeals
+   Do not wait until the end of the semester to question or appeal grade components
+   other than the final examination.
+   If you feel there exists a grading error on any of the grade components, or if you feel
+   you need to bring to the attention of our Teaching Assistant or me other facts or
+   circumstances that might affect the grade for that item, you will have ONE WEEK
+   from the date the grade is posted on Canvas to take such action and have the matter
+   resolved.
+Electronic Class Rosters & Privacy in Canvas
+   A recent opinion from the US Department of Education states that the University
+   must inform students in advance if their name will be appearing on an electronic class
+   roster: Since Fall 2001, web-based, password-protected class sites have been
+   available for all accredited courses taught at The University. Class e-mail rosters are
+   a component of the sites. Students who do not want their names included in these
+   electronic class rosters must restrict their directory information in the Office of the
+   Registrar, Main Building, Room 1. For information on restricting directory
+   information see: http://www.utexas.edu/student/registrar/catalogs/gi00-
+   01/app/appc09.html        Privacy in Canvas: Information in Canvas is protected by
+   your UTEID login. Please be aware that I will use a merged Canvas site for all
+   sections of the course that I am teaching this semester. This will allow students in
+                                               4
+
+
+   other sections to see that you are enrolled in the course and send you email from
+   within Canvas. However, they will not actually learn your email address and no other
+   personal data will be revealed through Canvas. If you have any concerns, please
+   contact the ITS Help Desk at 475-9400 for help removing your name from view of
+   other students.
+Academic Standards
+    A high academic level will be maintained with respect to (a) the quality of the course
+    and (b) grading. Semester grades will be determined using the following factors and
+    relative weights:
+               Homework                                                       10%
+               Two (non-cumulative) Midterms:
+                 First Midterm                                                20%
+                 Second Midterm                                               20%
+               Final Exam (comprehensive)                                     35%
+               Group assignments and quizzes                                  15%
+                                                                            100%
+   Course grades will be such that the class average will be in the range of 3.0 – 3.2.
+   Grades will be based on the total points earned in the course (as shown above).
+   You may assess your performance based on the traditional grade cutoffs of 90% = A-,
+   80% = B-, 70% = C-, 60% = D-, and below 60% = F. It is possible, but not
+   guaranteed, that we will curve grades at the end of the course. No grades will be
+   associated with scores on exams or quizzes during the semester. In addition, no
+   individual exam grades will be curved during the semester.
+   Incompletes will be given only in the RAREST of circumstances and only in
+   accordance with university policy. There will be no opportunity to raise your course
+   grade by doing “extra credit” work during or after the end of the semester—that
+   would violate University policy.
+Examinations
+   There will be two midterm examinations and a comprehensive final examination.
+    The Final Exam will be uniform (all sections at the same time) and comprehensive
+    (covering the entire course). It will NOT be given on the dates and times listed in the
+    UT course schedule. The actual dates and times will be announced later in the
+    semester. NO EXAMS WILL BE GIVEN EARLY. IF YOU MUST SCHEDULE
+    AIRFARE BEFORE THE EXACT DATE OF THE FINAL IS KNOWN PLEASE
+    DO NOT SCHEDULE TRAVEL BEFORE THE LAST DAY OF FINALS.
+    Examinations are individual work; no collaboration of any kind is allowed. All
+    exams are also closed book/notes. Calculators that can store text are not allowed.
+                                             5
+
+
+     Only students with conflicts with other UT classes or UT exams, medical or other
+     documented emergencies and special needs will be given exams at times other than
+     the uniform exams. If you have a job or extra-curricular activities at the times of the
+     exams, this is notice that you are responsible to be excused, miss or work around
+     those other activities. Individual makeup exams must be taken within 72 hours of
+     the original exam.
+     Unexcused absence from any examination will result in a score of zero. If you miss
+     an exam due to an illness or other emergency reason, you should notify me as soon
+     as possible and provide me with written documentation (e.g., a note from the
+     attending physician) after you return. I have final authority to determine if your
+     absence should be excused and if I can give you a make-up exam. If you have an
+     excused absence from a mid-term exam and I cannot give you a make-up exam, you
+     will receive extra weight on your final to compensate for the missed examination.
+     If you need to make early travel reservations for the end of the semester, you should
+     make them for travel on December 20th or later—because we will not know until
+     well into the semester exactly when our examination will be scheduled by the
+     University. If you make non-refundable (or non-cancelable) arrangements for travel
+     before December 20th they will not be an acceptable reason for taking the final exam
+     early.
+Dropping the Course
+    Students must go through the official procedures to drop the course. A student who
+    stops attending the class and fails to officially drop will receive a grade of F. Consult
+    the Academic Calendar on the Registrar’s website
+    (http://registrar.utexas.edu/calendars/) for specific deadlines.
+Students with Disabilities
+Students with disabilities may request appropriate academic accommodations from the
+Division of Diversity and Community Engagement, Services for Students with
+Disabilities, 512-471-6259, http://diversity.utexas.edu/disability/.
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days
+prior to the date of observance of a religious holy day. If you must miss a class, an
+examination, a work assignment, or a project in order to observe a religious holy day, you
+will be given an opportunity to complete the missed work within a reasonable time after
+the absence.
+Policy on Scholastic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty.
+The responsibilities of both students and faculty with regard to scholastic dishonesty are
+described in detail in the BBA Program’s Statement on Scholastic Dishonesty at
+http://my.mccombs.utexas.edu/BBA/Code-of-Ethics. By teaching this course, I have
+agreed to observe all faculty responsibilities described there. By enrolling in this class,
+you have agreed to observe all student responsibilities described there. If the
+                                               6
+
+
+application of the Statement on Scholastic Dishonesty to this class or its assignments is
+unclear in any way, it is your responsibility to ask me for clarification. Students who
+violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University.
+Since dishonesty harms the individual, all students, the integrity of the University, and
+the value of our academic brand, policies on scholastic dishonesty will be strictly
+enforced. You should refer to the Student Conduct and Academic Integrity website at
+http://deanofstudents.utexas.edu/conduct/ to access the official University policies and
+procedures on scholastic dishonesty as well as further elaboration on what constitutes
+scholastic dishonesty.
+Campus Safety
+Please note the following recommendations regarding emergency evacuation, provided
+by the Office of Campus Safety and Security, 512-471-5767,
+https://preparedness.utexas.edu/:
+     Occupants of buildings on The University of Texas at Austin campus are
+        required to evacuate buildings when a fire alarm is activated. Alarm activation
+        or announcement requires exiting and assembling outside.
+     Familiarize yourself with all exit doors of each classroom and building you may
+        occupy. Remember that the nearest exit door may not be the one you used when
+        entering the building.
+     Students requiring assistance in evacuation should inform the instructor in
+        writing during the first week of class.
+     In the event of an evacuation, follow the instruction of faculty or class
+        instructors.
+     Do not re-enter a building unless given instructions by the following: Austin Fire
+        Department, The University of Texas at Austin Police Department, or Fire
+        Prevention Services office.
+Behavior Concerns Advice Line (BCAL): 512-232-5050 or on-line.
+In case of emergency, further information will be available at:
+http://www.utexas.edu/emergency.
+                                               7
+
+
+      2019                                                 Topic/Pre-Class Reading                                                     Homework, Quizzes & Exams
+8/29  Th   Course Introduction
+9/3   T    Ch 1: Financial Statements and Business Decisions (LLH: 1, A)
+9/5   Th   Ch 2: Investing and Financing Decisions (LLH: 2)
+9/10  T    Ch 2: Investing and Financing Decisions
+9/12  Th   Ch 3: Operating Decisions and the Income Statement (LLH: 3)                                                     Chapter 3 Connect HW Pre
+9/17  T    Ch 3: Operating Decisions and the Income Statement                                                              Chapter 3 Connect HW
+      Th   Ch 4: Adjustments and Financial Statements (LLH: 4)                                                             Chapter 4 Connect HW Pre
+9/19
+9/24  T    Ch 4: Adjustments and Financial Statements                                                                      Chapter 4 Connect HW
+9/26  Th   Ch 11: Owner’s Equity (LLH: 11)                                                                                 Chapter 11 Connect HW Pre
+10/1  T    Ch 11: Owner’s Equity                                                                                           Chapter 11 Connect HW
+10/3  Th   Catch-Up Day
+10/8  T                                                                                                                    Exam I
+10/10 Th   Ch 6: Reporting and Interpreting Sales Revenue, Receivables, and Cash (LLH: 6, A)
+10/15 T    Ch 6: Reporting and Interpreting Sales Revenue, Receivables, and Cash                                           Chapter 6 Connect HW
+10/17 Th   Ch 7: Reporting and Interpreting Cost of Goods Sold and Inventory (LLH: 7)                                      Chapter 7 Connect HW Pre
+10/22 T    Ch 7: Reporting and Interpreting Cost of Goods Sold and Inventory                                               Chapter 7 Connect HW
+10/24 Th   Ch 8: Reporting and Interpreting Property, Plant, and Equipment; Natural Resources; and Intangibles (LLH: 8, A) Chapter 8 Connect HW Pre
+10/29 T    Ch 8: Reporting and Interpreting Property, Plant, and Equipment; Natural Resources; and Intangibles             Chapter 8 Connect HW
+10/31 Th   Ch 9: Reporting and Interpreting Liabilities (Financial Calculator) (LLH: 9)                                    Chapter 9 Connect HW Pre
+11/5  T    Ch 9: Reporting and Interpreting Liabilities                                                                    Chapter 9 Connect HW
+11/7  Th   Catch-Up Day
+11/12 T                                                                                                                    Exam II
+11/14 Th   Ch 10: Reporting and Interpreting Bonds (LLH: 10)
+11/19 T    Ch 10: Reporting and Interpreting Bonds                                                                         Chapter 10 Connect HW
+11/21 Th   Appendix A: Passive investments (LLH: A)
+11/26 T    Ch 12: Statement of Cash Flows (LLH: 12, B, C)                                                                  Chapter 12 Connect HW Pre
+11/28 Th   Thanksgiving Break
+      T    Ch 12: Statement of Cash Flows                                                                                  Chapter 12 Connect HW
+12/3
+
+
+ 12/5   Th     Extra Day for Cash Flows and Review
+               Final Exam
+We will try to stick to this schedule as much as possible, but please know that it is subject to adjustment
+                                                                     9
+
+

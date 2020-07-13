@@ -1,0 +1,228 @@
+                                     Mobile Computing (iOS)
+                                                 CS 371L
+                                             Summer 2019
+                           [85605]: MWF 11:30 am - 1:00 pm GDC 1.310
+Instructor:               Dr. William C. (Bill) Bulko (bulko@cs.utexas.edu)
+                          Office: GDC 4.308
+                          Phone: 512-471-7021
+                          Office Hours: posted at http://www.cs.utexas.edu/~bulko/
+Proctor:                  Zhiting Zhu (zhitingz@cs.utexas.edu)
+                          Office Hours: TBD
+Course Website: http://www.cs.utexas.edu/~bulko/2019summer/371L.html
+Course Prerequisites: Upper-division standing; experience with an object-oriented programming
+language such as C++ or Java. Credit with a grade of at least C- or registration in Computer Science 439
+or 439H.
+Course Textbook: None.
+University Calendar: Key dates are listed at http://registrar.utexas.edu/calendars/18-19.
+Course Objectives:
+      This course is an overview of mobile computing, with an emphasis on developing applications for
+      the iOS operating system. Students will complete a major project. Topics will likely include, but are
+      not limited to, the Xcode development environment, the Swift language, user interfaces, maps,
+      audio, networking, graphics, data storage, and localization. As part of the prerequisite, it is assumed
+      that you know an object-oriented programming language such as C++ or Java.
+Class Attendance and Participation Policy:
+      Your performance in this class will be determined by you! It will require a strong dedication to
+      learning the material, and may require a substantial time commitment to complete the semester
+      programming project.
+      • Class attendance is mandatory. You are expected to show up on time for class, and stay for the
+        whole lecture. Since there is no required textbook, the class lectures will often be your primary
+        source of information necessary to complete your homework assignments and project.
+      • Cell phones must be silenced and put away for the entire lecture unless use is approved by the
+        instructor. You may not make or receive calls on your cell phone, or send or receive text messages
+        during lectures.
+      • You are responsible for all material posted to the web site and sent as email. Ignorance of such
+        material is no excuse. You are responsible for all material presented in the lectures.
+      • Religious Holy Days: by UT Austin policy, you must notify me of your pending absence at least
+        fourteen days prior to the date of observance of a religious holy day. If you must miss a class, an
+        examination, a work assignment, or a project in order to observe a religious holy day, I will give
+        you an opportunity to complete the missed work within a reasonable time after the absence.
+      • Your conduct in class should be conducive towards a positive learning environment for your class
+        mates as well as yourself.
+                                                      1
+
+
+Grading Procedures:
+    Your performance in this class will be evaluated using your scores for 10 programming assignments
+    and artifacts associated with a semester programming project. Homework will be graded by the
+    TA, and the scores will be entered on Canvas. Check your scores regularly on Canvas to make sure
+    that we have entered them correctly. If you wish to dispute a grade, you have one week from the
+    date the grade is posted to do so. Send your TA an e-mail and see if you can resolve your
+    differences. If you cannot resolve your differences, you may send me an e-mail explaining the
+    situation. We will not entertain any grade disputes after one week.
+               Component                    Points
+     Homework assignments:
+        HW1                                   35
+        HW2                                   35
+        HW3                                   35
+        HW4                                   35
+        HW5                                   35
+        HW6                                   35
+        HW7                                   35
+        HW8                                   35
+        HW9                                   35
+        HW10                                  35
+     Semester Project:
+        Proposal Document                     65
+        Design Document                       75
+        Alpha Release                         100
+        Beta Release                          100
+        Final Release                         150
+        Project Journal                       160
+        (8 entries @ 20 pts each)
+     Total                                   1000
+    Due dates for each of the items in the above table will be posted on the course website.
+    Homework:
+    Homework is an individual effort, not a team assignment, and must be worked on individually.
+    Turn in your assignments on time. This permits grading to start promptly after the submission
+    deadline so that assignments maybe returned promptly. You can turn in homework assignments
+    up to 24 hours late for a 10% penalty, or up to 48 hours late for a 20% penalty. After 48
+    hours past the deadline, your assignment will not be graded and you will receive a zero.
+    For all assignments, a .zip file of the project folder must be submitted using Canvas. Remember to
+    keep a copy of your source code somewhere, unedited after you submit it. This will be useful
+    in cases where your program gets lost or corrupted, and the timestamp on the file can be used to
+    prove you completed the assignment on time.
+    Assignment Identification: All assignments must be submitted with the proper file name, in the
+    format LastnameFirstname-HW#.zip. (This format will be repeated in the assignment.)
+    Assignments which do not match the requirements will have the grade reduced by 5% of the
+    maximum grade.
+                                                      2
+
+
+Project:
+During the semester, you will work as part of a team to design and develop a mobile application on
+the iOS platfrormusing Swift. Over the course of the semester, there will be key checkpoints at
+which you will be expected to complete several deliverables:
+• Proposal Paper: a paper that describes the application your team intends to design and build.
+• Design Paper: a paper the visually illustrates the user interface of the application, along with
+  brief descriptions of each screen’s functionality.
+• Alpha Release: a preliminary release of your application illustrating the user interface, along with
+  partial functionality. A clear “work in progress”.
+• Beta Release: the second release of your application, demonstrating most of the application’s
+  functionality. An unfinished, unpolished version of your application.
+• Final Release: the final version of your project. Your team will create and deliver a Powerpoint
+  presentation to the class, along with a demo of the application.
+Project deliverables are a team effort, not individual assignments. Late project deliverables will
+not be accepted.
+Project Journal:
+In addition, you will be expected to maintain a Project Journal in which, on a weekly basis, you
+document overall progress on your project, your personal contribution, issues or challenges faced,
+and personal concerns about the project or team. Late journal entries will not be accepted.
+More detail on all deliverables, including requirements and grading criteria, will be provided in
+advance of each due date.
+Exams:
+There are no exams and no final exam for this course.
+                                                3
+
+
+      Final Grades:
+      A standard plus/minus system will be used to calculate final grades:
+            Percent          Letter Grade             Point Range
+              94+                   A                  940 - 1000
+            90 - 93                A-                   900 - 939
+            87 - 89                B+                   870 - 899
+            84 - 86                 B                   840 - 869
+            80 - 83                B-                   800 - 839
+            77 - 79                C+                   770 - 799
+            74 - 76                 C                   740 - 769
+            70 - 73                C-                   700 - 739
+            60 - 69                 D                   600 - 699
+             0 - 59                 F                    0 - 599
+Skills & Experience Flags:
+     This course carries the Independent Inquiry flag. Independent Inquiry courses are designed to
+     engage you in the process of inquiry over the course of a semester, providing you with the
+     opportunity for independent investigation of a question, problem, or project related to your major.
+     You should therefore expect a non-trivial portion of your grade to come from the independent
+     investigation and presentation of your own work.
+Academic Integrity:
+     University of Texas Honor Code: the core values of The University of Texas at Austin are
+     learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each member of
+     the university is expected to uphold these values through integrity, honesty, trust, fairness, and
+     respect toward peers and community. Each student in this course is expected to abide by this code.
+     Any work submitted by a student in this course for academic credit will be the student's own work.
+Study Groups
+      • Students may not acquire from any source (for example, another student or an internet site) a
+        partial or complete solution to a problem or project that has been assigned.
+      • This course will require you to collaborate on a semester project with some of your classmates.
+        You are free to openly discuss project specifications, interfaces, etc., with your teammates but
+        ultimately, your work must be your own.
+      • Helping a friend understand the intent of a homework assignment is permitted. Helping a friend
+        complete the assignment is not.
+      • Students who work together too closely (e.g. design their solution together) should be aware that
+        this is a form of cheating called collusion and is subject to academic penalties. Cooperation
+        should never involve one student having possession of a copy of all or part of work done by
+        someone else, in the form of an e-mail, an e-mail attachment file, a diskette, or a hard copy.
+                                                      4
+
+
+     • If you are unsure about how to work together with your friend in a legal, helpful manner, do come
+       and talk with us. Remember, it is always okay to "work together" with your professor or TA!
+     • You are responsible for turning in your own work on all individual assignments. Unauthorized
+       collusion is not allowed and constitutes a violation of the university's policies on academic
+       integrity.
+     • You are responsible for protecting your work from being copied by others. Should copying occur,
+       both the student who copied work from another student and the student who gave material to be
+       copied will both automatically receive a zero for the assignment. Penalty for violation of this
+       Code can also be extended to include failure of the course and University disciplinary action.
+     • Do not post solutions to any problems on Piazza.
+     The homework, programs, and exams must be the work of students turning them in. University
+     policy (see Dean of Students' policies on academic integrity) will be followed strictly. We will be
+     running a sophisticated program on all submitted assignments to detect plagiarism. If we do detect
+     any cases of academic dishonesty, we will assign a grade of F to all students involved and refer the
+     cases to the Dean of Students.
+     Acts that exceed the bounds defined by the approved collaboration practices will be considered
+     cheating. Such acts include:
+     • Copying solutions, code, or programs from someone else or giving someone else your solutions,
+       code, or programs
+     • Participation in a discussion group that develops a solution that everyone copies
+     • Posting your code to homework problems on Piazza or Facebook.
+     • Copying code from the internet (e.g. from Piazza or Facebook or other internet sites)
+     • Employing someone to write the solutions for you on homework assignment problems.
+    I urge everyone in the class to take appropriate measures for protecting your work. You should
+    protect your files, homework solution sheets, etc. as deemed reasonable.
+General University Notices and Policies
+    Use of E-mail for Official Correspondence to Students: All students should become familiar
+    with the University's official e-mail student notification policy. It is the student's responsibility to
+    keep the University informed as to changes in his or her e-mail address. Students are expected to
+    check e-mail on a frequent and regular basis in order to stay current with University-related
+    communications, recognizing that certain communications may be time-critical. It is recommended
+    that e-mail be checked daily, but at a minimum, twice per week. The complete text of this policy and
+    instructions for updating your e-mail address are available at http://www.utexas.edu/its/help/
+    utmail/1564 .
+    Documented Disability Statement: Any student with a documented disability who requires
+    academic accommodations should contact Services for Students with Disabilities (SSD) at (512)
+    471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not required to provide
+    accommodations without an official accommodation letter from SSD.
+     ▪ Please notify me as quickly as possible if the material being presented in class is not accessible
+       (e.g., instructional videos need captioning, course packets are not readable for proper alternative
+       text conversion, etc.).
+     ▪ Please notify me as early in the semester as possible if disability-related accommodations for field
+       trips are required. Advanced notice will permit the arrangement of accommodations on the given
+       day (e.g., transportation, site accessibility, etc.).
+                                                        5
+
+
+ ▪ Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video
+   phone) or reference SSD’s website for more disability-related information: http://
+   www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Behavior Concerns Advice Line (BCAL): If you are worried about someone who is acting
+differently, you may use the Behavior Concerns Advice Line to discuss by phone your concerns
+about another individual’s behavior. This service is provided through a partnership among the Office
+of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee
+Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call
+512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Q drop Policy: The State of Texas has enacted a law that limits the number of course drops for
+academic reasons to six (6). As stated in Senate Bill 1231:
+       “Beginning with the fall 2007 academic term, an institution of higher education may not
+       permit an undergraduate student a total of more than six dropped courses, including any course
+       a transfer student has dropped at another institution of higher education, unless the student
+       shows good cause for dropping more than that number.”
+Emergency Evacuation Policy: Occupants of buildings on the UT Austin campus are required to
+evacuate and assemble outside when a fire alarm is activated or an announcement is made. Please
+be aware of the following policies regarding evacuation:
+ • Familiarize yourself with all exit doors of the classroom and the building. Remember that the
+   nearest exit door may not be the one you used when you entered the building.
+ • If you require assistance to evacuate, inform me in writing during the first week of class.
+ • In the event of an evacuation, follow my instructions or those of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT
+Austin Police Department, or the Fire Prevention Services office.
+                                                  6

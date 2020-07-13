@@ -1,0 +1,534 @@
+                                              Title: Experimental Storytelling
+                                              Location: CMA 3.114
+                                              Professor Erin Reilly
+                                              Phone: 207-251-1617
+                                              Email: ebreilly@utexas.edu
+                                              Spring 2019
+                                              Office Hours: T 2-3 / TH 11:30-12:30
+                                              Office Location: BMC 5.306
+                                              Demo Location: CMA 6.154
+Course Description
+As the media landscape becomes populated with more and more screens—from television and computer
+screens to mobile displays, but also virtual reality headsets, other wearable devices, and a rapidly growing
+Internet of Things—we have quite literally a whole world of possibilities for creating experimental
+storytelling experiences. These technologies offer unique potential for creating new and different kinds of
+experiences, including ones that respond with increasing precision to people’s behavior and input. So how
+might these screens (and the ecosystem within which they function) change the stories we share, but also
+how we share them? What might be the next step beyond the screen?
+This course aims to introduce students to experimental storytelling that explores our senses, the physical
+and virtual world to create an immersive story experience. Using design thinking and human computer
+interaction, students will ideate, synthesize concepts, create user scenarios based on the story’s audience
+and develop a POC (proof of concept) for feedback and entry into becoming new creators.
+Recommended Texts
+     •    Andrea Phillips, A Creator’s Guide to Transmedia Storytelling (New York: McGraw-Hill, 2012)
+     •    Matt Madden, 99 Ways to Tell a Story (London: Penguin Books, Ltd, 2005)
+     •    Don Norman, Design of Every Day Things (New York: Basic Books, 2013)
+     •    Charlie Fink, Metaverse - an AR enabled guide to AR & VR (USA: Cool Blue Media, 2018)
+I may periodically post additional required readings to the class website at Canvas. These readings will be
+short articles in mainstream publications, such as newspapers and magazines, that help shed contemporary
+light on issues discussed in this course.
+Required Device
+     •    Mobile SMART phone, Computer and ability to record, edit and publish photos and videos.
+Course Learning Outcomes
+     ●    Expose students to new affordances of emerging media.
+     ●    Introduce students to different models of storytelling
+     ●    Encourage students to test out multiple forms of storytelling through their mobile device and
+          computer.
+
+
+Course Schedule: A Weekly Breakdown
+ Week     Topics/Daily Activities         Readings, Viewings &         Deliverable/ Due Dates
+                                               Homework
+  1    1/22: Introduction            Homework:
+                                       • Social Media Experiment -
+                                         @48moods | THEME: Who
+                                         Am I?
+                                       • Review 99 Ways to Tell a
+                                         Story
+                                       • Bring in your favorite
+                                         children’s story
+       1/24: What is Storytelling?   Homework:                      Social Media Experiment -
+        • Activity: Story Generator   • Social Media Experiment -   @48moods | THEME: Who
+        • Introduce Project #1:          @48moods | THEME: Your     Am I?
+          Screenlife (Solo Project)      Emotion
+                                      • Story Generator for Project
+                                         #1
+  2    1/29: Defining Character      Homework:                      Social Media Experiment -
+                                      • Social Media Experiment -   @48moods | THEME: Your
+                                         @48moods | THEME:          Emotion
+                                         Character
+                                      • Watch What is Screenlife?
+                                      • Share 1 example of a
+                                         Screenlife film to the
+                                         discussion.
+       1/31: Designing Character     Homework:                      Story Generator for Project
+        • Review Story Generator      • Social Media Experiment -   #1: Screenlife
+          for Project #1: Screenlife     @48moods | THEME:
+                                         Stimulate a Sense of       Social Media Experiment -
+                                         Wonder                     @48moods | THEME:
+                                                                    Character
+  3    2/5: Enter the Story          Homework:                      Social Media Experiment -
+                                      • Social Media Experiment -   @48moods | THEME:
+                                         @48moods | THEME:          Stimulate a Sense of Wonder
+                                         Human Touch
+       2/7: Guest Lecture            Homework:                      Social Media Experiment -
+        • Geoffrey Long, What is      • Social Media Experiment -   @48moods | THEME:
+          Transmedia Storytelling?       @48moods | THEME: An       Human Touch
+                                         Environment
+  4    2/12: Leveraging              Homework:                      DUE - Project #1:
+       Affordances                    • Social Media Experiment -   Screenlife – Post Film to
+                                         @48moods | THEME: A        Canvas
+
+
+                                    Soundscape
+                                • Watch Screenlife videos.      Social Media Experiment -
+                                • Critique 3 peer projects      @48moods | THEME: An
+                                    with rubric.                Environment
+  2/14: Sandbox Demos!         Homework:                        Social Media Experiment -
+  @CMA 6.154                   Social Media Experiment -        @48moods | THEME: A
+   • Review a variety of       @48moods | THEME: One of         Soundscape
+     applications to use       the 5 Senses
+   • Introduce Project #2:
+     Keep Austin Weird
+     (Teams of 2)
+5 2/19: New Screens            Homework:                        Social Media Experiment -
+   • Guest WORKSHOP: Rick      Social Media Experiment -        @48moods | THEME: One of
+     Harmon, The Story of      @48moods | THEME: A              the 5 Senses
+     Water                     Reaction
+  2/21: Sandbox Demos!         Homework:                        Social Media Experiment -
+  @CMA 6.154                   Social Media Experiment -        @48moods | THEME: A
+                               @48moods | THEME: A              Reaction
+                               Connection
+6 2/26: Sandbox Demos!         Homework:                        Social Media Experiment -
+   • Possible 3Data activity / Social Media Experiment -        @48moods | THEME: A
+     workshop                  @48moods | Unwanted              Connection
+                               Solicitation
+                                                                Social Media Experiment -
+  2/28: Sandbox Demos!         Homework:                        @48moods | THEME:
+  @CMA 6.154                   Social Media Experiment -        Unwanted Solicitation
+                               @48moods | Something left
+                               unfinished
+7 3/5: The Next Screen         Homework:                        Social Media Experiment -
+                               Social Media Experiment -        @48moods | THEME:
+                               @48moods | Agency                Something left unfinished
+  3/7: Guest Lecture           Homework:                        Social Media Experiment -
+   • Brent Friedman &          Social Media Experiment -        @48moods | THEME:
+     Francesca Marie Smith,    @48moods | A Behavior            Agency
+     Location-based
+     Storytelling
+8 3/12: Guest Workshop         Homework:                        Social Media Experiment -
+   • John Gaunt, Autonomous    Social Media Experiment -        @48moods | THEME: A
+     Vehicles & Storytelling   @48moods | Sense of Place        Behavior
+  3/14: Sandbox Demos!         Wrap up Project #2! Enjoy        Social Media Experiment -
+  @CMA 6.154                   your Spring Break! (3/17-3/23)   @48moods | THEME: Sense
+                                                                of Place
+                                                           Syllabus for COURSE-ID, Page 3 of 4
+
+
+ 9 3/26: Tangible Storytelling  Homework:                      DUE - Project #2: Keep
+                                Social Media Experiment -      Austin Weird – Post link
+                                @48moods | A Memory            for all to access experience
+                                                               to Canvas
+   3/28: Guest Lecture          Homework:                      Social Media Experiment -
+    • Chat with David Weiss &   Social Media Experiment -      @48moods | THEME: A
+      Mike Swinney              @48moods | Nostalgia           Memory
+    • Introduce Final Project:
+      The Nexus
+   3/30: San Antonio Field Trip
+   Experience Alamo "Battle for
+   Texas"
+10 4/2: No Class due to Field   Homework:                      Social Media Experiment -
+   Trip on 3/30                 Social Media Experiment -      @48moods | THEME:
+                                @48moods | A look to the       Nostalgia
+                                future
+   4/4: Pre-Production
+    • Conduct Market Research   Homework:                      Social Media Experiment -
+                                Social Media Experiment -      @48moods | THEME: A look
+                                @48moods | Something           to the future
+                                abstract
+11 4/9: Pre-Production          Homework:                      Social Media Experiment -
+    • Lightning Rounds          Social Media Experiment -      @48moods | THEME:
+    • Narrow in on Concept      @48moods | The Humor in…       Something abstract
+      Designs
+   4/11: Pre-Production         Homework:                      Social Media Experiment -
+    • Short Design Bursts of    Social Media Experiment -      @48moods | THEME: The
+      Mind Mapping & Crazy      @48moods | Underground         Humor in…
+      Eights
+12 4/16: Pre-Production         Homework:                      Social Media Experiment -
+    • Technical Review          Social Media Experiment -      @48moods | THEME:
+                                @48moods | Mainstream          Underground
+   4/18: Pre-Production         Homework:
+    • Review User Experience    Social Media Experiment -      Social Media Experiment -
+                                @48moods | The Unexpected      @48moods | THEME:
+                                                               Mainstream
+13 4/23: Production             Homework:                      Social Media Experiment -
+                                Social Media Experiment -      @48moods | THEME: The
+                                @48moods | Unexplained         Unexpected
+   4/25: Production             Homework:                      Social Media Experiment -
+                                                          Syllabus for COURSE-ID, Page 4 of 4
+
+
+                                          Social Media Experiment -           @48moods | THEME:
+                                          @48moods | The Best of Me           Unexplained
+  14    4/30: Production                  Homework:                           Social Media Experiment -
+                                          Social Media Experiment -           @48moods | THEME: The
+                                          @48moods | Tribe                    Best of Me
+        5/1: Production                   Homework:                           Social Media Experiment -
+                                          Social Media Experiment -           @48moods | THEME: Tribe
+                                          @48moods | In Motion (no
+                                          wheels)
+  15    5/7: Final Project                Homework:                           1-6 Teams - Final Projects
+        Presentations                     Social Media Experiment -           DUE! (10 minutes each MAX)
+                                          @48moods | Lost
+                                                                              Social Media Experiment -
+                                                                              @48moods | THEME: In
+                                                                              Motion (no wheels)
+        5/9: Final Project                Homework:                           7-12 Teams - Final Projects
+        Presentations                     Social Media Experiment -           DUE!
+                                          @48moods | The End                  (10 minutes each MAX)
+                                                                              Social Media Experiment -
+                                                                              @48moods | THEME: Lost
+Assignments
+   1. Social Media Experiment - @48moods | 25%
+      In numerology the number 48 resonates with creative expression, so nothing better than having a
+      class of 48 students in Experimental Storytelling develop a collective story together. Stories are
+      complex, yet simple; participatory, yet controlled; and unequivocally are visceral, can trigger
+      behavior and over time are reflective of our individual agency, our shared moment in time and the
+      culture that we live in. Using 99 Ways to Tell a Story as inspiration, your goal with each assignment
+      is to compose an original photo and haiku that best represents your personal take on the theme
+      proposed, then post it to @48moods on Instagram.
+      Haiku is a traditional form of Japanese poetry. Haiku poems consist of 3 lines. The first and last
+      lines of a Haiku have 5 syllables and the middle line has 7 syllables. The lines rarely rhyme. Many
+      people consider Haikus as unfinished poems, a poem that the reader finishes in his or her mind.
+      Often keeping a journal is encouraged in creative classes, a place to write down ideas, draw
+      images, and jot down potential projects. In a digital-first world, my choice for using @48moods as
+      a form of journaling is for you to learn to get a nugget of a story idea down quickly, to practice
+      being creative “in public” – giving way to better understanding how to pitch an idea in its simplest
+      form and have a chance for public to react immediately.
+      Over the course of the semester, sharing and commenting on each other’s work… the posts that
+      evoke a visceral, behavioral or reflective moment for you individually is encouraged. Be ready to
+                                                                         Syllabus for COURSE-ID, Page 5 of 4
+
+
+   share your comments on your own work as well as your peers… students will randomly be called
+   on each class to reflect on @48moods. For examples, see @erinbreilly.
+2. Solo Project - Screenlife | 15%
+   Screenlife is a new format of filmmaking and is a format that can tell the viewer a lot about who
+   you are. You’ll begin by watching an example of a Screenlife film, such as Unfriended or Searching
+   and post a review and what you’ve learned about this new genre to the discussion board. Then,
+   using the Story Generator, you’ll develop your own overall concept for a solo 2 minute film.
+   You’ll have two weeks to create and post your Screenlife film to Canvas. You can use tools like
+   Screenlife’s Recorder or feel free to choose other screen capturing tools and “fix it in post” if you
+   choose to go that route. Make sure to strongly define your character and use the different
+   techniques learned in class to generate a story that effectively uses the format of a computer
+   screen, mobile device or other, such as an augmented reality application.
+   Your project will be graded on an original theme, use of at least 2 different platforms to shape
+   the plot, use of character, action and a deep understanding of emotion and screen behavior to
+   help shape the story.
+3. Teams of 2 Project - Keep Austin Weird | 15%
+   In 2000, Wassenich phoned into KOOP Radio's The Lounge Show to donate money. When the radio
+   host asked why he was contributing, Wassenich replied, "I don't know. It helps keep Austin weird."
+   With that reply, a slogan was born, and Austin's international reputation for being weird, zany, and
+   slightly off-kilter was established. Keep Austin Weird has grown not only in notoriety but has
+   become the core ethos of Austinites to “buy local” and weird attractions only limited by one’s
+   imagination such as Chicken Shit Bingo at Ginny's Little Longhorn Saloon or the Museum of the
+   Weird. With this in mind, teams of 2 will identify a location, shape a story and share the funk that
+   helps Austin stay weird.
+   Your team will have X weeks to create this location-based story and post directions and a link to
+   Canvas for others to access. There are multiple tools and we will spend some time during the
+   production weeks to review these tools and others. Make sure your location-based experience is
+   shaped around story, and not just use of a location-based mobile application to deliver a service.
+   Using Google Maps as example, I’m not interested in google maps that offer detailed location
+   information (Austin Media Scene) and more interested in the use of a google map to shape story
+   (Google Earth Lit Trips).
+   Your project will be graded on an original location (no 2 teams can do the same location), use
+   of location-based story application, use of character, action and a deep understanding of
+   emotion to help shape the story.
+4. Final Project: The Nexus | 25%
+        Nexus:
+             • a means of connection; tie; link.
+             • a connected series or group.
+             • the core or center, as of a matter or situation.
+   We communicate to connect with other human beings. We communicate to express our feelings
+   or to share a story. We communicate to create a better world. Throughout our existence, humans
+   have developed new ways to communicate from grunts and groans to language to the printing
+   press and the internet. Every day students and faculty at Moody are discovering new ways to
+   communicate, new ways to make the human experience better. This new attraction designed into
+   the plaza creates an immersive interactive and compelling experience that not only showcases the
+                                                                    Syllabus for COURSE-ID, Page 6 of 4
+
+
+   people and work being done at Moody but gives visitors a chance to interact with these stories and
+   be inspired to find innovative ways to communicate to make their future, and everyone's better.
+   The Moody School of Communication is looking to re-energize the plaza at the center of their
+   facilities on campus. This plaza has always been a gathering place for students and now it will
+   become a true destination, a place where students, faculty and visitors can celebrate the work
+   being done at Moody as well as interact with the history of human communication itself. The
+   Nexus is a place to celebrate this, a place for people to gather, a place for people to experience this
+   innovative thinking first hand. In a world where we are more digitally connected than ever,
+   personal communication has receded. This new tech terrarium is a place for students, faculty and
+   the public to reconnect with each other, through the physical space and the technology in their
+   hands.
+   The goal of the Final Project is to fill the Plaza with a variety of activities and displays as well as
+   quiet places for students to gather and work. Visitors can flow easily from one area to the next,
+   exploring all the plaza has to offer. It also offers a new place of learning to extend the more
+   traditional classroom into a learning lab of the future. Throughout the plaza, visitors find several
+   interactive displays set up all based on the history of communication.
+   Student teams (team of 3 to 5 students each) will work as a production crew to develop one of
+   many experience zones for The Nexus by developing an interactive story experience. Teams will
+   choose one of the emerging mediums to design and develop a portfolio piece reflective of the
+   discussions and understanding of exploring experimental storytelling. Teams will use Slack as
+   means to collaborate on a production and show works in progress, teams will ideate, conduct
+   market research, design look and feel, create assets, build proof of concept to get across to
+   audience in a pitch an overview of the experience. This will be a working prototype.
+5. Demos @CMA 6.154 | 10%
+   The best way to understand the future of storytelling is to experience it; to immerse yourself.
+   Starting Week 4 through the rest of the semester, we will use CMA 6.154 as a lab to try out a
+   curated list of experiences. Each of you will be responsible to coordinate with the TA to arrange a
+   time for you to demo.
+6. Activities / Discussions | 10%
+   Weekly activities and discussions in the classroom as well as on canvas will be graded with a pass
+   or fail. This means, you participated and completed the work – pass; you didn’t -- fail. These
+   activities and discussions are some of the most valuable and interactive aspects of our course and
+   offers us an opportunity to share diverse insights, reflect and collaborate on the course concepts.
+   This is an outlet for exploratory learning and expressing ideas and perspectives beyond the
+   projects.
+   Please note that all activities, discussions and online posts should contribute something
+   meaningful to the content at hand. Each should demonstrate your understanding of, and reflection
+   on, the concept(s) while building on the ideas of other students and/or digging deeper into the
+   prompt offered by the professor.
+   In online discussions, you should avoid posts that merely compliment (e.g. "Interesting post...") or
+   support (e.g. "I agree with you...") another student's work. You will not be given credit for posts
+   that do not meaningfully contribute to the discussion or expand the conversation, as determined
+   by the instructor’s assessment.
+                                                                         Syllabus for COURSE-ID, Page 7 of 4
+
+
+Grades
+ The following table represents how you will demonstrate your learning and how we will assess the degree
+ to which you have done so.
+ Assignments                                           Points possible              Percent of Total Grade
+  1. Social Media Experiment - @48moods                            140                           25
+  2. Solo Project - Screenlife                                     15                            15
+  3. Teams of 2 Project - Keep Austin Weird                        15                            15
+  4. Final Project                                                 25                            25
+  5. Demos @CMA 6.154                                               5                            10
+  6. Activities / Discussions                                      15                            10
+  7. Extra Credit – Sign Up to Attend Imagine                       2                          Extra
+     Moody MeetUp & Write Medium Blog Post
+     (Monday 4-5pm BMC 3.206)
+                                                                   215                         100%
+Each student should keep track of his/her own grades. There are a total of 215 points possible in this
+course, and grades will be based on the following:
+     •    One Social Media Experiment - @48moods for 28 individual posts worth 5 points (similar to a 5
+          star rating) each for a total of 140 points.
+     •    Two projects (one solo and one with a partner) evenly weighted at 15 points each.
+     •    Participation in class and online consisting of 5 demo days and 15 weekly activities/discussions for
+          a total of 20 points.
+     •    A final project worth 25 points.
+Classroom Expectations
+ Class attendance
+ Attendance is required at all class, presentation, client and team meetings. We may also have a significant
+ number of meetings that are off site and/or outside the scheduled class time. There will be no excused
+ absences. Failure to attend any of these meetings will affect your grade and could reduce your final grade
+ by as much as two letter grades. Attendance means showing up to the class or meeting on time. Habitual
+ lateness will affect your grade.
+ Class participation
+ Teamwork: This course is primarily structured around teamwork. You will self-assign yourself to a pair and
+ a group, and the bulk of your work in the course will be carried out and evaluated based on these teams.
+ Teams will consist of varying personalities, skills and interests and you must find a way to manage these
+ differences. The ability to cooperate, to communicate and to work effectively is essential to creating
+ successful strategies and creative briefs, both in this class and in the real world. Once students have been
+ assigned to teams, I will not adjust the membership of these teams. Although I don’t anticipate any
+ problems, if issues do arise I expect you to resolve them yourselves, just as you would in a real-world job
+ situation.
+ Deadlines: This class simulates the real world, and in the real world, deadlines are non-negotiable. All
+ assignments must be handed in on time. Late assignments or projects will not be accepted and you will not
+ earn any points (i.e. you will receive a grade of 0) for that assignment. The usual litany of excuses (I slept
+ through my alarm, I missed the bus, I have a cold, my grandmother died) won’t work. In the real world,
+ failure to meet a deadline could result in you losing your job. Now is the time to practice time
+ management and adherence to deadlines.
+                                                                            Syllabus for COURSE-ID, Page 8 of 4
+
+
+Time management: This course is very demanding on your time. Your teammates in this class will judge
+you on how much, and the quality of, work you contribute to your class project. Do not lose track of what
+is most important.
+Communication: The primary way I will communicate with you outside of class is through canvas. You are
+responsible for making sure you get any messages from me and you are responsible for the content of
+those announcements. I may notify you via canvas about a change in meeting times or assignment
+deadlines. Failure to check your canvas does not excuse you from meeting the responsibilities outlined in
+the message. At a minimum, you should check your canvas once every day.
+Plagiarism: Everything you produce in this class must be your original work. If you have help from anyone
+outside this class it will be considered a breach of UT’s policy on Scholastic Integrity and will be dealt with
+accordingly.
+                                               Policies
+Classroom Policies
+Statement on Learning Success
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please let me
+know as soon as possible. Together we’ll develop strategies to meet both your needs and the
+requirements of the course. I also encourage you to reach out to the student resources available through
+UT. Many are listed on this syllabus, but I am happy to connect you with a person or Center if you would
+like.
+Grading Policies
+Weekly meetings and participation – LAB time:
+We will not meet during every scheduled class time. Instead, LAB time will consist of you meeting in your
+groups or out in the field workshopping the different methods or projects assigned. Your attendance,
+attitude, contribution and participation in these meetings and in the field will be assessed and will
+contribute to your final grade.
+Attendance and Professionalism
+Attendance at all classes and meetings is required. It is also assumed that students will be active
+participants in class. Simply being present in the room is not sufficient; you must also be engaged and
+involved scholars. Participation – not just attendance – is integral to a successful, enjoyable class and to
+you earning a high grade. Active participation means contributing to the discussion, listening to what your
+colleagues have to say and engaging with the readings and in-class activities. It means showing up on time,
+not checking Facebook or email on your computer, not texting on your phone. NOTE that if you do not
+participate in class discussions, you will not earn full points for attendance even if you come to every class.
+Peer Evaluations
+You will be asked to provide an assessment of your and your teammates' contributions to the
+Final project. They will be taken into account in final assignment of grades.
+Grading System:
+This class will be graded using the plus/minus grading system, as outlined by the university’s provost office
+(http://www.utexas.edu/provost/planning/plus-minus/). Advertising and PR majors are required to have a
+                                                                           Syllabus for COURSE-ID, Page 9 of 4
+
+
+ minimum grade of C in all communication courses and in all required and elective courses in order to
+ continue in the program.
+NOTES on Grading:
+     • Late work is not accepted.
+     • I will NOT be rounding up percentage grades or points. So if you earn an 89.6% that translates into
+        a B+ and will not be rounded up to 90% (an A-).
+     • Any questions or comments about a grade must be presented in writing within seven (7) days after
+        the grade is announced or posted.
+     • When I grade your work, you start with zero points. You earn points based on the quality of the
+        work and the accuracy, appropriateness and detail of your answers. You do not start with 100
+        points and then lose them based on mistakes you make. Your final points represent the total
+        points earned for that assignment, not the number of points “taken away” for errors or omissions.
+Absences
+ The only absences that will be considered excused are for religious holidays or extenuating
+ circumstances due to an emergency. You will be given attendance/participation credit for any session that
+ you miss that is documented to the teaching team in writing by a medical doctor’s statement, or an official
+ statement from a UT faculty member about an ensemble or other organization’s off-campus commitment.
+ NO OTHER ABSENCES WILL BE EXCUSED.
+                                 Student Rights & Responsibilities
+     •  You have a right to a learning environment that supports mental and physical wellness.
+     •  You have a right to respect.
+     •  You have a right to be assessed and graded fairly.
+     •  You have a right to freedom of opinion and expression.
+     •  You have a right to privacy and confidentiality.
+     •  You have a right to meaningful and equal participation, to self-organize groups to improve your
+        learning environment.
+     •  You have a right to learn in an environment that is welcoming to all people. No student shall be
+        isolated, excluded or diminished in any way.
+With these rights come responsibilities:
+     • You are responsible for taking care of yourself, managing your time, and communicating with the
+        teaching team and with others if things start to feel out of control or overwhelming.
+     • You are responsible for acting in a way that is worthy of respect and always respectful of others. •
+        Your experience with this course is directly related to the quality of the energy that you bring to it,
+        and your energy shapes the quality of your peers’ experiences.
+     • You are responsible for creating an inclusive environment and for speaking up when someone is
+        excluded.
+     • You are responsible for holding yourself accountable to these standards, holding each other to
+        these standards, and holding the teaching team accountable as well.
+                                                                        Syllabus for COURSE-ID, Page 10 of 4
+
+
+Personal Pronoun Preference
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing
+with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and
+nationalities. Class rosters are provided to the instructor with the student’s legal name. I will gladly honor
+your request to address you by a name different than what appears on the roster, and by the gender
+pronouns you use. Please advise me of this preference early in the semester so that I may make appropriate
+changes to my records.
+                                              University Policies
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a
+student of The University of Texas at Austin, I shall abide by the core values of the University
+and uphold academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use
+words or ideas that are not your own (or that you have used in previous class), you must cite your
+sources. Otherwise you will be guilty of plagiarism and subject to academic disciplinary action,
+including failure of the course. You are responsible for understanding UT’s Academic Honesty and
+the       University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+deadline, which typically occurs near the middle of the semester. Under Texas law, you are only allowed
+six Q drops while you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please let me
+know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements
+of the course. There are also a range of resources on campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical information
+that you need to share with me, or if you need specific arrangements in case the building needs to be
+evacuated, please let me know. I am committed to creating an effective learning environment for all
+students, but I can only do so if you discuss your needs with me as early as possible. I promise to maintain
+the confidentiality of these discussions. If appropriate, also contact Services for Students with Disabilities,
+512-471-6259 (voice) or 1-866-329- 3986 (video phone). http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope
+with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources
+available on campus and an important part of the college experience is learning how to ask for help. Asking
+for support sooner rather than later is often helpful.
+                                                                            Syllabus for COURSE-ID, Page 11 of 4
+
+
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or
+depression, we strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center each
+year to improve their academic performance? All students are welcome to take advantage of Sanger
+Center’s classes and workshops, private learning specialist appointments, peer academic coaching, and
+tutoring for more than 70 courses in 15 different subject areas. For more information, please visit
+ http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+                                      Important Safety Information:
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t
+feel right – it probably isn’t. Trust your instincts and share your concerns.
+Title IX Reporting
+Title IX is a federal law that protects against sex and gender-based discrimination, sexual harassment,
+sexual assault, sexual misconduct, dating/domestic violence and stalking at federally funded educational
+institutions. UT Austin is committed to fostering a learning and working environment free from
+discrimination in all its forms. When sexual misconduct occurs in our community, the university can:
+      1. Intervene to prevent harmful behavior from continuing or escalating.
+      2. Provide support and remedies to students and employees who have experienced harm or have
+           become involved in a Title IX investigation.
+      3. Investigate and discipline violations of the university’s relevant policies.
+Faculty members and certain staff members are considered “Responsible Employees” or “Mandatory
+Reporters,” which means that they are required to report violations of Title IX to the Title IX Coordinator. I
+am a Responsible Employee and must report any Title IX related incidents that are disclosed in writing,
+discussion, or one-on-one. Before talking with me, or with any faculty or staff member about a Title IX
+related incident, be sure to ask whether they are a responsible employee. If you want to speak with
+someone for support or remedies without making an official report to the university, email
+advocate@austin.utexas.edu For more information about reporting options and resources, visit
+titleix.utexas.edu or contact the Title IX Office at titleix@austin.utexas.edu.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety
+and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside.
+      •    Familiarize yourself with all exit doors of each classroom and building you may occupy.
+           Remember that the nearest exit door may not be the one you used when entering the building.
+      •    Students requiring assistance in evacuation shall inform their instructor in writing during the first
+           week of class.
+      •    In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-
+                                                                           Syllabus for COURSE-ID, Page 12 of 4
+
+
+          enter a building unless given instructions by the following: Austin Fire Department, The
+          University of Texas at Austin Police Department, or Fire Prevention Services office.
+•      Link to information regarding emergency evacuation routes and emergency procedures can be found
+  at: www.utexas.edu/emergency
+                                                                         Syllabus for COURSE-ID, Page 13 of 4

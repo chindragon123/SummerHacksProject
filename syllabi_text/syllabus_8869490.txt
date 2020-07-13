@@ -1,0 +1,336 @@
+David (D.S.) Cohen          ds.cohen@austin.utexas.edu          Office: DFA 4.112 Wednesday         Fall 2018
+                                                                           10-12p
+AET 339 NARRATIVE DESIGN
+Course Sections
+ Instructor                          UID                   Meeting Times                Room
+ David (D.S.) Cohen                  20993                 T/R 3:30 - 5P                ECJ 1.304
+Abstract
+        An cross-disciplinary design course where students explore establishing, communicating,
+        and assimilating a cohesive and immersive narrative into all aspects of digital games
+        experiences. Students will focus on both design theory and practice as they develop
+        methods for seamless narrative integration into the game design, systems, mechanics,
+        environments, characters, mood, and aesthetics.
+Objective
+        Learn the process of integrating narrative into all elements of a digital game.
+Assessment
+        This course is project and journal based. There will be no exams. Grading is based on successful
+        completion of project, and journal objectives. Assignments are worth 60%, the final project is
+        worth 30%, and the remaining 10% of the final grade is based on professionalism which is earned
+        by attending class during the scheduled meeting times and conducting oneself in a professional
+        manner.
+        No late work will be accepted. No incompletes will be given. If you feel you will not be able to
+        complete all work on time, you should ask the instructor for a grade of Q or drop before the
+        deadline for doing so passes.
+        Note: If you catch the flu, get a flat tire, or otherwise cannot attend class, please send an
+        email and attach any class work as needed.
+        Final grades will be determined on the basis of the following rubric. Please note: to ensure
+        fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B-
+        will be inclusive of all scores of 80.000 through 83.999. The University does not recognize the
+        grade of A+.
+        Letter grade equivalents:
+          A = 94-100                         C+ = 77-79                          D+ = 67-69
+          A- = 90-93                         C = 74-76                           D = 64-66
+          B+ = 87-89                         C- = 70-73                          D- = 60-63
+          B = 84-86                                                              F = 0-60
+          B- = 80-83
+                                                                                                            1
+
+
+        File Format:
+        Presentations, docs, spreadsheets, flowcharts, concept art, etc. File Format: PDF;
+        Game Builds – File Format: Executable file (.exe)
+        File Naming Convention: ​If submitting as an individual…
+        Firstname_Lastname_AssignmentName_Numeric DateSubmitted
+        Example: davidc_conceptpitch_07042018
+        If submitting as a team…​TeamName_AssignmentName_DateSubmitted
+        Example: davidc_conceptpitch_07042018
+        IMPORTANT: Do not use slashes (/) in the date, as the system will not accept it and it may not
+        read correctly.
+Classroom Policy
+        Devices
+             ● Must be kept in silent mode unless an emergency notification is expected (please discuss
+                 this with me prior to class).
+             ● Cell phones can be used to audio record lectures, and take photos of work written on the
+                 board of lecture slides, but should not be used for note taking or research.
+             ● Larger devices can be used for research and class note taking, but not for social media
+                 (unless related to class activities)
+        Food/Drink
+             ●   Food is not allowed in class.
+             ●   Drinks in closed containers are permitted but must be kept on the floor or out of sight
+                 when not in use.
+Required Equipment
+        All students MUST have access to a portable computer capable of running the Unity game
+        engine, Maya, audio recording and editing, and video editing software of your choice. Either Mac
+        or PC is fine.
+Calendar
+Note – This is outline, assignments, and reading are subject to change by the instructor, without
+notification in certain cases.
+ 1              8/30                                                                Journal 1
+                Course Intro
+                Role of the a Narrative Designer
+                Journal - ​Select a game and break down the narrative components.
+                Show all of the ways the narrative is communicated, not just the
+                primary story (A-Story) but the story of each character, the world,
+                situation, etc.
+ 2              9/4
+                Narrative Theory in games - Narratology Vs. Ludology
+                9/6                                                                 Journal 2
+                                                                                                         2
+
+
+  Direct, Implied, and Projected Narrative
+  Do players have an impact on narrative?
+  Journal - ​Projected Narrative: Write a narrative for a 1980 arcade
+  game that does not contain a direct narrative. Include the visuals,
+  environment, and mechanics as part of this narrative.
+3 9/11                                                                 Journal 3
+  Gameplay/Mechanics or Story - When Narrative Begins?                 Project 1
+  Journal - ​Select a game and write a breakdown of how the
+  mechanics were used to help communicate the story.
+  Project 1 - ​Write game concept focusing on mechanics and player
+  interactions. Do not include the story.
+  -
+  9/13
+  LAB
+4 9/18                                                                 Journal 4
+  Storytelling in games. Word Narrative, Player Narrative.             Project 2
+  How the story works within the mechanics.
+  Journal - ​Examine a game that contains both a world narrative and
+  a separate player narrative. Identify their differences and how they
+  come together.
+  Project 2 - ​Write a story pitch that works within your previously
+  approved game mechanics
+  -
+  9/20
+  LAB
+5 9/25                                                                 Journal 5
+  Developing an emotional connection for players                       Project 3
+  Developing Characters
+  Journal - ​Examine two characters (player character and NPC) in a
+  game and how they create an emotional connection for the player.
+  Identify how this is achieved through story and gameplay.
+  Project 3: ​Character Q&A, Character sheets, and character
+  moodboard
+  -
+  9/27
+  LAB
+6 10/2                                                                 Project 4
+  Creating emotional tone with sound
+  Project 4​ - Develop a tone video with sound and visuals
+  -
+  10/4
+  LAB
+7 10/9                                                                 Project 5
+  The Hero's Journey - Creating it for your character and players
+  Project 5​ - Outline your narrative to develop a character arc.
+  Show how this arc connects to the phases of the The Hero’s
+  Journey
+  -
+                                                                                 3
+
+
+   10/11
+   LAB
+8  10/16                                                                  Journal 6
+   The multi-act structure in games                                       Project 6 - Part 1
+   Rising and falling action with narrative (peaks and valleys)
+   Episodic Games and Worlds Without Ends.
+   Journal - ​Examine the level to act structure of an existing narrative
+   focused game. Identify how the overarching narrative was split into
+   levels, and the story of the individual levels.
+   Project 6 - Part 1 -​ Break your narrative into five level summaries,
+   give each level an act structure that also connects to the
+   overarching story.
+   -
+   10/18
+   LAB
+9  10/23                                                                  Project 6 - Part 2
+   Marrying narrative experience with the level / player flow.
+   Multiple choices, branching paths.
+   Evolution of player choice
+   Do players control the narrative?
+   Project 6 - Part 2: ​Develop your five levels into flow charts that
+   exhibit branching events, player choice, and gameplay experience
+   working with the narrative.
+   -
+   10/25
+   LAB
+10 10/30                                                                  Journal 7
+   Game Dialogue                                                          Project 7
+   Game Barks
+   Journal -​ Analyze the dialogue from a single level of an existing
+   game. Is it text or VO? How is the dialogue used to communicate
+   information to the player. What kind of information does it convey?
+   Project 7​ - Write dialogue for the five levels of your game in
+   required spreadsheet format. Identify if it is on-screen text or voice
+   over. Dialogue must move the story forward.
+   - ​Write series of barks for player characters and NPCs that are
+   functional, while adding to the narrative.
+   -
+   11/1
+   LAB
+11 11/6                                                                   Journal 8
+   Maps and Storyboards                                                   Project 8 - Part 1
+   Journal - ​Review three environments from a current game. Explain
+   how they communicate narrative with just the environmental
+   elements
+   Project 8 Part 1: ​Create maps for the first three gameplay
+   environments in your game (total 3 maps). Identify key gameplay
+                                                                                             4
+
+
+   and narrative elements within the map, and player movement to
+   communicate what they will experience and when.
+   Identify and create a scale which will be used in building the
+   environment.
+   -
+   11/8
+   LAB
+12 11/13
+   Environmental Storytelling
+   Project 8 Part 2: ​Create Moodboards for the environment within
+   each of your five maps.
+   -
+   11/15
+   World Building
+   Project 8 Part 3: ​Build an environment in Unity that communicates a
+   narrative.
+   Follow scale outlined in your map (Single Unit is 1 meter in Unity)
+13 11/20
+   LAB
+   -
+   11/21
+   Thanksgiving (No Class)
+14 11/27
+   In Class - Teams of two: Exchange environments and write the story
+   your team member's environment is telling you.
+   Compare what you found with what they intended.
+   Project 8 - Part 4:​ Submit your environment with the write up it is
+   intended to communicate, along with the write up from your
+   teammate
+   11/29                                                                Project 9
+   Narrative through sound design
+   Project 9​ - Develop a tone video with sound and visuals for your
+   environments.
+   https://freesound.org/
+15 12/3                                                                 Project 10 - Final
+   Final Requirements
+   Project 10 Final Project
+        ● Narrative Bible
+        ● Tone Video (Character and Environments)
+        ● In-Game Environments
+   -
+   12/5
+   LAB
+   12/10 (Last day of class)
+   Narrative Careers in Games
+   Final Due
+                                                                                           5
+
+
+6
+
+Units of Study
+   1. Narrative Approaches to Games
+          ○ Explore game design and storytelling opportunities through all elements of a game.
+   2. Elements of Narrative Design
+          ○ Terminology and concepts useful for narrative design.
+          ○ Define Narrative development construction through design, visuals, audio, and player
+              experience
+   3. Narrative Designer Role
+          ○ Displaying narrative in environment, sound, and emotion through the building of a game
+              environment and the creation of a tone video.
+          ○ Articulate how the narrative will be constructed for a game through the building a series
+              of design documentations, culminating into a Narrative Bible
+Process
+      Students will work individually in the role of Narrative designer for a game. They will research
+      narrative design in existing games, pitch a game concept and narrative, then integrate the
+      narrative into all elements of their game.
+      Narrative Design Journal
+              Throughout the course students will document research, analysis, writing and design
+              exercises that they must document in an online journal.
+      Projects 1 : Game Concept Pitch (Mechanics Only)
+               Ludology argues that player experience is the the central focus of all games. Write a
+              game concept focusing on mechanics and player interactions. Do not include the story.
+      Project 2: Story Pitch
+              Develop a narrative for a game that work with the game mechanics pitched in Project 1.
+      Project 3: Characters
+              Answer a series of questions about your characters. The answer to these questions will
+              help flesh them out as characters that can be identified with.
+              Develop character sheets for your player character and the key NPCs (minimum of three)
+      Project 4: Hero's Journey
+              Outline your narrative to develop a character arc. Show how this arc connects to the
+              phases of the The Hero’s Journey
+      Project 5: Level Narrative Outlines
+              Break story into five level summaries, give each level an act structure that also connects
+              to the overarching story.
+      Project 6: Narrative and Player Flow
+                                                                                                         7
+
+
+                  Develop your five levels into flow charts that show branching events, player choice and
+                 gameplay experience working with the narrative.
+         Project 7: Dialogue
+                 Write dialogue and barks for the five levels of your game in required spreadsheet format.
+                 Identify if it is on-screen text or voice over. Think about how the dialogue can compliment
+                 the gameplay and environments. Main dialogue must move the story forward, while Barks
+                 should be functional, while adding to the narrative.
+         Project 8: Environments
+                 Create a map of one environment per level (total 5 environments) then build the level out
+                 within Unity (okay to use Unity Store Assets). Finalize Maps upon completion of your
+                 level.s
+                 Split into teams of two. Exchange your environment projects and write the story your team
+                 member's environment is telling you.
+         Project 9:
+                 Develop a tone video with sound and visuals. Include the environment you've created.
+         Project 10:
+                 Final Narrative Bible
+                     ● Narrative Bibles are used for all development team members to understand how
+                          the narrative will be integrated into every element of the game.
+                     ● Updating, refining, and combining your previous document based projects will
+                          culminate into a full Narrative Bible.
+                     ● Final Tone Tone Video of your game.
+                     ● Submit In-Game Environments Unity Project
+Class Attendance Policy
+As detailed above, attending class during the scheduled meeting times earns professionalism credit.
+Credit is NOT earned for arriving late, leaving early, or failing to attend class meetings. If attending a
+scheduled class meeting is not possible, students are expected to promptly notify the instructor of
+extenuating circumstances.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six
+(6). As stated in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of higher
+education may not permit an undergraduate student a total of more than six dropped courses, including
+any course a transfer student has dropped at another institution of higher education, unless the student
+shows good cause for dropping more than that number.”
+                                                                                                           8
+
+
+University Attendance Policy: Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date
+of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a
+project in order to observe a religious holy day, I will give you an opportunity to complete the missed
+work within a reasonable time after the absence.
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact
+Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone).
+Faculty are not required to provide accommodations without an official accommodation letter from SSD.
+academic honesty University of Texas Honor Code The core values of The University of Texas at Austin
+are learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each member of
+the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice
+Line to discuss by phone your concerns about another individual’s behavior. This service is provided
+through a partnership among the Office of the Dean of Students, the Counseling and Mental Health
+Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police Department
+(UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a
+fire alarm is activated or an announcement is made. Please be aware of the following policies regarding
+evacuation: • Familiarize yourself with all exit doors of the classroom and the building. Remember that
+the nearest exit door may not be the one you used when you entered the building. • If you require
+assistance to evacuate, inform me in writing during the first week of class. • In the event of an
+evacuation, follow my instructions or those of class instructors. Do not re-enter a building unless you’re
+given instructions by the Austin Fire Department, the UT Austin Police Department, or the Fire Prevention
+Services office.
+                                                                                                           9

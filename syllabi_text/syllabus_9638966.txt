@@ -1,0 +1,153 @@
+ME 130L, Summer 2019                                                        Dr. Adela Ben-Yakar
+                    ME130L, EXPERIMENTAL FLUID MECHANICS
+                                          Summer 2019
+                  Unique #’s 76515 (1 session, Friday 11:00 am - 2:00 pm)
+                       Lectures on Thursday 11:00-noon, ETC 7.146
+                                   Lab Sessions, ETC 1.204
+Instructor: Dr. Adela Ben-Yakar, ETC 7.132, 475-9280. ben-yakar@mail.utexas.edu
+Office Hours: Th noon-1:30 pm
+Teaching Assistants: Chris Yoon, cyoon@utexas.edu
+Office Hours: TBD
+Lab Manager:           Israel Gutierrez, Israel.Gutierrez@austin.utexas.edu
+Text: Fundamentals of Fluid Mechanics by Munson et al., John Wiley and Sons (same as for
+     ME 330).
+Course Description: This is a laboratory course in fluid mechanics to be taken concurrently
+     with the ME 330 theory and practice course. Laboratory exercises will involve use of
+     experimental instrumentation and facilities, such as water channel and wind tunnel
+     facilities. Flow visualization and flow measurement techniques will be taught and
+     practiced. During the semester, a series of lectures along with five (5) laboratory exercises
+     will provide insight into various flow phenomena with a particular emphasize on the
+     interaction of these flows with solid bodies.
+Co-requisite: ME 330 (Fluid Mechanics)
+Knowledge, skills, and abilities students should have before entering this course
+   Knowledge and skill to understand and use differential and integral calculus.
+   Understand the meaning of physical quantities employed in Thermodynamics.
+   Ability to apply basic laws of Thermodynamics to compute various items.
+   Understand the meaning of physical quantities employed in Newtonian Mechanics.
+   Ability to apply basic laws of Newtonian Mechanics to compute various quantities.
+Knowledge, skills and abilities students should gain from this course
+   Knowledge of physical quantities important to fluid flow. Examples include pressure
+     viscous friction, momentum, drag coefficient.
+   Ability to apply fundamental laws in control volume form to engineering situations.
+   Knowledge of fluid flows in pipes and around objects.
+   Uncertainty analysis for experimental measurements.
+Impact on subsequent courses in curriculum
+     Knowledge needed to understand heat transfer, design of thermal systems, and all other
+     thermo-fluids area courses.
+
+
+ME 130L, Summer 2019                                                       Dr. Adela Ben-Yakar
+ABET EC2000 Program outcomes achieved:
+    Knowledge of and ability to apply engineering and science fundamentals.
+    Ability to set up and conduct experiments, and to present the results in a professional
+       manner.
+    Ability to communicate in written, oral and graphical forms.
+    Ability to work in teams and apply interpersonal skills in engineering contexts.
+Lectures:
+       Lectures will be conducted on Thursdays on the dates indicated in the syllabus. These
+       lectures will focus on fundamental concepts and more difficult aspects of the laboratory
+       exercises.
+Laboratory Sessions: ETC 1.204
+       TAs will lead these sessions that will be spread throughout the week. We will perform
+       five (5) different laboratory exercises:
+       1. Fluid properties and uncertainty analysis
+       2. Flow visualization techniques and study of vortical structures
+       3. Wind tunnel measurements of wake and drag measurements for a cylinder in cross-
+           flow.
+       4. Pipe flow measurements.
+       5. Lift and Drag on automotive vehicles.
+                                       Course Policies
+Attendance:
+       Laboratory attendance during lab running sessions is mandatory. Attendance will be
+       taken by the TAs at the beginning of each lab running session. Punctuality is also
+       expected. Late arrivals will not be tolerated. You will not be allowed to submit a Lab
+       Report for a lab running session you do not attend and/or arrive late and you will receive
+       no credit for that lab. Only under extraordinary circumstances would make-up lab
+       sessions be allowed. These would require written documentation of the circumstances
+       and notice in advance (minimum of 24 hours before the originally scheduled lab
+       session).
+Laboratory Reports:
+       All Lab Reports will be due two weeks after you run the lab experiment, at the beginning
+       of your next lab running session meeting time. Late Lab Reports will not be accepted,
+       and you will receive no credit for that lab. Your reports are expected to be neat, well
+       organized, and legible. The Lab Reports that you submit are expected to be your own
+       work. Copying of any material amounts to scholastic dishonesty and it will be handled
+       accordingly. Any student handing in an out-of-class assignment containing any material
+       that is merely copied from a solutions manual, another student, a previous semester, or
+       that is clearly the work of someone else will be awarded no credit for that entire
+       assignment and disciplinary actions will be taken.
+Prelab and Homework Assignments:
+
+
+ME 130L, Summer 2019                                                          Dr. Adela Ben-Yakar
+       The laboratory exercises will be assigned as the semester progresses. You are expected
+       to be knowledgeable with the essentials of each exercise through careful reading of your
+       lab handouts and lecture notes and prepare your pre-labs prior to the laboratory. All
+       prelab assignments will be due at the beginning of your lab section meeting time. You
+       will not be allowed to participate on a lab without a fully completed pre-lab assignment
+       and you will receive no credit for that lab. All lab handouts and assignments will be
+       handed during the lecture hours.
+Quizzes:
+       You will be given a 10-mins quiz at the beginning of your lab section meeting time after
+       handing the prelab assignments. The quiz will include 2-3 short questions based on your
+       prelab assignments and lab reading material (lab handout and related lecture notes).
+Final Exam: TBD
+       There will be a “Final Lab Exam” covering the lab material learned during the semester.
+Grading: Laboratory reports              70%
+           Quizzes/Prelabs               15%
+           Final Lab Exam                15%
+       Grades will not be curved. Your grade depends only on your scores, not on the scores
+       of the rest of the class. It is theoretically possible for everyone in the class to receive an
+       A. You are encouraged to collaborate with your classmates. Final numerical scores
+       might be adjusted to accommodate for possible discrepancies in grading between the
+       different TAs.
+Canvas:
+       Course communications will be conducted through the Canvas on-line course
+       management system. You can access it via http://canvas.utexas.edu. There you will be
+       able to see your scores, download assignments, lab handouts, and any other relevant
+       course documentation that might become available, check for announcements, and e-
+       mail your colleagues in the course.
+Special Note:
+       The University of Texas at Austin provides, upon request, appropriate academic
+       adjustments for qualified students with disabilities. For more information, contact the
+       Office of the Dean of Students at 471-6259, 471-4241 TDD or the College of
+       Engineering Director of Students with Disabilities at 471-4382.
+
+
+   ME 130L, Summer 2019                                                      Dr. Adela Ben-Yakar
+                                       Summer 2019 Schedule
+# Week of                   Thursday Lecture              Lab           Prelabs        Lab Reports
+                             11am, ETC 7.146              Meeting                      Submissions
+1 June 6-7                                                    Meeting in the lab on June 7 at 11am
+                          No meeting on June 6                        NO LAB SESSION
+                                                           Lecture 1: Intro to Lab #1 (Fluid properties
+                                                             and propagation of uncertainty analysis)
+2 June 10-14         Lecture 2: Intro to Lab #2 (Flow Quiz 1           Prelab 1
+                         visualization techniques)        Run Lab 1
+3 June 17-21         Lecture 3: Intro to Lab #3 (Wind Quiz 2           Prelab 2 Lab 1 – due in your
+                     tunnel measurement of wake and Run Lab 2                      lab session time
+                     drag for a cylinder in cross-flow)
+4 June 24-28          Lecture 4: Uncertainty analysis Quiz 3           Prelab 3 Lab 2 – due in your
+                                 for Lab #3               Run Lab 3                lab session time
+5 July 1-5                       No lecture               Lab3                     Lab 3-Part1– due in
+                                                          Discussion               your lab session
+                                                          only on                  time.
+                                                          Friday
+6 July 8-12          Lecture 5: Intro to Lab #4 (Pipe Quiz 4           Prelab 4 Lab 3-Part2– due in
+                                    flow)                 Run Lab 4                your lab session
+                                                                                   time
+7 July 15-19          Lecture 6: Intro to Lab #5 (Lift Quiz 5          Prelab 5 Lab 4 – due in your
+                     and drag on automotive vehicles) Run Lab 5                    lab session time
+8 July 22-26            Lecture 7: Review for final       No                       Lab 5 – due in your
+                                    exam                  meeting                  lab session time
+9 July 29-30                     No lecture               No
+                                                          meeting
+                                                      Final Exam, TBD
+   Summary of due dates:
+    All prelab assignments are due at the beginning of your lab section meeting time.
+    You will take a 10-mins quiz at the beginning of your lab section meeting after handing
+      the prelab assignments.
+    Lab reports are due 1-week after you run the lab, at the beginning of your lab session
+      meeting time. An exception is made for Lab 3, which will have two parts – Part 1 will be
+      due in your session, 1-week after you run the lab experiment and Part 2 will be due a week
+      after Part 1 due in your lab session.

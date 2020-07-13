@@ -1,0 +1,376 @@
+                                                ACC 383K.2
+                                           TOPICS IN AUDITING
+                             MANAGEMENT AUDITING AND CONTROL
+                                                 FALL 2018
+                                                  SECTIONS
+                        02715        MONDAYS            11AM-2PM           GDC 2.210
+                        02720        MONDAYS        3:30PM-6:30PM          GSB 3.138
+Instructor: Steve Goodson                          Office: CBA 3.248
+Department of Accounting                           e-mail: Steve.Goodson@mccombs.utexas.edu
+The University of Texas at Austin                  Hours: M 2:00 PM – 3:00 PM, and by appointment
+Course TAs: Kristen Valentine                      Kristen.Valentine@mccombs.utexas.edu
+               April Lee                          aprillee08@utexas.edu
+                                             REQUIRED TEXTS
+(1) K. Reding, P. Sobel, U. Anderson, M. Head, S. Ramamoorti, M. Salamasick, and C. Riddle, Internal
+    Auditing: Assurance and Advisory Services, 4th Edition, The Institute of Internal Auditors, 2017.
+    Chapters 1 and 2 are provided in Canvas for your convenience and to allow you time to purchase
+    the required textbook.
+           With Student IIA membership ($40) the textbook is only $149.00. Non-member price is
+           $199.00. Student Membership is only $40. So, you save $10.00 right off the bat! It’s like
+           they pay you $10 to join! And, you can get extra credit for joining. If you find the textbook
+           at a lower price, let me know so I can share it with others.
+(2) Other documents made available via Canvas.
+                                           COURSE OBJECTIVES
+A hands-on introduction to the exciting world of Internal Audit!
+This course is designed for students who plan careers in the accounting and finance or internal audit
+functions of corporations or government entities or in the consulting/risk management/internal audit
+services of public accounting and internal audit sourcing firms. The purpose of the course is to
+introduce students to the current scope of internal auditing that extends far beyond the traditional
+external audit attestation of financial statements. Its objectives are to provide students with:
+          A basic understanding of the use of internal auditing by top management and
+           governing boards for controlling organizations.
+          An understanding of techniques for risk assessment and management.
+          Knowledge of the standards for conducting internal audits.
+          An understanding of the organization and administration of internal audit functions.
+          An understanding of the internal audit process.
+          An ability to scope and establish criteria for an effective internal audit.
+          The knowledge and ability to apply the basic tools used in evidence collection,
+           including generalized audit software packages.
+          The ability to effectively report the results of an internal audit.
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                                       Page-2
+Topics covered include:
+           Organizational governance                              Internal control procedures
+            and the role of internal audit                          and control system design
+           Providing value-added                                  Information technology risks
+            internal audit services                                 and controls
+           Types of assurance and                                 Internal auditor/auditee
+            consulting internal audit                               relations
+            services
+                                                                   Effective engagement
+           Risk assessments and                                    reporting and
+            allocation of audit resources                           communications
+           The internal audit process                             Quality assurance of the
+                                                                    internal audit function
+           Use of CAATS (computer-
+            assisted audit techniques)                             Investigative auditing
+           Use of automated working
+            papers
+These and other topics will be covered through lectures and readings, homework assignments,
+presentations by practitioners, and a team project. At the completion of the course students should be
+ready to assume positions in internal audit functions.
+                                     EXAMINATIONS AND GRADING
+                          Assignments                          Points
+                          Exams (2)                              200
+                          Team Project                           200
+                          Quizzes                                140
+                          Class Participation & Miscellaneous    140
+                          Homework                               120
+                          Total Points                           800
+The University of Texas at Austin has instituted plus/minus grading for graduate students. Department
+of Accounting policy requires that a grading scale including pluses and minuses be used for all
+graduate accounting classes. University policy continues to prohibit use of plus/minus grading for
+undergraduate students. Department of Accounting policy requires that grades for undergraduate
+students enrolled in graduate accounting classes will be determined by dropping the plus or minus (if
+any) from their letter grade.
+EXAMS. The two exams may consist of multiple-choice questions, short answer, and essay problems.
+Exams are provided online in Canvas. While students may use their notes and the text book, no
+collaboration among students is allowed. You must complete the exam alone. Prepare for the exams
+as if they are not open book as you will only have 60 minutes to complete the exams. This will not be
+enough time to look up more than just a few of the questions in your notes or in the textbook.
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                                        Page-3
+TEAM PROJECT. Students will complete a major field project this semester by working in groups of
+three to four, depending on the project scope. The projects will involve actual audit work in a
+government agency, company or non-profit organization and will be evaluated as follows:
+                                                 Rubric                          Points
+                           Audit Engagement Letter                                    5
+                           Written Description of Audit Client                       15
+                           Audit Client Interview                                    15
+                           Class presentation – student evaluations                  25
+                           Class presentation – instructor evaluation                30
+                           Team evaluation                                           40
+                           Evaluation from project sponsors                          70
+                           Total Points                                             200
+HOMEWORK CASE ASSIGNMENTS. There will be six homework case assignments during the semester.
+Each will be posted to Canvas.
+QUIZZES There     will be 14 quizzes worth 10 points each. Quizzes will be in Canvas and will be directly
+related to the reading materials. Quizzes are due by 10 pm the night before the identified class and will
+be available in Canvas on the Wednesday prior to due date.
+LATE ASSIGNMENTS
+Assignments not completed within the prescribed deadlines, unless previously approved by the
+instructor, will receive the following deduction in points:
+Up to 24 hours late: 10%
+1-5 days late: 25%
+6 days or more: 50%
+CLASS PARTICIPATION       140 points will be awarded for participation in class and completing
+miscellaneous assignments, such as completing the entrance and exit surveys. Please assure you
+sign in at each class and participate in the discussion to receive full credit.
+LAPTOP POLICY      Laptops and other electronic devices may be used in the classroom only to support
+students in learning the materials being presented. For example, following along with the lecture
+slides or taking notes. All other uses are not allowed.
+                                            ACADEMIC CERTIFICATE
+Students can earn an Academic Certificate in Internal Audit by completing three courses:
+    1. ACC 383K.2 Management Auditing & Control
+    2. ACC 383K.4 Fraud Examination
+    3. ACC380K.12 Computer Audit and System Security OR
+          MIS 373.22 IT Audit & Security
+            INSTITUTE OF INTERNAL AUDITORS (IIA) Austin Chapter – EXTRA CREDIT!
+Students are encouraged to participate in IIA Activities. This semester, the Austin IIA Chapter offers
+students complementary registration to the following events:
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                                           Page-4
+Student registration is FREE – thanks to the generosity of the IIA Austin Chapter. But if you register –
+you must attend! If you register and can’t attend, find a replacement!
+Details for IIA events including registration instructions will be posted on the chapter website:
+https://chapters.theiia.org/austin/Pages/default.aspx
+Students that attend IIA events are awarded extra credit of 5 points per event attended, up to 15
+points. If you register and don’t attend, you will be docked 5 points.
+IIA Membership: Five (5) extra points are available for joining the Institute of Internal Auditors.
+Student membership is $40.00, and you get a $50 discount off the IIA’s textbook price. (Lower textbook
+price may be available via Amazon or the Coop Bookstore. Join IIA by following this link
+https://na.theiia.org/membership/Pages/Student-Membership.aspx             and     submit     evidence     of
+membership via canvas on or before the fourth class meeting for the extra credit. Memberships
+purchased after the fourth class meeting will not be rewarded extra points.
+                                            ACADEMIC HONESTY
+Accounting Department Policy:
+         The Department of Accounting has no tolerance for acts of scholastic dishonesty. The
+         responsibility of both students and faculty with respect to scholastic dishonesty are described in
+         detail in the department’s Policy Statement on Scholastic Dishonesty in the MPA Program and
+         the Professional Program in Accounting. By teaching this course, I have agreed to observe all
+         of the faculty responsibilities described in that document. By enrolling in this class, you have
+         agreed to observe all of the student responsibilities described in that document. If the
+         application of that Policy Statement to this class and its assignments is unclear in any way, it is
+         your responsibility to ask me for clarification.
+         The student responsibilities embodied in the department’s Policy Statement on Scholastic
+         Dishonesty are consistent with the GSB Honor Code and the University’s General Information
+         catalog. However, you should obtain and read the department’s Policy Statement to ensure
+         that you understand my responsibilities. Copies are available in CBA 2.302.
+Students with Disabilities
+The University of Texas at Austin provides upon request appropriate academic accommodations for
+qualified students with disabilities. For more information, contact the Office of the Dean of Students at
+471-6259, 471-4641 TTY. If you are in need of an accommodation and have an accommodation
+letter, to assure accommodations can be put in place, please visit with me and provide me with the
+letter during the first two weeks of the semester.
+Class Web Sites and Student Privacy
+In Spring 2001, web-based, password-protected class sites became available for all accredited courses
+taught at The University. Syllabi, handouts, assignments and other resources are types of information
+that may be available within these sites. Site activities could include exchanging e-mail, engaging in
+class discussions and chats, and exchanging files. In addition, class e-mail rosters will be a
+component of the sites. Students who do not want their names included in these electronic class
+rosters must restrict their directory information in the Office of the Registrar, Main Building, Room 1.
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                                          Page-5
+For information on restricting directory information see:
+http://www.utexas.edu/student/registrar/catalogs/gi05-06/app/appc09.html
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment or a project in order to observe a religious holy day, you will be given an opportunity to
+complete the missed work within a reasonable time after the absence.
+Campus Safety
+Please note the following recommendations regarding emergency evacuation from the Office Campus
+Safety and Security, (512) 471-5767, utexas.edu/safety/
+           Occupants of buildings on The University of Texas at Austin campus are required to
+            evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+            requires exiting and assembling outside.
+           Familiarize yourself with all exit doors of each classroom and building you may occupy.
+            Remember that the nearest exit door may not be the one you use when entering the
+            building.
+           Students requiring assistance in evacuation should inform their instructor in writing during
+            the first week of class.
+           In the event of an evacuation, follow the instruction of faculty or class instructors.
+           Do not re-enter a building unless given instructions by the following: Austin Fire
+            Department, The University of Texas at Austin Police Department, or Fire prevention
+            Services Office.
+           Behavior concerns Advice Line (BCAL): (512) 232-5050
+    Further information regarding emergency evacuation routes and emergency procedures can be
+    found at: utexas.edu/emergency.
+    Behavioral Concerns Advice Line (BCAL)
+    BCAL is a service for students, faculty, and staff of the university to discuss their concerns about
+    another individual’s behavior. Trained staff members will assist the caller in exploring available
+    options and strategies. They will also provide appropriate guidance and resource referrals to
+    address the particular situation. Dialing (512) 232-5050 will connect you to trained staff members
+    24/7/365. Calls to BCAL can be anonymous, and there is also an on-line reporting form (not
+    anonymous).
+    Graduate school can be stressful. Lots of help is available at the Counselling and Mental Health
+    Center (CMHC). Visit their website at cmhc.utexas.edu or give them a call at (512) 471-3515.
+                       Do not hesitate to ask for help – it’s the right thing to do!
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                                    Page-6
+      Class/Date     Topic/Readings                      Assignments / Deadlines
+      Class 1:       TOPIC:                             Entrance Survey Due in Canvas by
+      September      What is Management (Internal)      September 17 at 11:59pm
+      10, 2018       Auditing? The Internal Auditing
+                     Profession.                        Homework Activity 1 assigned in Canvas
+                     READING:                           - Due September 30th at 10pm - Do not
+                             1. Canvas Reading:         wait until the last minute.
+                                Course Syllabus
+                             2. Text – Chapters 1 & 2   VIEWING ASSIGNMENT: The
+                     The Internal Auditing Profession;         Framework for Internal Audit
+                     IIA International Professional            Effectiveness: Introducing the
+                     Practices Framework (IPPF)                New IPPF; see video on IIA
+                             1. Canvas Reading:                website at
+                                International Standards        https://na.theiia.org/standards-
+                                for the Professional           guidance/Pages/New-IPPF.aspx
+                                Practice of Internal
+                                Auditing
+                             2. Code of Ethics
+      Class 2:       Project Requirements Outlined      Quiz Chapter 1
+      September                                         Quiz Chapter 2
+      17, 2018       Project Team Sponsor
+                     Presentations                      To be completed in canvas by 10pm the
+                                                        night before class.
+                     In Class project assignments
+                                                        TEAM PROJECT: Team Sponsor
+                     Project Planning Time              Assignments Finalized in class
+      Class 3:       Guest Speaker: Katherine
+      September      Findley, VP Internal Audit,        Quiz Chapter 3
+      24, 2018       Southwest Airlines                 Quiz Chapter 4
+                                                        To be completed in canvas by 10pm the
+                     TOPIC:        Governance           night before class.
+                     READING: Chapter 3
+                                                        COSO presentations assigned – to be
+                     TOPIC:        Risk Management      presented in class on October 8th.
+                     READING: Chapter 4
+                     Project Planning Time
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                                  Page-7
+      Class/Date     Topic/Readings                    Assignments / Deadlines
+      Class 4:       Guest Speaker: Mike Peppers,      Quiz Chapter 5
+      October 1,     Chief Audit Executive, University Quiz Chapter 6
+      2018           of Texas System                   To be completed in canvas by 10pm the
+                                                       night before class
+                     TOPIC: Business Processes and
+                     Risks                             Homework Activity 2 assigned in
+                     READING: Text - Chapter 5         Canvas - Due by October 19th at 10 PM
+                     TOPIC: Risk Management and
+                     Internal Control
+                     READING: Text - Chapter 6
+                     Project Updates & Planning Time
+      Class 5:       TOPIC:          Performing the    Quiz Chapter 12
+      October 8,     Assurance Engagement              Quiz Chapter 13
+      2018           READING: Text, Chapter 12-13      To be completed in canvas by 10pm the
+                                                       night before class.
+                     Class Presentations on COSO
+                     Project Updates & Planning Time   TEAM PROJECT: Engagement Letter
+                                                       Due October 8th by 10:00 PM in Canvas
+                     Exam 1 in Canvas                  Exam 1 – Available in Canvas
+                                                       Wednesday, October 10th at 8am
+                                                       The exam will close in Canvas Saturday,
+                                                       October 13th at 11:59pm.
+                                                       Once you begin, you will have 60
+                                                       minutes to complete the exam.
+                                                       Exam 1 Covers Chapters 1 – 6, 12, 13
+                                                       and materials covered in classes 1-5
+      Class 6:       TOPIC: Audit Evidence and         Quiz Chapter 10
+      October 15,    Procedures                        To be completed in canvas by 10pm the
+      2018           READING: Text, Chapter 10         night before class.
+                     TeamMate Overview                 TEAM PROJECT: Audit Client
+                                                       Description Due October 22nd by 10:00
+                     Project Updates & Planning Time   PM in Canvas
+                                                       Homework Activity 3-6: Opens in
+                                                       Canvas
+      Class 7:       TOPIC:          Managing the      Quiz Chapter 9
+      October 22,    Internal Audit Function           To be completed in canvas by 10pm the
+      2018           PANEL DISCUSSION                  night before class.
+                     READING:
+                             1. Text, Chapter 9        Homework Activity 3 due October 25th at
+                             2. Standard 2000          10pm
+                     Internal Audit Professional /
+                     Student Mingle
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                              Page-8
+      Class/Date     Topic/Readings                   Assignments / Deadlines
+      Class 8:       TOPIC: Reporting and Follow-up   Quiz Chapter 14
+      October 29,                                     To be completed in canvas by 10pm the
+      2018           READING: Text, Chapter 14        night before class.
+                     Project Updates & Planning Time  Homework Activity 4 due November 1st
+                                                      at 10pm
+      Class 9:       Guest Speaker: Mark              Quiz Chapter 15
+      November       Salamasick, University of Texas  To be completed in canvas by 10pm the
+      5, 2018        System                           night before class.
+                     TOPIC: Performing the Consulting
+                     Engagement
+                     READING: Text, Chapter 15
+                     Project Updates & Planning Time
+      Class 10:      Internal Audit in the Public     Homework Activity 5-6 due November
+      November       Sector                           15th at 10pm
+      12, 2018       Guest Speaker: Cesar Saldivar,
+                     Texas State Auditor’s Office     TEAM PROJECT: Auditee Interview due
+                                                      November 12th by 10:00 PM in Canvas
+                     READING: None
+                     Project Updates & Planning Time
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                                   Page-9
+      Class/Date     Topic/Readings                     Assignments / Deadlines
+      Class 11:      Guest Speaker: Michael             Quiz Chapter 8
+      November       Madison, Adrian Rodriguez,         To be completed in canvas by 10pm the
+      19, 2018       DELL                               night before class.
+                     TOPIC: Fraud, Deterrence &
+                     Examination Investigative Auditing
+                     Internal Audits of Anti-Corruption
+                     and Ethics-Related Programs
+                     READING: Text, Chapter 8
+                     READING - Canvas:
+                             1. PA 2440-2:
+                                Communicating
+                                Sensitive Information
+                                Within and Outside the
+                                Chain of Command
+                             2. PG – Evaluating Ethics-
+                                Related Programs and
+                                Activities, June 2012
+                                (pp. 1-12)
+                             3. PG – Auditing Anti-
+                                Bribery and Anti-
+                                Corruption Programs,
+                                June 2014 (pp.
+                                1-16)
+                             4. DOJ FCPA Resource
+                                Guide
+                     Project Updates & Planning Time
+      Class 12:      Guest Speakers: USAA Audit         Quiz Chapter 7
+      November       Services, Glenn Prochnow and       To be completed in canvas by 10pm the
+      26, 2018       Jeff Rowland                       night before class
+                     TOPIC: Information Technology
+                     Risks and Controls
+                     READING: Text, Chapter 7
+                     Project Updates & Planning Time
+                     Exam 2 On Canvas                   Exam 2 is available in Canvas
+                                                        Wednesday, November 28th from 8am
+                                                        until Saturday, December 1st at 11:59pm
+                                                        Once you begin, you will have 60
+                                                        minutes to complete the exam.
+                                                        Exam 2 Covers Chapters 7 – 10, 14 &
+                                                        15 and materials covered in classes 7-
+                                                        12
+      Class 13:      TEAM PROJECT: Project
+      December       Presentations
+      3, 2018
+
+
+ACC 383K.2 – Goodson
+FALL 2018                                                                         Page-10
+      Class/Date     Topic/Readings             Assignments / Deadlines
+      Class 14:      TEAM PROJECT: Project      Remaining Project Deliverables due in
+      December       Presentations              Canvas by December 10th at 11:59pm
+      10, 2018
+NOTE: ALL CLASS READINGS CAN BE FOUND EITHER IN THE TEXTBOOK OR IN CANVAS UNDER
+READING ASSIGNMENTS.

@@ -1,0 +1,327 @@
+BCH 339N: Systems Biology and Bioinformatics
+SEMESTER: Fall 2020
+WHEN: M, W 9.30 AM-11.00 AM
+WHERE: https:/utexas.zoom.us/j/95070823997
+DISCUSSION SECTION: M 13.00-14.00
+WHERE: https:/utexas.zoom.us/j/99689265126
+INSTRUCTOR:
+Dr. Elif Sarinay Cenik, Assistant Professor, Department of Molecular Biosciences, lab
+website:
+https:/www.sarinayceniklab.org/
+Office: PAT 241
+Phone: 512-232-4468
+E-mail: esarinayATutexas.edu
+Office Hours: Tue 10AM-1145AM
+TEACHING ASSISTANT:
+Trevor Freeman
+Address: PAT 237
+Office Hours: TBD
+E-mail: trevor.freemanATutexas.edu
+What is this class about?
+An introduction to bioinformatics and systems biology, emphasizing quantitative
+analysis of high-throughput biological data. Topics will include alignment and analysis
+of nucleic acid and protein sequences, biological pattern recognition, introduction to next
+generation sequencing and analysis, data clustering, and introduction to applications of
+machine learning in biology.
+What will you learn?
+- Demonstrate proficiency in programming as applied to bioinformatics
+- Apply computational analyses to answer questions in biology
+- Develop effective presentation skills to communicate quantitative analyses of
+   biological data to a scientific audience
+- Identify and assess available resources for bioinformatics data and analyses
+
+
+- Pose biological questions that can be tested using quantitative methods.
+What are the PREREQUISITES?
+ CS 303E or equivalent, BCH 339F, SDS 328M (or 318) with a grade of at least C-. Some
+familiarity with basic programming and quantitative reasoning skills are essential.
+Please check the exercises in this github link <https:/github.com/pcn-
+physics/esc_lab> [adapted from Datacamp, check introduction and intermediate R].
+Please make sure you feel comfortable implementing all of the R exercises provided
+here. Otherwise, I would strongly advise to finish the R introduction and intermediate
+courses from Datacamp website before taking this course. Email me and I can add you
+to get access to the full modules.
+What other materials are required?
+There is no required textbook. Reading material including primary research articles,
+reviews, and excerpts from other texts will be provided.
+For hands-on programming and analysis exercises in discussion sections, and for
+completing assignments, a computer will be necessary.
+COMMUNICATING WITH THE INSTRUCTOR:
+The best means of communicating with me outside of class and office hours is by e-mail.
+If you need a one-on-one meeting, you can email me to make a specific appointment. I
+may occasionally use Canvas to make class announcements by e-mail. For this, I will use
+the e-mail address that was on record in the registrar's office at the time you registered.
+You have to make sure that this address is correct and that you check for announcements
+daily.
+CLASSROOM POLICY:
+Any behavior that is distracting to me, yourself or your peers will not be tolerated,
+including usage of electronic devices such as cell phones, MP3 players and video
+games.
+What will happen in class and discussion sections?
+Class will be interactive lecture with question/answers, active learning exercises (think-
+pair-share etc.), quiz questions, discussions of assigned research papers etc.
+
+
+Discussion sections will be an opportunity to get help from the TA on assignments, get
+feedback on project ideas and progress, and work on assignments.
+Some discussion sections may include visits to labs or research facilities for hands-
+on experience or demos of how bioinformatics data is collected and analyzed.
+How can you succeed in this class?
+   ● Attend all class meetings, discussion sections and learning activities. Arrive on
+      time and remain until the end.
+   ● Prepare for class by reading any material posted on Canvas ahead of time. Please
+      commit to spending ~6 hours a week working outside of class and discussion.
+   ● In class, actively participate in all activities, group work etc., refrain from internet
+      use unrelated to class, ask and answer questions by raising your hand.
+   ● Meet all deadlines for assignments and work in the class, and keep track of
+      University deadlines like Q drops and so on.
+   ● Contact the instructor/TA if you have any issues with attendance or doing your
+      best in the class.
+How will your performance be assessed?
+   ● 50% based on problem sets and homework assignments. These will involve
+      programming, analysis and problem solving. These must be submitted on
+      Canvas. There will be a total of 7 assignments.
+   ● 35% for a computational/data analysis research project, done as a team of 2
+      students. This will be broken into three assignments. Each team will work on
+      their project in stages, submit the results of their analysis as a short paper and
+      present their findings in class at the end. Your grade will be heavily based on the
+      final presentation. Improving presentation skills is a major goal of the course.
+   ● 15% in-class quizzes. Most classes will have quiz questions. Each question will
+      have equal weight. You can drop up to 10 quiz questions. There will be many
+      questions that are open ended and most answers will get full credit.
+
+
+    What else do you need to know about assignments and grading?
+    ● All problem set assignments must be submitted by their deadlines. Late
+       submission are not going to be accepted. However, we have bad days, bad
+       weeks. In an effort to accommodate any unexpected, unfortunate personal crisis,
+       I have built into our course a flexible grading policy. You may drop two of the
+       problem sets/assignments.
+    ● Except for assignments dealing with the team project, all assignments must be
+       your individual and independent work. All submissions must always be
+       individual and will be graded separately.
+    ● Because of the allowed misses for the quiz, there will be no make- up given for
+       them. The built-in grace points/absences are meant to cover "excused absences",
+       namely situations when you have to miss class or discussion due to illness,
+       professional interviews and the like.
+Course Outline
+All instructions, assignments, readings and essential information will be on the Canvas
+website. Check this site regularly.
+Changes to the schedule may be made at my discretion and if circumstances require. It
+is your responsibility to note these changes when announced (although I will do my
+best to ensure that you receive the changes with as much advance notice as possible).
+   Week 1     Introduction to course / R programming refresher
+   Week 2     Sequence alignment, dynamic programming
+   Week 3     Database search, BLAST
+   Week 4     Gene finding algorithms, hidden Markov models
+   Week 5     Presentation skills and Final Project Introduction
+   Week 6     Introduction to next generation sequencing
+   Week 7     Databases, gene expression profiling
+   Week 8     Gene expression profiling, regulatory motif finding, epigenetics
+   Week 9     Introduction to machine learning
+   Week 10    Supervised and unsupervised learning
+   Week 11    Project Presentation Practice
+
+
+  Week 12     Advanced topics I: Quantitative genetics, phylogenomics
+  Week 13     Advanced topics II: Single cell genomics, wearable technology
+  Week 14     Advanced topics III: Genome engineering and functional genomics
+  Week 15     Final Project Presentations
+Classroom Policies
+Statement on Learning Success
+Your success in this class is important to me. We will all need accommodations because
+we all learn differently. If there are aspects of this course that prevent you from learning
+or exclude you, please let me know as soon as possible. Together we’ll develop
+strategies to meet both your needs and the requirements of the course. I also encourage
+you to reach out to the student resources available through UT.
+Grading Policies
+ As I hope you can see, flexibility is built into the assignments to support your success
+in this course. If you miss a smaller assignment, your grade will not be impacted
+significantly. Consequently, the final grades are firm, and no additional curve is
+available.
+           Grade              Cutoff
+           A                  90%
+           B                  80%
+           C                  70%
+           D                  50%
+           F                  < 50%
+Academic Integrity
+     Students who violate University rules on scholastic dishonesty are subject to
+     disciplinary penalties, including the possibility of failure in the course and/or
+     dismissal from UT. You must read and be familiar with the expected standards of
+     conduct for students. Each student in the course is expected to abide by the
+     University of Texas Honor Code: “As a student of The University of Texas at
+
+
+     Austin, I shall abide by the core values of the University and uphold academic
+     integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use words or
+     ideas that are not your own (or that you have used in previous class), you must cite
+     your sources. Otherwise you will be guilty of plagiarism and subject to academic
+     disciplinary action, including failure of the course. You are responsible for
+     understanding UT’s Academic Honesty and the University Honor Code which
+     can be found at the following web address:
+     http://deanofstudents.utexas.edu/sjs/acint_student.php
+     Submissions may be checked against previous submissions for this and other
+     classes or through Turnitin, and plagiarism in any form will not be tolerated. All
+     materials used in this class, including lecture notes, assignments and projects are
+     copyright protected works. You may not upload any of these materials to other
+     websites, communicate them to others, or distribute them in any way. Seeking to
+     obtain or possessing electronic or hard copies of assignments, problem sets and
+     projects from previous semesters of this class is also a violation. All violations are
+     reported to the Office of the Dean of Students and to professional schools.
+     You cannot share any assignment, handout, or document related to this class.
+     Sharing any class materials online in any form, including the homework and
+     assignments you submitted, without my express approval is considered academic
+     dishonesty. If something is found online which you have posted, you will be
+     reported for academic dishonesty to SJS.
+     TL;DR: Don't cheat! It is simply not worth it.
+Absences
+     If you are absent on the day that your team meets, you are responsible for providing
+     your team with the necessary information to compensate for your absence. It is
+     crucial to keep in communication with your team members; you are responsible for letting
+     both us and your team know if you cannot make it to a class.
+Excused Absence: The only absences that will be considered excused are for religious
+holidays or extenuating circumstances due to an emergency. If you plan to miss class
+due to observance of a religious holiday, please let us know at least two weeks in
+advance. You will not be penalized for this absence, although you will still be
+responsible for any work you will miss on that day if applicable. Check with us for
+details or arrangements.
+If you have to be absent, use your resources wisely. Ask your team and other classmates to
+get a run-down and notes on any lessons you miss. If you find there are topics that we
+covered while you were gone that raise questions, you may come by during office hours
+
+
+or schedule a meeting to discuss. Email specific questions you have in advance so that
+we can make the most of our time. “What did I miss?” is not specific enough.
+Student Rights & Responsibilities
+·    You have a right to a learning environment that supports mental and physical
+wellness.
+·    You have a right to respect.
+·    You have a right to be assessed and graded fairly.
+·    You have a right to freedom of opinion and expression.
+·    You have a right to privacy and confidentiality.
+·    You have a right to meaningful and equal participation, to self-organize groups to
+improve your learning environment.
+·    You have a right to learn in an environment that is welcoming to all people. No
+student shall be isolated, excluded or diminished in any way.
+With these rights come responsibilities:
+·    You are responsible for taking care of yourself, managing your time, and
+communicating with the teaching team and with others if things start to feel out of
+control or overwhelming.
+·    You are responsible for acting in a way that is worthy of respect and always
+respectful of others. Your experience with this course is directly related to the quality of
+the energy that you bring to it, and your energy shapes the quality of your peers’
+experiences.
+·    You are responsible for creating an inclusive environment and for speaking up
+when someone is excluded.
+· You are responsible for holding yourself accountable to these standards, holding
+each other to these standards, and holding the teaching team accountable as well.
+Personal Pronoun Use
+Professional courtesy and sensitivity are especially important with respect to
+individuals and topics dealing with differences of race, culture, religion, politics, sexual
+orientation, gender, gender variance, and nationalities. Class rosters are provided to the
+instructor with the student’s legal name, unless they have added a “preferred name”
+with the Gender and Sexuality Center
+(http://diversity.utexas.edu/genderandsexuality/publications-and-resources/). I will
+gladly honor your request to address you by a name that is different from what appears
+on the official roster, and by the gender pronouns you use. Please advise me of any
+changes early in the semester so that I may make appropriate updates to my records.
+
+
+University Policies
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop
+before the Q-drop deadline, which typically occurs near the middle of the semester.
+Under Texas law, you are only allowed six Q drops while you are in college at any
+public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+ Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If
+there are circumstances that make our learning environment and activities difficult, if
+you have medical information that you need to share with me, or if you need specific
+arrangements in case the building needs to be evacuated, please let me know. I am
+committed to creating an effective learning environment for all students, but I can only
+do so if you discuss your needs with me as early as possible. I promise to maintain the
+confidentiality of these discussions. Any student with a documented disability who
+requires academic accommodations should contact Services for Students with
+Disabilities at 471-6259 (voice) or 512-410-6644 (Video Phone) as soon as possible to
+request an official letter outlining authorized accommodations. For more information,
+visit http://ddce.utexas.edu/disability/about/.
+Counseling and Mental Health Center
+     Do your best to maintain a healthy lifestyle this semester by eating well, exercising,
+     avoiding drugs and alcohol, getting enough sleep and taking some time to relax.
+     This will help you achieve your goals and cope with stress.
+All of us benefit from support during times of struggle. You are not alone. There are
+many helpful resources available on campus and an important part of the college
+experience is learning how to ask for help. Asking for support sooner rather than later is
+often helpful.
+     If you or anyone you know experiences any academic stress, difficult life events, or
+     feelings like anxiety or depression, we strongly encourage you to seek support.
+     http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+     Did you know that more than one-third of UT undergraduate students use the
+     Sanger Learning Center each year to improve their academic performance? All
+     students are welcome to take advantage of Sanger Center’s classes and workshops,
+     private learning specialist appointments, peer academic coaching, and tutoring for
+     more than 70 courses in 15 different subject areas. For more information, please
+     visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+
+
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+BeVocal
+BeVocal is a university-wide initiative to promote the idea that individual Longhorns
+have the power to prevent high-risk behavior and harm. At UT Austin all Longhorns
+have the power to intervene and reduce harm. To learn more about BeVocal and how
+you can help to build a culture of care on campus, go to:
+wellnessnetwork.utexas.edu/BeVocal.
+Important Safety Information:
+If you have concerns about the safety or behavior of fellow students, TAs or
+Professors, call BCAL (the Behavior Concerns Advice Line): 512-232-5050. Your
+call can be anonymous. If something doesn’t feel right – it probably isn’t. Trust
+your instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office
+of Campus Safety and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to
+evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+requires exiting and assembling outside.
+·      Familiarize yourself with all exit doors of each classroom and building you may
+occupy. Remember that the nearest exit door may not be the one you used when
+entering the building.
+·     Students requiring assistance in evacuation shall inform their instructor in writing
+during the first week of class.
+·     In the event of an evacuation, follow the instruction of faculty or class instructors.
+Do not re-enter a building unless given instructions by the following: Austin Fire
+Department, The University of Texas at Austin Police Department, or Fire Prevention
+Services office.
+·     Link to information regarding emergency evacuation routes and emergency
+procedures can be found at:
+www.utexas.edu/emergency
+
+
+Title IX Reporting
+     Title IX is a federal law that protects against sex and gender based discrimination,
+     sexual harassment, sexual assault, sexual misconduct, dating/domestic violence
+     and stalking at federally funded educational institutions. UT Austin is committed
+     to fostering a learning and working environment free from discrimination in all its
+     forms. When sexual misconduct occurs in our community, the university can:
+             1. Intervene to prevent harmful behavior from continuing or escalating.
+             2. Provide support and remedies to students and employees who have
+             experienced harm or have become involved in a Title IX investigation.
+             3. Investigate and discipline violations of the university’s relevant policies.
+     Faculty members and certain staff members are considered “Responsible
+     Employees” or “Mandatory Reporters,” which means that they are required to
+     report violations of Title IX to the Title IX Coordinator. I am a Responsible
+     Employee and must report any Title IX related incidents that are disclosed in
+     writing, discussion, or one-on-one. Before talking with me, or with any faculty or
+     staff member about a Title IX related incident, be sure to ask whether they are a
+     responsible employee. If you want to speak with someone for support or remedies
+     without making an official report to the university, email
+     advocate@austin.utexas.edu For more information about reporting options and
+     resources, visit titleix.utexas.edu or contact the Title IX Office at
+     titleix@austin.utexas.edu.
+The following recommendations regarding emergency evacuation from the Office
+of Campus Safety and Security, 512-471-5767, http://www.utexas.edu/safety/

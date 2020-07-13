@@ -1,0 +1,153 @@
+              ADV309R: Introduction to Advertising/PR Research
+                                  Tuesday & Thursday 8:00-9:30am
+                                           2019 Fall Semester
+                                               CMB 2.102
+Instructor       Jay (Jung Ah) Lee
+                 Office: BMC 4.322
+                 Email: advpr309r@gmail.com
+                 Office hours: Tuesday & Thursday 9:30 – 11am & by appointment
+Teaching Assistant        Brooke Borglum
+                          Email: kbrookeborglum@gmail.com
+                          Nikita Mathur
+                          Email: nikita_mathur@utexas.edu
+Required Text
+Davis, J. J. (2012). Advertising Research: Theory and Practice, 2nd Ed. Saddle River, NJ:
+         Prentice Hall.
+ •    Available at the Coop or online – you may acquire it from wherever and in whatever form, just
+      make sure it’s 2nd edition.
+Technological Requirements
+All students will be required to use SPSS throughout the semester. You may access SPSS in the
+following ways:
+●    Campus Labs: MEZ 2.104 (limited number of copies)
+●    IBM SPSS 14-day free trial. Do not download it before assignment 3 is posted. You have limited
+     days of access. https://www.ibm.com/analytics/us/en/technology/spss/spss-trials.html
+●    You may purchase a 6-month or 1-year student license of IBM SPSS (Base Grad Pack) for $42.99
+     or $65.99, respectively. Visit the following: http://www.onthehub.com/spss/
+Course Description
+The purpose of this course is for students to become familiar with core advertising research
+methods. We will explore both traditional and contemporary research methods. Key methods
+include qualitative, quantitative and digital. An emphasis will be placed on quantitative research
+and will cover topics such as sampling, measurement, descriptive and inferential statistics. Given
+that this course carries the quantitative reasoning flag, quantitative skills such as analyzing data
+and basic calculation will be expected to succeed in this class. To substantiate students’
+understanding of how each method is put into use, students will be exposed to empirical research
+findings relevant to the field of advertising and consumer psychology. In addition, students will not
+
+
+only learn about research methods but also be practicing research firsthand through class
+assignments – including conducting interviews, designing survey questionnaires, and
+analyzing/interpreting/reporting data through SPSS software.
+Major Course Assignments
+Assignments. There will be three assignments. All three assignments must be done individually,
+meaning you may not discuss or work collaboratively with others. For the last assignment
+(assignment 3), you will analyze data through SPSS software which you will be responsible to have
+access to (see “technological requirements” section). Each assignment will be posted to Canvas and
+will be due approximately one or two weeks later depending on the scope of the assignment. You
+will submit your completed assignments to Canvas.
+    Policy 1. Late work will NOT be accepted, meaning if you submit your assignment 1 minute after
+    the deadline - it is considered late and you will receive a zero.
+    Policy 2. The instructor or the TA will not proofread assignments. However, you will have sufficient
+    opportunity to ask questions and work closely with us face-to-face during office hours.
+    Policy 3. Grades for assignments will be discussed only during the week immediately following
+    when the grades are posted to Canvas.
+Exams. There will be three exams. Exams reflect material covered in lectures and readings. Exams
+are 50 multiple choice questions. The third exam will be your final exam and cumulative, covering
+all topics covered from day 1 to the last day of class.
+    Policy 1. Make-up exams are only given in the case of documented emergencies.
+    Policy 2. You may bring calculators for the exams, but not graphing calculators or phone
+    calculators.
+    Policy 3. Grades for exams will be discussed only during the week immediately following when the
+    grades are posted to Canvas.
+Attendance. I will administer 6 attendance check-ins this semester on random class meetings. Only
+5 will count toward you grade. This means that you can miss 1 without penalty.
+Evaluation
+                                       % of Final Grade
+ Assignment 1                          10%
+ Assignment 2                          10%
+ Assignment 3                          15%
+ Exam 1                                15%
+ Exam 2                                20%
+ Cumulative Exam 3                     25%
+ Attendance                            5%
+Final grades will be based on the following scale:
+     93-100% = A           87-89% = B+          77-79% = C+           67-69% = D+     59 and below = F
+     90-92% = A-            83-86% = B          73-76% = C             63-66% = D
+                           80-82% = B-          70-72% = C-           60-62% = D-
+
+
+Course Schedule
+Below is a tentative course schedule. The schedule may change, in which changes will be announced
+via Canvas and in class.
+                                   Topic                          Assignment Due
+    8/29      Th     Course Syllabus Review
+     9/3       T     Overview
+                         • Chapter readings: 1, 2
+     9/5      Th     Sampling
+                         • Chapter readings: 4
+    9/10       T     Qualitative Research
+                         • Chapter readings: 5
+    9/12      Th     Observation Research
+                         • Chapter readings: 9
+    9/17       T     Survey Research
+    9/19      Th     Guest Lecture                  Assignment 1 due by 11:59pm via Canvas
+    9/24       T     Exam 1 review
+    9/26      Th     Exam 1
+    10/1       T     Measurement
+                         • Chapter readings: 11
+    10/3      Th     Writing Survey Questions
+                         • Chapter readings: 12
+    10/8       T     Experimentation
+                         • Chapter readings: 14
+    10/10     Th     Experimentation
+    10/15      T     Descriptive Statistics
+                         • Chapter readings: 15
+    10/17     Th     Guest Lecture                  Assignment 2 due by 11:59pm via Canvas
+    10/22      T     Inferential Statistics
+                         • Chapter readings: 16
+    10/24     Th     Inferential Statistics
+    10/29      T     Introduction to SPSS
+    10/31     Th     Work on assignment 3 – I’ll be Assignment 3 due by 11:59pm via Canvas
+                     in class to answer questions
+    11/5       T     Exam 2 review
+    11/7      Th     Exam 2
+    11/12      T     Segmentation
+                         • Chapter readings: 17
+    11/14     Th     New Media Research
+    11/19      T     New Media Research
+    11/21     Th     New Media Research
+    11/26      T     Thanksgiving break
+    11/28     Th     Thanksgiving break
+    12/3       T     Exam review
+    12/5      Th     Cumulative Final Exam
+
+
+University of Texas Honor Code. The core values of The University of Texas at Austin are
+learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each
+member of the university is expected to uphold these values through integrity, honesty,
+trust, fairness, and respect toward peers and community. More specifically, you and other
+students are expected to maintain absolute integrity and a high standard of individual honor in
+scholastic work undertaken at the University. This is a very basic expectation that is further
+reinforced by the University's Honor Code. At a minimum, you should complete any
+assignments, exams, and other scholastic endeavors with the utmost honesty, which requires
+you to:
+   •    acknowledge the contributions of other sources to your scholastic efforts;
+   •    complete your assignments independently unless expressly authorized to seek or obtain
+        assistance in preparing them;
+   •    follow instructions for assignments and exams, and observe the standards of your academic
+        discipline; and
+   •    avoid engaging in any form of academic dishonesty on behalf of yourself or another student.
+Any form of plagiarism will result in a “0” in the assignment. If you decide to borrow any
+external source, they must be properly referenced (i.e., cited). If you have any questions,
+please email and ask!
+Students with Disabilities. Please notify the instructor of any disability-related
+accommodations needed. Specialized services are available on campus through Services for
+Students with Disabilities: 512-471-6259 (voice), 866-329-3986 (video phone), or
+http://ddce.utexas.edu/disability/about/
+Religious Holy Days. By UT Austin policy, you must notify me of your pending absence at least
+fourteen days prior to the date of observance of a religious holy day. If you must miss a class or
+an assignment due date in order to observe a religious holy day, I will give you an opportunity
+to complete the missed work within a reasonable time after the absence.
+Additional Resources.
+Counseling and Mental Health Center: http://www.cmhc.utexas.edu/individualcounseling.html
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/

@@ -1,0 +1,715 @@
+                                                                   SPRING 2019
+Course:                   MKT 382
+                          Also: ADV 391K
+                          Analytical Tools for Marketing Decisions
+                          RRH 5.402 TTH 11:00AM-12:30PM
+Instructor:               Vijay Mahajan
+                          Office: CBA 3.228          Tel. 512-471-1128
+                          Office Hours: TTH 12:30PM-1:30PM in the faculty lounge (RRH
+                          5.416) and by appointment in my office (CBA 3.228)
+Teaching Assistant:       Chandra Srivastava
+                          Office: CBA 5.334T
+                          Office Hours: TTH 10-11AM and by appointment
+COURSE OBJECTIVES
+This course deals with concepts, methods, and applications of analytical tools to address such
+marketing issues as segmentation, targeting and positioning, new product design and
+development, advertising, and sales force management and promotion planning. The course
+is designed for MBA students who have some background in or understanding of marketing
+principles and exposure to spreadsheet programs such as EXCEL.
+Unlike conventional capstone marketing courses that focus on conceptual material, this
+course will attempt to provide skills to translate conceptual understanding into specific
+operational plans -- a skill in increasing demand in organizations today. Using market
+simulations and related exercises tied to PC-based computer software tools, students will
+develop marketing plans in various decision contexts.
+Specifically, the course objectives are to:
+        * Provide students with an understanding of the role that analytical techniques and
+          computer models can play in enhancing marketing decision making in modern
+          enterprises.
+        * Improve students’ skill in viewing marketing processes and relationships
+          systematically and analytically.
+        * Expose students to numerous examples demonstrating the value of the analytical
+          tools to marketing decision-making.
+                                             -1-
+
+
+        * Provide students with the software tools that enable them to apply the models and
+          methods taught in the course to real marketing problems.
+The course will be of particular value to students planning careers in marketing and
+management consulting, brand management, and marketing/business analytics.
+REQUIRED COURSE MATERIAL
+    1. Gary L. Lilien, Arvind Rangaswamy and Arnand DBruyn (2017), Principles of
+        Marketing Engineering and Analytics, Decision Pro Inc. 3rd edition
+    2. Software: Marketing Engineering for Excel (MEXL), which includes tutorials and
+        cases for each of the modules covered in the course. To access the software,
+        subscribe to the Marketing Engineering student materials as described on next page
+        (page 3). The website will require the Student Access Code to qualify you to purchase
+        the academically priced software. Once subscribed, follow the directions on the
+        handout to either download the software to your Windows computer or access the
+        software online with your Mac computer.
+GRADING
+                 Group homework (8)                            40%
+                 Presentation of assigned homework (1)         10 %
+                 Peer evaluation                               10%
+                 Term Project
+                   * Presentation                              15%
+                   * Report                                    25%
+CLASS PARTICIPATION / ATTENDANCE
+Class sessions will be devoted to probing, extending and applying the material in the text and
+the cases. It is your responsibility to be prepared for each session according to the class
+outline. Each one of you will benefit from belonging to a ‘study group’ that meets and
+prepares for each session before coming to class.
+Each of you is expected to contribute to class discussions. To do well, you must actively
+participate in presentations and class discussions. Any student who has two unexcused class
+absences will have his or her end of semester grade reduced by one-half grade. Each
+additional unexcused absence will result in the student’s grade being reduced by an
+additional one-half grade. Excused absences do not include obligations to other classes or
+otherwise worthy university or professional activities. Excused absences are for personal
+events and if you are unable to attend a particular session, please inform us as soon as
+possible. Out of respect for your fellow classmates, all students must arrive on time for class
+and not leave until the class is formally dismissed. YOU MUST PLACE YOUR NAME
+CARD IN FRONT OF YOU IN EVERY CLASS TO RECEIVE CREDIT FOR YOUR
+ATTENDANCE AND CLASS PARTICIPATION.
+                                              -2-
+
+
+-3-
+
+GROUP HOMEWORK
+The class will form preferably eight groups during the first week of class. These groups will
+complete both the weekly homework and the semester project. Group members must prepare
+jointly for class discussions.
+The write-up for each group homework should not exceed five double-spaced typed pages.
+The format of the write-up should include (but not restricted to) the following parts: (1)
+executive summary with a brief description of the case in hand and objectives of the analysis,
+and some highlights of your recommendations, (2) the analysis that supports your
+recommendations, (3) justification of any assumptions that you use in the analysis as well as
+limitations of your analysis, and (4) a brief conclusion. Appendices may be attached as
+necessary. Each group will be assigned the responsibility for presenting one homework for
+the class. The presentation assignments are listed in the class schedule. The presentation
+should not exceed half an hour. Class discussion should reinforce common ideas, critique
+potential problems, and offer additional insights to the presentation by the presentation
+group.
+Groups should try to form such that at least one member of the group has personal access to a
+computer with the characteristics as described in the section on Required Course Material –
+Software.
+TERM PROJECT
+The objective of the term project is to provide you with an opportunity to apply what you
+learn in class to a real marketing issue of interest to you. As a first step, you have to select a
+project of interest to your group.
+Then you must select or develop a model to address a specific marketing problem
+(segmentation, forecasting, etc.) facing a specific company. It is your responsibility to
+identify a suitable company for this assignment. One place to start is with your former
+employer. Other possibilities include contacting Texas alumni, or executives in companies
+sufficiently close by. You are only limited by your imagination!
+You must discuss your projects with the course instructor prior to working on the report and
+presentation, and you must turn in a two-page description of your project plan by the
+deadline on the class schedule. Some examples of projects in the past two years include:
+        *  Salesforce compensation model for a global computer manufacturer
+        *  Pricing model for a non-profit entertainment company
+        *  Market share simulator for a detergent market
+        *  Positioning for a local restaurant
+        *  Customer segmentation for a local coffee shop
+        *  Customer segmentation for an innovative snack
+        *  Conjoint analysis for the Texas MBA Global Trip program
+                                              -4-
+
+
+        * Conjoint analysis for the loyalty program of a convenient store
+        * A model for identifying customers most likely to upgrade to the next version of a
+        software package.
+        * Positioning model for an Internet information service
+For the term project, you can either build a model of your own, or adapt one (or a few) of the
+models in the course suite to an actual problem. You may choose to work on a project that
+involves one of the software tools not covered in class. In either case, your presentation must
+make clear how the model works and how you have used it to arrive at a marketing decision.
+The projects will be turned in as follows: During the final sessions of the semester, each
+group will make a presentation to the entire class on their assigned date, lasting about 30
+minutes. During the last class session, you will turn in a copy of all of your slides and two
+copies of a short report not exceeding 15 pages, double-spaced excluding exhibits.
+PEER EVALUATION
+To ensure that each group member performs responsibly, 10% of the total grade will be
+based on a peer evaluation conducted at the end of the semester. Group members will rate
+each group member, including themselves, on a 10-point scale. The average of these ratings
+will be the peer evaluation score. For example, if you rate yourself 8, and other members rate
+you 9, 8 and 9, your peer evaluation will be 8.5. You should be honest and impartial in your
+evaluations. The instructor reserves the right to correct and/or discard evaluations if they
+appear to be questionable. Two peer evaluation forms, one each for the project and the
+homework assignments, are included in your course package. They should be filled out and
+returned to the instructor after the project presentation.
+ABOUT THE INSTRUCTOR
+Vijay Mahajan holds the John P. Harbin Centennial Chair in Business at Mccombs School of
+Business, University of Texas at Austin. He has received numerous lifetime achievement
+awards including the American Marketing Association (AMA) Charles Coolidge Parlin
+Award for visionary leadership in scientific marketing. The AMA also instituted the Vijay
+Mahajan Award in 2000 for career contributions to marketing strategy. In 2006, he received
+the Distinguished Alumnus Award from the Indian Institute of Technology (Kanpur) for his
+contributions to management research. He served as the dean of the Indian School of
+Business, Hyderabad, from 2002-2004. He served as the Associate Dean for Research for the
+McCombs School of Business, University of Texas at Austin, from 1991-1994. He served on
+the World Economic Forum Global Agenda Council for The Arab World from 2012-2014.
+Professor Mahajan is author or editor of thirteen books including his recent 2016 book, The
+Rise of Rural Consumers in Developing Countries: Harvesting 3 Billion Aspirations. These
+books have been translated into twelve languages. His book, The 86% Solution, received the
+Book-of-the-Year award (Berry-American Marketing Association) in 2007 and Convergence
+                                              -5-
+
+
+Marketing and Africa Rising were among the finalists for the same award in 2003 and 2010
+respectively. Professor Mahajan has been invited by The World Bank, several think tanks
+and more than 120 universities and research institutions worldwide for research
+presentations. He has also been the editor of the Journal of Marketing Research. Professor
+Mahajan's research has been reported and reviewed in dozens of media outlets in many
+countries including CBS, BBC, NPR, Wall Street Journal, NY Times, Washington Post, LA
+Times, Financial Times UK, Economist, Harvard Business Review, Time magazine,
+Knowledge@Wharton, Fast Company, Shanghai Daily, Ode, Inc., Economic Times India,
+Indian Management magazine, IndiaNow (India Brand Equity Foundation/Ministry of
+Commerce and Industry), Livemint ( India), Austin-American Statesman, Hindu Business
+Line, Jeune Afrique France, African Business UK, Gulf News, Asharq Alawsat UK,
+Chosunilbo South Korea, Absatzwirtschaft Germany, LaPresse Canada, Lactualite Canada,
+The Island Sri Lanka, Lider Crotia, MS Marketing Srbija Serbia, Management Today UK,
+Domus Italy, Business Day South Africa, Politiken Denmark, The Nation UAE, and Kitaab
+Singapore. Professor Mahajan has consulted with various Fortune 500 companies and has
+delivered executive development programs worldwide. Mahajan received B.Tech in
+Chemical Engineering from the Indian Institute of Technology at Kanpur, his M.S. in
+Chemical Engineering and Ph.D in Management from the University of Texas at Austin.
+ABOUT THE TEACHING ASSISTANT
+Chandra Srivastava is a doctoral student in marketing at the McCombs School of Business,
+and received BA degrees in economics and history from the University of Texas at Austin.
+Prior to joining the marketing department, Chandra worked for five years in the primary
+research division of a consulting firm that specialized in corporate crisis management and
+corporate reputation management. Chandra’s research examines 1) the impact that female
+representation in the c-suite has on strategic marketing decisions and financial performance,
+and 2) the impact that social media crises and firm interventions have on firm performance.
+                                             -6-
+
+
+Group #_______
+                                           Confidential
+                        Peer Evaluation Form for Term Project
+                                             MKT 382
+The purpose of this evaluation is to measure the contribution of each member of the group
+effort in successfully completing the project. Each member will rate the relative contribution
+of all members in the group on a 10-point scale. The average of these ratings will be the peer
+evaluation score. For example, if you rate your contribution 8, and other members rate you a
+9, 8 and 9, then your peer evaluation will be 8.5. You should be honest and impartial in your
+evaluations. The instructor reserves the right to correct and/or discard evaluations that are
+questionable. Please use the scale shown below:
+  Enter the name of each   Rate the member’s
+ group member, yourself    contribution on the   Please provide some justification for your score below:
+        first, below          0-10 scale:
+1.
+2.
+3.
+4.
+Please return this form to Prof. Mahajan’s mailbox in the Marketing Department, CBA 7.202
+                                               -7-
+
+
+                                                                                      Group #_______
+                                           Confidential
+                     Peer Evaluation Form for Group Homework
+                                             MKT 382
+The purpose of this evaluation is to measure the contribution of each member of the group
+effort in successfully completing the homeworks. Each member will rate the relative
+contribution of all members in the group on a 10-point scale. The average of these ratings
+will be the peer evaluation score. For example, if you rate your contribution 8, and other
+members rate you a 9, 8 and 9, then your peer evaluation will be 8.5. You should be honest
+and impartial in your evaluations. The instructor reserves the right to correct and/or discard
+evaluations that are questionable. Please use the scale shown below:
+  Enter the name of each   Rate the member’s
+ group member, yourself    contribution on the   Please provide some justification for your score below:
+        first, below          0-10 scale:
+1.
+2.
+3.
+4.
+Please return this form to Prof. Mahajan’s mailbox in the Marketing Department, CBA 7.202
+                                               -8-
+
+
+                                            Class Schedule
+                               Analytical Tools for Marketing Decisions
+ & = To turn in Homework
+ : = Indicated group to present same homework
+SESSION      DATE         TOPICS & TOOLS                        CASES / READINGS PRESENTATIONS
+                                                                DUE
+                          • Intro to Marketing Models           • Chapter 1,9
+               T 1/22
+    1                     • Syllabus Review
+                          • Software Overview                   • Chapter 1,9
+              TH 1/24     • Response Models
+    2                       • How does non-linear response
+                              affect allocation of resources?
+                          • Startup Tutorial for Marketing      •  Chapter 1
+                            Engineering Software                •  Braincell
+                                                                   Internet
+               T 1/29
+                          • Response Models Contd.                 Advertising
+    3                     • Braincell Software                     Case
+                          • Group Formation
+                          • Braincell Software Contd.           •  Chapter 1,9
+                                                                •  Braincell
+              TH 1/31                                              Internet
+    4                                                              Advertising
+                                                                   Case
+                          •   Budgeting for Advertising         •  Chapter 7
+                                                                   (pp.211-214)
+                            • How does the market respond to
+                T 2/5
+                              advertising?                      •  Blue Mountain
+    5                                                              Coffee Case
+                            • How should advertising dollars be
+                              allocated over time?
+                                                     -9-
+
+
+           •   Budgeting for Advertising           • Chapter 7     • & Braincell
+               Contd.                                (pp.211-214)    Internet
+   TH 2/7
+6                                                  • Blue Mountain   Advertising Case
+           • ADBUDG Software                         Coffee Case   : Group 1
+           • ADBUDG Software Contd.                • Chapter 3
+                                                   • Conglomerate
+           • Segmenting & Targeting                  Inc.’s new
+    T 2/12                                           PDA Case
+             • How can market segments be
+7              identified and distinguished?
+             • Which segments offer the highest
+               potential?
+           •   Segmenting & Targeting              • Chapter 3
+   TH 2/14
+               Contd.                              • Conglomerate
+8                                                    Inc.’s new
+           •   Cluster Analysis Software             PDA Case
+           •   Cluster Analysis Software           • Conglomerate  & Blue Mountain
+    T 2/19     Contd.                                Inc.’s new      Coffee Case
+9                                                    PDA Case      : Group 2
+           •   Product Positioning                 • Chapter 4
+               • How   do consumers perceive the   • Infiniti G20
+   TH 2/21     brands in a market?                   Case
+10             • How   can a product differentiate
+               itself on a key perceptual
+               dimension?
+           •   Product Positioning Contd.          • Chapter 4
+    T 2/26
+                                                   • Infiniti G20
+11         •   Perceptual Mapping                    Case
+               Software
+                                     - 10 -
+
+
+           •    Perceptual Mapping              • Chapter 6      & PDA Case
+                Software Contd.                 • Forte          : Group 3
+                                                  Executive Inns
+   TH 2/28 •    Product Development/              Case
+12              Conjoint Analysis
+           •    Which of the available features
+                should a new product include?
+           •    Product Development/            • Chapter 6
+                Conjoint Analysis Contd.        • Forte
+13  T 3/5                                         Executive Inns
+           •    Conjoint Software                 Case
+                                                • Forte
+   TH 3/7
+14         • Conjoint Software Contd.             Executive Inns
+                                                  Case
+    T 3/12 • Project Plan Preparation
+15
+   TH 3/14 • Project Plan Preparation
+16
+           •     Customer Value Assessment      • Chapter 2
+                and Valuing Customers           • ABB Electric
+    T 3/26 • Customer Value Assessment            Case
+17              Software
+           • Customer Value Assessment          • Chapter 2      & Infiniti G20 Case
+   TH 3/28
+                Software Contd.                 • ABB Electric   : Group 4
+18                                                Case
+           • Salesforce Management              • Chapter 7      & Forte Executive
+                                                  (pp.214-220)     Inns Case
+           • How should salesforce size be      • Syntex Labs    : Group 5
+    T 4/2    determined?                          Case
+19
+           • How should the salesforce be
+             allocated to multiple products and
+             distribution channels?
+                                     - 11 -
+
+
+            • Salesforce Management         • Chapter 7      Ì Project Plan
+               Contd.                         (pp.214-220)      Due
+    TH 4/4                                  • Syntex Labs
+20          • Sales Resource Allocation       Case
+               (Syngen Software)
+              • Syngen Software Contd.      • Chapter 5      & ABB Electric
+     T 4/9                                  • OfficeStar Ink Case
+21            • New Product Forecasting       Cartridge Case : Group 6
+            • New Product Forecasting       • Chapter 5
+    TH 4/11   Contd.                        • OfficeStar Ink
+22          • Trial-Repeat Software           Cartridge Case
+                                                             & Syntex Labs
+23   T 4/16 • Trial-Repeat Software Contd                       Case
+                                                             : Group 7
+    TH 4/18
+24          • Group Project Preparation
+                                                             & Office Star Case
+     T 4/23 • Trial-Repeat Case                              : Group 8
+25
+    TH 4/25
+            • Presentations
+26             (Groups 1 and 2)
+     T 4/30
+            • Presentations
+27             (Groups 3 and 4)
+            • Presentations
+ 28 TH 5/2
+               (Groups 5 and 6)
+            • Presentations
+29   T 5/7
+               (Groups 7 and 8)
+            •    Wrap up
+30  TH 5/9  •    Project report, submission
+                 and discussion
+                                   - 12 -
+
+
+Academic Dishonesty
+I have no tolerance for acts of academic dishonesty. Such acts damage the reputation of the
+school and the degree and demean the honest efforts of the majority of students. The
+minimum penalty for an act of academic dishonesty will be a zero for that assignment or
+exam.
+The responsibilities for both students and faculty with regard to the Honor System are
+described on http://mba.mccombs.utexas.edu/students/academics/honor/index.asp and on the
+final pages of this syllabus. As the instructor for this course, I agree to observe all the faculty
+responsibilities described therein. During Orientation, you signed the Honor Code Pledge. In
+doing so, you agreed to observe all of the student responsibilities of the Honor Code. If the
+application of the Honor System to this class and its assignments is unclear in any way, it is
+your responsibility to ask me for clarification.
+Insert specific guidance you have here. For example:
+As specific guidance for this course, you should consider the writing of all examinations to
+be an individual effort. Group preparation for examinations is acceptable and encouraged.
+Homework assignments are to be turned in individually but I encourage you to work together
+in answering the questions. You should, however, develop your own answer and not cut and
+paste the work of others.
+Students with Disabilities
+Upon request, the University of Texas at Austin provides appropriate academic
+accommodations for qualified students with disabilities. Services for Students with
+Disabilities (SSD) is housed in the Office of the Dean of Students, located on the fourth floor
+of the Student Services Building. Information on how to register, downloadable forms,
+including guidelines for documentation, accommodation request letters, and releases of
+information are available online at http://deanofstudents.utexas.edu/ssd/index.php. Please do
+not hesitate to contact SSD at (512) 471-6259, VP: (512) 232-2937 or via e-mail if you have
+any questions.
+Honor Code Purpose
+Academic honor, trust and integrity are fundamental to The University of Texas at Austin
+McCombs School of Business community. They contribute directly to the quality of your
+education and reach far beyond the campus to your overall standing within the business
+community. The University of Texas at Austin McCombs School of Business Honor System
+promotes academic honor, trust and integrity throughout the Graduate School of Business.
+The Honor System relies upon The University of Texas Student Standards of Conduct
+(Chapter 11 of the Institutional Rules on Student Service and Activities) for enforcement, but
+promotes ideals that are higher than merely enforceable standards. Every student is
+responsible for understanding and abiding by the provisions of the Honor System and the
+University of Texas Student Standards of Conduct. The University expects all students to
+obey the law, show respect for other members of the university community, perform
+contractual obligations, maintain absolute integrity and the highest standard of individual
+honor in scholastic work, and observe the highest standards of conduct. Ignorance of the
+                                             - 13 -
+
+
+Honor System or The University of Texas Student Standards of Conduct is not an acceptable
+excuse for violations under any circumstances.
+The effectiveness of the Honor System results solely from the wholehearted and
+uncompromising support of each member of the Graduate School of Business community.
+Each member must abide by the Honor System and must be intolerant of any violations. The
+system is only as effective as you make it.
+Faculty Involvement in the Honor System
+The University of Texas at Austin McCombs School of Business Faculty's commitment to
+the Honor System is critical to its success. It is imperative that faculty make their
+expectations clear to all students. They must also respond to accusations of cheating or other
+misconduct by students in a timely, discrete and fair manner. We urge faculty members to
+promote awareness of the importance of integrity through in-class discussions and
+assignments throughout the semester.
+Expectations Under the Honor System
+Standards
+If a student is uncertain about the standards of conduct in a particular setting, he or she
+should ask the relevant faculty member for clarification to ensure his or her conduct falls
+within the expected scope of honor, trust and integrity as promoted by the Honor System.
+This applies to all tests, papers and group and individual work. Questions about appropriate
+behavior during the job search should be addressed to a professional member of the Career
+Services Office. Below are some of the specific examples of violations of the Honor System.
+Lying
+Lying is any deliberate attempt to deceive another by stating an untruth, or by any direct
+form of communication to include the telling of a partial truth. Lying includes the use or
+omission of any information with the intent to deceive or mislead. Examples of lying include,
+but are not limited to, providing a false excuse for why a test was missed or presenting false
+information to a recruiter.
+Stealing
+Stealing is wrongfully taking, obtaining, withholding, defacing or destroying any person's
+money, personal property, article or service, under any circumstances. Examples of stealing
+include, but are not limited to, removing course material from the library or hiding it from
+others, removing material from another person's mail folder, securing for one's self
+unattended items such as calculators, books, book bags or other personal property. Another
+form of stealing is the duplication of copyrighted material beyond the reasonable bounds of
+"fair use." Defacing (e.g., "marking up" or highlighting) library books is also considered
+stealing, because, through a willful act, the value of another's property is decreased. (See the
+appendix for a detailed explanation of "fair use.")
+Cheating
+Cheating is wrongfully and unfairly acting out of self-interest for personal gain by seeking or
+accepting an unauthorized advantage over one's peers. Examples include, but are not limited
+to, obtaining questions or answers to tests or quizzes, and getting assistance on case write-ups
+                                             - 14 -
+
+
+or other projects beyond what is authorized by the assigning instructor. It is also cheating to
+accept the benefit(s) of another person's theft(s) even if not actively sought. For instance, if
+one continues to be attentive to an overhead conversation about a test or case write-up even if
+initial exposure to such information was accidental and beyond the control of the student in
+question, one is also cheating. If a student overhears a conversation or any information that
+any faculty member might reasonably wish to withhold from the student, the student should
+inform the faculty member(s) of the information and circumstance under which it was
+overheard.
+Actions Required for Responding to Suspected and Known Violations
+As stated, everyone must abide by the Honor System and be intolerant of violations. If you
+suspect a violation has occurred, you should first speak to the suspected violator in an
+attempt to determine if an infraction has taken place. If, after doing so, you still believe that a
+violation has occurred, you must tell the suspected violator that he or she must report himself
+or herself to the course professor or Associate Dean of the Graduate School of Business. If
+the individual fails to report himself or herself within 48 hours, it then becomes your
+obligation to report the infraction to the course professor or the Associate Dean of the
+Graduate School of Business. Remember that although you are not required by regulation to
+take any action, our Honor System is only as effective as you make it. If you remain silent
+when you suspect or know of a violation, you are approving of such dishonorable conduct as
+the community standard. You are thereby precipitating a repetition of such violations.
+The Honor Pledge
+The University of Texas at Austin McCombs School of Business requires each enrolled
+student to adopt the Honor System. The Honor Pledge best describes the conduct promoted
+by the Honor System. It is as follows:
+"I affirm that I belong to the honorable community of The University of Texas at Austin
+Graduate School of Business. I will not lie, cheat or steal, nor will I tolerate those who do."
+"I pledge my full support to the Honor System. I agree to be bound at all times by the Honor
+System and understand that any violation may result in my dismissal from the Graduate
+School of Business."
+The following pages provide specific guidance about the Standard of Academic
+Integrity at the University of Texas at Austin. Please read it carefully and feel free to
+ask me any questions you might have.
+The Standard of Academic Integrity
+A fundamental principle for any educational institution, academic integrity is highly valued
+and seriously regarded at The University of Texas at Austin, as emphasized in the standards
+of conduct. More specifically, you and other students are expected to "maintain absolute
+integrity and a high standard of individual honor in scholastic work" undertaken at the
+University (Sec. 11-801, Institutional Rules on Student Services and Activities). This is a very
+basic expectation that is further reinforced by the University's Honor Code. At a minimum,
+you should complete any assignments, exams, and other scholastic endeavors with the utmost
+honesty, which requires you to:
+     •   acknowledge the contributions of other sources to your scholastic efforts;
+                                             - 15 -
+
+
+    •    complete your assignments independently unless expressly authorized to seek or
+         obtain assistance in preparing them;
+    •    follow instructions for assignments and exams, and observe the standards of your
+         academic discipline; and
+    •    avoid engaging in any form of academic dishonesty on behalf of yourself or another
+         student.
+For the official policies on academic integrity and scholastic dishonesty, please refer to
+Chapter 11 of the Institutional Rules on Student Services and Activities.
+What is Scholastic Dishonesty?
+In promoting a high standard of academic integrity, the University broadly defines scholastic
+dishonesty—basically, all conduct that violates this standard, including any act designed to
+give an unfair or undeserved academic advantage, such as:
+    •    Cheating
+    •    Plagiarism
+    •    Unauthorized Collaboration
+    •    Collusion
+    •    Falsifying Academic Records
+    •    Misrepresenting Facts (e.g., providing false information to postpone an exam, obtain
+         an extended deadline for an assignment, or even gain an unearned financial benefit)
+    •    Any other acts (or attempted acts) that violate the basic standard of academic integrity
+         (e.g., multiple submissions—submitting essentially the same written assignment for
+         two courses without authorization to do so)
+Several types of scholastic dishonesty—unauthorized collaboration, plagiarism, and multiple
+submissions—are discussed in more detail on this Web site to correct common
+misperceptions about these particular offenses and suggest ways to avoid committing them.
+For the University's official definition of scholastic dishonesty, see Section 11-802,
+Institutional Rules on Student Services and Activities.
+Unauthorized Collaboration
+If you work with another person on an assignment for credit without the instructor's
+permission to do so, you are engaging in unauthorized collaboration.
+    •    This common form of academic dishonesty can occur with all types of scholastic
+         work—papers, homework, tests (take-home or in-class), lab reports, computer
+         programming projects, or any other assignments to be submitted for credit.
+    •    For the University's official definitions of unauthorized collaboration and the related
+         offense of collusion, see Sections 11-802(c)(6) & 11-802(e), Institutional Rules on
+         Student Services and Activities.
+Some students mistakenly assume that they can work together on an assignment as long
+as the instructor has not expressly prohibited collaborative efforts.
+                                               - 16 -
+
+
+    •  Actually, students are expected to complete assignments independently unless the
+       course instructor indicates otherwise. So working together on assignments is not
+       permitted unless the instructor specifically approves of any such collaboration.
+Unfortunately, students who engage in unauthorized collaboration tend to justify doing
+so through various rationalizations. For example, some argue that they contributed to
+the work, and others maintain that working together on an assignment "helped them
+learn better."
+    •  The instructor—not the student—determines the purpose of a particular assignment
+       and the acceptable method for completing it. Unless working together on an
+       assignment has been specifically authorized, always assume it is not allowed.
+    •  Many educators do value group assignments and other collaborative efforts,
+       recognizing their potential for developing and enhancing specific learning skills. And
+       course requirements in some classes do consist primarily of group assignments. But
+       the expectation of individual work is the prevailing norm in many classes, consistent
+       with the presumption of original work that remains a fundamental tenet of scholarship
+       in the American educational system.
+Some students incorrectly assume that the degree of any permissible collaboration is
+basically the same for all classes.
+    •  The extent of any permissible collaboration can vary widely from one class to the
+       next, even from one project to the next within the same class.
+    •  Be sure to distinguish between collaboration that is authorized for a particular
+       assignment and unauthorized collaboration that is undertaken for the sake of
+       expedience or convenience to benefit you and/or another student. By failing to make
+       this key distinction, you are much more likely to engage in unauthorized
+       collaboration. To avoid any such outcome, always seek clarification from the
+       instructor.
+Unauthorized collaboration can also occur in conjunction with group projects.
+    •  How so? If the degree or type of collaboration exceeds the parameters expressly
+       approved by the instructor. An instructor may allow (or even expect) students to work
+       together on one stage of a group project but require independent work on other
+       phases. Any such distinctions should be strictly observed.
+Providing another student unauthorized assistance on an assignment is also a violation,
+even without the prospect of benefiting yourself.
+    •  If an instructor did not authorize students to work together on a particular assignment
+       and you help a student complete that assignment, you are providing unauthorized
+       assistance and, in effect, facilitating an act of academic dishonesty. Equally
+       important, you can be held accountable for doing so.
+    •  For similar reasons, you should not allow another student access to your drafted or
+       completed assignments unless the instructor has permitted those materials to be
+       shared in that manner.
+                                              - 17 -
+
+
+Plagiarism
+Plagiarism is another serious violation of academic integrity. In simplest terms, this
+occurs if you represent as your own work any material that was obtained from another
+source, regardless how or where you acquired it.
+    •    Plagiarism can occur with all types of media—scholarly or non-academic, published
+         or unpublished—written publications, Internet sources, oral presentations,
+         illustrations, computer code, scientific data or analyses, music, art, and other forms of
+         expression. (See Section 11-802(d) of the Institutional Rules on Student Services and
+         Activities for the University's official definition of plagiarism.)
+    •    Borrowed material from written works can include entire papers, one or more
+         paragraphs, single phrases, or any other excerpts from a variety of sources such as
+         books, journal articles, magazines, downloaded Internet documents, purchased papers
+         from commercial writing services, papers obtained from other students (including
+         homework assignments), etc.
+    •    As a general rule, the use of any borrowed material results in plagiarism if the
+         original source is not properly acknowledged. So you can be held accountable for
+         plagiarizing material in either a final submission of an assignment or a draft that is
+         being submitted to an instructor for review, comments, and/or approval.
+Using verbatim material (e.g., exact words) without proper attribution (or credit)
+constitutes the most blatant form of plagiarism. However, other types of material can
+be plagiarized as well, such as ideas drawn from an original source or even its structure
+(e.g., sentence construction or line of argument).
+    •    Improper or insufficient paraphrasing often accounts for this type of plagiarism. (See
+         additional information on paraphrasing.)
+Plagiarism can be committed intentionally or unintentionally.
+    •    Strictly speaking, any use of material from another source without proper attribution
+         constitutes plagiarism, regardless why that occurred, and any such conduct violates
+         accepted standards of academic integrity.
+    •    Some students deliberately plagiarize, often rationalizing this misconduct with a
+         variety of excuses: falling behind and succumbing to the pressures of meeting
+         deadlines; feeling overworked and wishing to reduce their workloads; compensating
+         for actual (or perceived) academic or language deficiencies; and/or justifying
+         plagiarism on other grounds.
+    •    But some students commit plagiarism without intending to do so, often stumbling into
+         negligent plagiarism as a result of sloppy notetaking, insufficient paraphrasing, and/or
+         ineffective proofreading. Those problems, however, neither justify nor excuse this
+         breach of academic standards. By misunderstanding the meaning of plagiarism and/or
+         failing to cite sources accurately, you are much more likely to commit this violation.
+         Avoiding that outcome requires, at a minimum, a clear understanding of plagiarism
+         and the appropriate techniques for scholarly attribution. (See related information on
+         paraphrasing; notetaking and proofreading; and acknowledging and citing sources.)
+                                               - 18 -
+
+
+By merely changing a few words or rearranging several words or sentences, you are not
+paraphrasing. Making minor revisions to borrowed text amounts to plagiarism.
+    •   Even if properly cited, a "paraphrase" that is too similar to the original source's
+        wording and/or structure is, in fact, plagiarized. (See additional information on
+        paraphrasing.)
+Remember, your instructors should be able to clearly identify which materials (e.g.,
+words and ideas) are your own and which originated with other sources.
+    •   That cannot be accomplished without proper attribution. You must give credit where
+        it is due, acknowledging the sources of any borrowed passages, ideas, or other types
+        of materials, and enclosing any verbatim excerpts with quotation marks (using block
+        indentation for longer passages).
+Plagiarism & Unauthorized Collaboration
+Plagiarism and unauthorized collaboration are often committed jointly.
+By submitting as your own work any unattributed material that you obtained from other
+sources (including the contributions of another student who assisted you in preparing a
+homework assignment), you have committed plagiarism. And if the instructor did not
+authorize students to work together on the assignment, you have also engaged in
+unauthorized collaboration. Both violations contribute to the same fundamental deception—
+representing material obtained from another source as your own work.
+Group efforts that extend beyond the limits approved by an instructor frequently involve
+plagiarism in addition to unauthorized collaboration. For example, an instructor may allow
+students to work together while researching a subject, but require each student to write a
+separate report. If the students collaborate while writing their reports and then submit the
+products of those joint efforts as individual works, they are guilty of unauthorized
+collaboration as well as plagiarism. In other words, the students collaborated on the written
+assignment without authorization to do so, and also failed to acknowledge the other students'
+contributions to their own individual reports.
+Multiple Submissions
+Submitting the same paper (or other type of assignment) for two courses without prior
+approval represents another form of academic dishonesty.
+You may not submit a substantially similar paper or project for credit in two (or more)
+courses unless expressly authorized to do so by your instructor(s). (See Section 11-802(b) of
+the Institutional Rules on Student Services and Activities for the University's official
+definition of scholastic dishonesty.)
+You may, however, re-work or supplement previous work on a topic with the instructor's
+approval.
+Some students mistakenly assume that they are entitled to submit the same paper (or
+other assignment) for two (or more) classes simply because they authored the original
+work.
+                                             - 19 -
+
+
+Unfortunately, students with this viewpoint tend to overlook the relevant ethical and
+academic issues, focusing instead on their own "authorship" of the original material and
+personal interest in receiving essentially double credit for a single effort.
+Unauthorized multiple submissions are inherently deceptive. After all, an instructor
+reasonably assumes that any completed assignments being submitted for credit were actually
+prepared for that course. Mindful of that assumption, students who "recycle" their own
+papers from one course to another make an effort to convey that impression. For instance, a
+student may revise the original title page or imply through some other means that he or she
+wrote the paper for that particular course, sometimes to the extent of discussing a "proposed"
+paper topic with the instructor or presenting a "draft" of the paper before submitting the
+"recycled" work for credit.
+The issue of plagiarism is also relevant. If, for example, you previously prepared a paper for
+one course and then submit it for credit in another course without citing the initial work, you
+are committing plagiarism—essentially "self-plagiarism"—the term used by some
+institutions. Recall the broad scope of plagiarism: all types of materials can be plagiarized,
+including unpublished works, even papers you previously wrote.
+Another problem concerns the resulting "unfair academic advantage" that is specifically
+referenced in the University's definition of scholastic dishonesty. If you submit a paper for
+one course that you prepared and submitted for another class, you are simply better situated
+to devote more time and energy toward fulfilling other requirements for the subsequent
+course than would be available to classmates who are completing all course requirements
+during that semester. In effect, you would be gaining an unfair academic advantage, which
+constitutes academic dishonesty as it is defined on this campus.
+Some students, of course, do recognize one or more of these ethical issues, but still refrain
+from citing their authorship of prior papers to avoid earning reduced (or zero) credit for the
+same works in other classes. That underlying motivation further illustrates the deceptive
+nature of unauthorized multiple submissions.
+An additional issue concerns the problematic minimal efforts involved in "recycling" papers
+(or other prepared assignments). Exerting minimal effort basically undercuts the curricular
+objectives associated with a particular assignment and the course itself. Likewise, the
+practice of "recycling" papers subverts important learning goals for individual degree
+programs and higher education in general, such as the mastery of specific skills that students
+should acquire and develop in preparing written assignments. This demanding but necessary
+process is somewhat analogous to the required regimen of athletes, like the numerous laps
+and other repetitive training exercises that runners must successfully complete to prepare
+adequately for a marathon.
+                                             - 20 -

@@ -1,0 +1,3 @@
+CS329E: Elements of Software Engineering
+Unique Number: 88529
+Summer 2019

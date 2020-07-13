@@ -1,0 +1,413 @@
+                                      THE UNIVERSITY OF TEXAS AT AUSTIN
+                                     STEVE HICKS SCHOOL OF SOCIAL WORK
+Course Number:             SW 385R                  Instructor’s name:       S. Rivaux, PhD, LMSW
+Unique Number:             87600                    Office Number:           Online / SSW 3.104A
+Semester:                  Summer 2020              Office Phone:            (512) 698.3831
+Meeting Time:              T/Th 5:30-8:30 PM        Office Hours:            W 12:15-1:15 & by appointment
+Meeting Place:             Online by Zoom           Instructor’s e-mail:     s_rivaux@austin.utexas.edu
+                                       SOCIAL WORK RESEARCH METHODS
+I. STANDARDIZED COURSE DESCRIPTION
+This Foundation course is designed to help students gain an understanding of and appreciation for the use
+of research as a tool for professional evidence-based practice. Students are introduced to the concepts and
+skills underlying a systematic approach to social work research, including basic research terminology, the
+scientific method in social work, the value of research in social work, research ethics and the social work
+value base, problem formulation and conceptualization, measurement, research designs to evaluate
+programs and practice, sampling, alternative quantitative and qualitative data gathering and analytic
+techniques, and preparation and use of research reports. The emphasis in the course is on equipping
+students with the research knowledge and skills they’ll need to engage in the evidence-based practice
+process at all levels of social work practice. As part of that process, they will learn how to critically appraise
+sources of scientific evidence and how the criteria for that appraisal will vary depending upon the purpose
+of the research.
+II. STANDARDIZED COURSE OBJECTIVES
+Upon completion of this course, students will be able to:
+1. Formulate answerable evidence-based practice research questions;
+2. Efficiently conduct advanced searches of electronic bibliographic databases and other sources to find
+     evidence bearing on evidence-based practice research questions;
+3. Critically appraise sources of scientific evidence and explain how the criteria for that appraisal will vary
+     depending upon the purpose of the research;
+4. Discuss why research evidence needs to be integrated with practice expertise and idiosyncratic client
+     preferences, circumstances and values in the evidence-based practice process;
+5. Design evaluations as part of evidence-based practice;
+6. Explain how both qualitative and quantitative research processes apply in evidence-based practice;
+7. Define basic qualitative and quantitative research concepts and describe the basic principles of causal
+     inference, and their relationship to the various types of research designs;
+8. Describe key concepts in measurement bearing on evidence-based practice, such as sources of
+     measurement error, reliability and validity, and measurement equivalence across cultures;
+9. Find measurement instruments applicable to evidence-based practice, sources of evidence bearing on
+     the suitability of those instruments for specific practice scenarios, and critically appraise those sources
+     from the standpoint of measurement principles and cultural sensitivity;
+                                                                          Social Work Research Methods, p. 1
+
+
+10. Describe the logic of probability sampling procedures, issues in the use of non-probability sampling
+      procedures, how sampling issues bear on conducting evidence-based practice research at mezzo and
+      macro levels of practice, and the implications of sampling for appraising and integrating sources of
+      evidence in guiding practice decisions; -
+11. Describe how particular values and sensitivity to ethical issues influence the conducting of research;
+12. Give examples of the issues that diversity (e.g., gender, ethnicity, culture, age, sexual orientation, race,
+      class, and physical or mental ability) raises in the conduct of research and in appraising and utilizing
+      research to guide practice decisions;
+13. Critically appraise how social work commitment to equity and social justice influences and
+      differentiates the social work research process.
+III. EPAS COMPETENCIES
+The Steve Hicks School of Social Work has been continuously accredited by the Council on Social
+Work Education (CSWE) since 1952. In order to maintain our accreditation status, the UT SHSSW engages in
+ongoing curriculum assessment to demonstrate compliance with CSWE’s Education Policies and
+Accreditation Standards (EPAS).
+Using a common evaluation instrument, this course measures the implementation of knowledge, skills,
+values, and/or cognitive and affective processes to assess the following competencies:
+Competency 4: Engage in Practice-informed Research and Research-informed Practice
+Outcome 4.1: Use practice experience and theory to inform scientific inquiry and research
+Outcome 4.2: Apply critical thinking to engage in analysis of quantitative and qualitative research methods
+and research findings
+Outcome 4.3: Use and translate research evidence to inform and improve practice, policy, and service
+delivery
+IV. TEACHING METHODS
+The primary means of instruction will be informal lectures, in-class exercises in small groups, and class
+discussions about the assigned reading. Students will be expected to have done the assigned reading
+before class, to actively participate in class, and to collaborate with one another.
+V. REQUIRED TEXTS, READINGS, AND OTHER MATERIALS
+(Students are responsible for the material in the assigned readings whether or not the material is discussed
+in class.)
+Required text:
+           Rubin, A. & Bellamy, J. (2012). Practitioners guide to using research for evidence-based practice (2nd
+               edition). New York: John Wiley & Sons.
+           This book is also available as an e-book through the publisher:
+                http://www.wiley.com/WileyCDA/WileyTitle/productCd-111823880X.html
+Required statistics readings: This is not a statistics course and in-depth knowledge of statistics is not
+      required to succeed in this course. However, basic conceptual understanding of statistics is critical to
+      any research endeavor. Therefore, statistical tests and concepts may be included as part of course
+                                                                          Social Work Research Methods, p. 2
+
+
+     content. Students may use a statistics textbook to review these topics if they have one available or may
+     refer to resource such as one of the following online, public-domain resources:
+     Online Statistics Education: A Multimedia Course of Study (http://onlinestatbook.com/). Project
+          Leader: David M. Lane, Rice University. Available: http://onlinestatbook.com/2/index.html
+     UCLA Statistics Online Computational Resource: http://wiki.stat.ucla.edu/socr/index.php/EBook
+     Swinscow (1997). Statistics at Square One: http://www.bmj.com/about-bmj/resources-
+          readers/publications/statistics-square-one
+     StatSoft: http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts/button/1
+Additional readings: Electronic copies of, or links to, other readings will be posted to Canvas during the
+          semester. Students are responsible for checking the course site regularly for these.
+Websites relevant to this course
+     http://www.campbellcollaboration.org (meta analysis of the effects of interventions in the social,
+          behavioral, crime and justice, and educational arenas)
+     http://www.cochrane.org (meta analysis of the effects of health and mental health interventions)
+     http://www.psych.org/psych_pract/treatg/pg/prac_guide.cfm (practice guidelines for psychiatrists for
+          each psychiatric/mental/cognitive disorders)
+     http://evidencebasedprograms.org Social programs that work
+VI. COURSE REQUIREMENTS
+The final course grade will be computed from grades on two exams (50%), one group proposal project
+(20%), written assignments / in-class pop quizzes (20%), and class participation/attendance (10%). One
+optional extra credit assignment will be offered (2%).
+1. Two exams, one at midterm and one the final class day, will cover all materials assigned and/or discussed
+     in this course. Each exam is worth 25% of the course grade.
+2. Group written research proposal (no more than 18 double-spaced pages, page limits exclude title page,
+     references and appendices) and class presentation: The proposal will be worth 20%. Students will work in
+     teams to write a proposal for a research project on a program/service/intervention addressing a chosen
+     problem. Note that page limits will be strictly adhered to and any pages beyond the allowable limit will
+     not be considered in grading the project.
+     The project will be completed in stages: (1) a concept paper, (2) a background and literature review, (3)
+     meeting with the professor regarding methodology, and (4) the final proposal. Because learning to write
+     about research is a process, only the final proposal paper will be graded. However, when assigning a
+     grade, the instructor will include consideration of whether conscientious drafts were submitted and will
+     use a ✓+, ✓, ✓- grading scale to provide feedback. Written feedback will be provided after each step of
+     the process so students can improve their work before the final project is submitted for grading. Late
+     submissions on any part of the project will be applied to the final grade for the project.
+     Since group members will rely on each other to get a good grade on this project, it is very important that
+     group members contribute actively and equally. Thus, with submission of the final paper, each student
+     must also send the instructor a paragraph describing the contributions of each group member
+     (themselves included) and assessing each member’s performance in producing the paper and
+     presentation. The instructor reserves the right to grade individual group members commensurate with
+     their contributions to the project. Should any individual not share sufficiently in the workload, the
+     instructor may assign a lower grade to that student. Students are responsible for talking to the instructor
+     if a group member is not participating equally in the project or is impeding the group process in any other
+                                                                          Social Work Research Methods, p. 3
+
+
+      way. Learning how to function effectively in workgroups is part of your learning process in this course and
+      is a core learning objective of the group assignment.
+ 3. Short written assignments, applied research activities, and/or pop quizzes will occur during the semester,
+      comprising 20% of the grade. One of these assignments will be providing a written peer review of
+      another group’s research proposal. Other assignments may involve participating in research activities on
+      actual research projects. Quizzes will be given at the beginning of class, therefore it is important to be
+      present and arrive on time. There will be no make-ups for pop quizzes or in-class assignments.
+ 4. Class attendance, preparation, and participation (10%): It is important that social work practitioners take
+      responsibility for their own continued learning and for acting in a professional manner. Thus, students are
+      expected to maintain good attendance, to complete assigned homework / readings before the class
+      meeting for which they are assigned, to compile questions regarding the material for class discussion, and
+      to actively participate in both class discussions and group exercises.
+      Students are expected to attend all classes and to arrive punctually. Coming late and/or leaving early by
+      more than 15 minutes will be considered a “missed” class unless that student provides a reasonable
+      reason for doing so and receives instructor permission in advance. While it is expected students will
+      attend all classes if at all possible, the instructor realizes that absences are excusable in the event of
+      unexpected emergencies, illness, medical appointments, university-sanctioned events, or religious
+      holidays. Missing more than one class will adversely impact the attendance/preparation/participation
+      portion of the final grade. Please inform the professor if you will be late or not attend class.
+      In the event a class must be cancelled, students will be provided an assignment to help them work with
+      the material for that day. Conscientious, thorough completion of such assignments will count as
+      attendance for that class. Assignments that are not completed or are poorly completed will result in
+      similar grade reductions as unexcused absences.
+ 5. Optional extra credit - Human subjects protections training (2%): Most social science research uses
+      information about human subjects. Due to the potential for abuses in the research context, federal and
+      university rules govern how research on human subjects can be conducted. All research about human
+      subjects conducted at the University must be approved by an Institutional Review Board (IRB) before
+      starting. The major goals of IRB review are to minimize risk to human subjects (beneficence), ensure all
+      subjects consent to participate with full information about the project and its risks (autonomy), and
+      promote equitable conduct of research (justice). Therefore, students who wish to better understand the
+      processes – or who just want to earn an extra 2% - may take the human subjects protection course (CITI)
+      at: www.utexas.edu/research/rsc/humansubjects/training/index.html. When you complete the course, a
+      completion certificate will be presented. Turn this in to the instructor to receive credit. Keep a copy for
+      yourself in case you need it later.
+VII. GRADING
+Accumulated points and grading scale
+  94-100 = A        90-93.99 = A- 87-89.99 = B+ 84-86.99 = B             80-83.99 = B-    77-79.99 = C+
+  74-76.99 = C 70-73.99 = C- 67-69.99 = D+ 64-66.99 = D                 60-63.99 = D-    <=59.999 = F
+Grades will NOT be rounded up.
+Please note that you will not earn credit for MSSW courses if your final grade falls below a ‘C’. You must earn
+ a ‘C’ or above for credit to be given for the course.
+                                                                             Social Work Research Methods, p. 4
+
+
+VIII. COURSE POLICIES
+    Canvas: The instructor uses Canvas (web-based, course-management systems with password-protected
+    access) as the primary means of communicating with students. All course materials will be posted on the
+    course’s site. The site may also be used to communicate and collaborate online, to post grades, to give
+    online quizzes or surveys. Students are responsible for checking this site regularly for class announcements
+    and for new postings. Support in using Canvas can be obtained from the ITS Help Desk by calling 475-9400
+    between 8AM-6PM on Monday through Friday. Please plan accordingly.
+    Late Assignment Policies: Except in the case of extreme emergencies, and then only with prior permission
+    from the professor, late assignments will not be accepted without penalty. Students will lose 3 points for
+    each day that an assignment is late. If the due date is a problem, then the student must contact the
+    professor and negotiate another due date at least 48 hours PRIOR to the date specified in the course
+    syllabus.
+    Incompletes: Students are expected to complete all course work by the last day of class and to complete all
+    assignments by the dates due. Only in emergency situations will an incomplete grade be given for a course
+    and only when, prior to the emergency, the student has been in attendance and has done satisfactory work.
+    If an incomplete grade should be assigned, there will be a written agreement with the instructor about
+    when and how the work will be completed.
+    Computer and Other Electronic Device Use Policy: Students are expected to use laptops and handheld
+    computers in class for class-related purposes only. To engage in other types of computer use and/or
+    electronics use (e.g., accepting or making phone calls, texting, surfing the net, etc.) is unprofessional and
+    disruptive to the course. Thus, students who violate this policy may be asked to leave the classroom.
+    Feedback on Learning: During this course the professor will ask students to provide feedback on their
+    learning in informal as well as formal ways. It is very important for the professor to know the students’
+    reactions to what is taking place in class, so students are encouraged to inform the professor on how her
+    teaching strategies are helping or hindering student learning, ensuring that together the professor and
+    students can create an environment effective for teaching and learning.
+    Course and Instructor Evaluations: At the end of the semester, the instructor will use the standard Course
+    Instructor Survey (CIS) provided by the University of Texas at Austin. The CIS provides a systematic, campus-
+    wide method of evaluating courses and instructors. I hope that every student will complete the CIS.
+    Although important, these evaluations are after-the-fact. Therefore, I strongly encourage you to provide
+    input and feedback regarding the course during the semester so that together we can make this course of
+    maximum benefit to you!
+IX. UNIVERSITY POLICIES
+ THE UNIVERSITY OF TEXAS HONOR CODE. The core values of The University of Texas at Austin are learning,
+ discovery, freedom, leadership, individual opportunity, and responsibility. Each member of the university is
+ expected to uphold these values through integrity, honesty, trust, fairness, and respect toward peers and
+ community.
+ DOCUMENTED DISABILITY STATEMENT. Any student who requires special accommodations must obtain a
+ letter that documents the disability from the Services for Students with Disabilities area of the Division of
+                                                                           Social Work Research Methods, p. 5
+
+
+Diversity and Community Engagement (471- 6259 voice or 471-4641 TTY for users who are deaf or hard of
+hearing). A student should present the letter to the professor at the beginning of the semester so that
+needed accommodations can be discussed and followed. The student should remind the professor of any
+testing accommodations no later than five business days before an exam. For more information,
+visit: http://diversity.utexas.edu/disability/.
+PROFESSIONAL CONDUCT AND CIVILITY IN THE CLASSROOM. The professor expects students to act as
+professionals in class. This means students should arrive on time for class, be prepared to participate in the
+class discussion, and show respect for one another’s opinions. A course brings together a group of diverse
+individuals with various backgrounds. Students are influenced and shaped by such factors as race, ethnicity,
+gender, sex, physical abilities, religious and political beliefs, national origins, and sexual orientations, among
+others. We expect to learn from each other in an atmosphere of positive engagement and mutual respect.
+This atmosphere includes working intentionally to recognize and dismantle racism, sexism, heterosexism,
+and ableism in the classroom. Social Work also deals with complex and controversial issues. These issues
+may be challenging and uncomfortable, and it would be impossible to offer a substantive classroom
+experience that did not include potentially difficult conversations relating to challenging issues. In this
+environment, we will be exposed to diverse ideas and opinions, and sometimes we will not agree with the
+ideas expressed by others. Nevertheless, the professor requires that students engage one another with
+civility, respect, and professionalism.
+UNANTICIPATED DISTRESS. Students may experience unexpected and/or distressing reactions to course
+readings, videos, conversations, and assignments. If so, students are encouraged to inform the professor.
+The professor can be responsive and supportive regarding students’ participation in course assignments
+and activities, but students are responsible for communicating clearly what kind of support is desired. If
+counseling is needed, students may contact a service provider of their choosing, including the UT
+Counseling Center at 512-471-3515 or online at https://cmhc.utexas.edu/.
+POLICY ON SOCIAL MEDIA AND PROFESSIONAL COMMUNICATION. Public social networks are not private.
+Even when open only to approved or invited members, users cannot be certain that privacy will exist
+among the general membership of sites. If social work students choose to participate in such forums, please
+assume that anything posted can be seen, read, and critiqued. What is said, posted, linked to, commented
+on, uploaded, subscribed to, etc., can be accessed and archived, posing potential harm to professional
+reputations and prospective careers.
+Social work students who use social media (e.g. Facebook, Twitter, Instagram) and other forms of electronic
+communication (e.g. blogs) must be mindful of how their communication may be perceived by clients,
+colleagues, faculty, and others. Social work students are expected to make every effort to minimize
+material which could be considered inappropriate for a professional social worker in training. Because of
+this, social work students are advised to manage security settings at their most private levels and avoid
+posting information/photos or using any language that could jeopardize their professional image.
+Students are asked to consider the amount of personal information posted on these sites and are obliged to
+block any client access to involvement in the students’ social networks. Client material should not be
+referred to in any form of electronic media, including any information that might lead to the identification
+of a client or compromise client confidentiality in any way. Additionally, students must critically evaluate
+any material that is posted regarding community agencies and professional relationships, as certain
+material could violate the standards set by the School of Social Work, the Texas Code of Conduct for Social
+Workers, and/or the NASW Code of Ethics.
+                                                                           Social Work Research Methods, p. 6
+
+
+Social work students should consider that they will be representing professional social work practice as well
+as The University of Texas at Austin School of Social Work program while in the classroom, the university
+community, and the broader area communities.
+POLICY ON SCHOLASTIC DISHONESTY. Students who violate University rules on scholastic dishonesty are
+subject to disciplinary penalties, including the possibility of failure in the course and/or dismissal from the
+University. Since such dishonesty harms the individual, all students, and the integrity of the University,
+policies on scholastic dishonesty will be strictly enforced. For further information, the student may refer to
+the Web Site of the Student Judicial Services, Office of the Dean of
+Students: http://deanofstudents.utexas.edu/sjs/.
+USE OF COURSE MATERIALS. The materials used in this course, including, but not limited to exams, quizzes,
+and homework assignments, are copyright protected works. Any unauthorized duplication of the course
+materials is a violation of federal law and may result in disciplinary action being taken against the
+student. Additionally, the sharing of course materials without the specific, express approval of the
+professor may be a violation of the University’s Student Honor Code and an act of academic dishonesty,
+which could result in further disciplinary action. This sharing includes, among other things, uploading class
+materials to websites for the purpose of distributing those materials to other current or future students.
+CLASSROOM CONFIDENTIALITY. Information shared in class about agencies, clients, and personal matters
+is considered confidential per the NASW Code of Ethics on educational supervision and is protected by
+regulations of the Family Educational Rights and Privacy Act (FERPA) as well. As such, sharing this
+information with individuals outside of the educational context is not permitted. Violations of
+confidentiality could result in actions taken according to the policies and procedure for review of academic
+performance located in sections 3.0, 3.1, and 3.2 of the Standards for Social Work Education.
+USE OF E-MAIL FOR OFFICIAL CORRESPONDENCE TO STUDENTS. Email is recognized as an official mode of
+university correspondence; therefore, students are responsible for reading their email for university and
+course-related information and announcements. Students are responsible for keeping the university
+informed about a change of e-mail address. Students should check their e-mail regularly and frequently—
+daily, but at minimum twice a week—to stay current with university-related communications, some of
+which may be time-sensitive. Students can find UT Austin’s policies and instructions for updating their e-
+mail address at http://www.utexas.edu/its/policies/emailnotify.php.
+RELIGIOUS HOLIDAYS. By UT Austin policy, students must notify the professor of a pending absence at least
+fourteen days prior to the date of observance of a religious holy day. If the student must miss a class,
+examination, work assignment, or project in order to observe a religious holy day, the professor will give
+the student an opportunity to complete the missed work within a reasonable time after the absence.
+TITLE IX REPORTING. In accordance with Title IX of the Education Amendments of 1972, the University of
+Texas at Austin is committed to maintaining a learning environment that is free from discriminatory
+conduct on the basis of sex https://titleix.utexas.edu/. Faculty, field instructors, staff, and/or teaching
+assistants in their supervisory roles are mandated reporters of incidents of sex discrimination, sexual
+harassment, sexual violence, stalking, dating violence, or any other forms of sexual misconduct. Students
+who report such incidents will be informed of University resources. Incidents will be reported to the
+University’s Title IX Coordinator. Further information, including student resources related to Title IX, may
+also be found at https://titleix.utexas.edu/.
+                                                                           Social Work Research Methods, p. 7
+
+
+ CAMPUS CARRY POLICY. The University’s policy on concealed firearms may be found here:
+ https://campuscarry.utexas.edu. You also may find this information by accessing the Quick Links menu on
+ the School’s website.
+ SAFETY. As part of professional social work education, students may have assignments that involve working
+ in agency settings and/or the community. As such, these assignments may present some risks. Sound
+ choices and caution may lower risks inherent to the profession. It is the student's responsibility to be aware
+ of and adhere to policies and practices related to agency and/or community safety. Students should notify
+ the professor regarding any safety concerns.
+ BEHAVIOR CONCERNS ADVICE LINE (BCAL). If students have concerns about their behavioral health, or if
+ they are concerned about the behavioral health of someone else, students may use the Behavior Concerns
+ Advice Line to discuss by phone their concerns. This service is provided through a partnership between the
+ Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance
+ Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or
+ visit http://www.utexas.edu/safety/bcal.
+ EMERGENCY EVACUATION POLICY. Occupants of buildings on the UT Austin campus are required to
+ evacuate and assemble outside when a fire alarm is activated or an announcement is made. Please be
+ aware of the following policies regarding evacuation:
+      ·     Familiarize yourself with all exit doors in the classroom and the building. Remember that the
+          nearest exit door may not be the one you used when entering the building.
+      ·     If you require assistance to evacuate, inform the professor in writing during the first week of class.
+      ·     In the event of an evacuation, follow the professor’s instructions.
+      ·     Do not re-enter a building unless you are given instructions by the Austin Fire Department, the UT
+          Austin Police Department, or the Fire Prevention Services office.
+X. COURSE SCHEDULE
+The anticipated schedule of activities for this course is below. Reading due dates are the class for which the
+reading is listed. The instructor reserves the option to modify the schedule if deemed necessary. References
+to chapters are from the course textbook. Additional readings will be posted on Canvas.
+   Date          Description                                               Text/Readings
+   Class 1       Introduction to course                                    Read and be prepared to discuss Class
+   6/4           Introduction to evidence-based practice and policy        1 readings from course website
+                 Form teams for paper assignment                           Read description of
+                 Discuss human subjects assignment                         www.campbellcollaboration.org and
+                                                                           www.cochrane.org
+   Class 2       Evidence-based social work practice and policy;           Rubin & Bellamy, Ch 1-3, Appendix B
+   6/9           Philosophy and theory                                     Review statistical topics in text or
+                                                                             online
+                 Review basic statistical concepts: variables, levels of
+                 measurement, sampling, descriptive v. Inferential
+                 statistics, clinical v. statistical significance
+                 HUMAN SUBJECTS OPTIONAL ASSIGNMENT DUE
+   Class 3       Ethics and politics                                       Read and be prepared to discuss Class
+   6/11          Culturally competent research                               3 articles from course website
+                                                                         Social Work Research Methods, p. 8
+
+
+           Criteria for inferring effectiveness
+Class 4    Critically appraising experimental designs              Rubin & Bellamy, Ch 4 & 5
+6/16                                                               Read and be prepared to discuss Class
+           CONCEPT PAPER FOR RESEARCH PROPOSAL DUE                   4 articles from course website
+Class 5    Critically appraising experiments and quasi             Rubin & Bellamy, Ch 5-6
+6/18       experiments                                             Read and be prepared to discuss Class
+                                                                     5 articles from course website
+Class 6    Critically appraising time-series designs and single-   Rubin & Bellamy, Ch 7 and 12
+6/23       case designs                                            Read and be prepared to discuss Class
+           Monitoring client progress (single-case revisited)      6 articles from course website
+           Review for first exam
+Class 7    EXAM ONE (1.5 hour)
+6/25       (Activity for rest of class time TBD)
+           Mid-course evaluation
+Class 8    Review exam                                             Rubin & Bellamy, Ch 8
+6/30       Critically appraising systematic reviews and meta-      Read and be prepared to discuss Class
+           analyses                                                  8 articles from course website
+           PART ONE OF RESEARCH PROPOSAL DUE (TITLE
+           PAGE, INTRODUCTION/BACKGROUND, LITERATURE
+           REVIEW)
+Class 9    Critically appraising non-experimental                  Rubin & Bellamy, Ch 9
+7/2        quantitative studies.                                   Read and be prepared to discuss Class
+           SCHEDULE GROUP MEETING W/PROFESSOR TO                     10 articles from course website
+           BRAINSTORM PROPOSAL METHODOLOGY
+Class 10   Non-experimental quantitative studies                   Class 10 readings from course website
+7/7        continued
+Class 11   Critically appraising qualitative studies               Class 11 readings from course website
+7/9                                                                Robert Woods Johnson website on
+                                                                   qualitative rigor
+Class 12   Qualitative methods continued                           Class 12 readings from course website
+7/14
+Class 13   Critically appraising and selecting                     Rubin & Bellamy, Ch 11
+7/16       assessment instruments                                  Class 13 readings from course website
+Class 14   Bringing it all together – EBP in the field             Reread Rubin & Bellamy, Ch 12
+7/21       PEER REVIEW DUE                                         Class 14 readings from website
+Class 15   Course evaluation
+7/23       Review for second exam
+           Consultation on group projects
+Class 16   EXAM TWO (1.5 hour)
+7/28       Consultation on group projects
+  ****FINAL RESEARCH PROPOSAL PAPERS AND ASSESSMENTS OF GROUP MEMBER CONTRIBUTIONS ARE
+                                         DUE BY FRIDAY 7/31 AT 5PM.
+ THESE DOCUMENTS MUST BE SUBMITTED ELECTRONICALLY. BE SURE YOU GET A RETURN EMAIL FROM
+                            ME, VERIFYING RECEIPT OF THE DOCUMENTS! ****
+                                                                  Social Work Research Methods, p. 9
+
+
+XI. BIBLIOGRAPHY
+Online Statistics Education: A Multimedia Course of Study (http://onlinestatbook.com/). Project Leader:
+         David M. Lane, Rice University. Available: http://onlinestatbook.com/2/index.html
+Rubin, A. & Bellamy, J. (2012). Practitioners guide to using research for evidence-based practice (2nd
+         edition). New York: John Wiley & Sons.
+Swinscow (1997). Statistics at Square One: http://www.bmj.com/about-bmj/resources-
+         readers/publications/statistics-square-one
+StatSoft: http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts/button/1
+UCLA Statistics Online Computational Resource: http://wiki.stat.ucla.edu/socr/index.php/EBook
+Other websites relevant to this course
+     http://www.campbellcollaboration.org (meta analysis of the effects of interventions in the social,
+         behavioral, crime and justice, and educational arenas)
+     http://www.cochrane.org (meta analysis of the effects of health and mental health interventions)
+     http://www.psych.org/psych_pract/treatg/pg/prac_guide.cfm (practice guidelines for psychiatrists for
+         each psychiatric/mental/cognitive disorders)
+     http://evidencebasedprograms.org Social programs that work
+                                                                      Social Work Research Methods, p. 10

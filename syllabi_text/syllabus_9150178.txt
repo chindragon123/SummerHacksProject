@@ -1,0 +1,99 @@
+Fall 2018 ARC 435K/385M Construction III
+Instructor: Prof. Dr. Juliana M. Felkner
+Office: GOL 2.212
+Office hours: Friday 11:00AM to 1:00PM
+Email: juliana.felkner@austin.utexas.edu
+Assistants: Jacob J Castine; jacobcastine@utexas.edu
+              Prarthan Shah; prarthan@utexas.edu
+Course Time and Location: TTH 12:30 to 2:00PM, GOL 3.120
+Lab Times and Location: T 7:00PM to 10:00PM, PAR 302
+                              TH 7:00PM to 10:00PM, PAR 204
+Course Description:
+This course introduces students to the design and analysis of structures through graphical and
+analytical methods as well as through physical models. The structural behavior of columns and
+beams as well as the design of various structural components and connections will be covered.
+The importance of material choice and structural efficiency in design will be a common theme
+throughout the course. Graphic statics will provide a basis for visualizing how external forces,
+form and internal forces in elements are related.
+A creative approach to architectural design with structural knowledge is encouraged. Knowledge
+obtained in this course will include preliminary sizing and analysis methods as well as
+geometrical form finding techniques.
+Course Format:
+The course is composed of lectures presenting material to be used in the design exercises as
+well as the lab exercises. The exam will be based on material covered in the lectures. Lab
+exercise tasks will be presented to the students at the end of the lecture and are to be
+completed in groups during the lab sessions. Completed work is to be handed in at the end
+each lab session. The lab sessions will also provide students the opportunity to ask for feedback
+on their projects. One structural design project will be given during this course. Details of the
+assignments will be handed out during the semester.
+Main Text:
+Allen, E.; Zalewski, W. 2012. Form and Forces: Designing Efficient, Expressive Structures (1st
+Edition) John Wiley & Sons ISBN-13:978-0470174654
+Additional Texts (for the interested reader):
+Flury, Aita. 2011. Cooperation, the Engineer and the Architect, Birkhauser.
+Muttoni, Aurelio. The Art of Structures; Introduction to the Functioning of Structures in
+Architecture, EPFL Press.
+Onouye, B; Kane, K. Statics and Strength of Materials for Architecture and Building Construction
+(4th Edition) ISBN-13: 978-0135079256
+Recommended:
+Schodek, D.; Bechthold, M. Structures (7th Edition) ISBN-13: 978-0132559133
+
+
+Grading:
+Lab Exercises             20%
+Project                   25%
+Exam 1                    15%
+Exam II                  30%
+Attendance                10%
+Grading is based on a 100 point scale as follows:
+A 93-100
+A- 90-92
+B+ 87-89
+B 83-86
+B- 80-82
+C+ 77-79
+C 73-76
+C- 70-72
+D+ 67-69
+D 63-66
+D- 60-62
+F 59 and below
+UT Statements:
+Attendance Policy
+Attendance is mandatory in all lectures and labs. At the instructor's discretion, any student with
+more than 2 unexcused absences may be dropped from the class or the student's final grade
+may be lowered by one letter grade for each additional absence. Absences are excused only for
+medical conditions and personal or family emergencies. Written documentation will be required
+for any excused absence. A student who misses classes or other required activities for the
+observance of a religious holy day should inform the instructor as far in advance of the absence
+as possible, so that arrangements can be made to complete an assignment within a reasonable
+time after the absence. A student who fails to complete missed work within the time allowed will
+be subject to the normal academic penalties.
+For Undergraduate Students: Quantitative Reasoning Flag
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are
+designed to equip you with skills that are necessary for understanding the types of quantitative
+arguments you will regularly encounter in your professional life. You should therefore expect a
+substantial portion of your grade to come from your use of quantitative skills to analyze real-
+world problems.
+Students with Disabilities
+Students with disabilities who require special accommodations need to get a letter that
+documents the disability from the Services for Students with Disabilities area of the Office of the
+Dean of Students (471-6259 voice or 471-4641 TTY for users who are deaf or hard of hearing).
+
+
+This letter should be presented to the instructor in each course at the beginning of the semester
+and accommodations needed should be discussed at that time. Five business days before an
+exam the student should remind the instructor of any testing accommodations that will be
+needed.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns
+Advice Line to discuss by phone your concerns about another individual’s behavior. This service
+is provided through a partnership among the Office of the Dean of Students, the Counseling and
+Mental Health Center (CMHC), the Employee Assistance Program (EAP), and The University of
+Texas Police Department (UTPD). Call 512-232- 5050 or visit http://www.utexas.edu/safety/bcal.
+Policy on Academic Integrity
+Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University.
+Since such dishonesty harms the individual, all students, and the integrity of the University,
+policies on scholastic dishonesty will be strictly enforced. For further information, visit the SJS
+website at http://deanofstudents.utexas.edu/sjs or call 471-2841.

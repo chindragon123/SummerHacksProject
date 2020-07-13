@@ -1,0 +1,234 @@
+                                  Organic Chemistry II (CH 320N/328N)
+                                                Summer 2019
+                                           Unique # 85490, 85495
+                                  MTWTHF, 8:30-10:00 A.M., WEL 2.122
+Instructor:                Dr. Vladimir Samoylenko
+                           voxa@utexas.edu            Office: WEL: 3.138
+                           Office Hours: MTWTHF 10-11 A.M. in WEL 2.122
+Teaching Specialists:      Chinh Ngo                                          Doo-Hee Lee
+                           chinhngo@utexas.edu                                catalyzer@utexas.edu
+                           Office Hours: Thursday 1-2 P.M.                    Tuesday 2-3 P.M.
+                                           WEL 4.132B (Old Library)           in WEL 3.134
+Course Objectives & Philosophy: Organic chemistry is the study of life. They either form the basis of,
+    or are important constituents of, many products including plastics, drugs, petrochemicals, food,
+    explosive material, and paints. After taking OChem I and II students would be able to understand
+    the basic functionality of organic molecules and devise sound synthetic routes of constructing
+    complex organic molecules from smaller fragments. In addition to basic analysis of organic
+    molecule (strain and stability, stereochemistry etc.) 70% of OChem-I was about learning reactions
+    that interconverts functional groups into one another for example: How to convert an alkene to an
+    alkane? How to convert an alcohol into a haloalkane etc. While majority of OChem-II (~90%) is
+    about learning carbon-carbon bond forming reactions that allows the construction of bigger complex
+    organic molecules from smaller fragment. This requires a higher level of analytical thinking. You
+    would be challenged to look at the whole picture instead of a single reaction. This exercise would
+    condition your mind so that you can apply this new way of thinking to complex problems that you
+    would face in your upper division classes.
+Prerequisites: Chemistry courses CH 320M or CH 328M with a grade of at least C-
+Website: Materials for the course are available at http://canvas.utexas.edu
+Texts: Organic Chemistry (William H. Brown, Brent L. Iverson, Eric Anslyn, Christopher S. Foote), 8th
+    Edition, ISBN: 978-1305580350. Student Study Guide and Solutions Manual for the above
+    textbook, ISBN: 978-1305864504.
+Homework: There will be two kinds of homework assigned in this class.
+Homework I. This is graded HW will be uploaded on Canvas weekly and collected in the class. Give it
+    to TAs by the beginning of the class when it is due. Late HW will not be graded. You will receive a
+    grade of 0, 0.5, or 1 on each assignment. A 1 means that you have accurately completed ~80% of the
+    HW, a 0.5 means that accurately complete ~30% of the HW and 0 means you did not turn it in or
+    did not complete ~30% of your HW. The tally of these 1, 0.5 and 0 will add up as % of your total
+    grade. If your HW grade is not correctly listed on canvas you must be diligent and alert your TA's
+    immediately and they would fix the error, after three days changes to HW grades would not be
+    made.
+Homework II. This HW would not be collected or graded. Second type of homework will involve book
+    problems that are assigned, but not collected. These are extremely important, as the only way to
+    master organic chemistry is to work many, many problems over the course of the semester. You will
+    note when taking the exam that most of the exam problems are directly out of the tougher homework
+    problems both from weekly and the book problems. You would notice that exam problems are
+    formatted or closely resemble your weekly homework problem.
+Assigned Book Problems:
+Chapter 13: 2, 3, 4, 5, 6, 7, 9, 15, 16, 17, 18, 23, 24, 28
+Chapter 15: 7, 8, 9, 10, 11, 12, 17, 18, 20, 21, 22, 23, 24, 25, 26
+Chapter 16: 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 34, 37, 43, 51, 52, 53,
+    54, 55, 56, 61, 73, 74, 75, 76, 77, 78, 79, 80, 81
+
+
+Chapter 17: 7, 8, 9, 20, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 46,
+     47, 48, 49, 50, 51, 52, 53
+Chapter 18: 12, 13, 19, 20, 25, 26, 27, 30, 31, 32, 33, 41,42, 43, 44, 48, 49, 50, 51, 52, 54, 63, 64, 65,
+     66, 67,68, 69, 70, 71
+Chapter 19: 18, 19, 20, 21, 22, 23, 24, 29, 30, 31, 32, 33, 34, 39, 40, 44, 46, 47, 48, 49, 50, 51, 52, 53,
+     54, 56, 58, 59, 68, 71, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83
+Chapter 20: 16, 17, 18, 19, 20, 21, 22, 30, 31, 34, 35, 36, 56
+Chapter 21: 8, 9, 10, 15, 16, 32, 33, 34, 35, 36, 37, 38, 39, 50
+Chapter 22: 14, 15, 16, 17, 18, 19, 20, 22, 23, 26, 31, 32, 33, 34, 35, 36
+Chapter 23: 25, 36, 44, 46, 47, 48, 49
+Add/drop period: Last day of the official add/drop period is July 16.
+Electronics: Because audible electronic devices interrupt lectures and discussion, you may be asked to
+     leave the lecture hall or exam room if you bring to class noisy cellular phones, pagers, timers, etc.
+     You may bring a calculator to the exams. Your calculator must be a hand-held, non-programmable
+     device that cannot communicate by wireless transmissions.
+Requirements and Grading:
+The raw scores earned on each of the exams in this course will be converted to Standard T-Scores. The
+                                                             𝒙−𝑿
+Standard T-Score is computed as follows:               T = [( 𝒔 )•10] + 80,    where:
+x = your raw test score
+                                     𝑥𝑖
+X = the class mean score = ∑𝑁   𝑖=1 𝑁
+N = the number of test scores
+                           ∑𝑁           2
+                             𝑖=1(𝑥𝑖 −𝑋) ½
+s = standard deviation = [     (𝑁−1)
+                                          ]
+Using Standard T-Scores allows an effective averaging of grades without introducing a bias in favor of
+tests with the greatest standard deviations. Since it is based on a normal (Gaussian) distribution, it
+generally represents the fairest way of grading. (Nearly all national exams such as the SAT, MCAT, and
+GRE use a similar form of Standard T-Scores).
+Your final course grade will be calculated as 30% of your best midterm T-score, 30% of your second
+best midterm T-score and 40% of your final exam T-score. There will be two midterms during the
+semester, so this means that your lowest midterm exam T-score will be dropped OR you will be able to
+miss one midterm for any reason with no penalty. Your lowest midterm exam score can also be replaced
+by your Final Exam score (if you scored higher on your Final Exam).
+*Students who cannot take one midterms due to medical, religious or personal reasons would be able to
+use this option.
+*Missing two midterms or the final exam without a documented, valid excuse will result in a failing
+grade.
+         Midterm Exam #1:              30%
+         Midterm Exam #2:              30%
+         Final Exam:                   40%
+The following conversion table will be used to calculated final course grades:
+              Score                 Grade                         Score           Grade
+     93.0000 ≤ T                       A                 73.0000 ≤ T < 77.0000       C
+     90.0000 ≤ T < 93.0000            A-                 70.0000 ≤ T < 73.0000      C-
+     87.0000 ≤ T < 90.0000            B+                 67.0000 ≤ T < 70.0000     D+
+     83.0000 ≤ T < 87.0000             B                 63.0000 ≤ T < 67.0000      D
+     80.0000 ≤ T < 83.0000            B-                 60.0000 ≤T < 63.0000       D-
+     77.0000 ≤T < 80.0000             C+                      T ≤ 60.0000            F
+
+
+    NOTE: WE DO NOT ROUND SCORES. AN 89.92 IS ENTERED AS 89.92, NOT 90.00. When
+    the instructor makes the final grades in the class, there will also be no rounding of grades. Missing a
+    grade cut off by any fraction of an amount is a miss!
+    In general, using T-scores increases everyone's grades compared to using absolute percentages.
+    Nevertheless, we will keep track of your percentage scores on every test. If the percentage scores are
+    ever higher than your T-score, we will use the percentage score for your course grade calculation.
+    Thus, if everyone does extremely well in this course, no grade will be lowered by using a curving
+    system!
+    Two midterm exams will be given during the course of the semester. They will be held on Tuesday
+    in class from 8:30-10:30 am.
+    You will be responsible for all material covered up to the Friday lecture the week before each
+    midterm. The pace of the class can vary, so do not be concerned of we are not on the same schedule
+    as described below under “schedule”. The bottom line is that you are only responsible for the
+    material covered in the previous Friday lecture.
+Schedule:
+       Date                                    Topic                                Reading         Homework due
+                                                                               Organic Chemistry
+ M     July     15      Intro/NMR Spectroscopy                                         13
+ T              16      NMR Spectroscopy                                               13
+ W              17      Introduction to Organometallic Compounds                       15
+ Th             18      Introduction to Organometallic Compounds                       15
+ F              19      Aldehydes and Ketones                                          16
+ M              22      Aldehydes and Ketones                                          16
+ T              23      Midterm Exam #1                                            13, 15, 16
+ W              24      Carboxylic Acids                                               17
+ Th             25      Functional Derivatives of Carboxylic Acids                     18
+ F              26      Functional Derivatives of Carboxylic Acids                     18
+ M              29      Enolates Anions and Enamines                                   19
+ T              30      Enolates Anions and Enamines                                   19
+                        Dienes, Conjugated Systems and Pericylic
+ W              31      Reactions (selected topics)                                    20
+                        Dienes, Conjugated Systems and Pericylic
+ Th    Aug.     1       Reactions (selected topics)                                    20
+ F              2       Benzene and the Concept of Aromaticity                         21
+ M              5       Benzene and the Concept of Aromaticity                         21
+ T              6       Midterm Exam #2                                              17-21
+ W              7       Reaction of Benzene and its Derivatives                        22
+ Th             8       Reaction of Benzene and its Derivatives                        22
+ F              9       Reaction of Benzene and its Derivatives                        22
+ M              12      Amines                                                         23
+ T              13      Amines                                                         23
+                        Catalytic Carbon-Carbon Bond Formation
+ W              14      (selected topics)                                              24
+                        Carbohydrates; Lipids; Amino Acid and Proteins;
+ Th             15      Nucleic Acids (selected topics)                              25-28
+                        Carbohydrates; Lipids; Amino Acid and Proteins;
+ F              16      Nucleic Acids (selected topics)                              25-28
+ M              19*     Final (Cumulative) 7-10 P.M. at WEL 2.122                     All
+* see https://registrar.utexas.edu/schedules/196/finals
+
+
+Regrades: Exams that have been written in pencil or erasable ink will not be regraded. If you believe
+    your exam was graded incorrectly, describe your complaint on a separate sheet of paper, attach it to
+    the front of your exam, and give it to me. All problems on the exam will be regraded. You can
+    request a regrade up to one week after that exam has been returned. Complaints about the final exam
+    grading must be presented within one day of the return of the final exam. Therefore, if you
+    anticipate a complaint, you must be diligent in following the progress of the graders. To guard
+    against altered exams being submitted for a regrade, we routinely copy a large number of exams
+    following grading but prior to handing them back.
+How to Succeed in OrgoChem 320N/328N?
+         ✦ Never get behind. (Allot at least 2 hr of your day to OrgoChem don’t study last min)
+         ✦ Strive to understand, not to memorize the material
+         ✦ Come to class everyday
+         ✦ Do your homework
+         ✦ Re-write your lecture notes make flash cards
+         ✦ Keep your road map handy, look at it on the bus in your car
+                  Keep Staring at it….
+         ✦ Learn the mechanisms, try not to just memorize mechanisms.
+         ✦ Strive to understand the reactions try not to just memorize them
+         ✦ Abend office hours and recitation sessions
+How to Study Before the Exams?
+         ✦ Study lecture note – Rewriting them really helps
+         ✦ Redo the more difficult homework question?
+         ✦ Redo all the mechanism sheets
+         ✦ Use flash cards to memorize all the reactions
+         ✦ Talk to the TAs and Me- We are here to help you succeed
+Academic Integrity: Exams and homework will be considered your own original work, prepared
+    without unauthorized assistance. Violations of this policy can result in a recorded score of 0 for that
+    assignment, a reduced or failing grade for the course, and additional disciplinary action administered
+    by the Office of the Dean of Students. If you have questions about this policy, please ask me before
+    submitting your work or consult the Student Judicial Services website. The use of electronic devices
+    capable of transmitting information is prohibited during exams.
+    Common violations of the academic integrity policy are plagiarism, unauthorized collaboration, and
+    submission of a modified exam for regrading. Please make sure you understand when it is
+    acceptable to work together with a classmate and how to present your answers in your own words
+    and figures. Do not alter any exams that you will submit for regrading.
+Letters of Recommendation: I will only write letters of recommendation for exceptional students with
+    whom I have regularly interacted.
+University of Texas Honor Code: The core values of The University of Texas at Austin are learning,
+    discovery, freedom, leadership, individual opportunity, and responsibility. Each member of the
+    university is expected to uphold these values through integrity, honesty, trust, fairness, and respect
+    toward peers and community. Any violation of the above Honor Code that occurs during an exam or
+    in the regarding process will result in a 0 being assigned for that exam and the student involved will
+    be formally reported to the Dean of Students, where they will be subject to additional penalties or
+    actions. The exam with the 0 will be automatically counted in the final grade calculation at the end
+    of the semester.
+Use of E-Mail for Official Correspondence to Students: Email is recognized as an official mode of
+    university correspondence; therefore, you are responsible for reading your email for university and
+
+
+    course-related information and announcements. You are responsible to keep the university informed
+    about changes to your e-mail address. You should check your e-mail regularly and frequently—I
+    recommend daily, but at minimum twice a week—to stay current with university-related
+    communications, some of which may be time-critical. You can find UT Austin’s policies and
+    instructions for updating your e-mail address at http://www.utexas.edu/its/policies/emailnotify.php.
+Documented Disability Statement: If you require special accommodations, you must obtain a letter
+    that documents your disability from the Services for Students with Disabilities area of the Division
+    of Diversity and Community Engagement (471-6259 voice or 471-4641 TTY for users who are deaf
+    or hard of hearing). Present the letter to me at the beginning of the semester so we can discuss the
+    accommodations you need. No later than five business days before an exam, you should remind me
+    of any testing accommodations you will need. For more information, visit
+    http://www.utexas.edu/diversity/ddce/ssd/.
+Religious Holidays: By UT Austin policy, you must notify me of your pending absence for an exam at
+    least fourteen days prior to the date of observance of a religious holy day. If you must miss an exam
+    in order to observe a holy day, I will give you an opportunity to take a make-up exam.
+Behavior Concerns Advice Line (BCAL): If you are worried about someone who is acting differently,
+    you may use the Behavior Concerns Advice Line to discuss by phone your concerns about another
+    individual’s behavior. This service is provided through a partnership among the Office of the Dean
+    of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance Program
+    (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit
+    http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy: Occupants of buildings on the UT Austin campus are required to
+    evacuate and assemble outside when a fire alarm is activated or an announcement is made. Please
+    be aware of the following policies regarding evacuation:
+    • Familiarize yourself with all exit doors of the classroom and the building. Remember that the
+         nearest exit door may not be the one you used when you entered the building.
+    • If you require assistance to evacuate, inform me in writing during the first week of class.
+    • In the event of an evacuation, follow my instructions or those of class instructors.
+    • Do not re-enter a building unless you are given instructions by the Austin Fire Department, the
+         UT Austin Police Department, or the Fire Prevention Services office.

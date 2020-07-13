@@ -1,0 +1,825 @@
+                                             Experimental Storytelling
+                                              (06190 | 06320 | 06640)
+                                                     Spring 2020
+Class Meets: Thursdays | 9:30 – 12:30 | BMC 4.206 classroom AND CMA 6.154 lab
+ Instructor: Prof. Erin Reilly                                       Office: BMC 4.368
+ Email: ebreilly@utexas.edu                                  Erin’s Office hours: By Appointment.
+ Phone: 207-251-1617                                         To avoid the back and forth of finding a time to
+                                                             meet. (https://calendly.com/ebreilly)
+ TA: Jeongmin Ham                                            Jeongmin’s Office: BMC 4th floor
+ Email: jham112@utexas.edu                                   Office hours: By appointment
+ Lab TA: Jesse Easdon                                        Lab: CMA 6.154
+ Email: easdonj@utexas.edu
+                                                             Lab is open the following hours:
+ Undergraduate Lab Manager: Joshua Ramirez                       Mon: 11:30 AM – 2:00 PM
+                                                                 Wed: 11:30 AM – 4:00 PM
+ Email: joshramirez@utexas.edu
+                                                                 Tues / Thurs: 6:30 - 9:00 PM
+                                                                 Fridays 11:00 AM – 4:00 PM
+ Jeongmin Ham is my TA who is your first point of contact for questions about assignments or your grades.
+ Jesse Easdon is my TA who is working on TXI Client projects and responsible for my lab. He is here to help you
+ learn any of the tools necessary to be successful in immersive.
+ Joshua Ramirez is my Undergraduate Lab Manager who organizes the monthly Moody Meetups and is an
+ approachable, near-peer mentor whose purpose is to help you learn during and outside of class. Joshua will often
+ be the first person you contact if you have questions about demo / lab assignments. I encourage you to take
+ advantage of his time during Lab hours (Mon-Thurs above).
+                                            Course Description
+As the media landscape becomes populated with more and more screens—from television and computer screens
+to mobile displays, but also virtual reality headsets, other wearable devices, and a rapidly growing Internet of
+Things—we have quite literally a whole world of possibilities for creating experimental storytelling experiences.
+These technologies offer unique potential for creating new and different kinds of experiences, including ones that
+respond with increasing precision to people’s behavior and input. So how might these screens (and the ecosystem
+within which they function) change the stories we share, but also how we share them? What might be the next
+step beyond the screen?
+This course aims to introduce students to experimental storytelling that explores our senses, the physical and
+virtual world to create an immersive story experience. Using design thinking and human computer interaction,
+students will ideate, synthesize concepts, create user scenarios based on the story’s audience and develop a POC
+(proof of concept) for feedback and entry into becoming new creators.
+Course Learning Outcomes
+     ● Expose students to new affordances of emerging media.
+     ● Introduce students to different models of storytelling
+     ● Encourage students to test out multiple forms of storytelling through their mobile device and computer.
+                                                             1
+
+
+What will I learn?
+Main skills and attitudes to be developed:
+    • Positive attitude
+    • Team collaboration
+    • Thinking skills (develop observation skills, divergent thinking and identifying patterns)
+    • Self-management
+Learning Outcomes
+    1. Expose students to the future of the media & entertainment industry
+    2. Introduce students to different ways to enter a story
+    3. Understand how to leverage the affordances of media
+    4. Construct experimental stories that explore game mechanics, location-based stories and public
+         interactives
+    5. Learn how to activate fans through unique content strategies
+How will I learn?
+    • Writing Assignments                                            •   Group Activities
+    • Guest Lectures                                                 •   Real World Client Projects
+    • Demos
+Pre-requisites for the course: N/A
+How to succeed in this course:
+My role is to be a “guide on the side”… to help you acquire the skills needed to succeed as a Creative Director /
+Experience Designer / Project Manager / Engagement Strategist.
+Your role is to show up, be present, have a willingness to learn, do good work and accept constructive feedback
+from myself and your peers.
+                      Overall, let’s have some fun …we’re talking about our passions after all!
+                                                            2
+
+
+                                            Course Requirements
+ Recommended Texts
+      •    Jane McGonigal, Reality is Broken (New York: The Penguin Press, 2011)
+      •    Carolyn Handler Miller. Digital Storytelling 4th Edition: A creator’s guide to interactive entertainment (New
+           York: Taylor & Francis Group CRS Press, 2020)
+      •    Matt Madden, 99 Ways to Tell a Story (London: Penguin Books, Ltd, 2005)
+      •    Don Norman, Design of Every Day Things (New York: Basic Books, 2013)
+ I may periodically post additional required readings to the class website at Canvas. These readings will be short
+ articles in mainstream publications, such as newspapers and magazines, that help shed contemporary light on issues
+ discussed in this course.
+ Required Device
+ Mobile SMART phone, Computer and ability to record, edit and publish photos and videos.
+Classroom Expectations
+Class attendance
+We meet only once a week. Attendance is required at all class, presentation, client and team meetings. There will
+be no excused absences. Failure to attend any of these meetings will affect your grade and could reduce your
+final grade by as much as two letter grades. Attendance means showing up to the class or meeting on time.
+Habitual lateness will affect your grade.
+Class participation
+Teamwork: This course is primarily structured around teamwork. You will apply for your team role for each
+project, and the bulk of your work in the course will be carried out and evaluated based on these teams. Teams
+will consist of varying personalities, skills and interests and you must find a way to manage these differences. The
+ability to cooperate, to communicate and to work effectively is essential to creating successful strategies and
+creative briefs, both in this class and in the real world. Once students have been assigned to teams, I will not
+adjust the membership of these teams. Although I don’t anticipate any problems, if issues do arise I expect you to
+resolve them yourselves, just as you would in a real-world job situation.
+Deadlines: This class simulates the real world, and in the real world, deadlines are non-negotiable. All
+assignments must be handed in on time. Late assignments or projects will not be accepted and you will not earn
+any points (i.e. you will receive a grade of 0) for that assignment. The usual litany of excuses (I slept through my
+alarm, I missed the bus, I have a cold) won’t work. In the real world, failure to meet a deadline could result in you
+losing your job. Now is the time to practice time management and adherence to deadlines.
+Time management: This course is very demanding on your time. Your teammates in this class will judge you on
+how much, and the quality of, work you contribute to your class project. Do not lose track of what is most
+important.
+Communication: The primary way I will communicate with you outside of class is through canvas. You are
+responsible for making sure you get any messages from me and you are responsible for the content of those
+announcements. I may notify you via canvas about a change in meeting times or assignment deadlines. Failure to
+
+
+   check your canvas does not excuse you from meeting the responsibilities outlined in the message. At a minimum,
+   you should check your canvas once every day.
+   Plagiarism: Everything you produce in this class must be your original work. If you have help from anyone outside
+   this class it will be considered a breach of UT’s policy on Scholastic Integrity and will be dealt with accordingly.
+   Assignments
+   Attendance (Activities / Readings / Videos / Quizzes) | 10% | 400 Pts
+   Weekly activities and discussions in the classroom as well as on canvas will be graded with a pass or fail (10 pts
+   each class). This means, you participated and completed the work – pass; you didn’t -- fail. I expect you to “Lean
+   In” to this course. It’s not a course you can sit back and just pass.
+   This grade is for informal activities and discussions during class. They are some of the most valuable and
+   interactive aspects of our course and offers us an opportunity to share diverse insights, reflect and collaborate on
+   the course concepts. This is an outlet for exploratory learning and expressing ideas and perspectives beyond the
+   projects.
+   In discussions, you should avoid merely a compliment (e.g. "Interesting post...") or support (e.g. "I agree with
+   you...") of another student's work. You will not be given credit for activity or discussions that do not meaningfully
+   contribute to or expand the conversation, as determined by the instructor’s assessment.
+   Lastly, the following are required readings and videos that will support your learning in this field.
+     •   Digital Storytelling, 4th Edition by Carolyn Handler Miller 2020
+             •    Chapter 1: Storytelling, Old and New & QUIZ! (100 pts)
+             •    Chapter 9: Guidelines: Creating a New Project (25 pts – based on use of it in Guest Experience)
+             •    Chapter 18: Immersive Narratives and Immersive Spaces (25 Pts – reference in last Demo
+                  Recommendation)
+     •   Watch Gunther Kress videos on Concepts in Multimodality and take QUIZ! (100 pts)
+   Social Media Experiment - @48moods | 20%
+   In numerology the number 48 resonates with creative expression, so nothing better than having Experimental
+   Storytelling be a culmination of creative expression made through a collective story together. Stories are
+   complex, yet simple; participatory, yet controlled; and unequivocally are visceral, can trigger behavior and over
+   time are reflective of our individual agency, our shared moment in time and the culture that we live in. The
+   syllabus has 2 themes per week with specific days (Sunday and Tuesday) scheduled to post and your reflection on
+   your peers due by day of class (Thursday). Using 99 Ways to Tell a Story as inspiration, your goal with each
+   assignment is to compose an original photo and haiku that best represents your personal take on the theme
+   proposed, then post it to @48moods on Instagram.
+   Haiku is a traditional form of Japanese poetry. Haiku poems consist of 3 lines. The first and last lines of a Haiku
+   have 5 syllables and the middle line has 7 syllables. The lines rarely rhyme. Many people consider Haikus as
+   unfinished poems, a poem that the reader finishes in his or her mind. Often keeping a journal is encouraged in
+   creative classes, a place to write down ideas, draw images, and jot down potential projects. In a digital-first
+   world, my choice for using @48moods as a form of journaling is for you to learn to get a nugget of a story idea
+   down quickly, to practice being creative “in public” – giving way to better understanding how to pitch an idea in
+   its simplest form and have a chance for public to react immediately. When writing your own haiku, it’s best to
+Experimental Storytelling Syllabus | Spring 2020                                                                        4
+
+
+   check the syllables with this site: http://www.haikusyllablecounter.com/ I’ve also made suggestions each week
+   on ways to try different ways to consider the image and its relationship to the haiku.
+   Over the course of the semester, sharing and commenting on each other’s work… the posts that evoke a visceral,
+   behavioral or reflective moment for you individually is encouraged. You can critique anyone in the class.
+   However, please do not critique the same person each week. We will be checking to make sure you’re critiquing
+   different people each week. However, if you love a peer’s work, by all means …comment, heart it as often as you
+   want. Be ready to share your comments on your own work as well as your peers… students will randomly be
+   called on each class to reflect on @48moods. For examples, see @erinbreilly.
+   ** NOTE: Grad Students are required to do an extra project to complete their grade for this project. Starting
+   Week 7, Grad Students will work together to propose an experimental book curating the collective story into a
+   sellable product. The goal is to reimagine what a book can be and explore some of the core lessons taught
+   throughout this course. Week 10, Grad Students will have all material in hand to curate and edit completing it by
+   Week 13 to go to the printers and be ready to sell to peers and guests during Week 15 showcase. **
+   TXI – New Recruit Story Kit” | 15%
+   The first 6 weeks of class will train you how to work in teams and develop an idea from story concept to
+   completion. The entire class will be broken into unique teams that build on your core expertise to hone in on
+   skills you are best at contributing within a team project. The class will work on the same concept together to
+   complete the final product. Our goal is to revise and expand upon a developed interactive story experience that is
+   the current “Acceptance Letter” to welcome the first cohort of 48 students into the new specialization, Texas
+   Immersive. (You’re a wizard, Harry)
+   So, what is Texas Immersive?
+   Interactive, intimate, experiential …the top three words that describe “Immersive” today. From Disney putting
+   guests at the center of their own Star Wars world to Meow Wolf’s mantra of subverting reality… never before has
+   there been more attention fixated on media that surrounds and envelopes its audiences, allowing them fully
+   embodied experiences. Immersive connects multiple disciplines from theater to themed attractions to museums,
+   retail, and public spaces. Each experience created has a strong ability to affect the audience on a deep level of
+   engagement, and often use a variety of mixed media blending physical and digital interactions that connect the
+   senses.
+   This convergence of disciplines will form the foundation of Texas Immersive.
+   Texas Immersive is an interdisciplinary specialization focused on four key areas: Audience – Story – Technology –
+   Innovation. Developing these competencies will foster deep emotional connections, create lasting impact and
+   prepare our students to take on real-world challenges. Overall, students will learn to become Experience
+   Designers… those who understand how to target and build stronger relationships with audiences; tell stories
+   and drive meaningful interactions in a connected environment; and create strong franchises using audience-
+   centric activation models.
+   Overall, this initial project will teach you how to design a captivating story and use game mechanics and different
+   forms of engagement to help the “new recruits” push the story forward. Teams will shop for supplies, design all
+   the assets and build out the story challenges. We will play test the 1st prototype and iterate if need be to ready it
+   for mass production (after all up to 48 new UT students will receive this in May).
+Experimental Storytelling Syllabus | Spring 2020                                                                        5
+
+
+   Sandbox Demos/Analysis! @CMA 6.154 | 15%
+   The best way to understand the future of storytelling is to experience it; to immerse yourself. Though I
+   encourage you to make use of the Experience Lab as often as you can (See ULA Lab Hours above), you are
+   required to visit it 3x throughout the semester on the specific dates noted in the schedule above.
+   Your grade will be a combination of your 3 visits. You will need to Sign up to use the lab ahead of time and choose
+   a demo from the recommended list for the first 2 Demo/Analysis requests, the 3rd analysis is your choice. All 3
+   experiences need to be play tested in the Imagine Lab. You can recommend another demo but it must be
+   approved by the Professor first. Take a look at the Lab Demo library for ideas.
+   Each time, you are required to watch it / play with it and then offer an analysis (1-2 pages) of the experience. The
+   analysis should incorporate at least two ideas or concepts from Professor Reilly’s lectures. It’s also encouraged to
+   incorporate relevant material from other classes and outside experience, in addition to the readings assigned or
+   the books recommended in this course. Keep in mind, this is a scholarly research analysis. Though a certain
+   informality in tone is permissible, even desirable, student writing should be well-written, coherently organized,
+   and thought-provoking. Your analysis should make the students want to demo this experience.
+   Final Project: Real-World Client Project
+   Public Interactive Experience | 30%
+   We communicate to connect with other human beings. We communicate to express our feelings or to share a
+   story. We communicate to create a better world. Throughout our existence, humans have developed new ways
+   to communicate from grunts and groans to language to the printing press and the internet. Every day students
+   and faculty at UT are discovering new ways to communicate, new ways to make the human experience better.
+   Our real-world client for this semester will be the UT Pop Up Institute on Sexual and Gender Diversity (link). They
+   would like us to build out an immersive experience for participants to experience and understand their core
+   themes of the Pop Up during the scheduled June event they plan to hold.
+   Each student will submit an Individual Poster and participate in the Brainstorm Session (10% of Grade). Through a
+   democratic process, the class and client will work towards combining some of these ideas into an overall
+   experience targeted to the client’s needs. This project will be led by a Producer and Creative Director with team
+   leaders running different sections of development to collectively work as an experience design team. Goals of the
+   project include developing a guest experience treatment, pitching ideas to the client, and developing a prototype
+   in the form of a location-based story or a visitor center interactive experience, or possible combination. This
+   story experiences should consider the audience and offer both a lean-back and lean-in experiences. They will
+   develop across multiple mediums ensuring that the team has thoughtfully considered the audience and how they
+   learn about it, the actual immersive experience and what participants receive or leave with to carry the idea
+   forward. Teams will need to use a variety of tools to schedule tasks (i.e.:Trello), to communicate across teams
+   (i.e.: Discord) and a shared Google Drive as means to collaborate on production assets (with set versioning
+   standards) and show works in progress. With feedback, the team will develop a working prototype with a video
+   showcase (up to 3 minutes) and presentation to share with the public Week 15.
+   Sandbox Recommendation! @CMA 6.154 | 10%
+   Based on class lectures and readings, you will be asked to make 2 recommendations of a new demo. The goal of
+   to involve you in active processes of learning beyond the classroom and understand the wider community
+Experimental Storytelling Syllabus | Spring 2020                                                                       6
+
+
+   participating in experimental stories. You need to select an individual platform or experience and identify it’s
+   unique affordances.
+   Grades
+   The following table represents how you will demonstrate your learning and how we will assess the degree to which you
+   have done so.
+   Assignments                                             Points possible                    Percent of Total Grade
+   Social Media Experiment - @48moods                              400 (undergrad)                       20%
+   Grad Students will curate / edit book                        400+100 for 500 (grad)
+   TXI – New Recruit Story Kit” Class Project              100 – Team Work / Peer Review                 15%
+                                                            100 – Participation in Activities
+                                                                100 – Completed Final
+                                                                      300 TOTAL
+   Imagine Lab Experience @CMA 6.154                              30 – 3 Demo Visits                     15%
+   3 visits to demo Immersive Experiences and write an         300 – 3 Analysis Papers
+   analysis on each.                                                  330 TOTAL
+   Final Project with Real-World Client                                                                  30%
+   10% of the grade is based on your individual                 100 – Individual Poster
+   assignment during the poster session brainstorm.        100 – Team Work / Peer Review
+   20% is based on your work / effort in developing the         100 – Completed Final
+   client project.                                                    300 TOTAL
+   Staying Abreast of the Immersive Field                     30 – 2 Recommendations                     10%
+   Recommend 2 NEW Demos to include in the library                     60 TOTAL
+   @CMA 6.154
+   Activities / In Class Participation / Readings + Videos              400 pts                          10%
+   + Quizzes
+   Extra Credit                                                            2                           Extra
+   Attend Imagine Moody MeetUp (2nd Wednesday of
+   every month | 6-8PM | @CMA 6.154)
+                                                                         1790+                          100%
+   Course Schedule: A Weekly Breakdown
+   All instructions, assignments, readings, rubrics and essential information will be on the Canvas website at
+   https://utexas.instructure.com. Check this site regularly and use it to ask questions about the course schedule.
+   Changes to the schedule may be made at my discretion and if circumstances require. It is your responsibility to
+   note these changes when announced (although I will do my best to ensure that you receive the changes with as
+   much advanced notice as possible).
+   Week 1 | Jan 23, 2020
+   Review Course: Experimental Storytelling (45 Minutes)
+        • Discuss Projects: @48Moods, TXI Acceptance, Real-World Client
+        • Review Course Expectations
+        • Importance of Imagine Lab (CMA 6.154)
+        • Identify and establish tools used in team projects (Discord / Google Drive / Trello)
+Experimental Storytelling Syllabus | Spring 2020                                                                        7
+
+
+   Activity: Personality Test & Trading Cards (75 minutes)
+    • Goal of these two activities are to have students better understand themselves and their peers. Experimental
+         Storytelling is based on teams collaborating to complete projects and its important for each of us to
+         understand how our peers perceive the world and make decisions giving us insight in how to connect, relate
+         with each other and work better together.
+   What is Experimental Storytelling? Presentation (30 minutes)
+   Homework
+    • Test out Texas Immersive Acceptance Experience
+              o If you haven’t tried out the Texas Immersive Acceptance experience, do this for homework so the
+                  entire class is up to speed on the 1 st project we will work on.
+              o Review Content Bible (google doc) of last semester’s class to see some of their behind the scenes
+                  work.
+    •    Sandbox Demo/Analysis #1!
+              o Need help, sign up for Josh’s help in the lab: https://calendly.com/imaginelab
+              o You have the choice of one of the following demos:
+                       ▪ 1 of the Escape Room Games in the Imagine Lab (CMA 6.154) -- play with your peers
+                       ▪ 1 of the Interactive Books from the Demo Library (i.e.: Cathy’s Book, JJ Abrams “S”)
+                       ▪ Go as a group to an Escape Room experience here in Austin (i.e.: Maze Rooms in Austin) and
+                            show that you went (i.e.: ticket, receipt).
+              o After completing the demo, write an analysis (1-2 pages). Consider what it is, what it had you do, if it
+                  impacted you and if so in what ways, what was missing or could have been done better and its relation to
+                  other similar experiences.
+    •    @48Moods Weekly Creative Journaling:
+              o Suggestions: In the Imagine Lab (CMA 6.154 is 99 Ways to Tell a Story by Matt Madden, in the Imagine Lab
+                  (CMA 6.154) for inspiration on style, POV.
+              o THEME 1: #Who Am I? (post by Saturday at 11:59 PM)
+              o THEME 2: #Diversity (post by Tuesday at 11:59 PM))
+              o Peer Comments (post by Thursday at 9:00 AM)
+   Week 2 | Jan 30, 2020
+   DUE: @48Moods Theme 1 & 2 and peer comments; Sandbox Demo/Analysis #1, completed TXI acceptance kit
+   What is Storytelling? Presentation (45 minutes)
+   Activity: Spectrum Mapping (75 minutes)
+   Goal of this activity is to have students reveal the diverse perspectives and options around improving the TXI
+   Acceptance kit for the next cohort of Explorers.
+   Review Roles for TXI Acceptance Kit (30 minutes)
+   To complete this project, we will need to build the team into different departments each contributing to the larger
+   project. In order for this to run smoothly, the team will be led by:
+        • Producer (1) -- plan and coordinate various aspects of your group’s production, such as finalizing the content;
+             coordinating writing, directing, and editing; and arranging financing.
+        • Creative Director (1) -- oversee the creative process and give guidance to the overall look and feel of the experience.
+   The Producer and the Creative Director should be joined at the hip and have a shared vision as to what the end product will
+   look like. Preference is given to graduate students if they so choose to take on this role.
+   Underneath this leadership are the following teams. Each team will have a Team Lead reporting to the Producer / Creative
+   Director and who will make sure assignments are distributed equally and completed on time. Each team is required to have
+   at least 3 people. You will peer review your entire team as part of your grade for this project.
+Experimental Storytelling Syllabus | Spring 2020                                                                                8
+
+
+   Teams are:
+       • Writers: This is the team who will ensure the story narrative, character development and all copy for any
+            media asset is complete.
+       • Game Designers: This is the team who will refine or build any new story challenges and ensure that the
+            experience is interactive and offers participatory avenues for the user to lean in and make choices in the
+            story experience.
+       • Builders: This is the team that will build any physical assets needed as artifacts in the story experience. These
+            artifacts should be used to push the story forward and offer a way for the users to use more of their senses
+            than just sight and sound.
+       • Multimedia Artists: This is the team that will build any media assets needed whether it’s how to enter the
+            story, move the story along or offers some sort of resolution to close out the experience.
+       • Developers: This is the team who will write, debug and execute code to make this an interactive experience.
+   Activity: Build Teams (45 minutes)
+   Goal of this activity is to have students consider which role and team they’d like to be on and apply.
+   Have each student apply for one of the roles / teams. In their submission, include:
+       • Name / Personality Type
+       • What role is of interest, and why?
+       • What hard / soft skills are you bringing to the table?
+       • What do you hope to learn from joining this team?
+       • If you are choosing a leadership role, share why you think you have the skills needed to lead the group?
+            What do you hope to accomplish? How will you proceed? How will you manage pitfalls?
+   Homework:
+   • Submit your TXI Acceptance Kit Team Application to Canvas by Saturday at 11:59 PM
+   •   Read Chapter 1: Storytelling, Old and New (Digital Storytelling, 4 th Edition by Carolyn Handler Miller 2020) and
+       take QUIZ!
+   •   @48Moods Weekly Creative Journaling:
+            o Suggestions: Check out the book, 99 Ways to Tell a Story by Matt Madden, in the Imagine Lab (CMA 6.154) for
+                 inspiration on style, POV.
+            o THEME 3: #Mystery (post by Saturday at 11:59 PM)
+            o THEME 4: #Wonder (post by Tuesday at 11:59 PM)
+            o Peer Comments (post by Thursday at 9:00 AM)
+   Week 3 | Feb 6, 2020
+   DUE: @48Moods Theme 3 & 4 w peer comments; Reading and Quiz complete
+   Defining & Designing Character Presentation (45 minutes)
+   Activity: Teams Assigned – Begin development (90 minutes)
+   Goal of this activity is to begin – ensure that the story and character development is strong. Get to know your team,
+   what each one can and wants to contribute and brainstorm action items based on last week’s activ ity: Spectrum
+   Mapping.
+       • Producer / Creative Director should establish tools and invite team members; as well as develop a 7 Ps
+            Framework and schedule (see Activity)
+       • Affinity mapping could be a useful tool for each team to use to workshop ideas and get organized (see
+            Activity)
+Experimental Storytelling Syllabus | Spring 2020                                                                          9
+
+
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello.
+       • Note: SCRUM will be our weekly short sprint developmental check-in for each team to review week’s
+            assignments and stay on target for completion. It is often a standing-only 10-minutes max meeting for each
+            team member to highlight success (GREEN), work-in-progress (YELLOW), and anything that’s preventing
+            work to be done (RED).
+   Homework:
+   • TXI Acceptance Kit team assignments
+   •   Sandbox Demo/Analysis #2!
+            o Need help, sign up for Josh’s help in the lab: https://calendly.com/imaginelab
+            o You have the choice of one of the following demos (all available in the Imagine Lab):
+                     ▪ CoCo VR                                                          ▪ Job Simulator
+                     ▪ Spider Man Far From Home                                         ▪ Vader Immortal
+                     ▪ Mindshow                                                         ▪ Wolves in the Wall
+                     ▪ Lone Echo                                                        ▪ Fragments
+                     ▪ Dead and Buried                                                  ▪ Pearl
+                     ▪ Eve                                                              ▪ Help
+            o After completing the demo, write an analysis (1-2 pages). Consider the presentations given in class so far.
+                Story, its structure and how the characters were developed, designed and how you interacted with them or
+                didn’t. Did the experience impact you, and if so in what ways? What was missing or could have been done
+                better and its relation to other similar experiences?
+   •   @48Moods Weekly Creative Journaling:
+            o Suggestions: Check out the book, 99 Ways to Tell a Story by Matt Madden, in the Imagine Lab (CMA 6.154) for
+                inspiration on style, POV.
+            o THEME 5: #Place (post by Saturday at 11:59 PM)
+            o THEME 6: #Object (post by Tuesday at 11:59 PM)
+            o Peer Comments (post by Thursday at 9:00 AM)
+   Week 4 | Feb 13, 2020
+   DUE: @48Moods Theme 5 & 6 w peer comments; Sandbox Demo/Analysis #2, TXI team work
+   Affordances, Constraints & Conventions Presentation (45 minutes)
+   Activity: Enter the Story (75 minutes)
+   Goal of this activity is to work in teams and brainstorm ways to enter stories in non -traditional ways and consider
+   how this can be applied to the TXI Acceptance Kit project.
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello. (20 minutes)
+       • Story beats should be solid. Any revised interaction should be done by EOD.
+       • You should be full-on into production.
+       • Any items needing to be purchased should be complete by EOD to be here by next week.
+   Homework:
+   • TXI Acceptance Kit team assignments
+   •   Watch Gunther Kress videos on Concepts in Multimodality and take QUIZ!
+   •   Sandbox Demo Recommendation #1!
+       Based on themes from Week 2, 3 & 4 presentations in class, make a recommendation of a new demo and submit it here:
+       https://docs.google.com/forms/d/1bXcjoDsLQZqclvMeMK855FyHbf7wxBxyqVwxVH6SLHw/edit?ts=5e263c13
+   •   Bring your favorite tangible object to class next week!
+Experimental Storytelling Syllabus | Spring 2020                                                                          10
+
+
+   •    @48Moods Weekly Creative Journaling:
+             o Suggestions: Consider developing a series of images to offer different ways of shaping your simple story.
+             o THEME 7: #Sound (post by Saturday at 11:59 PM)
+             o THEME 8: #Character (post by Tuesday at 11:59 PM)
+             o Peer Comments (post by Thursday at 9:00 AM)
+   Week 5 | Feb 20, 2020
+   DUE: @48Moods Theme 7 & 8 w peer comments; Sandbox Demo Recommendation #1, TXI team work; ; bring your
+   favorite tangible object to class!
+   Tangible Storytelling with New Screens Presentation (45 minutes)
+   Activity: Object Brainstorm (45 minutes)
+   Goal is to help externalize the thought process, just as sketching or role play does, but often in a more immediate and
+   concrete way. Because objects suggest stories about how they might be used, they make a great starting point for free
+   association and exploration.
+   TXI Acceptance Kit Production (60 minutes)
+   Goal is to have a unique way of entering the experience and that nothing is gimmicky and has thoughtfully been
+   designed based on the affordances of each media used.
+        • Producer / Creative Director should check in with each team and update sched ule
+   SCRUM Project Check In – what does each team need to accomplish by next week to play test experience? Update
+   Trello.
+   Homework
+   • TXI Acceptance Kit team assignments
+   •    @48Moods Weekly Creative Journaling:
+             o Suggestions: Consider developing a series of images to offer different ways of shaping your simple story.
+             o THEME 9: #Reaction (post by Saturday at 11:59 PM)
+             o THEME 10: #Connection (post by Tuesday at 11:59 PM)
+             o Peer Comments (post by Thursday at 9:00 AM)
+   Week 6 | Feb 27, 2020
+   DUE: @48Moods Theme 9 & 10 w peer comments; TXI Acceptance Kit ready for play test!
+   TXI Acceptance Kit Production (90 minutes)
+   Goal is to finish.
+        • Producer / Creative Director should check in with each team
+   SCRUM Project Check In – what does each team need to fix to make final based on play test experience? Update
+   Trello.
+   Play Test – A few guests will be invited in at 11 AM to try it out. (60 minutes)
+        • This should be a 30 minute experience so the guests will have time to offer feedback by end of class.
+        • You will have to Week 8 / March 12 th to make any revisions and submit project.
+   Homework:
+   • TXI Acceptance Kit team assignments
+   •    @48Moods Weekly Creative Journaling:
+Experimental Storytelling Syllabus | Spring 2020                                                                           11
+
+
+           o    Suggestions: Consider developing a series of images to offer different ways of shaping your simple story.
+           o    THEME 11: #Memory (post by Saturday at 11:59 PM)
+           o    THEME 12: #Touch (post by Tuesday at 11:59 PM)
+           o    Peer Comments (post by Thursday at 9:00 AM)
+   Week 7 | March 5, 2020
+   DUE: @48Moods Theme 11 & 12 w peer comments
+   Guest Speaker! (depending on where we are in production) (60 minutes)
+   Introduce Final Project (60 minutes)
+    • Review Client Brief (PRIDE Pop Up Institute)
+    • Conversation with Client, ask questions!
+    • Who’s Your Audience? (Understand wants, needs, emotions, motivations / Consider empathy map)
+   SCRUM Project Check In (30 minutes) – what does each team need to fix to make final based on play test
+   experience? Update Trello. (Any last issues to address to turn in TXI Acceptance Kit final next week)
+   Homework
+   • Client Brief Individual Poster Brainstorm
+       Create a poster to showcase in next week’s class. This poster needs to explain your proposed immersive experience to
+       address the Client’s Brief. There are two constraints:
+        1. Your poster must be self-explanatory. If you gave it to a person without walking her through it, would she
+            understand?
+        2. Your poster must be visual. Words and labels are good, but text alone will not be enough to get people’s
+            attention, or help them understand.
+       When creating your poster, consider these 3 kinds of explanation:
+              1. Before and After: Describe “why” someone should care in terms of drawing the today and tomorrow of the
+                  idea.
+                      • What is the simple story?
+                      • Who are the characters?
+              2. System: Describe the “what” of an idea in terms of its parts and their relationships.
+                      • What are the proposed media, its affordances and how it relates to the story?
+                      •    What story structure do you propose?
+              3. Process: Describe the “how” of an idea in terms of a sequence of events.
+                      • In what ways do we enter the story?
+                      • What do we do?
+                      • What are we left with?
+   •   TXI Acceptance Kit team assignments – finish, final due next week!!
+   •   @48Moods Weekly Creative Journaling:
+           o Suggestions: Consider developing a video (3-4 seconds mp4) to offer different ways of shaping your simple
+                story.
+           o THEME 13: #Agency (post by Saturday at 11:59 PM)
+           o THEME 14: #Behavior (post by Tuesday at 11:59 PM)
+           o Peer Comments (post by Thursday at 9:00 AM)
+   •   Grad Students required to schedule meeting with Prof Reilly to discuss @48Moods Curation
+           o Proposed Re-Imagine a Book idea due 4/2 with completed project due 4/23 to send to printers
+           o Consider pushing beyond the traditional page in curating this experience.
+Experimental Storytelling Syllabus | Spring 2020                                                                            12
+
+
+   Week 8 | March 12, 2020
+   DUE: Client Brief Individual Poster Brainstorm; @48Moods Theme 13 & 14 w peer comments; Final TXI Acceptance Kit
+   (with any revisions needed from Play Test)
+   Activity: Poster Session Gallery Walk with Dot Voting (75 minutes)
+   Goal is to ensure every student suggests an idea for the final project ensuring all voices are considered in the
+   development. It forces each student to visually think about the client project and im agine ways to explain an
+   experience to others. The gallery walk and dot voting offers a democratic process to see a variety of ideas and offer
+   different contributions that will make the final project stronger.
+        • Client will be invited to participate.
+        • Our goal is to work towards an Overall Concept by end of activity
+   Review Roles for Final Project (30 minutes)
+   To complete this project, we will need to build the team into different departments each contributing to the larger
+   project. In order for this to run smoothly, the team will be led by:
+        • Producer (1) -- plan and coordinate various aspects of your group’s production, such as finalizing the content;
+             coordinating writing, directing, and editing; and arranging financing.
+        • Creative Director (1) -- oversee the creative process and give guidance to the overall look and feel of the experience.
+   The Producer and the Creative Director cannot be the same people from the previous project. These two roles should be
+   joined at the hip and have a shared vision as to what the end product will look like. Preference is given to graduate students
+   if they so choose to take on this role.
+   Underneath this leadership are Project Teams that connect to the vision of the immersive experience. These will be
+   determined after the Poster Session activity.
+   Within these Project teams, there will be a Team Lead reporting to the Producer / Creative Director and who will make sure
+   assignments are distributed equally and completed on time. Each team is required to have at least 3 people. Project Teams
+   will most likely have similar roles as the previous project but this will be determined based on proposed project. You will
+   peer review your entire team as part of your grade for this project.
+   Activity: Build Teams (45 minutes)
+   Goal of this activity is to have students consider which role and team they’d like to be on and apply.
+   Have each student apply for one of the roles / teams. In their submission, include:
+        • Name / Personality Type
+        • What role is of interest, and why?
+        • What hard / soft skills are you bringing to the table?
+        • What do you hope to learn from joining this team?
+        • If you are choosing a leadership role, share why you think you have the skills needed to lead the group?
+             What do you hope to accomplish? How will you proceed? How will you manage pitfalls?
+   Homework: Enjoy Spring Break!
+   • Producer / Creative Director
+             o Establish tools and invite team members
+             o Refine overall concept document
+             o Check in with Each Team and approve Team Leader
+   •    Go for a Walk with your Team!
+             o Literally or figuratively, you need to connect with your team at least once and put together a 7 Ps
+                 framework (See Activity) on how you all will work together. Determine who will lead your team and be
+                 the direct point of contact to the Producer / Creative Director. Be prepared to share your plan when we
+                 return.
+Experimental Storytelling Syllabus | Spring 2020                                                                               13
+
+
+   •   @48Moods Weekly Creative Journaling:
+            o Suggestions: Consider developing a video (3-4 seconds mp4) to offer different ways of shaping your simple
+                story.
+            o THEME 15: #Nostalgia (post by Saturday at 11:59 PM)
+            o THEME 16: #Emotion (post by Tuesday at 11:59 PM)
+            o Peer Comments (post by Thursday at 9:00 AM)
+   Week 9 | March 26, 2020
+   DUE: Producer / Director Concept Paper; Each Team’s 7 Ps Framework / plan; @48Moods Theme 15 & 16 w peer
+   comments
+   Building a Guest Experience Presentation (45 minutes)
+       • 10-Step Development Checklist
+       • Mapping flow and interaction
+       • Examples of Guest Experience Treatments
+   Activity: Teams begin development (85 minutes)
+   Goal of this activity is to begin – ensure that the story and character development is strong. Get to know your team,
+   what each one can and wants to contribute and begin development.
+       • Producer / Creative Director should check in with each team and review the 7 Ps Framework and schedule
+       • Each Team Leader should work with their team towards developing their part of the Guest Experience PDF
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello. (20 minutes)
+   Homework:
+   • Finalize Project Guest Experience PDF to present to client next week
+            o Reference Chapter 9: Guidelines: Creating a New Project (Digital Storytelling, 4 th Edition by Carolyn
+                Handler Miller 2020)
+   •   @48Moods Weekly Creative Journaling:
+            o Suggestions: Consider developing a video (3-4 seconds mp4) to offer different ways of shaping your simple
+                story.
+            o THEME 17: #Best_of_Me (post by Saturday at 11:59 PM)
+            o THEME 18: #The_End (post by Tuesday at 11:59 PM)
+            o Peer Comments (post by Thursday at 9:00 AM)
+   Week 10 | April 2, 2020
+   DUE: @48Moods Theme 17 & 18 w peer comments; Final Guest Experience PDF to present to client; Grad Students:
+   Proposed @48moods book project
+   Client Check-In (45 minutes)
+       • Producer & Creative Director presents Guest Experience PDF (20 minutes max)
+       • Teams get feedback, take notes
+   Final Project Production (90 minutes)
+   Goal is to use Guest Experience to guide development.
+       • Producer / Creative Director should check in with each team and update schedule
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello.
+Experimental Storytelling Syllabus | Spring 2020                                                                         14
+
+
+   GRAD Students share Proposed Re-Imagined @48Moods Book (15 minutes)
+   Homework:
+   • Collective Story Experiment - @48moods | CURATION
+         o Curate your best 3 posts and put them in order (1-5, 1 being the best)
+         o Curate the overall best 3 posts from the class and put them in order (1-5, 1 being the best)
+         o Identify your favorite #theme
+         o Write 500 words on what you learned / your feelings towards @48moods collective storytelling project
+   Week 11 | Apr 9, 2020
+   DUE: @48moods | CURATION; Money to purchase @48Moods DUE! (VENMO PROFESSOR REILLY @EBREILLY)
+   Final Project Production (130 minutes)
+   Goal is to use Guest Experience to guide development.
+       • Producer / Creative Director should check in with each team and update schedule
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello. (20 minutes)
+   Homework:
+   • Grad Students: Edit @48moods book!
+   •   Sandbox Demo/Analysis #3!
+            o Need help, sign up for Josh’s help in the lab: https://calendly.com/imaginelab
+            o Choose any demo available in the Imagine Lab.
+            o After completing the demo, write an analysis (1-2 pages). Consider the presentations given in class so far.
+                Story, its structure and how the characters were developed, designed and how you interacted with them or
+                didn’t. Did the experience impact you, and if so in what ways? What was missing or could have been done
+                better and its relation to other similar experiences?
+   Week 12 | Apr 16, 2020
+   DUE: @48moods | CURATION; Sandbox Demo/Analysis #3
+   Imagine Success and Work Backward Presentation (45 minutes)
+       • Design Fictions, Beautiful Corner, Vertical Slice
+       • Know what you can do and do it well (smoke & mirrors)
+   Final Project Production (90 minutes)
+   Goal is to use Guest Experience to guide development.
+       • Producer / Creative Director should check in with each team and update schedule.
+       • By this time, any documentation, flow charts, storyboards and concept artwork should be completed.
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello. (15 minutes)
+   Homework:
+   • Grad Students: Finish editing @48moods book!
+   Week 13 | Apr 23, 2020
+   Final Project Production (100 minutes)
+   Goal is to use Guest Experience to guide development.
+Experimental Storytelling Syllabus | Spring 2020                                                                          15
+
+
+         •   Producer / Creative Director should check in with each team and update schedule
+         •   Client Check-In (any needs for Week 15 presentation showcase – set up of room, AV needs, etc)
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello. (20 minutes)
+   Grad Students review final @48moods book w class (30 minutes)
+   Homework:
+   • Grad Students: @48moods book sent to printer!
+   • Read Chapter 18: Immersive Narratives and Immersive Spaces (Digital Storytelling, 4 th Edition by Carolyn
+         Handler Miller 2020) and offer a Sandbox Demo Recommendation #2!
+         Offer a recommendation of a new immersive experience that’s not referenced in the chapter and submit it here:
+         https://docs.google.com/forms/d/1bXcjoDsLQZqclvMeMK855FyHbf7wxBxyqVwxVH6SLHw/edit?ts=5e263c13
+   Week 14 | Apr 30, 2020
+   Final Project Production (130 minutes)
+   Goal is to use Guest Experience to guide development.
+         • Producer / Creative Director should check in with each team and update schedule
+         • Edit and compile …get ready to finish!
+   SCRUM Project Check In – what does each team need to accomplish by next week? Update Trello. (20 minutes)
+   Homework:
+   • Complete project. Be ready to showcase to public.
+   Week 15 | May 7, 2020
+   Team presents Final Project with hands-on experience to Client
+                                                        Policies
+     Classroom Policies
+     Statement on Learning Success
+     Your success in this class is important to me. We will all need accommodations because we all learn differently.
+     If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as
+     possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. I also
+     encourage you to reach out to the student resources available through UT. Many are listed on this syllabus, but
+     I am happy to connect you with a person or Center if you would like.
+    Attendance and Professionalism
+    Attendance at all classes and meetings is required. It is also assumed that students will be active participants in
+    class. Simply being present in the room is not sufficient; you must also be engaged and involved scholars.
+    Participation – not just attendance – is integral to a successful, enjoyable class and to you earning a high grade.
+    Active participation means contributing to the discussion, listening to what your colleagues have to say and
+    engaging with the readings and in-class activities. It means showing up on time, not checking Facebook or email
+Experimental Storytelling Syllabus | Spring 2020                                                                       16
+
+
+ on your computer, not texting on your phone. NOTE that if you do not participate in class discussions, you will
+ not earn full points for attendance even if you come to every class.
+ Peer Evaluations
+ You will be asked to provide an assessment of your and your teammates' contributions to the different group
+ projects. They will be taken into account in assignment of grades.
+ Grading System:
+ This class will be graded using the plus/minus grading system, as outlined by the university’s provost office
+ (http://www.utexas.edu/provost/planning/plus-minus/). Advertising and PR majors are required to have a
+ minimum grade of C in all communication courses and in all required and elective courses in order to continue
+ in the program.
+                                                    NOTES on Grading:
+     •   Late work is not accepted.
+     •   I will NOT be rounding up percentage grades or points. So if you earn an 89.6% that translates into a B+
+         and will not be rounded up to 90% (an A-).
+     •   Any questions or comments about a grade must be presented in writing within seven (7) days after the
+         grade is announced or posted.
+When I grade your work, you start with zero points. You earn points based on the quality of the work and the accuracy,
+appropriateness and detail of your answers. You do not start with 100 points and then lose them based on mistakes you
+make. Your final points represent the total points earned for that assignment, not the number of points “taken away” for
+errors or omissions.
+                                                         Absences
+ The only absences that will be considered excused are for religious holidays or extenuating circumstances
+ due to an emergency. You will be given attendance/participation credit for any session that you miss that is
+ documented to the teaching team in writing by a medical doctor’s statement, or an official statement from a
+ UT faculty member about an ensemble or other organization’s off-campus commitment. NO OTHER ABSENCES
+ WILL BE EXCUSED.
+                                            Student Rights & Responsibilities
+     •   You have a right to a learning environment that supports mental and physical wellness.
+     •   You have a right to respect.
+     •   You have a right to be assessed and graded fairly.
+     •   You have a right to freedom of opinion and expression.
+     •   You have a right to privacy and confidentiality.
+     •   You have a right to meaningful and equal participation, to self-organize groups to improve your learning
+         environment.
+     •   You have a right to learn in an environment that is welcoming to all people. No student shall be isolated,
+         excluded or diminished in any way.
+With these rights come responsibilities:
+     • You are responsible for taking care of yourself, managing your time, and communicating with the
+         teaching team and with others if things start to feel out of control or overwhelming.
+Experimental Storytelling Syllabus | Spring 2020                                                                        17
+
+
+     •   You are responsible for acting in a way that is worthy of respect and always respectful of others. • Your
+         experience with this course is directly related to the quality of the energy that you bring to it, and your
+         energy shapes the quality of your peers’ experiences.
+     •   You are responsible for creating an inclusive environment and for speaking up when someone is
+         excluded.
+     •   You are responsible for holding yourself accountable to these standards, holding each other to these
+         standards, and holding the teaching team accountable as well.
+                                              Personal Pronoun Preference
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with
+differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities. Class
+rosters are provided to the instructor with the student’s legal name. I will gladly honor your request to address
+you by a name different than what appears on the roster, and by the gender pronouns you use. Please advise
+me of this preference early in the semester so that I may make appropriate changes to my records.
+                                                    University Policies
+                                                    Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a student of The
+University of Texas at Austin, I shall abide by the core values of the University and uphold academic integrity.”
+Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that are not your own (or that you
+have used in previous class), you must cite your sources. Otherwise you will be guilty of plagiarism and subject to
+academic disciplinary action, including failure of the course. You are responsible for understanding UT’s
+Academic Honesty and the            University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+                                                       Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop deadline,
+which typically occurs near the middle of the semester. Under Texas law, you are only allowed six Q drops while
+you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+                                            University Resources for Students
+Your success in this class is important to me. We will all need accommodations because we all learn differently.
+If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as
+possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. There
+are also a range of resources on campus:
+                                           Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are circumstances
+that make our learning environment and activities difficult, if you have medical information that you need to
+share with me, or if you need specific arrangements in case the building needs to be evacuated, please let me
+know. I am committed to creating an effective learning environment for all students, but I can only do so if you
+discuss your needs with me as early as possible. I promise to maintain the confidentiality of these discussions. If
+appropriate, also contact Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video
+phone). http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Experimental Storytelling Syllabus | Spring 2020                                                                     18
+
+
+      Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+      alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope
+      with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources
+available on campus and an important part of the college experience is learning how to ask for help. Asking for
+support sooner rather than later is often helpful.
+      If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or
+      depression, we strongly encourage you to seek support.
+      http://www.cmhc.utexas.edu/individualcounseling.html
+          The Sanger Learning Center
+      Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center each
+      year to improve their academic performance? All students are welcome to take advantage of Sanger
+      Center’s classes and workshops, private learning specialist appointments, peer academic coaching, and
+      tutoring for more than 70 courses in 15 different subject areas. For more information, please
+      visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Important Safety Information:
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the B
+ehavior Concerns Advice Line): 512-232-
+5050. Your call can be anonymous. If something doesn’t feel right – it probably
+isn’t. Trust your instincts and share your concerns.
+Title IX Reporting
+Title IX is a federal law that protects against sex and gender based discrimination, sexual harassment, sexual
+ assault, sexual misconduct, dating/domestic violence and stalking at federally funded educational institutio
+ns. UT Austin is committed to fostering a learning and working environment free from discrimination in all it
+s forms. When sexual misconduct occurs in our community, the university can:
+          • Intervene to prevent harmful behavior from continuing or escalating.
+          • Provide support and remedies to students and employees who have experienced harm or h
+               ave become involved in a Title IX investigation.
+          • Investigate and discipline violations of the university’s relevant policies.
+Faculty members and certain staff members are considered “Responsible Employees” or “Mandatory Repo
+rters,” which means that they are required to report violations of Title IX to the Title IX Coordinator. I am a
+Responsible Employee and must report any Title IX related incidents that are disclosed in writing, discussi
+on, or one-onone.
+Before talking with me, or with any faculty or staff member about a Title IX related incident, be sure to ask
+whether they are a responsible employee. If you want to speak with someone for support or remedies with
+out making an official report to the university, email advocate@austin.utexas.edu For more information ab
+Experimental Storytelling Syllabus | Spring 2020                                                                    19
+
+
+out reporting options and resources, visit titleix.utexas.edu or contact the Title IX Office at titleix@austin.ut
+exas.edu.
+I also take any other kind of discrimination or harassment very seriously, and I urge you to report such
+misbehavior. Discrimination, harassment, and/or retaliation on the basis of race, color, religion, national origin,
+sex, pregnancy, age, disability, citizenship, veteran status, genetic information, sexual orientation, gender
+identity, and gender expression can be reported to the Office for Inclusion and Equity. Or tell me and I will
+report it.
+     •   Office for Inclusion and Equity (OIE)
+         The Office for Inclusion and Equity (OIE) investigates and helps to resolve complaints of sexual
+         misconduct and discrimination.
+              o    File a report of discrimination via online form
+              o    Call to report discrimination 512-471-1849 or email: equity@utexas.edu
+     •   Office for Civil Rights (OCR)
+         The Office for Civil Rights (OCR) in the US Department of Education is responsible for enforcing federal
+         civil rights laws that prohibit discrimination in programs and activities that receive federal financial
+         assistance from the Department of Education, including sex discrimination covered under Title IX. Call
+         the Office for Civil Rights 214-661-9600.
+     •   Equal Opportunity in Employment Commission (EEOO)
+         The Equal Emplloyment Opportunityy Commission (EEOC) is responsible for enforcing federal laws that
+         make it illegal to discriminate against a job applicant or employee on the basis of a protected class,
+         including discrimination on the basis of sex. Call the Equal Opportunity in Employment Commission 800-
+         669-4000.
+Experimental Storytelling Syllabus | Spring 2020                                                                  20

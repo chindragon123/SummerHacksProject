@@ -1,0 +1,418 @@
+                                                                                            ARC 320D | UTSOA Fall 2019
+                                                                       Design Studio III:
+                                                                       Operational
+Hanging model for the crypt of Colònia Güell. Antoni Gaudí 1898-1915
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Overview
+General Information
+University of Texas at Austin School of Architecture
+Schedule:             Mondays             1pm – 5:30pm
+                      Wednesdays          1pm – 5:30pm
+Location:             SUT 4.106, SUT 4.108, SUT 4.124
+Instructors:          Aleksandra Jaeschke, Coordinator, email: jaeschke@austin.utexas.edu
+                      Kory Bieg, email: kory@otaplus.com
+                      Suhash Patel, email: suhash019@gmail.com
+                      Kevin Sullivan, email: kev.m.sullivan@gmail.com
+Office Hours:         by appointment
+Prerequisites         ARC 310L and 311L with a grade of at least C in each
+                      Registration for Architecture 221K or Architectural Interior Design 221K
+Curriculum Flag: Independent Inquiry
+This course carries the Independent Inquiry flag. Independent Inquiry courses are designed to engage students in the
+process of inquiry over the course of a semester, providing a student with the opportunity for independent investigation of a
+question, problem, or project related to the student’s major. At least one-third of the grade will be based on independent
+investigation and presentation of one’s own work.
+Intermediate Design Studios
+Students pursuing the Bachelor of Architecture must complete four Intermediate Design Studios during their second and
+third years. Building on the Foundation Design Studios taken during the first year, the goal of the Intermediate Studios is to
+prepare students for Advanced Design Studios in their fourth and fifth years. Each Intermediate Studio is structured around
+one of four broad themes of inquiry: Operational, Environmental, Integrative, and Speculative. The aim of each studio is to
+establish a critical framework and suggest a range of design tools relevant to the key issues addressed as part of each broad
+theme. Intermediate Studios also serve as a platform to prepare students for the range of offerings of the Advanced Studios
+(e.g. Comprehensive, Urban Design, Landscape Architecture, etc.). Intermediate Studios follow a similar structure, but
+instructors individually determine the exact scope of each design studio.
+                                                                                                                               2
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Learning Outcomes
+Students will be exposed to a series of learning goals several times and from different angles over the four Intermediate
+Studio sequence. The goal is that similar issues are repeated from studio to studio but from different angles, allowing
+students to find, within the diversity of the topics, a “common thread” as they go through the sequence of the four studios.
+The level of expectation will grow as students go from being introduced to an issue, to becoming competent at it. Some
+issues would be only mentioned in passing in one studio but will be studied in more depth in another:
+     •     Design Composition Skills: Developed through three-dimensional architectural form and space, both
+           exterior and interior; building envelope;
+     •     Design Integration Skills: Demonstrated through creative engagement with issues of materiality, structures,
+           construction, and environmental system;
+     •     Site Analysis and Design: Developed through the creative engagement with relevant contextual;
+           environmental and programmatic factors underlying the project;
+     •     Basic grasp of accessibility and egress;
+     •     Critical Thinking: Quality of conceptual and critical thought; learning from precedents; research skills;
+     •     Graphic Skills: Quality of presentation; clarity of communication; appropriateness of media strategy and level of
+           skill displayed;
+     •     Collaborative and Leadership Skills: Demonstrated through the active engagement in all activities of the
+           studio.
+Design Conversations: Jessen Lectures
+The School of Architecture offers a wide range of opportunities for students to extend the design conversations taken place
+in studios (Lecture Series, Goldsmith Talks, Exhibitions, etc.). Students are encouraged to participate and be engaged.
+Specifically, all BArch and BSAS students in studio are expected to attend all the Jessen Lectures (three per semester by lead
+practitioners from around the world). The lectures and the group discussions in studio that follow are important for the
+holistic education of intellectually engaged students and participation will have an impact on students’ grades (see below).
+                                                                                                                               3
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Overview
+Studio Theme: Operational
+           “Architecture’s relationship to its material is (…) indirect. Unlike activities such as gardening or woodworking, where
+           something concrete is made by direct contact with the material, the architect (like the engineer, the urbanist, or the
+           ecologist) operates on reality at a distance, and through the mediation of abstract systems such as notation, projection, or
+           calculation. Indirect contact is the necessary counterpart to the larger scale of intervention. Architecture works
+           simultaneously with abstract images and with material realities, in complete interplay. It is a material practice.”
+                        Stan Allen, 1999. “Infrastructural Urbanism,” in Points + Lines: Diagrams and Projects for the City.
+           “1. There are two ideas hidden in the word system: the idea of a system as a whole and the idea of a generating system. (…)
+           2. A system as a whole is not an object but a way of looking at an object. It focuses on some holistic phenomenon which
+           can only be understood as a product of interaction among parts. (…) 3. A generating system is not a view of a single thing.
+           It is a kit of parts, with rules about the way these parts may be combined. (…) 4. Almost every ‘system as a whole’ is
+           generated by a generating system. If we wish to make thinks which function as ‘wholes’ we shall have to invent generating
+           systems to create them. (…)”
+                        Christopher Alexander, 1968. “Systems Generating Systems,” in Architectural Design, December 1968
+           operation (ˌɒpəˈreɪʃən) n.
+           -      the act, process, or manner of operating, especially of a practical or mechanical nature;
+           -      a process or series of acts involved in a particular form of work: the operations of building a house;
+           -      (mathematics) a process or action, such as addition, substitution, transposition, or differentiation, performed in a
+                  specified sequence and in accordance with specific rules;
+           -      (computing) an action resulting from a single instruction.
+           operational (ŏp′ə-rā′shə-nəl) adj.
+           -      pertaining to a process or series of actions for achieving a result.
+Relations: Operations and Procedures
+The studio focuses on formal operations, their spatial and functional consequences, and experiential as well as aesthetic
+effects. Form will be understood as an expression of internal orders and organizations and not as an arbitrarily-conceived
+shape. The studio is essentially concerned with the invention and control of generative systems and with ways in which they
+can be expressed, spontaneously explored, rigorously controlled, and implemented (digitally and materially) in the process
+of conceiving new built forms.
+Practical operations constitute an intrinsic part of the act of building. After all, any goal-oriented act requires execution of
+clear and well-defined operations, especially when the relationship between the thinker and the ultimate product of their
+                                                                                                                                        4
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+thought – the building - is indirect and mediated. Yet, the operational, or system-based, design methods did not emerge
+yesterday either. Their theoretical and practical roots are almost a century old, they go back to the organismic thought
+developed in the 1920s. It was later, in the post-war period, that advances in systems theory, cybernetics, and computation
+triggered the first wave of radical experiments in design processes. Ultimately, the 1990's academia and research-driven
+practices contributed the diagram - a powerful device capable of ordering information and driving its evolution towards
+material organization. In parallel to the cybernetic agenda, a continued fascination with natural sciences and a growing
+ecological awareness inspired research into biomimetic design strategies. Logics of morphogenesis, growth, and evolution in
+organisms and ecosystems provided models for artificial systems and design processes.
+Diagrams: Generative Systems
+During the 1990s, and thanks to the work of Michel Foucault and Gilles Deleuze, the diagram, commonly understood as a
+form of representation of information used to visualize and analyze problems, assumed a new role. It was transformed into a
+powerful structuring device capable of ordering information and driving its evolution towards material organization. As
+Sanford Kwinter points out in the forward to Reiser+Umemoto’s The Atlas of Novel Tectonics: “The diagram is an invisible
+matrix, a set of instructions, that underlies – and most importantly organizes – the expression of features in any material
+construct” (2006, 12). While in the 1960s, the mathematician / architect, Christopher Alexander explored diagram-based
+design methods to systematize design requirements and synthesize formal organizations from them, the power of the
+diagram, as theorized in the 1990s, lies in its capacity to migrate. In other words, a diagram not always emerges from a
+problem, it can be extrapolated from one material organization to organize another material field. Think of how ubiquitous
+branching systems are and how many different roles they fulfill! As Reiser+Umemoto point out: “A close tracking of a certain
+dynamic (…) can be abstracted from its origins or its material source. A diagram of relationships, not of scale emerges. Or,
+more precisely, the diagram is a field of relationships awaiting a scale and materiality” (2006, 116). While abstract generative
+diagrams and operational procedures can help introduce spatial and functional novelty and give new forms to old problems,
+they are not deprived of risk. The success relies on two skills: a capacity to operate both through a top-down imposition of
+orders and a bottom-up engagement with local relationships; and an ability to maintain flexibility to allow for a gradual
+evolution of the diagram in response to external requirements and constraints. In this studio we will explore and practice
+these skills.
+Computation: Parametric Design and Numerically-Controlled Fabrication
+While the work of Antoni Gaudi offers a spectacular example of material computation, a system-based approach to complex
+design problems would have remained a daunting task for most architects without the opportunities offered by digital
+computation systems, specifically parametric design tools and numerically-controlled fabrication. A parametric (or relational)
+design approach is one in which the designer defines initial elements and relationships between them; where each element
+is a product of a set of parameters (or variables) that exist within a range, and under a defined set of rules and constraints.
+Next to many design opportunities, thinking of spatial organizations as systems of relations, as opposed to discrete objects
+also brings practical benefits. Architects can layer complexity into a design without having to re-coordinate an entire set of
+drawings every time a change is made. Also, as digital fabrication technologies advance, we are no longer limited by mass
+manufacturing. Parts can differentiate across a surface while adjusting to extremely local conditions imposed by the context.
+Or, parts can be altogether unique from one to the next. Their definition can also be directly transferred to numerically-
+                                                                                                                                 5
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+controlled fabrication devices. Thanks to the digital, the highly-mediated design process becomes a little bit more immediate
+again. Ubiquitous and seamlessly interconnected with the material world, the digital systems of production continue to
+affect how we design buildings and what social, cultural, and aesthetic ideas we project out into the real world. In this studio,
+we will fully embrace them.
+Organization: Rules and Intuition
+During this semester we will adopt a step-by-step approach to generate cohesive, - although not deprived of surprises -
+organizations from assemblages of interrelated parts. We will work on locally-defined operations and globally-controlled
+organizations. Each part will exist within a network of relations that evolves together with the project. Each element will be
+linked to the others through a set of internal rules. These local rules will guide the evolution of the whole. The project will be
+in a constant state of flux as new issues find their way to the forefront: a change to either part or whole will have a ripple
+effect throughout the project. By building relationships from the bottom-up, students will develop an intimate
+understanding of the mechanics of their project, yet have the freedom to use their intuition and improvise within the bounds
+of a rule-based framework to maintain operative flexibility, and to develop their own personal sense of aesthetic. You will
+oscillate between bottom-up tactics and top-down strategies, balancing an intuitive approach with a rule-based
+methodology.
+Remember, multiple diagrams can organize one problem. It will be up to each of you to develop your own set of rules, your
+own generating system, your own organization. Act spontaneously and with rigor.
+                                                                                                                                   6
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Overview
+Studio Road Map
+Structure
+The semester will be divided into three interconnected parts / assignments:
+     •     Assignment 01: Operations (Learning from a Precedent)
+The first assignment will focus on the analysis of a built precedent. Students will learn how to analyze a formal system to
+extrapolate underlying rules and operational logics, diagram them using a consistent notation, and manipulate the rules to
+generate iterations of new organizations from them. This work will be developed in groups of two.
+     •     Assignment 02: Organizations (Making a Spatial Construct)
+The second part of the semester will be dedicated to the design and making of a three-dimensional physical construct.
+Students will deploy the previously developed rules and iterations in a 3D region. Here we will explore intuitive and rule-
+based design methods to develop flexible and more complex spatial diagrams. This work will be developed individually.
+     •     Assignment 03: Contingencies (Designing a Building)
+The rest of the semester will be dedicated to your final project, a building located in an urban context. Students will continue
+working with the operations and diagrams developed during the previous assignments, but this time they will be asked to
+respond to the requirements posed by the programmatic brief and urban context. In this phase, we will explore the flexibility
+of your systems and test their capacity to organize human activities. You will continue to work individually.
+While manual model-making and hand-drawn diagrams will continue to be an integral part of your design process, the
+studio will rely on digital technologies, design software packages and fabrication hardware, for the development and
+execution of projects. Students will be encouraged to use new tools for the design and fabrication of complex forms, but will
+be expected to consider the limitations imposed by materials and assembly methods, both when working on models and
+thinking about their final projects.
+Instruction will be given via desk-crits, group pin-ups, and reviews. We will also have group presentations and discussions
+focused on the key issue addressed during the semester.
+Assessment
+Students are expected to participate in all activities and comply with all the requirements for the length of the semester.
+There are four components to the grade:
+1. Assignment 01: Research & Analysis (in pairs)             15% of final grade
+2. Assignment 02: Embedded Construct (individual)            20% of final grade
+3. Assignment 03: Main Studio Project (individual)           60% of final grade
+4. Engagement                                                05% of final grade
+                                                                                                                                7
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Schedule
+01 | August 28                 Course Introduction
+                               Assignment 1 Introduction
+00 | September 02              Labor Day – No Class
+02 | September 04              Lecture & Discussion 01: “Operations and Patterns”
+03 | September 09              Working Session
+04 | September 11              Working Session
+05 | September 16              Review 01 (All Sections together) Assignment 1 Due
+                               Assignment 2 Introduction
+06 | September 18              Lecture & Discussion 02: “Diagrams and Contingencies”
+07 | September 23              Working Session
+08 | September 25              Working Session
+09 | September 30              Working Session
+10 | October 02                Working Session
+11 | October 07                Review 02 (Two Sections together 1/2) Assignment 2 Due
+12 | October 09                Review 02 (Two Sections together 2/2)
+                               Assignment 3 Introduction
+13 | October 14                Lecture & Discussion 03: “Program and Circulation”
+14 | October 16                Working Session
+15 | October 21                Working Session
+16 | October 23                Working Session
+00 | October 24                ACADIA Keynote Lecture: Thom Mayne. 6:15pm
+17 | October 28                Working Session
+18 | October 30                Review 03 (In Sections) Assignment 3 Progress Review
+19 | November 04               Lecture & Discussion 04: “Drawings and Models”
+20 | November 06               Working Session
+21 | November 11               Working Session
+22 | November 13               Working Session
+23 | November 18               Working Session
+24 | November 20               Review 04 (In Sections) Drawing and Model Revision
+25 | November 25               Final Drawing and Model Revision
+00 | November 27               Thanksgiving – No Class
+26 | December 02               Final Drawing and Model Revision
+27 | December 04               Final Review (In Sections) Date TBC All Work Due
+Please, note that the final reviews will take place on December 04, 05, 06. Your review may be scheduled for any of these days
+and you are expected to be on campus during this period.
+                                                                                                                             8
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Resources
+Essential Readings
+Christopher Alexander, “Systems Generating System,” Architectural Design (Wiley, December 1968) pp. 605-10.
+Ben van Berkel and Caroline Bos, “Diagrams,” in The Diagrams of Architecture, ed. by Mark Garcia (Wiley, 2010), reprinted form
+Move (UN Studio & Goose Press, 1999), pp. 222-27.
+Peter Cook, Drawing: The Motive Force of Architecture (John Wiley & Sons, 2008) pp. 195-202.
+Robin Evans, Translations from Drawing to Building and Other Essays (MIT Press, 1997) pp. 153-194.
+Foreign Office Architects, Phylogenesis, foa’s ark (Actar, 2003), pp.06-19, …
+Sanford Kwinter, “The Hammer and the Song,” in The Diagrams of Architecture, ed. by Mark Garcia (Wiley, 2010), excerpts from
+Diagram Works, ANY 23 (Anyone Corporation, 1998), pp. 122-127.
+Sanford Kwinter, “Who’s Afraid of Formalism?” in Phylogenesis, foa’s Ark (see above), pp. 96-99.
+Greg Lynn, Folds. Bodies & Blobs: Collected Essays (La Lettre volée, 1998), pp. 63-77, 223-232, …
+Greg Lynn, Animate Form (Princeton Architectural Press, 1999), pp.9-43
+Reiser + Umemoto, Atlas of Novel Tectonics (Princeton Architectural Press, 2006), pp. 12--69; …
+General References
+Rudolf Arnheim, The Dynamics of Architectural Form (University of California Press, 2009)
+Christopher Beorkrem, Material Strategies in Digital Fabrication (Routledge, 2017).
+Gail Borden, Process: Material and Representation in Architecture (Routledge Press, 2012).
+Jane Burry and Mark Burry, The New Mathematics of Architecture (Thames & Hudson, 2010).
+Nick Dunn, Digital Fabrication in Architecture (Laurence King Publishing, 2012).
+Neil Gershenfeld, FAB - The Coming Revolution on Your Desktop - From Personal Computers to Personal Fabrication (Basic Books,
+2005).
+Fabio Gramazio and Matthias Kohler, Digital Materiality in Architecture (Lars Müller Publishers, 2008).
+Lisa Iwamoto, Digital Fabrications: Architectural and Material Techniques (Princeton Architectural Press, 2009).
+Wassim Jabi, Parametric Design for Architecture (Laurence King Publishing, 2013).
+Branko Kolarevic, Architecture in the Digital Age: Design and Manufacturing (Routledge Publishers, 2003).
+Achim Menges, Sean Ahlquist, eds. Computational Design Thinking, AD Reader (Wiley, 2001).
+Helmut Pottmann, Andreas Asperl, Michael Hofer, Axel Kilian, Architectural Geometry (Bentley Institute, 2007).
+Marc Taylor. The Moment of Complexity: Emerging Network Culture (The University of Chicago Press, 2001).
+Online Tutorials
+www.cgarchitect.com (forum help for 3ds Max and rendering)
+www.scriptspot.com (free 3ds Max scripts)
+www.vray-materials.de (free VRay materials)
+www.shapeways.com (cheap 3d printing, expect one-month lead time)
+www.archive3d.net (free 3d models)
+www.grasshopper3d.com (great forum, GH plug-ins, tutorials)
+www.food4rhino.com (GH plug-ins)
+www.lynda.com (good tutorials, all programs, free with UT email address)
+                                                                                                                              9
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Procedures
+Evaluation & Policies
+Studio Culture
+The School of Architecture believes in the value of the design studio model. Studio learning encourages dialogue,
+collaboration, risk-taking, innovation, and learning-by-doing. The studio offers an environment where students can come
+together to ask questions and make proposals, which are developed and discussed among classmates, faculty, visiting
+professionals, and the public-at-large. Studio learning offers intensive one-on-one instruction from faculty members, and
+provides the opportunity for each student to develop his/her critical thinking skills and spatial and material sensibilities. The
+design studio offers a synthetic form of education, where project-based learning becomes the foundation for developing an
+understanding of and commitment to the school's core values — broadmindedness, interconnectivity, professionalism,
+exploration and activism — all in service of architecture's fundamental mission: to improve the quality of the built and
+natural environments.
+https://soa.utexas.edu/programs/architecture/architecture-studio-culture
+Security, Safety, and the Studio
+The studio is an exceptional learning environment. Since it is a place for all, it necessitates the careful attention to the needs
+of everyone. All spraying of fixative, spray paint, or any other substance should be done in the shop. Security is a necessary
+component for a studio that is accessible to you and your colleagues 24 hours a day, 7 days a week. Do not leave your studio
+without your studio key and do not leave your studio unlocked. Hold yourself and your studio mates accountable for the
+security of your shared space.
+General Culture
+Being on time is required. Participation is expected. Asking questions is highly encouraged. We want to have an open and
+engaging conversation and a productive time. Laptops can only be used for studio work. Texting and eating are distracting
+and disrespectful. Drinks are fine, stay hydrated! Please, step out if you have to make an emergency call.
+Communication & Submissions: Canvas & Emails
+Canvas will be used for communication of the logistics and content of the course, as well as for submission of assignments,
+feedback, grading, and attendance. Direct emails will be used for one-to-one communication.
+Please, set up your Canvas preferences to receive a notification as soon as a Canvas Announcement has been posted. Make
+sure that the email you provided on Canvas is active and that you regularly check your inbox.
+Course Requirements
+Students are required to have a laptop computer that is capable of running high-performance 2d and 3d software
+applications (Adobe Illustrator, Adobe Photoshop, Rhino, Grasshopper, and Autodesk 3ds Max, etc.). All programs should be
+                                                                                                                                 10
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+2018 versions of later. Note regarding Adobe software: When accessing Adobe software in SOA computer labs, you will be
+prompted to sign in with an Adobe ID. You are not required to purchase Creative Cloud services to sign in on our lab
+computers, but you are required to create a free Adobe ID. That can be done here: https://accounts.adobe.com/
+Weekly progress and participation in class pin-ups, desk crits, and reviews is required, including completion of assigned
+readings and participation in discussions. Students are expected to have new work printed (min. 8.5” x 11”) for each desk crit
+and plotted at the required scale for pin-ups and reviews.
+The submission of high-quality final renders (jpeg format), progress renders, 3d digital models, final boards, full
+documentation of project and design process and high-quality photographs of your models on a flash drive is mandatory.
+Failure to submit flash drive on the final day of class will result in a minimum full letter grade drop in your final grade for the
+course.
+Evaluation Criteria
+While each project contains certain quantifiable elements for evaluation, a significant portion of each grade is derived from
+broader and more subjective criteria. Student work will be evaluated according to its rigor and evolution over the semester.
+Grades are subject to deductions for late arrivals, absences, and late or incomplete work at the discretion of the instructor.
+Grading for an assignment is broken into four components, each of which is given roughly equal weight:
+     •    Pursuit: Consistent and rigorous development and testing of ideas:
+               o    The ability to formulate a query or thesis and pursue a self-determined concomitant method of inquiry;
+               o    The ability to identify and implement various processual mechanisms (software, sketch drawing and
+                    models, etc.) in the development of the design;
+               o    Initiative as demonstrated in work ethic: Does the student do what is asked; go beyond what is asked;
+                    direct their own efforts; show eagerness to produce the next iteration of the design?
+     •    Grasp: Understanding of the project and integration of knowledge introduced in companion courses:
+               o    A strong and clearly stated design objective;
+               o    Spatial acuity as demonstrated in plan – including reasonable disposition of programmatic elements –
+                    and sectional development;
+               o    Synthetic and critical thinking; the ability to holistically organize a project as demonstrated through
+                    creative engagement with issues of materiality, structures and construction, structural and environmental
+                    system integration, building materials and assembly, sustainable practices, etc. in support of the design
+                    objective;
+               o    Structural competence and material sensitivity as demonstrated in wall thickness, floor plates, and
+                    assembly.
+     •    Resolution: Demonstration of competence, completeness, and finesse in the final design presentation:
+               o    Quality of presentation; clarity of communication; appropriateness of media strategy and level of skill
+                    displayed through the work presented at all stages of the design process; technical documentation.
+     •    Engagement: Active participation in studio activities, group discussions and reviews, leadership, and
+          collaboration.
+                                                                                                                                   11
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+A student must earn a letter grade of C or better in order for the course to count towards a degree in the School of
+Architecture and to progress in to the next studio. A letter grade of C- will not satisfy degree requirements.
+Grade Description
+     •     A/A-                 Excellent
+           Project surpasses expectations in terms of inventiveness, appropriateness, visual language, conceptual rigor, craft,
+           and personal development. Student pursues concepts and techniques above and beyond what is discussed in
+           class. Project is complete on all levels.
+     •     B+/B/B-              Above Average
+           Project is thorough, well presented, diligently pursued, and successfully completed. Student pursues ideas and
+           suggestions presented in class and puts in effort to resolve required projects. Project is complete on all levels and
+           demonstrates potential for excellence.
+     •     C+/C                 Average
+           Project meets the minimum requirements. Suggestions made in class and not pursued with dedication and rigor.
+           Project is incomplete in one or more areas.
+     •     C-/D+/D/D- Poor
+           Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of presentation are not level-appropriate.
+           Student does not demonstrate the required competence and knowledge base.
+     •     F                    Fail
+           Project is unresolved. Minimum objectives are not met. Performance is not acceptable. Note that this grade will be
+           assigned when students have excessive unexcused absences.
+     •     X                    Excused Incomplete
+           Can be given only for legitimate reasons of illness or family emergency. Simply not completing work on time is not
+           an adequate cause for assigning this evaluation. It may only be used after consultation with the Associate Deans'
+           offices and with an agreement as to a new completion date. Work must be completed before the second week of
+           the next semester in which the student is enrolling, according to the School of Architecture policy.
+Attendance
+Attendance is mandatory. Participation is expected. With three (3) unexcused absences, the student’s final grade for the
+course will be lowered by a full letter grade. The final grade will be lowered by a full letter grade for each unexcused absence
+thereafter. Aside from religious observances, absences are only excused with written documentation of a medical issue or
+family emergency. The student is responsible for completing work missed due to excused absences and initiating
+communication with the instructor to determine due dates. If a student is late (10 minutes after the start of class) three (3)
+times, it will be counted as one (1) unexcused absence. Students should notify the instructor via email prior to class if lateness
+or absence is known in advance.
+                                                                                                                                      12
+
+
+ARC 320D | UTSOA Fall 2019 | Design III: Operational | Instructors: Bieg, Jaeschke, Patel, Sullivan
+Religious Observances
+A student shall be excused from attending classes of other required activities, including examinations, for the observance of
+a religious holy day, including travel for the purpose. A student whose absence is excused under this subsection may not be
+penalized for that absence and shall be allowed to take an examination or complete an assignment from which the student is
+excused within a reasonable time after the absence. University policy requires students to notify each of their instructors as
+far in advance of the absence as possible so that arrangements can be made.
+Academic Integrity
+Students who violate University policy on academic integrity are subject to disciplinary penalties, including the possibility of
+failure in the course and/or dismissal from the University. Since such dishonesty harms the individual, all students, and the
+integrity of the University, policies on academic integrity will be strictly enforced. Refer to the Student Conduct and
+Academic Integrity website for official University policies and procedures on academic integrity:
+http://deanofstudents.utexas.edu/conduct/academicintegrity.php. University Code of Conduct:
+http://catalog.utexas.edu/general-information/the-university/#universitycodeofconduct
+Care Program
+Counselors in Academic Residence (CARE) Program places licensed mental health professionals within the colleges or schools
+they serve in order to provide better access to mental health support for students who are struggling emotionally and/or
+academically. Abby Simpson is the CARE counselor for the School of Architecture. Faculty and staff may refer students to the
+CARE counselor or students may directly reach out to her.
+Abby Simpson | BTL 114B | (512) 471-3115
+https://cmhc.utexas.edu/CARE_simpson.html
+Students with Disabilities
+Students with disabilities who require special accommodations need to obtain a letter that documents the disability from the
+Services for Students with Disabilities area of the Office of the Dean of Students (471-6259 voice or 471-4641 TTY for users
+who are deaf or hard of hearing). This letter should be presented to the instructor in each course at the beginning of the
+semester and accommodations needed should be discussed at that time. http://diversity.utexas.edu/disability/
+                                                                                                                               13

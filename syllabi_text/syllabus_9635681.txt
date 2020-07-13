@@ -1,0 +1,141 @@
+           ACC 311: Fundamentals of Financial Accounting
+                                           Skylar DeTure
+                                            Summer 2019
+    E-mail: sdeture@utexas.edu                                         Web: www.sdeture.com
+    Office Hours: MTWTh 12 noon-1 pm                      Class Hours: MTWTh 10 am-12 noon
+    Office: CBA1.310A                                                   Class Room: CBA 4.332
+Course Description
+Life is full of situations where other people make decisions you care about without you watching.
+Maybe it is your mayor deciding whether to close or open new public schools in your neighbor-
+hood. Maybe it is your roommate deciding whether to leave a mess in your shared kitchen.
+Maybe it is the mechanic deciding whether your car “needs" a new eight hundred dollar gizmo
+for your AC to work properly. In all these situations, someone else is making a decision that affects
+you, and you, for some reason, expect them to make that decision with your preferences in mind.
+    How do you plan to make sure that all the “someone elses" of the world make their decisions
+with you in mind? How can you hold other people accountable for their decisions that affect
+you?
+    This is the question we will focus on this course. For low stakes decisions, like car repairs
+or keeping a tidy kitchen, holding others accountable may not be such a big deal. But as you
+progress further in life, the stakes will get higher and higher and involve more and more money.
+Eventually, you will have what I hear non-graduate students call “life savings." You will entrust
+this money to other people (maybe the fine people that run your local too-big-to-fail bank or
+Fortune 500 company) who will try to turn that money into more money, so you can live off of it
+during your golden years. You (or someone acting on your behalf) will need to hold these people
+accountable, or your golden years might not include very much gold. Financial accounting is
+a multi-billion dollar feat of social engineering designed to hold people accountable when they
+make high stakes business decisions. Welcome to fundamentals of financial accounting.
+ Prerequisite
+If you do not have twenty-four hours of prior college credit, the Dean will drop you from the
+course. No exceptions.
+                                                   1
+
+
+                                                     Fundamentals of Financial Accounting– Summer 2018
+Course Objectives
+   1. Learn how to participate in one particular tool used to hold decision makers accountable:
+      Financial Accounting. In particular:
+         • Learn how to account for the basic business transactions you are already familiar with,
+            like buying and selling goods or services with cash.
+         • Learn about more transactions (like taking out loans, issuing stock, and tracking in-
+            ventory) that are common in large businesses.
+         • Learn to account for said transactions using Generally Accepted Accounting Princi-
+            ples.
+         • Learn to prepare financial reports to communicate said accounting information about
+            said transactions.
+         • Learn to infer a company’s business transactions by using the accounting information
+            in their financial reports.
+   2. Discuss what “accountability" means in business settings and why it is important
+   3. Analyze the relationship between accountability, monitoring, and communication
+   4. Discuss the other tools society uses to hold decision makers accountable for their choices
+In Class Activities
+    • class begins with an individual exercise which will be on the board when you arrive
+    • after everyone has had a few minutes to work, we will review the exercise and move on to
+      a mixture of short lectures, guided problems, and group activities.
+    • class will end with a 10 minute quiz
+Readings and Homework
+I recommend doing the readings before class and the optional homework problems after class.
+Participation
+There is no attendance or participation score in the final grade.
+Required Items
+    • Required Text: The Accounting Game, by Mullis and Orloff, ISBN: 978-1-4022-1186-7. It’s
+      less than $20 dollars on amazon and you can get a full refund for two weeks, so there is no
+      reason not to buy it FOR THE FIRST MONDAY OF CLASS AT THE LATEST.
+                                                2/5
+
+
+                                                                 Fundamentals of Financial Accounting– Summer 2018
+      • Required Technology: either a smartphone, laptop computer, or an HP 10bII+ financial
+         calculator. 1 .
+      • Optional Reference Text: Financial Accounting, 8th Edition, by Libby, Libby, and Short,
+         ISBN: 9781259398698
+Grading Policy
+McCombs policy states that the average grade for this course should be between 3.0 and 3.2 (so
+about a B/B+ average). This implies that your grade will depend on how your performance
+compares to your peers. I will post a daily leader board showing the class’s running scores
+(anonymized, of course) on canvas so you can see where you stand. The maximum number of
+possible points over the entire semester is 270. If you earn less than 150, I will assign you an F in
+the class. If you earn at least 151 points, I will give you at least a C.
+Daily Quizzes
+We will have a short (10 minute) quiz at the end of every class. I will return the graded quizzes
+the next day. If you plan to be absent, you can take the quiz for full credit during office hours
+BEFORE I give it in class. You can also retake a quiz during office hours within 7 days to earn
+back half the missed points. You cannot take a missed quiz after I give it in class, no exceptions.
+2 . The quizzes are closed notes with no calculators (there won’t be any difficult calculations).
+Exams
+On Thursdays, we will end class with a 30 minute exam instead of a 10 minute quiz. Each exam
+counts three times as much as a quiz. Exams are open notes, open book, and open internet.
+Collaboration (e.g. talking, texting, or emailing) is prohibited. There won’t be an exam for the
+week of July 4th.
+Academic Dishonesty Policy
+If you cheat on a quiz or the final exam, I will give you a zero on the assignment and report you
+to the Dean.
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical
+information that you need to share with me, or if you need specific arrangements in case the
+building needs to be evacuated, please let me know. I am committed to creating an effective
+    1 Exams  are open-book/open-internet, so you can use your phone or computer. If you want to learn to use an
+old-fashioned financial calculator for future coursework, the department recommends the HP10bII+ and I can teach
+you how to use it.
+    2 If you miss a quiz due to an emergency, I will drop the quiz score contingent on appropriate documentation, e.g.
+a note/email with a corresponding phone number from a medical provider, law enforcement officer, veterinarian, etc.
+                                                          3/5
+
+
+                                                       Fundamentals of Financial Accounting– Summer 2018
+learning environment for all students, but I can only do so if you discuss your needs with me as
+early as possible. I promise to maintain the confidentiality of these discussions. If appropriate,
+also contact Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video
+phone). http://ddce.utexas.edu/disability/about/
+                                                4/5
+
+
+                                                   Fundamentals of Financial Accounting– Summer 2018
+Week 1, 06/03 - 06/07: Introduction
+  Thursday: First Day of Class; Accountability and Big Business Decisions
+Week 1, 06/10 - 06/14: Describing Business Activities
+  Monday: The Balance Sheet (Assets, Liabilities, and Equity)
+  Tuesday: Business Activities and Journal Entries
+  Wednesday: The Income Statement
+  Thursday: Adjusting Entries and Statement of Cash Flows
+Week 2, 06/17 - 06/21: Financing a Business
+  Monday: Issuing Debt
+  Tuesday: Accounting for Debt
+  Wednesday: Issuing Equity
+  Thursday: Accounting for Equity
+Week 3, 06/24 - 06/28: Some New Transactions
+  Monday: Inventory
+  Tuesday: Accounting for Inventory
+  Wednesday: Sales and Discounts
+  Thursday: Accounting for Sales and Discounts
+Week 4, 07/01 - 07/05: Even More Transactions
+  Monday: Property Plant and Equipment (PPE)
+  Tuesday: Accounting for PPE
+  Wednesday: Review
+  Thursday: July 4th Holiday
+Week 5, 07/08 - 07/12: Accountability Beyond Financial Accounting
+  Monday: Miscellaneous assets and how to account for them
+  Tuesday: Review + guided reading of form 10-K
+  Wednesday: Review + guided reading of form 10-K
+  Thursday: Final Exam (you can also take it during the official time set by the Registrar)
+                                             5/5

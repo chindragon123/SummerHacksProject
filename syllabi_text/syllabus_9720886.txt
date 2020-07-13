@@ -1,0 +1,421 @@
+Professor Zhao                                 ACC 380K.7 Fall 2019                             page 1
+                                    ACC 380K.7 – Fall 2019
+                                 Financial Statement Analysis
+Professor                            Wuyang Zhao
+E-Mail                               Wuyang.zhao@mccombs.utexas.edu
+Office                               CBA 4M.256 (mailbox in CBA4M.202)
+Office Hours                         Monday 9 – 11, or by appointment
+Office Phone                         (512) 471-2163
+Course Web Page                      via Canvas (http://canvas.utexas.edu/)
+Teaching Assistants                  Minjae Kim (minjae.kim@austin.utexas.edu)
+                                     Jun Zeng (zengjunjx@hotmail.com)
+Course Meeting Times and Location
+ Unique #                    Days                     Time                      Location
+ 02695                       Tue, Thu                 08:00 – 09:15             GSB 3.130
+Course Objectives
+     ▪    To get familiar with information contained in corporate filings, particularly 10-Ks
+     ▪    To understand the importance of incentives and disagreements in capital markets
+     ▪    To learn a framework for equity valuation using financial statement information
+     ▪    To practice communicating our decisions using written and oral communication skills
+     ▪    To evaluate and learn from professional analysts and short-sellers’ successes and failures
+     ▪    To learn how to analyze large-scale financial data and to identify irregularities
+A concrete objective of this course is that you should be able to analyze stocks and publish your
+analysis on semi-professional outlets such as SeekingAlpha (SA for short – I will refer to this
+website numerous times).
+Note the last objective: in Fall 2019, I am adding a data-analytics element to the course. Students
+are expected to learn how to use academic databases, particularly WRDS, to access and analyze
+large-scale financial datasets (username and password are available in class).
+Although we will review some accounting concepts, the primary objective of the course is NOT
+to improve your understanding of Generally Accepted Accounting Principles (GAAP). Instead the
+
+
+Professor Zhao                                    ACC 380K.7 Fall 2019                             page 2
+goal is to improve your ability to interpret and manipulate financial statements. Reading materials
+might also include cases and discussions on capital markets outside the U.S.
+Materials
+   Required text:
+     ▪    Course reader: supplemental reading packet available at McCombs Copy Service (Room
+          3.136)
+   Optional texts:
+     ▪    Financial Statement Analysis & Valuation 5e, by Easton, McAnally, Sommers and Zhang
+     ▪    Equity Valuation & Analysis 4e, by Lundholm and Sloan.
+     ▪    Financial Reporting, Financial Statement Analysis, and Valuation - A Strategic
+          Perspective 8/9e, by Wahlen, Baginski, and Bradshaw.
+     ▪    Business Analysis and Valuation: Using Financial Statements 5e, by Palepu and Healy.
+     ▪    Financial Statement Analysis and Security Valuation 5e, by Penman.
+     ▪    Regular readings of Barron’s, The Wall Street Journal, Business Week, Fortune,
+          SeekingAlpha, and various analyst reports and short-selling reports.
+Course Structure
+During the semester we will learn a framework (I call it “PH framework” as it is highlighted by
+Palepu and Healy in their famous textbook listed above) and a set of in-depth tools for financial
+statement analysis and valuation. The steps in the framework include: (1) business analysis, (2)
+accounting analysis, (3) financial analysis, and (4) prospective analysis (i.e., valuation).
+       1. Business (or Industry/Strategy) analysis (Session 4)
+          • The purpose of business analysis is to assess the profit and growth potential of the firm
+              at a qualitative level. This step involves industry and competitive strategy analysis.
+       2. Accounting analysis (Sessions 5-12)
+          • The purpose of accounting analysis is to develop an understanding of whether a firm’s
+              accounting captures its true underlying economic condition. This step involves
+              analyzing management incentives, identifying areas of accounting flexibility, and
+              evaluating the appropriateness of accounting policies and estimates.
+       3. Financial analysis (Sessions 14-16)
+          • The purpose of financial analysis is to assess the firm’s historical financial performance
+              in the context of its stated goals and strategy. Tools used for financial analysis include
+              ratio analysis, cash flow analysis, and common size financial statements.
+       4. Prospective analysis (Sessions 17-22)
+          • The purpose of prospective analysis is to forecast the firm’s future and estimate the
+              intrinsic equity value. Tools used for prospective analysis include forecasts of financial
+              statements and valuation models.
+
+
+Professor Zhao                                           ACC 380K.7 Fall 2019                                        page 3
+The course will be taught using a combination of brief lectures, case discussion, research and
+practitioner insights, and current-event analyses – there will also be a “real-time” aspect to the
+class. We will also learn from the experts, mostly financial analysts and short-sellers, by studying
+their successes and failures. In addition, I will introduce my own research occasionally when I see
+fit.
+Note we are very fortunate to be able to have a famous short-seller, Soren Aandahl, the founder of
+Glaucus and Blue Orca Capital, coming to give a guest lecture in November. It would be a great
+opportunity for us to learn how to identify corporate fraud from financial statements.1
+I will highlight two conceptual ideas and reiterate them multiple times throughout the semester.
+First, we need to keep reasonable/professional skepticism on views by all market participants,
+because they all have their unique incentives that might prevent them from acting in an objective
+way. Second, we need to appreciate disagreements in capital markets, because financial statement
+analysis and valuation is a subjective process – without disagreements we would not have capital
+markets. I find these two ideas particularly important for students who have too much deference
+to business elites but too little tolerance to debates, different perspectives, and the lack of
+correct/standard answers.
+I have attached a tentative schedule of class meetings (Appendix A) and the framework (Appendix
+B) to the end of this document. It is possible that we may have to periodically revise the schedule.
+Should significant revisions be required, I will post a revised schedule on Canvas.
+Course Requirements and Grading
+Your grade in the course will be determined as follows:
+           Components                            Weights                                      Notes
+           Homework Assignments                       20%               1 point per assignment
+           Group Project                              20%               15/5 points for final report/presentation
+           Midterm 1                                  25%               Covering business/accounting analysis
+           Midterm 2                                  25%               Covering financial/prospective analysis
+           Class Participation                        10%
+                                                    100%
+The historical distribution of grades is roughly as follows: 35%-45% A’s, 50%-60% B’s, 0-5%
+below B. Plus/Minus grading applies to this course.
+Description of Course Requirements
+Homework Assignments
+We have 20 assignments – the primary purpose is to require you to review the reading materials
+before attending class. For this purpose, each assignment should be submitted by 1 AM before the
+according session starts (see the class schedule in Appendix A). For example, you should submit
+1
+  Although Soren has already confirmed to come in November, there is a small chance that he cannot not make it given
+his tight schedule throughout the year. In that case, I will deliver a back-up lecture on research insights – how academic
+research tells us about the decision making of sophisticated players in capital markets.
+
+
+Professor Zhao                                 ACC 380K.7 Fall 2019                             page 4
+Assignment 1 (HW1 hereafter) by 1 AM on September 3, as we will discuss materials related to
+HW1 in class on that day.
+You will submit all assignments via the course Canvas site. I will define a few hours after the
+deadline but before the class starts as the “grace period” – Assignments will be labeled as
+“Late” if they are received during the “grace period.” Assignment will NOT be accepted
+after the class starts as it will lose its purpose. I recommend that you try to submit before the
+deadline – you will get my attention if you constantly submit assignments in the “grace period.”
+There are no exceptions to this policy, including sleeping late, computer problems, etc. I
+realize this is tough, but a deadline is a deadline. In fairness to the many students who submit
+their work on time, I will not grant extensions. In general, neither excused nor unexcused absences
+will change assignment deadlines.
+The assignments will be graded based on an effort basis. You will receive 0 if you did not hand in
+the assignment, 0.5 of the points if your effort appears to be unreasonably low and 1 point if you
+made a reasonable attempt to answer all of the questions.
+Unless explicitly discouraged, you can work in groups on all assignments, but each person should
+turn in his or her own solution. Failure to turn in your own work could result in a zero score
+for that assignment.
+Group Project
+In this course, as in life, working effectively in a team is important. This is reflected by the fact
+that a large portion (20%) of your final grade will be based on a semester-long group project, which
+includes a written report and a presentation. In the second week of class, you will self-select into
+groups (max 3 members/group for MPAs). As a group, you will choose one stock from a list
+of retail stocks with market cap smaller than 10 billion – I will provide this list. I pick those
+relatively small firms for two main reasons: (1) those firms are less scrutinized by the market –
+there is a better chance that you will find something abnormal (unjustified accounting policy, etc.);
+and (2) your work would be of higher value to capital markets – higher chance of getting it
+published on SeekingAlpha.
+As in PH framework, a complete firm analysis has four parts: (1) a business (or industry/strategy)
+analysis, which includes an analysis of the primary industry or industries in which the firm
+operates, and an analysis of the firm’s competitive and corporate strategies; (2) an accounting
+analysis, which includes an analysis of the firm’s accounting flexibilities, management incentives
+to potentially misreport, featured accounting practices, and procedures and any adjustments
+necessary to bring reported numbers closer to economic reality; (3) a financial analysis, which
+includes profitability and credit risk analyses; and (4) a prospective analysis, which includes
+forecasts of future performance and valuation. The final written report will cover all four parts,
+and will require you to make an investment recommendation (buy, hold, or sell/short) based
+on your analysis. You will also present your analyses in class toward the end of the semester.
+Due dates and times are listed on the course schedule. I will post detailed requirements for the final
+report to Canvas in late September.
+Grades for the final project and presentations will be numerical scores (with full marks of 15 and
+5 points, respectively). Each member of the group will receive the same score.
+
+
+Professor Zhao                                        ACC 380K.7 Fall 2019                                        page 5
+To make sure all group projects are on the right track, each group should have a brief group
+meeting with me before the first mid-term (see Appendix A). ALL group members are
+required to attend. We can have such meetings in the classroom (e.g., right before or after the
+lecture) or preferably in my office (e.g., during office hour or by appointment). I will ask questions
+to make sure that (1) all members are engaged in the group project, and (2) as a team you have
+seriously started working on the group project. The meeting would also provide a good opportunity
+for us to discuss any difficulties you have in working on the project.
+I strongly encourage all groups to submit their reports to SeekingAlpha. This is very beneficial for
+several reasons. First, you will find that the investing community cares about your work – people
+read your report and provide comments. Second, you can improve your analysis and/or your
+delivery by addressing other people’s comments. To provide some additional incentives, I will
+give three bonus points to every member of group projects that are published on SeekingAlpha by
+the second-to-last class (December 5, 2019).
+Mid-terms
+There will be two computer-based midterms scheduled on October 10, 2019 and November 21,
+2019 from 6:30-9:30 pm. MPAs will be in GSB 3.130.2 Midterm I covers business analysis and
+accounting analysis, while Midterm II covers financial analysis and prospective analysis. You will
+find out that the best way to prepare for the exams is to put your effort into assignments, lectures,
+and group projects. I will post sample exams two weeks before each midterm.
+MPAs will be using your own laptop in GSB 3.130. The use of internet is strictly forbidden except
+(1) in the first five minutes when you download the exam from Canvas and (2) in the last five
+minutes when you upload your report to Canvas.
+Grading Disputes
+My TAs and I will do our best to grade your work fairly, but grading errors can occur. If you
+believe we have made an error, you may request a re-grading of the assignment, project, or
+midterm. Be aware, however, that grading errors can occur in both directions—errors can make
+grades too high as well as too low. Therefore, if you request a re-grading, your entire work (either
+an assignment or group project or mid-term) will be re-graded, and all grading errors will be
+corrected. By requesting a re-grade, you accept the possibility that your grade may go either up or
+down.
+To request a re-grade, you must submit a written request to me within 48 hours from the time
+when the assignment, project, or midterm was first returned. The request must state (1) the
+specific area of dispute, (2) your recommendation for change in grade, and (3) an explanation or
+justification for your recommendation.
+Class Contribution
+2
+  The time and location of the midterms are still subject to change. I will let you know as soon as there is any update.
+
+
+Professor Zhao                                  ACC 380K.7 Fall 2019                              page 6
+To help me more effectively evaluate your participation, I’ll make a tremendous effort to learn
+everyone’s name so that I can easily identify contributions. You should also display your name
+cards in class.
+I will ask for self-reporting of class contribution toward the end of the semester. So for your own
+record, please also keep a brief note of every important contribution you make in this class.
+Class contribution is evaluated based on five categories: A (Outstanding Contributor: 9-10 points),
+B (Good Contributor: 7-8 points), C (Marginal Contributor: 5-6 points), D (Non-participant: 3-4
+points), and F (Disruptive Contributor: 0-2 points). The details of the policy can be found in
+Appendix C (Class Contribution Assessment). Note one necessary but insufficient condition of
+being Outstanding or Good contributor is that you attend the group meetings with me discussing
+the group project prior to the first midterm.
+I view class participation as both an opportunity and a responsibility. Class participation provides
+an opportunity for students to practice important career skills in a low cost environment. Among
+other skills, these include the ability to express and defend one’s ideas. (Remember, we may
+challenge ideas, but we will not challenge people. Rude classroom behavior will result in a
+reduction in class participation points.) The cost of not developing these skills will increase as your
+career progresses (e.g., lost promotions). Class participation is also a responsibility because
+students who attend a top business school expect to learn from the viewpoints of their classmates.
+Non-participating students do not provide their classmates with this important benefit. I therefore
+reserve the right to “cold call” students who are not participating in class discussions. My intent is
+not to embarrass you; rather it is to help you get involved in the discussion where your classmates
+can benefit from your ideas.
+McCombs Classroom Professionalism Policy
+The highest professional standards are expected of all members of the McCombs community. The
+collective class reputation and the value of the McCombs experience hinges on the execution of
+this policy. Faculty are expected to be professional and prepared to deliver value for each and
+every class session. Students are expected to be professional in all respects. The McCombs
+classroom experience is enhanced when:
+•    Students arrive on time. On time arrival ensures that classes are able to start and finish at the
+     scheduled time. On time arrival shows respect for both fellow students and faculty and it
+     enhances learning by reducing avoidable distractions.
+•    Students display their name cards. This permits fellow students and faculty to learn names,
+     enhancing opportunities for community building and evaluation of in-class contributions.
+•    Students minimize unscheduled personal breaks. The learning environment improves when
+     disruptions are limited.
+•    Students are fully prepared for each class. Much of the learning at McCombs takes place
+     during classroom discussions. When students are not prepared they cannot contribute to the
+     overall learning process. This affects not only the individual, but their peers who count on
+     them, as well.
+•    Students attend the class section to which they are registered. Learning is enhanced when
+     class sizes are optimized. Limits are set to ensure a quality experience. When section hopping
+
+
+Professor Zhao                                 ACC 380K.7 Fall 2019                              page 7
+     takes place some classes become too large and it becomes difficult to contribute. When they
+     are too small, the breadth of experience and opinion suffers.
+•    Students respect the views and opinions of their colleagues. Disagreement and debate are
+     encouraged. Intolerance for the views of others is unacceptable.
+•    Laptops are closed and put away. When students are surfing the web, responding to e-mail,
+     instant messaging each other, and otherwise not devoting their full attention to the topic at
+     hand they are doing themselves and their peers a disservice. Those students around the
+     offending students face additional distraction because fellow students cannot benefit from the
+     insights of the students who are not engaged. In addition, faculty office hours are spent going
+     over class material with students who chose not to pay attention, rather than adding value by
+     helping students who want a better understanding of the material or want to explore the issues
+     in more depth. There are often cases where learning is enhanced by the use of laptops in class.
+     Faculty will let you know when it is appropriate to use them. In such cases, professional
+     behavior is exhibited when misuse does not take place.
+•    Phones and wireless devices are turned off. We’ve all heard the annoying ringing of a phone
+     in the middle of a meeting. Not only is it not professional, it cuts off the flow of discussion
+     when the search for the offender begins. When a true need to communicate with someone
+     outside of class exists (e.g., for some medical need) please inform the professor prior to class.
+Academic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. Students who
+violate University rules on scholastic dishonesty are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Because dishonesty harms
+the individual, all students, and the integrity of the University, policies on scholastic dishonesty
+will be strictly enforced. You should refer to the Student Judicial Services website
+(http://deanofstudents.utexas.edu/sjs/) or the General Information Catalog Sec. 11-402
+(http://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline-and-
+conduct/) to access the official University policies and procedures on scholastic dishonesty. If the
+application of that Policy Statement to this class and its assignments is unclear in any way, it is
+your responsibility to ask me for clarification.
+Students with Disabilities
+Upon request, the University of Texas at Austin provides appropriate academic accommodations
+for qualified students with disabilities. Services for Students with Disabilities (SSD) is housed in
+the Office of the Dean of Students, located on the fourth floor of the Student Services Building.
+Information on how to register and registration documentation (e.g., downloadable forms,
+including guidelines for documentation, accommodation request letters, and releases of
+information are available online at http://ddce.utexas.edu/disability/). Please do not hesitate to
+contact SSD via phone (512) 471-6259, videophone (512) 410-6644, or e-mail
+ssd@austin.utexas.edu, if you have any questions.
+
+
+Professor Zhao                                 ACC 380K.7 Fall 2019                            page 8
+Class Web Sites and Student Privacy
+Password-protected class sites will be available for all accredited courses taught at The University.
+Syllabi, handouts, assignments and other resources are types of information that may be available
+within these sites. Site activities could include exchanging e-mail, engaging in class discussions
+and chats, and exchanging files. In addition, class e-mail rosters will be a component of the sites.
+Students who do not want their names included in these electronic class rosters must restrict their
+directory information by notifying the Office of the Registrar in the Main Building, Room 1. For
+information on restricting directory information see: https://registrar.utexas.edu/students/
+records/restrictmyinfo/rmifaqs
+Accommodations for Religious Holidays
+A student who misses classes or other required activities, including examinations, for the
+observance of a religious holy day should inform the instructor as far in advance of the absence as
+possible, so that arrangements can be made to complete an assignment within a reasonable time
+after the absence.
+Diversity and Inclusion
+It is my intent that students from all diverse backgrounds and perspectives be well served by this
+course, that students’ learning needs be addressed and that the diversity that students bring to this
+class can be comfortably expressed and be viewed as a resource, strength and benefit to all
+students. Please come to me at any time with any concerns.
+Quantitative Reasoning Flag
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are designed
+to equip you with skills that are necessary for understanding the types of quantitative arguments
+you will regularly encounter in your adult and professional life. You should therefore expect a
+substantial portion of your grade to come from your use of quantitative skills to analyze real-world
+problems.
+
+
+                     Professor Zhao                                ACC 380K.7 Fall 2019                     page 9
+                                                 Appendix A: Tentative Schedule of Classes
+Session Date   Day 2019 Topics                            Readings in course pack (CP):         Assignments      Group Project
+1       29-Aug Thu Introduction
+2       3-Sep  Tue Accounting and valuation basic         Amazon analyst report                 HW1
+3       5-Sep  Thu Information source and data analytics  WRDS manuals (not in CP)              HW2              Member list & stock due
+4       10-Sep Tue Business analysis                      Amazon MD&A; China Lumena report      HW3
+5       12-Sep Thu Bias and flexibility in Accounting     Conceptual framework (not in CP)      HW4
+6       17-Sep Tue Incentives in capital markets          Earnings quality & Gatekeepers paper  HW5
+7       19-Sep Thu Conservative bias in GAAP              Amazon R&D                            HW6
+8       24-Sep Tue Aggressive bias in GAAP                Goodwill paper                        HW7
+9       26-Sep Thu Management discretion_ I/S items       Amazon I/S; PDD report (not in CP)    HW8
+10      1-Oct  Tue Management discretion_ B/S items       Amazon B/S; Quintis report            HW9
+11      3-Oct  Thu Management discretion_ off B/S items   Amazon leases                         HW10
+12      8-Oct  Tue The role of non-GAAP                   Amazon MD&A                           HW11
+13      10-Oct Thu Mid-Term I                                                                                    Group meeting deadline
+14      15-Oct Tue Profitability and turnover             Amazon analyst report                 HW12
+15      17-Oct Thu Credit analysis                        Amazon credit analysis                HW13
+16      22-Oct Tue Cash flow analysis                     Amazon cash flow                      HW14
+17      24-Oct Thu Forecasting I                          Amazon analyst report                 HW15
+18      29-Oct Tue Forecasting II                         Amazon Q3’19 earnings (not in CP)     HW16
+19      31-Oct Thu Cost of Capital                        Equity risk premium paper (not in CP) HW17
+20      5-Nov  Tue Cash Flow Based Valuation              Four reports on Cisco                 HW18
+21      7-Nov  Thu Income Based Valuation                 DCF vs. AEM debate paper (not in CP)  HW19
+22      12-Nov Tue Multiples and complications            FCF in DCF paper (not in CP)          HW20
+23      14-Nov Thu Guest speaker (renowned short-seller)  Guest speaker materials
+24      19-Nov Tue Course Review & Wrap-up
+25      21-Nov Thu Mid-term II
+26      26-Nov Tue Group presentation                                                                            Final report due
+        28-Nov Thu Thanksgiving
+27      3-Dec  Tue Group presentation
+28      5-Dec  Thu Group presentation
+29      10-Dec Tue Group presentation                                                                            SeekingAlpha notice due
+
+
+Professor Zhao                   ACC 380K.7 Fall 2019    page 10
+Appendix B: Financial Statement Analysis Course Overview
+The PH Framework
+
+
+Professor Zhao                                  ACC 380K.7 Fall 2019                             page 11
+             Appendix C: Midterm/Final Participation & Professionalism Evaluation
+In recognition of the high value I place on professionalism, my assessment of your participation
+and professionalism will make up approximately 10% of your course grade.
+Here’s how I plan to grade your class participation over the course of the semester:
+•     Outstanding Contributor (A±: 9-10 points): Contributions to large-group discussions reflect
+      thorough preparation. Ideas offered are usually substantive, provide good insights and
+      sometimes change the direction of the class for the better. Arguments, when presented, are
+      generally well substantiated and often persuasive. If this person were not a member of the
+      class, the quality of the large-group discussions would be diminished significantly. In addition
+      to exceptional large-group discussion contributions, also actively participates in small-group
+      discussions.
+•     Good Contributor (B±: 7-8 points): Contributions to large-group discussions reflect
+      satisfactory preparation. Ideas offered are usually substantive, generally provide useful
+      insights, and occasionally offer a new direction for the discussion. Arguments, if presented,
+      are reasonably well substantiated. If this person were not a member of the class, the quality of
+      the large-group discussions would be diminished. In addition, also offers comments in small-
+      group discussions.
+•     Marginal Contributor (C±: 5-6 points): Contributions to large-group discussions reflect some
+      minimal preparation. Ideas offered are occasionally substantive but seldom provide clear
+      insights or new directions for the discussion. Arguments may be occasionally presented but
+      are generally not well substantiated. If this person were not a member of the class, the quality
+      of the large-group discussions would be diminished only slightly. This grade is warranted for
+      those who participate only in small-group activities with no large-group contributions.
+•     Non-participant (D: 3-4 points): This person has maintained attendance to some extent but has
+      said little or nothing in class; hence there is no adequate basis for evaluation. If this person
+      were not a member of the class, the quality of the discussions would be unchanged.
+•     Disruptive Contributor (F: 0-2 points): If present in class at all, contributions to discussions
+      reflect inadequate preparation. Ideas offered are rarely substantive, provide few, if any,
+      insights and never offer a constructive direction. At best, contributions are obscure, confused,
+      and indicate a lack of familiarity with the fact of the issues under discussion. At worst,
+      comments demonstrate disrespect for others. If this person were not a member of class,
+      valuable airtime would be saved.
+
+
+Professor Zhao                                ACC 380K.7 Fall 2019                           page 12
+Name _________________________________
+YOUR assessment of your participation and professionalism in class since mid-term.
+[Please circle one of the letter grades below. If you believe you deserve a “+” or a “–“ please add
+it to the corresponding letter grade]
+A                B              C              D                 F
+Please provide evidence to support your above assessment.
+  Session          Attend(Y/N) Contribution
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  10
+  11
+  12
+  13(Midterm I)
+  14
+  15
+  16
+  17
+  18
+  19
+  20
+  21
+  22
+  23(Guest talk)
+  24
+  25(Midterm II)
+  26(presentation)
+  27(presentation)
+  28(presentation)
+  29(presentation)

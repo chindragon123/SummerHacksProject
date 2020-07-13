@@ -1,0 +1,382 @@
+                          SOC F317L: Introduction to Social Statistics
+                                           Summer I, 2020
+unique #: 82355
+class meets: TTh 10:00am – 11:30am; Zoom
+lab meets: W 2:30 – 3:45; Zoom
+Instructor: Christina Nefeli Caramanis
+Instructor office hours: Tuesday 9-10am or by appointment
+Lab instructor:
+Lab instructor office hours: Friday 10–11am or by appointment
+Course Description
+This course presents a general overview of the statistical methods used in the social sciences.
+The course is designed to give you a conceptual and rational understanding of today’s most
+commonly used (and useful) statistical methods.
+The news is full of statistical claims: In October of 2016, I read in various news sources that
+Hillary Clinton had an 89% chance of winning the November 2016 election. In the month of
+March 2020, I read that the mortality rate for Covid-19 is anywhere from .01% to 10%.
+Where do the numbers come from? Are they right? What can they tell us about the world?
+These are the sorts of questions we will ask in Introduction to Social Statistics. Answering them
+is going to involve doing some math. And while understanding the math behind the statistical
+concepts we will study is very important, it is even more important that you leave the course
+with a conceptual understanding of the most commonly used statistical methods.
+Why is important to learn statistics? Here are a few reasons:
+        • The increasing availability of all kinds of data gives us an unprecedented ability to
+             understand how humans behave. Using numbers to describe the world can help us
+             figure out what is true and important.
+        • Statistics are often used to make false or misleading claims: it is important to be able
+             to identify these and explain what the numbers can tell us, and what they cannot.
+        • Statistical and analytic skills are marketable: in the government, non-profit, and
+             private sectors, a solid foundation of quantitative and computing skills are often
+             important assets.
+
+
+Quantitative Reasoning Flag
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are
+designed to equip you with skills that are necessary for understanding the types of quantitative
+arguments you will regularly encounter in your adult and professional life. You should therefore
+expect a substantial portion of your grade to come from your use of quantitative skills to
+analyze real-world problems.
+Course requirements & classroom policies
+Required texts
+    1. Moore & McCabe. Introduction to the Practice of Statistics, 5th Edition (buy it used –
+        you don’t need a CD with it). This is the main textbook; we will cover (approximately)
+        Chapters 1, 2, 3, 4, 5, 6, 7, 8. Unless otherwise noted, references to a book in the course
+        grid refer to Moore & McCabe.
+    2. Leon-Guerrero & Frankfort-Nachmias. Essentials of Social Statistics for a Diverse Society,
+        1st edition (2011). This is supplementary textbook. Most readings and problems from
+        this text will be optional. However, if a reading or problem does not say “optional” on
+        the course grid then it is required. The chapters that are most relevant to our course
+        material are 2, 3, 4, 5, 6, 7, and 9. In the course grid, I refer to this book as “LF.”
+    3. Students will use Microsoft Excel to prepare projects and assignments. See the “Guide
+        to videos on Excel” under the “Pages” tab of Canvas for instructions to access videos
+        that will help you learn Excel.
+    4. I will use Canvas to post data and additional readings.
+Course Outline
+A day-by-day course plan grid is posted on Canvas. You should study the grid carefully, as it
+contains a lesson outline for each class and lab, and mentions when assignments are due. It is,
+of course, subject to small changes of schedule. The following concepts will be covered in the
+course:
+    thinking about data, univariate statistics (chpt 1 in McCabe & Moore)
+    bivariate statistics (chpt 2 McCabe & Moore)
+    introducing probability theory (chpt 4 in McCabe & Moore)
+    statistical inference (parts of chpts 3, 5, 6, 7 in McCabe & Moore)
+                                                        2
+
+
+Online Lectures, Required Class Meetings, and Lab
+Online Lectures: You will be required to watch 3 asynchronous class lectures per week. These
+will typically be around 1.5 hours each. The course grid will indicate the day on which the
+lecture should be watched in order to keep up with the class. Lectures that appear in brackets on
+the grid indicate that they are based on material that will not be covered in the next synchronous
+meeting, however I recommend you still watch them on the assigned day so you don’t become
+overwhelmed by lectures you need to catch up on.
+Required Class Meetings: We will meet for eleven 1.5-hour synchronous sessions on Tuesdays
+and Thursdays to do hands-on exercises, review the homework and tests, and discuss the material
+presented in the online lectures.
+Lab Meetings: Lab meetings will be held on Wednesdays for 75 minutes. This will be a chance
+for you to review materials and assignments with the lab instructor, with occasional in-class
+exercises to help solidify certain concepts.
+Prerequisites
+There are no formal prerequisites for this course. However, if you are not proficient in algebra
+you will struggle in this course. If the math reviewed on the first day of class is unfamiliar, I
+suggest that you wait to take this course until after you have taken algebra or an equivalent
+college level math class. I would be happy to put you in touch with an advisor who can help
+find the right preparatory course for you.
+Attendance
+You are expected to attend every synchronous class and lab section and to arrive on time.
+Attendance at each instance of class (11 in total) will count as 2 points. Lab will not count
+towards your grade, however attendance will be taken, and if you attend ALL lab sessions, we
+will add 2 points to your grade at the end of the semester. In addition, there are 2 extra points
+built into the course total, so it is possible to miss a class session without an impact on your
+grade. Each synchronous class and lab is important, so I would not recommend missing any if
+you can avoid it! Class attendance therefore counts for 22 points, with 2 Extra Credit points
+added to your grade for full Lab attendance. Students who come late (after attendance is
+taken) will not receive credit for attending.
+The Lab Instructor will take attendance after the first 10 minutes of class.
+To make things as fair as possible, absences will only be excused due to documented medical or
+bereavement issues, or, in accordance with UT policy, due to religious holy days for which you
+let me and/or the lab instructor know at least 7 days in advance of the absence (see below). In
+any case of an excused absence, you are expected to turn in any work due on the missed day(s)
+within a reasonable period of time agreed upon in advance with the lab instructor.
+                                                    3
+
+
+Reading review questions
+Doing the assigned reading from your textbook carefully before class will help you understand
+the lecture better. In order to help you review each assigned reading before the lecture, I have
+posted questions on Canvas for you to answer. Each set of 17 sets of reading review questions
+is worth ½ point, for 8.5 points total. If you do not fill out the questions by 11:59pm on the
+day they are due, you will get no credit for that reading review. In order to get credit for a given
+set of reading review questions, you must attempt to answer every question. Here is a list of
+the reading review questions in the order that they are due and how many points they are. Due
+dates are also in the grid and on Canvas.
+Reading Review questions on Canvas: Chapt 1 Intro & 1.1 (6/5); 1.2 (6/8); 1.3 (6/8); 2.1 & 2.2
+(6/10); 2.3 (6/11); 2.4 & 2.5 (6/11); 4.1 & 4.2 (6/12); 4.3 & 4.4 (6/13); 3.1 & 3.3 (6/18); 3.4
+(6/19); Chapt 5 Intro & 5.1 (6/24); 5.2 (6/25); 6.1 (6/26); 6.2 (6/29); 6.3 & 7.1 (7/1); 7.2 (7/1);
+8.1 & 8.2 (7/3)
+Assignments
+There are 9 assignments for this course. Eight of the assignments will be sets of problems from
+the Moore & McCabe and Leon-Geurrero & Frankfort-Nachmias books. The other final
+assignment will help you practice what we have learned and practice writing about statistics.
+Pay special attention to this Memo on Hypothesis Testing assignment as it builds skills that will
+likely be useful in the workplace after you finish college. Assignments will count for 37 points
+in total.
+All assignments and their due dates are listed in the course grid. Assignments that are not sets
+of book problems are posted under the “assignments” tab on Canvas. Assignments will mostly
+be done outside of class, though we will sometimes begin an assignment in class or lab.
+On the day an assignment is due, we will review it either in class or in lab. On the day an
+assignment is due, you should upload scanned copies or pictures of your work to Canvas
+BEFORE class, and keep your handwritten copy of the assignment to make corrections in
+class/lab. Assignments done in Excel should contain computer print-outs of the relevant tables
+or graphs. Please format them so they are legible. Writing for the Memo assignment should be
+prepared using a computer. Although you are encouraged to work in groups, each student is
+expected to turn in his/her own original work, written in her/his own hand, or computed on
+her/his own computer.
+We will review the answers to each assignment in class, often as “learning by teaching.” During
+the review, I expect you to study your answers, and correct your own initially incorrect answers
+using a different color pen. Again, you must turn in your assignments for grading before class
+on the assigned day. Because we will be going over answers in class, assignments will not be
+counted if turned in after the due date and time. Each problem set from the texts will be
+worth 4 points each, and will be judged by the following metric:
+                                                  4
+
+
+     0 points – did not turn in the assignment on time; assignment is less than 1/4 complete
+     1 point – at least 1/4 of problems attempted
+     2 points – at least 1/2 of problems attempted
+     3 points – at least 3/4 of problems attempted
+     4 points – all problems attempted
+You should keep all of your corrected assignments in a folder so that you may study from them.
+Here is a list of the assignments in the order that they are due and how many points they are.
+Some of the chapter assignments will be due and graded on different days, so please find the
+due dates on the course grid and on Canvas.
+     1.  Problems from chapter 1 (4pts)
+     2.  Problems from chapter 2 (4pts)
+     3.  Problems from chapter 4 (4pts)
+     4.  Problems from chapter 3 (4pts)
+     5.  Problems from chapter 5 (4pts)
+     6.  Problems from chapter 6 (4pts)
+     7.  Problems from chapter 7 (4pts)
+     8.  Problems from chapter 8 (4pts)
+     9.  Memo on hypothesis testing applied to an experiment in Kenya (5pts)
+Except in cases where a student has an excused absence for the class period in which an assignment is
+due, we will not accept any late assignments. If you have an excused absence, you and the lab
+instructor should work together to identify a new due date for the assignment. You should turn
+in a scanned copy of your assignment to the lab instructor.
+Tests
+There will be three tests in this course, each worth a different fraction of your final grade. The
+tests are described below:
+     1. Test 1: This test will cover concepts related to univariate and bivariate statistics. It will be given
+         in-class (90 mins) on June 16th, and worth 13 points.
+     2. Test 2: This test will cover probability theory and probability rules. It will be given for half of a
+         class (45 mins) on June 23rd. It will be worth 5 points.
+     3. Test 3: This test will cover the entire course and will be given during the summer I exam period.
+         It will be worth 17 points.
+My policy for excusing absences for tests is the same as for excusing absences for class. Please
+let the lab instructor know as soon as possible if you believe you qualify for an excused absence
+for a test so that we can schedule a make-up test for a date close to the test date.
+                                                      5
+
+
+Learning by teaching
+Several times during the semester, each student will be expected to present solutions to
+assignments and in-class exercises in front of the group. When it is your turn, you will share
+your screen on Zoom, and take the class through the steps to solving your problem that you
+previously uploaded to Zoom, and then talk through how you arrived at the answer. I
+understand that this may be uncomfortable for some students, but I nevertheless would like
+each person to take his or her turn. The lab instructor and I will do our best to make the
+classroom a supportive and encouraging learning environment, especially on days when we do
+learning by teaching, and we ask you to do the same. If there is a reason why it will be very
+difficult for you to complete this requirement of the course, please speak with me as soon as
+possible.
+There are a few reasons why I make “learning by teaching” part of this course. First, in my
+experience, there is no better way to master a concept than to teach it to another person.
+Second, knowing that you may need to present solutions to others is often a strong incentive to
+complete the assignment carefully. Third, there are often many correct ways to think about a
+problem. It is often useful to learn about a strategy for solving a problem from someone other
+than me. Finally, public speaking is an important skill in many jobs, and there are relatively few
+opportunities to practice it.
+Students will be expected to volunteer to solve problems during class. If you volunteer early,
+you are more likely to get a question you know how to solve. If you volunteer later, you will
+have more experience with what learning by teaching looks like. I will keep a list of who has
+presented a problem. Students can volunteer to present again once every student has
+presented the solution to a problem.
+Learning by teaching will not be graded, but if you do not take your turn on a given pass
+through the roster (either because you were absent or did not do the assignment) you will
+forfeit ½ of your attendance points for that class period. You do not need to know how to solve
+the whole problem in order to volunteer – you have the option of showing us how far you got
+and then asking for your classmates’ and my support to finish the problem.
+Total Course Points
+The total number of points for the class is 102 points, but I will use 100 as the denominator.
+There are no official number of classes you are allowed to miss (and I very much encourage you
+to attend each and every class lab and session!) or homework grades you can drop, but you can
+use the two extra points built into your grade towards extra credit, unexcused absences, or to
+supplement low assignment scores.
+                                                 6
+
+
+Expectations
+In the Class & Lab Sessions. You will be required to keep your camera on during all class and lab
+sessions on Zoom. Please do not use your phones (to talk on or to read) or surf the web, check
+your email, etc. on your computer during class. It is distracting for you, me, and potentially for
+your fellow classmates. If the lab instructor or I see you using a phone or surfing the web, we
+will remind you of this policy. If you absolutely need to look at your phone or email due to a
+rare emergency, please let me and the lab instructor know in advance.
+You should have the following items with you for each class or lab session:
+    1.  A notebook or notebook paper and folder.
+    2.  A pencil or pen for taking notes.
+    3.  A blue (or different color) pen for correcting assignments.
+    4.  A hand-held calculator that can add, subtract, multiply, divide, and do exponents. You can
+        purchase an acceptable calculator for $10 or less nearly anywhere school supplies are sold. You
+        may not use your phone as your calculator.
+    5. Your textbook. You must have your textbook in order to follow along with examples in lecture
+        and in order to participate in “learning by teaching.”
+    6. Any assignment due that day.
+Please ask questions by either unmuting yourself and asking a question, or using the raise your
+hand option in Zoom and waiting to be called on if there is something that you do not
+understand. Please be kind and respectful to your classmates and teachers at all times.
+In the lab sessions. As in class, phones and laptops are not permitted in lab sessions. You
+should use the computers in the lab to do in class work. You should bring everything you bring
+to class to lab sessions as well.
+Outside the classroom. I expect you to come to class prepared for the day’s activities. This
+means you will have to read the course plan grid in advance and do the assigned reading or
+homework. Reading ahead of each lecture will help you get the most out of each lecture.
+Although it is not written in the course plan grid, I suggest that anyone who is struggling with
+the material re-read the assigned textbook section after each lecture as well. You should spend
+about 12-15 hours working on statistics every week outside of class, in addition to watching
+the three lectures that will be available as indicated on the grid.
+Communication with instructor. I strongly prefer that you visit my office hours (on Zoom) to
+talk with me or ask questions rather than sending me an email. If you are not available to meet
+on Tuesdays from 10-11am, please email me for another meeting time, and I will be happy to
+arrange one. I will not respond to questions about a test after 5pm the night before the test.
+Communication with lab instructor. You may email me at any time. However, I can only
+promise that I will respond to emails Monday through Friday from 9 am until 6 pm. I will likely
+                                                      7
+
+
+be able to get back to you on weekends and evenings when I'm working, but if you need an
+immediate response from me, the best bet is to catch me while I'm at work.
+ Lab instructor’s office hours. I will hold office hours via Zoom. Please shoot me a quick email in
+advance to let me know when you will be coming so I can plan accordingly. If you have an idea
+of what you would like to go over, include that in the email so that I have a clearer idea of what
+materials, if any, I can prepare to be of most help.
+Grading philosophy & policy
+Statistics is hard! Many people (myself included) need to take statistics several times before
+they really understand the concepts in this course. Yet, the lessons of this course are very
+important, both for people who want to be informed citizens and for those who additionally
+want to go on to further study in the social sciences. So it is important to make a strong effort!
+I will not curve the attendance, assignment, and in-class exercise grades. In the unlikely event
+where test grades are very low among essentially all students, I will curve the portion of the
+grade that comes from tests.
+Without denying the potential negative consequences of a poor grade, I would ask that try not
+to worry too much about your grade. See this class an opportunity to learn some very useful
+material that you may not have the opportunity to learn again. I think it is one of the most
+practical courses you will take in college.
+There are 102 points in the class, but I will grade out of 100. I will use +/- grading and the
+following grading scale:
+100- 94: A                             83-80: B-                              69-67: D+
+93-90: A-                              79-77: C+                              66-64: D
+89-87: B+                              76-74: C                               63-60: D-
+86-84: B                               73-70: C-                              59 and below: F
+The lab instructor will post students’ cumulative points-to-date on Canvas after test #2 and
+after the final exam. If you would like to know your points throughout the semester, we would
+encourage you to keep track of how many points you have accumulated through attendance,
+assignments, reading reviews, test scores, etc.
+University policies
+Q Drop Policy. If you want to drop a class after the 12th class day, you’ll need to execute a Q drop
+before the Q-drop deadline, which typically occurs near the middle of the semester. Under Texas law,
+you are only allowed six Q drops while you are in college at any public Texas institution. For more
+information, see: http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+                                                     8
+
+
+Religious holy days. A student who misses an examination, work assignment, or other project due to
+the observance of a religious holy day will be given an opportunity to complete the work missed within a
+reasonable time after the absence, provided that he or she has properly notified each instructor. The
+policy of the University of Texas at Austin is that the student must notify each instructor at least
+fourteen days prior to the classes scheduled on dates he or she will be absent to observe a religious holy
+day. For religious holidays that fall within the first two weeks of the semester, the notice should be
+given on the first day of the semester. The student may not be penalized for these excused absences
+but the instructor may appropriately respond if the student fails to complete satisfactorily the missed
+assignment or examination within a reasonable time after the excused absence.
+Names and pronouns. Class rosters are provided to instructors with students’ legal names. Please let
+me know if you would like me to address you by an alternate name or gender pronoun; I would be
+happy to do so. Please advise me of this early in the semester when I am learning names.
+Student Accommodations. Students with a documented disability may request appropriate academic
+accommodations from the Division of Diversity and Community Engagement, Services for Students with
+Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video phone).
+http://ddce.utexas.edu/disability/about/
+    • Please request a meeting as soon as possible for us to discuss any accommodations
+    • Please notify me as soon as possible if the material being presented in class is not accessible
+    • Please notify me if any of the physical space is difficult for you
+Policy on Academic Integrity. Each student in the course is expected to abide by the University of Texas
+Honor Code: “As a student of The University of Texas at Austin, I shall abide by the core values of the
+University and uphold academic integrity.”
+Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that are not your own (or
+that you have used in previous class), you must cite your sources. Otherwise you will be guilty of
+plagiarism and subject to academic disciplinary action, including failure of the course. You are
+responsible for understanding UT’s Academic Honesty and the University Honor Code which can be
+found at the following web address: http://deanofstudents.utexas.edu/sjs/acint_student.php
+Students who violate University rules on academic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University. Since such
+dishonesty harms the individual, all students, and the integrity of the University, policies on academic
+dishonesty will be strictly enforced. For further information, please visit the Student Conduct and
+Academic Integrity website at: http://deanofstudents.utexas.edu/conduct.
+University Resources for Students. The university has numerous resources for students to provide
+assistance and support for your learning:
+    • Sanger Learning and Career Center: www.utexas.edu/ugs/slc
+    • University Writing Center: http://uwc.utexas.edu/
+    • ITS: http://www.utexas.edu/its/
+    • Counselling and Mental Health Center: http://www.cmhc.utexas.edu/individualcounseling.html
+    • Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+    • Libraries: http://www.lib.utexas.edu/
+                                                      9
+
+
+     • Canvas: https://utexas.instructure.com/courses/633028/pages/student-tutorials
+Mental health needs and concerns. If you have concerns about another student in the class or anyone
+else you encounter at UT, please contact the Behavior Concerns Advice Line (BCAL) at 512-232-5050. If
+you are having a personal crisis, please contact the Counseling and Mental Health Center (CMHC) Crisis
+Line at 512-471-CALL (2255).
+Important Safety Information. If you have concerns about the safety or behavior of fellow students,
+TAs or Professors, call BCAL (the Behavior Concerns Advice Line): 512-232-5050. Your call can be
+anonymous.
+The following recommendations regarding emergency evacuation are from the Office of Campus Safety
+and Security (512-471-5767, http://www.utexas.edu/safety/):
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when an alarm or alert is activated. Alarm activation or announcement requires exiting and assembling
+outside, unless told otherwise by an official representative.
+     • Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember
+       that the nearest exit door may not be the one you used when entering the building.
+     • Students requiring assistance in evacuation shall inform their instructor in writing during the first
+       week of class.
+     • In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter
+       a building unless given instructions by the following: Austin Fire Department, The University of
+       Texas at Austin Police Department, or Fire Prevention Services office.
+     • Link to information regarding emergency evacuation routes and emergency procedures can be
+       found at: www.utexas.edu/emergency
+Class web sites and student privacy. Web-based, password-protected class sites are associated with all
+academic courses taught at The University. Syllabi, handouts, assignments and other resources are types
+of information that may be available within these sites. Site activities could include exchanging e-mail,
+engaging in class discussions and chats, and exchanging files. In addition, electronic class rosters will be
+a component of the sites. Students who do not want their names included in these electronic class
+rosters must restrict their directory information in the Office of the Registrar, Main Building, Room 1.
+For information on restricting directory information see:
+http://www.utexas.edu/student/registrar/ferpa/ferpa.qs.faculty.htm.
+Professor profile Christina N. Caramanis is an advanced Ph.D. candidate at the LBJ School of Public
+Affairs and a Graduate Research Trainee at the Population Research Center (PRC) at UT. She holds a B.A.
+in Sociology and Philosophy from Boston University and an M.A. in Developmental Psychology from
+Columbia University. Christina’s research interests focus on the dynamic interplay between poverty –
+both at the community and family levels – and the social, emotional, behavioral, cognitive and academic
+development of children and youth. In an effort to inform policy in various community and family
+settings, she is broadly interested in: (1) looking at the pathways through which antipoverty programs
+and policies interact with system-wide patterns of behavior and overall child and family well-being, and
+(2) using higher level statistical modeling and analysis to quantitatively address individual- and system-
+level change in key family- and child-level processes.
+                                                       10
+
+
+Lab instructor profile Aida Villanueva is a PhD candidate in Sociology. Her research agenda is focused
+on women's opportunities in the labor markets and the intergenerational transmission of gender
+disadvantage.
+                                                  11

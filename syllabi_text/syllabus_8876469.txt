@@ -1,0 +1,514 @@
+ARC 386K / Fall 2018 / Martin Hättasch
+Theory of Architecture I
+Instructor
+Martin Hättasch / WMB 6.128 / m.haettasch@utexas.edu
+Office hours: Mon/Wed 11:00am-12:00pm
+Introduction
+As architects we are faced with a dual reality that forces us to constantly negotiate between the realm of the physical
+object on the one, and the world of ideas on the other hand. As designers, we seek to give form to our ideas, while
+as critical thinkers we interrogate our built environment and extract from it the ideas that shaped it. In many cases,
+when architects have put their pens to paper, the implication was that each line could potentially contain the beginnings
+of a universal system to order the(ir) world. From the sum of visions of what architecture ought to be has emerged a
+multi-faceted, often controversial picture that makes it impossible to find a singular answer to the simple question:
+“What is architecture?” today. Just as traditions of construction have been passed on and evolved, architects have
+taken up the ideas of their predecessors and adapted, critiqued and rejected them. This body of ideas - in treatises,
+manifestoes and built projects - has created a disciplinary discourse across the history of architecture. The goal of this
+class is to provide an introduction to some of the debates that have occupied and continue to occupy architects’ minds
+and practices. You will encounter multiple and contradictory positions that have emerged in response to often similar
+questions. Focusing on the connection between the world of ideas and the world of forms, we will operate on both
+ends of the spectrum: Through original and secondary texts we will study fundamental positions that have emerged
+in architectural discourse. On the other hand you will be introduced to canonical buildings and practices as physical
+manifestoes of these positions. Some terms and conversations you encounter in this class you will encounter many
+more times throughout your studies and likely your career. As you proceed through your education, you will
+increasingly be able (and expected to) make connections between your own studio production and the conversations
+of the discipline. This feedback between what we do and how we think about our activity allows us to be specific
+about the issues we want to address through our designs and gives us a basis for evaluation of our own work.
+Course Objectives:
+     -    Introduce crucial debates and trajectories in recent architectural discourse
+     -    Familiarize students with a selection of canonical projects
+     -    Develop students’ ability to critically evaluate precedents with regards to discursive trajectories
+     -    Develop students’ ability to critically analyze precedents (graphic analysis)
+     -    Develop students’ ability to critically evaluate precedents (writing)
+     -    Give students the opportunity to use acquired knowledge and skills to develop their own positions with
+          regards to the issues introduced in class
+STRUCTURE
+Seminar Sessions
+Unless otherwise specified, the class will meet on Tuesdays 2.00pm – 5.00pm. Sessions are held in a seminar format
+that will include presentations by students (see: course work) or the instructor, discussions about readings and
+buildings presented in class, or group work or ‘desk crit’ periods.
+Each weekly session will focus on a discursive issue framed by two terms. These terms introduce a particular set of
+ideas, practices, and debates with relevance to contemporary architectural discourse and production. Each session’s
+pairing of words delineates a discursive relationship rather than fixed entity; sometimes a pairing describes two
+
+
+dialectically opposed positions, at other times the evolution of a concept, or an open-ended relationship between two
+categories. Class topics will not be introduced as a canonical lineage or chronological evolution, but rather as contested
+issues allowing for a multitude of positions. This structure aims to present discursive trajectories as ongoing and open-
+ended processes relevant to design culture today. Ultimately, the goal of this seminar is to enable students to not only
+acquire knowledge about canonical debates and precedents, but to use this knowledge as a basis to develop their own
+positions with regards to their studio and design work.
+Seminar Topics
+09/04              Introduction - Introduction - Class Organization
+09/11              Practice / Project - Architecture as a Discipline – Architecture as a Profession
+09/18              Representation / Method - The Diagram as Evolving Tool between Idea and Form
+09/25              Form / Content - Form and its (Dis-)Contents
+10/02              Histories / Futures (Part 1 – Futures) - Uses of the Past vs. Visions for the Future
+                   Student Presentations: Paper Ideas
+10/09              Histories / Futures (Part 2 – Histories) - Uses of the Past vs. Visions for the Future
+                   Student Presentations: Paper Ideas
+10/16              Monument / Fabric - The Expansion of The Metropolis vs. The Discreteness of Architecture
+                   Paper Outline due
+10/23              Congestion / Island - The Metropolitan Condition between Congestion and Disjunction
+10/30              Workshop / Desk Crits: Graphic Research & Precedent Analysis
+11/06              Local / Global - Architecture with and Against a Globalized World
+11/13              Autonomy / Contingency - The Search for Architecture’s Agency
+11/20              Student Presentations: Graphic Research
+11/27              Student Presentations: Graphic Research
+12/04              Tectonics / Technology - Architecture between the Digital and Material World
+                   Final Paper due
+ [12/10            (Monday) Last class day]
+Readings
+Readings will be assigned in preparation for each week’s seminar. These readings form an integral part of the class,
+they are not meant to be overly simplistic ‘beginners’ texts, but present you with substantive pieces of architectural
+discourse. The readings will include texts from primary sources – manifestoes written by architects, important
+canonical treatises – as well as secondary texts to help you place the primary sources in their respective contexts.
+Readings should be taken seriously and not completed at the last minute. While you will find that you might not
+necessarily understand every nuance of every text, you should be able to identify the large ideas put forward by the
+
+
+author. Read every text twice – a first time to get a general sense of what the author is talking about, and what the
+general parameters are, then a second time to identify certain arguments, or an author’s position on a topic.
+Students are expected to be familiar with the readings for the class session under which they are listed in the calendar,
+i.e. for which they are assigned. Readings must be printed out and brought with you for each class session for which
+they are assigned. You must bring your annotated readings to the discussion session in order to be able to facilitate a
+concise and rewarding discussion.
+The readings will be available at least one week before the respective class session on CANVAS.
+Each week, two groups of students will be responsible to take on the role of respondents (see: course work) and
+present a reading responses to one of the assigned readings to the class, and subsequently open and (partly) moderate
+a debate on the reading.
+Note:
+Please note that the readings posted a week prior to each session may vary slightly from the readings specified in the syllabus. Please
+refer to the readings uploaded on ‘canvas’ in the respective folders for your reading assignments.
+Precedents
+A number of specific projects and buildings (usually two, although the number may vary for some sessions) will be
+introduced each week relating to the texts and topic of the session. A group of two students will be responsible to
+give a brief introductory presentation to the projects in questions (see: course work). At times, class discussion will
+start by examining the precedents and move towards readings, at other times we will begin to discuss readings before
+moving to the specific examples of buildings.
+COURSE WORK
+Group work (two students)
+At the beginning of the semester students will self-organize into groups of two.
+Each group (1,2,3, … etc.) will be responsible for two in-class presentations per semester (see calendar). Each
+presentation consists of two parts, one Reading Response / Debate Opener and one Precedent Presentation. Usually
+each text/precedent pairing will reflect on a particular position towards the topic in question. With two group
+presentations per session, each session will thus introduce the class to two distinct positions regarding a discursive
+topic. While each group does not necessarily have to agree with the position/project presented, they will temporarily
+act as the proponents of this position and convey its essence to the class, before critically responding to it and opening
+up an in-class discussion. It is up to the students to organize the division of work among themselves. In the case that
+one student is responsible for the Precedent Presentation, and the other for the Reading Response, it is expected,
+that these roles will be reversed for the second presentation in the semester.
+      1.   Reading Response / Debate Opener
+           The main goal of the reading response is to enable a lively discussion and debate in class. The format
+           should move from the synthesis of the core concepts of a text to a subjective and critical assessment of its
+           contents and/or context. The presentation should include at least the following:
+                o    A summary of the core concepts
+                o    A critique of the readings by raising related issues or questions, reframing a certain concept with
+                     regards to a new context, or making connections to other issues discussed in class
+                o    The facilitation of a class debate centered around one or more questions determined by the
+                     respondents
+
+
+     2.   Precedent Presentation
+          Each week, assigned groups will be responsible to introduce a precedent (project or building) to the class
+          that has some kind of relationship to their Reading Response. The projects are listed in the class schedule
+          along with the readings. Students should familiarize themselves with the basic documentation of their
+          assigned precedent and have a thorough understanding of its context and inner workings (one of the
+          favorite questions in class will be to ask the presenting group to walk us through the plans!). It will be the
+          task of the presenting group to provide a short visual narrative in form of a digital presentation for the entire
+          class. This presentation should include (but is not limited to):
+               o     A curated (!) compilation of documentation materials (drawings, images, diagrams) for each project
+               o     A description (using relevant drawings) of how the project addresses program, site and context
+               o     Relevant biographical information on the architect / practice
+               o     Relevant background information regarding the history of the project
+Each Reading Response/Precedent Presentation set should be about 30 min. (15/15), followed by a debate of 30
+min.
+The order in which students present their reading response and precedent may vary per seminar session – at times we may discuss
+both precedents first, at other times both readings and sometimes each precedent/reading pairing as a unit.
+Individual Work
+The main assignment for the semester will be an essay of around 2,500 - 3,000 words. The essay is expected to be
+developed as a well-reasoned and researched argument regarding a topic related to class. Students should provide
+original and critical content, while rigorously using relevant texts from the seminar and graphic precedent studies to
+support their argument. As an “architectural” argument, the use of original graphic materials, diagrams, and
+precedent analysis will be a crucial part of the final project. The essay must address one of the word pairings
+discussed in class, and may use, but is not limited to the precedents discussed in class. To facilitate the
+development of an argument, the project will be developed in three stages over the course of the semester (each
+stage will be a constituent part of the final grade (see: grading outline)
+     3.   Paper Outline
+          Students will write a short outline framing a tentative argument, a set of two precedents they are planning
+          to utilize, and a short description of how they are planning to develop their argument.
+     4.   Precedent Study / Graphic Research (Presentation)
+          Class presentation and submission of the “graphic research” portion of the argument. A well-researched,
+          well-drawn, and well-presented study of a set of precedents should begin to support an argument with
+          regards to one of the seminar topics. (Please note that the argument you are making in your final essay is
+          not a ‘one-way-street’ – it is well possible, even desirable that your initially outlined argument may change
+          once you have started to look at the architectural evidence.)
+     5.   Final Project
+          A final submission of a final project combining a written and a graphic part. The projects should be creatively
+          conceived, rigorously researched, and beautifully presented.
+
+
+EVALUATION
+Student Performance Criteria
+A.2       Design Thinking Skills
+A.6       Use of Precedents
+Grading Outline
+You will receive a final letter grade. Incompletes will only be granted in cases of verifiable medical or other reasons
+that the school accepts as such. It is your responsibility to bring any circumstances that might prevent you from
+successfully passing the class to the instructor’s attention immediately. The final grade will be calculated as follows:
+Critical Reading skills                                                        15%
+     -    Class discussion / Participation
+Oral presentation (x2)                                                         20%
+     -    Reading Response / Debate Opener
+     -    Precedent Presentation
+Paper Outline                                                                  5%
+Graphic Research Presentation (precedent study)                                20%
+Final project (writing & graphic representation)                               40%
+Description of letter grades:
+A         Exceptional or outstanding work. Performance exceeding the requirements of the assignment. Student displays
+          initiative and forethought
+B         Good work. Performance above the norm, accurate and complete, fulfills all requirements of the assignment
+C         Average work. Minimum performance, satisfies most requirements of the assignment
+D         Weak work. Inadequate level of performance, does not satisfy the requirements of the assignment
+F         Unacceptable or incomplete work.
+Late Assignments
+The instructor will not accept any late work, unless justified by a legitimate excuse (see below). No provisions will be
+made for make-up work of any kind. No extensions will be given to complete work at a later time unless the instructor
+has agreed to this before the deadline.
+Attendance
+Attendance to the class is mandatory. Failure to attend classes due to illness of other legitimate causes may be
+excused. If you think that your absence is excusable, you need to inform the instructor as soon as possible and provide
+proper documentation. Excuses for class absences for medical reasons will be given only if such absences are advised
+by a health care provider, in writing, based on clinical findings and prescribed treatment recommendations. Excuse
+notes solely confirming a visit to a Health Care Provider will not be counted.
+Academic Integrity
+Students who violate University policy on academic integrity are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Since such dishonesty harms the individual, all
+students, and the integrity of the University, policies on academic integrity will be strictly enforced. Refer to the Student
+Conduct and Academic Integrity website for official University policies and procedures on academic integrity:
+http://deanofstudents.utexas.edu/conduct/academicintegrity.php.
+University Code of Conduct:
+http://catalog.utexas.edu/general-information/the-university/#universitycodeofconduct
+
+
+Care Program
+Counselors in Academic Residence (CARE) Program places licensed mental health professionals within the colleges
+or schools they serve in order to provide better access to mental health support for students who are struggling
+emotionally and/or academically.
+Abby Simpson (LCSW) is the assigned CARE counselor for the School of Architecture. Faculty and staff may refer
+students to the CARE counselor or students may directly reach out to her. Please leave a message if she is unavailable
+by phone.
+Abby Simpson, LCSW | BTL 114B | 512-471-3115 (M-F 8am-5pm)
+https://cmhc.utexas.edu/CARE_simpson.html
+Students with Disabilities
+Students with disabilities who require special accommodations need to obtain a letter that documents the disability
+from the Services for Students with Disabilities area of the Office of the Dean of Students (471-6259 voice or 471-
+4641 TTY for users who are deaf or hard of hearing). This letter should be presented to the instructor in each course
+at the beginning of the semester and accommodations needed should be discussed at that time.
+http://diversity.utexas.edu/disability/
+Letters of recommendation
+I will be happy to write letters of recommendation for students receiving a final grade “A-“or above.
+Bibliography (recommended texts and resources)
+Note that none of these books are required for purchase, but may present you with a good starting point for further
+research and/or start building an architectural library.
+Compilations:
+      -   Joan Ockman (with the collaboration of Edward Eigen): Architecture Culture 1943-1968: A Documentary
+          Anthology, New York: Rizzoli, 1993
+      -   K. Michael Hays (ed.): Architecture Theory Since 1968, Cambridge, MA: MIT Press, 1998
+      -   Krysta Sykes (ed.): Constructing a New Agenda: Architectural Theory, 1993-2009, New York: Princeton
+          Architectural Press, 2010
+      -   Adrian Forty: Words and Buildings: A Vocabulary of Modern Architecture, London: Thames and Hudson,
+          2000
+      -   Kate Nesbitt (ed.): Theorizing a New Agenda for Architecture: An Anthology of Architectural Theory 1965-
+          1995, New York: Princeton Architectural Press, 1996
+      -   Harry Francis Mallgrave and Christina Contandriopoulos (eds.): Architectural Theory, volume II: An
+          Anthology from 1871-2005, Oxford: Blackwell, 2008
+      -   Ulrich Conrads: Programs and manifestoes on 20th-century architecture, Cambridge, MA: MIT Press, 1971
+      -   Rafael Moneo: Theoretical Anxieties and Design Strategies in the Work of Eight Contemporary Architects,
+          Cambridge, MA: MIT Press / Barcelona, Actar, 2004
+Some Canonical books worth purchasing as a starting point for an architectural library:
+      -   Rem Koolhaas: S,M,L,XL, Monacelli Press, 1995
+      -   Rem Koolhaas: Delirious New York: A Retroactive Manifesto for Manhattan, New York: The Monacelli
+          Press, 1978
+      -   Aldo Rossi: L'architettura della città (1966), translated as The Architecture of the City by Diane Ghirardo and
+          Joan Ockman. Cambridge, MA: MIT Press, 1982
+
+
+- Robert Venturi: Complexity and Contradiction in Architecture (1966). New York: The Museum of Modern
+  Art, 2nd revised edition, 1977
+- Robert Venturi, Denise Scott Brown, and Steven Izenour, Learning from Las Vegas, Cambridge, MA: MIT
+  Press, 1972
+- Le Corbusier: Towards a New Architecture (“Vers Une Architecture”), translated from the thirteenth french
+  edition and with and introduction by Frederick Etchells, New York, Dover Publications, 1986
+- Pier Vittorio Aureli: The Possibility of an Absolute Architecture, Cambridge, MA: MIT Press, 2011
+
+
+Schedule / Calendar:
+(please note that this schedule may be subject to change. Changes will be coordinated in advance with the student
+groups responsible for project introductions and reading responses for the session in question.)
+09/04              Introduction
+                   Introduction - Class Organization
+09/11              Practice / Project
+                   Architecture as a Discipline – Architecture as a Profession
+                   Required Readings:
+                           Stan Allen, “Introduction: Practice vs. Project,” in Practice: Architecture, Technique and
+                            Representation (2000), pp. xiii-xxv.
+                           Michael Speaks: “Intelligence after Theory, in Perspecta, Vol. 38, Architecture after All
+                            (2006), pp. 101-106
+                   Complementary Texts:
+                           Aldo Rossi: “Architecture for Museums”
+                           Summerson: “The Case for a Theory of 'Modern' Architecture”
+                           Ákos Moravánszky, “Architectural Theory: A Construction Site”
+09/18              Representation / Method
+                   The Diagram as Evolving Tool between Idea and Form
+                   Required Readings:
+                           Toyo Ito, “Diagram Architecture,” El Croquis 77: Kazuyo Sejima, pp. 18-24
+                           Peter Eisenman: “Diagram: An Original Scene of Writing,” in Any Magazine n. 23, 1998
+                   Student Presentations:
+                            Group 1:
+                            Reading Response:           Peter Eisenman: “Diagram: An Original Scene of Writing”
+                            Project Introduction:       Peter Eisenman: House II / House VI (+ other early houses)
+                            Group 2:
+                            Reading Response:           Toyo Ito, “Diagram Architecture,”
+                            Project Introduction:       Sanaa: Toledo Glass Pavilion
+                   Complimentary Projects/Practices:
+                           UN Studio / Ben van Berkel, Caroline Bos
+                           OMA (Seattle Public Library)
+                           MVRDV
+                   Complementary Texts:
+                           Anthony Vidler, “Diagrams of Diagrams: Architectural Abstraction and Modern
+                            Representation,” Representations 72 (Autumn 2000): 1-20
+                           Ben Van Berkel and Caroline Bos, “Diagrams: Interactive Instruments in Operation,” in
+                            Any Magazine n. 23, 1998
+                           Stan Allen, “Diagrams Matter,” in Any Magazine n. 23, 1998
+                           Robert Somol, “The Diagrams of Matter,” in Any Magazine n. 23, 1998
+                           Garcia, Mark, "Histories and Theories of the Diagram of Architecture", AD Reader Series,
+                            2009
+                           Anthony Vidler: “What is a diagram anyway?”
+                           Robert Somol, “Dummy Text, or the Diagrammatic Basis of Contemporary Architecture,”
+                            in Peter Eisenman, Diagram Diaries (New York: Universe, 1999): 6-25
+
+
+09/25 Form / Content
+      Form and its (Dis-)Contents
+      Required Readings
+              Louis H.Sullivan: “The Tall Office Building Artistically Considered,”in Lippincott's
+               Magazine, March 1896.
+              Sanford Kwinter: “Who is Afraid of Formalism?”, in Far from Equilibrium, pp. 144-149
+      Student Presentations:
+               Group 3:
+               Reading Response:            “The Tall Office Building Artistically Considered”
+               Project Introduction:        Louis H. Sullivan: Guarantee Building, Wainwright Building
+                                            + other early skyscrapers)
+               Group 4:
+               Reading Response:            Sanford Kwinter: “Who is Afraid of Formalism?,
+               Project Introduction:        Frank Gehry: Disney Concert Hall or Louis Vuitton Foundation
+      Complimentary Projects/Practices:
+              Bernard Tschumi (Parc de La Villette)
+              Peter Eisenman: Houses
+      Complementary texts:
+              Adrian Forty: “Function”, in Words and Buildings: A Vocabulary of Modern Architecture,
+               London: Thames and Hudson, 2000
+              Pier Vittorio Aureli: “Architecture and Content -Who is afraid of the Form-Object?” in Log
+               No. 3, (New York, Anyone Corporation, Fall 2004), pp.29-36
+              Colin Rowe: “The Mathematics of the Ideal Villa, Palladio and Le Corbusier compared”, in
+               AR, March 1947, pp. 101-104
+              Peter Eisenman: “Post-Functionalism”, in Oppositions 6, Fall 1976
+              Bernard Tschumi: Architecture and Disjunction (excerpts)
+10/02 Histories / Futures (Part 1 – Futures)
+      Uses of the Past vs. Visions for the Future
+      Required Readings:
+              Le Corbusier: Vers une Architecture (excerpts)
+      Student Presentations:
+               Group 5:
+               Reading Response:            Le Corbusier: Vers une Architecture (excerpts)
+               Project Introduction:        Le Corbusier: Villa Savoye
+      Complementary texts:
+              Reyner Banham, Theory and Design in the First Machine Age [1960] (Cambridge, MA:
+               The MIT Press, 1980): 9-12; 220-246; 320-330
+      Assignments:       Students in Groups 1-4:
+                         Bring 5 images to class that start to frame a certain practice / project / theme
+                         that you are interested in writing your final paper about. We will discuss these
+                         images and generate feedback from the class to help you specify your ambition.
+
+
+10/09 Histories / Futures (Part 2 – Histories)
+      Uses of the Past vs. Visions for the Future
+      Required Readings:
+              Robert Venturi: Complexity and Contradiction in Architecture (1966). New York: The
+               Museum of Modern Art, 2nd revised edition, 1977: 16-69
+      Student Presentations:
+               Group 6:
+               Reading Response:            Robert Venturi: Complexity and Contradiction in Architecture
+               Project Introduction:        Robert Venturi: Vanna Venturi House
+      Complementary texts:
+              Manfredo Tafuri: Teoria e storia dell'architettura (1968), translated as Theories and History
+               of Architecture, London: Granada, 1980: 227-237
+              Manfredo Tafuri: ‘Introduction’, Theories and History of Architecture, transl. by Giorgi
+               Verrechia (Icon Harpe, 1981)
+              Fil Hearn: “The uses of the past”, in Ideas that Shaped Buildings
+              Hilde Heynen, “The need for Utopian thinking in Architecture,” in Hunch 6/7, pp. 241–
+               243.
+      Assignments:       Students in Groups 5-8:
+                         Bring 5 images to class that start to frame a certain practice / project / theme
+                         that you are interested in writing your final paper about. We will discuss these
+                         images and generate feedback from the class to help you specify your ambition.
+10/16 Monument / Fabric
+      The Expansion of The Metropolis vs. The Discreteness of Architecture
+      Required Readings:
+              Siegfried Giedion; Jose-Luis Sert; Fernand Leger: “Nine Points on Monumentality,” in
+               Joan Ockman: Architecture Culture 1943 – 1968 (Rizzoli, NY), pp. 27-30
+              Siegfried Giedion: “The Need for a New Monumentality” in Paul Zucker (ed.) New
+               Architecture and City Planning, (Philosophical Library, New York, 1944), pp.545 – 568
+              Alison Smithson (ed.): “Team 10 Primer 1953-1962”, in Architectural Design, no.12,
+               December, special issue, pp. 559-600; with contributions by J. Bakema, G. Candilis, J.
+               Coderch, A. van Eyck, R. Erskine, G. Grung, A. and P. Smithson, J. Soltan, J. Voelcker and
+               S. Woods
+      Student Presentations:
+               Group 7:
+               Reading Response:            Giedion, Sert, Leger: “Nine Points on Monumentality
+               Project Introduction:        Le Corbusier (et al.): UN Headquarters or Town Center St. Die
+               Group 8:
+               Reading Response:            Smithson: “Team 10 Primer 1953-1962”
+               Project Introduction:        Candilis Josic Woods: Free University Berlin
+      Complimentary Projects/Practices:
+              Aldo van Eyck: Amsterdam Orphanage
+              Alison & Peter Smithson: Hauptstadt Berlin competition
+      Complementary texts:
+              Alexander D’Hooghe: “A Theory of the New Monumentality: From Crisis to Project,” in
+               VOLUME, 2006, no 9, pp.151-157
+              Alexander D’Hooghe: “Empty Space”, “Platform”, “Shattering and Regrouping,” in The
+               Liberal Monument, Urban design and the late Modern Project, (Princeton Architectural
+               Press, NY), pp.36-43
+
+
+              Eric Mumford: “From the ‘Heart of the City’ to the End of CIAM,” in The CIAM Discourse
+               on Urbanism, 1928-1960. (Cambridge: MIT Press, c2000). pp. 201-215
+              Alison Smithson (ed.): “The Beginning of Team 10” in Team 10 Meetings (New York:
+               Rizzoli, 1991), pp.8-15
+              Siegfried Giedion: “In Search for a New Monumentality: A Symposium”, in AR 104 (Sept.
+               1948), pp. 117 – 128
+              J.B. Bakema: “Relations between Man and Things”, in: CIAM 8: The Heart of the City:
+               Towards the Humanisation of Urban Life (New York: Pellegrini and Cudahy Publishers,
+               1952), pp.67-
+              Alison and Peter Smithson: “Problems Regarded as Central to Architecture in the Present
+               Situation” in Documents of Modern Architecture: CIAM ‘59 in Otterlo, Jürgen Joedicke (ed.),
+               (New York: Universe Books Inc., 1961). pp. 68-71.
+      Assignments:       Paper outline due
+10/23 Congestion / Island
+      The Metropolitan Condition between Congestion and Disjunction
+      Required Readings:
+              Rem Koolhaas, excerpts from: Delirious New York: A Retroactive Manifesto for
+               Manhattan (1978). New York: The Monacelli Press, 1994
+      Student Presentations:
+               Group 1:
+               Reading Response:             Rem Koolhaas, excerpts from: Delirious New York (excerpt 1)
+               Project Introduction:         Rem Koolhaas / OMA, t.b.a.
+               Group 2:
+               Reading Response:             Rem Koolhaas, excerpts from: Delirious New York (excerpt 2)
+               Project Introduction:         Rem Koolhaas / OMA, t.b.a.
+      Complementary texts:
+              Rem Koolhaas: “Bigness: or the Problem of Large”, in S,M,L,XL (New York: The
+               Monacelli Press, 1995)
+              OASE #94: OMA. The First Decade
+              Lara Schrijver: “The Archipelago City: Piecing Together Collectivities,” in OASE, nº71,
+               (2006), pp.18-36
+10/30 Workshop / Desk Crits: Graphic Research & Precedent Analysis
+                         Students are asked to bring in-progress work on their precedent analysis to
+                         class. In desk crit format, you will receive feedback on the work you have
+                         produced towards a coherent graphic argument in support of your final paper.
+11/06 Local / Global
+      Architecture with and Against a Globalized World
+      Required Readings:
+              Kenneth Frampton: "Towards a Critical Regionalism: Six Points for an Architecture of
+               Resistance." in Hal Foster (ed.): The Anti-Aesthetic: Essays on Postmodern Culture,
+               Seattle, WA: Bay Press, 1983.
+              Rem Koolhaas: “Junkspace,” in Content, Taschen, Cologne, 2004
+          Student Presentations:
+               Group 3:
+               Reading Response:             Frampton, "Towards a Critical Regionalism”
+               Project Introduction:         Alvar Aalto: Saynatsalo Town Hall or
+
+
+              Group 4:
+              Reading Response:             Rem Koolhaas: “Junkspace”
+              Project Introduction:         BIG: Danish Pavilion, Shanghai Expo
+      Complementary texts:
+             Liane Lefaivre and Alexander Tzonis. "Why Critical Regionalism Today?" In Architecture +
+              Urbanism, May 1990
+             Alan Colquhoun, "The concept of regionalism," in Postcolonial space(s) G.B. Nalbantoglu
+              and W. Chong Tai (eds.) (New York: Princeton Architectural Press, 1997), 13-24.
+             Ulrich Beck, “Risk Society’s “Cosmopolitan Moment,” in New Geographies 1, (2009), 24-
+              34.
+             Rem Koolhaas, “Globalization,” S,M,L,XL (New York: The Monacelli Press, 1995), pp.
+              363–369.
+11/13 Autonomy / Contingency
+      The Search for Architecture’s Agency
+      Required Readings:
+             Rossi, Aldo, “The Structure of Urban Artifacts,” in The Architecture of the City
+              (New York: Opposition Books, 1994), pp. 29-61
+             Reyner Banham: “A Clip-On Architecture,” in Design Quarterly, No 63. (1965), pp.2-30
+      Student Presentations:
+              Group 5:
+              Reading Response:             Rossi, “The Structure of Urban Artifacts”
+              Project Introduction:         Rossi: San Cataldo Cemetary or Il Palazzo hotel
+              Group 6:
+              Reading Response:             Banham: “A Clip-On Architecture”
+              Project Introduction:         Kenzo Tange: Tokyo Bay
+      Complimentary Projects/Practices:
+             Dogma: Stop City
+             Aldo Rossi: Centro Direzionale, Turin
+             Philippe Rahm
+             James Corner (Field Operations)
+      Complementary texts:
+             Joseph Godlewski: “The Absurd Alibi”, The Plan Journal Vol. 0, 2016
+             Rafael Moneo: “Aldo Rossi”, in Theoretical Anxieties and Design Strategies
+             Rafael Moneo: “OnTypology,” in Oppositions 13 (Summer 1978), pp. 23-45
+             Anthony Vidler:“The Idea Of Type The Transformation of an Academic Idea 1750-1830,”
+              (1977), in K. Michael Hays (ed.), The Oppositions Reader
+             Adrian Forty: ‘Type’, in Words and Buildings: A Vocabulary of Modern Architecture
+              (London: Thames & Hudson, 2000), pp. 304-11
+             Hadas Steiner: “Within the Big Structure” in Megastructure Reloaded (Berlin, Hatje
+              Cantz, 2008), pp.136-152
+             Pier Vittorio Aureli: “Rossi: The Concept of the Locus as a Political Category of the City,”
+              in The project of autonomy : politics and architecture within and against capitalism
+              (New York : Temple Hoyne Buell Center for the Study of American Architecture:
+              Princeton Architectural Press, 2008), pp. 53-69
+             Reyner Banham: ”A Home is Not A House,”in Art in America, 1965, volume 2, p. 70-79
+             ACSA Fall Conference 2015: “Between the Autonomous & Contingent Object”,
+              Conference Proceedings & selected papers
+11/20 Student Presentations: Paper presentation /Graphic Research due
+11/27 Student Presentations: Paper presentation /Graphic Research due
+
+
+12/04  Tectonics / Technology
+       Architecture between the Digital and Material World
+       Required Readings:
+               Kenneth Frampton: “Reflections on the Scope of the Tectonic,”in Studies in tectonic
+                culture: the poetics of construction in nineteenth and twentieth century architecture
+                (Cambridge, Massachusetts: MIT Press, 1995)
+               Antoine Picon: “Architecture and the virtual - towards a new materiality,”in PRAXIS no.6,
+                2006 pp. 114-121
+       Student Presentations:
+                Group 7:
+                Reading Response:           Frampton: “Reflections on the Scope of the Tectonic”
+                Project Introduction:       Renzo Piano: Menil Collection
+                Group 8:
+                Reading Response:           Picon: “Architecture and the virtual”
+                Project Introduction:       FOA: Yokohama Port Terminal
+       Complimentary Projects/Practices:
+               Greg Lynn
+               Reiser Umemoto
+       Complementary texts:
+               Robin Evans: “Translations from Drawing to Building”(1986)
+       Assignments: final project due
+[12/11 (Monday) Last class day]

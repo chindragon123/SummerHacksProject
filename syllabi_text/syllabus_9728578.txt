@@ -1,0 +1,171 @@
+Musical Acoustics – Gelb – Fall 2019
+                                                       Musical Acoustics
+                                   AET 320D / MUS 376J / TD 354T / ME 379Q
+ “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration” - Tesla
+                                     Fall 2019; DFA 4.126; Tu/Th 5-6:30 PM
+Dr. (James) Gelb; jamesmartingelb@gmail.com; 512-565-8413; Office Hrs: After Class/TBD
+The goal of the course is to help students develop the intuition and vocabulary for understanding
+the basic principles relevant to musical instruments and sound (e.g., mechanics, vibrations,
+acoustics, harmonics, acoustic-electronic conversions, speakers, hearing, perception, room
+acoustics, and so forth) in order to be able to read basic articles on the subject of musical
+acoustics. Material is kept relevant to musical principles (e.g., performance techniques,
+scales/harmony, …) throughout the course. The level is accessible to students outside of the
+sciences with no background in physics/engineering and to those with limited or no exposure to
+music and mathematics beyond basic algebra. Optional advanced reading can be assigned to
+those interested. Liberal arts and science/engineering students will both benefit from the course.
+ TOPICS:
+ I) Introduction and Motion                          Position, Speed/Velocity, Acceleration, Force, Mass, Gravity
+ II) Pressure and Oscillations                       Work, Energy, Pressure, Springs, Transverse/Longitudinal Waves
+ III) Sound                                          Wavelength, Frequency, Doppler, Phase, Amplitude, Intensity, Decibels, Resonance, Impedance
+ IV) Strings and Harmonics                           Vibrating String, Transients, Standing Waves, Harmonics, Plucked Instruments
+ V) Properties of Musical Sound and Frequency        Combinations of Waves, Beats, Modes of Vibration, Fourier (Frequency) Analysis
+ VI) Timbre and Bowed Instruments                    Timbre, Driven Systems, Harmonic Structure, Bowed Instruments, Inharmonicity, Mode Locking
+ VII) Human Ear and Voice                            Human Ear, Critical Bands, Intensity, Pitch, Loudness, Voice/Singing
+ VIII) Scientific Foundations of Music Theory        Piano, Intervals, Scales, Scales/Modes in the World, Tempered Tuning, Consonance (part 1)
+ IX) Architectural Acoustics                         Reverberation, Absorption, Attenuation, Reflection, Refraction, Diffraction, Interference, Sabine's Law
+ X) Wind, Woodwind, & Brass Instruments              Open/Closed Tubes, Organ Pipes, Reeds, Brass Instruments, Transcription, Impedance Plots
+ XI) Electronic Music and Signal Processing          Filters, Circuits, Speakers, Sound Synthesis, Properties of Electronic/Acoustical Signals
+ XII) Percussion                                     Analysis of Percussion Instruments, Piano, Modes of Vibration, Unpitched Instruments
+ XIII) Psychoacoustics                               Pure and Complex Tones Revisited, Loudness, Pitch Perception, Consonance (part 2), Neural Models
+This syllabus below represents my current plans and objectives. Changes are not unusual and should be expected.
+Test/presentation dates (in red), however, will be preserved to accommodate your schedule planning.
+ Wk         Dates                 TUE (PART 1)                TUE (PART 2)                      THU (PART 1)                       THU (PART2)
+                               Part 1 is 1st 40 min.      Part 2 is 2nd 40 min.               Part 1 is 1st 40 min.             Part 2 is 2nd 40 min.
+   1       Aug29                   NO CLASS                     NO CLASS                          Introduction             Introduction/Units/Mechanics
+   2       Sep3/5                   Mechanics                   Mechanics                    Pressure/Oscillations                       Heat
+   3      Sep10/12                Waves/Sound                     Sound                       Strings/Harmonics                  Strings/Harmonics
+   4      Sep17/19                SOUND LAB                    SOUND LAB                      Frequency Analysis                Frequency Analysis
+   5      Sep24/26          Timbre / Bowed Strings      Timbre / Bowed Strings                   Miscellaneous                        REVIEW
+   6       Oct1/3                    TEST 1                       TEST 1                     Intensity / Loudness               Intensity / Loudness
+   7       Oct8/10             Intensity / Loudness        Intensity / Loudness                     Hearing                           Hearing
+   8      Oct15/17                    Scales                       Scales                            Tuning                            Tuning
+   9      Oct22/24                    Winds                       Winds                              Winds                              Winds
+  10      Oct29/31                     Brass                     REVIEW                              TEST 2                            TEST 2
+  11       Nov5/7            Architectural Acoustics    Architectural Acoustics             Architectural Acoustics                 WINDS LAB
+  12      Nov12/14               Electronic Music            Electronic Music                  Speakers / Filters                 Speakers / Filters
+  13      Nov19/21                  Percussion                  Percussion                            Piano                        Psychoacoustics
+  14    Nov26/Thanks              Presentations                Presentations                       NO CLASS                          NO CLASS
+  15       Dec3/5                 Presentations                Presentations                     Presentations               Presentations / REVIEW
+  16       Dec12                   NO CLASS                     NO CLASS                        FINALS WEEK                       FINALS WEEK
+  17       Dec17                 FINALS WEEK                 FINALS WEEK                           NO CLASS                          NO CLASS
+                                                                1
+                                                                                                           Revised 5/1/19
+
+
+Musical Acoustics – Gelb – Fall 2019
+Format and Procedures:
+The class and exams are based heavily upon lectures using the white board and computer projected information.
+Many demonstrations using laboratory equipment will be used in class to enhance learning/intuition/retention. “Lab”
+days (in blue above) are informal – they represent days that are heavily dependent upon demonstrations.
+Grading Procedures: Grades will be based on (+/- letter grades given for overall grade):
+                   (a) Midterms (2x25=50%)
+                   (b) Homework (6x3=20%, two free points, hw7/8 are not graded)
+                   (c) Presentation (mandatory, 5%) – topics/details will be provided shortly
+                   (d) Final (mandatory, 25%)
+Requirements:
+         1. Class attendance and participation policy: Attendance is strongly recommended
+              because the exams are primarily based on the lectures. Attendance will be taken and
+              can influence borderline grades. Religious Holy Days: By UT Austin policy, you must notify me
+              of your pending absence prior to the date of observance of a religious holy day. If you must miss a
+              class, an examination, a work assignment, or a project in order to observe a religious holy day, I will
+              give you an opportunity to complete the missed work within a reasonable time after the absence.
+         2. Course Readings/Materials:
+              (a) Required Textbook: "The Science of Sound," 3rd Ed., Rossing, Moore, Wheeler
+              (b) Supplementary texts if interested (I can show you my versions if interested):
+              “Musician’s Acoustics” by Parker and Smith –
+                   nice, succinct, intuitive descriptions, very simple math
+              “Musimathics” Volumes I and II by Gareth Loy –
+                   accessible, all aspects of musical acoustics, for musicians, moderate basic math
+              “The Physics and Psychophysics of Music” by Juan G. Roederer
+                   accessible treatment, moderate mathematics, mostly psychoacoustics
+              “The Physics of Musical Instruments” by Fletcher and Rossing
+                   highly technical, upper division / graduate level
+              “Musical Acoustics” by Hall
+                   descriptive, standard textbook for musical acoustics for musicians
+              (c) A simple scientific calculator is recommended. You can find one for under $10.
+              (d) URL for course website: https://canvas.utexas.edu
+         3. Assignments, Assessment, and Evaluation
+           (a) Homework (with due dates) will be posted approximately every 1-2 weeks.
+           (b) Make up exams must be scheduled prior to exam date.
+           (c) Students are responsible for knowing add/drop/… dates: http://registrar.utexas.edu/calendars
+           (d) Date, time, and location of Final Exam: http://registrar.utexas.edu/students/exams
+          4. Use of Canvas in class
+                 In this class I use Canvas—a Web-based course management system with password-protected
+                 access at http://courses.utexas.edu —to distribute course materials, to communicate and collaborate
+                 online, to post grades, and to submit assignments. You can find support in using Canvas at the ITS
+                 Help Desk at 475-9400, Monday through Friday, 8 a.m. to 6 p.m., so plan accordingly.
+                                                            2
+                                                                                                  Revised 5/1/19
+
+
+Musical Acoustics – Gelb – Fall 2019
+Academic Integrity
+University of Texas Honor Code
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the university is expected to uphold these values through integrity,
+honesty, trust, fairness, and respect toward peers and community.
+Any work submitted by a student in this course for academic credit will be the student's own work.
+You are encouraged to study together and to discuss information and concepts covered in lecture and the
+sections with other students. You can give "consulting" help to or receive "consulting" help from such
+students. However, this permissible cooperation should never involve one student having possession of a
+copy of all or part of work done by someone else, in the form of an e-mail, an e-mail attachment file, a
+diskette, or a hard copy.
+Should copying occur, both the student who copied work from another student and the student who gave
+material to be copied will both automatically receive a zero for the assignment. Penalty for violation of
+this Code can also be extended to include failure of the course and University disciplinary action.
+During examinations, you must do your own work. Talking or discussion is not permitted during the
+examinations, nor may you compare papers, copy from others, or collaborate in any way. Any
+collaborative behavior during the examinations will result in failure of the exam, and may lead to failure
+of the course and University disciplinary action.
+Other University Notices and Policies
+ Use of E-mail for Official Correspondence to Students
+      All students should become familiar with the University's official e-mail student notification policy. It is the
+         student's responsibility to keep the University informed as to changes in his or her e-mail address. Students
+         are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+         communications, recognizing that certain communications may be time-critical. It is recommended that e-
+         mail be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions
+         for updating your e-mail address are available at: http://www.utexas.edu/its
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact Services for
+Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not
+required to provide accommodations without an official accommodation letter from SSD. (Note to Faculty: Details
+of a student’s disability are confidential. Faculty should not ask questions related to a student’s condition or
+diagnosis when receiving an official accommodation letter.)
+        Please notify me as quickly as possible if the material being presented in class is not accessible (e.g.,
+         instructional videos need captioning, course packets are not readable for proper alternative text conversion,
+         etc.).
+        Please notify me as early in the semester as possible if disability-related accommodations for field trips are
+         required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+         transportation, site accessibility, etc.).
+        Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+         reference SSD’s website for more disability-related information:
+         http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+                                                            3
+                                                                                               Revised 5/1/19
+
+
+Musical Acoustics – Gelb – Fall 2019
+Behavior Concerns Advice Line (BCAL)
+ If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to
+ discuss by phone your concerns about another individual’s behavior. This service is provided through a partnership
+ among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee
+ Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit
+ http://www.utexas.edu/safety/bcal
+Q drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As
+stated in Senate Bill 1231:
+          “Beginning with the fall 2007 academic term, an institution of higher education may not permit an
+   undergraduate student a total of more than six dropped courses, including any course a transfer student has
+   dropped at another institution of higher education, unless the student shows good cause for dropping more than
+   that number.”
+Emergency Evacuation Policy
+ Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm is
+ activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+           Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest
+              exit door may not be the one you used when you entered the building.
+           If you require assistance to evacuate, inform me in writing during the first week of class.
+           In the event of an evacuation, follow my instructions or those of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police
+Department, or the Fire Prevention Services office.
+                                                            4
+                                                                                             Revised 5/1/19

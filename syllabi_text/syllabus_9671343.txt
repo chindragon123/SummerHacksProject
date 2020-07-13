@@ -1,0 +1,106 @@
+                          sM305G - Summer 2019
+                    Preparation for Calculus-WB
+                                                 86434
+                   Instructor: Kathryn Dabbs
+                   Office: RLM 13.140
+                   Online Office Hours: MWF 4:30 - 5:30 pm, or by appointment
+                   E-mail: kdabbs@math.utexas.edu
+                   Web: www.math.utexas.edu/~kdabbs
+Course Outline and Learning Objectives
+The primary objective of this course is to prepare you for one of the calculus courses offered at UT.
+To this end, we will practice some basic algebra, but the course will mostly be devoted to functions:
+graphs, uses, special families of functions (trigonometric, exponential, logarithmic, rational), and
+limits. You will be able to:
+    • Solve equations and inequalities involving polynomial, rational, exponential, logarithmic, and
+      trigonometric functions.
+    • Recognize the graphs and summarize the properties of polynomial, rational, exponential, loga-
+      rithmic, and trigonometric functions.
+    • Analyze the behavior of a function using graphs, equations, and limits, including determining
+      domain, range, intercepts, end behavior, and intervals of increasing and decreasing.
+    • Solve trigonometric problems using right triangle trigonometry and unit circle trigonometry.
+    • Communicate solutions effectively using correct mathematical terminology and notation.
+    • Construct and interpret functions as models and translate ideas among various representations
+      of functions.
+This course may be used to fulfill the mathematics component of the university core curriculum and
+addresses the following three core objectives established by the Texas Higher Education Coordinating
+Board: communication skills, critical thinking skills, and empirical and quantitative skills.
+Required Materials
+Textbook
+Excerpts from Algebra and Trigonometry by Abramson and Precalculus by Abramson. Download for
+free at
+http://cnx.org/content/col11758/latest and
+http://cnx.org/content/col11667/latest
+Quest
+We will be using Quest for assignments and learning modules. Quest requires a $30 charge per student
+per class, with no student being charged more than $60 per semester. Please go to
+http://quest.cns.utexas.edu to log in to the Quest system.
+                                                   1
+
+
+Course Organization
+This course is divided into 13 modules, each containing several Quest learning modules, one Quest
+homework assignment, and one written homework assignment.
+Exams
+There is one midterm and one final exam for this course. Exams are to be taken at a proctored testing
+center in your area. Testing fees are not included in the cost of the course and vary by testing center.
+The exams are scheduled as follows:
+    • Midterm Exam: Wednesday, July 31, 2019.
+    • Final Exam: Monday, August 19, 2019.
+Grades
+All scores are recorded in Canvas, and grades are computed as follows:
+                            Event                              Percentage
+                            Quest homework assignments         10%
+                            Quest learning modules             5%
+                            Written homework assignments       15%
+                            Midterm Exam                       35%
+                            Final Exam                         35%
+                            Total                              100%
+Three Quest learning module grades, two Quest homework grades, and two written homework grades
+will be dropped. No makeups or extensions will be given for any assignments.
+Your percentage grade will be rounded to the nearest whole number, and your letter grade will be
+assigned according to a scale no stricter than the following:
+                                  Percent    Grade   Percent    Grade
+                                     93      A          73      C
+                                     90      A-         70      C-
+                                     87      B+         67      D+
+                                     83      B          63      D
+                                     80      B-         60      D-
+                                     77      C+
+Homework Help
+There are several resources available to you to help you succeed in this course, including:
+Office Hours
+Online office hours will be available through Canvas conferences.
+Piazza
+A discussion board has been set up on Piazza for this course. Please use it to help each other with
+homework problems. For math help questions, I prefer a post on Piazza rather than an email.
+                                                   2
+
+
+                                  General Policies and Info
+Notes on the Calendar
+The last day of the official add/drop period for second-term classes is July 16, and the last day to
+drop with dean’s approval is August 16.
+Makeups/Religious Holidays
+Per university policy, the only excused absences are for official university business and for religious
+holy days. These absences require documentation and advance notice. Absences for illness are not
+officially excused. No make up work will be permitted for undocumented, unexcused absences for
+illness or any other reason.
+By UT Austin policy, you must notify me of your absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or
+a project in order to observe a religious holy day, you will be given an opportunity to complete the
+missed work within a reasonable time after the absence.
+Calculators
+A scientific calculator (such as a TI 30) can be handy in this course but will be unnecessary. You
+may also use a scientific calculator app on a smartphone or tablet if you wish. Calculators will not be
+allowed on exams.
+Students with Disabilities
+Any student with a disability requiring accommodations may make a request from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, at 471-6259,
+http://www.utexas.edu/diversity/ddce/ssd
+Academic Integrity
+Academic dishonesty and plagiarism will not be tolerated in this course. Please refer to the Honor
+Code and Chapter 11 of the Institutional Rules on Student Services and Activities, which may be
+found at http://deanofstudents.utexas.edu/sjs/acint student.php.
+Counseling and Mental Health Center CMHC is located in the Student Services Building (SSD)
+on the fifth floor. They are open M-F 8-5, and their website is www.cmhc.utexas.edu.
+                                                   3

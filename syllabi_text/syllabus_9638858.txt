@@ -1,0 +1,241 @@
+                    MEw266K Mechanical Engineering Design Projects
+                                       General Course Information
+                                               Summer Session 2019
+MEw266K LECTURE:                      Meets in ECJ 1.308
+                                      Unique #76590, MW 2:00 pm - 5:00 pm
+INSTRUCTOR:                           Dr. Richard Crawford, ETC 4.108, 512-471-3030, 512-656-6942 (cell)
+                                      Office Hours: MWF 11:00 am-12:00 pm, or by appointment
+                                      Email: rhc@mail.utexas.edu
+ME266P LABS:                                   All labs meet in ETC 4.110
+                                   76595         MW             11:30 am to 2:00 pm
+                                   76600         MW             9:00 am to 11:30 am
+                                                Times Subject to Change
+TEACHING ASSISTANTS:                    To be Announced
+PREREQUISITES:                           For MEw266K: Mechanical Engineering 344, 144L or 244L, 353, and 366J
+                                         with a grade of at least C- in each.
+TOPICS IN THE COURSE: Students will meet for lectures for a limited number of the scheduled dates
+throughout the semester. Most of the lectures will take place during the first half of the semester. Later in the
+semester, the class will meet at strategic times to discuss progress on projects and engineering topics of relevance to
+the projects. The following list is an overview of topics to be discussed, subject to change:
+        Introduction, Site Visit, Project Notebook, Project Statement, Design Processes
+        Project Proposal, Project Management (Gantt Charts)
+        Product and Personal Liability of Engineers
+        Intellectual Property – Patents, Copyrights, and Trademarks
+        Professionalism, Ethics, and Environmental Responsibilities
+        Evaluating Alternatives in Design
+        Design Analysis
+        Final Written Report
+        Final Oral Presentation
+ADD/DROP DEADLINES:
+         June 7, 2019            Last add/drop date. After this date, changes in registration require the approval of
+                                 the department chair and usually the student’s dean.
+         June 11, 2019           Last day an undergraduate may add a course except for rare and extenuating
+                                 circumstances. This is also the last day to drop this course for a possible refund.
+         August 16, 2019         Last class day for second-term and whole-session classes. Last day an
+                                 undergraduate student may drop a second-term or whole-session class, except for
+                                 urgent and substantiated nonacademic reasons.
+EVALUATIONS OF THE COURSE are performed at the completion of the course using the approved Cockrell
+School of Engineering common form.
+                                                             1
+
+
+                                                       Syllabus
+COURSE OBJECTIVES
+This course is the culmination of your undergraduate engineering education. To be enrolled in this course, you must
+have completed all core courses in the BSME degree curriculum, excluding one or more technical area block
+courses. As part of a three- or four-member student team, you will apply your engineering skills to a design project,
+with the guidance and advice of faculty members. Many of these projects are sponsored by industry, while others are
+proposed by faculty members. All projects represent current areas of concern to the sponsors, who frequently
+implement the students’ design solutions.
+A core requirement of this course is application of engineering design methodology to solve the problem. This
+means that each student team must follow a systematic approach, employing both engineering analysis and
+synthesis, throughout the design project.
+ME Program Outcomes:
+The faculty of the Department of Mechanical Engineering has established 10 Program Outcomes that define the
+basic skills and abilities that each graduate of the department will successfully acquire. Each course in the
+curriculum is designed to address one or more of these Program Outcomes. Demonstration of the following
+outcomes is expected of each student who successfully completes MEw266K/MEw266P:
+1.   Knowledge of and ability to apply engineering and science fundamentals to real problems.
+2.   Ability to formulate and solve open-ended problems.
+3.   Ability to design mechanical components, systems, and processes.
+4.   Ability to set up, conduct and interpret experiments, and to present the results in a professional manner.
+5.   Ability to use modern computer tools in mechanical engineering.
+6.   Ability to communicate in written, oral and graphical forms.
+7.   Ability to work in teams and apply interpersonal skills in engineering contexts.
+Course-specific objectives:
+Each student who successfully completes this course will demonstrate the ability to:
+1.   Work in a team to solve a significant, open-ended engineering problem.
+2.   Combine structured design methods and techniques into an appropriate design process.
+3.   Apply project management techniques throughout all stages of a design project.
+4.   Apply task clarification techniques to identify and clearly state an engineering problem, or apply root cause
+     analysis to identify the sources of an engineering or technical problem.
+5.   Generate alternative solutions to an engineering problem.
+6.   Make engineering decisions using QUANTITATIVE techniques.
+7.   Apply appropriate engineering analysis to predict performance and develop details of solutions to engineering
+     problems, or develop and perform experiments, analyze the resulting data, and draw correct conclusions about
+     the data Carrying out detailed engineering analysis is one of the most important objectives of this course.
+     Note that “tinkering” to get a prototype to work without sound engineering predictions does not fulfill this
+     objective.
+8.   Communicate engineering information in graphical, oral, and written forms.
+In addition, each student must be knowledgeable about:
+1.   Engineering professionalism and ethics.
+2.   Product and engineering liability.
+3.   Safety considerations and obligations for protection of life, health, and property.
+4.   Other considerations important to the professional engineer.
+                                                            2
+
+
+COURSE STRUCTURE
+1. Three-hour LECTURES (MEw266K) are presented at selected times throughout the semester to introduce
+    material of broad interest and value to students engaged in engineering design projects. Lectures will be held
+    during the first three weeks of the semester, the week after the scheduled oral design review, and once before
+    and once after the final presentations.
+2.  Scheduled LABORATORY SECTIONS (MEw266P) meet two times a week for 2 ½ hours at a time to allow
+    teaching assistants to supervise and monitor each project closely.
+    LABORATORY GROUPS include teams of three or four persons each. Each team receives a different project
+    assignment (the team’s stated preferences are considered as much as possible). Student teams schedule regular
+    meeting times with their TA during the laboratory time. Teams usually visit the sponsoring institution’s
+    facilities to define the design problem clearly and become acquainted with the sponsor representative.
+3.  ATTENDANCE is required by all students at all scheduled lectures and laboratories.
+4.  Each team is required to have a FACULTY ADVISOR. The team is expected to work with their Faculty
+    Advisor throughout the semester.
+5.  Each team will produce a series of reports and presentations as the semester progresses, culminating in a final
+    WRITTEN REPORT. Grades on the final report will focus on quality and completeness rather than on
+    quantity and effort alone. Sponsor and faculty advisor feedback will be used to determine final grades.
+    Dr. Crawford grades the final written report. The student manual has a sample final report grading sheet.
+    A FINAL ORAL PRESENTATION is given to the sponsors, faculty, and Mechanical Engineering students.
+    The presentations are graded by the entire MEw266K teaching staff. The student manual has a sample oral
+    presentation grading-sheet. The final presentation and final report take the place of a final exam.
+GRADES
+Grades are based on the assignments and weights shown below.
+                Team Grades                                                                    Weight
+                Oral Presentations (Project Statement, Project Proposal, Design Review)             6%
+                                                                                               (2% each)
+                Written Project Proposal                                                           4%
+                Gantt Chart                                                                        2%
+                Design Review Report                                                               5%
+                Outline of Final Written Report                                                    1%
+                Project Webshot                                                                    2%
+                Written Final Report (includes prototypes and related items if applicable)        40%
+                Oral Presentation to sponsors & faculty                                           20%
+                Individual Grades
+                Lecture and Lab Attendance                                                         5%
+                Project Notebook                                                                  15%
+                Total                                                                           100%
+                                                           3
+
+
+As the table shows, 75% of your grade is based on the final oral presentation, the final written report, and the project
+notebook. Also, 50% of the final written report (20% of the total points for the course) is based on the quality of the
+design solution. Thus, the four most important factors in determining your final grade are:
+    1.    The quality of the design solution;
+    2.    The quality of the final written report;
+    3.    The quality of the final oral presentation; and
+    4.    The quality of your project notebook.
+Final grades for the class are assigned on the plus/minus (+/-) grading system according to the following scale:
+                                                      91-100    A
+                                                      90        A-
+                                                      89        B+
+                                                      81-88     B
+                                                      80        B-
+                                                      79        C+
+                                                      71-78     C
+                                                      70        C-
+                                                      69        D+
+                                                      61-68     D
+                                                      60        D-
+                                                      ≤59       F
+The following considerations may result in grade adjustments:
+1.  GRADES FOR INDIVIDUAL STUDENTS may be adjusted up or down to account for differences in
+    performance of individual members of a design team, based on peer evaluations and evaluations by TAs.
+2.  LECTURE ABSENCES may result in modification of an individual student’s final grade.
+3.  FAILURE TO WORK WITH YOUR FACULTY ADVISOR OR SPONSOR will result in a significant
+    grade reduction.
+COURSE GUIDELINES
+1. TEXT: None. Course materials are provided via the course's Canvas site (http://canvas.utexas.edu/).
+2.    DESIGN NOTEBOOK: Each team member will use the provided Google Docs notebook template to record
+      design notes, meeting notes, Gantt charts, sketches, calculations, research and patent information, experimental
+      data, and related items pertaining to the project. You should create and use a "UTmail" (Google for Edu)
+      account to store your notebook file in your associated UTmail Google Drive instance. The TA periodically
+      reviews the notebooks—you will export your current notebook as a pdf and upload it to the appropriate Canvas
+      assignment (NotebookCheck1, NotebookCheck2, NotebookFinal). At the end of the semester, each student
+      will also include their notebook pdf in the team's UT Box folder which you share to your sponsor.
+3.    DEADLINES for the required reports and oral presentations determine the pace of the course. Each student
+      receives a course schedule (inside the front cover of the bluebook) that lists all deadlines for submission of
+      individual and team reports. Grade deductions may result for any work received after the specified deadline (if
+      the work is accepted). There will be no deadline extensions.
+4.    The UNIVERSITY WRITING CENTER (http://uwc.utexas.edu/) provides free writing assistance for any
+      UT undergraduate, by appointment or on a drop-in basis. The UWC is located on the second floor of the Perry
+      Castaneda Library (PCL 2.330). Call 512-471-6222 for appointments or information.
+                                                            4
+
+
+5.  ONLINE VIDEO WEBCASTS of previous Final Presentations are available for viewing. You will need to
+    download and unzip the folder before viewing. Click default.html and you should be able to watch the video:
+        UTME IFRC - Fall 2018: https://utexas.box.com/s/g7mcmgjyvjttjjvbuecgegrjbxj4zwga
+        UTME Fixture - Summer 2018: https://utexas.box.com/s/lu6h9lgozuy0dwxq2zajnyizm408es9g
+6.  University policy on ACADEMIC DISHONESTY will be followed in this course. In particular, plagiarism
+    will be dealt with severely, including unreferenced copying of material (both written and graphical) from the
+    Internet. ALL information retrieved from the Internet and included in any report or presentation must be
+    properly cited. ALL graphical or tabular material taken from an outside source must have a reference in the
+    caption. This includes material in appendices as well as the main text of your reports. If such material is not
+    referenced, you are implicitly taking credit for generating the material. DO NOT COPY UNCITED
+    MATERIAL FROM THE INTERNET. WE WILL DEDUCT 10 POINTS FROM YOUR REPORT
+    GRADE FOR EACH INCIDENCE OF AN UNCITED FIGURE FROM AN OUTSIDE SOURCE.
+7.  By UT Austin policy, you must notify the professor and/or TA of your pending absence at least fourteen days
+    prior to the date of observance of a RELIGIOUS HOLY DAY. If you must miss a class or lab, a work
+    assignment, or a project in order to observe a religious holy day, you will be given an opportunity to complete
+    the missed work within a reasonable time before or after the absence, as determined by the professor.
+8.  DISABILITIES ASSISTANCE: The University of Texas at Austin provides, upon request, appropriate
+    academic adjustments for qualified students with disabilities. For more information, contact UT Services for
+    Students with Disabilities (SSD) at 512-471-6259 (Video Phone: 512-410-6644). ssd@austin.utexas.edu.
+    http://diversity.utexas.edu/disability/. The SSD office is in the Student Services Building, Room 4.206
+9.  This course carries the Independent Inquiry flag. Independent Inquiry courses are designed to engage you in
+    the process of inquiry over the course of a semester, providing you with the opportunity for independent
+    investigation of a question, problem, or project related to your major. A substantial portion of your grade will
+    come from the independent investigation and presentation of your own work.
+10. This course carries the Writing Flag. Writing Flag courses are designed to give students experience with
+    writing in an academic discipline. In this class, you can expect to write regularly during the semester, complete
+    substantial writing projects, and receive feedback from your instructor to help you improve your writing. You
+    will also have the opportunity to revise one or more assignments. A substantial portion of your grade will come
+    from your written work. Writing Flag classes meet the Core Communications objectives of Critical Thinking,
+    Communication, Teamwork, and Personal Responsibility, established by the Texas Higher Education
+    Coordinating Board.
+                                                           5
+
+
+                                Major Activities and Due Dates
+                                                                          PERCENT OF
+                                                                          FINAL GRADE
+                         ACTIVITY                           DUE DATE       (if applicable)
+Form teams                                                     June 6
+Teams submit project preferences by 8AM                        June 7
+Teams receive project assignment by appointment in ETC         June 7
+4.110
+Be prepared to sign or turn in the following items:
+    Completed “Assumptions about Teams” form                   June 7
+    Release and Indemnification                                June 7
+    Special Intellectual Property Assignment for Students      June 7
+Teams perform patent searches                             June 10 – Aug 5
+Teams go on site visit                                      June 11 – 14
+Teams pick faculty advisor                                    June 17
+Problem statement presentations in lab                      June 17 – 18          2
+Discuss Gantt chart & spec sheet with Dr. Crawford          June 20 – 21
+Submit TMCRs and peer evaluations                             June 24
+Project proposal presentation in lab                        June 24 – 25          2
+Project proposal reports due in lab                         June 24 – 25          4
+Project proposal reports sent to sponsors                     June 28
+Get agreement on proposal from sponsor                          July 5
+Begin synopsis form                                             July 8
+Design review presentations                                 July 15 – 16          2
+Synopsis form due                                           July 17 – 18
+Review Gantt chart and notebook in lab                      July 17 – 18          2
+Submit peer evaluations and TMCRs                              July 17
+Design review report due in lab                                July 24            5
+Outline of report due in lab                                   July 31            1
+Final oral presentations in ETC 4.110                        Aug 5 – 6           20
+Final reports due at noon                                     Aug 13             40
+Final checkout by appointment                                 Aug 14
+Notebooks due at final checkout                               Aug 14             15
+Project Webshot due at final checkout                         Aug 14              2
+                                                     6

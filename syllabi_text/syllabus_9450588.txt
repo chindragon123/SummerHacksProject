@@ -1,0 +1,422 @@
+ARC 385T Lab Methods                                                                   Spring 2019
+MATERIALS CONSERVATION: LAB METHODS
+Course Number:            ARC 385T
+Schedule:                 Wednesday 9:00 am to 12:00 noon
+Location:                 3.108 WMB Lecture; 3.112 WMB Lab
+Instructor:               Izabella Z. Nuckels
+                          izabelladennis@utexas.edu
+Office Hours:             Monday 6:00 pm to 8:00 pm or by appointment
+                          3.112 WMB
+Course Summary
+This course provides an introduction to architectural materials conservation and its
+applicability in the field of historic preservation within the United States. Students will learn
+how to collect, examine, and provide treatment recommendations for the conservation of
+historic building materials.
+Each class will have a lecture and laboratory component. Lectures will cover the physical and
+chemical properties of masonry, concrete, metals, mortars, wood, paintings and coatings, and
+other materials found in historic buildings. Laboratory exercises will cover mortar and historic
+finish analysis, wood identification, solubility, and micro chemical testing. Testing to determine
+products for basic conservation treatments, including cleaning and consolidation, will also be
+covered. Assignments will include laboratory reports, reading responses, a midterm
+examination, and a final independent project that will evaluate materials for a historic site.
+Prerequisite
+Construction I, or with permission of instructor.
+Course Texts
+Torraca, Giorgio. 2009. Lectures on Materials Science for Architectural Conservation. Los
+     Angeles, CA: Getty Conservation Institute. Available at:
+     http://hdl.handle.net/10020/gci_pubs/materials_science_architectural_conserv
+Weaver, Martin E., and F. G. Matero. Conserving Buildings: Guide to Techniques and Materials.
+     New York: Wiley, 1997.
+Readings and reference in the Course Schedule will be available on Canvas or via the web link
+provided in the syllabus.
+Required Supplies
+Laboratory Notebook
+University of Texas at Austin School of Architecture                                             1
+
+
+ARC 385T Lab Methods                                                               Spring 2019
+Grading Policy
+Your final grade will be based on your laboratory reports, midterm examination, final
+independent research project, reading responses, and attendance and participation.
+        Attendance and Participation              10%
+        Reading Responses                         10%
+        Midterm Examination                       20%
+        Laboratory Reports                        25%
+        Independent Research Project              35%
+        Grades:
+        A        93 to 100
+        A-       90 to 92
+        B+       87 to 89
+        B        83 to 86
+        B-       80 to 82
+        C+       77 to 79
+        C        73 to 76
+        C-       70 to 72
+        D+       67 to 69
+        D        63 to 66
+        D-       60 to 62
+        F        59 and below
+Make-up assignments/examinations and grades of “incomplete” are, after prior consultation
+with the instructor, for exceptional circumstances only.
+Assignments
+    1. Reading Responses | Two questions pertaining to the week’s readings will be posted
+        in Canvas and are due before class begins at 9 am on Wednesdays. See Course
+        Schedule for exact deadlines.
+    2. Lab Reports | additional instructions about format will be provided)
+        •    Lab Report #1: Historic Finish Analysis            due April 10, 2019
+        •    Lab Report #2: Water Absorption                    due April 10, 2019
+        •    Lab Report #3: Mortar Analysis                     due April 10, 2019
+        •    Lab Report #4: Wood Identification + Treatment     due May 1, 2019
+        •    Lab Report #5: Microchemical + pH Testing          due May 1, 2019
+        •    Lab Report #6: Treatment Evaluation                due May 1, 2019
+    3. Take Home Midterm Exam | due March 5, 2019 at 5:00 pm via Canvas
+    4. Final Independent Research Project | due on May 8, 2019
+        The final project is an independent materials analysis of a building site. A project
+        template and requirements will be provided.
+        •    Written report is due via Canvas at 9:00 am on May 8, 2019
+        •    Oral presentations will be in class on May 8, 2019
+University of Texas at Austin School of Architecture                                         2
+
+
+ARC 385T Lab Methods                                                                   Spring 2019
+Attendance Policy
+Students are expected to attend all lecture and lab sessions, unless illness, personal
+emergency, or religious holidays prevent such attendance. Please inform the instructor via
+email if you are unable to attend a scheduled class session.
+Religious Holidays
+Notify the instructor at least fourteen days prior to the date of observance of a religious holiday
+or holy day. If this conflicts with a class examination, deadline, or work assignment, an
+alternative opportunity to complete the missed assignment and/or information will be
+arranged.
+Academic Integrity
+UT Austin Code of Conduct
+“The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity, and responsibility. Each member of the university is
+expected to uphold these values through integrity, honesty, trust, fairness, and respect toward
+peers and community.”
+Plagiarism
+Plagiarism is the act of presenting material or work from another source as your own. It is a
+serious academic violation and will be prosecuted under University rules. Additional
+information may be found here: http://deanofstudents.utexas.edu/conduct/
+Accommodations for Students with Disabilities
+Students with a disability should notify the instructor and present a letter from the Services for
+Students with Disabilities office (SSD). SSD can be reached at 512-471-6256. Additional
+information is available here: http://diversity.utexas.edu/disability/
+Cell Phones + Computers
+Please limit cell phone and personal computer usage during lecture and lab sessions. Laptops
+or tablets should not be used for laboratory exercises unless prior arrangements have been
+made with the instructor.
+Emergency Evacuation
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when a fire alarm is activated. Alarm activation or announcement requires exiting
+and assembling outside. Familiarize yourself with all exit doors of each classroom and building
+you may occupy. Remember that the nearest exit door may not be the one you used when
+entering the building. Students requiring assistance in evacuation shall inform their instructor
+in writing during the first week of class. In the event of an evacuation, follow the instruction of
+faculty or class instructors. Do not reenter a building unless given instructions by the following:
+Austin Fire Department, The University of Texas at Austin Police Department, or Fire
+Prevention Services office. Information regarding emergency evacuation routes and
+emergency procedures can be found at: www.utexas.edu/emergency.
+University of Texas at Austin School of Architecture                                              3
+
+
+ARC 385T Lab Methods                                                                  Spring 2019
+SPRING 2019 COURSE SCHEDULE
+WEEK 1 | January 23 | Introduction to Architectural Conservation
+m Lecture | This lecture will review course requirements, discuss the role of an architectural
+    conservator and materials conservation within the field of historic preservation, and
+    introduce the applicability of the course material to professional practice.
+m Lab | The laboratory session will review lab safety and requirements for working in the lab.
+m Readings + Tutorials
+    “AIC Code of Ethics.” American Institute for Conservation of Historic and Artistic Works.
+      Available at: http://www.conservation-us.org/our-organizations/association-
+      (aic)/governance/code-of-ethics-and-guidelines-for-practice#.XDtzAs9KjIE
+    Chairi, Giacomo, and Marco Leona. “The State of Conservation Science,” GCI Newsletter
+        Vol. 20, No. 2 Summer 2005. Available at:
+        http://www.getty.edu/conservation/publications_resources/newsletters/pdf/v20n2.pdf
+    “Safety in the Laboratory.” AIC Conservation Science Tutorials. Available at:
+        http://cool.conservation-us.org/byform/tutorials/conscitut/labsafety/index.html
+m Additional Readings + Reference
+    “Lab Safety Manual.” University of Texas Environmental Health and Safety Office. Available
+        at: https://ehs.utexas.edu/programs/labsafety/documents/Lab-Safety-Manual.pdf
+    Marshall, Philip C. “Are Architectural Conservators Worth Their Salt?” APT Bulletin, Vol. 19,
+        No. 4 (1987), 3-5.
+    Trentelman, Karen. “Training and Education in Conservation Science,” GCI Newsletter Vol.
+        20, No. 2 Summer 2005. Available at:
+        http://www.getty.edu/conservation/publications_resources/newsletters/pdf/v20n2.pdf
+WEEK 2 | January 30 | Examination and Documentation of Architectural Materials
+m Lecture | This lecture will review obtaining and preparing samples of historic building
+    material, using a microscope, and keeping a lab notebook
+m Lab | During the lab, students will practice collecting representative samples of historic
+    materials, using a stereomicroscope, and accurately describing the physical properties of
+    historic building materials.
+m Readings + Tutorials
+    Weaver: Chapter 1 (pages 1 – 2); Chapter 3 (page 12)
+    “Guidelines for Keeping a Laboratory Record.” Rice University Experimental Biosciences.
+        Available at: https://www.ruf.rice.edu/~bioslabs/tools/notebook/notebook.html
+    “Analytical Techniques.” AIC Conservation Science Tutorials. Available at:
+        http://cool.conservation-
+        us.org/byform/tutorials/conscitut/analytical_techniques/analytical_main.html
+University of Texas at Austin School of Architecture                                             4
+
+
+ARC 385T Lab Methods                                                                  Spring 2019
+    Nothnagle, Paul E., William Chambers, and Michael Davidson. “Introduction to
+       Stereomicroscopy.” Nikon Microscopy U. Available at:
+       https://www.microscopyu.com/techniques/stereomicroscopy/introduction-to-
+       stereomicroscopy
+WEEK 3 | February 6 | Architectural Paints and Coatings
+m Lecture | This lecture will discuss the composition of paints and coatings, the laboratory
+    analysis of historic finishes, and how to provide recommendations.
+m Lab | During this lab exercise, students will begin historic finish analysis and color
+    matching.
+m Deadline | Two reading responses due on Canvas.
+m Readings + Tutorials
+    Weaver: Chapter 10 (pages 216 to 231)
+    Chase, Sara P. Preservation Brief 28: Painting Historic Interiors. Washington, DC:
+       Preservation Assistance Division, National Park Service, 1992. Available at:
+       https://www.nps.gov/tps/how-to-preserve/briefs.htm
+    “Color.” AIC Conservation Science Tutorials. Available at: http://cool.conservation-
+       us.org/byform/tutorials/conscitut/color/index.html
+    Derrick, Michelle, Luiz Souza, Tanya Kielisch, Henry Florsheim, and Dusan Stulik.
+       “Embedding Paint Cross-Section Samples in Polyester Resins: Problems and Solutions,”
+       Journal of the American Institute for Conservation, Vol. 33, No. 3 (Autumn-Winter,
+       1994): 227-245.
+    Krotzer, Dorothy. “Practice Points 6, Architectural Finishes: Research and Analysis,” APT
+       Bulletin, Vol. 39, No. 2/3 (2008): 1-6.
+m Additional Readings + Reference
+    Matero, Frank G. and Joel C. Snodgrass. “Understanding Regional Painting Traditions: The
+       New Orleans Exterior Finishes Study,” APT Bulletin, Vol. 24, No. ½ (1992): 36-52
+    Montgomery Ward & Co. “How to Paint for Beauty and Protection.” Montgomery Ward &
+       Co., 1955. Available at:
+       https://archive.org/details/HowToPaintForBeautyAndProtection/
+WEEK 4 | February 13 | Experimental Design
+m Lecture | This lecture will discuss experimentatl design while adhering to the scientific
+    method.
+m Lab | During this lab exercise, continue the historic finish analysis lab.
+m Deadline | Two reading responses due on Canvas.
+m Readings
+    Reedy, Terry J. and Chandra L. Reedy. Principles of Experimental Design for Art
+        Conservation Research. GCI Scientific Program Report. Los Angeles, CA: Getty
+        Conservation Institute, 1992. On Canvas, read Chapters 1 and 2.
+University of Texas at Austin School of Architecture                                            5
+
+
+ARC 385T Lab Methods                                                                   Spring 2019
+    Wolfs, Frank L. H. “APPENDIX E: Introduction to the Scientific Method.” University of
+        Rochester Physics Lab. Available at:
+        http://teacher.nsrl.rochester.edu/phy_labs/appendixe/appendixe.html
+WEEK 5 | February 20 | Measurement of Properties
+m Lecture | This lecture will review the physical and chemical properties of historic
+    architectural materials and the value of laboratory testing. The discussion will highlight
+    porous building materials.
+m Lab | Students will learn to evaluate water absorption of masonry samples using Rilem
+    tubes.
+m Deadline | Two reading responses due on Canvas.
+m Readings
+    Torraco: Part 3 (pages 72 to 95)
+    Charola, A. Elena. “Salts in the Deterioration of Porous Materials: An Overview,” Journal of
+       the American Institute for Conservation, Vol. 39, No. 3 (2000): 50-58.
+    Saldanha, Adrian Gerard and Doris E. Eichberg. “Testing the test: Water Absorption with
+       Rilem Tubes,” The Construction Specifier, Vol. 66, No. 8 (August 2013): 50-58. Available
+       at: https://www.constructionspecifier.com/testing-the-test-water-absorption-with-rilem-
+       tubes/
+m Additional Readings + Reference
+    Park, Sharon C., AIA. Preservation Brief 39: Holding the Line: Controlling Unwanted
+       Moisture in Historic Buildings. Washington, DC: Technical Preservation Services
+       Division, National Park Service, US Department of the Interior,1996. Available at:
+       www.nps.gov/history/hps/tps/briefs/brief39.htm
+WEEK 6 | February 27 | Cements and Limes Part I
+m Lecture | This lecture will review historic concrete, traditional mortars and their properties.
+    Selecting appropriate mortar mixes will be discussed.
+m Lab | Students will conduct mortar analysis of unknown samples.
+m Deadline | Two reading responses due on Canvas. The Take Home Midterm posted on
+    Canvas
+m Readings
+    Weaver: Chapter 7 (pages 133 to 160)
+    Schnabel, Lorraine. “Practice Points 05: Mortar Analysis Part 1: Mortar-Making Materials.”
+        APT Bulletin, Vol. 39, No. 1 (2008): 1-4.
+    Schnabel, Lorraine. “Practice Points 07: Mortar Analysis Part 2: Analytical Methods.” APT
+        Bulletin, Vol. 40, No. 2 (2009): 1-7.
+University of Texas at Austin School of Architecture                                             6
+
+
+ARC 385T Lab Methods                                                                  Spring 2019
+m Additional Readings + Reference
+   Ellis, Peter. “The Analysis of Mortar: The Past 20 Years.” Building Conservation. Available at:
+          http://www.buildingconservation.com/articles/mortar/mortar.htm
+   Gaudette, Paul and Deborah Slaton. Preservation Brief 15: Preservation of Historic
+          Concrete. Washington, DC: Technical Preservation Services Division, National Park
+          Service, US Department of the Interior, 2006. Available at:
+          www.nps.gov/history/hps/tps/briefs/brief15.htm
+   Mack, R. C. and J. P. Speweick. Preservation Brief 2: Repointing Mortar Joints in Historic
+          Masonry Buildings. Washington, DC: Preservation Assistance Division, National Park
+          Service, 1998. Available at: http://www.nps.gov/tps/how-to-preserve/briefs/2-repoint-
+          mortar-joints.htm
+WEEK 7 | March 6 | Cements and Limes Part II
+m Lecture | This lecture will expand on the previous week and review plaster and stucco,
+    patching materials, and developing mortar recommendations.
+m Lab | Students will continue mortar analysis and learn to develop matching mortar
+    recommendations.
+m Deadline | Take Home Midterm due via Canvas on March 6 by 5:00 pm.
+m Readings
+    Torraco: Part 2 (pages 38 to 71)
+    Weaver: Chapter 5 (pages 58 to 98)
+    Krotzer, Dorothy and J. J. Walsh. “Analyzing Mortars and Stuccos at the College of
+          Charleston: a Comprehensive Approach,” APT Bulletin, Vol. 4, No. 1 (2009): 41-48.
+    Schnabel, Lorraine. “Practice Points 11: Mortar Analysis Part 3: Buying the Right Services.”
+          APT Bulletin, Vol. 42, No. 1 (2011): 1-4.
+m Additional Readings + Reference
+    Goins, Elizabeth S. Standard Practice for Determining the Components of Historic
+          Cementitious Materials. National Center for Preservation Training and Technology
+          Materials Research Series, 2002. Available at:
+          https://www.ncptt.nps.gov/blog/standard-practice-for-determining-the-components-
+          of-historic-cementitious-materials-2002-20/
+    Grimmer, Anne. Preservation Brief 22: The Preservation and Repair of Historic Stucco.
+          Washington, DC: Technical Preservation Services Division, National Park Service, US
+          Department of the Interior, 1990. Available at:
+          www.nps.gov/history/hps/tps/briefs/brief22.htm
+    Hampshire County Council. Repointing: Principles, Materials, and Methods. Available at:
+          http://www3.hants.gov.uk/59544_re-pointing.pdf
+University of Texas at Austin School of Architecture                                             7
+
+
+ARC 385T Lab Methods                                                                   Spring 2019
+WEEK 8 | March 13 | Architectural Ceramics [Optional Class: Studio Mexico Trip]
+m Lecture | This lecture will review the characteristics of architectural ceramics, including
+    brick and terracotta. Appropriate conservation treatments will be discussed.
+m Lab | During this lab, students will learn how to develop recommendations for brick
+    replacements.
+m Readings
+    Weaver: Chapter 6 (pages 99 to 132)
+    Gerns, Edward and Rachel Will. “Architectural Terra Cotta,” APT Bulletin, Vol. 47, No. 2/3
+         (2015): 1-8.
+Spring Break | March 20 | No Class
+WEEK 9 | March 27 | Wood
+m Lecture | This lecture will review the properties and structure of wood used in construction.
+m Lab | Students will identify wood species through magnification. Basic wood treatments
+    will be tested.
+m Deadline | Two reading responses due on Canvas.
+m Readings
+    Weaver: Chapter 4 (pages 13 – 57)
+    Anthony, R. W. “Basics of Wood Inspection: Considerations for Historic Preservation,” APT
+         Bulletin, Vol. 38, No. 2/3 (2007): 1-6.
+    Bond, B. and P. Hamner. Wood Identification for Hardwood and Softwood Species Native
+         to Tennessee. Knoxville, TN: Agricultural Extension Service, University of Tennessee.
+    Miller, Regis B. “Chapter 2: Structure of Wood,” in Wood Handbook: Wood as an
+         Engineering Material. Madison, WI: USDA Forest Service, Forest Products Laboratory,
+         2010. Available at: https://www.fpl.fs.fed.us/documnts/fplgtr/fplgtr113/fplgtr113.htm
+    Simpson, William and Anton TenWolde. “Chapter 3: Physical Properties and Moisture
+         Relations of Wood,” in Wood Handbook: Wood as an Engineering Material. Madison,
+         WI: USDA Forest Service, Forest Products Laboratory, 2010. Available at:
+         https://www.fpl.fs.fed.us/documnts/fplgtr/fplgtr113/fplgtr113.htm
+m Additional Readings + Reference
+    Glass, Samuel V. and Samuel L. Zelinka. “Conservation of Historic Timber Structures: An
+         Ecologic Approach,” ICOMOS, 2016. Available at:
+         http://openarchive.icomos.org/1656/1/Conservation_of_Historic_Timber_Structures-
+         2.pdf
+    Meier, Eric. The Wood Database. Available at: https://www.wood-database.com/
+University of Texas at Austin School of Architecture                                             8
+
+
+ARC 385T Lab Methods                                                                Spring 2019
+    Weeks, Kay D. and David W. Look, AIA. Preservation Brief 10: Exterior Paint Problems on
+        Historic Woodwork. Washington, DC: Technical Preservation Services Division,
+        National Park Service, US Department of the Interior. Available at:
+        www.nps.gov/history/hps/tps/briefs/brief10.htm
+WEEK 10 | April 3 | Metals
+m Lecture | This lecture will review the composition of metals used in historic buildings as
+    well as their chemical and physical properties.
+m Lab | Students will observe and record the physical characteristics of different metals. At
+    the end of the lab period, students may continue testing wood treatments.
+m Deadline | Two reading responses due on Canvas.
+m Readings + Tutorials
+    Torraco: Part 5 (pages 110 to 146)
+    Weaver: Chapter 9 (pages 175 to 215)
+    Morris, Jamie Clapper and Deborah Slaton. “Modern Metals: Finishes, Investigation, and
+        Conservation Considerations,” APT Bulletin, Vol. 46, No. 1 (2015): 29-38.
+    Waite, John G., AIA. Preservation Brief 27: The Maintenance and Repair of Architectural
+       Cast Iron. Washington, DC: Technical Preservation Services Division, National Park
+       Service, US Department of the Interior, 1991. Available at:
+       www.nps.gov/history/hps/tps/briefs/brief27.htm
+WEEK 11 | April 10 | Micro Chemical and pH Testing
+m Lecture | Micro chemical pH testing are techniques that can help to identify a variety of
+    architectural materials and the success of treatments. The techniques and applicability will
+    be reviewed.
+m Lab | Students will conduct micro chemical tests to identify metals and paint pigments, and
+    pH tests of masonry materials.
+m Deadline | The below Lab Reports are at the beginning of class (printed out).
+             o   Lab Report #1: Historic Finish Analysis
+             o   Lab Report #2: Water Absorption
+             o   Lab Report #3: Mortar Analysis
+m Readings
+    AIC. “Chapter: 10 Spot Tests,” in AIC Paper Conservation Catalog. Available at:
+        https://www.conservation-wiki.com/wiki/Paper_Conservation_Catalog
+       (Read pages 1-9).
+    Tse, Season. “Guidelines for pH Measurement in Conservation,” Canada: Canadian
+       Conservation Institute Department of Canadian Heritage, 2007.
+University of Texas at Austin School of Architecture                                            9
+
+
+ARC 385T Lab Methods                                                                  Spring 2019
+Week 12 | April 17 | Solvents and Solubility
+m Lecture | Solvents and solubility is essential to basic architectural conservation. Solubility
+    testing is used to identify materials and appropriate conservation treatments.
+m Lab | During this lab, students will test the solubility of unknown samples.
+m Deadline | Two reading responses due on Canvas.
+m Readings + Tutorials
+    Torraco: Part 1 (pages 30 to 37) and Part 4 (pages 96 to 109)
+    Weaver: Chapter 8 (pages 161 to 174)
+    “Chapter 3: Liquids and Solutions,” “Chapter 4: Organic Solvents,” “Chapter 5: Cleaning
+       with Water,” and “Chapter 6: Water Acidity and Alkalinity,” in Science for Conservators:
+       Book 2 Cleaning, pp. 35-103. London: Crafts Council, 1983. (electronic resource
+       available through UT Libraries).
+    Jacob, Judith M., Michaela Schmull, and Federica Villa. “Biofilms and Lichens on Eroded
+       Marble Monuments: Reconsidering Cleaning,” APT Bulletin, Vol. 49, No. 2/3 (2018): 55-
+       60.
+    “Soaps, Surfactants, and Detergents,” AIC Conservation Science Tutorials. Available at:
+       http://cool.conservation-us.org/byform/tutorials/conscitut/soapsetc/
+Week 13 | April 24 | Treatment Evaluation
+m Lecture | This lecture will discuss conservation treatments and the importance of
+    laboratory testing in selecting appropriate treatments.
+m Lab | During this lab, students will conduct treatment evaluations, including measuring
+    physical and chemical properties before and after treatment.
+m Deadline | Two reading responses due on Canvas.
+m Readings
+    Charola, A. Elena. “Laboratory Testing and Evaluation of Proposed Masonry Treatments,”
+       APT Bulletin, Vol. 26, No. 4 (1995): 35-39.
+    Doehne, Eric and Clifford A. Price. “Chapter 3: Do They Work: Assessing the Effectiveness
+       of Treatments,” in Stone Conservation: An Overview of Current Research. Los Angeles:
+                                       nd
+       Getty Conservation Institute, 2 Edition, 2010. Available at:
+       http://www.getty.edu/conservation/publications_resources/pdf_publications/stone_con
+       s_2nd_edit.html
+    Searls, Carolyn L. and David P. Wessel. “Guidelines for Consolidants,” APT Bulletin, Vol. 26,
+       No. 4 (1995): 35-39.
+Week 14 | May 1 | Advanced Analytical Investigation
+m Lecture | This lecture will review other methods of non-destructive evaluation to examine
+    architectural materials. These include x-ray diffraction, SEM, and profilometery.
+m Lab | This is an open lab session to complete the final project.
+University of Texas at Austin School of Architecture                                             10
+
+
+ARC 385T Lab Methods                                                                 Spring 2019
+m Deadline | The below Lab Reports are at the beginning of class (printed out)
+        o     Lab Report #4: Wood Identification and Treatment
+        o     Lab Report #5: Microchemical and pH Testing
+        o     Lab Report #6: Treatment Evaluation
+m Readings
+    “Analytical Techniques.” AIC Conservation Science Tutorials. Available at:
+       http://cool.conservation-
+       us.org/byform/tutorials/conscitut/analytical_techniques/index.html
+    Carson, David and Giacomo Chiari. “New Techniques in the Service of Cultural Heritage.”
+       Getty Conservation Institute Newsletter 25.1 (Spring 2010). Available at:
+       http://www.getty.edu/conservation/publications_resources/newsletters/25_1/technolo
+       gies.html
+    Freeland, Joshua L., Brad Shotwell, and Deborah Slaton. “Through the Lens Clearly:
+       Instrumental Analysis as Applied to Architectural Materials,” APT Bulletin, Vol. 38, No. 4
+       (207): 1-4.
+Week 15 | May 8 | Final Presentations
+    m Deadline | Written Final Product due via Canvas (PDF format) at the beginning of class.
+        Students will give oral presentations during class.
+University of Texas at Austin School of Architecture                                            11

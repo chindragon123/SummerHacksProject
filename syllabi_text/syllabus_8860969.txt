@@ -1,0 +1,357 @@
+ARC 320D INTERMEDIATE DESIGN STUDIO I: OPERATIONAL                                                    Fall 2018
+MW 1-5:30pm
+INSTRUCTORS (Office hours by appointment)
+Francisca Aroso
+Kory Bieg
+Aleksandra Jaeschke
+Kevin Sullivan
+Sequence and Sensibility: Intuitive Parametric Design Processes
+“A system of differential repetition becomes a means of handling a variety of material within the same
+organization. Just as a single hair is not sufficient to make a hair-do, so too a single element in architecture
+will never reveal the rich organizational possibilities inherent when greater quantities come into play.”
+(Reser + Umemoto, Atlas of Novel Tectonics, 46)
+“Symmetry breaking is not a loss but an increase in organization within an open, flexible, and adaptive
+system. Symmetry is not a sign of underlying order but an indication of a lack of order due to an absence
+of interaction with larger external forces and environments.” (Greg Lynn, Folds, Bodies & Blobs, 70)
+“There are many ways to inhabit space, and so there are many ways to handle an airplane...what these
+extreme states and activities have in common is sudden precipitation and total blending of wild fluxes, in
+an organic computational ensemble that defies both predetermination and ‘hard,’ or rational, control...The
+cardinal rule for survival in aerial combat: Never become predictable. What better slogan for the creation of
+a truly modern – and wild – architecture.” (Sanford Kwinter, Flying the Bullet, 78)
+PREREQUISITES
+ARC 310L and 311L with a grade of at least C in each. Registration for Architecture 221K or
+Architectural Interior Design 221K.
+
+
+CURRICULUM FLAG
+This course carries the Independent Inquiry flag. Independent Inquiry courses are designed to
+engage students in the process of inquiry over the course of a semester, providing a student
+with the opportunity for independent investigation of a question, problem, or project related to
+the student’s major. At least one-third of the grade will be based on independent investigation
+and presentation of one’s own work.
+INTERMEDIATE DESIGN STUDIO
+Students pursuing the Bachelor of Architecture must complete four Intermediate Design
+Studios during their second and third years. Building on the Foundation Design Studios taken
+during the first year, the goal of the Intermediate Studios is to prepare students for Advanced
+Design Studios in their fourth and fifth years.
+Each Intermediate Studio will be structured around one of four broad themes of inquiry
+(Operational, Environmental, Integration, and Speculation) and will offer a critical framework
+and vocabularies for design and development into key issues emphasized in the theme.
+Intermediate Studios will also serve as a platform to prepare students for the range of offerings
+of the Advanced Studios (e.g. Comprehensive, Urban Design, Landscape Architecture, etc.).
+Intermediate Studios will follow a similar structure, but each instructor will individually
+determine the scope and design problem for each studio.
+THEME: OPERATIONAL
+The Operational Studio emphasizes architecture as a formal exploration. Students will use new
+tools for the design and fabrication of formally complex projects while considering the
+possibilities of software to produce architecture. Projects will be designed using a step-by-step
+process that generates a cohesive whole from an assemblage of parts. Each part will exist
+within a parametric network that develops as the project grows. Each part will be linked to the
+others through a set of rules that guide the morphogenesis of the whole, such that a change to
+either part or whole will have a ripple effect throughout the project. The project will be in a
+constant state of flux as new issues find their way to the forefront. By building parametric
+relationships from the bottom-up, students will know the mechanics of their project, yet have
+the freedom to improvise within the bounds of a rule-based framework. Students will be tasked
+with balancing an intuitive approach to form-making with an operational design methodology.
+The semester will be divided into 4 assignments. The first assignment will focus on the research
+and analysis of a precedent project, while the second will ask students to design a three-
+dimensional physical construct using their analysis as a set of instructions. The first two projects
+will be completed in groups of two. The third project will be a short transitional project, in
+which students will deploy their project on a site using both intuitive and rule-based design
+methodologies. The final project will be a building design using tactics developed during the
+warm-up assignments.
+The studio will rely on digital technologies (software + hardware) for the execution of projects.
+Instruction will be given via desk-crits, tutorials, group pin-ups, and reviews.
+
+
+COURSE DESCRIPTION
+Parametric design is an approach that fuses computational tools with a design process in which
+the parameters of a building’s parts are connected – the whole is a sum of the parts and a
+change to a part affects the form of the whole. A parametric design approach is one in which
+the designer instantiates parts; each part the product of a set of parameters that exist within a
+minimum and maximum range, and under a defined set of constraints. By thinking of a building
+as a system in which everything is related, as opposed to a discrete object, architects can layer
+complexity into a design without having to re-coordinate an entire set of drawings every time a
+change is made.
+As digital fabrication technologies advance, we are no longer beholden to the limitations
+imposed by mass manufacturing. Parts can differentiate across a surface while adjusting to
+extremely local conditions imposed by context or the environment. Or, parts can be altogether
+unique from one to the next.
+The intersection of a parametric theory and the advance of new technologies has changed the
+way many architects design. Rather than follow a top-down approach in which some overall
+vision is sketched on paper and then articulated through details, a parametric approach works
+from the bottom-up and the whole emerges from a series of executable steps.
+Of course, architects have a unique sensibility that cannot be entirely translated to
+computational design processes. This studio will challenge students to find a balance between a
+parametric design process and a personal set of interests. Students will develop an operational
+logic through which these issues will be explored.
+STUDIO STRUCTURE
+Assignment #1: Research and Analysis (1.5 weeks)
+10% of final grade
+Students will work in pairs
+Assignment #2: Operational Construct (2.5 weeks)
+10% of final grade
+Students will work in pairs
+Assignment #3: Site Intervention (2.5 weeks);
+20% of final grade
+Students will work individually
+Assignment #4: Main project, approx. 10,000 SF Building (7 weeks);
+60% of final grade
+Students will work individually
+
+
+LEARNING OUTCOMES
+Students will be exposed to a series of learning goals several times and from different angles
+over the four Intermediate Studio sequence. The goal is that similar issues are repeated from
+studio to studio but from different angles, allowing students to find, within the diversity of the
+topics, a “common thread” as they go through the sequence of the four studios. The level of
+expectation will grow as students go from being introduced to an issue, to becoming competent
+at it. Some issues would be only mentioned in passing in one studio but will be studied in more
+depth in another.
+     •  Design Composition Skills: Developed through three-dimensional architectural form and
+        space, both exterior and interior; building envelope
+     •  Design Integration Skills: Demonstrated through creative engagement with issues of
+        materiality, structures, construction, and environmental system
+     •  Site Analysis and Design: Developed through the creative engagement with relevant
+        contextual; environmental and programmatic factors underlying the project
+     •  Critical Thinking: Quality of conceptual and critical thought; learning from precedents;
+        research skills
+     •  Graphic Skills: Quality of presentation; clarity of communication; appropriateness of
+        media strategy and level of skill displayed
+     •  Basic grasp of accessibility and egress
+     •  Collaborative and Leadership Skills: Demonstrated through the active engagement in all
+        activities of the studio
+STUDIO CULTURE
+The School of Architecture believes in the value of the design studio model. Studio learning
+encourages dialogue, collaboration, risk-taking, innovation, and learning-by-doing. The studio
+offers an environment where students can come together to ask questions and make proposals,
+which are developed and discussed among classmates, faculty, visiting professionals, and the
+public-at-large. Studio learning offers intensive one-on-one instruction from faculty members,
+and provides the opportunity for each student to develop his/her critical thinking skills and
+spatial and material sensibilities. The design studio offers a synthetic form of education, where
+project-based learning becomes the foundation for developing an understanding of and
+commitment to the school's core values — broadmindedness, interconnectivity,
+professionalism, exploration and activism — all in service of architecture's fundamental
+mission: to improve the quality of the built and natural environments.
+https://soa.utexas.edu/programs/architecture/architecture-studio-culture
+DESIGN CONVERSATIONS: JESSEN LECTURES
+The School of Architecture offers a wide range of opportunities for students to extend the
+design conversations taken place in studios (Lecture Series, Goldsmith Talks, Exhibitions, etc).
+Students are encouraged to participate and be engaged. Specifically, all B.Arch and BSAS
+students in studio are expected to attend all the Jessen Lectures (three per semester by lead
+practitioners from around the world). The lectures and the group discussions in studio that
+
+
+follow are important for the holistic education of intellectually engaged students and
+participation will have an impact on students’ grades (see below).
+EVALUATION CRITERIA
+While each project contains certain quantifiable elements for evaluation, a significant portion
+of each grade is derived from broader and more subjective criteria.
+Student work will be evaluated according to its rigor and evolution over the semester. Grades
+are subject to deductions for late arrivals, absences, and late or incomplete work at the
+discretion of the instructor.
+Grading for an assignment is broken into four components, each of which is given roughly equal
+weight:
+    Pursuit: the consistent and rigorous development and testing of ideas.
+        • The ability to formulate a query or thesis and pursue a self-determined concomitant
+            method of inquiry
+        • The ability to identify and implement various processual mechanisms (software,
+            sketch drawing and models, etc.) in the development of the design
+        • Initiative as demonstrated in work ethic – Does the student do what is asked; go
+            beyond what is asked; direct their own efforts; eager to produce the next iteration
+            of the design?
+    Grasp: the ideas and understanding of the project at hand and integration of knowledge
+    introduced in companion courses.
+        • A strong and clearly stated design objective
+        • Spatial acuity as demonstrated in plan – including reasonable disposition of
+            programmatic elements – and sectional development
+        • Synthetic and critical thinking; the ability to holistically organize a project as
+            demonstrated through creative engagement with issues of materiality, structures
+            and construction, structural and environmental system integration, building
+            materials and assembly, sustainable practices, etc. in support of the design objective
+        • Structural competence and material sensitivity as demonstrated in wall thickness,
+            floor plates, and assembly
+    Resolution: of the design objective; the demonstration of competence, completeness, and
+    finesse in the final design presentation.
+        • Quality of presentation; clarity of communication; appropriateness of media
+            strategy and level of skill displayed through the work presented at all stages of the
+            design process; technical documentation
+    Engagement: the active participation in studio activities, leadership, collaboration, group
+    discussions and reviews.
+
+
+A student must earn a letter grade of C or better in order for the course to count towards a
+degree in the School of Architecture and to progress in to the next studio. A letter grade of C-
+will not satisfy degree requirements.
+GRADE DESCRIPTIONS
+A/A-           Excellent
+               Project surpasses expectations in terms of inventiveness, appropriateness, visual
+               language, conceptual rigor, craft, and personal development. Student pursues
+               concepts and techniques above and beyond what is discussed in class. Project is
+               complete on all levels.
+B+/B/B-        Above Average
+               Project is thorough, well presented, diligently pursued, and successfully
+               completed. Student pursues ideas and suggestions presented in class and puts in
+               effort to resolve required projects. Project is complete on all levels and
+               demonstrates potential for excellence.
+C+/C           Average
+               Project meets the minimum requirements. Suggestions made in class and not
+               pursued with dedication and rigor. Project is incomplete in one or more areas.
+C-/D+/D/D- Poor
+               Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of
+               presentation are not level-appropriate. Student does not demonstrate the
+               required competence and knowledge base.
+F              Fail
+               Project is unresolved. Minimum objectives are not met. Performance is not
+               acceptable. Note that this grade will be assigned when students have excessive
+               unexcused absences.
+X              Excused Incomplete
+               Can be given only for legitimate reasons of illness or family emergency. Simply not
+               completing work on time is not an adequate cause for assigning this evaluation. It
+               may only be used after consultation with the Associate Deans' offices and with an
+               agreement as to a new completion date. Work must be completed before the
+               second week of the next semester in which the student is enrolling, according to
+               the School of Architecture policy.
+ATTENDANCE
+Attendance is mandatory. Participation is expected. With three (3) unexcused absences, the
+student’s final grade for the course will be lowered by a full letter grade. The final grade will be
+lowered by a full letter grade for each unexcused absence thereafter. Aside from religious
+
+
+observances, absences are only excused with written documentation of a medical issue or
+family emergency. The student is responsible for completing work missed due to excused
+absences and initiating communication with the instructor to determine due dates.
+If a student is late (5 minutes after the start of class) three (3) times, it will be counted as one
+(1) unexcused absence. Students should notify the instructor prior to class if lateness or
+absence is known in advance. Students must notify instructors directly regarding lateness or
+absences; Asking a classmate to inform the instructor is not acceptable.
+RELIGIOUS OBSERVANCES
+A student shall be excused from attending classes of other required activities, including
+examinations, for the observance of a religious holy day, including travel for the purpose. A
+student whose absence is excused under this subsection may not be penalized for that absence
+and shall be allowed to take an examination or complete an assignment from which the student
+is excused within a reasonable time after the absence. University policy requires students to
+notify each of their instructors as far in advance of the absence as possible so that
+arrangements can be made.
+ACADEMIC INTEGRITY
+Students who violate University policy on academic integrity are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University.
+Since such dishonesty harms the individual, all students, and the integrity of the University,
+policies on academic integrity will be strictly enforced. Refer to the Student Conduct and
+Academic Integrity website for official University policies and procedures on academic integrity:
+http://deanofstudents.utexas.edu/conduct/academicintegrity.php. University Code of Conduct:
+http://catalog.utexas.edu/general-information/the-university/#universitycodeofconduct
+CARE PROGRAM
+Counselors in Academic Residence (CARE) Program places licensed mental health professionals
+within the colleges or schools they serve in order to provide better access to mental health
+support for students who are struggling emotionally and/or academically.
+Abby Simpson is the CARE counselor for the School of Architecture. Faculty and staff may refer
+students to the CARE counselor or students may directly reach out to her.
+Abby Simpson | BTL 114B | (512) 471-3115
+https://cmhc.utexas.edu/CARE_simpson.html
+STUDENTS WITH DISABILITIES
+Students with disabilities who require special accommodations need to obtain a letter that
+documents the disability from the Services for Students with Disabilities area of the Office of
+the Dean of Students (471-6259 voice or 471-4641 TTY for users who are deaf or hard of
+hearing). This letter should be presented to the instructor in each course at the beginning of the
+semester and accommodations needed should be discussed at that time.
+http://diversity.utexas.edu/disability/
+
+
+SECURITY, SAFETY, AND THE STUDIO
+The studio is an exceptional learning environment. Since it is a place for all, it necessitates the
+careful attention to the needs of everyone. All spraying of fixative, spray paint, or any other
+substance should be done in the shop. Security is a necessary component for a studio that is
+accessible to you and your colleagues 24 hours a day, 7 days a week. Do not leave your studio
+without your studio key and do not leave your studio unlocked. Hold yourself and your
+studiomates accountable for the security of your shared space.
+COURSE REQUIREMENTS
+ Students are required to have a laptop computer that is capable of running high performance 2d
+and 3d software applications, including Adobe Illustrator, Adobe Photoshop, Rhino, Grasshopper,
+and Autodesk 3ds Max. All programs should be 2015 versions of later.
+Weekly progress and participation in class pin-ups, desk crits and reviews is required, including
+completion of assigned readings and participation in discussions. Students are expected to have
+new work for each class that is printed on min. 8.5” x 11” for desk-crits and larger plots for pin-
+ups and reviews.
+The submission of high quality final renders (jpeg format), progress renders, 3d digital models,
+final boards, full documentation of project and design process and high quality photographs of
+your models on a flash drive is mandatory. Failure to submit flash drive on the final day of class
+will result in a minimum full letter grade drop in your final grade for the course.
+COURSE SCHEDULE
+WK 1 W.          8/29           Studio Lottery
+                                Handout Precedent List
+                                Handout Assignment 01 | Precedent Research + Analysis
+WK 2 M.          9/3            NO CLASS /// Labor Day
+        W.       9/5
+WK 3 M.          9/10
+        W.       9/12           DUE Assignment 01 | Precedent Research + Analysis
+                                Pin-up | Sutton 4th Floor Hallway
+                                Handout Assignment 02 | Operational Construct
+WK 4 M.          9/17
+        W.       9/19
+WK 5 M.          9/24
+        W.       9/26
+        Th.      9/27           Vis Comm Module 1 DUE
+
+
+WK 6 M.          10/1       DUE Assignment 02 | Operational Construct
+                            Pin-up | Sutton 4th Floor Hallway
+                            Handout Assignment 03
+                            Site Visit
+        W.       10/3
+WK 7 M.          10/8
+        W.       10/10
+WK 8 M.          10/15
+        W.       10/17
+        Th.      10/18      Vis Comm Module 2 DUE
+WK 9 M.          10/22
+        W.       10/24
+WK 10 M.         10/29
+        W.       10/31
+WK 11 M.         11/5
+        W.       11/7
+WK 12 M.         11/12
+        W.       11/14
+WK 13 M.         11/19
+        Tu.      11/20      Vis Comm Module 3 DUE
+        W.       11/21      NO CLASS /// Thanksgiving
+WK 14 M.         11/26
+        W.       11/28
+WK 15 M.         12/3
+        W.       12/5       FINAL REVIEW
+WEB RESOURCES
+www.cgarchitect.com (forum help for 3ds Max and rendering) www.scriptspot.com (free 3ds
+Max scripts)
+www.vray-materials.de (free VRay materials)
+www.shapeways.com (cheap 3d printing, expect 1 month lead time) www.lynda.com (good
+tutorials, all programs)
+
+
+www.archive3d.net (free 3d models)
+http://www.grasshopper3d.com/ (great forum, GH plug-ins, tutorials)
+http://www.food4rhino.com/ (GH plug-ins)
+http://lynda.com (good tutorials, all programs, free with UT email address)
+READING LIST
+Branko Kolarevic. Architecture in the Digital Age: Design and Manufacturing
+(Routledge Publishers, 2003).
+Christopher Beorkrem. Material Strategies in Digital Fabrication (Routledge, 2013).
+Fabio Gramazio, & Matthias Kohler. Digital Materiality in Architecture (Lars Müller Publishers,
+2008).
+Gail Borden. Process: Material and Representation in Architecture (Routledge Press, 2012).
+Greg Lynn. Folds. Bodies & Blobs: Collected Essays (Books-by-Architects, 1998).
+Helmut Pottmann, Andreas Asperl, Michael Hofer, Axel Kilian. Architectural Geometry (Bentley
+Institute Press, 2007).
+Jane Burry + Mark Burry. The New Mathematics of Architecture (Thames & Hudson, 2010).
+Lisa Iwamoto. Digital Fabrications: Architectural and Material Techniques (Princeton
+Architectural Press, 2009).
+Marc Taylor. The Moment of Complexity: Emerging Network Culture (The University of Chicago
+Press, 2001).
+Neil Gershenfeld. FAB- The coming revolution on your desktop-from personal computers to
+personal fabrication (Basic Books, 2005).
+Nick Dunn. Digital Fabrication in Architecture (Laurence King Publishing, 2012).
+Peter Cook. Drawing: the Emotive Force of Architecture, The Drawing Redefined (John Wiley &
+Sons Ltd., 2008) pp. 195-202.
+Robin Evans, Translations from Drawing to Building (MIT Press, 1997) pp. 153-194.
+Reiser + Umemoto, Atlas of Novel Tectonics (Princeton Architectural Press, 2006).
+Rudolf Arnheim. The Dynamics of Architectural Form (University of California Press, 2009)
+Wassim Jabi. Parametric Design for Architecture (Laurence King Publishing, 2013).

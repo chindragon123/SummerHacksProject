@@ -1,0 +1,264 @@
+Reality Capture for Architecture                                                                                          1
+Instructor:       Robert Stepnoski, Senior Lecturer, RP rob@austin.utexas.edu
+                  UT School of Architecture
+                  Office Hours: Virtual Monday – Friday 10-4
+                                                Selection of Historic Landmarks
+description ARC F380C (70404) ARC F328R (70388) LAR F381R (70673)
+         This class instructs students on the technologies of Reality Capture, understanding 3D Point Clouds, and their
+         application to Architecture. Students will study Digital Heritage Preservation of Historic Landmarks in Austin with
+         multiple technologies (LiDAR / Photogrammetry) and create computer models of the environment. The class will
+         contrast the technologies to help students understand when and how to use them for architectural projects.
+         Students will immerse in understanding the Art of The Point Cloud and learn presentation technique with Point
+         Cloud Datasets.
+learning objectives
+         Insight on how to deploy 3D Laser Scanning technologies in the field
+         Discuss the Theory and Science of Photogrammetry
+         Process photogrammetric models to visualize and analyze 3D Point Clouds
+         Insight on how to capture a site with UAVs (drones) flight for photogrammetry
+         Learn methods for UAV driven aerial photogrammetry and documentation
+         Discuss implementing scanning and photogrammetric methods is used in contemporary professional practice
+         Enable students to select the best data capture technique for any given research scenario
+skills to be explored
+         Demonstrate competence in using point clouds from LiDAR and Photogrammetry.
+         Understand how to use reality capture systems to create fast/accurate computer models of existing structures
+         Be able to select the proper technology to suit a project’s needs.
+         Gain understanding of how to use a computer model to better understand a historic structure.
+meetings & time commitment
+    The class meets virtually Tuesdays and Thursdays from 12:15pm – 4:00 pm. Virtual office hours are 10-4 Mon-Fri,
+    and workshop help can be arranged as needed. It is expected that a minimum of 4 - 6 hours outside of the regularly
+    scheduled class meeting time will be necessary to prepare and complete the assignments.
+   Module 1: Welcome (Week 1: Thursday June 4)
+         o Module 1, Session 1.0: Synchronous Lecture: Course Introduction & Overview
+         o Module 1, Session 1.1: Historic Site Point Clouds Around Austin
+                   Student Hardware/Software check.
+                   Pix4D Student License Distribution
+                   Is Pix4D, Recap, 3DS Max, Revit working?
+                   Have you made a successful connection to the UT VPN?
+                   Are you able to access the Course Share?
+         o Discussion:
+         o Feedback:
+                   Module 1, Assignment 1.0: Reading – Digital Heritage Preservation
+                   Module 1, Assignment 1.2: Field Work – Site Search
+
+
+Reality Capture for Architecture                                                                     2
+ Module 2 (Week 2: Tuesday June 9): Digital Heritage Preservation
+      o Discuss Module 1 Assignments: Concerns, Q/A
+      o Module 2, Session 2.0: Synchronous Lecture: Digital Heritage Preservation
+      o Narrated Lecture: A Brief Photogrammetry History
+             Module 2, Exercise 2.0: Pix4D – First Look Overview
+             Module 2, Exercise 2.1: Pix4D – Getting Started
+             Module 2, Exercise 2.2: Pix4D – Georeferencing
+             Module 2, Exercise 2.3: Pix4D – Measurements
+             Module 2, Exercise 2.4: Pix4D – Tie Points
+             Module 2, Exercise 2.5: Pix4D – Reducing Processing Time
+      o Discussion:
+      o Feedback:
+      o Module 2, Assignment 2.1: Reading – Point Cloud Preservation Plans
+             Continue your course project site search
+ Module 3 (Week 2: Thursday June 11): Photogrammetry (Aerial & Terrestrial)
+      o Discuss Module 2 Assignments: Concerns, Q/A
+      o Module 3, Session 3.1: Synchronous Lecture: Photogrammetry (Aerial & Terrestrial)
+      o Module 3, Session 3.2: Reality Capture Workshop Session Part 1 of 2
+             Module 3 Exercise 3.0: Pix4D – Further Look Overview
+             Module 3, Exercise 3.1: Pix4D – Point Cloud Project Merge
+             Module 3, Exercise 3.2: Pix4D – Mosaic Editor
+             Module 3, Exercise 3.3: Pix4D – Animating Your Project
+             Module 3, Exercise 3.4: Pix4D – DSM, DTM, Contour Lines
+             Module 3, Exercise 3.5: Pix4D – Editing The 3D Point Cloud
+      o Discussion:
+      o Feedback:
+             Module 3, Assignment 3.0: Video Collection Basics
+             Module 3, Assignment 3.1: Field Work ‐ Toe In Water
+ Module 4 (Week 3: Tuesday June 16): Further Photogrammetry (Aerial & Terrestrial)
+      o Discuss Module 3 Assignments: Concerns, Q/A
+      o Module 4, Session 4.1: Synchronous Lecture: Further Photogrammetry (Aerial & Terrestrial)
+      o Module 4, Session 4.2: Reality Capture Workshop Session Part 2 of 2
+      o Module 4, Exercise 1.1: Aerial Photogrammetry Demo
+      o Discussion:
+      o Feedback:
+             Module 4, Assignment 4.0: Reading – Classifying Buildings from Point Clouds and Images
+             Module 4, Assignment 4.1: Processing – Classify a 3D Point Cloud Dataset
+ Module 5 (Week 3: Thursday June 18): 3D Laser Scanning LiDAR
+      o Discuss Module 4 Assignments: Concerns, Q/A
+      o Module 5, Session 5.0: 3D Laser Scanning LiDAR Basics
+      o Module 5, Session 5.1: Synchronous Guest Lecture: Larry Kleinkemper, AIA
+             Module 5, Exercise 5.1: Recap ‐ 3D Laser Scanning LiDAR First Look Overview
+             Module 5, Exercise 5.2: Recap 3D Laser Scanning LiDAR
+             Module 5, Exercise 5.3: Recap 3D Point Cloud Import
+             Module 5, Exercise 5.4: Video: 3D Scanning Demo
+
+
+Reality Capture for Architecture                                                                                   3
+                  
+         o    Discussion:
+         o    Feedback:
+                   Module 5, Assignment 5.0: Field Work ‐ Now That Your Feet Are Wet
+   Module 6 (Week 4: Tuesday June 23): Understanding 3D Point Clouds in Practice
+         o Discuss Module 5 Assignments: Concerns, Q/A
+         o Module 6, Session 6.0: Synchronous Lecture: Understanding 3D Point Clouds in Practice
+                   Module 6, Exercise 6.0: 3DS Max ‐ 3D Point Cloud Import
+                   Module 6, Exercise 6.1: Revit – 3D Point Cloud Import
+         o Discussion:
+         o Feedback:
+                   Module 6, Assignment 6.0:
+   Module 7 (Week 4: Thursday June 25): Combining 3D Laser Scanning LiDAR & Photogrammetry
+         o Discuss Module 6 Assignments: Concerns, Q/A
+         o Module 7, Session 7.0: Synchronous Lecture: Combining 3D Laser Scanning LiDAR & Photogrammetry
+         o Discussion:
+         o Feedback:
+                   Module 7, Assignment 7.0: Field Work ‐ The Deep End
+                   Module 7 Assignment 7.1: Combining the point clouds
+   Module 8 (Week 5: Tuesday June 30): The Art of the Point Cloud
+         o Discuss Module 7 Assignments: Concerns, Q/A
+         o Module 8 Session 8.0: Synchronous Lecture: The Art Of the Point Cloud
+         o Discussion:
+         o Feedback:
+                   Module 8, Assignment 8.0: Building your own Point Cloud Art & Drawing
+   Module 9 (Week 5: Thursday July 2): Presentation Techniques using Multimedia Video
+         o Discuss Module 8 Assignments: Concerns, Q/A
+         o Module 9 Session 9.0: Synchronous Lecture: Creating Multimedia Presentations with Point Cloud Datasets
+                   Module 9, Exercise 9.0: Adobe Premiere / Resolve Lecture
+         o Discussion:
+         o Feedback:
+                   Module 9, Assignment 9.0: Storyboard Video with Point Clouds. Gathering your datasets.
+   Module 10 (Week 6: Tuesday July 7): Review Prep
+         o End Review Preparation: Students development of their datasets, findings, and interpretations.
+   End Review (Week 6: Thursday July 9): Review
+         o End Review: Student presentation of work, findings, and interpretations in multimedia video and slideshow
+              format.
+required texts
+Readings/Tutorials will be assigned at each Module.
+required hardware/software
+Laptop or Desktop with sufficient resources to run the design software currently at the School of Architecture
+https://wikis.utexas.edu/display/SOAdigitech/Hardware+Recommendations+-+Design+Students
+
+
+Reality Capture for Architecture                                                                                        4
+Software:
+      Pix4D https://www.pix4d.com
+              o Pix4D has provided the class with free student licensing
+      Autodesk Recap, Revit, 3DS Max, AutoCAD https://www.autodesk.com/education/free‐software/featured
+      Meshroom https://alicevision.org/#meshroom
+additional requirements (optional)
+Smartphone, camera, or DSLR to support the Terrestrial Photogrammetry capture portion of the course. Students are
+NOT asked to bring a UAV (drone) or 3D Scanner, this will be demonstrated, and datasets provided given the
+circumstances of this time.
+progress:
+Everyone is starting out at differing levels of proficiency therefore your grade will be based on relative progress.
+attendance:
+With the exception of faculty exemption or an excused absence, class attendance is mandatory. The minimum penalty for
+more than two [2] unexcused absences is a full letter drop in the final grade for the course. Students should contact the
+instructor prior to class if they expect to be absent or late.
+Absences based on religious observances must be arranged fourteen [14] days in advance. Any work missed during that
+time must be turned in within one week [7 days] of the absence. A student who fails to complete missed work within the
+time allowed will be subject to the normal academic penalties.
+Attendance is expected for all lectures, field trips, studio sessions, and discussions. If a class meeting has to be
+rescheduled, it will be done in a timely manner, with the intention of accommodating the majority of the course
+participants' schedules.
+grade percentage
+• class participation [25% of course grade]
+   Each student is expected to participate actively in the discussion of the required readings each week. Occasional in-
+   class opinion surveys of will be given and the results discussed among seminar participants. Readings should be
+   completed two days before class to allow time for reflection.
+• 3D Laser Scanning Models [15% of course grade]
+   Intent. Method application. Resulting model from LiDAR.
+• Photogrammetry Models [35% of course grade]
+   Intent. Method application. Resulting model from photogrammetry.
+• Interpretation and comprehension for historic preservation. [25% of course grade]
+   Students will work to create a presentation of what they learned about their historic structures from the different
+   technologies and to make recommendations about how to best preserve and develop the site.
+grade scale
+Final grades will be computed in accordance with School of Architecture and University Academic Policies as follows:
+  grade    work quality      performance level                                                        points
+  A        excellent          project surpasses expectations in terms of inventiveness,                  4.0
+                              appropriateness, verbal and visual ability, conceptual rigor, craft,
+                              and personal development. Student pursues concepts and
+                              techniques above and beyond what is discussed in class. Project is
+                              complete on all levels.
+
+
+Reality Capture for Architecture                                                                                           5
+ A-                                                                                                   3.67
+ B+                                                                                                   3.33
+ B         good            project is thorough, well researched, diligently pursued, and               3.0
+                           successfully completed. Student pursues ideas and suggestions
+                           presented in class and puts in effort to resolve required projects.
+                           Project is complete on all levels and demonstrates potential for
+                           excellence.
+ B-                                                                                                   2.67
+ C+                                                                                                   2.33
+ C         required        project meets the minimum requirements. Suggestions made in                 2.0
+                           class are not pursued with dedication or rigor. Project is incomplete
+                           in one or more areas.
+ C-                                                                                                   1.67
+ D         poor            project is incomplete. Basic skills including graphic skills, model-        1.0
+                           making skills, verbal clarity or logic of presentation are not level-
+                           appropriate. Student does not demonstrate the required design skill
+                           and knowledge base.
+ D-                                                                                                    .67
+ F         unacceptable    project is unresolved. Minimum objectives are not met.                      0.0
+                           Performance is not acceptable. Note that this grade will be
+                           assigned when you have excessive unexcused absences.
+ X         excused         issued only in the case of compelling, nonacademic circumstances
+           incomplete      beyond the student's control. Simply not completing work on time is
+                           an inadequate cause for assigning this evaluation. It may only be
+                           used after consultation with the Associate Deans’ offices and with
+                           an agreement as to a new completion date. According to School of
+                           Architecture policy, studio work must be completed before the
+                           second week of the next design semester in which the student is
+                           enrolling.
+Any grade can be re-evaluated based on student concern. Subsequent evaluations can cause the grade to be reduced,
+remain unchanged, or increased. Grades can only be discussed on an individual basis, not as a comparison with other
+students' grades.
+reading and writing skills
+As a seminar, this course is discussion and technology intensive. Students are expected to participate actively in all
+discussions. If you are not confident in your English language skills, it is recommended that you go to the University's
+International Office and meet with someone in ESL Services to discuss classes or workshops that can help you.
+academic integrity
+Plagiarism or violations of academic integrity in any form will be handled according to measures as outlined by the
+General Information catalog and the University. All course related work submitted for evaluation is to be original and
+prepared without unauthorized assistance. Work that is supplemented from ideas not originating from the student should
+clearly cite the parent source.
+Students who violate University rules on academic integrity are subject to disciplinary action, including the receipt of a
+
+
+Reality Capture for Architecture                                                                                          6
+failing grade for the course, and possible dismissal from the University. Since such infractions harm the individual, all
+students, and the integrity of the University, policies on academic integrity will be strictly enforced.
+accommodations
+Please notify your instructor of any adaptation you may require to accommodate a specific physical need. You will be
+requested to provide documentation to the Dean of Students' Office, in order that the most appropriate accommodations
+can be determined. Specialized services are available on campus through the Services for Students with Disabilities
+Office [512.471.6259 or 512.471.4641 http://www.deanofstudents.utexas.edu/ssd/].
+university of texas honor code
+The core value of The University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity,
+and responsibility. Each member of the university is expected to uphold these values through integrity, honest, trust,
+fairness, and respect toward peers and community.
+documented disability statement
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students
+with disabilities. For more information, contact Services for Students with Disabilities at 512-471-6259 (voice) or 512-232-
+2937 (video phone).
+use of e-mail for official correspondence
+Email is recognized as an official mode of university correspondence; therefore, you are responsible for reading your
+email for university and course-related information and announcements. You are responsible to keep the university
+informed about changes to your e-mail address. You should check your e-mail regularly and frequently to stay current
+with university-related communications, some of which can be time critical. You can find UT Austin's policies and
+instructions for updating your e-mail address at http://www.utexas.edu/its/policies/emailnotify.php.
+religious holidays
+By UT Austin policy, you must notify the instructor of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in order to
+observe a religious holy day, you will have the opportunity to complete the missed work within a reasonable time after the
+absence.
+behavior concerns advice line (bcal)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to discuss by
+phone your concerns about another individual's behavior. This service is provided through a partnership among the Office
+of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance Program (EAP),
+and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+faculty contact information
+office location: Virtual
+office hours:     Monday – Friday 10-4
+email:            rob@austin.utexas.edu
+Office hours will be maintained at stated times, as well as by appointment, in order to discuss issues related to the
+schedule, evaluation, coursework, etc. Please do not hesitate to notify the instructor of impending schedule conflicts with
+other classes.

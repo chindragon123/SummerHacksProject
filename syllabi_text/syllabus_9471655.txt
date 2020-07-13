@@ -1,0 +1,294 @@
+                                              Texas Applied Arts
+                                    DIGITAL FABRICATION – SPRING 2019
+                   TD 354T (unique #25819) – AET 339 (unique #20676) – TD 388L (unique #26004)
+INSTRUCTOR:         J.E. JOHNSON
+OFFICE:             PAC 2.216B
+OFFICE PHONE:       512.471.0630
+E-MAIL:             jjohnson@texasperformingarts.org
+OFFICE HOURS:       By appointment
+CLASS:              Monday and Wednesday 12:00 – 1:30 pm
+LOCATION:           Hatchery PAC 3.2045A and Automation Lab 2.208 (other locations as specified)
+WEBSITE:            http://sites.utexas.edu/appliedarts/
+COURSE DESCRIPTION
+Digital Fabrication will focus on specific skills and habits of mind associated with the craft of making physical
+objects by way of computer aided design (CAD) and computer numeric controlled (CNC) machines. Though digital
+fabrication is a very broad field we will cover only: fused filament fabrication (FFF) 3D printing, laser cutting, CNC
+routing, and vinyl cutting. We will use these tools in a rapid and iterative process to create, evaluate, and improve
+upon functional objects. Though previous experience in any handicraft or computer design application will be
+beneficial, the course is designed for each student to grow from their existing strengths and interests.
+This course meets concurrently with Michael McKellar’s Physical Computing course. Our course will collaborate
+with Physical computing to create an interactive environment for Maker Faire Austin which we are calling the UT
+Interactive Trophy Room.
+All students are required to commit to a minimum of 4 hours on Friday, May 3 or Saturday, May 4 to assist with
+Trophy Room install, operation, and load out.
+OBJECTIVES
+Within the context of Digital Fabrication as described above, students will be evaluated on the following
+objectives.
+     1. Demonstrate methods to acquire and adapt existing designs available through file sharing websites.
+     2. Identify processes, materials, and joining techniques to create durable objects.
+     3. Choose appropriate surface treatments for cardboard, plastics, and wood.
+     4. Discriminate between digital design applications to develop workflows specific to needs of project.
+     5. Design mechanisms with an intentional, iterative process.
+     6. Develop effective collaborative relationships with peers and instructors to build and install a public exhibit.
+
+
+TEXTBOOKS, SUPPLIES, AND MATERIALS
+Textbook - REQUIRED
+Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists. by Dustyn Roberts.
+Supplies - Every student should own these items
+     ▪ SD Card – 8 GB or more. Needed to transfer files to the 3D printers in The Hatchery. ($10 or less)
+     ▪ USB Flash Drive – 8 GB or more. Needed to transfer files to equipment in The Foundry. ($10 or less)
+     ▪ 3-button mouse with scroll wheel – efficient use of software will require functionality of scroll wheel and
+         right clicks. Without this functionality you will be wasting both your time and the instructor’s time. ($10 -
+         $50)
+     ▪ 6 inch digital calipers – Need to take precise measurements of materials and troubleshoot fit issues. Also
+         convenient way to convert inches to millimeters. ($10 - $20)
+Project materials
+There will be a selection of no-cost materials available to students including
+     ▪ various wood and metal stock
+     ▪ plastics, paper, and plywood suitable for laser cutting
+     ▪ 3D printing filament
+     ▪ hardware, electronics, etc. found in Hatchery or Automation Lab
+Final project materials
+After student teams are assigned each team will have access to a budget to purchase materials. Amount TBA.
+Materials requests must be made in writing on team Trello board. If a student chooses to purchase out of pocket
+no reimbursement can be made.
+Completed final projects will remain the property of the University of Texas and may be used for future exhibition.
+With instructor consent, components owned by the student that can reasonably be removed from the project
+(e.g. micro controllers, servos, etc.) may be returned to the student after the final day of class. Students use these
+items at their own risk. Damaged or lost items cannot not be replaced.
+SOFTWARE
+Digital Fabrication is not 3D modeling course nor does it require previous experience in 3D modelling. However,
+we are going to use a few different 3D modeling tools to manipulate and modify existing models. To do this, all
+students should install some software on your computer. All required software is free to students and the system
+requirements are modest.
+Required
+Autodesk Fusion 360 – We will be using Fusion 360 to create and edit our designs. It is very powerful yet
+    accessible software.
+Slicer for Fusion 360
+Meshmixer – Prepare 3D prints
+Cura – Software required to operate 3D printer
+RetinaEngrave v3.0 – Full Spectrum Laser design and control software
+Optional
+Adobe Illustrator, Vectorworks, AutoCAD, Pepakura, others with instructor consent
+                                                                                                                       2
+
+
+CLASS SCHEDULE
+As the course progresses we may choose to modify schedule to better facilitate student learning. Schedule
+modifications will be communicated to class via Canvas. Check https://utexas.box.com/v/digfab19-syllabus for
+most up to date version.
+Week     Date    Monday                             Date Wednesday                     Assignment        Assignment Due
+                                                                                       Given
+  1      1/21       Martin Luther King Jr Holiday   1/23 ONBOARDING                     MODULES
+                                                          – Craft                       – OH 500 & 304
+                                                          – Additive / subtractive      – Roctopus on
+                                                          – Materials – 3D Sketch          Lulzbot Mini
+                                                          – Software
+                                                          – Safety
+                                                          – Final project overview
+                                                          – Learning resources
+                                                          – Meet and greet with PhyCom
+  2      1/28    DISCUSSION: Maker Culture          1/30 DISCUSSION: Design Cycle      – File Exports     – OH 500 &
+                 TOPIC: Filetypes and Workflows          TOPIC: Small and rapid           (STL, DXF, and     304
+                 PRACTICE: Orthographic                  PRACTICE: Fusion 360             PDF)            – Rocktopus on
+                 sketches                                                              – File Imports        Lulzbot Mini
+                                                                                          (STL)
+                                                         Roberts xi-xviii, 256-278     – Foundry 3D
+                 Leah Bluechly Who makes?                Lynda Fusion 360 Ch 1 -3         printer cert
+                 Lynda Drawing Systems Ch 3
+  3       2/4    DISCUSSION: Cardboard!             2/6  TOPIC: Tolerances and Slicer  Laser joinery     – File Exports
+                 TOPIC: Laser cutting, nets, joints      PRACTICE: Laser                                    (STL, DXF, and
+                 GUEST: Tim Ziegler?                                                                        PDF)
+                                                                                                         – File Imports
+                                                                                                            (STL)
+                                                                                                         – Foundry 3D
+                 Roberts 34-38, 43-47                                                                       printer cert
+                 Surprisingly Awesome:                   Lynda Fusion 360 Ch 4 -5
+                 Cardboard
+  4      2/11    DISCUSSION: Plastics and           2/13 TOPIC: FFF supports           3D print problem  Laser joinery
+                    sustainability                       PRACTICE: Cura
+                 TOPIC: FFF challenges
+                 Lynda Meshmixer
+                 PLA Filament video                      Lynda Meshmixer
+  5      2/18    DISCUSSION: Plywood                2/20 DISCUSSION: Craft             Laser/CNC         3D print
+                                                         TOPIC: Combined processes and joinery           problem
+                 History of plywood in ten objects         assembly
+                 Plywood being made video
+                 Roberts 190-236                         Pye 17-29
+  6      2/25    TOPIC: Connections                 2/27 TOPIC: Linkages               Servo project     Laser/CNC
+                                                         PRACTICE: Meet with PhyCom                      joinery
+                 Roberts 52-71
+                                                         Roberts 128-143
+                                                                                                                          3
+
+
+   7       3/4    TOPIC: Motion                  3/6     TOPIC: Nets                   Phone Jail        Servo project
+                                                         GUEST: Tim Ziegler
+                  507 Movements
+                  Roberts 238-252
+   8      3/11    TOPIC: Animation               3/13    TOPIC: Animation              Limb Concept      Phone Jail
+                  PRACTICE: Agreeable Sheep              PRACTICE: 4 bar linkage
+                                                         Trophy Room Kickoff
+                                                         Skype with Meow Wolf?
+                                                         TEAM ASSIGNMENTS INTRO
+                                                         12:30
+          3/18    SPRING BREAK                   3/20
+   9      3/25    Trophy Room Kickoff            3/27                                                    Limb Concept
+                  Skype with Meow Wolf                   TEAM PITCHES
+  10       4/1    Group focused work             4/3     Prototype and maquettes
+  11       4/8    Group focused work             4/10    Group focused work
+                                                         Working prototype
+  12      4/15    Group focused work             4/17    Group focused work
+  13      4/22    Group focused work             4/24    Group focused work
+  14      4/29    Group focused work             5/1     Final day before Maker Faire
+                                                         Install 5/3.
+  15       5/6    Tidy up                        5/8     Final documentation
+COURSE FORMAT
+Class time
+Sprint Meetings are critical to the success of projects. They are a time to assess progress, set specific sprint goals
+for the next week and address any new constraints.
+Lab use – PAC Safety and Stewardship
+Machine time on 3D printers, laser cutter, and CNC router will be reserved in two hour blocks on Canvas. CNC
+router will be available only during business hours Monday through Friday, 8am to 5pm
+Proximity card access to the Texas Performing Arts building and the Scenic Art Studio door 6am to 10pm daily. No
+one may work in the Hatchery, Automation Lab, or Scenic Art Studio alone outside standard working hours,
+Monday through Friday 8am to 5pm. Plan accordingly. The Loading Dock and Scenic Art Studio doors are armed at
+6:00pm. If the doors are left propped open, they will trigger a silent alarm, UT PD will arrive, and we will be fined.
+Security will be present on Bass Concert Hall event days. Please stay contained to the Hatchery or Automation Lab
+during these events. Failure to adhere to security policies may lead to expulsion from the course.
+Safety
+Students must wear the following safety equipment when working with the CNC Router:
+         • Safety Glasses or Goggles
+         • Dust Mask or Respirator
+         • Hearing Protection
+         • Closed Toe Shoes
+                                                                                                                       4
+
+
+5
+
+Additionally, students must be cautious of any jewelry, loose fitting clothing, and long hair around all machines.
+Students are not permitted to wear gloves while using machines. Students should not use equipment with which
+they are unfamiliar. If you have a question, please ask. Do not use equipment if you are under the influence of
+drugs or alcohol, hung over, sick, tired, or otherwise unfocused. Unsafe behavior will not be tolerated and may
+result in expulsion from the class. Keeping the labs clean, putting away tools and properly storing materials are
+important aspects of class safety. Proper shop maintenance will be monitored and evaluated.
+Prerequisites
+There are not prerequisites for this class but all students provide evidence of completion of UT Environmental
+Health and Safety safety training including OH 500 Machine Shop Safety and OH 304 Laser training.
+Online Platforms
+Each member of the class has the responsibility to become proficient in the following online tools.
+• Canvas: This course management platform will be used to upload assignments and blog posts for peer
+   assessment.
+• Slack: This is and online messaging tool and should be used for primary communication for student teams.
+   Slack should NOT be used for any grade related information or inquiries. https://digifab-physcomp.slack.com
+• Tumblr: Our class website is hosted by Tumblr. Some assignments will be required to be posted here. If you
+   prefer not to post publicly with your real name, an alias is acceptable. https://texasappliedarts.tumblr.com/
+• Social Media: Students will be encouraged to post to social media to promote their work and network with
+   other makers using when appropriate. Course instructors will also promote student work on the Applied Arts
+   accounts. If you do not wish to have images of your face or project posted publicly please notify an instructor.
+             – YouTube https://www.youtube.com/c/TexasAppliedArts
+             – Facebook https://www.facebook.com/texasappliedarts
+             – Twitter https://twitter.com/utappliedarts
+             – Instagram https://www.instagram.com/utappliedarts/
+• UT Box: This is the UT supported cloud storage service. Any file necessary for the design, planning, or
+   production of raptor projects must be saved in the Raptor Class Share folder. Please maintain good filename
+   and folder hygiene and version control. https://utexas.box.com/v/digfab19-class-share
+                                                                                                                    6
+
+
+ASSESSMENT AND LATE POLICY
+Only instructors of record will issue final grades. However, instructors will make judgments based on data
+gathered from self, peer, and professional performance appraisals to provide relevant feedback and scores.
+Final assignment points will be reduced 20% for every day late.
+Dependability and Readiness—80 points
+After teams are assigned, collaborators should arrive to meetings on time and ready to present a progress report
+with visuals and/or prototypes. Students attendance in class is not only for their own benefit. All teams will benefit
+from engaged respondents.
+Onboarding—15 points (satisfactory/no credit)
+     ▪ 5 points: OH 500 Machine Shop Safety and OH 304 Laser Safety
+     ▪ 5 points: 30 second introduction video
+     ▪ 5 points: Pre-course survey
+Clean up and Stewardship of workspace—15 points
+Attendance—50 points (56 possible)
+     ▪ The class will depend on engagement from all members of the class.
+     ▪ To incentivize attendance a single question quiz will be given. Quizzes count for 2 points each
+          (satisfactory/no credit).
+Assignments—80 points
+Skill builders—10 points each x 8 weeks (satisfactory/no credit)
+Engagement, Performance, and Growth—80 points
+Evaluation criteria will include key competencies including: goal setting, decision making and critical thinking,
+effective communication, problem solving, relationship management, analytical thinking, accuracy and attention
+to detail, producing results, flexibility and adaptability, teamwork, quality of failure, and followership.
+     ▪ 40 points: (5 points midterm + 35 points final) Self Evaluations
+     ▪ 40 points: (5 points midterm + 35 points final) Instructor Evaluation
+Final Project—80 points
+     ▪ 20 points: execution
+     ▪ 20 points: participation
+     ▪ 20 points: peer evaluation
+     ▪ 20 points: documentation
+Grading Scale:
+A    92.5 - 100                                                  C  72.5 - 76.49
+A-   89.5 - 92.49                                                C- 69.5 - 72.49
+B+   86.5 - 89.49                                                D+ 66.5 - 69.49
+B    82.5 - 86.49                                                D  62.5 - 66.49
+B-   79.5 - 82.49                                                D- 59.5 - 62.49
+C+   76.5 - 79.49                                                F  0 - 59.49
+                                                                                                                     7
+
+
+Accommodations
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For
+more information, contact the Office of the Dean of Students at 471-6259, 471-6441 TTY.
+Risk Statement
+*Caution: Students participating in Department of Theatre & Dance classes do so at their own risk. As with any physical activity, there is
+always the chance of personal injury occurring during the normal conduct of Production Lab and Advanced Production Lab. The instructor is
+not responsible for student injuries or accidents, which may occur during the normal conduct of classes.
+University of Texas Honor Code:
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and responsibility.
+Each member of the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect toward peers and
+community.
+Use of E-mail for Official Correspondence to Students:
+All students should become familiar with the University's official e-mail student notification policy. It is the student's responsibility to keep
+the University informed as to changes in his or her e-mail address. Students are expected to check e-mail on a frequent and regular basis in
+order to stay current with University-related communications, recognizing that certain communications may be time-critical. It is
+recommended that e-mail be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions for
+updating your e-mail address are available at
+Title IX:
+The University encourages affected individuals to promptly report incidents of sex and gender discrimination, sexual harassment, sexual
+assault, sexual misconduct, interpersonal violence, and stalking as provided in this policy. The University also encourages individuals who
+may have witnessed instances of prohibited conduct to report such information as outlined in this policy.
+Responsible employees of the University are required to promptly report incidents of prohibited conduct. The University will respond to all
+reports made under this policy. The University will conduct a prompt, fair, and impartial investigation and resolution for complaints and,
+where appropriate, issue remedial measures and/or sanctions.
+Please be advised that I am considered a “responsible employee” at UT. As such, I am required to report any incidents of sexual
+harassment or assault to the UT Title IX Coordinator. If you would like to have a confidential conversation about sexual misconduct, please
+contact the UT Counseling and Mental Health Center at (512) 471-3515 to schedule an appointment. The CMHC crisis line is (512) 471-CALL
+(2255) . You may also call Austin SafePlace 24/7 at (512) 267-SAFE (7233).
+http://www.utexas.edu/its/policies/emailnotify.html.
+Documented Disability Statement:
+Any student with a documented disability who requires academic accommodations should contact Services for Students with Disabilities
+(SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not required to provide accommodations without an official
+accommodation letter from SSD.
+    § Please notify instructors as quickly as possible if the material being presented in class is not accessible (e.g., instructional videos need
+captioning, course packets are not readable for proper alternative text conversion, etc.).
+    § Please notify instructors as early in the semester as possible if disability-related accommodations for field trips are required. Advanced
+notice will permit the arrangement of accommodations on the given day (e.g., transportation, site accessibility, etc.).
+    § Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or reference SSD’s website for
+more disability-related information: http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php Behavior Concerns Advice Line (BCAL):
+ If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to discuss by phone your
+concerns about another individual’s behavior. This service is provided through a partnership among the Office of the Dean of Students, the
+Counseling and Mental Health Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police Department
+(UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Q drop Policy: The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As stated in
+Senate Bill 1231: “Beginning with the fall 2007 academic term, an institution of higher education may not permit an undergraduate
+student a total of more than six dropped courses, including any course a transfer student has dropped at another institution of higher
+education, unless the student shows good cause for dropping more than that number.”
+Religious Holidays:
+By UT Austin policy, you must notify instructors of your pending absence at least fourteen days prior to the date of observance of a
+religious holy day. If you must miss a class, an examination, a work assignment, or a project in order to observe a religious holy day, you will
+be given an opportunity to complete the missed work within a reasonable time after the absence.
+Changes:
+This syllabus is subject to change upon the discretion of the instructors.
+                                                                                                                                                   8

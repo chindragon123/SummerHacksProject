@@ -1,0 +1,220 @@
+AET 339 Course Syllabus
+                                   Generative Audio Programming
+                                                     AET 339
+                                                 Unique 20944
+                                                    Spring 2020
+                                            Room MRH 3.124 (MML)
+                                                T/Th, 12:30-2pm
+Instructor:                 Chris Ozley, DMA
+                            chris.ozley@utexas.edu
+Office Hours:
+                            Tuesdays, 4:30-5:30pm, by email appointment
+I.       Rationale
+Students will acquire procedural audio skills using SuperCollider as a tool for real-time, generative audio
+production. Additionally, students will learn how to integrate such generative processes with other media
+(live digital visualization, etc.) and will explore methods of textural generation and sound design using
+SuperCollider.
+Course Prerequisite(s): AET 320D Musical Acoustics
+II.      Course Aims and Objectives
+By the end of this course, students will:
+•    Learn proper coding practices using SuperCollider, a powerful, flexible, open-source, cross-platform
+     audio programming language
+•    Employ controllers to communicate sensor data to software
+•    Create logic systems to transmit audio and music data using MIDI and OSC
+•    Generate reactive and adaptive audio responses to external stimuli
+•    Create complex musical textures and soundscapes using SuperCollider
+III.     Tentative Course Schedule
+This schedule is subject to change at the discretion of the instructor. Students will be notified of such changes
+via email.
+     Week 1                       01/21/2020              Course Introduction / Intro to SuperCollider
+                                  01/23/2020
+     Week 2                       01/28/2020              Creating and Shaping Sound / Basic Interactivity
+                                  01/30/2020
+                                                         1
+
+
+AET 339 Course Syllabus
+   Week 3               02/04/2020 Synth Def and Synth
+                        02/06/2020
+   Week 4               02/11/2020 Buffers, Filters and Routines
+                        02/13/2020
+   Week 5               02/18/2020 Using MIDI for Interactivity
+                        02/20/2020
+   Week 6               02/25/2020 Patterns / Generative Audio Events
+                        02/27/2020
+   Week 7               03/03/2020 GUI
+                                   Midterms
+                        03/05/2020
+   Week 8               03/10/2020 OSC
+                                    Midterms
+                        03/12/2020
+   Week 9               03/17/2020 Spring Break
+                        03/19/2020
+   Week 10              03/24/2020 Advanced Patterns
+                        03/26/2020
+   Week 11              03/31/2020 Integrating External Controllers
+                        04/02/2020
+   Week 12              04/07/2020 Composing in SC
+                        04/09/2020
+   Week 13              04/14/2020 Composing continued
+                        04/16/2020
+                                   2
+
+
+AET 339 Course Syllabus
+    Week 14                    04/21/2020                 Arduino
+                               04/23/2020
+    Week 15                    04/28/2020                 Final Project Work Workshops
+                               04/30/2020
+    Week 16                    05/05/2020                  Final Project Presentations
+                               05/07/2020
+IV.    Course Requirements
+       Class attendance and participation policy:
+       Regular and punctual attendance at all classes is required. Attendance is taken at the beginning of
+       every class. Absences of each student are recorded without exception from the official date of her/his
+       enrollment. Both tardiness and early departure from class are forms of absenteeism. 15 minutes late
+       to the start of class will constitute a tardy. At the end of each class, tardy students must make the
+       instructor aware of their attendance or they will be marked as absent. Leaving class before being
+       dismissed by your professor will constitute an early departure. Two instances of tardiness or early
+       departure equal one absence. A class in which a student is tardy and departs early on the same day is
+       considered an absence. If a serious medical or personal situation occurs affecting attendance, please
+       discuss it with your professor. More than three unexcused absences will cause your final grade to
+       automatically drop one letter.
+       Course Materials/Readings/Tutorials:
+       Students in Generative Audio Programming are required to download SuperCollider on their laptops
+       for this course. It is open source and cross platform. I will post readings and tutorials as necessary to
+       supplement learning.
+       Optional Textbook:
+       Wilson, Scott, Cottle, David, & Collins, Nick, (2011) The SuperCollider Book, MIT Press
+       Supplies needed:
+       Over-the-ear headphones and external hard drive REQUIRED for every class meeting!
+       Use of Canvas in class:
+       In this class I use Canvas—a Web-based course management system with password-protected access
+       at http://courses.utexas.edu —to distribute course materials, to communicate and collaborate
+       online, to post grades, to submit assignments.
+                                                          3
+
+
+AET 339 Course Syllabus
+V.       Grading Procedures
+         Grades will be based on:
+         1. Weekly Assignments                                         40%
+         2. Midterm Project                                            20%
+         3. Final Project                                              30%
+         4. Class Participation /Attendance                            10%
+         Late/Missed Assignments:
+         If you miss an assignment deadline due to a serious, documented medical or personal situation, I will
+         give you an opportunity to complete the work within a reasonable time. Otherwise, late assignments
+         will receive a maximum grade value of 50%. May 7th is the last call for any late assignments from the
+         semester (graded at 50% maximum value).
+         Final grades will be determined on the basis of the following rubric. Please note: to ensure
+         fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B- will be
+         inclusive of all scores of 80.000 through 83.999. The University does not recognize the grade of A+.
+         A = 94-100
+         A- = 90-93
+         B+ = 87-89
+         B = 84-86
+         B- = 80-83
+         C+ = 77-79
+         C = 74-76
+         C- = 70-73
+         D+ = 67-69
+         D = 64-66
+         D- = 60-63
+         F = 0-60
+         This course will not have a final exam.
+VI.      Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a student of The
+University of Texas at Austin, I shall abide by the core values of the University and uphold academic
+integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that are not your
+own (or that you have used in previous class), you must cite your sources. Otherwise you will be guilty of
+plagiarism and subject to academic disciplinary action, including failure of the course. You are responsible for
+understanding UT’s Academic Honesty and the University Honor Code, which can be found at the
+following web address: http://deanofstudents.utexas.edu/sjs/acint_student.php
+VII.     Other University Notices and Policies
+ Use of E-mail for Official Correspondence to Students
+All students should become familiar with the University's official e-mail student notification policy. It is the
+student's responsibility to keep the University informed as to changes in his or her e-mail address. Students
+are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+communications, recognizing that certain communications may be time-critical. It is recommended that e-
+mail be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions for
+updating your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564.
+                                                         4
+
+
+AET 339 Course Syllabus
+Q drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+deadline, which typically occurs near the middle of the semester. Under Texas law, you are only allowed six
+Q drops while you are in college at any public Texas institution.
+For more information, see: http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please let me
+know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of
+the course. There are also a range of resources on campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical information
+that you need to share with me, or if you need specific arrangements in case the building needs to be
+evacuated, please let me know. I am committed to creating an effective learning environment for all
+students, but I can only do so if you discuss your needs with me as early as possible. I promise to maintain
+the confidentiality of these discussions. If appropriate, also contact:
+Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video phone).
+http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope
+with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources
+available on campus and an important part of the college experience is learning how to ask for help. Asking
+for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or
+depression, we strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center each
+year to improve their academic performance? All students are welcome to take advantage of Sanger Center’s
+classes and workshops, private learning specialist appointments, peer academic coaching, and tutoring for
+more than 70 courses in 15 different subject areas. For more information, please
+visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Behavior Concerns Advice Line (BCAL)
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel right
+– it probably isn’t. Trust your instincts and share your concerns. This service is provided through a
+partnership among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the
+Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD). Visit
+http://www.utexas.edu/safety/bcal.
+                                                          5
+
+
+AET 339 Course Syllabus
+Religious Holidays
+Section 51.911 of the Texas Education Code states that a student shall be excused from attending classes or
+other required activities, including examinations, for the observance of a religious holy day, including travel
+for that purpose. A student whose absence is excused under this subsection may not be penalized for that
+absence and shall be allowed to take an examination or complete an assignment from which the student is
+excused within a reasonable time after the absence. University policy requires students to notify each of their
+instructors at least fourteen days prior to the date they will be absent from scheduled classes to observe a
+religious holy day.
+(from http://www.utexas.edu/provost/policies/religious_holidays/1555_001.pdf)
+Emergency Evacuation Policy
+The following recommendations regarding emergency evacuation from the Office of Campus Safety and
+Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside.
+ • Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember
+      that the nearest exit door may not be the one you used when entering the building.
+ • Students requiring assistance in evacuation shall inform their instructor in writing during the first week
+      of class.
+ • In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a
+      building unless given instructions by the following: Austin Fire Department, The University of Texas
+      at Austin Police Department, or Fire Prevention Services office.
+ • Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+      www.utexas.edu/emergency
+                                                        6

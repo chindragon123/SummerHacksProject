@@ -1,0 +1,433 @@
+                                                                                           Syllabus for EDP 371-WB
+                                                                                                        Summer 2019
+                                   EDP 371: Introduction to Statistics
+                                        Summer 2019 – Web-based
+Instructor
+Dr. Anita Israni
+Email: aip@utexas.edu
+Office Hours: Tuesdays: 11am-1pm (online) & by appt (online or in office)
+Office: SZB 538E
+Online Office Hours: As this is a WB class, I will be holding online office hours. During the hours listed
+above, please use the link provided in Canvas under “Office Hour Link” to connect using your computer. If
+possible, please email me at least 15 minutes beforehand so I can get the online whiteboard equipment set. I
+am also available to meet in person during the week. Please email me to setup an appointment.
+Teaching Assistant
+Jennifer Nadasdy
+Email: jennifer.nadasdy@utexas.edu
+Office Hours: Mondays: 10am-12pm, Wednesdays: 4pm-6pm
+Homework review session: Monday 4-5pm
+Office: SZB 536 (Open Area)
+Course Description:
+This course is designed to help students learn:
+    • Introductory descriptive and inferential statistical procedures that are used in educational, behavioral
+        and social science research studies.
+    • Assumptions and concepts underlying, the hypotheses being tested by, and the inferences that can be
+        made with the use of the relevant statistics and procedures.
+    • How to conduct your own such statistical analyses and to evaluate critically others’ uses of statistics.
+Pre-requisites
+        Mathematical skills: While this course is not completely mathematical, it is founded upon the use of
+mathematical tools. Thus some fundamental mathematical skills are essential for successful mastery of the
+material. Students are expected to have basic algebra skills including the ability to solve single variable
+equations. Students should have a basic understanding of exponents and square roots, as well as the order of
+operations, proportions, fractions, decimals, percentage, and negative numbers. Appendix A of the textbook
+contains a review of the basic math skills needed for this course. Please be sure to review and check with the
+instructor or teaching assistants if you have any concerns.
+        Calculator: Students are required to have a scientific calculator that can be used for the following
+operations: sum, multiply, square and take the square root of numbers. Calculators are recommended for use
+during lecture time, homework assignments, and exams. Please do not forget your calculator for the exam.
+Use of cell phones is completely forbidden during the exam.
+        Computer software: The material covered in this course does not require the use of statistical
+software. Instead, students are expected to calculate the relevant statistics using the formulas provided by
+hand/calculator. The formulas are simple enough that their use should reinforce students’ understanding of
+the relevant concepts. Jumping straight to using statistical software instead of working on problems by hand
+tends to reduce the depth of students’ understanding. In higher level statistics courses, use of Excel, SPSS,
+SAS, R, etc. is introduced but it is not deemed necessary for this basic material.
+                                                                                                                  1
+
+
+                                                                                             Syllabus for EDP 371-WB
+                                                                                                          Summer 2019
+Course Materials and Resources
+         • Statistics for the Behavioral Sciences, 10th Edition by F. J. Gravetter and L. B. Wallnau. This
+              textbook is available at the Co-op. It also provides a good resource in that it presents the material
+              in a slightly different way than the instructor presents the material during lecture time. You are
+              welcome to use an earlier edition (9th edition) but then you are responsible for making sure that
+              you read corresponding material (as page numbers likely differ), figuring out errors that might
+              have been fixed in the later edition and aligning problems. You are only responsible for the
+              material in the textbook covered during the lectures. There is also a copy on PCL reserves.
+         • Lecture handouts matching the overheads used by the instructor will be available on CANVAS
+              (http://canvas.utexas.edu) under Introduction to Statistics. Reading the handouts does not
+              provide the student with the learning experiences nor the complete material equivalent to that
+              obtained by attending class. The handouts provide a skeleton of what is being covered in the
+              lectures and will thus be an incomplete version of the material actually covered. They contain
+              spaces for the student to fill in the additional material and practice provided during the lectures.
+              Notes will be posted at the start of the online module. I recommend printing out the notes and
+              using them as you go through the lectures and write in any additional notes and calculations
+              discussed in the lectures.
+Assignments - UNGRADED
+Homework
+         Reading about statistics does not ensure mastery. As with many other skills, the best way to master
+statistics is through practice. There will be homework problems associated with each class topic (see List of
+Topics). Once a topic has been covered in class, the homework should be completed. The homework
+problems will be posted online also for students who do not have the 10th edition.
+         The majority of the homework assignments are even-numbered problems from the textbook. Because
+answers to odd-numbered problems are available at the back of the text, students are also strongly
+encouraged to try odd-numbered problems on their own. The more practice, the better!
+         The answers to each assigned even-numbered homework problem will be made available in the
+Homework Answers folder on Canvas. It is the student’s responsibility to check their work and ensure their
+mastery of the relevant material. Do come to office hours with the teaching assistant and the instructor if you
+have any questions. Also attend the homework review session offered by the TA each week. These sessions
+will go through the homework for that week in detail and provide a step-by-step process.
+Assignments - GRADED
+Exams
+         Exams tend to “motivate” students to thoroughly review course material and provide students with
+additional practice. There will be 1 final exam (see schedule on page 6 & 7) will consist of conceptual,
+computational and application questions. The exam will focus on the material covered during the course
+from the first module. More detail will be provided about the material assessed by the exam closer in time to
+the actual exam. It should be noted that most of the statistical skills acquired during this class are constantly
+building upon earlier learning. This means that to do problems in later chapters, students might need to recall
+skills learned in earlier sections! The exam will be given on campus.
+         To relieve test anxiety and approximate a more authentic environment in which researchers have
+access to reference materials, students will be given a formula sheet for use during exams. And the format of
+the formula sheet will be shared the week before the exam. The exam is not open-book because summary of
+learning should be accomplished before, not during, the exam. The dates of the exam will not change.
+         Format: Exam will consist of true-false, multiple-choice and short-answer questions including both
+conceptual and computational problems. Partial credit is awarded where relevant. Students will be given the
+entire final exam time to complete the exam.
+                                                                                                                    2
+
+
+                                                                                             Syllabus for EDP 371-WB
+                                                                                                          Summer 2019
+        Materials: Students will be given a formula sheet and necessary tables for the exam. Students MUST
+bring a calculator. Cell phones must be hidden away and turned off during exams.
+        Proportion of final grade: The final exam is worth a total of 30%.
+Online Quizzes
+        This assignment is designed to encourage students to keep up with material covered in class while
+offering them the opportunity to test their mastery of concepts and to try out additional computational
+exercises. It also exposes students to various kinds of questions they should be considering when reviewing
+material. Quizzes for each module will be posted on Canvas and need to be completed by the deadline
+posted for that module. Please be responsible for keeping track of the deadlines. The quiz will be closed
+after the due date and time. It is your responsibility to ensure that you complete the quizzes on time.
+        Proportion of final grade: Quizzes are worth 50% of the final grade.
+Participation in Online Class Discussions/Polls for each Module
+        Each module will have a discussion/poll after you have reviewed the topics. You might be asked a
+simple question or given a task, like finding an interesting statistics article. Your participation will not only
+help you in understanding the concepts by pushing you to think through some of the tasks/discussion
+questions but also help your fellow (online) classmates through your insightful contributions. You will be
+evaluated on the quality of your postings for each module and if they show that you carefully thought
+through them. While you be graded on your own postings, adding insightful replies to your classmates’
+postings may add some bonus points to your grade.
+        Proportion of final grade: Participation with fully thought-out posts in online discussions are worth
+20% of the final grade. Extra Credit will be given if you provide insightful comments to others’ posts.
+NOTE: As this is a web-based course, it is mostly self-paced. You are responsible for completing all
+lectures and assignments, along with meeting the deadlines for the quizzes and exams. All material needed
+for a module will be posted on Canvas at the start of each module. It is recommended that you go through the
+sub-sections for each module in order. Please visit office hours when needed. I also recommend attending the
+homework review sessions each week where the TA will go through the homework problem in detail. You
+just need to show up and be ready to learn. Do not wait until the week of the exam to start doing the HW!
+Makeup assignments
+        Only in exceptional circumstances (which does NOT include family vacations/ weddings, routine
+doctor’s appointments, job interviews, etc.) and only with prior permission from the instructor, or with a
+verifiable medical excuse, will students be able to take a makeup exam. The student must provide medical
+proof of illness. The student is responsible for notifying the teaching assistant and the instructor by the day of
+the exam that they cannot attend the exam.
+        As a student will be given ample time to complete a quiz, it is the responsibility of the student to
+ensure the quiz is completed by the due date. It is important to complete the quizzes before the day that they
+are due to avoid forgetting or working around other issues that may come up.
+Grading system
+              Assessment                                                           Weight
+              Online Quizzes                                                       50%
+              Final Exam                                                           30%
+              Discussions                                                          20%
+                                                                                                                    3
+
+
+                                                                                           Syllabus for EDP 371-WB
+                                                                                                        Summer 2019
+Grades are assigned based on the percentage of accumulated points as follows:
+        A : 93-100; B+: 87-89;         C+: 77-79;      D+: 67-69;      F: 0-<60
+        A−: 90-92;       B : 83-86;    C : 73-76;      D : 63-66;
+                         B−: 80-82;    C−: 70-72;      D−: 60-62;
+Attendance policy
+        Students are responsible for all material presented in lectures. (This material includes course material
+and due dates for online quizzes). It is expected that students will watch all lectures and complete all
+exercises and assignments. The class is designed this way because it is felt that the guided practice obtained
+during lectures provide one of the best opportunities for learning. While exam dates will not change, due
+dates for online quizzes are assigned because they will be based on when the coverage of the relevant
+material is complete.
+        The final exam is held during the times noted and can only be re-scheduled for individual students
+under exceptional circumstances. (see Makeup Assignments section)
+Religious Holy Days
+        Religious holy days sometimes conflict with examination schedules. Section 51.911 of the Texas
+Education Code addresses absences by students for observance of religious holy days. The policy states that a
+student shall be excused from attending classes or other required activities, including examinations, for the
+observance of a religious holy day, including travel for that purpose. A student whose absence is excused
+under this subsection may not be penalized for that absence and shall be allowed to take an examination or
+complete an assignment from which the student is excused within a reasonable time after the
+absence. University policy requires students to notify each of their instructors as far in advance of the
+absence as possible so that arrangements can be made.
+        If you must miss an examination or a online assignment in order to observe a religious holy day, you
+will be given an opportunity to complete the missed work within a reasonable time after the absence but you
+must have arranged the new deadline with me (the instructor) in advance. The same applies for online
+assignments. If you will have to miss the deadline for submission of an online assignment, due to the
+observance of a religious holy day, then it is your responsibility to schedule a time with me in advance of the
+deadline for the assignment.
+Scholastic dishonesty policy
+        The University defines academic dishonesty as cheating, plagiarism, unauthorized collaboration,
+falsifying academic records, and any act designed to avoid participating honestly in the learning process.
+Scholastic dishonesty also includes, but is not limited to, providing false or misleading information to receive
+a postponement or an extension on a test or other class assignment, and submission of essentially the same
+written assignment for two courses without the prior permission of faculty members. (Please refer to the
+University of Texas’ Honor Code that can be found at the following website:
+http://catalog.utexas.edu/general-information/the-university/#universitycodeofconduct)
+        By accepting this syllabus and participating in this course, you have agreed to these guidelines and
+must adhere to them. This means (specifically for this class) that any work that you hand in for a grade
+MUST be your own work. This also means that you may NOT use or review the assignments or exams of
+students of this class from previous semesters.
+        Violation of this agreement and of any of the University rules on scholastic dishonesty will result in
+the student being awarded an F for the final course grade, being referred to the appropriate university
+officials, and may result in suspension or expulsion from the University.
+                                                                                                                  4
+
+
+                                                                                        Syllabus for EDP 371-WB
+                                                                                                     Summer 2019
+Disability Accommodation
+        Students with disabilities who require special accommodations need to get an accommodation letter
+that documents the disability from the Services for Students with Disabilities (471-6259 voice or 471-4641
+TTY for users who are deaf or hard of hearing). This letter should be presented to the instructor in each
+course at the beginning of the semester and accommodations needed should be discussed at that time. Five
+business days before an exam, the student should remind the instructor of any testing accommodations that
+will be needed. See the following website for more information: http://diversity.utexas.edu/disability/.
+Communication
+        You will also be responsible for checking the Canvas course site regularly for announcements and
+copies of my overheads. As with all computer systems, there are occasional scheduled downtimes as well as
+unanticipated disruptions, so plan accordingly.
+        In this course Canvas and e-mail will be used as a means of communication between instructor,
+teaching assistants and students. When emailing questions, please be specific and give adequate time for
+response.
+CARE Counseling
+CARE is a program through the UT Counseling and Mental Health Center. It is common to need support
+when dealing with feelings and problems that seem beyond your control. CARE Counselors are available to
+help with a variety of issues that may serve as a barrier to your academic success. Your CARE Counselor in
+the College of Education is Danie White, LPC, LMFT. Her office is in the George I. Sanchez Building, SZB
+212E. To schedule an appointment, call 512-232-6862 and ask to schedule a CARE appointment. If you
+leave a voice mail, please include your name, EID, and contact number. Walk-in hours are also available on
+Mondays and Wednesdays from 1 - 2 PM in JES A115 and Tuesdays and Fridays from 1 – 2 PM in SZB
+216. You will check–in at the Front Desk, and they will let Danie know you're waiting. All services are
+confidential. None of your information will be shared without your written consent. Come by and see us,
+we are here to listen.
+                                                                                                               5
+
+
+                                                                                   Syllabus for EDP 371-WB
+                                                                                                Summer 2019
+                         EDP 371: Introduction to Statistics-WB, Summer 2019
+                                         Schedule of Topics
+** NOTE: Start date for each module represents when the course material will be available, and end
+                        date represents the completion date for that module.
+   Date:                   Topic                Reading       Homework - 10th          Assignments
+                                                                    edition                  Due
+ Module 0    Syllabus, course requirements,                  Read Syllabus and Complete all
+     6/6     course content, etc.                            ask questions as     discussions and
+                                                             needed               graded quizzes by the
+ Module 1    Introduction continued:          Chapter 1      Chapter 1            deadlines listed in
+ 6/6 to 6/10      Vocabulary                                8, 10, 12, 20, 22    Canvas
+                  4 scales of
+                     measurement
+                  Statistical notation
+ Module 2    Frequency distributions of       Chapter 2      Chapter 2
+6/11 to 6/13 scores:                                         4, 6, 10, 22
+                  Tables / Graphs
+                  Shape
+                  Percentiles
+ Module 3    Measures of central tendency     Chapter 3      Chapter 3
+6/14 to 6/16      Mean / Median / Mode                      4, 6, 10, 22, 24
+                  Characteristics of
+                     Mean
+ Module 4    Measures of variability:         Chapter 4      Chapter 4
+6/17 to 6/21      Range /                                   2, 4, 7, 8, 14, 15,
+                  IQ & SIQ Range                            18, 22, 24
+                  Variance & standard
+                     deviation
+ Module 5    Z-scores:                        Chapter 5      Chapter 5
+6/22 to 6/26      Raw scores⇒Z-scores                       1, 6, 22, 24, 25
+                  Z-scores⇒Raw scores Chapter 6:            Chapter 6
+                  Transforming scales        p.159-178,     6, 10, 18, 20
+                  Normal distribution        p.184-on
+ Module 6    Sampling distributions of        Chapter 7      Chapter 7
+ 6/27 to 7/1 sample means:                                   1, 4, 8, 10, 13, 16,
+                  Shape                                     20
+                  Mean
+                  Variability
+ Module 7    One-sample Hypothesis            Chapter 8      Chapter 8
+ 7/2 to 7/8  Testing                                         4, 6, 8, 16, 22, 23
+                  Assumptions
+                  The Four Steps and the
+                     “logic” of Hypothesis
+                     testing
+                  Type I & II / Power
+                                                                                                          6
+
+
+                                                                          Syllabus for EDP 371-WB
+                                                                                       Summer 2019
+   Date:                  Topic           Reading   Homework – 10th           Online Quiz
+                                                           edition             Due Date
+ Module 8    The one-sample t-statistic  Chapter 9  Chapter 9            Complete all
+ 7/9 to 7/12                                        1, 2, 5, 6, 8, 12,   discussions and
+                                                    18, 22, 23           graded quizzes by
+ Module 9    Confidence intervals        Chapter 9  13, 14c), 15b),      the deadlines listed
+7/13 to 7/16                                        17b)                 in Canvas
+Module 10    Independent samples Hyp.    Chapter10  Chapter 10
+7/17 to 7/19 Testing                                3, 4, 6, 10, 14, 18,
+                 Sampling dist’n of                19, 22
+                     differences between
+                     sample means
+                 F-Max statistic
+Module 11    Related samples             Chapter 11 Chapter 11
+7/20 to 7/24     Sampling dist’n of                1, 2, 10, 20, 22
+                     mean differences
+Module 12    Analysis of Variance        Chapter 12 Chapter 12
+7/25 to 7/28 (ANOVA)                                1, 3, 4, 9, 10, 12,
+                                                    20, 21
+Module 13    Multiple comparisons        Chapter 12 Chapter 12
+ 7/29 to 8/1 (cont’d)                    p.393-on   HW will be
+                 Tukey’s HSD                       provided
+                 Scheffé’s
+Module 14    Correlation                 Chapter 15 Chapter 15
+ 8/2 to 8/5      Hypothesis testing     p.485-509 1, 2, 5, 8, 10, 12,
+                                                    14
+Module 15    Simple Regression           Chapter 16 Chapter 16
+ 8/6 to 8/9                              p.529-537 2, 4, 6, 8, 10, 14
+                                                    and calculate
+                                                    standard error of
+                                                    estimate for 10
+                                                    and 14
+Module 16    Chi-squared test of         Chapter 17 Chapter 17
+8/10 to 8/14 Goodness of fit             p.559-573 2, 4, 8, 10
+             Final Exam                  TBD        Time: TBD
+                                                                                                 7
+
+
+                                                                                                Syllabus for EDP 371-WB
+                                                                                                             Summer 2019
+Hints for success
+         Practice: Practice will facilitate successful mastery of the skills to be learned from this class. During the
+module, guided practice will be offered in the form of sample problems. The ungraded homework and online
+quizzes will also provide opportunities for practice. It is hoped that studying for and completion of exams will
+provide additional such opportunities!
+         Practice II: Watching the instructor work through examples might (hopefully) make it appear simple.
+However, I will not be at your side when you are working problems out in the real world (or, say) on exams. I
+strongly recommend that you practice what you see me doing.
+         Practice III: You know the topic you are covering when doing a homework or online quizzes or listening
+to my working through an example in class. In the real world (or, in, say, an exam), you will not have these
+contextual clues (such as chapter headings!). Make sure you understand when to use the statistics we cover, not
+just how to do so. (The portfolio entries are designed to help you think about when to use the statistics as well as
+how to do so).
+         Homework I: The homework problems provide you with mostly computational practice. However, I
+expect you to grasp more than just the steps required to solve problems. I would strongly recommend that you
+also focus on mastering the concepts covered during lecture time. Their mastery will provide you with a strong
+foundation for understanding the statistics covered in this and later statistics courses.
+         Homework II: By the same token, while some of the homework problems appear to entail purely
+computational practice, some of them are trying to demonstrate statistical concepts (such as comparing factors
+that might impact statistical conclusions) using numbers. Instead of whipping through the computations, do try to
+take some time to think through why the questions might ask you to compare outcomes. What factor is being
+manipulated and what is the impact of the manipulation?
+         Homework Review Session: What better way to go through the homework than to have an expert by your
+side ready to answer any questions you have. Each of the TAs will hold a weekly homework review session
+where they will go through the problems assigned. It is recommended to try the problems on your own before
+coming but is not needed. If you want to come sit in, please do.
+         Textbook: You are responsible for whatever topics are covered in the lectures. We do not necessarily
+cover all the material in the textbook. The terminology in the textbook sometimes differs from what we use in the
+lecture videos. Use the terminology and symbols that I use in the lectures. For class assignments, you must use
+the terminology and symbols that I use in the lecture. However, it is helpful to realize that there are multiple ways
+that disciplines present statistical concepts and for you to be flexible for scenarios outside of this class.
+         Study groups: It is highly recommended that you form study groups to master the material in this class. If
+you understand a concept, teaching it to your fellow students will help you solidify that learning. If you do not
+understand a concept, it might help to have it presented to you by someone who has more recently mastered it
+rather than by the TA or instructor. It can help to have a concept presented by several people in different ways.
+BUT any of the work handed in for assessment (assignments and exams) must be the work of the individual
+student. If it is not, you will receive an F for the course.
+         Office hours: Use them – our job is to help you learn! If you cannot make our office hours due to
+scheduling conflicts with work or courses, ask me or the teaching assistants via email to schedule another time to
+meet.
+         Email I: Check your email messages from me and the TAs.
+         Email II: Use email to schedule appointments NOT to ask conceptual or computational questions. We
+will not answer those questions online because hand-feeding you the answer(s) does not help your learning as
+much as our prompting you (face-to-face) to come up with the answer.
+         Email III: (and most important) If you email one of us (professor or teaching assistants), please give us
+adequate time to respond and copy all of us on the email. That ensures a speedier response.
+         Keep up: The skills to be mastered for statistical analyses keep building upon themselves. If you fall
+behind, it will not only affect the topic in which you are behind but will affect your learning of a later topic.
+                                                                                                                       8
+
+
+                                                                   Syllabus for EDP 371-WB
+                                                                                Summer 2019
+   FOR THOSE OF YOU WHO HAVE THE 9th EDITION OF THE
+TEXTBOOK, PLEASE USE THE FOLLOWING PAGE NUMBERS
+                            9th EDITION PAGE NUMBERS
+                     Topic                  Reading   Homework – 9th Edition
+   Syllabus, course requirements, course              LOOK ON CANVAS
+   content, etc.                                      FOR HOMEWORK
+                                                      SETS
+   Introduction:                           Chapter 1
+        Vocabulary
+        4 scales of measurement
+        Statistical notation
+   Frequency distributions of scores:      Chapter 2
+        Tables
+        Graphs
+        Shape
+        Percentiles
+   Measures of central tendency            Chapter 3
+        Mean
+        Median
+        Mode
+        Characteristics of Mean
+   Measures of variability:                Chapter 4
+        Range
+        IQ & SIQ Range
+        Variance & standard deviation
+   Z-scores:                               Chapter 5
+        Raw scores⇒Z-scores
+        Z-scores⇒Raw scores               Chapter 6:
+        Transforming scales               p.163-184,
+        Normal distribution               p.189-on
+   Sampling distributions of sample means: Chapter 7
+        Shape
+        Mean
+        Variability
+   One-sample Hypothesis Testing           Chapter 8
+        Assumptions
+        The Four Steps and the “logic” of
+          Hypothesis testing
+        Type I & Type II error / Power
+                                                                                          9
+
+
+                                                    Syllabus for EDP 371-WB
+                                                                 Summer 2019
+                  Topic               Reading  Homework
+The one-sample t-statistic          Chapter 9
+Confidence intervals                Chapter 9
+Independent samples Hyp. Testing    Chapter10
+    Sampling dist’n of differences
+       between sample means
+    F-Max statistic
+Related samples                     Chapter 11
+    Sampling dist’n of mean
+       differences
+Analysis of Variance (ANOVA)        Chapter 12
+Multiple comparisons (cont’d)       Chapter 12
+    Tukey’s HSD                    p.415-on
+    Scheffé’s
+Correlation                         Chapter 15
+    Hypothesis testing             p.509-530
+Simple Regression                   Chapter 16
+                                    p.557-569
+Chi-squared test of                 Chapter 17
+    Goodness of Fit                p.591-603
+                                                                          10

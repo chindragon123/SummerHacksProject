@@ -1,0 +1,224 @@
+                                           Student Course Syllabus
+ STM 390T: Development of Instructional Materials in STEM Education
+                                                     Unique #73604
+                                                         3 credit hours
+Course Meeting Times, Location, and Instructor
+  Day and Time                                    Location                                   Course Website
+  MTW 9:00 – 12:00                                Online (Zoom Meetings)                     http://canvas.utexas.edu
+  Instructor
+  Name: Victor Sampson                            Office: SZB 462G
+  Phone: 512-232-7504                             Office Hours: W 12:00 – 2:00
+  E-mail: victor.sampson@utexas.edu
+Course Description and Objectives
+Course Description. This course examines ways to design learning experiences that highlight the social injustices in our
+communities and gives people an opportunity to learn how to use the core ideas and practices of science, mathematics, and
+engineering to make sense of them or to develop a solution to help address them. It focuses on three major questions that are
+associated with current research on the development of instructional materials: (1) what are the types of interactions that take
+place between people, ideas, and materials that foster learning in a way that is equitable and inclusive? (2) How can
+instructional materials be designed to promote and support these types of interactions? And, (3) What criteria should be used
+to determine if instructional materials are of high-quality? Students in this course will be expected to read and discuss articles
+about the design of the instructional materials in STEM education and complete several projects. The projects include creating
+a mathematics investigation, an engineering design challenge, and science unit.
+Course Objectives. After participating in class activities and completing the assignments, you will be able to:
+     1. Describe the nature of the interactions that take place between people, ideas, and materials that foster learning in a
+          way that is equitable and inclusive;
+     2. Describe design principles and instructional models than can be used to guide the development of new instructional
+          materials;
+     3. Create an Argument-Driven Mathematics investigation that examine a social injustice;
+     4. Create an Argument-Driven Engineering STEM design challenge that will help make the world a better place;
+     5. Create a Model-Driven Inquiry unit that examines a social injustice in a community; and,
+     6. Evaluate and critique the design of instructional materials used in mathematics, engineering, and science.
+Class Requirements
+Attendance and Participation. Attendance and participation are important in this class. If you need to miss a class please
+provide, when possible, advance notice of the absence. You will need to make up all work that is missed.
+Texts, Readings, and/or other Resources
+There is no textbook for this course. Instead, you will be reading journal articles, books, and book chapters as part of the
+systemic quantitative literature review that you will do over the course of the semester. You will be able to access these
+materials through the UT Library. The materials you will must be used in compliance with U.S. Copyright Law. Under that
+law, you may view these materials on your computer but these materials may not be saved to your computer, revised, copied,
+or distributed without permission. They are to be used in support of the instructional activities required by this course only
+and shall be limited to the duration of the course, unless otherwise specified by the instructor or owner of the material. For
+more information, see UT Copyright Guidelines.
+
+
+Tentative Schedule
+ Session  Date        Topic(s)                       Activities                        Milestone Due
+    1      6/8 Design of math    • Overview of the Argument-Driven Mathematics
+               investigations      instructional model and nature of the
+                                   instructional materials
+                                 • Design Step 1: Choose a topic
+                                 • Design Step 2: Identify target standards
+    2      6/9 Design of math    • Design Step 3: Decide on the investigation       Math 1 (Steps 1 and
+               investigations      phenomenon                                       2 for math
+                                 • Design Step 4: Determine the question            investigation)
+                                 • Design Step 5: Create an ideal argument
+    3     6/10 Design of math    • Design Step 6: Decide materials and resources    Math 2 (Steps 3-5
+               investigations    • Design Step 7: Create needed materials and       for math
+                                   resources                                        investigation)
+                                 • Design Step 8: Create the handout and teacher
+                                   notes
+    4     6/15 Design of math    • Discuss Reading Set A                            Math 3 (Steps 6-8
+               investigations    • Design Step 9: Review of materials               for math
+                                 • Design Step 10: Revise the materials             investigation)
+    5     6/16 Design of STEM    • Overview of the Argument-Driven Engineering      Math 4 (Final math
+               design challenges   instructional model and nature of the            investigation)
+                                   instructional materials
+                                 • Design Step 1: Choose a topic
+                                 • Design Step 2: Identify target standards
+    6     6/17 Design of STEM    • Design Step 3: Decide on the problem to solve    Engineering 1
+               design challenges • Design Step 4: Determine the criteria and        (Steps 1 and 2 for
+                                   constraints                                      STEM Design
+                                 • Design Step 5: Create an ideal solution and      Challenge)
+                                   argument
+    7     6/22 Design of STEM    • Discuss Reading Set B                            Engineering 2
+               design challenges • Design Step 6: Decide materials and resources    (Steps 3-5 for
+                                 • Design Step 7: Create needed materials and       STEM Design
+                                   resources                                        Challenge)
+                                 • Design Step 8: Create the handout and teacher
+                                   notes
+    8     6/23 Design of STEM    • Design Step 9: Review of materials               Engineering 3
+               design challenges • Design Step 10: Revise the materials             (Steps 6 and 8 for
+                                                                                    STEM Design
+                                                                                    Challenge)
+    9     6/24 Design of science • Overview of Model-Driven Inquiry and nature      Engineering 4 (Final
+               units               of the instructional materials                   STEM Design
+                                                                                    Challenge)
+   10     6/29 Design of science • Discuss Reading Set C
+               units             • Design Step 1: Choose a topic
+                                 • Design Step 2: Identify target standards
+                                 • Design Step 3: Choose the phenomenon
+   11     6/30 Design of science • Design Step 4: Create a target model and         Science 1 (Steps 1-3
+               units               explanation                                      for the unit)
+   12      7/1 Design of science • Design Step 5: Create the summary table          Science 2 (Step 4
+               units                                                                for the unit)
+   13      7/6 Design of science • Discuss Reading Set D                            Science 3 (Step 5
+               units             • Design Step 6: Create the tasks and teacher note for the unit)
+
+
+  Session     Date           Topic(s)                                   Activities                             Milestone Due
+     14        7/7    Design of science         •    Design Step 6 (continued): Create the tasks and        Science 4 (50% of
+                      units                          teacher note                                           step 6 for the unit)
+     15        7/8    Design of science         •    Design Step 7: Review of materials                     Science 5 (100% of
+                      units                     •    Design Step 8: Revise the materials                    step 6 for the unit)
+Evaluation and Grades
+Course Project (140 points possible). You will create three different types of instructional materials for the course project.
+You must complete 14 milestones to finish this project by the end of the semester. These milestones are included in the table
+below.
+  Number      Milestone          What to Submit
+  1           Math 1             Topic of the investigation, target standards, concepts and practices students will use
+  2           Math 2             The investigation phenomenon, the guiding question, and an ideal argument
+  3           Math 3             Draft of investigation handout, teacher notes, and any supplemental materials
+  4           Math 4             Final version of investigation handout, teacher notes, and any supplemental materials
+  5           Engineering 1      Topic of the challenge, target standards, concepts and practices students will use
+  6           Engineering 2      The problem to solve, the criteria and constraints, and an ideal solution and argument
+  7           Engineering 3      Draft of design challenge handout, teacher notes, and any supplemental materials
+  8           Engineering 4      Final version design challenge handout, teacher notes, and any supplemental materials
+  9           Science 1          Topic of the unit, target standards, DCIs, CCs and SEPs will use, and the phenomenon
+  10          Science 2          Target model and full explanation of the phenomenon
+  11          Science 3          Summary table
+  12          Science 4          Draft of 50% of tasks and teacher notes
+  13          Science 5          Draft of remaining 50% of tasks and teach notes
+  14          Science 6          Final version of the unit (due July 13th)
+Each milestone is worth ten points. Five points will be deducted from the points awarded for that milestone if the milestone
+is not completed on time. Please note that a degree in education is not only about learning the content involved in the
+discipline (such as learning theories or means of assessment). It is also about learning how to think and write in an academic
+fashion. Your manuscript will be evaluated, not only in terms of content and the soundness of one’s ideas, but also in terms
+of clarity of expression, conformity to academic styles of writing (such as APA format), and in terms of acknowledging the
+origin of ideas (through use of appropriate citations). Please take this into account as you complete this project.
+Reading Discussion Leader (10 points). You will lead the discussion of a set of readings during the semester. You will be
+responsible for helping your team identify the big “takeaways” from the articles or chapters and your biggest “concern” that
+will require more discussion. You will then prepare a summary of the big takeaways from the reading after class and then
+share them with the rest of your team.
+Grading Scale. The grading scale for this class is as follows:
+    Letter                                   Letter                                 Letter
+                     Percentage                                Percentage                             Percentage
+    Grade                                    Grade                                  Grade
+      A                 ≥ 91%                  B-           < 83% and ≥ 80%           D+           < 70% and ≥ 67%
+      A-          < 91% and ≥ 89%              C+           < 80% and ≥ 77%           D            < 67% and ≥ 63%
+     B+           < 89% and ≥ 87%               C           < 77% and ≥ 73%           D-           < 63% and ≥ 60%
+      B           < 87% and ≥ 83%              C-           < 73% and ≥ 70%            F                 < 60%
+Special Notices and Policies
+Accessible and Inclusive Learning Environment. The university is committed to creating an accessible and inclusive
+learning environment consistent with university policy and federal and state law. Please let me know if you experience any
+barriers to learning so I can work with you to ensure you have equal opportunity to participate fully in this course. If you
+are a student with a disability, or think you may have a disability, and need accommodations please contact Services for
+
+
+Students with Disabilities (SSD). Please refer to SSD’s website for contact and more information:
+http://diversity.utexas.edu/disability/. If you are already registered with SSD, please deliver your Accommodation Letter to
+me as early as possible in the semester so we can discuss your approved accommodations and needs in this course.
+Religious Holy Days. Religious holy days sometimes conflict with class and examination schedules. If you miss an
+examination, work assignment, or other project due to the observance of a religious holy day you will be given an opportunity
+to complete the work missed within a reasonable amount of time after the absence. It is the policy of the University of Texas
+at Austin that you must notify the instructor at least fourteen days prior to the classes scheduled on the days you will be absent
+to observe a religious holy day.
+University of Texas Honor Code. The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity, and responsibility. Each member of the university is expected to uphold these values
+through integrity, honesty, trust, fairness, and respect toward peers and community. Students are expected to abide by the
+University of Texas Honor Code. Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from The University. Since such dishonesty harms
+the individual, all students, and the integrity of The University, policies on scholastic dishonesty will be strictly enforced. All
+work on papers should be done individually. Any material that you include that is not in your own words must be cited clearly
+as to its source. Likewise, you should give credit for ideas that originate from another source. Using another person’s words
+or ideas (including words and ideas from the Internet!) without due credit is plagiarism and is a violation of University rules.
+Writing Center. The Undergraduate Writing Center (FAC 211, 471-6222) offers free, individualized, expert help with writing
+for any UT undergraduate, by appointment or on a drop-in basis. Consultants can help you develop strategies to improve your
+writing, or simply provide feedback (this is a normal part of the writing process). See http://www.uwc.utexas.edu for more
+information.
+Use of E-mail for Official Correspondence to Students. All students should become familiar with the University's official
+e-mail student notification policy. It is the student's responsibility to keep the University informed as to changes in his or her
+e-mail address. Students are expected to check e-mail on a frequent and regular basis in order to stay current with University-
+related communications, recognizing that certain communications may be time-critical. It is recommended that e-mail be
+checked daily. The complete policy is available at: http://www.utexas.edu/its/policies/emailnotify.html.
+Behavior Concerns Advice Line (BCAL). If you are worried about someone who is acting differently, you may use the
+Behavior Concerns Advice Line to discuss by phone your concerns about another individual’s behavior. This service is
+provided through a partnership among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC),
+the Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or
+visit http://www.utexas.edu/safety/bcal. Please sign up for text alerts at http://www.utexas.edu/emergency/.
+Emergency Evacuation Policy. Occupants of buildings on the UT Austin campus are required to evacuate and assemble
+outside when a fire alarm is activated or an announcement is made. Take valuables with you if you can gather them quickly.
+Please be aware of the following policies regarding evacuation:
+     • Familiarize yourself with all exit doors of the classroom and the building.
+     • If you require assistance to evacuate, inform the instructor in writing during the first week of class.
+     • In the event of an evacuation, follow the instructor’s instructions.
+     • Do not re-enter a building unless the Austin Fire Department, the UT Austin Police Department, or the Fire
+           Prevention Services office gives you instructions to do so.
+     • Please familiarize yourself with procedures in case of an active shooter: http://www.utexas.edu/police/videos/
+Q drop Policy. The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6).
+As stated in Senate Bill 1231: “Beginning with the fall 2007 academic term, an institution of higher education may not permit
+an undergraduate student a total of more than six dropped courses, including any course a transfer student has dropped at
+another institution of higher education, unless the student shows good cause for dropping more than that number.”
+Syllabus Change Policy. Except for changes that substantially affect implementation of the evaluation (grading) statement,
+this syllabus is a guide for the course and is subject to change with advance notice.
+
+
+Bibliography
+Reading Set A: What are the types of interactions that take place between people, ideas, and materials that foster learning in
+        a way that is equitable and inclusive?
+   • Schoenfeld, Alan H. “Video Analyses for Research and Professional Development: The Teaching for Robust
+        Understanding (TRU) Framework.” ZDM: The International Journal on Mathematics Education 50.3 (2018): 491–
+        506.
+   • Chi, M.T.H. (2009), Active-Constructive-Interactive: A Conceptual Framework for Differentiating Learning
+        Activities. Topics in Cognitive Science, 1: 73-105.
+Reading Set B: How can instructional materials be designed to promote and support these types of interactions?
+   • National Council of Teachers of Mathematics. (2018). Catalyzing change in high school mathematics: Initiating
+        critical conversations, 1-35.
+   • Lee, O., Llosa, L., Grapin, S., Haas, A., & Goggins, M. (2019). Science and language integration with English
+        learners: A conceptual framework guiding instructional materials development. Science Education, 103(2), 317-
+        337.
+   • Kelly, G. J., & Cunningham, C. M. (2019). Epistemic tools in engineering design for K-12 education. Science
+        Education, 103(4), 1080-1111.
+Reading Set C: What criteria should be used to determine if instructional materials are of high-quality?
+   • National Council of Teachers of Mathematics (NCTM). (2014). Principles to actions: Ensuring mathematical
+        success for all.
+   • Biological Sciences Curriculum Study. (2017). Guidelines for the evaluation of instructional materials in science.
+   • Cunningham, C. M., & Kelly, G. J. (2017). Epistemic practices of engineering for education. Science
+        Education, 101(3), 486-505.
+Reading Set D: What are some other instructional models that can be used to develop instructional materials?
+   • Hamilton, E., Lesh, R., Lester, F. R. A. N. K., & Brilleslyper, M. (2008). Model-eliciting activities (MEAs) as a
+        bridge between engineering education research and mathematics education research. Advances in Engineering
+        Education, 1(2), n2.
+   • Krajcik, J. S., & Blumenfeld, P. C. (2006). Project-based learning. The Cambridge Handbook of the Learning
+        Sciences. (2006). R. Keith Sawyer (ed). Cambridge University Press (pp. 317-34).
+   • Bybee, R. W., Taylor, J. A., Gardner, A., Van Scotter, P., Powell, J. C., Westbrook, A., & Landes, N. (2006). The
+        BSCS 5E instructional model: Origins and effectiveness. Colorado Springs, Co: BSCS, 5, 88-98.

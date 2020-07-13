@@ -1,0 +1,330 @@
+                                        Texas Applied Arts
+ SPECIAL PROJECT IN DESIGN AND FABRICATION: ESCAPE ROOM—FALL 2019
+              TD 354T (25740) — TD 388L (25912) — ES 377 (12734) — AET 339 (20565)
+INSTRUCTOR:              J.E. JOHNSON                         TA:            CHRIS CONARD
+OFFICE:                  PAC 2.310                            EMAIL:         chris.conard@gmail.com
+OFFICE PHONE:            512 471-0630
+E-MAIL:                  jjohnson@texasperformingarts.org
+OFFICE HOURS:            By appointment
+CLASS:                   Monday 9:00-10:30am
+LAB SCHEDULE:            Monday 5:00pm-7:00pm
+LOCATION:                Hatchery PAC 3.204A and Scenic Studio PAC 2.216 (other locations as
+specified)
+WEBSITE:                 http://sites.utexas.edu/appliedarts/
+COURSE DESCRIPTION
+In this course students will build and test a full-scale escape room that will transport players to a
+distressed research station on the Gulf Coast in the year 2042. Students will collaborate with MJ
+Johns’s AET 334K Video Game Prototyping, Karen Maness’s T D 354T Scenic Painting, and Matt
+Smith’s AET 329F Interactive Lighting Environments courses to design, fabricate, program, install, and
+test physical versions of digital game puzzles. Designs may include pneumatic and servo automation
+as well as imbedded systems. All will receive direct instruction in traditional fabrication, welding,
+surface finish, and digital fabrication. This experience will build portfolios, resumes, and leadership
+skills for career paths in design, architecture, live entertainment, film, gaming, and engineering.
+Projects are student-driven and dependent on student research and planning. Students will have
+opportunities to specialize on specific areas within the project including fabrication, testing, and
+operations. We will research player safety, puzzle effectiveness, the evolution of the escape room
+industry, and the role of immersive entertainment in education.
+*** All students are required to commit to a minimum of 4 hours on the week of December 2 to present
+the final project for a public event. ***
+STAKEHOLDERS
+Our project is funded and driven by the missions of The College of Fine Arts and Planet Texas 2050.
+The preliminary scenario, narrative, and design of the Escape Room has been developed by College
+or Fine Arts faculty, students, and alumni and is inspired by campus-wide collaborative research
+made possible by the Bridge Barriers initiative, which was launched by President Fenves in 2016 with
+one overarching mission: break down academic silos and foster research that addresses the toughest
+questions facing humanity and the world.
+Every student enrolled in this course is a stakeholder in the success of this project. Without your
+leadership, creativity, and dedication success will not be possible.
+
+
+COURSE OBJECTIVES
+  1. We will deliver excellent and engaging production elements that are:
+      a. Are on time and under budget
+      b. Prioritize health and safety of collaborators, performers, and players
+      c. Serve stakeholder needs
+  2. Assemble effective teams
+      a. recognize opportunities to collaborate with others who provide diverse experiences and
+          perspectives
+      b. gauge the costs & benefits of “Doing-it-Yourself” (DIY) or “Doing-it-Together” (DIT)
+      c. recruit team members with diverse skills appropriate for specific project requirements
+      d. join a team where one’s skills are sought and valued
+      e. solicit advice, knowledge and specific skills from experts
+  3. We will assess the availability and appropriateness of tools and materials
+      a. research various equipment and materials to determine limitations and suitability for a
+          specific application
+      b. choose the most appropriate tools and materials (physical, digital, and rhetorical) for the job
+      c. acquire the necessary tools and materials
+      d. investigate alternate tools and materials when a desired tool or material is not available
+      e. fabricate necessary tools, reimagine material choices, develop alternate workflows, and/or
+          revise project scope when alternative tools or materials are not available
+  4. We will develop a project plan
+      a. identify who the relevant stakeholders are
+      b. specify actionable and measurable project goals and requirements
+      c. utilize time management and project management tools
+      d. outline project milestones, including sequential action items
+      e. anticipate time for multiple prototype iterations
+      f. work effectively within project constraints, be they financial, material, spatial, and/or
+          temporal
+COURSE GUIDING PRINCIPLES
+We are flat and open.
+  § Our decision-making process is not hierarchical. We rely on consensus.
+  § We seek participation from all students, staff, and faculty.
+  § We welcome participation from all disciplines.
+  § Ownership of the project belongs to all stakeholders.
+We are problem solvers who say, “Yes.”
+  § We envision and execute.
+  § We have a growth mindset and have a high tolerance for uncertainty.
+  § We trust that everyone is creative and ready to contribute.
+  § We take risks and fail forward.
+We contribute to a community of creativity (i.e. the whole world).
+  § We foster an abundance mindset.
+  § Our project faces outward and is transparent to all stakeholders.
+  § We “steal like artists” and give back to creative communities.
+  § We actively seek expertise from outside the university.
+2
+
+
+COURSE FORMAT
+Class time (aka Sprint Meeting)
+Sprint Meetings are critical to the success of projects. They are a time to assess progress, set specific
+sprint goals for the next week and address any new constraints.
+Lab times – PAC Safety and Stewardship
+Proximity card access to the Texas Performing Arts building and the Scenic Art Studio door 6am to 10pm
+daily. No one may work in the Hatchery, Automation Lab, or Scenic Art Studio alone outside standard
+working hours, Monday through Friday 8am to 5pm. No one may work in the building between the hours of
+1:00am and 6:00am. Plan accordingly. The Loading Dock and Scenic Art Studio doors are armed at
+6:00pm. If the doors are left propped open, they will trigger a silent alarm, UT PD will arrive, and we will
+be fined. Security will be present on Bass Concert Hall event days. Please stay contained to the Raptor
+Lab or Scenic Art Studio during these events.
+Prerequisites
+There are not prerequisites for this class but all students must complete University Environmental Health
+and Safety modules before the first day of class September 9, 2019.
+Online Platforms
+Each member of the class has the responsibility to become proficient in the following online tools.
+    •   Canvas: This course management platform will be used to upload assignments and blog posts for
+        peer assessment.
+    •   Slack: This is and online messaging tool and should be used for primary communication for student
+        teams. Slack should NOT be used for any grade related information or inquiries.
+        https://utplai.slack.com/
+    •   WordPress: Our class website is hosted by the university with the WordPress content
+        management system. Some assignments will be required to be posted here. If you prefer not to post
+        publicly with your real name, an alias is acceptable. http://sites.utexas.edu/appliedarts/blog/
+    •   Trello: We will use Trello for project management. Our class calendar is also posted here. It is a
+        living, flexible document and will be updated as needed. Trello is also where the team will make all
+        purchase requests. https://trello.com/b/uVjHFmVg/escape-fabrication-course-schedule
+    •   Social Media: Students will be encouraged to post to social media to promote their work and
+        network with other makers using when appropriate. Course instructors will also promote student
+        work on the Applied Arts accounts. If you do not wish to have images of your face or project posted
+        publicly please notify an instructor.
+             – YouTube https://www.youtube.com/c/TexasAppliedArts
+             – Facebook https://www.facebook.com/texasappliedarts
+             – Twitter https://twitter.com/utappliedarts
+             – Instagram https://www.instagram.com/utappliedarts/
+    •   UT Box: This is the UT supported cloud storage service. Any file necessary for the design,
+        planning, or production of projects must be saved in the Class Share folder. Please maintain good
+        filename and folder hygiene and version control. https://utexas.box.com/v/escape-room-fab-
+        SHARE
+3
+
+
+PROJECT DOCUMENTATION AND RESEARCH
+All students will be required to document work at least once on our blog. Documentation may include,
+photos, videos, text or any other electronic media. Our intent is to engage other artists, product
+developers, and industry professionals in our exploration and conversation.
+http://sites.utexas.edu/appliedarts/blog/
+ASSESSMENT
+Only instructors of record will issue final grades. However, instructors will make judgments based on data
+gathered from self, peer, and professional performance appraisals to provide relevant feedback and scores.
+Readiness—50 points
+Onboarding—30 points (satisfactory/no credit)
+     § 5 points: OH 500 Machine Shop Safety, OH 501 Hearing Protection, and OH 507 Respiratory
+        Protection
+     § 5 points: 30 second introduction video
+     § 5 points: Pre-course survey
+     § 15 points: Clifton Strengths Assessment
+Cleanliness and Stewardship of workspaces—20 points
+Dependability—50 points
+After teams are assigned, collaborators should arrive to meetings on time and ready to present a progress report
+with visuals and/or prototypes. Students attendance in class is not only for their own benefit. All teams will
+benefit from engaged respondents.
+Attendance quiz—50 points (56 possible)
+     § The class will depend on engagement from all members of the class.
+     § To incentivize and measure attendance a single question quiz will be given. Quizzes count for 2
+        points each (satisfactory/no credit).
+Research and Documentation—50 points
+     § 10 points: Industry Research Question
+     § 10 points: Project Element Brief
+     § 10 points: Org Chart Research
+     § 20 points: Blog Update
+Engagement, Performance, and Growth—50 points
+Evaluation criteria will include key competencies including: goal setting, decision making and critical thinking,
+effective communication, problem solving, relationship management, accuracy and attention to detail,
+producing results, flexibility and adaptability, teamwork, quality of failure, and followership.
+     § These competencies will be measured by five short self-evaluations throughout the semester.
+Final Deliverables—50 points
+     § 10 points: player evaluation
+     § 10 points: peer evaluation
+     § 20 points: documentation
+There is no final exam for this course.
+4
+
+
+CALENDAR
+This is a dynamic project-driven course. Schedule changes will be communicated to class via Canvas
+and updated on our live course calendar. https://trello.com/b/uVjHFmVg/escape-fabrication-course-
+schedule
+Week    Date  Class 9-10:30am           Lab 5-7pm               Milestones    Assignment      Assignment Due
+  0                                                                            – EHS modules
+                                                                               – Video selfie
+                                                                               – Pre-course
+                                                                                 survey
+  1      9/2  LABOR DAY – NO CLASS      LABOR DAY – NO LAB                                    – EHS modules
+  2      9/9  TOPIC: Personal           MEET IN HATCHERY                      - Strengths
+              Assessment and Team       Constraints and Org                   Finder
+              Building                  Chart                                 - Org Chart
+              GUEST: Tim Rogers –
+              Strengths
+              GUEST: Jenny Nelson –
+              PT2050
+              TOPIC: Chris Conard
+              presents design
+              READINGS:
+              I like, I wish, I wonder
+              The Great Escape
+              VIDEO:
+              PT2050
+              Creative confidence
+  3     9/16  TOPIC: Business of Escape ACTIVITY: Tool Training               Research        Strengths Finder
+                  Room and Potential as and Lab Orientation                   Problem
+                  Education Tool
+              GUEST: Haley E. R.        FOUNDRY VISIT
+              Cooper
+              READINGS:
+              Escape Rooms and the
+              Future of Advertising
+              Trello Onboarding
+              Slack Onboarding
+  4     9/23  GUEST: Greg Salyers                               Puzzle Briefs
+              (tentative)                                       and Best
+                                                                Practices
+                                                                Research to
+                                                                AET 334K
+  5     9/30                                                                                  Reflection 1
+5
+
+
+   6  10/7 GUEST: Karen Maness
+           Testable Prototype with
+           AET 334K
+   7 10/14                                                 -- Final Digital Reflection 2
+                                                           Prototypes
+                                                           -- Flats
+                                                           complete
+   8 10/21
+   9 10/28                                                 -- Operation     Reflection 3
+                                                           SOPs Draft
+                                                           -- Physical
+                                                           Prototypes
+  10  11/4                         MILESTONE:              Paint surface
+                                   Paint surface treatment treatment
+                                   begins                  begins
+  11 11/11 GUEST: Haley E. R.                              First test       Reflection 4
+           Cooper
+  12 11/18                                                 Set dressing
+  13 11/25                                                                  Reflection 5
+  14  12/2 Workday                 FINAL TEST EVENTS
+  15  12/9 Strike                  Lab Clean Up Party!!!                    Final
+                                                                            Documentation
+6
+
+
+Grading Scale:
+A 92.5 - 100
+A- 89.5 - 92.49
+B+ 86.5 - 89.49
+B 82.5 - 86.49
+B- 79.5 - 82.49
+C+ 76.5 - 79.49
+C 72.5 - 76.49
+C- 69.5 - 72.49
+D+ 66.5 - 69.49
+D 62.5 - 66.49
+D- 59.5 - 62.49
+F 0 - 59.49
+Accommodations
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified
+students with disabilities. For more information, contact the Office of the Dean of Students at 471-6259, 471-6441
+TTY.
+Risk Statement
+*Caution: Students participating in Department of Theatre & Dance classes do so at their own risk. As with any
+physical activity, there is always the chance of personal injury occurring during the normal conduct of Production
+Lab and Advanced Production Lab. The instructor is not responsible for student injuries or accidents, which may
+occur during the normal conduct of classes.
+University of Texas Honor Code:
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the university is expected to uphold these values through integrity,
+honesty, trust, fairness, and respect toward peers and community.
+Use of E-mail for Official Correspondence to Students:
+All students should become familiar with the University's official e-mail student notification policy. It is the student's
+responsibility to keep the University informed as to changes in his or her e-mail address. Students are expected to
+check e-mail on a frequent and regular basis in order to stay current with University-related communications,
+recognizing that certain communications may be time-critical. It is recommended that e-mail be checked daily, but at
+a minimum, twice per week.
+Title IX
+The University encourages affected individuals to promptly report incidents of sex and gender discrimination, sexual
+harassment, sexual assault, sexual misconduct, interpersonal violence, and stalking as provided in this policy. The
+University also encourages individuals who may have witnessed instances of prohibited conduct to report such
+information as outlined in this policy.
+Responsible employees of the University are required to promptly report incidents of prohibited conduct. The
+University will respond to all reports made under this policy. The University will conduct a prompt, fair, and impartial
+investigation and resolution for complaints and, where appropriate, issue remedial measures and/or sanctions.
+Please be advised that I am considered a “responsible employee” at UT. As such, I am required to report any
+incidents of sexual harassment or assault to the UT Title IX Coordinator. If you would like to have a confidential
+conversation about sexual misconduct, please contact the UT Counseling and Mental Health Center at (512) 471-
+3515 to schedule an appointment. The CMHC crisis line is (512) 471-CALL (2255) . You may also call Austin
+SafePlace 24/7 at (512) 267-SAFE (7233).
+http://www.utexas.edu/its/policies/emailnotify.html.
+7
+
+
+Documented Disability Statement:
+Any student with a documented disability who requires academic accommodations should contact Services for
+Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not
+required to provide accommodations without an official accommodation letter from SSD.
+          § Please notify instructors as quickly as possible if the material being presented in class is not accessible
+(e.g., instructional videos need captioning, course packets are not readable for proper alternative text conversion,
+etc.).
+          § Please notify instructors as early in the semester as possible if disability-related accommodations for field
+trips are required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+transportation, site accessibility, etc.).
+          § Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+reference SSD’s website for more disability-related information:
+http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php Behavior Concerns Advice Line (BCAL): If you are
+worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to discuss by
+phone your concerns about another individual’s behavior. This service is provided through a partnership among the
+Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance
+Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit
+http://www.utexas.edu/safety/bcal.
+Q drop Policy: The State of Texas has enacted a law that limits the number of course drops for academic reasons
+to six (6). As stated in Senate Bill 1231: “Beginning with the fall 2007 academic term, an institution of higher
+education may not permit an undergraduate student a total of more than six dropped courses, including any course a
+transfer student has dropped at another institution of higher education, unless the student shows good cause for
+dropping more than that number.”
+Religious Holidays:
+By UT Austin policy, you must notify instructors of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in order
+to observe a religious holy day, you will be given an opportunity to complete the missed work within a reasonable
+time after the absence.
+Changes:
+This syllabus is subject to change upon the discretion of the instructors.
+It is the policy of the Department of Theatre and Dance that our majors attend department season productions and
+that this attendance is a part of the coursework for our majors' classes. For the 2019 fall semester, you are required
+to attend the following performances: 12 Ophelias (a play with broken songs), Fall For Dance and Spring Awakening.
+Information on how majors may obtain discounted admission is available on the Department of Theatre and Dance
+wiki under the "Student Resources" tab (https://wikis.utexas.edu/pages/viewpage.action?pageId=51841138) or on
+the department’s website at uttadstudenttickets.org.”
+Note that while all Theatre and Dance majors are required to see departmental productions, only Theatre and Dance
+majors' courses are required to utilize this as part of the coursework. There are multiple discount ticket
+opportunities for Theatre and Dance Majors. Please direct your students here to learn about how to save 45% and
+greater.
+8

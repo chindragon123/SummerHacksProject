@@ -1,0 +1,130 @@
+                           M s325K - Summer 2019
+                              Discrete Mathematics
+                                                    86455
+   Instructor: Kathryn Dabbs
+                                                                    Class
+   Office: RLM 13.140
+                                                                    MTWThF 1:00 pm - 2:30 pm
+   Office Hours: TWTh 2:30-3:30 pm, or by appointment
+                                                                    RLM 6.104
+   E-mail: kdabbs@math.utexas.edu
+Course Description and Goals This course is intended to provide an introduction to understanding
+and creating mathematical proofs in the context of discrete mathematics, providing a transition from
+the problem-solving approach of calculus to the rigorous approach of advanced courses such as M365C
+or M373K. In this course students will learn how to write formal mathematical proofs, disprove
+mathematical statements, and find counterexamples. Topics include fundamentals of logic, elementary
+number theory, sequences and mathematical induction, and set theory.
+Prerequisites M408D, M408L, or M408S with a grade of at least C-.
+Required Textbook
+Discrete Mathematics: An Introduction to Mathematical Reasoning, by Susanna S. Epp, First Edition
+(Brief Edition)
+ISBN: 9780495826170
+Recommended Course Materials
+We will occasionally use UT Instapoll in Canvas during class. Please plan to bring an internet-ready
+device to class each day for this purpose.
+Grading and Exams
+The exams are scheduled as follows:
+    • Midterm: Wednesday, July 31 (in class)
+    • Final Exam: Saturday, August 17, 9:00 am-12:00 pm
+      See https://registrar.utexas.edu/students/exams for more information.
+All scores are recorded in Canvas, and grades are computed as follows:
+                                    Homework                         25%
+                                    Classwork and Participation      15%
+                                    Midterm Exam                     30%
+                                    Final Exam                       30%
+                                    Total                            100%
+If your final exam grade is higher than your midterm grade, your final exam grade will replace your
+midterm grade. No makeups for exams will be given.
+We will spend the majority of our class time solving and discussing problems. You are expected to be
+in class, participate in class activities, and contribute to the discussion. You will usually be working in
+groups. Your classwork and participation grade will be based on a combination of attendance checks,
+                                                       1
+
+
+UT Instapoll submissions, and collected classwork. The lowest 3 of these grades will be dropped to
+account for necessary absences.
+Additional out of class work will be assigned every week. Homework assignments will be posted on
+Canvas. No late homework will be accepted, but the lowest homework grade will be dropped.
+Your percentage grade will be rounded to the nearest whole number, and your letter grade will be
+assigned according to a scale no stricter than the following:
+                                   Percent    Grade   Percent    Grade
+                                      93      A          73      C
+                                      90      A-         70      C-
+                                      87      B+         67      D+
+                                      83      B          63      D
+                                      80      B-         60      D-
+                                      77      C+
+                                  General Policies and Info
+Notes on the Calendar
+The last day of the official add/drop period for the second term is July 16, and the last day to drop
+with dean’s approval or change to a credit/no credit basis is August 16. The midterm exam date is
+fixed, but the lesson plan may change according to our needs. You are responsible for knowing what
+material will be covered for each exam by coming to class and checking Canvas.
+Makeups/Religious Holidays
+Per university policy, the only excused absences are for official university business and for religious
+holy days. These absences require documentation and advance notice. Absences for illness are not
+officially excused. No make up work will be permitted for undocumented, unexcused absences for
+illness or any other reason.
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work assignment,
+or a project in order to observe a religious holy day, you will be given an opportunity to complete the
+missed work within a reasonable time after the absence.
+Calculators/Cell Phones/Laptops
+Calculators will not be allowed on exams. Laptops are permitted for note-taking in class, but please
+take care to not be too distracting to your neighbors. I reserve the right to revoke this permission.
+Phone use not related to course is not allowed.
+Students with Disabilities
+Any student with a disability requiring accommodations may make a request from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, at 471-6259,
+http://www.utexas.edu/diversity/ddce/ssd
+Academic Integrity
+Academic dishonesty and plagiarism will not be tolerated in this course. Please refer to the Honor
+Code and Chapter 11 of the Institutional Rules on Student Services and Activities, which may be
+found at http://deanofstudents.utexas.edu/sjs/acint student.php.
+                                                    2
+
+
+Counseling and Mental Health Center CMHC is located in the Student Services Building (SSD)
+on the fifth floor. They are open M-F 8-5, and their website is www.cmhc.utexas.edu.
+Evacuation Procedures The following recommendations regarding emergency evacuation are from
+the Office of Campus Safety and Security:
+   1. Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+      buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and
+      assembling outside.
+   2. Familiarize yourself with all exit doors of each classroom and building you may occupy. Remem-
+      ber that the nearest exit door may not be the one you used when entering the building.
+   3. Students requiring assistance in evacuation shall inform their instructor in writing during the
+      first week of class.
+   4. In the event of an evacuation, follow the instruction of faculty or class instructors.
+   5. Do not re-enter a building unless given instructions by the following: Austin Fire Department,
+      The University of Texas at Austin Police Department, or Fire Prevention Services office.
+   6. Behavior Concerns Advice Line (BCAL): 512-232-5050
+   7. A link to information regarding emergency evacuation routes and emergency procedures can be
+      found at: www.utexas.edu/emergency
+                                                     3
+
+
+                Summer 2019
+                    sM325K
+                     Monday                      Tuesday                  Wednesday                     Thursday                        Friday             Saturday
+             Intro to the Course; 2.1:
+                                                                       2.3: Valid and Invalid     3.1-3.2: Predicates and    3.3: Statements with Multiple
+ July 15    Logical Form and Logical     2.2 Conditional Statements
+                                                                            Arguments              Quantified Statements               Quantifiers
+                    Equivalence
+                                                                                                                                4.5: Indirect Argument:
+               3.4: Arguments with        4.1-4.2: Direct Proof and    4.3: Direct Proof and        4.4: Direct Proof and
+ July 22      Quantified Statements            Counterexample            Counterexample               Counterexample
+                                                                                                                                   Contradiction and
+                                                                                                                                     Contraposition
+           4.6: Indirect Argument: Two
+ July 29        Classical Theorems
+                                               5.1: Sequences              Midterm Exam                5.2: Induction                5.3: Induction
+                                                                                                7.1: Functions; 7.2: One-to-
+          5.4: Strong Induction and the
+August 5      Well-Ordering Principle
+                                               6.1: Set Theory        6.2: Properties of Sets     One and Onto, Inverse       7.3: Function Composition
+                                                                                                          Functions
+           7.4: Cardinality and Sizes of
+August 12              Infinity
+                                              8.1-8.2: Relations    8.3: Equivalence Relations 9.4: The Pigeonhole Principle             Review            Final Exam

@@ -1,0 +1,282 @@
+BME 245L
+EXPERIMENTAL PRINCIPLES OF BME DESIGN
+SUMMER 2019
+INSTRUCTOR
+DR. DAN PUPERI                       DANPUPERI@UTEXAS.EDU                        512-232-6847
+OFFICE: BME 1.108D                   OFFICE HOURS: BY APPOINTMENT USING GOOGLE CALENDAR
+TEACHING ASSISTANT S
+MILES MASSIDDA                       MILESWM@UTEXAS.EDU
+CHUNGMIN HAN                         CMHAN616@UTEXAS.EDU
+LEARNING ASSISTANTS
+ALI ABBASPOUR, JAMES KWON
+COURSE DESCRIPTION
+UNIVERSITY CATALOG C OURSE DESCRIPTION
+Further exploration of biomedical engineering design principles through open-ended hands-on applications.
+                      Conducting research as a Biomedical Engineer
+This course will allow students to connect and extend the material covered in core Biomedical Engineering courses
+through experimentation. Students will gain hands-on experience in Biomedical Engineering applications including
+mechanical testing, cell culture, and biomaterials.
+The goal of the course is to provide students for opportunity for professional growth by exposing them to
+experiment design, use variety of tools to analyze experimental data, teamwork, and scientific communication
+skills.
+LEARNING OBJECTIVES
+By the end of the semester, students will have the opportunity to:
+      • Analyze and statistically interpret multi-factor experimental data using R.
+      • Culture mammalian cells and perform assays to evaluate cell-biomaterial interactions.
+      • Test mechanical properties of biological tissue and compare to non-biological materials.
+      • Create theoretical models of material properties and apply models to mechanical testing data.
+      • Communicate results from lab work in scientific journal format.
+
+
+MY LEARNING OBJECTIVES
+     •
+     •
+     •
+ABET STUDENT OUTCOMES
+(3) an ability to communicate effectively with a range of audiences
+(5) an ability to function effectively on a team whose members together provide leadership, create a collaborative
+and inclusive environment, establish goals, plan tasks, and meet objectives
+(6) an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use
+engineering judgement to draw conclusions
+(7) an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+COURSE REQUIREMENTS
+REQUIRED MATERIALS
+There is no required textbook. All required content will be posted on the Canvas webpage.
+You must keep a lab/design notebook. For this class you will have the option of keeping a physical lab/design
+notebook or an electronic lab/design notebook.
+         Physical notebook must meet the following criteria:
+               1) Permanently bound pages
+               2) Pages pre-numbered, without any missing numbers or pages torn out
+               3) Room for table of contents at the beginning
+         You can buy acceptable lab/design notebooks from either BMES or from the Co-op.
+         Electronic notebook must be Microsoft OneNote.
+         OneNote can be downloaded free for almost every platform.
+         The lab/design notebook must be a separate OneNote notebook from class notes, personal notes, etc.
+         Guidelines for maintaining both physical and electronic lab/design notebooks are posted on Canvas.
+         Lab/design notebooks will be graded in lab throughout the semester.
+We will be using Kahoot for in-class participation. Kahoot is a free app that you can install on your mobile device
+or you can access it from any web-browser at http://kahoot.it. You must be able to use Kahoot in lecture.
+PREREQUISITES
+BIO 206L, BME 314 or 214L, 333T, 335
+PRE- / CO-REQUISITE
+BIO 365R
+
+
+COURSE FORMAT AND LEARNING ACTIVITIES
+The course will consist of 2 hours of lecture per day of class (MTW 9-11am) and a 3-hour lab section per day of
+class (MTW 12-3pm). All lectures will be held in GDC 1.406 and all labs will be held in BME 3.310.
+Both labs and lectures are design to be hands-on.
+Lectures will contain some background information necessary for lab work and connect theoretical concepts to the
+experiments planned in lab. During lecture, we will also explore analysis and communication of experimental data.
+Labs will consist of experiments. Some lab assignments may require work outside of lab time. Lab‐specific
+background and notes will be available online and must be viewed prior to your assigned lab time. Detailed
+background for all experiments, details of the work to be completed, and links to other necessary material will be
+posted on Canvas https://canvas.utexas.edu/. Log in with your UT EID and password.
+HOW TO BE SUCCESSFUL IN THIS COURSE
+Participation: This is a hands-on course. You will learn the most by participating in the experiments and the
+exercises. Participation includes preparing for and showing up on time to both lab and scheduled lectures. Lab
+session attendance is mandatory and some of the in-lecture activities have grade points assigned to them.
+Preparation: All lab assignments can be completed within the allotted time for the labs, but students are generally
+only able to complete an assignment on time if they properly prepare prior to lab. Proper preparation includes
+reading online content, attending lectures, and doing pre‐laboratory planning in your laboratory notebook.
+Explore: One major goal of college is to teach you how to find answers yourself. Research has shown that you will
+learn more by actively participating in learning rather than being spoon fed information from an instructor.
+Teamwork: Much of the work will be accomplished in teams of 2-3. Teams are randomly assigned and you will
+have to work well with your teams in order to be successful. There is no formal peer-feedback for this class.
+[Translated: there is not a mechanism where you can write an angry letter to the instructor complaining about
+your teammates]. Depending on the random team assignments, you might be given the opportunity to learn to
+work with people who may be quite different in their approach and goals than you.
+Practice safety and cleanliness: Successfully working in the lab requires adherence to all safety guidelines. You
+must dress appropriately for a laboratory environment (long pants, socks, close toed shoes), follow all safety
+procedures, and wear PPE (lab coat, gloves, and googles) when appropriate. You must also clean up after yourself.
+A cleaner lab is a safer lab and you will be graded on your ability to keep things tidy. This is especially true for
+BME245L, where there are both biological and chemical hazards.
+
+
+ASSIGNMENTS
+Your assignments for the course include written assignments, quizzes, an end of semester exam, and your lab work
+(including lab/design notebook).
+     1.  Written assignments make up the majority of your grade and are listed below
+Individual papers
+              a.  Pipette accuracy experiment report – a short paper describing the results and statistical analysis
+                  of an experiment to test the accuracy of the pipettors (8% of final grade)
+              b.  Cell culture preliminary paper – a full paper, structured like a scientific article to include an
+                  Introduction, Materials and Methods, any preliminary data, and a References section with up-to-
+                  date literature. Results and discussion should include all activities up to that point with data and
+                  results presented as appropriate. (10% of final grade)
+Group papers
+              c.  Cell culture paper – a full paper (Intro, Materials and Methods, Results and Discussion, and
+                  Conclusions) describing the biomaterials, cell growth, adhesion and cytotoxicity experiments
+                  (10% of final grade).
+              d.  Mechanical testing paper – a full paper (Intro, Materials and Methods, Results and Discussion
+                  and Conclusions) describing the results of the mechanical testing of hydrogels, chicken bone,
+                  chicken tendon (10% of final grade).
+     2.  There are pre-lab quizzes before most labs and lecture quizzes during some lectures. The purpose of the
+         pre-lab quizzes is to help ensure that you have properly prepared for lab and help you feel confident in
+         the experiments that you are about to run. The purpose of the lecture quizzes is to give students a chance
+         to do some problem solving and to give you some insight into what I consider are the key concepts that
+         you should know. (22% of final grade)
+     3.  Exam – at the end of the semester, there will be an exam that covers material discussed in lecture and
+         learned from the laboratory experiments. On the 2nd to last lecture, you will take the exam individually.
+         During the final lecture period, you will retake the exact same exam with your team. 60% of your exam
+         score will be from the individual portion, 40% will be from the team portion. (12.5% of final grade)
+     4.  Reflection essay - due at end of class discussing how this course has met learning objectives and fits into
+         your goals. (5% of final grade)
+     5.  Lab work – you will receive feedback each week in lab on your lab notebook and in lab work. This
+         includes things such as proper preparation, safety, cleanliness, documentation of results, and teamwork.
+         (20% of final grade)
+
+
+COURSE SCHEDULE
+       Schedule may be adjusted as semester progresses to meet learning goals more effectively
+   Lab          Date                    Lecture topics                                   Lab                                  Due
+     1       6/10/2019       Introduction and cell culture basics            Make media and seed cells
+     2       6/11/2019            Statistical analysis with R              Pipette accuracy experiment
+     3       6/12/2019            Biomaterials - hydrogels                      Hydrogel synthesis          My learning objectives
+     4       6/17/2019            Writing scientific papers                    Cell attachment assay
+     5       6/18/2019                   NO LECTURE                            Cell attachment assay        Pipette accuracy paper
+     6       6/19/2019            Writing scientific papers               Seed cells for cytotoxicity assay
+     7       6/24/2019                   NO LECTURE                              Cytotoxicity assay         Cell culture preliminary paper
+     8       6/25/2019       Biomechanics / mechanical testing                   Cytotoxicity assay
+     9       6/26/2019       Biomechanics / mechanical testing                  Mechanical testing
+    10       7/1/2019        Biomechanics / mechanical testing                  Mechanical testing          Team cell culture paper
+    11       7/2/2019        Biomechanics / mechanical testing                  Mechanical testing
+    12       7/3/2019                    NO LECTURE                             Mechanical testing
+             7/8/2019                    Exam Review                                  NO LABS
+             7/9/2019                  Individual Exam                                NO LABS
+             7/10/2019                    Team Exam                                   NO LABS               Mechanical testing paper
+             7/12/2019                                                                                      Reflection essay
+
+
+COURSE POLICIES
+CLASS PARTICIPATION AND ATTENDANCE
+Lecture and lab attendance is mandatory. Students are expected to attend all lab sessions and to show up on time.
+All absences must be discussed with the Instructor prior to the session. In some cases, it may be more convenient
+for a team to schedule time on a particular piece of equipment or to finish an experiment outside of normal lab
+hours. These requests will be handled on a case-by-case basis. Unexcused absences/tardiness will result in losing
+points on your lab work grade. No student may miss more than 3 labs for any reason and still pass the course.
+In addition, the cell culture experiments will require activities outside of scheduled lab time (including feeding,
+passaging, and counting cells). None of these activities will consume a lot of time, but will be required. You will be
+able to sign up for cell-culture hood time on a calendar on Canvas to avoid conflict with other teams and lab times.
+LAB CLEANLINESS
+Before leaving lab, you must clean up after yourself. If the TA or instructor has to clean up after you, you will lose
+points on your lab work grade. The instructor may decide that the whole class may lose points if the lab area is not
+properly cared for.
+GRADING POLICY AND PROCEDURES
+Lab assignments must be submitted electronically on Canvas before the beginning of your lab session on the due
+date. Lecture assignments are due before the beginning of lecture on the due date. Due dates will be made clear
+when assignments are given. Any late submission will be penalized 5 points before close of business (5:00 pm) and
+10 points per day after that. A student (and an assignment) will be considered “late” 20 minutes after the start of
+the lab session.
+REGRADE REQUESTS
+Grading questions and clarifications should be discussed with the grader (either TA or instructor). If you believe an
+assignment was unfairly graded by the TA, you must submit, in writing, a re-grade request to the instructor within
+3 days of the assignment being returned. The instructor will re-grade the ENTIRE assignment from scratch, without
+referencing the original grading.
+LATE ASSIGNMENTS
+No late assignments will be accepted without penalty unless approved prior to the due date of the assignment or
+in exceptional cases (e.g., death in immediate family, hospitalization, etc.) Assignments will be posted via Canvas
+unless otherwise specified. If there are extenuating circumstances they must be cleared in advance if possible, and
+if not, supported by a doctor’s note or other official source.
+
+
+GRADING
+The breakdown of your final grade is as follows
+                     Assignment                         Points possible           Percent of total grade
+  Individual papers                                   180                    18%
+           Pipette practice paper                              80                      8%
+           Cell culture preliminary paper                      100                     10%
+  Group papers                                        200                    20.0%
+           Cell culture paper                                  100                     10%
+           Mechanical testing paper                            100                     10%
+  Quizzes                                             220                    22%
+           Pre-lab quizzes                                     120                     12%
+           Lecture quizzes                                     85                      8.5%
+           Class-wide Kahoot participation                     15                      1.5%
+  Exam                                                125                    12.5%
+  My learning objectives                              25                     2.5%
+  Reflection essay                                    50                     5%
+  Lab work (20 points per week*10 weeks)              200                    20%
+Note on class-wide Kahoot participation grade: We are a learning community. Each one of you is important to the
+success of this learning community. If you are not in class or not participating in class, then everybody in the
+learning community misses out. This is an important enough concept for me to include as a small part of your
+formal feedback in your grade.
+Grades will be assigned as follows. If you are within 3 points / 0.3% of the next cutoff, consideration will be given
+for participation and effort to bump your grade up to the next level. I will not bump grades up automatically; you
+must ask and give me the rationale why I should round your grade up.
+     Grade           Cutoff         Points needed
+  A               94%            940
+  A-              90%            900
+  B+              87%            870
+  B               84%            840
+  B-              80%            800
+  C+              77%            770
+  C               74%            740
+  C-              70%            700
+  D               65%            650
+  F               0%             0
+
+
+UNIVERSITY POLICIES
+RELIGIOUS HOLY DAYS
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in
+order to observe a religious holy day, I will give you an opportunity to complete the missed work within a
+reasonable time after the absence.
+Q DROP POLICY
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop deadline,
+which typically occurs near the middle of the semester. Under Texas law, you are only allowed six Q drops while
+you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+STUDENT ACCOMMODATIONS
+Students with a documented disability may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329-
+3986 (video phone). http://ddce.utexas.edu/disability/about/
+     •   Please request a meeting as soon as possible for us to discuss any accommodations
+     •   Please notify me as soon as possible if the material being presented in class is not accessible
+     •   Please notify me if any of the physical space is difficult for you
+UNIVERSITY RESOURCES FOR STUDENTS
+The university has numerous resources for students to provide assistance and support for your learning
+     •   Sanger Learning and Career Center: http://www.utexas.edu/ugs/slc
+     •   University Writing Center: http://uwc.utexas.edu/
+     •   Information Technology Services: http://www.utexas.edu/its/
+     •   Counselling and Mental Health Center: http://www.cmhc.utexas.edu/individualcounseling.html
+     •   Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+     •   Libraries: http://www.lib.utexas.edu/
+     •   Canvas: https://utexas.instructure.com/courses/633028/pages/student-tutorials
+
+
+ACADEMIC INTEGRITY
+Each student in the course is expected to abide by the University of Texas Honor Code:
+“As a student of The University of Texas at Austin, I shall abide by the core values of the University and uphold
+academic integrity.”
+Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that are not your own (or that you
+have used in previous class), you must cite your sources. Otherwise you will be guilty of plagiarism and subject to
+academic disciplinary action, including failure of the course. You are responsible for understanding UT’s Academic
+Honesty and the University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+All assignments in this course may be processed by TurnItIn, a tool that compares submitted material to an
+archived database of published work to check for potential plagiarism. Other methods may also be used to
+determine if a paper is the student's original work. Regardless of the results of any TurnItIn submission, the faculty
+member will make the final determination as to whether or not a paper has been plagiarized.
+DO NOT MESS AROUND WITH ACADEMIC INTEGRITY. IF YOU ARE UNSURE OR CONFUSED, ASK FOR
+HELP. IF YOU TURN IN AN ASSIGNMENT THAT HAS ACADEMIC INTEGRITY ISSUES, “I DIDN’T KNOW” IS
+NOT AN EXCUSE.
+IMPORTANT SAFETY INF ORMATION
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the Behavior
+Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel right – it probably
+isn’t. Trust your instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety and Security,
+512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings when an
+alarm or alert is activated. Alarm activation or announcement requires exiting and assembling outside, unless told
+otherwise by an official representative.
+     •    Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that
+          the nearest exit door may not be the one you used when entering the building.
+     •    Students requiring assistance in evacuation shall inform their instructor in writing during the first week of
+          class.
+     •    In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a
+          building unless given instructions by the following: Austin Fire Department, The University of Texas at
+          Austin Police Department, or Fire Prevention Services office.
+     •    Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+          http://www.utexas.edu/emergency

@@ -1,0 +1,122 @@
+"The purpose of economics is not to acquire a set of readymade answers to economic questions,
+but to learn how to avoid being deceived by economists."          Joan Robinson, 1955
+                                Macroeconomic Theory
+     ECO 320L (80319) summer 2019                MTWThF 8:30 – 9:45, UTC 1.130
+Brian Trinque                 trinque@austin.utexas.edu, BRB 2.102B (512-475-8557)
+                              Office hours: M 10 to noon and 3 to 5, or by appointment
+Description
+This course builds on the material presented in Introduction to Macroeconomics
+(ECO 304L). Major theoretical concepts, analysis tools, and empirical regularities
+are explored in the context of issues facing the United States and other economies.
+By the end of the course, students should be able to address three sets of questions.
+(1) What determines the performance of an economy (e.g., its growth rate, its
+unemployment rate)? (2) In what ways are macroeconomies being permanently
+transformed in the 21st century? (3) How do particular macroeconomies interact
+with, and deviate from, the general mechanisms of the global economy?
+The prerequisite for this course is ECO 420K. If your transcript does not show
+credit for ECO 420K, with a grade of “C minus” or better
+                           you will be dropped from this course;
+                       you are advised to adjust your schedule now
+          (no economics courses may be added after the fourth class meeting).
+Materials
+        The required text is Macroeconomics, 2nd Edition, by Frederic Mishkin (Ó
+2015). Additional course materials will be placed on Canvas.
+Expectations
+        Lectures consist primarily of extensions and applications of topics in the
+Mishkin text. I will alert the class to common errors and easily overlooked
+subtleties. Above all, the best use of our class time is for me to answer your
+questions.
+
+
+ECO 320L (80319), summer 2019                                                  2
+       To learn macroeconomics, you must take an active role. Your tasks are to
+read the assigned chapters and identify concepts you find unclear, to test your
+comprehension by thinking carefully about the exercises at the end of each chapter,
+and to give me opportunities to help with the uncertainties you encounter. To
+encourage active learning, there will be three in-class quizzes, which will serve as
+diagnostic “pre-tests,” revealing to what extent you are prepared to perform well
+on exams, and where you might need additional efforts and/or help.
+       Please let me know immediately if you have any problem that is preventing
+you from performing satisfactorily in this class. Any student with a documented
+disability who requires academic accommodations should contact Services for
+Students with Disabilities (SSD) at http://ddcetest.info/disability/contact-us/.
+Exams and Grading
+       There will be three mid-term exams and a comprehensive final exam (dates
+are provided below). Final grades will be based on the three highest exam scores;
+if you are satisfied with your scores on the mid-term exams, you need not take the
+final exam.
+       Weights used to calculate final grades
+       quizzes                                       10%
+       mid-term exams                                30% X 3, or 25% X 2
+       final exam (optional)                         40%
+       The “quizzes” score is based solely on your taking the quizzes. The score is
+not affected by whether or not you get the right answers. Everyone begins the
+course with an “A” for this 10%; the quizzes grade will decline only if you miss
+any of the quizzes.
+       The final exam score is included in the grade computation only if doing so
+raises your grade. If so, the final exam is weighted 40%, and the two highest mid-
+term scores are weighted 25% each.
+       Exams are based on class lectures. Familiarity with Mishkin's coverage of
+the material is required to understand the lectures and to perform well on exams.
+Exam questions involve graphs, algebra, and economic logic (cause & effect).
+Grades on each exam are curved up to a class average of 70%.
+       Quizzes and exams will be returned in class. Thereafter, such documents
+will be in my office for you to collect at your convenience (and are stored for
+
+
+ECO 320L (80319), summer 2019                                               3
+approximately four years). Retrieving the graded documents is the only way to
+know your grade. I do not post grades nor discuss grades via phone or email.
+Final course grades become available on line when and as the Registrar posts them.
+                                   93 to 100    A
+                                   90 to 92     A-
+                                   87 to 89     B+
+Conversion of score                83 to 86     B
+to letter grade:
+                                   80 to 82     B-
+                                   75 to 79     C+
+                                   65 to 74     C
+                                   60 to 64     C-
+                                   50 to 59     D
+                                   0 to 49      F
+Topics, Readings, and Dates
+    I.    Exorbitant privilege.
+          A. Is there enough money in the world?
+                                  OPTIONAL READING
+        Kitchen, John and Menzie Chinn. 2011. "Financing US debt: Is there
+           enough money in the world -- and at what cost?" International finance
+           14:3. 373-413.
+          B. Saving, investment, and the equilibrium real interest rate.
+                              Chapters 3, 4, 6, & 16 – 19
+                                  OPTIONAL READING
+        Coeurdacier, Nicolas, Stéphane Guibaud and Keyu Jin. 2015. "Credit
+           constraints and growth in a global economy." American economic review
+           105:9. 2838-2881.
+
+
+ECO 320L (80319), summer 2019                                               4
+       Del Negro, Marco, Domenico Giannone, Marc P Gianonni, and Andrea
+           Tambalotti. 2019. "Global trends in interest rates." Journal of
+           international economics 118. 248-262.
+                                                                    Quiz 1, 12 June
+                          ***EXAM ONE, Monday, 17 June***
+ II.   The long run ain't what it used to be.
+         A. The "V" is gone.
+                                  OPTIONAL READING
+       Wynne, Mark A. 2011. "The sluggish recovery from the Great Recession:
+           Why there is no 'V' rebound this time." Federal Reserve Bank of Dallas
+           economic letter 6:9. 1-4.
+                               Chapters 5, 8 – 13 & 21
+         B.    Targeting r*.
+                                                                    Quiz 2, 20 June
+                       ***EXAM TWO, Wednesday, 26 June ***
+III.   The frivolity economy.
+         A. Import-led growth.
+         B.    Learning-by-failing.
+                                  Chapters 5 & 20
+                                  OPTIONAL READING
+       Cheremukhin, Anton. 2014. "Middle-skill jobs lost in U.S. labor market
+           polarization." Federal Reserve Bank of Dallas economic letter 9:5. 1-4.
+                                                                  Quiz 3, 2   1 July
+                           ***EXAM THREE, Friday, 5 July***
+        ***FINAL EXAM (comprehensive), Friday, 12 July, 7 to 10pm***

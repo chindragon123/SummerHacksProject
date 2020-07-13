@@ -1,0 +1,425 @@
+Dr. Yasmiyn Irizarry                                                             Spring 2019
+                           Numbering Race
+                  AFR 302M (Unique: 30435)/ SDS 310T (Unique: 55970)
+Time: T/TH 11:00am – 12:30pm                                               Place: RLP 1.402
+ What materials do I need?
+  The required textbook reader for
+  this course is Social Statistics for
+  a Diverse Society, 8th Edition.
+  New and used copies, as well as
+  ebook and rental options, are
+  available at the University Co-op
+  or online. Additional readings will
+  be available on Canvas. Make sure
+  to bring your course
+  reader and any other
+  assigned readings to
+  each class session.
+ Canvas will also have:                What is this course about?
+  1. Lecture slides
+                                       In this course, you will have the opportunity to
+  2. Weekly reading quizzes
+  3. Problems sets and lab             examine, analyze, and critique real-world data,
+      assignments                      quantitative research, and public discourse
+  4. Links to resources                concerning race in America. Some empirical and
+  5. Gradebook
+                                       quantitative skills you will learn this semester
+  6. Important announcements
+                                       include: 1) Conceptualization and measurement,
+  A scientific calculator is also      2) The calculation and interpretation of
+  required for this course. We will    descriptive statistics and statistical relationships,
+  be using the Flipd mobile app        3) The application of statistical techniques to
+  (available for Android and iOS) to
+                                       understand social phenomenon, and
+  measure engagement and
+  attendance. See page 5 for details,  4) Techniques for presenting results from
+  cost, and download instructions.     quantitative analysis. You will also introduced to
+                                       the quantitative actions that justify racial thinking
+  Optional: I highly recommend         and impact our current collective and individual
+  that you purchase a six month
+                                       understandings of race. This course satisfies the
+  license of the IBM SPSS Grad
+  Pack for Students (Base v25).        core math requirement and carries the
+                                       quantitative reasoning flag.
+                                                1
+
+
+Numbering Race, Dr. Irizarry                                                    Spring 2019
+What is expected of me?                                How do I contact my
+                                                       professor or TA?
+   Complete the weekly reading assignment              Professor: Dr. Yasmiyn Irizarry
+   Take the weekly reading quiz                        Pronouns: she/her/hers
+                                                        Office: Patton Hall, RLP 2.408D
+   Attend class, Flip off, and participate             Office Phone: (512) 471-3294
+   Complete the problem sets                           Email: yirizarry@austin.utexas.edu
+                                                        Office Hours: Tu/Th 3:30–5pm
+   Work on the lab assignments
+                                                                       or by appointment
+   Study for and take the two exams
+                                                        Note: I hold ‘group-style’ office
+  Reading Quizzes                                       hours. You are welcome to drop-
+                                                        in, even if you’re not sure of what
+  You must take weekly reading quizzes on               to ask or how to ask it! If you have
+  Canvas (twelve in total). You are allowed to use      a grade or personal concern, it is
+  your readings and notes, but the quiz will be         best to email me for an individual
+  timed, so I highly recommend that you read            appointment.
+  beforehand. Reading quizzes will post
+  sometime Thursday afternoon and must be               TA: Karen Lee
+  completed by the following Tuesday at 10am.           Office: RLP, 3rd Floor, Cubicle 9
+  Each quiz can only be taken once, so make sure        Email: karen.h.lee@utexas.edu
+  that you have a good internet connection and          Office Hours: Tu 12:30-3:30pm
+  enough battery power before you begin.                               or by appointment
+  Problem Sets
+  Problem sets are out-of-class assignments designed to familiarize you with the
+  methodological and statistical concepts covered in class, as well as with the
+                                                estimation, interpretation, and
+                                                presentation of quantitative data
+                                                using SPSS and Excel (think of
+                                                problem sets as homework). You will
+                                                be assigned problem sets throughout
+                                                the semester (ten in total). Each
+                                                problem set will be posted to Canvas
+                                                at least one week before the due
+                                                date. Unless otherwise noted,
+                                                problems sets must be turned in by
+                                                the start of class on the date listed in
+                                                the course schedule.
+                                            2
+
+
+Numbering Race, Dr. Irizarry                                                            Spring 2019
+  How is my performance               Guided Lab Project
+  assessed?                           In the guided lab project, you will apply your
+   Your final course grade will be    newly learned estimation, interpretation, and
+   determined as follows:             presentation skills to investigate a social problem
+                                      using real data. Rather than working on the
+   Participation/Engagement 5%
+                                      project all at once, this project will be broken into
+   Reading Quizzes                 5% two labs, with the second lab building on the first.
+   Problem Sets                   30% Each lab assignment will be posted on Canvas at
+                                      least two weeks before the due date.
+   Lab Project                    20%
+   Exams                          40% Exams
+                                      You will take two exams. Exam 1 will test material
+  What is the Grading                 covered in the half of the course, and Exam 2 will
+  Scale?                              test material covered in the second half of the
+   Letter                 Percentage  course. Each exam may include a combination of
+      A                    93 – 100   multiple choice, definition, calculation,
+      A-                   90 – 92.9  interpretation, and short essay questions.
+      B+                   87 – 89.9
+      B                    83 – 86.9
+      B-                   80 – 82.9
+      C+                   77 – 79.9
+      C                    73 – 76.9
+      C-                   70 – 72.9
+      D+                   67 – 69.9
+      D                    63 – 66.9
+      D-                   60 – 62.9
+      F                    < 60
+                                                        Credit: Jeff Dray, Photographer
+Lab Access
+You will need access to SPSS and Excel to complete lab assignments and many of
+the problem sets. Both programs are available in RLP 1.402 & 1.404, which you can
+access when classes are not in session (see the posted schedule for availability).
+SPSS may also be available in COLA labs at BAT 1.130, MEZ 4.128, and HRH 4.102B.
+If you wish to work on your own computer, a six month license of SPSS can be
+purchased online for around $35. Excel is available for free through UT’s Office 365
+Portal.
+                                              3
+
+
+Numbering Race, Dr. Irizarry                                                     Spring 2019
+What are the class                                      What can I do to
+                                                        succeed in this course?
+expectations and policies?
+I am committed to making this classroom a space         1. Attend all your classes, pay
+                                                              attention, and take good
+where you can be creative, ask questions, openly
+                                                              notes.
+and honestly discuss course material and
+assignments, reason through arguments, and              2. Use a planner or digital
+safely explore beyond your personal and                       assistant to help you stay
+intellectual comfort zones.                                   organized.
+                                                        3. Connect with your professor
+Respect for Others
+                                                              or TA during office hours.
+As a student, you are expected to work individually
+                                                        4. Dedicate about 6 hours
+and with others, to be respectful of individual
+                                                              outside of class each week
+differences, and to create an atmosphere that is              for reading, completing
+safe and open to diverse perspectives. Personal               assignments, and reviewing
+attacks, comments, or postings that belittle,                 your notes.
+degrade, or ridicule another, whether based on
+                                                        5. Start problem sets early so
+individual or cultural differences, are unacceptable.
+                                                              you have time to ask
+Any student who engages in bullying behavior
+                                                              questions if you get stuck.
+during class will be asked to leave.
+                                                        6. Schedule times to work with
+Participation and Engagement                                  classmates on lab
+This course requires active participation, which is           assignments.
+crucial to your success. Active participation           7. Do assigned reading before
+includes being prepared to discuss readings,                  taking the reading quiz.
+assignments, and concepts, engaging yourself in         8. Ask questions, ask questions,
+classroom activities and discussion, and putting              ask questions…and then ask
+your best effort in both formal and informal                  more questions. In addition
+assignments.                                                  to helping you learn, research
+                                                              shows that asking questions
+                    Taking notes by hand
+                    increases long-term                       increases your likability, so
+                    comprehension.                            don’t be afraid to ask them!
+                                                        9.
+                                            4         Credit: MaxPixel.net
+
+
+Numbering Race, Dr. Irizarry                                                   Spring 2019
+Course & University Policies                             Tech Etiquette Policy
+Flipd                                                    As research on learning shows,
+                                                         unexpected noises and
+We will be using the Flipd app
+                                                         movement automatically divert
+(http://www.flipdapp.co/) in class to measure            and capture people's attention,
+engagement and attendance. You’re responsible            which means you are affecting
+for using the Flipd app in every class to earn this      everyone’s learning experience if
+credit. While you’re “Flipd Off”, you can still receive  your cell phone, tablet, laptop,
+an emergency phone call or text (which I would           etc. makes noise or is visually
+expect you to take in the hall outside the               distracting during class. For this
+classroom anyway). Flipd sends me a full                 reason, I ask that you put away
+summary of your participation each class, so if          any technology that is not in use
+you’ve had Flipd on for pretty much the whole            and keep your mobile devices
+class I will give you the credit. Up to 50% of your      silent and out of sight. While not
+participation grade in class will be based on how        recommended, you may use the
+much time you spend Flipd Off and your                   lab computers or tablets to
+engagement with Flipd polls outside of class. The        access lecture slides and readings
+remaining 50% is based on your active                    or to take notes. Any other use
+participation and engagement in class. The cost to       of these devices is strictly
+                                                         prohibited.
+join Flipd for the semester is $7.99. You can
+redeem a 30% discount by purchasing Flipd at this
+link:
+https://dashboard.flipdapp.co/Students/ClassAcce
+ss (use this case-sensitive promo code:
+FLIPDJAN30). Having problems with the app? Use
+the in-app chat to get assistance, send an email to
+info@flipdapp.co, or visit their FAQ website here:
+https://intercom.help/flipdapp/for-students
+Download instructions: From your phone, visit
+the Google Play Store or the App Store and search
+Flipd. Sign into the Flipd app with your email
+address, Google, or Facebook account. Once
+logged in you must join our class by entering this 5-digit code (96116). You will need
+to login and join our class by 10am on Tuesday, January 29.
+NOTE: If you do not have a compatible mobile device, contact me as soon as
+possible to discuss alternatives.
+                                             5
+
+
+Numbering Race, Dr. Irizarry                                               Spring 2019
+Personal Pronouns
+Class rosters provided by the university have your legal name. I will
+gladly honor your request to address you by a different name, and
+by the gender pronouns you use. Please advise me of this preference early in the
+semester so that I may make appropriate changes to my records.
+Attendance
+Attendance will be taken at the beginning of each class. You may miss up to four
+class days (regardless of the reason for the absence) with no penalty. For each
+additional absence beyond four absences, I will deduct 3% points off of your final
+grade. There is no exception to this policy. If you do not plan to attend regularly,
+you should not take this class. Students who miss class will be responsible for the
+material covered and announcements made in class.
+Late Work and Make-Up Policy
+Late work will be handled on a case-by-case basis. Please communicate with me if
+you are having problems keeping to the schedule. It is better to talk through
+problems than ignore them. There are no make-ups for missed quizzes, but you
+can miss two quizzes without penalty. Make-ups for all other assignments and for
+exams are only offered with proper documentation of a UT-sanctioned absence.
+Email me as soon as possible to discuss.
+Q Drop Policy5
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop
+before the Q-drop deadline, which typically occurs near the middle of the semester.
+Under Texas law, you are only allowed six Q drops while you are in college at any
+public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+Religious Holy Days
+UT Austin policy requires that you notify me of your pending absence at least
+fourteen days prior to the date of observance of a religious holy day. If you must
+miss a class, an examination, a work assignment, or a project in order to observe a
+religious holy day, I will give you an opportunity to complete the missed work within
+a reasonable time after the absence.
+Incompletes
+In accordance with departmental and university policies, I will not grant an
+incomplete except in cases with unusual circumstances.
+                                            6
+
+
+Numbering Race, Dr. Irizarry                                              Spring 2019
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and
+assemble outside when a fire alarm is activated or an announcement is made.
+Please be aware of the following policies regarding evacuation:
+  Familiarize yourself with all exit doors of the classroom and the building.
+   Remember that the nearest exit door may not be the one you used when you
+   entered the building.
+  If you require assistance to evacuate, inform me in writing during the first week
+   of class.
+  In the event of an evacuation, follow my instructions or those of class
+   instructors.
+  Do not re-enter a building unless you’re given instructions by the Austin Fire
+   Department, the UT Austin Police Department, or the Fire Prevention Services
+   office.
+  Academic Integrity
+  The core values of The University of Texas at Austin are learning, discovery,
+  freedom, leadership, individual opportunity, and responsibility. Each student in
+  the course is expected to uphold these values through integrity, honesty, trust,
+  fairness, and respect toward peers and community (see
+  http://deanofstudents.utexas.edu/sjs/acint_student.php).
+  For this course, collaboration is not allowed on any assignments. Any work
+  you submit for academic credit must be your own work. You are encouraged to
+  study together and to discuss information and concepts covered in lecture and
+  the sections with other students. You can give "consulting" help to or receive
+  "consulting" help from classmates. However, this permissible cooperation
+  should never involve one student walking another student through a problem
+  from start to finish, or one student having possession of a copy of all or part of
+  work done by someone else, in the form of an e-mail, an e-mail attachment file,
+  a saved data file, or a hard copy. Should copying occur, both the student who
+  copied work from another student and the student who gave material to be
+  copied will automatically receive a zero for the assignment. Penalty for violation
+  of this Code can also be extended to include failure of the course and University
+  disciplinary action.
+                                            7
+
+
+Numbering Race, Dr. Irizarry                                                       Spring 2019
+University Resources for Students
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and
+abilities. If there are circumstances that make our learning environment and
+activities difficult, if you have medical information that you need to share with me,
+or if you need specific arrangements in case the building needs to be evacuated,
+please let me know. I am committed to creating an effective learning environment
+for all students, but I can only do so if you discuss your needs with me as early as
+possible. Also, please notify me as quickly as possible if the material being
+presented are not accessible. I promise to maintain the confidentiality of these
+discussions. If appropriate, also contact Services for Students with Disabilities, 512-
+471-6259 (voice) or 1-866-329- 3986 (video phone).
+http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+All of us benefit from support during
+times of struggle. You are not alone.
+There are many helpful resources
+available on campus and an important
+part of the college experience is learning
+how to ask for help. Asking for support
+sooner rather than later is often helpful.
+If you or anyone you know experiences
+any academic stress, difficult life events,
+or feelings like anxiety or depression, we               Credit: CollegeDegrees360
+strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the
+Behavior Concerns Advice Line to discuss by phone your concerns about another
+individual’s behavior. This service is provided through a partnership among the
+Office of the Dean of Students, the Counseling and Mental Health Center (CMHC),
+the Employee Assistance Program (EAP), and The University of Texas Police
+Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+                                              8
+
+
+Numbering Race, Dr. Irizarry                                                              Spring 2019
+Class Schedule (LGFN = Course Textbook)
+      Topic              Date     Reading                                          Important Dates
+      Measuring        Jan 22/    Prewitt Ch. 2; James 2001; OMB
+ 1
+      Race & Racism Jan 24        Guidelines for Race; DOE 2007
+      Quantitative     Jan 29/ LGFN Ch. 1; NYT Perception Polling and
+ 2                                                                                 Jan 31: PS1 Due
+      Measurement      Jan 31     Reality; PLOS BMI; Pew Census Revamp
+      Presentation of  Feb 5/     LGFN Ch. 2; Best Ch. 2 (pg. 42-62); NYT          Feb 5: SPSS
+ 3
+      Data             Feb 7      Growing Divide; CCR NYPD                         Feb 7: PS2 Due
+      Central          Feb 12/ LGFN Ch. 3; Best Ch. 2 (pg. 26-30);
+ 4                                                                                 Feb 14: PS3 Due
+      Tendency         Feb 14     Census Inc and Pov; HFS Race and Wealth
+      Measures of      Feb 19/
+ 5                                LGFN Ch. 4                                       Feb 21: PS4 Due
+      Variability      Feb 21
+      The Normal       Feb 26/
+ 6                                LGFN Ch. 5                                       Feb 28: PS5 Due
+      Distribution     Feb 28
+                       Mar 5/
+ 7    Review                                                                       Mar 7: PS6 Due
+                       Mar 7
+                       Mar 12/                                                     Mar 12: Exam 1
+ 8    Exam
+                       Mar 14                                                      Mar 14: Lab
+      Sampling         Mar 26/ LGFN Ch.6; ; Roper Polling
+ 9                                                                                 Mar 28: Lab
+      Distributions    Mar 28     Fundamentals
+                       Apr 2/
+10    Estimation                  LGFN Ch.7; Census Income and Poverty             Apr 4: Lab 1 Due
+                       Apr 4
+      Group            Apr 9/     LGFN Ch. 8; Race and Ethnicity Polling
+11                                                                                 Apr 11: PS7 Due
+      Comparison       Apr 11     Results; Gallup HBCU Debate; Pager 2003
+                                  LGFN Ch. 9 & 10; Best Ch. 2 (pg. 30-36);
+      Bivariate        Apr 16/
+12                                CRDC School Discipline; IUPRA Numbers            Apr 18: PS8 Due
+      Tables           Apr 18
+                                  Brief 1& 4
+      Correlation      Apr 23/
+13                                LGFN Ch. 12; HFS Race and Wealth                 Apr 25: PS9 Due
+      and Regression Apr 25
+                       Apr 30/ Holland 2003; Best Ch. 2 (pg. 37-42);
+14    Special Topics                                                               May 2: PS10 Due
+                       May 2      Dubrow 2013; Gillborn et al. 2018
+                                                                                   May 9: Exam 2
+                       May 7/
+15 Review                                                                          Lab 2 Due May 18
+                       May 9
+                                                                                   by 12 noon
+Note Regarding Syllabus Changes: The following schedule is tentative and may vary depending
+on class discussions and feedback. I reserve the right to make changes to the schedule of readings
+and/or lectures during the course of the semester and will announce these changes both in class and
+on Canvas. You should have all assigned readings completed before the beginning of class on the date
+listed.
+                                                   9
+
+
+Numbering Race, Dr. Irizarry                                                 Spring 2019
+                 Appendix: The Meaning of Grades
+For students, the grading process can be a mystery. After completing your essay or
+exam, it may seem that they are sent off to a place where grades magically appear
+at random. I want to assure you that this is not the case. Just as you put time and
+effort into completing your assignments and exams, I put time and effort into
+grading them. This means that I do read every word of your essays, papers, and
+exam answers. Whenever possible, I will have detailed grading rubrics that allow
+me to deduct points in the same way from each student’s exam. In the case of
+response essays, in which a specific grading rubric is not practical, the following
+describes my view on what makes an answer worth each letter grade:
+A       Work surpasses the requirements of an assignment by adding new insights,
+        creativity, and/or particularly thoughtful analysis or applications. In “A”
+        answers, students demonstrate a complete understanding of the course
+        material, have clearly stated purposes, and support their ideas with
+        examples when appropriate. Few changes, corrections, or suggestions can
+        be made regarding the accuracy of information or the effectiveness of
+        communication.
+B       Work meets the requirements of the assignment. In “B” answers, students
+        demonstrate a solid command of the course material, support their ideas
+        with examples when appropriate, state their purposes, and apply concepts to
+        another context if applicable. “B” work is clear and effective, has good
+        organization, and has clearly expressed ideas.
+C       Work partially meets the requirements of the assignment. In “C” answers,
+        students demonstrate an acceptable command of the course material and a
+        basic ability to apply concepts, support their ideas, and state their purposes.
+        A “C” may indicate work that has some gaps and errors or communication
+        that is inconsistent or difficult to follow.
+D       Work marginally meets the requirements of the assignment and has many
+        areas that need improvement. Often “D” work indicates an attempt to
+        merely repeat the material from class discussions without further insight or
+        consideration.
+F       Work does not meet the requirements of the assignment. “F” work is
+        consistently weak, reflecting little thought or effort.
+                                               10

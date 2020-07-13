@@ -1,0 +1,277 @@
+M F358K Applied Statistics             Unique Number 86360                    Summer 2019
+Room: RLM 6.104                 Meets: MTWThF 11:30-1:00 p.m.
+Instructor: Gustavo Cepparo office: RLM 13.148
+gcepparo@math.utexas.edu phone: 232-6189
+Office hours: T W 10:30-11:30 a.m. and F 1:00-2:00 p.m. (other hours by appointment)
+Prerequisite: M362K (or equivalent) with grade of C or better
+Text: Introduction to the Practice of Statistics 9th edition by Moore McCabe Craig. (The
+sections on probability are largely review, so we’ll cover them more quickly than the sections
+containing new material.)
+The text will be supplemented with occasional lectures and/or notes going into the more
+mathematical aspects of the subject. (The hardcopy of the text is optional)
+LaunchPad for Introduction to the Practice of Statistics 9th edition is required:
+You can purchase Launchpad from
+http://www.macmillanhighered.com/launchpad/ips9e/10788905
+ADVICE FOR SUCCESS
+Actively participate in the course by attending lectures, asking questions, doing the assigned
+homework problems and additional problems covering your weak topics, and utilizing my office
+hours. Please do come to my office hours if you have questions or concerns.
+Before you email me to ask a question about the rules and procedures of this course, please read
+through this syllabus to see if the answer is written here. I diligently tried to include here any
+information that you might ask; please utilize it.
+Nature of the course: Statistics is a mathematical science rather than a branch of mathematics.
+Thus this course will have many aspects of a typical math course, but many aspects that are not
+typical of math courses. Some things to expect:
+- In many problems, you will need to combine common sense and everyday knowledge with
+mathematical and/or statistical techniques.
+- Some questions on homework and exams will not have one correct answer; your grade on such
+questions will depend largely on the case you make for your answer, rather than just on the
+answer itself.
+- As the semester progresses, your statistical vocabulary will grow, and I will expect you to use
+this new vocabulary on assignments.
+- Writing carefully and precisely is important.
+- Class participation is expected.
+- You will be expected to do a group project.
+
+
+HONOR CODE: The class is expected to uphold The University of Texas at Austin Honor
+Code (Links to an external site.). The core values of the University of Texas at Austin are
+learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each
+member of the University is expected to uphold these values through integrity, honesty, trust,
+fairness, and respect toward peers and community.
+UNAUTHORIZED COPYING: You cannot share any assignment, handout, or document
+related to this class. Sharing any class materials online in any form, including the homework and
+assignments you submitted, without my express approval is considered academic dishonesty. If
+something is found online which you have posted, you will be reported for academic dishonesty
+to Student Judicial Services.
+QUANTITATIVE REASONING: This course carries the Quantitative Reasoning flag.
+Quantitative Reasoning courses are designed to equip you with skills that are necessary for
+understanding the types of quantitative arguments you will regularly encounter in your adult and
+professional life. You should therefore expect a substantial portion of your grade to come from
+your use of quantitative skills to analyze real-world problems.
+ATTENDANCE POLICY
+You are expected to attend all lecture sessions. If you are absent, do not email or otherwise
+contact me to ask what material we covered during class, what the assignments are, what
+sections the exams will cover, or any other questions that I have answered or will answer during
+class. In such a situation, you should contact a classmate to get notes and information for the
+class you missed. It is certainly a good idea to work together throughout the semester.
+Grading:
+Homework                              14%
+MC Quizzes                            3%
+Learning Curves                       5%
+Project                               2%
+Exam 1 (Chapters)                    23%
+Exam 2 (Chapters)                    23%
+Exam 3 (Chapters)                    30%
+There will be no make-ups on mid-semester exams. If you have an excused absence on a mid-
+semester exam, I will count your final exam grade in place of the missing exam grade.
+I will not give you an excused absence unless (a) you request one as soon as feasible (before the
+exam if that is possible) and (b) the absence was for a good cause (oversleeping or having other
+exams or papers due that day or week are not considered good cause.)
+As mentioned, grading will be based not just on the final answer or on calculations, but also on
+the reasoning shown in arriving at your final answer. You must write conclusions on every
+problem.
+
+
+Grading Scale: (I will not round or bump)
+Plus/minus grades will be assigned for the final grade as follows: A (100-92.6), A- (92.5-89.6),
+B+ (89.5-86.6), B (86.5-82.6), B- (82.5-79.6), C+ (79.5-76.6), C (76.5-72.6), C- (72.5-69.6), D+
+(69.5-66.6), D (66.5-62.6), D- (62.5-59.6), F (59.5-0).
+Homework: Assigned by lecture. I will not grade any disorganized or difficult-to-read assignments.
+Your homework is your best piece of work -- do it every day. I will not accept homework on loose sheets
+of paper. I can address only a few homework questions during class due to the short time we have to
+cover the syllabus, so I encourage everyone to visit me during office hours.
+Homework is due every Tuesdays and Fridays in class.
+No late homework under any circumstances.
+If you feel there is a typo on any homework grade or electronic quiz you must email me before
+the day of the final exam.
+Homework format:
+- Stapled and no ripped pages from a notebook.
+- Your name at the top of each page.
+- The first page should state the class, section number, instructor's name, and book sections included in
+the homework assignment.
+- Label each question clearly, specifying the section and the exercise number (i.e. 4.1 #32)
+- Homework should be organized, clean, and easy to read.
+- Show all work. Answers in the back of the book are summaries, condensed to fit in as little space as
+possible. Do not use them as models for written homework.
+- Write in complete sentences and pay attention to correct use of the vocabulary pertinent to this course.
+- It is not satisfactory to provide lonely computer output. Every computer output needs to be
+explained or interpreted.
+Computer Software: You will need to use computer software. The default software for this
+class is R. I will provide instructions on using R in class.
+Exams dates (see Calendar on Canvas):
+Test 1 Wednesday, June 19th
+Test 2 Monday, July 1st
+Test 3 TBA
+SERVICES AVAILABLE TO STUDENTS
+The University of Texas provides appropriate academic accommodations for qualified students
+with disabilities. Students with disabilities may request appropriate academic accommodations
+from the Division of Diversity and Community Engagement, Services for Students with
+Disabilities (Links to an external site.), 471-6259. http://www.utexas.edu/diversity/ddce/ssd/
+Utilize the Sanger Learning and Life Center (Links to an external site.)!
+Counseling and Mental Health Center (Links to an external site.), Student Services Bldg (SSB),
+5th Floor, Hours: M-F 8am-5pm, 512-471-3515
+
+
+COMPUTER LAB
+The mathematics department's 40 seats undergrad computer lab, RLM 7.122, is open to
+all students enrolled in math courses. Students can sign up for an individual account themselves
+in the computer lab using their UT EID.
+STUDENT CONDUCT
+All computers, cell phones and other hand-held devices must be put away out of sight and sound
+during class. You will be excused from class for the day if you are using your phone, laptop,
+tablet, etc. Please come to class on time. If you will be late or need to leave early for some
+legitimate reason, please tell me in advance. Coming and going during class is distracting to your
+fellow students and the instructor, and we do not like it.
+PLANNED LECTURE and EXAM SCHEDULE:
+Deviations from this tentative calendar may occur during the semester. The actual material
+covered each day can only be determined by attending the lectures.
+RELIGIOUS HOLIDAYS
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to
+the date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, you will be given an
+opportunity to complete the missed work within a reasonable time after the absence.
+DEADLINES FOR DROPPING A COURSE
+If you drop a class on or before the 12th class day, the class will not show up on your transcript.
+If you drop a class after that date, the course will show up on the transcript with a "Q" grade.
+EMERGENCY EVACUATION POLICY
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and
+assembling outside. Familiarize yourself with all exit doors of each classroom and building you
+may occupy. Remember that the nearest exit door may not be the one you used when entering the
+building. Students requiring assistance in evacuation shall inform their instructor in writing
+during the first week of class. In the event of an evacuation, follow the instruction of faculty or
+class instructors. Do not re-enter a building unless given instructions by the following: Austin
+Fire Department, The University of Texas at Austin Police Department, or Fire Prevention
+Services office.
+Behavior Concerns Advice Line
+BCAL: 512-232-5050
+Link to information regarding emergency evacuation routes and emergency procedures can be
+found at: www.utexas.edu/emergency (Links to an external site.)
+
+
+COURSE CALENDAR/OUTLINE “Please note: schedule changes may occur during the semester.
+Any changes will be announced in class.”
+Week 1
+                  Lecture 1: Section 3.3 Sampling Design
+Lecture 1         Statistical Investigation:
+(June, 6th)       Ask a research question
+Thursday          Design a study and collect data
+                  Explore the data
+                  Draw inferences beyond the data
+                  Formulate conclusion
+                  Look back and ahead
+                  Randomization code for R:
+                  data=c(1:36)
+                  sample(data,36)
+                  Playing with Replicate Function in R
+                  units=c(1:36)
+                  replicate(5,sample(units,10))
+                  Lecture 2: Section 3.2 Design of Experiments
+Lecture 2
+(June, 7th)
+Friday
+Week 2
+ Lecture 3          Lecture 3: Section 5.1 Towards Statistical Inference
+ (June, 10th)
+ Monday
+ Lecture 4          Lecture 4: Section 5.2 Sampling Distribution of a Sample Mean
+ (June, 11th)       and Section 5.3 Sampling Distributions for Counts and Proportions
+ Tuesday            HW 1 Due
+ Lecture 5          Lecture 5: Randomization and permutation tests (Two sample and Matched
+ (June, 12th)       Pairs).
+ Wednesday
+                    Comparing Two Groups (using the “replicate function”):
+                    Example 1. Morning versus Afternoon.
+                    Afternoon=c(90,87,77,70)
+                    Morning=c(69,71,63)
+                    Sombrero=c(90,87,77,70,69,71,63)
+                    nrep=10000
+
+
+               compare=replicate(nrep,mean(sample(Sombrero,4,replace=F))>=me
+               an(Afternoon))
+               nyes=sum(compare)
+               p=sum(compare)/nrep
+               nyes
+               p
+               Matched Pairs Design
+               dealer=c(1000,500,2000,3500,4500)
+               nodealer=c(600,500,1000,3000,1000)
+               AveDiff=mean(dealer-nodealer)
+               nPairs=length(dealer)
+               NRep=10000
+               compare=replicate(NRep,mean((dealer-nodealer)*
+               sample(c(-1,1),nPairs,replace=T))>=AveDiff)
+               p=sum(compare)/NRep
+               p
+ Lecture 6     Lecture 6: Section 6.2 Tests of Significance
+ (June, 13th)
+ Thursday
+ Lecture 7     Lecture 7 Section 6.1 Estimating with Confidence
+ (June, 14th)  HW 2 Due
+ Friday
+Week 3
+ Lecture 8    Lecture 8: Section 6.3 Use and Abuse of Tests
+ (June, 17th)
+ Monday
+ Lecture 9    Lecture 9: Section 6.4 Power and Inference as a Decision
+ (June, 18th) HW 3 Due
+ Tuesday
+ Lecture 10   Test 1 (Topics from Lectures 1 to 7)
+ Test 1
+ (June, 19th)
+ Wednesday
+ Lecture 11   Lecture 11: Section 7.1 Inference for the Mean of a Population
+ (June, 20th)
+ Thursday
+ Lecture 12   Lecture 12: Section 7.2 Comparing Two Means
+ (June, 21st) HW 4 Due
+ Friday
+
+
+Week 4
+ Lecture 13    Lecture 13: Section 12.1 Inference for One-Way Analysis of Variance
+ (June, 24th)
+ Monday
+ Lecture 14    Lecture 14: Section 12.2 Multiple Comparisons Methods (follow up to Anova)
+ (June, 25th)  HW 5 Due
+ Tuesday
+ Lecture 15    Lecture 15: Section 2.1, 2.2 and 2.3 Relationships, Scatterplots and
+ (June, 26th ) Correlation
+ Wednesday
+ Lecture 16    Lecture 16: Section 2.4 Least-Squares Regression
+ (June, 27th)
+ Thursday
+ Lecture 17    Lecture 17: Section 10.1 Inference for Regression
+ (June, 28th)  HW 6 Due
+ Friday
+Week 5
+ Lecture 18    Test 2 (Topics from Lectures 8, 9, 11, 12, 13, 14)
+ Test 2
+ (July, 1st)
+ Monday
+ Lecture 19    Lecture 18: Section 2.6 Data Analysis for Two-Way Tables
+ (July, 2rd)   HW 7 Due
+ Tuesday
+ Lecture 20    Lecture 20: Section 8.1 Inference for a Single Proportion
+ (July, 3th)
+ Wednesday
+ Lecture 21    Lecture 21:Section 8.2 Comparing Two Proportions
+ (July, 5th)
+ Friday
+Week 6
+ Lecture 23    Lecture 23: Section 9.1 Inference on Two-Way Tables
+ (July, 8th)   Section 9.2 Goodness of Fit and Fisher Exact Test (a Permutation).
+ Monday        HW 8 Due
+ Lecture 24    Lecture 24:
+ (July, 9th)   Section 9.2 Goodness of Fit and Fisher Exact Test (a Permutation).
+ Tuesday
+ Lecture 25    Lecture 25: Review and Discuss Project
+ (July, 10th)
+ Wednesday
+ Lecture 26
+ (July, 11th)  Lecture 26: Review (Discuss Final Format) and Due date for Project
+ Thursday
+
+

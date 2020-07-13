@@ -1,0 +1,262 @@
+ME 333T, Engineering Communication: Summer, 2019
+Section 76700
+Room: ETC 5.132
+Official course description for all 333t classes: “Professional communication skills for engineers, with
+emphasis on research, writing, and oral presentation on topics of social and technical significance in
+engineering.”
+Lecture portion: M/W, 9:00-12:00; Workshop portion: Th, 2:00-4:00
+ Instructor: Dr. Randi Voss
+         randi.voss@austin.utexas.edu
+         Office:​ ETC 5.142
+         Office hours:​ M 1:00-2:00; W 12:30-1:30; Tuesday and Thursday: gladly by appointment.
+ Course assistant: Holly Genovese
+         ​Office hours: ​W 2:00-3:00, in ​ETC 5.138 and will be posted.
+Overview
+Welcome to this​ communication course for engineering students! We are so glad you’re here, whether you are from ME
+or another engineering department.
+The chief aim of the course is to learn about and practice communicating in a variety of professional and academic
+situations. The main areas covered are technical writing, presentations, graphical display, and face-to-face communication,
+all oriented toward professional engineering settings. Our theme this summer is design.
+This course also deals with engineering ethics--questions about right and wrong for engineering professionals, some of
+which you are probably already thinking about. For example, if you want to work in clean energy to lessen harm to the
+environment, that’s a desire based in ethics.
+I am determined to convince you that communication is not just the icing on the engineering cake--it’s a key ingredient in
+the cake. There can be no engineering without effective communication. But if I am not successful in persuading you of
+this profound truth, it’s okay, because then communication still the icing, and who wants cake without icing?
+Note:​ Credit for rhetoric 306 is a prerequisite for this course, whereas ME 333T is a prerequisite for ME 366J.
+Flags
+This course carries an Ethics and Leadership Flag, as well as a Writing Flag. Courses with the
+ethics flag are designed to inspire critical thinking on issues related to making ethical decisions in
+your adult and professional life.
+
+
+                                                                    Voss ME 333T Syllabus, Summer 2019, UT-Austin, p. 2
+Readings and Materials
+All reading, homework, and major assignments will be on Canvas. It is your responsibility to check the Course
+Schedule on the Homepage every day.
+     1.   The Purdue Online Writing Lab for The University of North Carolina Writing Center for grammar,
+          punctuation, and mechanics issues. Some handouts will also be under Files on Canvas.
+     2.   All other readings will be on Canvas under Readings and Materials (or within the current Canvas Unit.
+     3.   Materials to take notes in Lecture and Workshop, which you should have out at the beginning of class.
+     4.   Hemingway app or Grammarly. I expect you to use one of these to do your own revision BEFORE Holly or I
+          read your writing. This is mandatory. So be sure to allow an hour or two for this step.
+Summary of Graded Work
+Each assignment below maps to particular goals for this course, which in turn are keyed to Outcomes for the
+Mechanical Engineering degree.
+Mini projects:
+A: Design analysis: 4%
+B: A technical or user experience video: 8%
+C: A preliminary reflection on the ethics of a product, practice, or system: 8%
+Projects:
+1: Design Proposal: 25%
+2: Effects Report: on design, or manufacturing, or disposal, or the social/political/environmental issues in the
+life of the whole product. (This project can have video component): 25%
+Other graded work:
+Reading questions. I will sometimes give you questions on the readings to answer before class, and sometimes
+at the beginning of class: 5%
+Benchmark pieces. These are preliminary deadlines for parts of the two larger projects: 8%
+Weekly wrap-ups: 5%
+Peer reviews: 4%
+Finale: 8%
+Overview of Schedule (draft)
+Each week and day will be refined as we approach it. See the daily schedule on the homepage for updates.
+  Topics and ideas               Skills                        Work                           Sources/
+                                                                                              Readings
+  Week 1, (7-15): ​Seeing        Interviewing users;                                          For Weds: Dieter Rams
+  objects:                       interpreting interview        For Weds: Mini project         10 principles of good
+
+
+                                                          Voss ME 333T Syllabus, Summer 2019, UT-Austin, p. 3
+How are ideas            data to achieve good        A: Analyze the design of     design: read here:
+embedded in objects? Is  design;                     a made object (due 7-17,     https://www.vitsoe.com
+design embedding ideas   precisely describing and    at the beginning of class    /us/about/good-design
+into objects?            explaining a device;        and then revision at 5:00    The syllabus
+What are good design     “reverse engineering”       PM).
+principles? How do you   the thinking and cultural
+figure out customers’    assumptions behind an       In Discussion section
+needs when they          object.                     Thursday: The Bicycle
+themselves may not                                   Project (in class; no HW
+even be aware of their                               with it)
+needs?
+How is good writing like
+good design?
+Project 1 introduced:
+Design Proposal.
+Week 2 (7-22):           Revising for precision      Work on mini project B:      For Mon: Wikipedia
+Manufactured things      and clarity; using topic    Technical explanation,       articles on 1) “Cultural
+as material culture.     sentences, using            instructions video, or       artifacts” and 2)
+material culture and     effective headings; more    user experience video        “Material culture” (just
+cultural artifacts;      writing principles;         (draft will be due)          Google these);
+principles of technical  analyzing design                                         STEM Style Guide
+and scientific writing;                              Conduct your user            (under Files);
+analyzing design                                     interview by Monday,         Choose product and
+                                                     7-29 at the latest.          user for Project 1 and
+Conferences with Voss                                                             set up your interview;
+and Holly
+                                                                                  For Weds: Watch and
+                                                                                  analyze technical video
+                                                                                  on Youtube.
+                                                                                  Short reading on
+                                                                                  interviewing.
+Week 3 (7-29)            Revising for clarity;       Notes from user              Langdon Winner, “Do
+Ethics                   editing for correctness;    interview due Monday.        Artifacts have Politics?”
+How do manufactured      using, labelling, and       Final, revised and edited,   (summary of)
+things affect people and discussing figures.         version of video due         Documentary on
+environments?                                        Wednesday, 5:00 PM           Netflix: “The True
+Engineering ethics       Identifying ethical issues;                              Cost”
+introduced. Do           Developing a working        Project 1, Version 1 due     Other readings TBA
+manufactured products    definition of ethics;       Thursday in discussion
+have ethics? Project 2   thinking about the          section for peer review.
+introduced: Effects      choices you have ahead      Must bring a hard copy.
+Report                   in your career.
+Week 4 (8-5)             Database research;          Project 1, Version 2         Sources about
+
+
+                                                                         Voss ME 333T Syllabus, Summer 2019, UT-Austin, p. 4
+  Topics from week 3,              Videography                      (that means the final,       sustainable design and
+  continued;                                                        edited and revised           manufacturing, inclusive
+  How to use UT’s                                                   version to be graded),       design, universal design,
+  databases for research.                                           due Sunday, 8-4, at 5        ethical design, and more.
+                                                                    PM;                          Short guides to research
+  Conferences with Voss                                                                          and making videos.
+  and Holly.                                                        Mini project C:
+                                                                    Reflection piece on the
+                                                                    ethics of design or
+                                                                    manufacturing due
+                                                                    (Weds or Thurs--TBA)
+  Week 5 (8-12)                    Various writing skills;          Sources due Monday           Your own sources
+                                   researching, evaluating
+                                   sources, using sources.          Project 2 due Friday
+  Week 6 (8-19 only)               Presentation skills              Finale! A celebration of
+                                                                    your skills, talents, and
+                                                                    interests
+Attending vs. actually being ​present
+They are not the same and both matter! Much of the learning in both Lecture and Workshops happens through
+structured activities and discussions. You need to be present mentally as well as physically. All of what you learn in class
+won’t be posted on Canvas but may still show up on quizzes. Attitudes can make or break a class: willing participation
+will lift it up. Please help make this class wonderful!
+And (obviously) try not to be absent; we, in turn, will try to make the course worth your while, as we have in designing
+the course.​ If you do exceed two absences​ (in lecture and workshop combined), we will begin to deduct a percentage
+point per absence from your course grade. Why? Because some people might need to be protected from their own
+distractibility. Please don’t arrive late or leave early. Both are disruptive and send a message of disrespect, however
+unintended. But if you have a distant course just before or after this class, do let us know. We certainly understand that
+situation (and have experienced it ourselves on this campus).
+Please note: If you miss a class, do get notes from a classmate. We do not re-teach a class for those who have missed. If
+anyone asks me, “What did we do in the class I missed?” I will simply refer him or her to this paragraph. With a
+heavy sigh.
+You do not have to be an outgoing person to get full credit for participation and engagement, but I expect everyone to
+be able to contribute to small-group discussions, to be attentive, and to read the assigned materials.
+On the other hand, it is possible to talk ​too much​ in class. But how much is too much? ​If you notice you are making
+more than three comments in class, it is probably time to sit back and give others a chance--even if they seem
+reluctant.
+Electronics and the Classroom Environment
+
+
+                                                                                 Voss ME 333T Syllabus, Summer 2019, UT-Austin, p. 5
+In the interest of creating the best course experience that we can, I also require that you not engage in ​distracting or
+unmindful behaviors​ in class. ​Electronic devices need to be put away ​except for your laptop, ​used for class
+purposes only. If I see that someone is on Snapchat or doing homework for another class (etc.), I may count
+you as absent. ​This is where there truly is a generation gap, and I choose to assert my authority accordingly. (I do not
+believe that our phones are extensions of our bodies...yet.)
+NO PHONES. EVER. I WILL COUNT YOU ABSENT. ​(OMG, she seemed so nice until now.)
+In general, we ask that everyone behave respectfully to everyone else, which is probably what you do anyway.
+Writing, Revision, and Late Policy
+Full assignment descriptions will be listed under each assignment, within a Module. ​Always upload your work in PDF
+form.​ Work is due at the time indicated in the assignment on Canvas.
+A preliminary draft will usually be required so that you can get feedback from classmates. (If anyone doesn’t bring a
+draft, they won’t receive credit for peer review but will get credit for coming to class.) You can also come to office hours
+to have us look at particular sections. Revision is the truly the path to writing better. It pays off. My best advice is work
+hard at it.
+This course carries a ​Writing Flag​ since it gives you experience and instruction in writing in an academic discipline,
+contains several substantial writing projects, and offers feedback from your peers and instructors to help with revision.
+ If you must turn something in late, I will accept it up to three days after the due date, but I may deduct 5% for each day
+                                                                                                                               late.
+Course Outcomes (what you will learn or improve)
+ Writing                Learn Principles of Clarity, unity, continuity, ​brevity​, precision, which include
+                        these skills among others:
+ principles and         Organizing for clarity;
+ skills                 Using headings;
+                        Writing about significance as well as details;
+                        Controlling tone;
+                        Following accepted norms for a given form (genre);
+                        Learning conventions/correctness (grammar and punctuation);
+                        Using figures and diagrams;
+                        Dividing a writing task into parts and conquering writing procrastination;
+                        Using active and passive voice appropriately;
+                        Using numbers and measurements in engineering writing.
+ Speaking               All of the above, as well as:
+                        Creating professional slides;
+ principles and         Projecting your voice and making eye contact;
+ skills and video       Effectively explaining a figure or diagram on a slide;
+ making skills          Improving general stage presence.
+ Face-to-Face           SWOT
+                        5 Whys (for interviewing)
+ Communication          Active listening.
+ skills                 Equalizing input in groups (getting all perspectives).
+                        Being specific (not assuming too much).
+                        Interviewing and being interviewed.
+ Engineering            Being able to identify an ethical issue and explain what makes it such.
+
+
+                                                                                        Voss ME 333T Syllabus, Summer 2019, UT-Austin, p. 6
+ ethics                    Understanding how ethics can be bigger than individual decision; whole systems can be
+                           ethical or unethical.
+ knowledge and
+                           Ethics in design and manufacturing.
+ principles                Identifying your own ethical goals for your career.
+ Research                  Using UT’s databases to search (with filters) for engineering journal articles.
+                           Understanding the differences among scholarly/academic journals, journal articles, trade
+                           journals, lay sources, original research, and review articles.
+                           Learning to read an article that seems too technical for your current level of understanding.
+From these outcomes you can see that we are achieving four of the outcomes specified by ABET, the organization that
+gives accreditation to American undergraduate engineering programs:
+ABET Program Outcomes Achieved through this Course
+  ​Our class            All ABET Program Outcomes
+                1       Ability to identify, formulate, and solve complex engineering problems by applying principles of engineering,
+                        science, and mathematics.
+                2       Ability to apply engineering design to produce solutions that meet specified needs with consideration of public
+                        health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+   ✔            3       Ability to communicate effectively with a range of audiences.
+   ✔            4       Ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments,
+                        which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+   ✔            5       Ability to function effectively on a team whose members together provide leadership, create a collaborative and
+                        inclusive environment, establish goals, plan tasks, and meet objectives.
+                6       Ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering
+                        judgment to draw conclusions.
+   ✔            7       An ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+            UT Resources
+     1.     The Cockrell School has a wonderful ​library, ​The Mckinney Engineering Library​ in EER, ​with very helpful
+            librarians who are happy to aid you in finding appropriate sources. We even have a librarian dedicated to
+            mechanical engineering, Larayne Dallas. Be sure to take your assignment with you (or pull it up electronically)
+            so that the librarians can help you more effectively.
+
+
+                                                                       Voss ME 333T Syllabus, Summer 2019, UT-Austin, p. 7
+     2.   Likewise, the ​Undergraduate Writing Center​ (in the PCL) is a terrific resource, and you have already paid for it
+          through your fees, so why not take advantage of it? (Professional writers never go it alone. They have multiple
+          readers as well as a professional editor.)
+     3.   If you have any kind of ​disability,​ or even think you might, be sure to take advantage of the support available to
+          you! Based in the philosophy that all students should be assured equal access and opportunity, ​Services for
+          Students with Disabilities​ works to eliminate physical, instructional and attitudinal barriers by providing
+          reasonable accommodations and fostering awareness within the University community. (And we instructors
+          fully support this mission.) SSD is housed in the ​Division of Diversity and Community Engagement,​ located
+          on the fourth floor of the Student Services Building. ​Information on how to register,​ downloadable forms,
+          including ​guidelines for documentation​ and ​accommodation request letters​ are available online. Please do not
+          hesitate to contact us if you have any questions. We look forward to making your experience at the university
+          more accessible!
+ ​Grading scale:​ ​Here is how letter grades map to percentage grades (and thus to the four point system) in this
+class:
+  A = 94-100          B+ = 87-89           C+ = 77-79           D+ = 67-69          F= 0-60
+  A- = 90-93          B = 84-86            C = 74-76            D = 64-66
+                      B- = 80-83           C- = 70-73           D- = 60-63
+Academic Honesty:​ ​All work submitted in this course must be your own and be written exclusively for this
+course. The use of all sources (ideas, quotations, paraphrases) must be properly documented. ​The most common
+reasons for plagiarism are 1) slipshod copying and pasting, 2) careless electronic note taking, 3) failing to cite
+paraphrases.​ ​Plagiarism or any other form of academic dishonesty can result in ​a failing grade for the course and
+notice to the dean.​ We will discuss plagiarism (especially unintentional plagiarism--which is still treated as plagiarism) in
+more detail later in the semester. For more on UT’s policy on scholastic dishonesty, please ​see:
+http://deanofstudents.utexas.edu/sjs/scholdis.php
+The Bedford Handbook​ also has an excellent section.
+Please come see or email us if you have any questions about your use of sources, or ask a librarian or
+Writing Center consultant.
+                                  Let’s have a terrific semester!

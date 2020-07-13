@@ -1,0 +1,107 @@
+                                         Department of Educational Psychology
+                                         EDP S380C-2: Fundamental Statistics
+                            Unique #74370 Summer 2019 – Mo/Tu/Th 9:30-12, SZB 435
+Instructor:       Dr. Sarah M. Collins smcollins@utexas.edu
+Office hours: SZB 538B – Monday, Tuesday, and Thursday 12:00-1:00
+TA:
+Office hours:
+Textbook: Statistics for the Behavioral Sciences by Gravetter and Wallnau (ninth edition). The textbook will be
+available at the Co-op.
+Canvas http://courses.utexas.edu Announcements, course handouts, some lecture notes, exam materials, and grades
+will be posted on the course Canvas site. If you have a question about the course, please check Canvas and the
+syllabus. Please make sure to allow/initiate Canvas emails – I frequently contact the entire class this way with
+materials or updates.
+Course Description: This course is designed to help you learn the introductory descriptive and inferential statistical
+procedures that are commonly used in research. You will learn the assumptions underlying common statistical
+procedures, the types of hypotheses that can be tested by these procedures, and the inferences that can be drawn from
+their results. After completing this course, you will have a sufficient foundation from which you can begin to conduct
+your own analyses and critically evaluate the statistical analyses of others.
+    •    What to Bring to Class Everyday: A calculator, a copy of the statistical tables from the appendix in the
+         text, and the formula sheet (this can also be found on Canvas).
+Classroom Expectations: As lecture is an active learning environment. Learning statistics includes a great deal of
+quantitative analysis and hand manipulations of data. Studies indicate that this kind of material is retained better if
+people take notes by hand (as opposed to a laptop).
+Description of Assignments:
+         Graded:
+                  Quizzes: There will be one short quiz. You must be present for credit.
+                  In-Class Exams: There will be three in-class exams. These will include calculations and some
+                  statistical definitions to write. If you are late you will not receive additional time. You will be able to
+                  use your (non-graphing) calculator, a formula sheet that will be available all semester on Canvas (I’ll
+                  provide clean copies for the exam), and any relevant statistical tables.
+         Ungraded:
+                  Practice Problems: There will be problems assigned from the book that correspond to the topics we
+                  will cover in class. Although these are not graded, they are recommended, and I will be more than
+                  happy to discuss these problems with you during office hours.
+                  I may assign small non-graded projects for you to complete and bring to class (for example, thinking
+                  about how a particular statistical concept applies to your field of study.) I favor a very active learning
+                  environment and encourage questions throughout the lecture.
+
+
+ Attendance: Attendance will not be taken during each class, but it is highly recommended that you attend. There
+ may be concepts that are tested which were discussed to a different degree than can be found in the textbook.
+     - If you miss a quiz or in-class exam, you will not be able to retake it.
+ If you have exceptional circumstances or a serious illness, you must notify me before a quiz or exam is due so that
+ we can discuss your options.
+ Students with Disabilities: The University of Texas provides upon request appropriate academic accommodations
+ for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 471-6259,
+ 471-6441 TTY.
+         Grading:         50 points         Quizzes (1 @ 50 points each)
+                          300 points        Exams (3 @ 100 points each)
+                          Total Possible Points: 350 points
+Grade cutoffs:
+                   A (93%)
+                  A- (90%)
+                  B+ (86%)
+                    B (83%)
+                   B- (80%)
+                  C+ (76%)
+                   C (73%)
+                  C- (70%)
+                  D+ (66%)
+                   D (63%)
+                  D- (60%)
+ Note: Grade cutoffs are firm.
+
+
+                               Outline of Topics and Exam Schedule:
+   Please note, this schedule is subject to small changes based on our progression through the material.
+Class      Lessons                                  Chapters          Date           Assignment/Quizzes
+1         Introduction to the course, variation     1                     7/15
+          as a concept, notation, histograms
+2         Measures of central tendency and          2&3                   7/16
+          variability, boxplots
+3         Normal distributions and z-scores         4 & 5 & 6 (164-       7/18
+                                                    184, 189 on)
+4         Correlation                               15                    7/22               Quiz
+5         Regression                                16                    7/23
+6         Sampling distributions and                7&8                   7/25
+          hypothesis testing
+7         t statistic, confidence intervals, one    9                     7/29              Exam 1
+          sample hypothesis testing
+8         One sample hypothesis testing cont.,      10                    7/30
+          two sample hypothesis testing, t test
+          for related samples
+9         t test for related samples, cont.         11                     8/1
+10        ANOVA                                     12                     8/5
+11        One proportion z test                     Handout                8/6
+12        One proportion z test cont., two          Handout                8/8              Exam 2
+          proportion z test
+13        Chi square tests                          17                    8/12
+14        Chi square tests cont.                    17                    8/13
+15        Last day                                                        8/15              Exam 3
+Recommended Homework Problems (some may be added as the semester progresses):
+Chapter 1         10, 12, 20, 22
+Chapter 2         6, 10
+Chapter 3         4, 10, 22, 24
+Chapter 4         2, 7, 8, 22
+Chapter 5         1, 6, 22
+Chapter 6         6, 10, 18, 19
+Chapter 7         4, 8, 10, 16, 20, 22
+Chapter 8         4, 6, 15, 20, 21
+Chapter 9         2, 5, 6, 12c, 13bc, 18, 21c, 22, 23
+Chapter 10        3, 6, 10, 14a, 21, 22a
+Chapter 11        1, 10a, 20, 22, 23
+Chapter 12        10, 12, 19, 21a, 21b
+Chapter 15        5, 9, 10, 12, 14
+Chapter 16        3, 4, 6, 8, 10a
+Chapter 17        2, 4, 11, 14, 20, 25

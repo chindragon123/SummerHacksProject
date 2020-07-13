@@ -1,0 +1,134 @@
+Construction IV                               ARC 435L (00795 / 00800)                                             SPRING 2019
+Instructor:
+Matt Fajkus, AIA, NCARB, LEED AP
+matt.fajkus@austin.utexas.edu 512-232-1961
+Office Hours: GOL 4.128, Tue/Thu 1:00 pm – 2:00 pm, or by appointment.
+Lectures: 2:00 – 3:30 Tue/Thu, GOL 3.120
+Teaching Assistants:
+Prarthan Shah: prarthan@utexas.edu (Tuesday Lab)
+Jacob Hurt: jchurt@utexas.edu (Thursday Lab)
+Course Description
+Construction IV (ARC 435) is largely a continuation of the content from the previous construction sequence courses, with a shift into
+larger structures and systems. The course focuses on the integration of technical and tectonic issues into the design process, in order to
+gain an understanding of methods in which structure as well as other technical aspects of contemporary buildings can be used as a
+driver or at least a factor in design process to create more intelligent and innovative spaces, rather than an afterthought which
+compromises design intent.
+Structure can be defined as a building’s load-bearing mechanism which keeps it standing upright upon the ground, but structure can
+also be defined as an overall ordering system, or as an arrangement or interrelationship of components, both tangible and intangible. The
+course aims to examine ways in which large scale structural and construction techniques influence architectural design, and vice-versa,
+as well as how the pedagogy of construction positions itself within contemporary practice.
+Qualitative and quantitative analyses are both employed to understand building constructive logic as well as calculations which examine
+the forces imparted upon structures in various conditions. By obtaining a stronger understanding of a building’s structural and tectonic
+behavior, students will acquire new tools by which to innovate in the design process. Structural calculations are examined as a way to
+gain a basic understanding of the field of engineering, to allow for better architect/engineer collaboration throughout an architect’s career,
+as well as to better prepare students for licensure exams (ARE). In addition to understanding structural behavior abstractly, the course
+will examine historical and especially contemporary case study buildings which employ intelligent designs by taking on structural and
+tectonic issues in innovative ways.
+University Honor Code:
+The core values of the University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and
+responsibility. Each member of the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect
+toward peers and community.
+Disabilities:
+Please notify your instructor of any adaptation you may require to accommodate a specific physical need. You will be requested to
+provide documentation to the Dean of Students' Office, in order that the most appropriate accommodations can be determined.
+Specialized services are available on campus through the Services for Students with Disabilities, also found via the web at
+http://deanofstudents.utexas.edu/ssd/.
+
+
+Format
+-Lectures will cover the significant material introduced in the required reading assignments.
+-Homework assignments will be issued most weeks and will be due the following week, in class, after the student has had the
+opportunity to attend the lab sessions which will review example problems similar in nature to those assignments. Late homework will
+not be accepted.
+-In addition to the weekly assignments, constructed projects will constitute the fundamental coursework.
+-Homework problems will be accomplished in groups of 3 or less. Any individual not performing a commensurate share of the work may
+be eliminated from the group but is still responsible to satisfy all homework requirements.
+-Projects, on the other hand, will be required to be completed by each individual student unless noted otherwise.
+-Quizzes may be given without notice and may cover reading assignments and/or any material presented in any prior and/or current
+lectures. The format of the quizzes, either open or closed book, will be determined by the instructor at the time of the quiz.
+-Exams will be closed book and may extract any information from all lectures, labs, and reading assignments within a given period
+determined by the instructor.
+Skills & Experience Flag
+This course carries a flag for Quantitative Reasoning, as administered by the Center for Skills Experience Flags in the Undergraduate
+Studies program at The University of Texas at Austin.
+The Quantitative Reason Flag indicates that the course is designed to equip students with skills that are necessary for understanding the
+types of quantitative arguments expected to be encountered in a young professional life. Students should therefore expect a portion of
+their grade to be come from the use of quantitative skills to analyze real-world problems.
+Texts
+REQUIRED
+Structures by Daniel Schodek, 6th Edition (Required)
+Grading
+The categories listed below constitute the following percentage of final course grades:
+Homework/Quizzes - 10%
+Exam 1 - 20%
+Exam 2 - 20%
+Final Exam - 20%
+Projects - 30%
+Each item above will have its own grading criteria that will be issued with each assignment or task that will be numerically graded and
+scaled with the final course grades established by the following ranges:
+A : 93-100%
+A- : 90-92%
+B+: 87-89%
+B : 83-86%
+B- : 80-82%
+C+: 77-79%
+C : 73-76%
+C- : 70-72%
+D+: 67-69%
+D : 63-66%
+D- : 60-62%
+F : below 60%
+
+
+Construction IV : ARC 435L                                                                   COURSE SCHEDULE : FAJKUS : SPRING 2019
+Week        Day      Date          Lecture Topics                                             Notes                     Reading (approximate pages)
+                                                                                                                        Structures by Schodek (6th Ed.)
+1           T        Jan 22        Introduction                                               No Labs
+            Th       Jan 24        Statics Review + Case Study                                No Labs                   p. 3-33, p. 561-579
+2           T        Jan 29        Preliminary System Selection 1                             Issue Project 1           Review Chapter 2
+            Th       Jan 31        Preliminary System Selection 2
+3           T        Feb 5         Truss Introduction: Triangulation, Fuller, etc.
+            Th       Feb 7         Maxwell Diagram
+4           T        Feb 12        Truss Systems + Method of Joints                                                     p. 145-170
+            Th       Feb 14        Truss Systems: Method of Sections+
+                                   Component Selection
+5           T        Feb 19        Gable Trusses                                              Project 1 Due
+            Th       Feb 21        Case Study
+6           T        Feb 26        EXAM 1                                                     EXAM 1 7-10pm
+            Th       Feb 28        Beams + Flexure Theory                                     Issue Project 2           p. 249- 261
+                                                                                              No Labs
+7           T        Mar 5         Rigid Frames 1                                                                       p. 347-358, p. 374-404
+            Th       Mar 7         Rigid Frames 2
+8           T        Mar 12        K-Braced + X-Braced Frames                                                           p. 533-544
+            Th       Mar 14        Eccentric Braced Frames
+9           T        Mar 19        Spring Break – No Class
+            Th       Mar 21        Spring Break – No Class
+10          T        Mar 26        Shear Walls 1
+            Th       Mar 28        Shear Walls 2
+11          T        Apr 2         Case Study
+            Th       Apr 4         EXAM 2                                                     EXAM 2 7-10PM
+12          T        Apr 9         Arches, Cables, Gables 1                                                             p. 201-216, 224-244, 284-285
+            Th       Apr 11        Arches, Cables, Gables 2
+13          T        Apr 16        Wind 1                                                                               p. 112-115
+            Th       Apr 18        Wind 2                                                                               p. 529-533
+14          T        Apr 23        Earthquake 1                                               Project 2 Due             p. 115-122
+            Th       Apr 25        Earthquake 2                                                                         p. 551-559
+15          T        Apr 30        Domes 1                                                                              p. 460-476
+            Th       May 2         Domes 2 / Shells / Plates                                                            p. 436-440
+16          T        May 7         Case Study
+                     May 8-10      Final Studio Reviews
+                     TBD           EXAM 3 – During Official Final Exam Day/Time
+Attendance:
+Most class meetings will be devoted to lectures on key course content, so regular attendance and active participation are imp ortant. You may miss three
+classes and/or lab sessions – for any reason – without penalty. Each additional absence will lower your grade by 5%. Six or more absences will likely
+result in a failing grade for the course. Because our time in class is limited, promptness is important, and you may be count ed absent if you are late to
+class. Please contact the teaching assistants if you expect to be late or miss class, or as soon as reasonably possible in the case of a medical
+emergency.
+Absence for military service:
+In accordance with section 51.9111 of the Texas Education Code, a student is excused from attending classes or engaging in other required activities,
+including exams, if he or she is called to active military service of a reasonably brief duration. The maximum time for which the student may be excused
+has been defined by the Texas Higher Education Coordinating Board as “no more than 25 percent of the total number of class meeting or the contact hour
+equivalent (not including the final examination period) for [a course] at the beginning of the period of active military service.” The student will be allowed a
+reasonable time after the absence to complete assignments and take exams.
+A student who misses classes or other required activities for the observance of a religious holiday should inform the teaching assistants as far in
+advance of the absence as possible, so that arrangements can be made to complete an assignment within a reasonable time after the absence.

@@ -1,0 +1,327 @@
+Professor Eric Chan                            ACC312H — Spring 2019           page 1
+                                                                    FUNDAMENTALS OF MANAGERIAL
+                                                                                 ACCOUNTING
+                                                                                   SPRING 2019
+Class Hours:        TTh 9:30am - 10:45am (02345)                       Location:          CBA 5.328
+                    TTh 11:00am - 12:15pm (02350)                      Location:          CBA 5.328
+                    TTh 12:30pm - 1:45pm (02355)                       Location:          CBA 5.328
+Professor:          Eric Chan                                          Office:            CBA 4M.234
+E-mail:             eric.chan@mccombs.utexas.edu                       Office Hours:      TTh 2:30-4:00pm, or by appt.
+Phone:              (512) 471-5529
+TA:                 Katherine Kennedy                                  Office:            CBA 4.304A
+E-mail:             katherine.kennedy@utexas.edu                       Office Hours:      MW 1:00pm-3:00pm
+Course Objectives
+  Managerial accounting is concerned with the use of accounting information by managers to plan and control
+  (evaluate) personnel and operations of the firm. This course is intended as an introduction for individuals who
+  will make business decisions, evaluate business opportunities, and evaluate others (or be evaluated) through the
+  use of accounting systems. Throughout the course, we will discuss the two important roles of managerial
+  accounting: the decision-facilitating role and the decision-influencing role.
+  Managerial accounting information can facilitate decision-making by providing information about the benefits
+  and costs of the goods and services sold by the firm. We will discuss and apply principles which will guide our
+  evaluation and design of planning information systems. We will observe that financial accounting systems require
+  that information be accumulated in particular ways for external reporting which are often not helpful for
+  managerial decision making. Thus, we will learn techniques to enhance the usefulness of accounting information
+  to facilitate short-term operational and long-term strategic decisions.
+  Managerial control systems can influence decisions by assisting in the motivation and coordination of individuals
+  and organizational units through performance evaluation and incentive systems. When discussing managerial
+  control systems, we will explicitly recognize that individuals respond to methods used for performance
+  measurement and reward. We will also discuss systems that have widespread use, examine the motivation and
+  theoretical underpinnings for that use, and identify how and when the misuse of these systems leads to
+  dysfunctional outcomes for the firm.
+  In addition to enhancing understanding of managerial accounting systems, this course will help to develop other
+  essential skills critical to achieving success in the business environment. In particular, we will work to enhance
+  analytical skills, written and oral communication skills, and the ability to work in teams.
+Required Materials
+      Textbook - Managerial Accounting, Second Edition, 2012, John Wiley & Sons, Inc., by R. Balakrishanan, K.
+       Sivaramakrishnan and G. Sprinkle. (No additional access codes required)
+      Course Packet – Contains all business cases required for the course. Available for purchase from McCombs
+       Copy Center (GSB3.136) at the end of January.
+      Financial Calculator – HP10bII+ Financial Calculator is recommended. You may NOT use calculators that
+       have text memory (e.g. for programs) or cell-phone calculators to take exams.
+
+
+Professor Eric Chan                            ACC312H — Spring 2019            page 2
+Grading
+                  Class Attendance and Participation                           10%
+                  Homework assignments (Lowest 2 dropped)                      15%
+                  Group Project (Proposal 15%; Presentation 5%)                20%
+                  Midterm Exam                                                 25%
+                  Final Exam (cumulative)                                      30%
+                  Total                                                      100%
+  Letter grades will be determined based on your class grade averages using the following cutoffs:
+  > 93% = A, 90-93% = A-, 87-90% = B+, 84-87% = B, 80-84% = B-, 77-80% = C+, 74-77% = C, etc.
+  I reserve the right to adjust the grading scale in the students’ favor. There will typically be no opportunities to
+  raise your course grade by doing "extra credit" work either before or after the end of the semester.
+  Grade Appeals
+  If you believe a grading error has occurred, you must appeal within one week after the related grade has been
+  posted on Canvas. Please submit a written explanation of your concern to me. After one week has passed, no
+  appeals will be considered.
+Class Attendance and Participation
+  Your class participation grade will be determined based on both your attendance and in-class contributions,
+  during lecture sessions and especially during case study sessions.
+  The purpose of the business cases is to prepare you for important decisions that you could face in your future
+  career. To enhance the learning environment, everyone is expected to actively participate in class discussions.
+  Being an active participant in class discussions requires a thorough reading and understanding of the case and
+  completion of the related homework assignment.
+  I will cold call as a standard practice. After each class, I will make class participation notes, with particular
+  attention to the quality of comments and not just the quantity.
+Homework Assignments
+  A homework assignment will be due before the start of most class sessions. The purpose of the homework
+  assignments is to prepare you to learn the important lessons of the class session. Accounting is best learned by
+  “doing” and keeping up on a regular basis is the best strategy for both learning and preparing for examinations.
+  There will be a total of 23 homework assignments. Details of each homework assignment can be found on
+  Canvas and the due dates are listed in the course schedule at the end of the syllabus. Your lowest two scores will
+  be dropped and the scores on the remaining 21 assignments will count towards your final grade.
+  Textbook chapter homework assignments are due at 5pm on Friday following the related lecture. These
+  homework assignments are to be completed on Canvas.
+  Case study homework assignments are due 9am before class on the day of the related case study. These
+  homework assignments are to be submitted on Canvas electronically in PDF format. For all written memos,
+  please use the following standard format: one-inch margins, single spaced, 12 point, Times New Roman font.
+
+
+Professor Eric Chan                           ACC312H — Spring 2019           page 3
+  The system is set up such that no homework can be submitted after the deadline. Late assignments will NOT be
+  accepted and will automatically receive a score of zero.
+  Homework will be graded on a scale of 5. Textbook chapter homework assignments contain 5 problems that are
+  worth 1 point each. Case study homework assignments contain both quantitative and qualitative problems.
+  Qualitative homework problems will be graded subjectively. Submissions that are judged to be completed
+  with care will receive at least a grade of 3. Submissions that are incomplete or do not present a reasonable,
+  well-written approach in the judgment of the TA or me will receive lesser grades.
+  Verbal collaboration on homework is allowed. However, the submitted assignment should be entirely your
+  own work. Please do NOT borrow, copy, or transfer answers or files from anyone else. Completing your own
+  homework assignment is the only way you will learn the material. Students who submit identical homework
+  assignments will receive a score of zero.
+Exams
+  Exams will be individually-completed, closed-book exams. The exams will cover material from assigned
+  chapters in the textbook, case studies, lectures, and in-class discussions. They typically consist of multiple
+  choice questions and short answer questions.
+  The midterm exam will be administered in the evening for all sections of ACC 312H. Students with a regularly
+  scheduled class during the exam time will be permitted to take the exam after the scheduled time. Otherwise, no
+  make-up exam will be given. Medical and family emergencies are the only valid reasons for missing the exam. In
+  such instances, you must provide prompt notification and documentation to Student Emergency Services
+  (http://deanofstudents.utexas.edu/emergency/). If you miss the exam and you have a valid and documented reason
+  for missing it, your final exam will replace the missing midterm exam grade.
+  The final exam is cumulative, but will emphasize material covered after the midterm. There will be a common
+  final exam for all sections of ACC 312H, and the university will confirm the time and location of the exam later
+  in the semester. Please do not make travel arrangements until you are certain of your exam schedule. No
+  early exams will be given for any reason.
+  The final exam grade, if better, will be averaged with the midterm exam grade and will replace the
+  midterm exam grade. This gives students a final opportunity to improve their overall grade.
+Group Project
+  You will be randomly assigned to groups of 3 to 4 students at the beginning of the semester. Your group will
+  write and present a proposal to start a new business venture on campus.
+  There are three key learning objectives associated with this project. First, you will learn to apply the course
+  material in a real-world setting. This allows you to better appreciate the different business decisions that
+  managers face and how management accounting systems can help managers make more informed business
+  decisions. Second, you will learn to collaborate with others and work in a team. In any future career that you
+  choose to pursue, you will have to work well with others. (See “Tips for Working in a Group” in the guidelines
+  document) Third, you will gain practice in giving formal business presentations. The ability to present well is a
+  skill critical to your future success.
+
+
+Professor Eric Chan                           ACC312H — Spring 2019            page 4
+  Group Proposal (15%)
+  As a group, you will write a business proposal to showcase the various management accounting methods and
+  techniques you have learned throughout this course.
+  Your group proposal will be graded based on the quality and accuracy of the analyses performed, the organization
+  and clarity of the writing, and the practicality and creativity of the business idea.
+  Please see the Group Project Guidelines document on Canvas for details of the required deliverables and due
+  dates. Please submit all documents electronically via Canvas.
+  Group Presentation (5%)
+  Each group will give a 15-minute presentation of its proposal (see course schedule). Your peers will have an
+  opportunity to ask you questions about your proposed business after your presentation.
+  Your group presentation will be graded based on its content and organization, your level of preparation, the
+  effectiveness of communication, and the use of visual aids.
+  Peer Evaluations
+  Group members are expected to contribute to the overall group project equally. You will have the
+  opportunity to conduct peer evaluations of your group members at the end of the project. Based on your
+  collective responses, I will use my discretion to adjust the individual grade of any group member, particularly
+  those who have not contributed a reasonable share to the group project.
+Communication
+  The use of Canvas is required for this course. It is your responsibility during the first week of class to ensure that
+  you can access the class site on Canvas. Printing out the class notes and bringing them to class will allow you to
+  better follow along with our class discussions.
+  I will frequently make announcements and communicate with the class via Canvas. If you want to update your
+  email address in Canvas, go to your UT Direct page and, under personal info/all my addresses, change your email
+  address.
+  My TA and I have regularly scheduled office hours for consultation on matters pertaining to the course. Students
+  are encouraged to take advantage of these hours to discuss their problems and to secure assistance where needed
+  throughout the semester. You can also email me or the TA with any questions you have at anytime.
+
+
+Professor Eric Chan                            ACC312H — Spring 2019             page 5
+McCombs Classroom Professionalism Policy
+  The highest professional standards are expected of all members of the McCombs community. The collective class
+  reputation and the value of the Business Honors Program experience hinges on this. Faculty are expected to be
+  professional and prepared to deliver value for each class session. Students are expected to be professional in all
+  respects. The BHP classroom experience is enhanced when you:
+        Arrive on time. On time arrival ensures that classes are able to start and finish at the scheduled time. On
+         time arrival shows respect to others and enhances learning by reducing avoidable distractions.
+        Minimize unscheduled personal breaks. The learning environment improves when disruptions are
+         limited.
+        Prepare fully for each class. Much of the learning in the BHP program takes place during classroom
+         discussions. When participants are not prepared they cannot contribute to the overall learning process. This
+         affects not only the individual, but their peers who count on them, as well.
+        Attend the class section to which you are registered. Learning is enhanced when class sizes are
+         optimized. Limits are set to ensure a quality classroom experience. If, on a particular day, you need to
+         attend a section other than the one to which you are registered, please inform me prior to class.
+        Respect the views and opinions of your colleagues. Disagreement and debate are encouraged. Intolerance
+         for the views of others is unacceptable.
+        Put away all electronic devices not used for note-taking purposes (e.g., your cell phones). All class
+         participants are expected to devote their full attention to the topic at hand. When participants become a
+         distraction to themselves and others, they are doing themselves and their peers a major disservice.
+Other Important Notifications
+Students with Disabilities
+Students with disabilities may request appropriate academic accommodations from the Division of Diversity and
+Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://diversity.utexas.edu/disability/.
+Please provide copies of approved accommodation letters within the first two weeks of class so that I can make
+the appropriate arrangements.
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in
+order to observe a religious holy day, you will be given an opportunity to complete the missed work within a
+reasonable time after the absence.
+
+
+Professor Eric Chan                            ACC312H — Spring 2019           page 6
+Policy on Scholastic Dishonesty
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The responsibilities of both
+students and faculty with regard to scholastic dishonesty are described in detail in the BBA Program’s Statement
+on Scholastic Dishonesty at http://my.mccombs.utexas.edu/BBA/Code-of-Ethics. By teaching this course, I have
+agreed to observe all faculty responsibilities described there. By enrolling in this class, you have agreed to observe
+all student responsibilities described there. If the application of the Statement on Scholastic Dishonesty to this
+class or its assignments is unclear in any way, it is your responsibility to ask me for clarification.
+Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Since dishonesty harms the individual, all
+students, the integrity of the University, and the value of our academic brand, policies on scholastic dishonesty
+will be strictly enforced. You should refer to the Student Judicial Services website at
+http://deanofstudents.utexas.edu/conduct/ to access the official University policies and procedures on scholastic
+dishonesty as well as further elaboration on what constitutes scholastic dishonesty.
+Scholastic dishonesty includes, but is not limited to: copying work on tests or assignments, representing (copying)
+the work of another person as one’s own or allowing another person to represent your work as their own,
+collaborating without authority with another student during an exam or in preparing academic work, using or
+having on your desk unauthorized material or aids to complete a quiz, group exercise, or exam (e.g., cheat sheets,
+solutions, graphing or programmable calculators, cell phones, etc.).
+IT’S NOT WORTH IT! ALL acts of academic dishonesty receive significant penalties and are reported to
+Student Judicial Services and attach to your record. This record is consulted as part of application processes at UT
+(e.g., study abroad applications) and after (e.g., law school and MBA applications, which generally require you to
+provide access to this record).
+Campus Safety
+Please note the following recommendations regarding emergency evacuation, provided by the Office of Campus
+Safety and Security, 512-471-5767, http://www.utexas.edu/safety:
+      Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+          when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+          outside.
+      Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that
+          the nearest exit door may not be the one you used when entering the building.
+      Students requiring assistance in evacuation should inform the instructor in writing during the first week of
+          class.
+      In the event of an evacuation, follow the instruction of faculty or class instructors.
+      Do not re-enter a building unless given instructions by the following: Austin Fire Department, The
+          University of Texas at Austin Police Department, or Fire Prevention Services office.
+      Behavior Concerns Advice Line (BCAL): 512-232-5050 (or
+          https://operations.utexas.edu/units/csas/bcal.php).
+      Further information regarding emergency evacuation routes and emergency procedures can be found at:
+          http://www.utexas.edu/emergency.
+
+
+Professor Eric Chan                             ACC312H — Spring 2019           page 7
+BBA Recruiting Conflicts
+Conflicts occasionally arise between classes and the search for employment. We understand how important the job
+search process is to you, and McCombs provides many resources in support of career exploration and search.
+However, UT is first and foremost an educational institution and your BBA degree will be the credential that
+certifies your education. As such, education will take precedent whenever such a conflict arises.
+All companies that recruit at McCombs are informed of this fact. Should a conflict arise, we recommend the
+following steps:
+    •    Check the syllabus to see if an exception is provided that would allow you to satisfy class obligations while
+         still attending the job event (e.g., paper instead of quiz, allowed quiz drops, etc).
+    •    Note that a job-related conflict, whether a current job or a potential one, is usually not an acceptable reason
+         for missing an exam or taking a make-up, and may not be acceptable in other circumstances either. If any
+         doubt exists, check with your professor.
+    •    If no exception is provided, inform the company that an academic conflict exists and request an
+         accommodation.
+    •    If no accommodation is provided, contact BBA Career Services and request their assistance in resolving the
+         situation.
+Note that while we do have influence with the companies that recruit at McCombs, not all conflicts can be resolved
+and we have little or no influence with companies that do not recruit through the Recruit McCombs system.
+Finally, be aware that it is not unreasonable for an employer to expect you to go to some lengths to show your
+interest in them. In a recent example, several students completed an exam at 9 pm and were expected to attend an
+on-site interview in Houston the next morning at 8 am. A 5:30 am flight from Austin was available and the students
+were expected to be on it. This is reasonable, and if you think it is unfair, you probably need to reconsider what you
+believe are the reasonable expectations of a good job and career in business.
+
+
+Professor Eric Chan                                                  ACC312H — Spring 2019                                                                   page 8
+                                                                        Course Schedule
+   Date      No.                  Topic                      Pre-Class Reading        Homework due dates (see Canvas for assignments)
+   Tues.       1   Introduction                             Ch. 1
+   Jan 22
+   Thurs.      2   Identifying Costs and Benefits           Ch. 2             Chapter 2 HW (due 5pm, Friday Jan 25); Practice:
+   Jan 24
+   Tues.       3   Cost Flows and Cost Terminology          Ch. 3             Chapter 3 HW (due 5pm, Friday Feb 1)
+   Jan 29
+   Thurs.      4   Estimating Fixed and Variable Costs      Ch. 4             Chapter 4 HW (due 5pm, Friday Feb 1)
+   Jan 31
+   Tues.       5   Cost-Volume-Profit Analysis              Ch. 5             Chapter 5 HW (due at 5pm Friday Feb 8)
+   Feb. 5
+   Thurs.      6   Decision Making in the Short Term        Ch. 6             Chapter 6 HW (due 5pm, Friday Feb 8)
+   Feb 7                                                    (+ Appendix B)
+   Tues.       7   Case study: Aussie Pies                  Case study        Aussie Pies HW (due 9am before class)
+   Feb 12          (Please bring your laptop to class)
+   Thurs.      8   Case study: Foxy Originals               Case study        Foxy Originals HW (due 9am before class)
+   Feb 14          (Please bring your laptop to class)
+   Tues.       9   Operating Budgets                        Ch. 7             Chapter 7 HW (due 5pm, Friday Feb 22)
+   Feb 19
+   Thurs.     10   Case study: Hanson Ski Products          Case study        Hanson Ski HW (due 9am before class)
+   Feb 21          (Please bring your laptop to class)
+   Tues.      11   Budgetary Control and Variance Analysis  Ch. 8             Chapter 8 HW (due 5pm, Friday Mar 1)
+   Feb 26                                                   (+ Appendix C)
+   Thurs.     12   Case study: Squeaky Horn                 Case study        Squeaky Horn HW (due 9am before class)
+   Feb 28          (Please bring your laptop to class)
+   Tues.      13   Case study: Berkshire Toy Company        Case study        Berkshire Toy HW (due 9am before class)
+   Mar 5           (Please bring your laptop to class)
+   Thurs.     14   Midterm Exam Review                                        Group project executive summary (due 9am before class) - Please refer to the Group
+   Mar 7                                                                      Project Guidelines for further details.
+    Mon.      15
+  Mar 11                                                                       MIDTERM EXAM
+                                                           MONDAY 6:30pm – 8:30pm / Location TBA (Assigned seating)
+                                                                            NO CLASS on Tuesday 3/12
+   Thurs.     16   Cost Allocations                         Ch. 9             Chapter 9 HW (due 5pm, Friday Mar 15)
+  Mar 14                                                    (skip pp.370-374)
+
+
+Professor Eric Chan                                                ACC312H — Spring 2019                                                                  page 9
+ Mar 18-22                                                               No Class – Spring Break
+   Tues.      17   Activity-based Costing and Management Ch. 10               Chapter 10 HW (due 5pm, Friday Mar 29)
+  Mar 26
+   Thurs.     18   Case study: Bridgeton Industries      Case study           Bridgeton Industries HW (due 9am before class)
+  Mar 28           (Please bring your laptop to class)
+   Tues.      19   Case study: Wilkerson                 Case study           Wilkerson HW (due 9am before class)
+   Apr 2           (Please bring your laptop to class)
+   Thurs.     20   Capital Budgeting                     Ch. 11               Chapter 11 HW (due 5pm, Friday Apr 5)
+   Apr 4                                                 (+ Appendix A)
+   Tues.      21   Case study: Component Technologies    Case study           Component Technologies HW (due 9am before class)
+   Apr 9           (Please bring your laptop to class)
+   Thurs.     22   Performance Evaluation                Ch. 12               Chapter 12 HW (due 5pm, Friday Apr 12)
+   Apr 11                                                (+ Appendix)
+   Tues.      23   Case study: Birch Paper               Case study           Birch Paper HW (due 9am before class)
+   Apr 16
+   Thurs.     24   Strategic Planning and Control        Ch. 13               Chapter 13 HW (due 5pm, Friday Apr 19)
+   Apr 18
+   Tues.      25   Case study: Citibank                  Case study           Citibank HW (due 9am before class)
+   Apr 23
+   Thurs.     26   Special Topic: Management Accounting  Articles online
+   Apr 25          Research on Motivating Employee
+                   Performance
+   Tues.      27   Group presentations (Group #s TBD)                         Group project proposals and presentation slide decks for ALL GROUPS (due 9am
+   Apr 30                                                                     before class)
+   Thurs.     28   Group presentations (Group #s TBD)
+   May 2
+   Tues.      29   Group presentations (Group #s TBD)
+   May 7
+   Thurs.     30   Final Exam Review
+   May 9
+                                                                             FINAL EXAM
+    TBA
+                                                               Date / Time / Room TBA (Assigned seating)

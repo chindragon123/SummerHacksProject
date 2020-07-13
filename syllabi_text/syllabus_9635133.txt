@@ -1,0 +1,254 @@
+                                                         BIO206L
+            INTRODUCTORY LABORATORY EXPERIMENTS IN BIOLOGY
+                                                       Summer 2019
+Course Description
+This course has been designed to engage you, excite you, and get you thinking like a scientist! Each topic will be covered
+in a collaborative ‘hands-on’ manner. You will work with your fellow students to generate hypotheses, design experiments
+and collect and analyze data, and discuss ethical issues. The course will introduce you to cell and molecular biology
+techniques used in a broad range of laboratory work. You will master the use of optical microscopes and study the
+structure of protists as well as plant and animal cells. Molecular techniques such as gel electrophoresis and the
+amplification of segments of DNA using PCR (polymerase chain reaction) will be introduced as well. You will spend a
+portion of the course examining animals and plants and how their structure, physiology and development are a reflection
+of millions of years of evolution. We’ll focus on one plant process (photosynthesis) and two key animal systems
+(respiratory and cardiovascular) to gain an understanding of how plants and animals maintain their internal environment.
+You will also design an experiment to study the feeding behavior of crickets. At the end of the semester, we hope you are
+as amazed as we are by the great diversity of life and have a deeper appreciation for the role of evolution in shaping its
+form and function.
+This course carries the Ethics Flag. Ethics courses, like BIO 206L, are designed to equip you with skills that are
+necessary for making ethical decisions in your adult and professional life. A substantial portion of your grade (50%) comes
+from assignments involving ethical issues and the process of applying ethical reasoning to real-life situations.
+BIO206L consists of a range of unique numbers (beginning with 84965). Each unique number corresponds to a specific
+lecture and laboratory time. Scheduled locations and times of all BIO206L lab sections are listed in the Summer 2019
+Course Schedule online: http://registrar.utexas.edu/schedules/
+You must attend the BIO206L laboratory section to which you are officially enrolled. Attending the lecture will help you to
+prepare for lab that day. You should have either registered for or have credit for BIO311C in order to take BIO206L.
+If this is not the case, contact Dr. Maas immediately.
+Required materials
+Lab Manual
+The required text for BIO206L is a NEW COPY of the lab manual “Introductory Laboratory Experiments in Biology,”
+sold exclusively at the University Co-Op bookstore on Guadalupe Street. An introductory biology textbook of your choice,
+such as that used in BIO311C and BIO311D, is also recommended as a background reference.
+                                              BIO 206L Summer 2019    Page 1 of 8
+
+
+Lab Notebook
+Researchers use laboratory notebooks to document their hypotheses, experiments, observations, illustrations, and their
+interpretations of these experiments. You are required to purchase a bound (NOT SPIRAL) lab notebook. You do not
+need to spend extra money to purchase a notebook that creates duplicate pages! Your LI will check your Lab Notebooks
+as part of your Lab Performance grade (see below).
+LabClicker
+LabClicker is a course management system that contains general course and instructor information as well as a source
+of online resources that are integral to success in the course. You will find lecture notes, handouts, updated experimental
+protocols, and assignments on LabClicker. Please visit it frequently to review these resources. To use the LabClicker
+system, you must register using your UTEID online at http://labclicker.com and pay a $35 plus tax registration fee.
+You will also use LabClicker to complete Pre-lab Homework and for you to enter Peer Evaluation points. Any personal
+web-enabled device such as a smart phone, tablet, computer laptop, etc. can then be used to access the LabClicker
+system. You are required to bring a web-enabled device to every lecture. If you require additional assistance
+registering for or using the LabClicker system please email admin@labclicker.com.
+Canvas (http://canvas.utexas.edu/)
+I will use Canvas for sending and receiving emails and posting important announcements. Please check the Canvas
+website regularly for course information: I will also use UT Instapoll (a Canvas tool) to ask questions during lecture.
+You will also submit your Data Reports and Ethics Case Study assignments as Word Documents on Canvas. Once
+submitted, your assignments will be reviewed by the plagiarism-detection tool, Turnitin. Turnitin is a software resource
+integrated with Canvas and detects plagiarism and improper citation. The software works by cross-referencing submitted
+materials with an archived database of journal, essay, and newspaper articles, books, student papers, and other
+published work. I DO NOT ACCEPT OR GRADE LATE ASSIGNMENTS. IT IS YOUR RESPONSIBILITY TO DOUBLE-
+CHECK THAT YOUR ASSIGNMENT HAS BEEN SUBMTTED CORRECTLY ON CANVAS.
+Canvas will serve as the official repository of the BIO 206L scores that will comprise your total BIO206L final grade. It is
+your responsibility to ensure that your scores for all of the various BIO 206L assignments are correctly displayed in
+Canvas.     AFTER A GRADE APPEARS IN CANVAS YOU HAVE 48 HOURS TO ASK FOR A REGRADE.
+Course Personnel
+Lecturer: Dr. Martha Maas
+Office hours: MW from 10-11 and TH from 10-11 in PAI 1.13 Or by appointment.
+Email: m.maas@austin.utexas.edu
+                                              BIO 206L Summer 2019      Page 2 of 8
+
+
+Laboratory Instructors (Teaching Assistants)
+A Laboratory Instructor (LI) will supervise your work during each laboratory period for the duration of the semester. Your
+LI should be your first point of contact for individual assistance during the course. Your LI will be available to assist you
+during regularly scheduled office hours or by appointment. Each LI will provide a handout with additional details including
+his/her office hours this week in lab.
+Course Structure
+1. Lecture Questions
+Lectures consist of activities and mini-lectures to provide an introduction to the concepts and the ethical ideas covered
+during lab. Lecture materials (handouts, slides, etc.) will be posted on LabClicker.
+During lecture, I will pose Lecture Questions to help you assess your own understanding of the material. Starting on
+Monday, June 10th, I will begin to record your answers. Lecture questions will be asked using UT Instapoll. You will
+access UT Instapoll through Canvas. Please be sure to bring a web-enabled device to every lecture.
+You can earn a maximum of 5 points by answering Lecture Questions. I will record the percentage of questions you
+answer during each lecture. I will then use that percentage to determine the number of points (out of 5) that you have
+earned. For example, if you answer 90% of the questions asked during lecture you will earn 4 out of 5 Lecture Question
+points. You can’t make up a Lecture Question for any reason.
+2. Pre-Lab Homework
+Pre-Lab Homework is administered through the LabClicker system and will contain questions that are designed to help
+you prepare for each upcoming lab in an interactive manner. I recommend that you carefully read the appropriate section
+in the manual before you attempt Pre-Lab Homework.
+To complete Pre-Lab Homework, you will login at http://labclicker.com/lab/. To access each assignment, select the Pre-
+Lab tab at the top menu. Each Pre-Lab Homework will only be opened for a short time with a deadline as shown in the
+LabClicker system. NOTE: Each Pre-Lab Homework must be completed PRIOR to its respective deadline.
+There will be 12 graded Pre-Lab Homework assignments over the course of the semester. Each assignment will be worth
+0.5 point, and I will take the top 10 grades (for a total of 5 points possible) to calculate your Pre-Lab Homework score.
+You cannot make up a Pre-Lab Homework.
+3. Laboratory Performance
+The Course Schedule (page 8) lists the lecture topics and laboratory exercises that will be covered this semester. For
+each laboratory exercise, you will receive a ‘Lab Performance’ grade posted in the LabClicker system. You can earn a
+total of 4 performance points during each lab and we will take the top 10 grades to calculate your Lab Performance Score
+(a total of 40 points possible). The components of your Lab Performance grade are as follows:
+                                               BIO 206L Summer 2019      Page 3 of 8
+
+
+ Laboratory Technique and Clean-up (2 points possible, graded by your LI): Your LI will evaluate your Laboratory
+ Technique and Clean-up during lab. Good technique includes arriving on-time to lab and in proper attire (long pants,
+ closed-toe shoes). During lab, your LI will observe your performance of lab activities and record whether you are able to
+ demonstrate good laboratory skills during the lab session. During lab, you need to take notes and record your data
+ and results in your lab notebook. The observations of living or preserved specimens should be in the form of notes or
+ drawings and include complete identification of the organism, body structure(s), and any other important information (e.g.,
+ age or state of maturity, sex, specific strain or preparation, etc.). Any illustration made with a microscope should have a
+ note indicating the type of microscopy used (e.g., bright-field) and the total magnification at which the specimen was
+ observed. Your LI may evaluate your notebook during lab. The LI will also explain any steps needed to complete the lab,
+ such as sharing data with the class before you leave. The LI will also review what is required to completely clean-up your
+ work area for each lab. You must ask for permission to be dismissed from lab after you have completed all of the
+ procedures, cleaned your area, and properly stored any lab equipment and supplies.
+ Participation (2 points possible, graded by students in your lab group): You will be assigned to work with a group of
+ several students (typically 4) to complete lab activities. Groups will be assigned during the first laboratory period with
+ switches among groups done throughout the semester. After each lab exercise, you have an important responsibility to
+ rate each group member (including yourself) using the rubric below. Each student can earn up to 2 points total for
+ excellent participation during lab. Each score will be calculated by taking the average of the total points awarded by all
+ members of the group. You must enter your ratings within 24 hours of lab ending using the LabClicker system at
+ https://labclicker.com/lab/peer. If you do not enter your ratings within 24 hours, peer scores will be averaged without your
+ input and you will receive zero out of two points for that lab.
+                                                      Activity Participation Rubric
+                               2 = Excellent                                1 = Fair                     0 = Needs to improve
+                  Fully participated in activities during    Sometimes participated in the        Did not participate in the activities;
+                  lab; Encouraged all members of the         activities; Sometimes did not listen Did not listen to or work well with
+Participation     group to participate; Listened to          to other group members;              other group members.
+                  ideas without interrupting; Worked         Sometimes did not work well with
+                  well with group.                           group members.
+ In summary: to earn all 4 Laboratory Performance points you must:
+          Demonstrate good laboratory technique and thoroughly perform clean-up duties (2 points possible, LI-evaluated)
+          Participate in activities (2 points possible, peer-evaluated within 24 hrs)
+ Once your performance is graded, you have 48 hours to speak with your LI about a grading concern. After 48 hours, your
+ performance grade will not be reviewed or adjusted. You cannot make up Lab Performance.
+                                                    BIO 206L Summer 2019      Page 4 of 8
+
+
+4. Data Reports
+You will complete a Data Report for six of the exercises (see Course Schedule on page 8). You can earn a total of 5
+points for each Data Report assignment for a total of 30 points (no Data Reports can be turned in late or dropped.).
+Working on the Data Report during lab will improve your answers because the material is still fresh and you can also ask
+your LI for help at that time.  Write the answers to the Data Report questions in complete sentences, using proper
+grammar and spelling. Grading will be based on completeness and clarity, evidence that experiments have been
+conducted correctly and carefully, the interpretation of your results, and the use of appropriate graphs, tables, labeled
+figures, etc. to share your data. Also, be sure to appropriately cite your sources using a population citation format.
+You must submit a Word Document of your Data Report on Canvas before your next lab begins. Any Data Reports
+submitted later than 15 minutes after the start of the laboratory period will be considered late. Any Data Reports turned
+in late will not be accepted for grading, and a "0" grade will be recorded for that report.
+Your LI will grade your Data Reports using Speed Grader on Canvas. Once your Data Report is graded, you have 48
+hours to speak with your LI about a grading concern. After 48 hours, your Data Report grade will not be reviewed or
+adjusted. You cannot make up Data Reports.
+5. Ethics Case Studies
+You will complete three Ethics Case Studies (details and due dates announced in class). You can earn a total of 10
+points for each Ethics Case Study assignment, for a total of 30 points (NO CREDIT FOR LATE ASSIGNMENTS.).
+Each Ethics Case Study assignments will be posted on Canvas. Your assignment must be completed using complete
+sentences and proper grammar and spelling. You must submit a Word Document of your Ethics Case Study assignment
+on Canvas. Any Ethics Case Study assignments turned in late will not be accepted for grading, and a "0" grade will be
+recorded for that case study.
+Your LI will grade your Ethics Case Study assignment using Speed Grader on Canvas. Once your Ethics Case Study
+assignment is graded, you have 48 hours to speak with your LI about a grading concern. After 48 hours, your grade will
+not be reviewed or adjusted. Any Ethics Case Study assignments turned in late will not be accepted for grading, and a
+"0" grade will be recorded for that report.
+6. Concept Exam
+On July 8th, you will take a one-hour, multiple-choice exam DURING LECTURE that will have questions about the ethical
+and biological concepts presented in lecture and in lab. There will be 35 multiple-choice questions worth two points each
+on the exam (for a total of 70 points possible).
+7.    Laboratory Practical Examination
+During the last day of lab (July 10) you will take a one-hour "Laboratory Practical Examination" worth 70 points. The
+format and the method of administering the practical exam will be explained later in the semester. Each Laboratory
+Instructor will administer the Laboratory Practical Examinations for his/her sections.
+                                               BIO 206L Summer 2019     Page 5 of 8
+
+
+Grading Summary
+Yo ur gra d e i n B IO 2 0 6 L wi l l b e d et er m in e d a s f o ll o ws :
+ Lecture Questions                                       % of questions answered                            5
+ Pre-Lab Homework (0.5 point each)                       Top 10 Pre-Lab Homework assignments                5
+ Lab Performance (4 points each)                         Top 10 Lab Performance grades                      40
+ Data Reports (5 points each)                            Six Data Reports                                   30
+ Ethics Case Studies (10 points each)                    Three Ethics Case Studies                          30
+ Concept Exam                                                                                               70
+ Laboratory Practical Exam                                                                                  70
+ TOTAL POINTS POSSIBLE:                                                                                     250
+This gives a total of 250 possible points. The course grade will be computed by dividing the sum of all points earned by
+2.5 to obtain a score based upon a 100 point scale. If your score falls within one of the categories listed below, you are
+guaranteed the letter grade indicated. In this course your final course grade will be one of the following:
+93-100 points = A, 90-92.99 points = A-, 87-89.99 points = B+, 83-86.99 points = B, 80-82.99 points = B-,
+77-79.99 points = C+, 73-76.99 points = C, 70-72.99 points = C-, 67-69.99 points = D+, 63-66.99 = D, 60-62.99 = D-
+below 60 points = F.
+The grade you will receive at the end of the semester is the grade you earn. There is NO extra credit of any kind in
+this course. There is NO curving of grades at the end of the semester.
+All scores that will comprise the total final grade will be posted in LabClicker and Canvas. All student grades will be
+available for individual inspection on LabClicker and Canvas using your UT EID. This means YOU ARE RESPONSIBLE
+to review and confirm within 48 hours that your assignments have been graded correctly.
+Due to Federal law, scores and evaluation of your performance may be discussed ONLY during office hours or
+by appointment.
+IMPORTANT Policies
+Policy on academic integrity (Honor Code):
+You are expected to maintain academic integrity. The University of Texas at Austin Honor Code states: “The core
+values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and
+responsibility. Each member of the University is expected to uphold these values through integrity, honesty, trust, fairness,
+and respect toward peers and community.”
+                                                  BIO 206L Summer 2019       Page 6 of 8
+
+
+All assignments must be your OWN work. All submitted assignments will be checked for evidence of cheating. When
+cheating is suspected, we will act in accordance with the University’s honor code policies. If you become aware of the
+scholastic dishonesty of a fellow student, you are obligated by the University Honor Code to report it. Students who
+violate the University’s policies on academic integrity are subject to disciplinary penalties, including the possibility of failure
+in the course and/or dismissal from the University. To see the UT academic dishonesty policy, please see:
+http://deanofstudents.utexas.edu/sjs/acadint_conseq.php
+Arriving late to a Laboratory Exercise
+Students who arrive more than 15 minutes late to a laboratory period will not be allowed to participate in the lab exercise
+and will be marked as absent.
+ONE Absence from Lab
+You may miss ONE lab (although I encourage you to attend every lab!). For this ONE missed lab, you may ask your lab
+group for their notes and data for writing a Data Report (if assigned). You can’t make Performance Points for the missed
+lab. And, if a Data Report is due, be sure to turn your in your Data Report on Canvas before your regular lab
+section begins.
+MORE than one Absence from Lab
+If you have another lab absence (the second absence), the maximum number of points you can earn in the class is 200
+(except for EXTRAORDINATRY circumstances). If you miss more than two labs, you will earn an ‘F’ in the course.
+Policy on Religious Observance
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of observance of
+a religious holy day. If you must miss a lecture or lab or an examination in order to observe a religious holy day, you will
+be given an opportunity to complete the missed work within a reasonable time after the absence.
+Students with Disabilities
+Specialized services are available on campus through Services for Students with Disabilities (SSD). Typically you must
+provide documentation to the Dean of Students’ Office, such that appropriate accommodations can be determined. If
+deemed that special accommodations may be made, the SSD office should provide you with a letter which you should
+submit to Dr. Maas (by the 12th class day or as soon as the official accommodation request letter is obtained).
+                                                     BIO 206L Summer 2019 Page 7 of 8
+
+
+                       SUMMER 2019 COURSE SCHEDULE
+                        NO LECTURE OR LABS ON FRIDAY, JUNE 7TH
+             FIRST LECTURE AND LABS ON MONDAY, JUNE 10
+                    LECTURES ARE FROM 9:00 TO 9:50
+        DAY:                                  Lecture and Lab Exercise Topic
+June 10             Exercise 1                        Laboratory Equipment and Procedures
+June 12             Exercise 2                                 Basic Light Microscopy
+June 14             Exercise 3                       Advanced Techniques of Light Microscopy
+June 17             Exercise 4               Enzyme Activity and Environmental Effects (Data Report)
+June 19             Exercise 5                Plant Diversity, Anatomy, and Physiology (Data Report)
+June 21             Exercise 6                      Animal Anatomy: Dissection of a Vertebrate
+June 24             Exercise 7                           Animal Development (Data Report)
+June 26             Exercise 8              Cellular Respiration and the Cardiovascular System (Data Report)
+June 28             Exercise 9                             Animal Behavior (Data Report)
+July 1             Exercise 10                    Transgenic Organisms: Bacteria and Nematodes
+July 3             Exercise 11                    DNA Fingerprinting 1: DNA Isolation and PCR
+July 5             Exercise 12               DNA Fingerprinting II: Gel Electrophoresis (Data Report)
+                CONCEPT EXAM and
+July 8                                      Concept Exam (during lecture) and Open Labs (during lab)
+                   OPEN LAB
+July 10          LAB PRACTICAL                                    Lab Practical Exam
+                               BIO 206L Summer 2019    Page 8 of 8

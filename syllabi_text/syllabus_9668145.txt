@@ -1,0 +1,230 @@
+ECO 328 COURSE SYLLABUS
+INDUSTRIAL ORGANIZATION (80425)
+Instructor
+Prof. Shalah M. Mostashari
+Office: BRB 2.130
+Office hours: Tuesdays and Thursdays 11:45-12:45 or by appointment
+Email: smostashari@utexas.edu
+Lecture: M-F 10:00am-11:30pm, CBA 4.344
+Overview
+This course covers the basics of Industrial Organization (IO). IO is concerned with the workings of
+markets and industries, in particular the way firms compete with each other. While Microeconomics
+covers market structure, it typically focuses on the extreme cases of Perfect Competition and Monopoly.
+Instead, IO is concerned primarily with the intermediate case of oligopoly, when there are a few firms
+which compete but not enough to result in perfect competition. The main feature that distinguishes the
+study of oligopoly from perfect competition and monopoly is that an oligopolist must consider rivals’
+reactions in deciding the best strategy to employ. This never comes up in either perfect competition or
+monopoly; in perfect competition, each firm just takes the market price as given and sets a quantity so
+that marginal cost equals that market price. The monopolist, by definition, has no rivals to worry about.
+In this course, we will be looking at the in-between cases, where each firm faces competition, but not
+perfect competition. In the oligopoly framework, it is possible to study a lot of very relevant topics that
+don’t arise in perfect competition. In each case, after presenting the material in a mathematical
+framework, I will show how the models explain important facts in the economy or inform about
+corporate strategy.
+Course Objectives
+1. Survey many representative topics in the field of IO, including the fundamental causes of market
+power, basic theories of monopoly and oligopoly, price fixing, collusion, horizontal mergers, and vertical
+mergers (time permitting), static and dynamic game theory, price discrimination, bundling, product
+differentiation, predatory behavior and other strategic behavior.
+2. Acquire and master basic theoretical tools to analyze the welfare consequences of strategic behavior
+by firms.
+3. Understand the connection of the theoretical models of IO to public policy and the real world through
+a series of empirical examples.
+Prerequisite: Economics 420K with a grade of at least C-. The course will be fairly mathematical and a
+working knowledge of multivariate calculus is assumed.
+Required Textbook and Additional Reading
+The required textbook for this course is Modern Industrial Organization, by Dennis W. Carlton and
+Jeffrey M. Perloff, 4th edition. I may also post links to additional reading, primarily from current news
+publications or economics journals, on Canvas.
+                                                                                                          1/6
+
+
+ECO328 Summer 2019, Prof. Shalah M. Mostashari                                                 Course Syllabus
+Grading
+Your overall course score will be a weighted average of the percentage scores you receive on each of the
+graded components of work, with the following weights:
+    •    Exam 1                                                                                  25%
+    •    Exam 2                                                                                  25%
+    •    Exam 3                                                                                  25%
+    •    Problem Sets                                                                            25%
+Problem Sets: There will be a series of individual homework assignments throughout the course. I have
+a strict homework policy. No late homework will be accepted, no matter what the excuse. Problem
+sets are due within the first ten minutes of class. I will then have the TA pick up the problem sets. If
+you try to turn in your problem set after that, we will not accept it, and you will receive a zero. In
+fairness to the rest of the class, there will be no exceptions to this rule. However, to accommodate a
+potential emergency, I will drop your lowest two problem set grades before computing your final grade.
+Do not email me your problem set. If you cannot make it to class, then you may turn in a physical
+time-stamped copy at the front desk in BRB prior to the deadline.
+Exams: All exams are closed-book, closed-notes. You may use a calculator. You may not use any device
+that can store text, equations, or graphs, or that has wireless capability (no phones, iPads, notebook
+computers, etc.). Your exams must represent your own work. Any evidence of collaboration on an exam
+or violation of the exam-taking conditions will be pursued with Student Judicial Services.
+The format of the exams will be similar to the homework problems and consist of working out examples
+of theoretical models presented in class applying them to specific case studies discussed in class or in
+homework problems. If there is a curve on the exam, the curve will be applied to each exam separately.
+Exams will emphasize the material covered since the last exam. However, some concepts are used
+throughout the course and you will need to maintain a working understanding of that material to be
+successful on the second and third exams.
+Only serious and substantiated medical and personal emergencies will be accepted as valid reasons for a
+missed exam. Otherwise, a missed exam generally will be given a zero. If you miss an exam for a valid
+reason, you will be given a makeup exam.
+Letter Grade: After your weighted average score is calculated for the semester, the following
+conversion table will be used to give you a letter grade.
+                                                                                                           2/6
+
+
+ECO328 Summer 2019, Prof. Shalah M. Mostashari                                                  Course Syllabus
+               Percent          letter grade
+                93 –              A
+             90 to < 93           A–
+             87 to < 90           B+
+             83 to < 87           B
+             80 to < 83           B–
+             77 to < 80           C+
+             73 to < 77           C
+             70 to < 73           C–
+             60 to < 70           D
+                < 60              F
+Exam Dates
+         Exam 1: Friday July 26
+         Exam 2: Friday August 9
+         Exam 3: Friday August 16
+Course website and communication
+The official website of the course will be on Canvas. Please refer to that website for announcements,
+daily schedules with specific reading assignments, homework assignments, exam solutions, reading that
+is not in the textbook, and other course content: https://canvas.utexas.edu/.
+Make sure that your email address on Canvas is correct. Check your email at least once a day. Your
+email address on Canvas is the email address that UT has on file for official communication with you,
+and you are responsible for any communication with you using that email address, as well as any other
+email address that you have used to contact me.
+You are responsible for all information communicated in lecture. I will make every effort to post
+important announcements on Canvas, but once information has been given in lecture, you are
+responsible for that information. If you miss a lecture, it is your responsibility to get the notes from
+another student.
+Teaching Assistant
+This course will have a teaching assistant (TA). The TA will hold office hours by appointment, handle
+questions about grades, and assist with logistical and administrative tasks. For questions of course
+content or help with the problems sets, students should visit the professor during office hours or by
+appointment.
+TA contact information:
+Name: Anthony Maxam
+Email: anthony.maxam@utexas.edu
+Office: BRB 3.146
+Office Hours by appointment only
+                                                                                                            3/6
+
+
+ECO328 Summer 2019, Prof. Shalah M. Mostashari                                                  Course Syllabus
+Student conduct during lecture
+Lecture is not a place where you collect information that you study later – lectures are structured so that
+important learning occurs during lecture. The rules concerning student conduct are intended to ensure
+an environment that is conducive to learning. It is expected that you will be quiet and ready for lecture
+to start promptly, and that you will stay quiet (no chatting, no packing up) until lecture ends. You must
+be on time and do not depart early. If for some exceptional reason, you must arrive late or leave
+early, you should notify me by email or inform me at the start of class. Background noise is distracting
+and disruptive to your fellow students and to the instructor; do your part to maintain a quiet
+environment during lecture by not talking. During lecture, you should not use a laptop, tablet or
+any other electronic device. Lectures move rapidly and you will take a lot of notes.
+Additional policies
+Students with disabilities: Any student with a disability who requires academic accommodations
+should contact Services for Students with Disabilities in the Office of the Dean of Students at 471-6259
+(voice) or 471-4641 (TTY for users who are hearing-impaired) to request an official letter for your
+professor that lists your authorized accommodations. UT policy requires students requesting
+accommodations to notify their professors in advance, and we will adhere to the policies of SSD
+concerning advance notification. I’d appreciate notification as soon as possible (even if you don’t yet
+have the official letter, you can email me that it’s on the way). Early notification helps me schedule
+appropriate accommodations.
+Religious holy days. By UT Austin policy, you must notify your professor of your pending absence at
+least fourteen days prior to the date of observance of a religious holy day. If you must miss an exam or
+one of the attendance bonus quizzes in order to observe a religious holy day, you will be given an
+opportunity to complete the missed work within a reasonable time after the absence.
+Behavior Concerns Advice Line (BCAL): If you become worried about someone’s behavior, you may
+call the Behavior Concerns Advice Line at 512-232-5050 to discuss your concerns. This service is
+provided by the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the
+Employee Assistance Program (EAP), and the University of Texas Police Department (UTPD). Visit
+http://www.utexas.edu/safety/bcal for more information.
+Emergencies: Occupants of buildings on the UT- Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside. Familiarize yourself with all exit doors of each classroom and building you occupy. Remember
+that the nearest exit door may not be the one you used when entering the building or room. In the event
+of an evacuation, follow the instructions of faculty or class instructors. Do not re-enter a building unless
+given instructions by the following: Austin Fire Department, the UT-Austin Police Department, or the
+Fire Prevention Services office. Students requiring assistance in evacuation shall inform their instructor
+in writing during the first week of class.
+Policy on scholastic dishonesty: Students who violate University rules on scholastic dishonesty are
+subject to disciplinary penalties, including the possibility of failure in the course and/or dismissal from
+the University. Because such dishonesty harms the individual, all students, and the integrity of the
+University, policies on scholastic dishonesty will be strictly enforced. For further information, please
+                                                                                                            4/6
+
+
+ECO328 Summer 2019, Prof. Shalah M. Mostashari                                                                      Course Syllabus
+visit the Student Judicial Services web site at www.deanofstudents.utexas.edu/sjs/. The University’s
+expectations for student conduct are grounded in the University Honor Code:
+           The core values of The University of Texas at Austin are learning, discovery, freedom, leadership,
+           individual opportunity, and responsibility. Each member of the University is expected to uphold
+           these values through integrity, honesty, trust, fairness, and respect towards peers and community.
+University students are expected to abide by all city, state, and federal laws and statutes and all
+regulations of the University and The University of Texas System. However, as a community of scholars,
+the University expects from its students a higher standard of conduct than that required simply to avoid
+discipline. The principles of the University Honor Code both govern and direct student conduct, to
+promote a safe environment that is conducive to academic success and to ensure that each University
+student graduates ready to contribute to society as an ethical citizen.
+“Academic dishonesty” or “scholastic dishonesty” includes, but is not limited to, cheating, plagiarism, collusion, falsifying
+academic records, misrepresenting facts, and any act designed to give unfair academic advantage to the student (such as, but
+not limited to, submission of essentially the same written assignment for two classes without the prior permission of the
+instructor), or the attempt to commit such an act.
+“Cheating” includes (but is not limited to)
+(1) copying from another student’s test paper, project, or other assignment;
+(2) failing to comply with instructions given by the person administering a test, project, or other assignment, or given in
+conjunction with the completion of course requirements;
+(3) use or possession of materials that are not authorized by the person giving the test, project, or other assignment, including
+but not limited to class notes, calculators, electronic devices, and specifically designed “crib notes”; the presence of textbooks
+constitutes a violation only if they have been specifically prohibited by the person administering the test;
+(4) providing aid or assistance to or receiving aid or assistance from another student or individual, without authority, in
+conjunction with a test, project, or other assignment;
+(5) discussing the contents of a test with another student who will take the test;
+(6) divulging the contents of a test, for the purpose of preserving questions for future use, when the instructor has designated
+that the test is not to be removed from the examination room or is not to be returned to or kept by the student;
+(7) substituting for another person or permitting another person to substitute for oneself to take a class, a test, or any class-
+related assignment;
+(8) using, buying, stealing, transporting, soliciting, or coercing another person to obtain answers to or information about an un-
+administered test, project, or other assignment;
+(9) falsifying research data, laboratory reports, other academic work offered for credit, or work done in conjunction with the
+completion of course requirements;
+(10) taking, keeping, misplacing, or damaging the property of the University, or of another, if the student knows or reasonably
+should know that an unfair academic advantage would be gained by such conduct; (11) altering a test paper, project, or other
+assignment to gain an academic advantage.
+                                                                                                                                  5/6
+
+
+ECO328 Summer 2019, Prof. Shalah M. Mostashari                                    Course Syllabus
+Tentative Schedule of Topics
+                                                                                 Text
+  Class  Day     Date      Topic                                                 Reading
+  1      Mon.    7/15      Introduction: What is Industrial Organization?        Ch 1
+  2      Tue.    7/16      Technology and Cost                                   Ch 2
+  3      Wed.    7/17      Technology and Cost                                   Ch 2
+  4      Thur.   7/18      Competition and Welfare Analysis                      Ch 3
+  5      Fri.    7/19      Monopoly                                              Ch 4
+  6      Mon.    7/22      Oligopoly: Cartels                                    Ch 5
+  7      Tue.    7/23      Oligopoly: Game Theory                                Ch 6
+  8      Wed.    7/24      Oligopoly: Cournot                                    Ch 6
+  9      Thur.   7/25      Oligopoly: Bertrand and Stackelberg                   Ch 6
+  10     Fri.    7/26      Exam 1
+  11     Mon.    7/29      Oligopoly: Equilibria in Multiperiod Games            Ch 6
+  12     Tue.    7/30      Oligopoly: Equilibria in Multiperiod Games cont’d     Ch 6
+  13     Wed.    7/31      Monopolistic Competition and Product Variety          Ch 7
+  14     Thur.   8/1       Monopolistic Competition and Product Variety cont’d   Ch 7
+  15     Fri.    8/2       Price Discrimination: Linear Pricing                  Ch 9
+  16     Mon.    8/5       Price Discrimination: Linear Pricing cont’d           Ch 9
+  17     Tue.    8/6       Price Discrimination: Nonlinear Pricing               Ch 10
+  18     Wed.    8/7       Bundling                                              Ch 10
+  19     Thur.   8/8       Bundling                                              Ch 10
+  20     Fri.    8/9       Exam 2
+  21     Mon.    8/12      Noncooperative Strategic Behavior                     Ch 11
+  22     Tue.    8/13      Noncooperative Strategic Behavior                     Ch 11
+  23     Wed.    8/14      Vertical Integration and Vertical Restrictions        Ch 12
+  24     Thur.   8/15      Vertical Integration and Vertical Restrictions cont’d Ch 12
+  25     Fri.    8/16      Exam 3
+                                                                                              6/6

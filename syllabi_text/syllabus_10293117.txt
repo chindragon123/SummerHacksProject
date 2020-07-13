@@ -1,0 +1,264 @@
+                                                                ARC 327R/386M Solar Geometry & Energy Flow in Buildings
+                                                                          University of Texas at Austin School of Architecture
+                                                                                                                  Spring 2020
+Syllabus
+Syllabus
+Lecture:           M 7:00-10:00 pm SUT 2.112
+Unique #: 00760, 01075
+Instructor:        Dason Whitsett                           Dec  Jan  Feb  Mar   Apr   May   Jun   Jul  Aug  Sep   Oct   Nov
+Office:            WMB 4.116a (enter through 4.122)
+Office hours:      Monday 6:00-6:50
+Email:             dwhitsett@utexas.edu
+Description:
+Solar Geometry and Energy Flow in Buildings examines the relationship between buildings and the energy
+that flows around and through them. Developing a strong understanding of the principles that govern this
+interaction is important for anyone involved with the built environment.
+The class begins by looking at the source of all Earth’s renewable energy—the sun. Students learn about its
+apparent motion, how its energy strikes and interacts with our buildings, and how we may exploit these
+principles in our building practice. Students demonstrate their mastery of the topic by designing and
+building a solar oven, then using it to cook something for the class to share.
+From there, the class proceeds to an examination of the concept of human comfort and various models for
+assessing whether an environment is “comfortable.” The final segment of the course focuses on the transfer
+of heat, solar radiation, and moisture through the building envelope and how these flows affect comfort
+and energy use. The relationship of these fundamentals to the methodology of the Passive House
+certification system will be a theme throughout the semester.
+Students analyze these phenomena through exercises and experiments that involve drawings, hand
+calculations, physical models, and computer simulations. The exercises form a “tool box” of methods that
+may be applied to future projects. The course provides a good foundation for students to understand and
+apply principles of building performance, and for those who plan to move on to the study of whole-building
+energy simulation.
+Format:
+There is a great deal of material within the scope of the course, which necessitates quite a bit of lecture time
+to cover. Particularly during the first half of the course we will rely heavily on the book for detail on technical
+topics, so the reading is very important. We will still devote a considerable portion of time to class discussion
+and presentation by students. There is a significant opportunity for learning from the findings of other
+students and the aim is to maintain the feel of a seminar as much as possible. A high degree of class
+participation will be expected of students.
+                                                          1
+
+
+                                                               ARC 327R/386M Solar Geometry & Energy Flow in Buildings
+                                                                       University of Texas at Austin School of Architecture
+                                                                                                               Spring 2020
+Texts & Resources:
+Required Materials
+1. Fajkus, Matt, and Dason Whitsett. 2018. Architectural Science and the Sun: The Poetics and Pragmatics of
+          Solar Design. 1 edition. New York: Routledge.
+2.Pilkington Sun Angle Calculator from the Society of Building Science                                        Educators:
+          http://www.sbse.org/resources/sac/index.htm (Available at University Co-op)
+3. An inexpensive thermometer/hygrometer (temperature and humidity meter.) There are plenty of these
+          available in the $15-25 range that should be sufficiently accurate for our needs.
+4. EnergyPlus- Use in computer lab or download at: https://energyplus.net/(best run on a PC) [Don’t install
+          until notified]
+5. Climate Consultant- Download at: http://www.energy-design-tools.aud.ucla.edu/
+6. Box- UT cloud storage solution.
+Note: While I recommend installing this software on your own computer, if you prefer to work in the
+computer lab, these tools will be available there.
+Additional readings & handouts will be assigned during the semester and provided via Box.
+Additional Recommended Resources:
+American Society of Heating, Refrigerating and Air-Conditioning Engineers. 2009. ASHRAE Handbook of
+          Fundamentals. SI ed. Atlanta, Ga: American Society of Heating, Refrigerating, and Air-Conditioning
+          Engineers. (both the SI and IP editions of this indispensable manual are available electronically via
+          the UT Library by searching for ASHRAE under databases)
+Brown, G. Z. 2001. Sun, Wind & Light: Architectural Design Strategies. 2nd ed. New York: Wiley.
+Duffie, John A. 2006. Solar Engineering of Thermal Processes. 3rd ed. Hoboken, N.J: Wiley.
+Givoni, Baruch. 1976. Man, Climate and Architecture. 2nd ed. London: Applied Science Publishers.
+Grondzik, Walter, et al. 2010. Mechanical and Electrical Equipment for Buildings. 11th ed. Hoboken, N.J: Wiley.
+Olgyay, Aladar. 1957. Solar Control & Shading Devices. Princeton: Princeton University Press.
+Olgyay, Victor. 1963. Design with Climate: Bioclimatic Approach to Architectural Regionalism. Some Chapters
+          Based on Cooperative Research with Aladar Olgyay. Princeton, N.J: Princeton University Press.
+Szokolay, Steven V. 2008. Introduction to Architectural Science: The Basis of Sustainable Design. 2nd ed.
+          Boston, MA: Elsevier.
+                                                        2
+
+
+                                                               ARC 327R/386M Solar Geometry & Energy Flow in Buildings
+                                                                       University of Texas at Austin School of Architecture
+                                                                                                               Spring 2020
+A Note on Representation:
+In many assignments, you will be asked to draw or sketch your solutions. Often, the usefulness of a drawing
+depends on its accuracy. In some cases, hand sketching can be sufficiently accurate, especially with the use
+of graph paper, a protractor, and a practiced hand. In others, a more precisely constructed drawing will be
+necessary. Each student may be the judge of what approach to take in any given case, but the end product
+should be sufficiently rigorous to demonstrate the accuracy of the solution for the particular case.
+Comfort Measurements:
+Each student should take at least three comfort observations each week using her
+thermometer/hygrometer as well as making personal qualitative observations on comfort. Record the data
+in the file “SGEF_Comfort Measurements.xlsx” which may be downloaded from the assignments section of
+Box.
+Homework
+There will be homework exercises assigned nearly every week. These exercises are essential to develop a firm
+grasp of the material, so students are encouraged to approach them with enthusiasm and an investigative
+perspective. In the latter half of the course, experiments may be undertaken through computer simulation
+before the topic material has been fully covered in class so that students can work to draw their own
+conclusions from the results, and then compare notes with the rest of the class.
+Homework is to be handed in via Box on Mondays.
+Students who made a genuine and documented effort at solving each problem shall receive full credit.
+Students who completed at least half will receive half credit, and students who completed less than half or
+did not turn in the assignment will receive no credit. Late homework will not be accepted except in cases of
+documented illness, other excused absence, or if prior arrangements have been made due to travel for
+another university course.
+Solutions will be posted after the due date and students shall correct their own homework in red and marked
+“CORRECTED” at the top. If everything is correct, still mark it “CORRECTED.” Bundle all of your homework
+assignments into one PDF packet to be submitted via Box at the end of the semester. Digital or scanned hand-
+written work is acceptable. If all homework assignments with corrections are included, full credit will be given.
+Homework grades will be determined as follows: the lowest grade for completed assignments will be thrown
+out. No credit scores for homework assignments will not be thrown out. The rest of the grades, including the
+grade for the final packet will be averaged to determine the final homework grade.
+Homework guidelines:
+     • Clearly label each homework assignment with your name, the Homework number and title at the
+           top in large type.
+     • Clearly label each problem/exercise with its number in large bold type or heavy pen.
+     • Clearly circle or highlight your answers.
+     • Show the work that led to your answer. I encourage you to use spreadsheets to do calculations, but
+           set up the spreadsheet to clearly demonstrate what it is doing. This generally requires typing out
+           the formula you are using in an adjacent cell. Doing so allows me to understand what you are doing,
+           but more importantly, you will be able to understand it when you look back in a couple of years to
+           implement the techniques we are developing.
+     • You may work on homework with classmates, but your work should be your own.
+     • Homework packets which do not follow these guidelines will receive sharp reductions in grade.
+                                                         3
+
+
+                                                                ARC 327R/386M Solar Geometry & Energy Flow in Buildings
+                                                                        University of Texas at Austin School of Architecture
+                                                                                                                Spring 2020
+Homework Discussions:
+The purpose of the homework is to develop proficiency using the techniques covered in class, which generally
+lead directly into the topics that follow. The instructor may select several students to explain their findings on
+homework problems each week, so bring a hard copy of your homework to turn in and be prepared to discuss
+it. Your readiness to discuss your work will affect your class participation grade.
+Projects
+There will be four projects assigned during the semester. See class calendar for due dates and grades section
+for weighting.
+For Project 1, students will construct sun-path diagrams for their hometown using three-dimensional
+methods.
+Project 2 will task students to design and test a solar oven.
+Project 3 will present students with two options: A. Explore the design of shading devices incorporating
+climate analysis and solar geometry techniques. B. Perform a solar site analysis of a given site, write a form-
+based code to guarantee solar access, and construct the buildable envelope for the site based on your code.
+Project 4, the final project, is an opportunity for students to further explore a question relating to the thermal
+portion of the course. This project will incorporate the analysis of comfort observations each student has
+made over the course of the semester.
+Project Presentations:
+It will not be possible for each student to present his/her work on each project. As a result, each student will
+be assigned to present their work to the class for at least one of the four semester projects.
+Late Projects:
+All projects are due on the day assigned. Grades will be reduced one-half letter grade for each day a project
+is late. Catching up is difficult once behind. The projects for this course will generally take time and thought,
+so start early.
+Work Submission:
+Projects will be handed in via individual student’s Box folders.
+                                                         4
+
+
+                                                                ARC 327R/386M Solar Geometry & Energy Flow in Buildings
+                                                                          University of Texas at Austin School of Architecture
+                                                                                                                  Spring 2020
+Course Outline- Solar Geometry & Energy Flow in Buildings- Spring 2020
+  Week       Topic                              Reading Due                  Assignment Due
+  1     1/21 University first day of classes-
+             No SGEF
+  2     1/27 Class Intro
+             Topics Intro
+  3      2/3 Solar Geometry Basics              Arc Sci: Preface, Ch1, 2, 3, HW1
+                                                App C
+         2/5 Excel Workshop- time t.b.d.
+  4     2/10 Solar Geometry & Radiation         Arc Sci: Ch 4, App D         HW2
+  5     2/17 Sun & Form, Shadows                Arc Sci: Ch 5, 6 (short but  HW3
+                                                important)
+  6     2/24 Shadows & Solar Microclimate Arc Sci: Ch 7, App E               HW4
+                                                                             P1
+  7      3/2 Shading Design                     Arc Sci: Ch 8                HW5
+  8      3/9 Fenestration                       Arc Sci: Ch 9, 10            HW6
+  9     3/16 Spring Break- No Class
+  10    3/23 Climate & Comfort                  Handout                      P2
+             Climate & Comfort
+  11    3/30 HW7, Solar Ovens 2019              Handout                      HW7
+             Heat Transfer
+  12     4/6 Heat Transfer                      Vital Signs-Thermal Mass     HW8
+                                                & Handout
+  13    4/13 Heat Transfer                      Handout                      HW 9
+             Fenestration & Solar Gain
+  14    4/20 P3 Student Prensentations          Handout                      P3
+             Infiltration, Ventilation & Latent                              HW 10
+             Heat Flow
+  15    4/27 Passive Strategies                                              HW 11
+  16     5/4 Wrap-Up                            Handout                      P4
+             P4 Student Presentations
+      t.b.d. Homework Packet Due                                             Homework Packet
+                                                         5
+
+
+                                                              ARC 327R/386M Solar Geometry & Energy Flow in Buildings
+                                                                      University of Texas at Austin School of Architecture
+                                                                                                              Spring 2020
+Attendance:
+Attendance is mandatory and will bear upon the class participation grade. The course will be fast-paced and
+catching up once behind will be difficult. Notify the instructor in advance of necessary absences or if you are
+sick. Students with more than three unexcused absences will be dropped from the course.
+Grading Scale:
+A+       Exceptional work
+A        Work goes beyond minimum of assignment in effort and insight
+B+       Requirements of assignment satisfied accurately
+B        Assignment completed with minor problems
+B-       Assignment completed, but with significant problems
+C/D      Assignment incomplete and/or has significant problems
+F        Demonstrates lack of effort or inability to complete and comprehend material
+No incompletes will be given without full documentation of extenuating circumstances as defined by
+University policy.
+Grade Weighting:
+Class participation                 10
+Homework                            25
+P1                                  15
+P2                                  20
+P3                                  20
+P4                                  10
+Total                               100%
+                                                        6
+
+
+                                                                      ARC 327R/386M Solar Geometry & Energy Flow in Buildings
+                                                                               University of Texas at Austin School of Architecture
+                                                                                                                       Spring 2020
+University Policies
+The Honor Code:
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity
+and responsibility. Each member of the University is expected to uphold these values through integrity, honesty, trust,
+fairness, and respect toward peers and community.
+Academic Dishonesty
+Academic dishonesty or scholastic dishonesty includes, but is not limited to, cheating, plagiarism, collusion, falsifying
+academic records, misrepresenting facts, and any act designed to give unfair academic advantage to the student (such
+as, but not limited to, submission of essentially the same written assignment for two classes without the prior
+permission of the instructor), or the attempt to commit such an act.
+Plagiarism includes, but is not limited to, the appropriation of, buying, receiving as a gift, or obtaining by any means
+material that is attributable in whole or in part to another source, including words, ideas, illustrations, structure,
+computer code, and other expression or media, and presenting that material as one’s own academic work being offered
+for credit.
+For more information on the University’s policies on academic dishonesty, please see:
+http://registrar.utexas.edu/catalogs/gi09-10/app/gi09.appc03.html
+Students in Need of Special Accommodations:
+At the beginning of the semester, students with disabilities who need special accommodations should notify the
+instructor by presenting a letter prepared by the Services for Students with Disabilities Office. To ensure that the most
+appropriate accommodations can be provided, students should contact the SSD Office at 471-6259 or 471-4641 TTY.
+Absence for Religious Holy Days:
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of observance
+of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in order to observe a
+religious holy day, you will be given an opportunity to complete the missed work within a reasonable time after the
+absence.
+Emergencies:
+Emergency evacuation policies from the Office of Campus Safety and Security, 512-471-5767,
+http://www.utexas.edu/safety/ :
+           -Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings when
+           a fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+           -Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that the
+           nearest exit door may not be the one you used when entering the building.
+           - Students requiring assistance in evacuation shall inform their instructor in writing during the first week of
+           class.
+           -In the event of an evacuation, follow the instruction of faculty or class instructors.
+           -Do not re-enter a building unless given instructions by the following: Austin Fire Department, The University
+           of Texas at Austin Police Department, or Fire Prevention Services office.
+           -Behavior Concerns Advice Line (BCAL): 512-232-5050
+           -Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+           www.utexas.edu/emergency
+                                                                7

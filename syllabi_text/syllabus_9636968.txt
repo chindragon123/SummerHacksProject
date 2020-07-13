@@ -1,0 +1,69 @@
+                               CS373: Software Engineering
+                                             Summer 2019 (85610)
+About
+This is a course on software engineering using Python, Javascript, and SQL. It will include the creation
+of a website with a database backend using the following tools:
+    • Amazon Web Services (AWS)
+    • Bootstrap
+    • Flask
+    • GitLab
+    • Google Cloud Platform (GCP)
+    • Namecheap
+    • Postman
+    • PostgreSQL
+    • React
+    • RESTful APIs
+    • Slack
+    • SQLAlchemy
+It is also strongly focused on using tools to improve the quality of software development including:
+    • automated formatting with black
+    • automated builds with make
+    • code coverage with coverage
+    • VM development with Docker
+    • source control with git
+    • continuos integration with GitLab
+    • type annotations with mypy
+    • using the NumPy library
+    • automated documentation with pydoc
+    • code static analysis with pylint
+    • compiling with python 3.7.2
+    • unit testing with unittest
+Grading
+    • blog (5%)
+    • 5 projects (40%)
+    • 30 quizzes (15%)
+    • 2 tests (40%).
+    • No final.
+
+
+Instructor
+Glenn Downing <downing@cs.utexas.edu>
+MF 12-12:45pm
+GDC 6.308
+Prerequisites
+Computer Science 429 (or 310) or 429H (or 310H) with a grade of at least C-.
+Schedule
+   • 2 weeks on software engineering tools
+   • 1 week on assertions, exceptions, testing
+   • 6 weeks on Python
+   • 1 week on XML, JSON
+   • 2 weeks on relational algebra, SQL
+   • 1 week on refactoring
+   • 1 week on design patterns
+   • 1 week on group presentations
+Texts
+   • Extreme Programming Installed, 2000.
+   • JavaScript: The Good Parts, 2008.
+   • Database Design with UML and SQL
+   • Refactoring, 2018.
+   • Several papers on various topics.
+Website
+https://www.cs.utexas.edu/users/downing/cs373/
+Writing Flag
+   • blog, 14 entries, no revisions, 5%
+   • issues and bugs, 4 entries, no revisions, 4%
+   • user stories, 3 entries, 2 revisions, 4.5%
+   • application programming interface (API), 3 entries, 2 revisions, 3.5%
+   • website, 4 entries, 3 revisions, 7%
+   • technical report, 4 entries, 3 revisions, 8.5%
+   • presentation, 1 entry, no revisions, 3.5%

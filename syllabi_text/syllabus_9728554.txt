@@ -1,0 +1,179 @@
+The University of Texas at Austin | College of Fine Arts | School of Design and Creative Technologies | Department of Arts and Entertainment Technologies
+  AET Foundations of Digital Imaging and Visualization
+  306 Introduction to digital content creation, manipulation, transmission, and critical inspection
+                 (Unique No. 20390)
+                   Fall 2019 | Tue/Thur 9:30–11:00am | DFA 4.126
+                   INSTRUCTOR: Greg Hervey - ghervey@utexas.edu
+                   Office Hours (by appointment): T/TH 7:00-8:00am (1st floor of DFA)
+                   CLASS WEBSITE: canvas.utexas.edu
+                 COURSE OVERVIEW
+                 This course presents technical aspects of visual communication using industry-standard software (for image manipulation,
+                 videography, 2D graphics, and motion graphics), and conceptual considerations for effective visual communication
+                 (including basic elements and principles of design, color theory, composition, and typography).
+                 Exposure to the processes and vocabulary of visual communication enables students to make educated technological
+                 and conceptual decisions when planning and utilizing digital technology, and maximize the effectiveness of visual
+                 communication within their own creative and technical careers.
+                 Research and practice outside of classroom hours is mandatory. The pages —and linked content— of the course
+                 website are required reading (there is no required textbook). Other than grading and attendance policies, parts of this
+                 syllabus are subject to change with advance notice, as deemed necessary by the instructor.
+                 COURSE MODULES
+                   Digital Imaging & Design (Adobe Photoshop, image editing, image resolution, digital image/video capture, color space,
+                   and printing): Development of basic digital image editing skills. Introduction to elements and principles of design.
+                   Vector Graphics, Iconography and Typography (Adobe Illustrator, vector vs. raster space, layout and typography):
+                   Exploration into vector vs. raster, digital file formats, introduction to typography.
+                   Non-linear Video Editing (Adobe Premiere Pro, storyboarding, digital cinematography, digital presentation, and
+                   transmission): Exploration into digital video, capture, editing, manipulation, transmission and presentation in technical
+                   and creative capacities.
+                   Motion Graphics (Adobe After Effects, digital rotoscoping, and 2D Animation): Development of traditional and digital
+                   animation skills, keyframing and motion tracking, compression theory, digital animation workflows, and practical
+                   storyboarding.
+                 COURSE REQUIREMENTS
+                 • Personal Laptop (DFA computers have Adobe software; but you will need access outside of lab & library hours)
+                 • Adobe Creative Cloud (UT student price: $99/yr at CampusComputer.com)
+                 • Internet access and a working email address (class notifications, assignments, and quizzes will all be administered
+                   through Canvas)
+                 • High capacity USB storage and/or Cloud Storage (Dropbox, Google Drive, Box, etc. UT students have free Box access)
+                   ***backup of your data is solely your responsibility and should be done frequently to avoid loss of any work***
+                 “My computer crashed” or “my files got corrupted” is the 21st century equivalent of “the dog ate my homework”
+                        Archive all work files until you receive your final grade (in case files get corrupted when uploading to Canvas).
+                 LEARNING OBJECTIVES
+                 By the end of the course, students should:
+                 • understand technical parameters of digital images and digital video,
+                 • recognize the pros and cons of vector and raster images, and the related file formats,
+                 • identify and employ the Principles of Design and fundamentals of visual composition,
+                 • be conversant in color theory and typography,
+                 • demonstrate foundational skills in Adobe Photoshop, Illustrator, Premiere, and After Effects
+
+
+CALENDAR
+Dates and lecture topics are subject to change. Calendar is provided for overview purposes only.
+DATE           MODULE/TOPIC/PROJECT                                                            POINTS (260 TOTAL)
+Week 1         MODULE 1: Introduction to Digital Imaging, Introduction to Photoshop
+Week 2		                   Principles of Design & Color Theory/ PROJECT 1a                            10
+Week 3		                   Composition / PROJECT 1b                                                  20
+ 		                        Module 1 Quiz                                                             20
+Week 4         MODULE 2: Introduction to Vector Graphics, Introduction to Adobe Illustrator
+Week 5		                   PROJECT 2a, Introduction to Typography                                     10
+Week 6		                   Iconography, PROJECT 2b                                                   30
+Week 7		                   Module 2 Quiz                                                             20
+Week 8         MODULE 3: Introduction to Digital Video, Introduction to Storyboarding
+Week 9		                   Introduction to Adobe Premiere, PROJECT 3a                                 10
+Week 10		                  Lumetri color correction, creating credits, PROJECT 3b                    40
+Week 11		                  Module 3 Quiz                                                             20
+Week 12        MODULE 4: Motion Graphics, Introduction to Adobe After Effects
+Week 13		                  PROJECT 4a, Rotoscoping                                                    10
+Week 14		                  PROJECT 4b                                                                50
+Week 15		                  FINAL QUIZ                                                                20
+GRADING
+Your final grade in this course will be the total of four module grades (above), and a fifth ‘professionalism’ grade. The
+professionalism grade is determined by attendance, punctuality, class participation, and completion of assigned video
+training exercises (on Photoshop, Illustrator, and After Effects). The Professionalism grade is 340 points (300 of which are
+for attendance/punctuality), for a maximum point total of 600 for the course.
+Grading in a creative course is inevitably subjective, meaning that the final evaluation of work presented is based not only
+on how the criteria for assignments is met, but also on instructor assessment of the work’s creativity and quality. Generally,
+assignments are equally weighted on Creativity (delivering an interesting, atypical solution), Craft (displaying control
+over the software), and Execution (meeting assignment parameters, including technical settings, file-naming, and on-time
+submission). When providing feedback on assignments, I may reference concepts not explicitly required in the instructions,
+to explain how I converted my reaction to your creative endeavor into a numeric grade. Each student is graded on an
+individual basis, not relative to other students. The grading scale has a built-in curve so I can reserve perfect scores for
+exceptionally outstanding work.
+Final grades are calculated as a percentage: points earned ÷ points possible (330). A = 100–93%, A– = 92–88%,
+B+ = 87–83%, B = 82–78%, B– = 77–73%, C+ = 72–69%, C = 68–66% C– = 65–63%, D+ = 62–60%,
+D = 59–56%, D– = 55–51%, F=<51%.
+(NOTE: The University does not recognize the grade of A+. Any floating points are rounded up. )
+Late or incomplete work will seriously affect your grade. If you feel you may not be able to complete all work on time, you
+should ask me for a grade of Q, or drop before the deadline for doing so passes (see Q drop Policy, below).
+ATTENDANCE POLICY
+Attendance and use of the full class period is expected. This is a hands-on, instructor-led, project-based course so
+punctuality is essential. If you are more than 20 minutes late (or leave class more than 20 minutes early), it counts as an
+absence. Four absences will drop your final grade in the course by one letter grade. Each additional absence
+beyond that will result in another incremental grade drop (e.g. from B to B–, B– to C+, etc.). If a medical or personal
+situation affects your attendance or punctuality, discuss it with me ASAP. Absences or arriving late/leaving early will
+adversely affect your grade—and when excessive, may result in failing the course.
+Roll will be taken daily at the start of the class. Roll call is visual and based on seating assignments. If you arrive late, or are
+out of your seat during visual roll call you may be marked late or absent. It is your responsibility to contact me or the TA
+within 48 hours to ensure your attendance/punctuality is correctly recorded (you cannot contest your attendance record
+later in the semester, when there is no way to verify it). Canvas will alert a grade change if you are recorded absent, late, or
+leave before class is dismissed.
+I do not distinguish excused from unexcused absences; if you’re not in the classroom participating in the lesson, you are
+absent (unless you’ve prescheduled a religious holiday; see religious holy days below). A single absence or tardiness is an
+aberration and will not impact your grade (but multiple absences or tardiness is a pattern, and will affect your grade). If you
+are absent, you MUST schedule office hours with me to make up the missed work, within one week of the absence, or 10
+additional points will be deducted from your Professionalism grade.
+
+
+Q drop Policy The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6).
+As stated in Senate Bill 1231: “Beginning with the fall 2007 academic term, an institution of higher education may not permit
+an undergraduate student a total of more than six dropped courses, including any course a transfer student has dropped at
+another institution of higher education, unless the student shows good cause for dropping more than that number.”
+UNIVERSITY ATTENDANCE POLICY: RELIGIOUS HOLY DAYS
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of observance of a
+religious holy day. If you must miss a class, an examination, a work assignment, or a project in order to observe a religious
+holy day, I will give you an opportunity to complete the missed work within a reasonable time after the absence.
+USE OF E-MAIL FOR OFFICIAL CORRESPONDENCE
+All students should become familiar with the University’s official e-mail student notification policy. It is the student’s
+responsibility to keep the University and instructor(s) informed as to changes in his/her e-mail address. Students are
+expected to check e-mail on a frequent and regular basis in order to stay current with University-related communications,
+recognizing that certain communications may be time-critical. The complete text of this policy and instructions for updating
+your e-mail address are available at
+http://www.utexas.edu/its/help/utmail/1564
+CLASSROOM AND CLASS WEBSITE
+The class will be held in the lab located in DFA 4.126. All technical demos and class work will be held in the Lab. The lab is
+locked outside of classroom hours. Additional computers with Adobe software are available on the 3rd floor of DFA. I use
+Canvas to distribute course materials, communicate and collaborate online, post grades, receive your assignments, and to
+give you online quizzes and/or surveys. You can find support for using Canvas at https://canvas.utexas.edu/
+SERVICES FOR STUDENTS WITH DISABILITIES
+Any student with a documented disability who requires academic accommodations should contact Services for Students
+with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not required to provide
+accommodations without an official accommodation letter from SSD.
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with
+disabilities. For more information, contact Services for Students with Disabilities (512-471-6259, ssd@austin.utexas.edu,
+http://ddce.utexas.edu/disability/, or videophone 512-471-6644). Please provide documentation of your needs during the
+first week of class, so that I can make the necessary accommodations promptly.
+ACADEMIC HONESTY
+University of Texas Honor Code The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity, and responsibility. Each member of the University is expected to uphold these values
+through integrity, honesty, trust, fairness, and respect toward peers and community.
+Use of Class Materials The materials used in this class, including, but not limited to, exams, quizzes, and homework
+assignments are copyright protected works. Any unauthorized copying of the class materials is a violation of federal law
+and may result in disciplinary actions being taken against the student. Additionally, the sharing of class materials without
+the specific, express approval of the instructor may be a violation of the University’s Honor Code and an act of academic
+dishonesty, which could result in further disciplinary action. This includes, among other things, uploading class materials to
+websites for the purpose of sharing those materials with other current or future students.
+COPYRIGHT AND FAIR USE
+Understanding the basic principles of copyright and fair use is of critical importance to designers. Many of the uses we will
+make of text, images, and videos will be covered by the doctrine of Fair Use. However, as creators, you need to be aware of
+your own and other copyright holders’ legal rights, and to properly identify and license your own and others’ works. We will
+discuss these issues as needed.
+A useful resource is the Copyright Crash Course, available at http://copyright.lib.utexas.edu/.
+BEHAVIOR CONCERNS ADVICE LINE (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to discuss by
+phone your concerns about another individual’s behavior. This service is provided through a partnership among the Office
+of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance Program (EAP), and
+The University of Texas Police Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+
+
+EMERGENCY EVACUATION POLICY
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm is
+activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+• Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest exit door may not be
+  the one you used when you entered the building.
+• If you require assistance to evacuate, inform me in writing during the first week of class.
+• In the event of an evacuation, follow my instructions or those of class proctors/TAs. After evacuation, do not leave the
+  vacinity without checking in with me or our TA.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police Department,
+or the Fire Prevention Services office.
+CAMPUS CARRY
+The concealed carry of handguns by permit holders is generally allowed in outdoor areas, as well as buildings and spaces
+that are accessible to the public. Permit holders are allowed to carry in classrooms.
+It is the responsibility of concealed-carry license holders to carry their handguns on or about their person at all times while
+on campus. “About” the person means that a license holder may carry a holstered handgun in a backpack or handbag, but
+the backpack or handbag must always be close enough that the license holder can grasp it without materially changing
+position. The holster must completely cover the trigger area and have enough tension to keep the gun in place if jostled.
+A license holder may not carry a partially or wholly visible handgun on campus premises or on any university
+driveway, street, sidewalk or walkway, parking lot, parking garage, or other parking area.
+The open carry of handguns is not permitted on campus. Anyone who sees an openly carried gun on campus should
+immediately call 911. (from https://campuscarry.utexas.edu/students)
+CELL PHONES
+You must silence your cell phone in class (if your phone interrupts my class, you owe me a Frappuccino™). Texting or social
+networking in class—even during free lab time—is prohibited.

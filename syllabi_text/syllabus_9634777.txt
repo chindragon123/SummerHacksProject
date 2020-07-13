@@ -1,0 +1,210 @@
+INF 335C – Information in Cyberspace
+Unique Number: 78315
+Summer 2019
+Contact
+Instructor:                 Sarah Britt
+Office Hours:               By appointment
+Email:                      sarahbritt at utexas.edu
+(*Please contact me through Canvas)
+Office:                     UTA 5.454
+TA:                                  TA Pool
+Email​:                     ta_pool@ischool.utexas.edu
+Overview
+Information in Cyberspace (INF335) is a course designed for undergraduate students that provides an
+overview of the history and social impact of Internet and Web technology. INF335 emphasizes technology
+self-sufficiency and information literacy.
+The purpose of this course is to prepare students to think about information technology in a critical,
+thoughtful manner. The goal of this course is to pull back the curtain on some of the inner workings of
+information technology and empower students to navigate confidently through information spaces in
+networked environments. While it may be safe to assume the Internet will continue to exist for the
+foreseeable future, we can count on our description of cyberspace changing over time. This course aims
+to give students the tools to think critically about networked information communication technologies and
+their role as information consumers, producers, and leaders in the evolution of cyberspace.
+Objectives
+In this course students will learn:
+     ● about technical applications that make the Internet possible;
+     ●   about political, financial, and social implications of creating content on the Internet;
+     ●   how to find, evaluate, and cite Information resources on the Internet;
+     ●   how to protect content and resources from malicious attacks;
+Students will enact the following learning techniques:
+
+
+     ●   reading about history and current news related to information technology;
+     ●   discussing history and current news related to information technology;
+     ●   completing hands-on projects to practice presenting and assessing information in a variety of
+         contexts.
+Prerequisites
+While there are no prerequisite classes for INF335, you should know the following before taking this
+course:
+     1. ​You need to contact your instructors and TAs to ask questions or get help at the first sign of
+         trouble.
+     2. You need to pay very close attention to the course home page to keep up with what's going on.
+     3. You need to organize your time effectively so you can spend at least 6 hours a week working on
+         this class.
+     4. Students who are unable to motivate and organize themselves, and especially those who don't
+         communicate with their instructors or TAs, tend to be unsuccessful in a virtual classroom
+         environment.
+     5. Although it is not necessary to be a computer expert to complete this course successfully, you do
+         need to know the basics of operating a personal computer and navigating the Internet. You are
+         expected to know how to…
+              a. ​create folders and view the contents of a disk;
+              b. open an application or program;
+              c. ​send and receive e-mail;
+              d. search the Internet.
+     6. Submit work that meets college-level writing standards.
+If you don't know how to do these things, let your instructor or TA know during the first week of class. We
+will be happy to sit down and show you how to do it.
+Schedule
+This course consists of a number of instructional modules. A core group of these modules are required,
+but the last three modules are what we call “choose your own adventure” or CYOA. For the last few
+weeks of the session, you will have the ability to choose three modules from a variety of different options
+to complete the course. The modules vary each semester, so see Canvas for more details on this group
+of assignments. Our goal is to allow you some choice and flexibility, and the opportunity to dig into
+particular topics that you might find more interesting.
+A group of two modules will be opened every two weeks. So, for example, on June 16 modules 4 and 5
+will open up. The first module serves as an orientation to this course; and the last module is reserved for
+students to complete their final project. Below is a list of all the modules and their schedules.
+
+
+ Module                                                   Week
+ Week 1 – Introduction to the course                      6/6 – 6/9
+ Week 2 – Cyberspace, Internet and World Wide Web,        6/10 – 6/16
+ HTML Basics
+ Week 3 – Information Control in Cyberspace,              6/17 – 6/23
+ Information Search on the Internet
+ Week 4 – Cybersecurity, Accessibility                    6/24 – 6/30
+ Week 5 – User Experience and Usability, Copyright        7/1 – 7/7
+ Week 6 – Open Source, Choose Your Own Adventure          7/8 – 7/14
+ (CYOA – all modules will be open
+ Week 7 – CYOA                                            7/15 – 7/21
+ Week 8 – CYOA                                            7/22 – 7/28
+ Week 9 – Last Class Day                                  7/30
+Assignments and Grading
+This course has three types of assignments: weekly discussions, weekly quizzes and final project.
+Points by assignments
+ Assignments         Due date                                            Total
+                                                                         Points
+ Weekly              Every Friday 11:59pm for posting your discussion;   52
+ discussions         following Sunday 11:59pm for responding to others’
+                     posts
+ Weekly quizzes      Every Sunday 11:59pm                                46
+ Final projects      Various due dates, see below                        102
+ Total                                                                   200
+Grading Scale
+ A            185 - 200
+ A-           180 – 184
+ B+           173 – 179
+
+
+ B             165 – 172
+ B-            160 – 164
+ C+            153 – 159
+ C             145 – 152
+ C-            140 – 144
+ D+            133 – 139
+ D             125 – 132
+ D-            120 – 124 (minimum for pass/fail
+               students to pass)
+ F             Below 120
+Weekly Discussions
+Every week, you will contribute to the online discussion forums as part of the class participation
+assignment. Think of these online discussions as your chance to share what you know, ask questions,
+and challenge the readings just as you would in small group discussions in class. In addition to submitting
+your discussion posts, you are also required to respond to two of your classmates' discussion posts with
+your thoughts, reactions, or contributions to the discussion.
+Original discussion submissions should be ​at least 150 words​ long (unless the discussion topic
+specifically states a different length) and should make it clear to the instructor or TA that you have read
+the assigned reading for that week.
+Your​ ​responses to others should be ​at least 2 sentences​ long and should move the conversation forward.
+Responses of "I agree. This happened to me once." Or similar short responses will not receive credit.
+Please note: to make sure everyone has enough time to respond to each other’s posts, you are
+encouraged to submit your discussion post as early as you can. ​Each initial discussion post is due on
+every Friday 11:59pm, and you will need to submit your responses to others by the following Sunday at
+11:59pm​. You can, of course, respond to others after you post your initial discussion post if other students
+have already posted.
+Grading: 2 point for initial post; 1 points for each response; total of 4 points for each discussion.
+
+
+Weekly Quizzes
+Each module will include a short quiz to test your understanding of the content of that module. All quizzes
+are open book, and the aim is not to test what you have memorized, but to apply what you have learned
+and to review the material. For some questions, answers are in the module readings. If you study the
+readings carefully, you are sure to know (or be able to find) the answers. For other questions, you may
+need to consult external resources to be able to answer the question. ​The quizzes are due on Sunday at
+11:59pm, see the Canvas for specific due dates.
+Grading: total of 4 points for each quiz.
+Final Project
+For the final project, you will choose to study a subject you are interested in that relates to the
+broad topic of “information in cyberspace” in some way. The final project (FP) is broken down
+into 6 separate Main assignments (FP0 - FP5) and a few other supplementary assignments that
+you will need to complete at different times throughout the semester. ​Each final project
+assignment is due at 11:59pm on the assigned due date​.
+Please note that you have to complete the final project in order to pass this course. If you fail to
+submit the final project, you will fail the course regardless of the number of points you have
+accumulated.
+Here is a breakdown of the final project.
+                     Assignment                                Due Date               Points
+ FP0                 Project preparation                       6/16                   8
+ FP1                 Content development for topic 1           6/30                   14
+ FP2                 Content development for topic 2           7/7                    14
+ FP3                 Content development for topic 3           7/14                   14
+ FP4                 Content development for topic 4           7/21                   14
+ FP Test             Final Project Test Submission             7/21                   4
+ FP Test             Good and Bad Presentations                7/21                   4
+ FP Quiz             Final Project and Semester Wrap           7/30                   2
+                     Up Quiz
+
+
+  FP Discussion       Final Project Wrap Up Discussion           7/30                      4
+  FP5                 Final submission                           See Canvas For            24
+                                                                 Due Date
+                                                                 Total points              102
+You can read the details about the final project in Canvas.
+Late Assignments
+It is important to complete your work on time, both so you can stay on track and so you can collaborate
+and interact with your fellow students. ​Late assignments will not be accepted.​ You will receive a zero if
+you do not submit your assignment on time. I use the Canvas upload time as the official time of the
+submission, so if you submit your assignment 5 seconds after the deadline, Canvas will mark your
+assignment late and you will receive a zero for that assignment.
+Please make sure you submit your assignments well in advance; ​computer problems, network outages,
+and other “technical” issues will not be considered a valid excuse for submitting an assignment late​, so
+make sure you submit your work early.
+Plan ahead. This is an online course and you have a full week to ensure you complete everything on time.
+As there is no scheduled class time, you must be responsible for getting work done in a timely manner.
+The course allows for a lot of flexibility for you to schedule your work, so I will be very strict about excused
+late work.
+Required Readings
+All required readings for this course are available through the course modules in Canvas. Reading
+materials include articles and online videos.
+University Policies
+      ● Academic Integrity
+Please abide by the University’s policy on academic integrity. All work you submit must be your own.
+"Scholastic dishonesty includes, but is not limited to, cheating and plagiarism... Students who violate
+University rules on scholastic dishonesty are subject to disciplinary penalties, including the possibility of
+failure in the course and/or dismissal from the University. University policies on scholastic dishonesty will
+be strictly enforced." From: The University of Texas: General Information, Appendix C.
+
+
+If I find blatant plagiarism (copy and paste from Wikipedia, for example) you will be referred to Student
+Judicial Services and you will fail the class.​ Plagiarism is my least favorite thing to deal with in this course.
+Avoid it! Copying and pasting from an article rather than summarizing in your own words for the FPs is
+considered plagiarism.
+       ● Special Needs
+The University of Texas at Austin provides upon request appropriate academic accommodations for
+qualified students with disabilities. To determine if you qualify, please contact the Dean of Students at
+471-6259; 471-4641 TTY. If they certify your needs, we will work with you to make appropriate
+arrangements.
+       ● Religious or Holy Day Observance
+"A student who misses classes or other required activities, including examinations, for the observance of
+a religious holy day should inform the instructor as far in advance of the absence as possible, so that
+arrangements can be made to complete an assignment within a reasonable time after the absence.”
+(​http://www.utexas.edu/student/registrar/catalogs/gi04-05/ch4/ch4g.html)
+       ● Email
+“Electronic mail (e-mail), like postal mail, is a mechanism for official University communication to students.
+The University will exercise the right to send e-mail communications to all students, and the University will
+expect that e-mail communications will be received and read in a timely manner.”
+(​http://www.utexas.edu/student/registrar/catalogs/gi04-05/app/appn.html​). Both the instructor and the TA
+will reply to student emails within 24 hours on weekdays and 48 hours on weekends barring a rare and
+extenuating circumstance.
+I look forward to working with you all this semester. If you have any questions, comments, or concerns, do
+not hesitate to email the Instructor or TA pool!

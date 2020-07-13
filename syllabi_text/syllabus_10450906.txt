@@ -1,0 +1,213 @@
+Language and Computers Syllabus
+Course: LIN 313, Language and Computers, 40245
+Semester: Summer 2020
+Prerequisites: None
+Instructor: Laura Manor (she/her)
+Email: manor@utexas.edu
+Office hours: By Appointment Only, sign up here: https://calendly.com/manor-ut/office-hours
+Canvas: https://utexas.instructure.com/courses/1280135
+Meeting: MTWTF 2:30-4:00 (see section on class time)
+Course overview
+The increasing use of computers in everyday life has had a profound influence on the way we
+communicate. In this class, we will explore the fundamentals of how computers represent, process, and
+organize linguistic data. The course will be split into five main modules:
+  1. Encoding Language: binary representations, writing systems, text data, speech data
+  2. Working with Words: parts of speech, regular expressions, text normalization
+  3. Building Sentences: n-gram language modeling, context-free grammars, shift-reduce parsing
+  4. Classification and Analysis: topic modeling, binary classification, sentiment analysis,
+  5. Big Data Revolution: perceptrons, neural networks, machine translation
+ At the end of this course, all students should be able to:
+  • Understand how language is represented on computers
+  • Use math and statistics to explore language
+  • Describe how natural language processing applications work at a high level
+  • Use quantitative analysis of language to improve arguments
+  • Be comfortable reading and discussing basic algorithms for computational methods
+  • Be comfortable read basic mathematical equations found in some scholarly articles
+  • Discuss how linguistic data can be used to solve real-world problems
+Note: there is no programming in this class. While I will expect assignments and essays to be complete
+digitally.
+Daily "Class" Expectations
+Since this is a summer course and online, it will be done a little differently than we would if it were in
+person. I will be on zoom from 2:30 to 4:00 each day I expect each day to look something like the
+following:
+       2:30-3:00 Watch pre-recorded lecture on your own
+       3:00-3:30 Discuss lecture and/or work through an example together
+       3:30-4:00 Work on lecture exercises in small groups using breakout rooms
+The exercises will be designed to be completed mostly 'in class' (i.e., if we have half an hour lecture, you
+should be able to finish in about an hour). You are not required to attend class 'live'; however, I do not
+plan to record the part of the class in which we work on exercises as I want people to feel comfortable
+talking. These exercises will be 'due’ 24 hours after that class begins.
+
+
+Canvas
+This course will be completely run through canvas. Additionally, I use Canvas to post assignments,
+grades, and readings. I will use the Canvas announcement system to communicate with the class so that
+they can all be found in one place. Make sure that you either log in to check regularly or update your
+preferences to receive an email for every announcement.
+Zoom
+You must login to zoom through canvas or the UT portal. You can log into the portal on your browser
+here: https://utexas.zoom.us/. For more information about signing in through an application, see the
+directions here: https://zoom.its.utexas.edu/signing-in-and-out-zoom. Additionally, please be sure to
+read through the zoom info sheet found in the modules.
+Email and Announcements
+You must regularly check your university email, ideally at least once a day. Please use my email address,
+listed on the top of the syllabus, to contact me instead of the Canvas email system, which is unreliable. I
+answer emails in a timely fashion (24 hours during the week, 48 hours on the weekends), but do not
+expect an immediate response. If I do not respond in the timeframe above, please feel free to send me
+another email reminding me!
+Office Hours
+Office hours will be by appointment only. Please sign up for an appointment here:
+https://calendly.com/manor-ut/office-hours
+Readings and Resources
+There is no physical textbook for this class. However, this course contains readings from the following
+references:
+   • Jurafsky, D. and J. H. Martin, Speech and language processing: An Introduction to Natural
+       Language Processing, Computational Linguistics, and Speech Recognition (3rd Draft):
+       https://web.stanford.edu/~jurafsky/slp3
+   • Dickinson, M., Brew, C., & Meurers, D. (2012). Language and computers. John Wiley & Sons.
+   • Boyd, S., & Vandenberghe, L. (2018). Introduction to Applied Linear Algebra: Vectors, Matrices,
+       and Least Squares. Cambridge university press. http://vmls-book.stanford.edu/vmls.pdf.
+   • Nielsen, M. (2015). Neural Networks and Deep Learning. Determination Press.
+       http://neuralnetworksanddeeplearning.com/
+There will be a fair amount of basic math involved in this class. Below is a list of topics and free online
+resources that you might want to reference during class.
+   • Math symbols and what they mean
+   • Bases
+   • Exponents
+   • Probabilities
+Additional readings/media will be provided on Canvas.
+
+
+Course requirements and grading policy
+This course will have three major components
+   • Daily Exercises (20%)
+   • 5 Assignments (50%)
+   • 2 Exams (30%)
+Daily Exercises (20%)
+Lecture exercises will be assigned for each pre-recorded lecture. These exercises should be short enough
+to complete 'in class' and will be based on that day's pre-recorded lecture(s). The exercises must be
+completed within 24 hours of the beginning of that class period. They will mostly consist of technical
+problems, which include calculations and application of algorithms, as well as matching, multiple choice,
+and true-false problems. You will not be required to show any work.
+The exercises will be auto-graded by canvas, and I do not plan to give personal feedback on these
+exercises. Please reach out if you think there was an error in the auto-grader!
+Module Assignments (50%)
+For each of the five main modules, there will be one more analytical assignment. The assignments will
+be released at the beginning of a module and will be due at the end (specific deadlines to be released).
+The assignments will consist of two types of questions:
+   • Short answer: an explanation of algorithms and methodologies, definitions of concepts,
+       hypothetical examples (150-300 words)
+   • Argumentation: short essays that use linguistic data to argue a point (~500 words).
+I may ask to anonymously share your answers with the class (and potentially future classes). I will not
+share anything without your express permission, and it is your right to decline if I ask. I see this as a way
+to share interesting ideas and opinions as we will not be in a traditional classroom.
+Exams (30%)
+There will be two exams. The first exam will cover the first three modules (encoding, words, sentences),
+the second exam will cover the last two modules (analysis, big data). We will not have an exam on NLP
+applications. The exams will have questions similar to the in-class exercises and module assignments.
+Grades
+Final grades will be determined by the following schema.
+             A: ≥93.00% A-: 92.99%-90.00%
+             B+: 89.99%-87.00% B: 89.99%-87.00% B-: 89.99%-87.00%
+             C+ 89.99%-87.00% C: 76.99%-73.00% C-: 72.99%-70.00%
+             D+ 69.99%-67.00% D: 69.99%-67.00% D-: 62.99%-60.00%
+             F: <60.00%
+I do not plan to round grades.
+
+
+Schedule
+Please note that the schedule is subject to change.
+ Th      6/4    1: Encoding Language             1.1 Intro, Number Systems
+  F      6/5                                     1.2 Writing Systems, Text Encoding
+  M      6/8                                     1.3 Encoding speech
+  T      6/9    2: Working with Words            2.1 Regular Expressions
+ W      6/10                                     2.2 Text Normalization
+ Th     6/11                                     2.3 Minimum Edit Difference
+  F     6/12                                     2.4 Ciphers
+  M     6/15    3: Building Sentences            3.1 Probability Review
+  T     6/16                                     3.2 N-gram language modeling
+ W      6/17                                     3.3 Parts of Speech & Context-free grammar
+ Th     6/18                                     3.4 English grammar rules
+  F     6/19                                     3.5 Shift reduce parsing
+  M     6/22    Exam                                 Review
+  T     6/23                                         Exam
+ W      6/24    4: Classification and Analysis   4.1 K-Means Clustering
+ Th     6/25                                     4.2 Naive Bayes Classifier
+  F     6/26                                     4.3 Sentiment Analysis
+  M     6/29                                     4.4 Confusion Matrix
+  T     6/30                                     4.5 Machine Translation
+ W       7/1    5: Big Data Revolution           5.1 Perceptrons and "Sigmoid neurons"
+                                                                                               Laura Manor 6/7/2020 7:25 PM
+ Th      7/2                                     5.2 Multi-Layer Perceptrons                   Comment [1]: Semantic information:
+                                                                                               knowledge graph
+  F      7/3                                     5.3 Neural Networks
+  M      7/5                                     5.4 Neural Machine Translation
+  T      7/6    Topics in NLP                        TBD
+ W       7/7    Topics in NLP                        TBD
+ Th      7/8                                         Review
+ Sat    7/11                                         Exam: Saturday, July 11, 9:00 am–12:00 pm
+
+
+Quantitative Reasoning
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are designed to
+equip you with skills that are necessary for understanding the types of quantitative arguments you will
+regularly encounter in your adult and professional life. You should, therefore, expect a substantial
+portion of your grade to come from your use of quantitative skills to analyze real-world problems.
+Statement on Personal Pronouns
+Class rosters are provided to the instructor with the student's legal name, unless they have added a
+"preferred name" with the Gender and Sexuality Center
+(http://diversity.utexas.edu/genderandsexuality/publications-and-resources/). I will gladly honor your
+request to address you by a different name and by the gender pronouns you prefer (she/he/they/ze,
+etc.). Please advise me of any changes early in the semester so that I may update my records.
+Statement on Learning Success
+Your success in this class is important to me. If there are aspects of this course that prevent you from
+learning or exclude you, please let me know as soon as possible. Together we'll develop strategies to
+meet both your needs and the requirements of the course. I also encourage you to reach out to the
+student resources available through UT. Many
+are listed on this syllabus, but I am happy to connect you with a person or center if you would like.
+Documented Disability Statement
+UT Austin provides upon request appropriate academic accommodations for qualified students with
+disabilities. For more information, contact Services for Students with Disabilities (SSD) at 512-471-6259
+(voice) or 512-410-6644 (video phone) or ssd@austin.utexas.edu, or see
+http://ddce.utexas.edu/disability. Faculty are not required to provide accommodations without an
+official accommodation letter from SSD.
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least 14 days prior to the date of
+observance of a religious holy day. If you must miss a class or assignment in order to observe a religious
+holy day, I will give you an opportunity to complete the missed work within a reasonable time after the
+absence.
+Title IX Reporting
+Title IX is a federal law that protects against sex and gender based discrimination, sexual harassment,
+sexual assault, sexual misconduct, dating/domestic violence and stalking at federally funded educational
+institutions. Faculty members and certain staff members, including myself, are considered "Responsible
+Employees" or "Mandatory Reporters", which means that they are required to report any Title IX related
+incidents that are disclosed in writing, discussion, or one-on-one to the Title IX coordinator. If you want
+to speak with someone for support or remedies without making an official report to the university,
+email advocate@austin.utexas.edu. For more information about reporting options and resources, visit
+titleix.utexas.edu or contact the Title IX Office at titleix@austin.utexas.edu.
+
+
+Q Drop Policy:
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six
+(6). As stated in Senate Bill 1231: "Beginning with the fall 2007 academic term, an institution of higher
+education may not permit an undergraduate student a total of more than six dropped courses, including
+any course a transfer student has dropped at another institution of higher education, unless the student
+shows good cause for dropping more than that number."
+Additional Resources
+  •   Check out some tips from UT for strategies for success with online learning:
+      https://onestop.utexas.edu/keep-learning/
+  •   A FAQ sheet regarding COVID: https://onestop.utexas.edu/faq-covid19/
+  •   We want to make sure you ares supported during this hard time. Please be sure to review the
+      information on the UT website perodically https://coronavirus.utexas.edu/students. Some
+      resources include:
+         o Student Emergency Fund application
+         o Technology Support for Remote Learning (pdf)
+  •   Counseling and Mental Health Center: http://www.cmhc.utexas.edu
+  •   Sanger Learning Center: http://www.utexas.edu/ugs/sl, 512-471-3614 (JES A332).
+  •   Undergraduate Writing Center: http://uwc.utexas.edu
+  •   ITS: http://www.utexas.edu/its
+  •   Libraries: http://www.lib.utexas.edu/
+  •   Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+  •   Behavior Concerns Advice Line (BCAL): If you are worried about someone who is acting differently,
+      you may contact BCAL to discuss your concerns about another individual's behavior. Call 512-232-
+      5050 or visit http://www.utexas.edu/safety/bcal.

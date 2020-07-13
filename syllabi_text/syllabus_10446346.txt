@@ -1,0 +1,253 @@
+ARC w561R / ARC w696
+Advanced Architectural Design
+Summer 2020 (whole session)
+Instructors: Igor Siddiqui (first session); Piergianna Mazzocca (second session)
+Aldo Rossi, Theater of the World (1979)
+ARCHITECTURE & THE FUTURE OF LIVE PERFORMANCE
+       Just off Columbus Avenue, a self-appointed DJ pulled up to an extra-wide
+       sidewalk and greeted the weekend by blasting salsa from his car stereo. A small
+       crowd gathered to dance at a distance, bringing some safety-rated joy to the
+       neighborhood. It wasn’t a packed club or a raucous street party, like the kind that
+       birthed salsa decades ago, but it felt like a sign, an early crocus announcing the
+       rebirth of live entertainment.
+       Justin Davidson, New York Magazine, May 14, 2020
+This studio considers the future of architecture through the lens of live performance. As
+an inclusive term, live performance brings together diverse art forms, rituals, and
+practices that unfold in space and time, engaging a range of participants, authors, actors,
+and audiences. The global pandemic of 2020 has had a profound effect on what it means
+to perform live. Perhaps more than ever, we accept mediated experiences not as shadows
+of things that we used to do in-person, but as events unto themselves; plugging into the
+endless digital stream of ‘live’ events is at the moment not a matter of choice for some,
+
+
+but is rather an essential mode of living for most. Meanwhile, most conditions for live
+performance as a prompt for public gathering are in question: packed bodies on the dance
+floor, congested entries and exits, and densely spaced seats in theaters, recital halls, and
+auditoriums are all potential public-health hazards; how air circulates through spaces of
+public assembly, which way waste flows, and how different materials mitigate the
+presence of contaminants are all matters of public hygiene. In this way, architecture –
+from the scale of details and furniture to buildings, building systems, and beyond – plays
+a crucial role in the future of live performance. Live performance, likewise, serves as a
+prompt for interrogating how architecture might perform in new and innovative ways as
+it re-considers what it means to enable living, life, and live activity in the midst of
+unprecedented change. As a space of design research and speculation, the studio will as
+such focus on proposing the architectures of live performance and their capacity to shape
+how we may engage socially, interact publically, and create collectively in the future.
+Both sessions will consider live performance in relation to architectural representation,
+structure and construction, and architecture’s role in the city. While is session is taught
+independently by each of the two instructors, the aim is to have continuity, overlap,
+iteration, and dialogue shared across the two summer sessions. In this way, students can
+anticipate producing a comprehensive body of work both individually and collectively.
+David Byrne, American Utopia (2019)
+
+
+SESSION 1 (June 4 – July 9)
+The first five-week session consists of design research and speculation with a focus on (1)
+architectural representation and live performance, (2) architectural tectonics and live
+performance, and (3) site-specific architecture and hybrid performance.
+Part 1: Architectural Representation and Live Performance (1 week)
+We begin the exploration of live performance by focusing on performance art as a
+contemporary practice. Perhaps more than any other form of performance, performance
+art blurs boundaries between disciplines, but also eschews clear distinctions between the
+art, the artist, and the audience, enabling us to consider performance in participatory,
+socially engaged, and interactive terms. We will try to enter the world of performance art
+through architectural representation.
+How might we leverage what we know about representation not in service of describing
+an architectural object, but rather in order to abstractly visualize and analyze something
+far more fleeting and ephemeral? We will lean on our knowledge of architectural
+representation in order to encounter its limits, prompting us to innovate beyond the
+conventions of our discipline. We will map, diagram, and otherwise notate multiple
+elements of live performance, including movement, choreography, gesture, interaction,
+spectatorship, duration, rhythm, speech, sound, media, props, atmosphere.
+(20% of the grade)
+Lucinda Childs, Melody Excerpt (score)
+
+
+Part 2: Architectural Tectonics and Live Performance (1 week)
+Imagine an architectural device that is inspired by, enables, contains, makes available for
+viewing, or otherwise supports the previously studied work of performance art (from Part
+1). The device is to capture not only the essential requirements for the performance to
+take place, but is also a venue for exploring any architectural desires that the designer
+might have. It is a device and a mechanism as much as it is a manifestation of imagination.
+It can be at the scale of furniture, a building, or a larger urban condition. Imagine –
+through precise drawings and models – the device with a particular building system in
+mind, whether it be conventional or experimental or both. The device must be adaptable
+to function at different densities of occupation.
+(20% of the grade)
+Atelier Bow Wow, BMW Guggenheim Lab (2011)
+Part 3: Site-specific Architecture and Hybrid Performance (3 weeks)
+Select a site within the City of Austin for the site-specific implementation of the
+architectural device (from Part 2). Develop a site-specific proposal based on the project’s
+existing DNA (tectonic and conceptual), but supplement the program with a specific use
+or multiple uses that are possible when the object doesn’t enable scheduled performances.
+The aim is to envision performance venues of the future, capable of serving the public in
+new ways and under evolving social and environmental conditions.
+(60% of the grade)
+
+
+Course Format
+This is an online course delivered synchronously via Zoom as well as through
+asynchronous participation on Canvas.
+CANVAS:              https://utexas.instructure.com/courses/1281540
+ZOOM:                https://utexas.zoom.us/j/93065282579
+Studio Etiquette
+Etiquette is a code of conduct. It is a method for dealing with how people interact with
+one another, which is based upon mutual respect and accepted norms of behavior. This
+studio in many ways is a simulation of a real world design studio. Below are tips for proper
+studio etiquette, which will set the tone for a professional atmosphere and foster good
+workplace habits.
+      Arrive to studio on time –this means logging into Zoom meetings on time.
+      Turn off your cell phone – this applies during Zoom meetings.
+      Close down your email and social media sites – to the extent that it is reasonable
+       given that you are already on your computer.
+      Contribute to studio discussion when appropriate – more important than ever.
+      Avoid side conversations and other distractions – know that we all understand that
+       working from home can be distracting; let’s all be patient with each other as we
+       learn this new way of being in studio.
+      Address the instructor and any other reviewers or guests professionally.
+      Be attentive in studio – we know this is an unusual and for some a difficult time;
+       let’s understand each other and be patient even if our focus diminishes at times.
+      Stay for the entire studio – or let the instructor know if you have serious conflicts
+       with meeting times.
+      Contact the instructor directly when you have to miss.
+      Be prepared for desk crits – only students with new work for the day generally
+       receive new feedback.
+Email Policy
+When writing the instructor an email, include ‘Advanced Design’ in the subject line along
+with the topic of your inquiry. Emails should address the instructor and be professional
+in tone. The instructor will endeavor to reply in a timely manner (please allow up to 48
+hours for a response) or will address your question in class.
+Grading Policy
+Establishing grades for projects of a creative nature is a more complex matter than
+grading in other academic areas. While each project contains certain quantifiable
+
+
+elements by which it may be evaluated, a significant portion of each grade is derived from
+qualitative considerations.
+Grading for studio assignments is broken into three components for each given mark,
+each as 1/3 of a given grade:
+GRASP
+The ideas and understanding of the project at hand, combined with an appropriate process
+of inquiry;
+PROCESS
+The consistent and rigorous development and testing of ideas;
+RESOLUTION
+The demonstration of competence, completeness, and finesse through representation.
+Active participation and a good attendance record are expected; deductions from the
+overall grade for excessive absences are outlined in the attendance policy below.
+Completed assignments are to be posted on Canvas by no later than 12:00 PM (noon) the
+day that they are due.
+Grade Descriptions
+A/A- : excellent work
+Project surpasses expectations in terms of inventiveness, appropriateness, verbal and
+visual ability, conceptual rigor, craft, and personal development. Student pursues
+concepts and techniques above and beyond what is discussed in class.
+B+/B/B- : good work
+Project is thorough, well researched, diligently pursued, and successfully executed.
+Student pursues ideas and suggestions presented in class and puts in effort to resolve
+required projects. Demonstrates potential for excellence
+C+/C/C- : required work
+Project meets the minimum requirements. Suggestions made in class are not pursued
+with dedication or rigor. (Note: C- does not meet the minimum grade to be counted
+toward the student’s degree.)
+D+/D/D- : poor work
+Basic skills including graphic skills, model-making skills, verbal clarity or logic of
+presentation are not level-appropriate. Student does not demonstrate the required design
+skill and knowledge base.
+F : unacceptable work
+
+
+Minimum objectives are not met. Performance is not acceptable. Note that this grade
+will be assigned with excessive unexcused absences.
+X : excused incomplete
+Given only for legitimate reasons of illness or family emergency. Incomplete assignments
+are not a cause for assigning this grade. An incomplete is assigned after consultation with
+the Associate Deans’ offices. Incomplete coursework must be completed prior to the
+beginning of the following semester.
+Attendance Policy
+Attendance is mandatory. Participation is expected. You can have up to three (3)
+unexcused absences throughout the session without penalty. Attendance to all project
+reviews is expected. Each additional absence (for any reason) will lower your final course
+grade by a letter grade. Please contact the instructor prior to class if you expect to be late
+or miss class.
+Religious holy days sometimes conflict with class and examination schedules. If you miss
+an examination, work assignment, or other project due to the observance of a religious
+holy day you will be given an opportunity to complete the work missed within a reasonable
+time after the absence. You must notify your instructor as far in advance as possible prior
+to the classes scheduled on dates you will be absent to observe a religious holy day.
+Students with Disabilities
+Students with disabilities who require special accommodations need to get a letter that
+documents the disability from the Services for Students with Disabilities area of the Office
+of the Dean of Students (471-6259 voice or 471-4641 TTY for users who are deaf or hard
+of hearing). This letter should be presented to the instructor in each course at the
+beginning of the semester and accommodations needed should be discussed at that time.
+Five business days before an exam the student should remind the instructor of any testing
+accommodations that will be needed.
+Title IX
+Beginning January 1, 2020, Texas Senate Bill 212 requires all employees of Texas
+universities, including faculty, to report any information to the Title IX Office regarding
+sexual harassment, sexual assault, dating violence and stalking that is disclosed to them.
+Texas law requires that all employees who witness or receive any information of this type
+(including, but not limited to, writing assignments, class discussions, or one-on-one
+conversations) must be reported. If you would like to speak with someone who can
+provide support or remedies without making an official report to the university, please
+email advocate@austin.utexas.edu. For more information about reporting options and
+resources, visit http://www.titleix.utexas.edu/, contact the Title IX Office via email at
+titleix@austin.utexas.edu, or call 512-471-0419.Although graduate teaching and research
+assistants are not subject to Texas Senate Bill 212, they are still mandatory reporters
+
+
+under Federal Title IX laws and are required to report a wide range of behaviors we refer
+to as sexual misconduct, including the types of sexual misconduct covered under Texas
+Senate Bill 212. The Title IX office has developed supportive ways to respond to a survivor
+and compiled campus resources to support survivors.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior
+Concerns Advice Line to discuss by phone your concerns about another individual’s
+behavior. This service is provided through a partnership among the Office of the Dean of
+Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance
+Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-
+5050 or visit http://www.utexas.edu/safety/bcal.
+Policy on Academic Integrity
+Students who violate University rules on scholastic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the
+University. Since such dishonesty harms the individual, all students, and the integrity of
+the University, policies on scholastic dishonesty will be strictly enforced. For further
+information, visit the SJS website at http://deanofstudents.utexas.edu/sjs or call 471-
+2841.
+Schedule
+TH     06/04         Studio Introduction; Part 1A Assigned
+FR     06/05         Part 1B Assigned; Discussion; Work Day
+MO     06/08         Desk Crits
+TU     06/09         Desk Crits
+WE     06/10         Work Day
+TH     06/11         Part 1 Due - Review; Part 2 Assigned
+FR     06/12         Discussion; Work Day
+MO     06/15         Desk Crits
+TU     06/16         Desk Crits
+WE     06/17         Work Day
+TH     06/18         Part 2 Due - Review; Part 3 Assigned
+FR     06/19         Site Scouting
+MO     06/22         Desk Crits
+TU     06/23         Desk Crits
+WE     06/24         Work Day
+
+
+TH      06/25         Desk Crits
+FR      06/26         Desk Crits
+MO      06/29         Desk Crits
+TU      06/30         Desk Crits
+WE      07/01         Work Day
+TH      07/02         Desk Crits
+FR      07/03         Desk Crits
+MO      07/06         Work Day
+TU      07/07         Work Day
+WE      07/08         Final Review (Parts 1, 2, and 3) – First Session
+TH      07/09         Exit Interviews (First Session)
+Schedule is for reference only and is subject to change.
+Students are expected to be logged into the Zoom session, unless the work is to be
+explicitly conducted offline.
+Online instruction is still a matter of improvisation and trial-and-error; we will
+collectively have to determine what works best for us as a group and which practices are
+more conducive to creative productivity.
+Bernard Tschumi, a plate from Manhattan Transcripts (1976-1981)

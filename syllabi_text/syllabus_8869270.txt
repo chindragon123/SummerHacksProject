@@ -1,0 +1,238 @@
+                                            Advanced 3-D Modeling
+                                                       AET 327
+                                                         20930
+                          Bringing ones imagination to life has never been easier.
+                                                       Fall 2018
+                                                      DFA 4.126
+                                                   T TH 12:30-2:00
+Instructor:                 Dax Norman
+                            daxnorman@utexas.edu
+                            Daxnorman.com
+Office Hours:               Fridays 11am-1230pm in the Foundry,
+                            or by appointment
+I. Rationale:
+This course explores the production spectrum of 3-D digital modeling; building creative ideas into a variety of
+completed models and assets through a series of iterative projects.
+II. Course Aims and Objectives:
+Aims
+This course teaches students to manifest ideas from thought to tangible form in a digital space. This course
+empowers students to create anything that they can possibly think of, through projects focused on the creation of
+solidly constructed 3-D characters, objects and vehicles produced in various methods. One will be able to try
+various aspects of production during the exploration of the commercial, artistic, and experimental nature of 3 -D
+digital modeling. Students will also explore the link between digital and physical modeling via 3D printing of
+digital models.
+Specific Learning Objectives:
+By the end of this course, students will:
+         •    Understand the similarities and differences between producing high poly and low poly character
+              models in 3-D
+         •    Conceptualize both organic and hard surface models
+         •    Create character and vehicle /prop designs in the form of digital 3-D models
+         •    Display a thorough understanding of topology
+         •    Explore 3-D modeling through multiple approaches, such as box modeling, planar modeling as well as
+              3-D digital sculpting
+         •    Apply clear Aesthetic choices to 3-D digital media
+         •    Understand the state of the art of Digital Distribution through social media networks
+         •    Explore digital modeling as sculpture through 3d printing of 3
+III. Format and Procedures:
+This course will meet twice a week. During the first meeting, there will be a lecture that will include demonstration
+                                                            1
+
+
+along with discussion. On the second class meeting of the week, there will be group learning project with
+discussion. This may take the form of an in class activity, critique or other collaboration which should include
+feedback. Even on days where a project is not due, students should be prepared with ready to show project progress.
+The in-class projects will review and practice the material covered from the week’s first class meeting. Active
+                                                            2
+
+
+participation in weekly in-class group projects and discussions will be a major component of the professionalism
+and participation component of student grades for the course that will comprise 20% of the final grade.
+IV. Tentative Course Schedule: **This syllabus represents my current plans and objectives. As we go
+through the semester, those plans may need to change to enhance the class learning opportunity. Such changes,
+communicated clearly, are not unusual and should be expected.
+   Date                     Main Topic(s)                          Work to do at home                Evaluation
+                                                                 to be completed before class
+    8/30       Course Introduction, In class                 Setup blog for class project
+               collaborative design project.                 process, Revise in class Design
+                                                             for next class meeting. (make a
+                                                             new sketch, refining the in class
+                                                             image)
+   9/04,       Polygonal Modeling Review. Character          Begin work on “Exquisite
+    9/06       Design and Planar Modeling.                   Corpse” model.
+   9/11,       3D Aesthetics and using Social Media.         Continue work on “Exquisite          9/05 is Labor Day
+    9/13       Discussion of form and content.               Corpse” model (project01)            Holiday.
+   9/18,       Project 01 in Class Presentations.            Begin Hard surface Model             Project 01 Due
+    9/20                                                     Project.                             (Tues)
+   9/25,       Modeling Vehicles, machines and Props.        Continue Hard surface Model
+    9/27       Hard Surface Modeling techniques.             Project.
+   10/02,      UV Mapping Review                             Texture Hard surface Model
+   10/04       Surfacing/ Texturing/ Digital Painting        Project.
+   10/09,      Project 02 Presentations.                     Begin Human Facial Portrait          Project 02 Due.
+    10/11      3-D character modeling, human faces.                                               (Tues)
+   10/16,      Modeling Focus on facial construction         Continue Human Face project
+    10/18      and topology.
+   10/23,      Introduction to Mudbox and digital            Finish Digitally Sculpted Human      Project 03 Due
+    10/25      sculpting.                                    Face.                                (Thurs)
+   10/30       Creature Creation methods.                    Work on Creature/ animal model
+    11/01
+   11/06,      Creature and animal modeling,                 Finish Creature/ animal model
+    11/08      continued
+   11/13,      Creature Project Presentations.               Begin research for Final Project.    Project 04 Due
+    11/15      Introduction of Final Course Project                                               (Tues)
+    11/20      Final Project strategies.                     Continue work on Final Project.      Bring 3 Final
+                                                             Thanksgiving Thurs                   Project ideas (Tues)
+                                                                                                  Thanksgiving
+                                                                                                  Holiday Weds-Sat
+   11/27,      Finishing projects. Delivering 3D             Finish Final Project.
+   11/29       models for multi media.
+                                                           3
+
+
+12/4, Final Project Presentations/ Course   Finish final projects, be prepared Final Projects Due
+12/6  Wrap-up                               to present and discuss work with
+                                            class
+                                          4
+
+
+ 12/11                                                           Final Project Presentations           During Finals
+                                                                                                       Week
+Feedback Statement (to encourage students to respond to your requests for their feedback)
+During this course I will be asking you to give me feedback on your learning in informal as well as formal ways,
+including through anonymous surveys about how my teaching strategies are helping or hindering your learning. It’s
+very important for me to know your reaction to what we’re doing in class, so I encourage you to respond to these
+surveys, ensuring that together we can create an environment effective for teaching and learning.
+V. My Assumptions
+It is my belief that with hard work and a little bit of patience, anyone can be good at 3 -D digital art. The learning
+curve is slower for some than others, but do not be discouraged and you will get to where you want to be. With the
+projects we do in this course, I advise students to make something that they can get really excited about. Think
+about making short-term goals for your progress, and try to learn a new skill each day. The 3 -D digital art process is
+very iterative, in that projects build upon one another, and many steps are repeated ad infinitum. With a firm plan in
+place, it will be easy to create a road map for success.
+VI. Course Requirements:
+          1. Class attendance and participation policy:
+                    (a) Expected classroom behavior: take notes, ask many questions, and attend class for the entire
+                         duration. Make a solid effort on each project outside of class, so that you may have many
+                         questions to contribute to the discussion.
+                    (b) Cell phone use, including texting, is unallowable. Keep cell phones stored during the duration
+                         of class
+                    Religious Holy Days
+                    By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to
+                    the date of observance of a religious holy day. If you must miss a class, an examination, a work
+                    assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+                    complete the missed work within a reasonable time after the absence.
+          2. Course Readings/Materials:
+                    (a) Recommended Textbooks: Introducing Autodesk Maya 2016: Autodesk Official Press, by
+                    Dariush Derakhshani. 1st Edition. ISBN: 9781119059639
+                    (b) Supplies needed: Laptop computer capable of running Autodesk Maya and Unity.
+                    (c) Other supplies: Jump Drive for external storage and data backup. A mouse for your laptop, as
+                    the 3D software will be much slower to use without one.
+                    (d) To download free student version of Autodesk Maya and Mudbox:
+                    http://www.autodesk.com/education/free-software/maya
+                    http://www.autodesk.com/education/free-software/mudbox
+                    (e) URL for course website: http://advanced3dmodeling.tumblr.com/
+          3. Assignments, Assessment, and Evaluation
+                     (a) Finished Assignments should be posted to canvas in the requested format before 9:00 AM on
+                            the Due Date
+                     (b) Late assignments will be lose 10 points for the first day late, 20 points if 2 days late, 40
+                            points off if 3 days late, and so on, with point subtraction doubling for each day of lateness
+                     (c) Preliminary information on papers or projects, with due dates, shall be posted to can vas on
+                            the date of assignment
+                                                               5
+
+
+                (d) List of assignments that will impact the final grade
+                Project 01: Exquisite Corpse Character Model (10%)
+                Project 02: Hard Surface Model               (15%)
+                Project 03: Human Face Model              (15%)
+                Project 04: Creature or Animal Character Model (15%)
+                Project 05: Final Project             (20%)
+                3D Printing: 3 models required to be 3D Printed (15%)
+                Attendance, Professionalism and Participation (10%) MISSING MORE THAN 3 CLASSES will
+                                                                    result in an AUTOMATIC ZERO for this grade.
+                (e) Any changes in the syllabus, such as project due dates, will be announced in class as well as
+                on canvas.
+   Letter Grade       Percentage
+A+                    97%+
+A                     93%-96%
+A-                    90%-92%
+B+                    87%-89%
+B                     83%-86%
+B-                    80%-82%
+C+                    77%-79%
+C                     73%-76%
+C-                    70%-72%
+D+                    67%-69%
+D                     60%-66%
+                                                         6
+
+
+F                           0%-59%
+            4. Use of Canvas in class
+                    In this class I use Canvas—a Web-based course management system with password-protected
+                    access at http://canvas.utexas.edu —to distribute course materials, to communicate and collaborate
+                    online, to post grades, and to submit assignments. You can find support in using Canvas at the ITS
+                    Help Desk at 475-9400, Monday through Friday, 8 a.m. to 6 p.m., so plan accordingly.
+  VII. Grading Procedures: Grades will be based on:
+                      Project 01: Exquisite Corpse Character Model (10%)
+                      Project 02: Hard Surface Model              (15%)
+                      Project 03: Human Face Model              (15%)
+                      Project 04: Creature or Animal Character Model (15%)
+                      Project 05: Final Project             (20%)
+                      3D Printing:                       (15%)
+                      Professionalism and Participation (10%): MISSING MORE THAN 3 CLASSES will
+                                                                   result in an AUTOMATIC ZERO for this grade.
+  IX. Academic Integrity
+  University of Texas Honor Code
+  The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+  opportunity, and responsibility. Each member of the university is expected to uphold these values through integrity,
+  honesty, trust, fairness, and respect toward peers and community.
+  X. Other University Notices and Policies
+   Use of E-mail for Official Correspondence to Students
+       • All students should become familiar with the University's official e -mail student notification policy. It is the
+           student's responsibility to keep the University informed as to changes in his or her e -mail address. Students
+           are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+           communications, recognizing that certain communications may be time-critical. It is recommended that e-
+           mail be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions
+           for updating your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564 .
+  Documented Disability Statement
+  Any student with a documented disability who requires academic accommodations should contact Services for
+  Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not
+  required to provide accommodations without an official accommodation letter from SSD. (Note to Faculty: Details
+  of a student’s disability are confidential. Faculty should not ask questions related to a student’s condition or
+  diagnosis when receiving an official accommodation letter.)
+                                                               7
+
+
+     ▪▪   Please notify me as quickly as possible if the material being presented in class is not accessible (e.g.,
+          instructional videos need captioning, course packets are not readable for proper alternative text conversion,
+          etc.).
+     ▪▪   Please notify me as early in the semester as possible if disability-related accommodations for field trips are
+          required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+          transportation, site accessibility, etc.).
+     ▪▪   Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+          reference SSD’s website for more disability-related information:
+          http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Behavior Concerns Advice Line (BCAL)
+ If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to
+ discuss by phone your concerns about another individual’s behavior. This service is provided through a partnership
+ among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee
+ Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512 -232-5050 or visit
+ http://www.utexas.edu/safety/bcal.
+Q drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As
+stated in Senate Bill 1231:
+          “Beginning with the fall 2007 academic term, an institution of higher education may not permit an
+   undergraduate student a total of more than six dropped courses, including any course a transfer student has
+   dropped at another institution of higher education, unless the student shows good cause for dropping more than
+   that number.”
+Emergency Evacuation Policy
+ Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm
+ is activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+          ▪▪ Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest
+               exit door may not be the one you used when you entered the building.
+          ▪▪ If you require assistance to evacuate, inform me in writing during the first week of class.
+          ▪▪ In the event of an evacuation, follow my instructions or those of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police
+Department, or the Fire Prevention Services office.
+                                                     ❖❖ ❖❖    ❖❖      ❖❖
+                                                            8

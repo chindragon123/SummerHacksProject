@@ -1,0 +1,96 @@
+                           PHY S317L: GENERAL PHYSICS II
+                  SUMMER 2019, M-F 11:30 AM - 1:00 PM, PAI 4.42
+                                         UNIQUE # 86975
+•   Homework Server: https://quest.cns.utexas.edu
+•   Canvas: http://canvas.utexas.edu
+Instructor: Zhen Yao, yao@physics.utexas.edu, 512-471-1058, RLM 13.208
+Office Hours: M-F 10:45 - 11:30 am in PAI 2.48
+TA: Rafael Pimentel (rafaelpimentel@utexas.edu)
+Office Hours: M-F 2:00 - 4:00 pm, RLM 9.324
+Text: Essential University Physics, Volume 2 by Richard Wolfson. See attached syllabus for
+schedule of lectures.
+Overview: This is the second part of a calculus-based technical physics sequence recommended
+primarily for premedical students and others in the biomedical sciences. The course covers
+optics, electricity and magnetism, and selected topics in modern physics. This course carries the
+Quantitative Reasoning flag. Quantitative Reasoning courses are designed to equip you with
+skills that are necessary for understanding the types of quantitative arguments you will regularly
+encounter in your adult and professional life. You should therefore expect a substantial portion
+of your grade to come from your use of quantitative skills to analyze real-world problems.
+Administrative Issues: Please see Ms. Kelly McCoy, ugaffairs@physics.utexas.edu, 512-471-
+8856, Undergraduate Office, RLM 5.214.
+Course Pre- and Co-Requisites: Physics 317K and 117M with a grade of at least C-; and credit
+with a grade of at least C- or registration in Physics 117N.
+Grading: Course grades will be calculated based on the weighted sum of the following:
+Homework – 25%, Midterm Exams – 45%, and Final Exam – 30%. Course grades will be
+determined by a class curve at the end of the semester and no prescribed cutoff values should be
+assumed.
+Quest: This course makes use of the web-based Quest content delivery and homework server
+system maintained by the College of Natural Sciences. This service will require each student to
+pay a $30 charge per course and $60 for two or more courses per semester for its use. This
+charge goes toward the maintenance and operation of the resource. Please go to
+http://quest.cns.utexas.edu to log in to the Quest system for this class. At some point during the
+second or third week, when you log into Quest you will be asked to pay via credit card on a
+secure payment site. Quest provides mandatory instructional material for this course, just as is
+your textbook, etc. For payment questions, email quest.billing@cns.utexas.edu.
+Homework: You will download the homework and submit your answers online at
+https://quest.cns.utexas.edu. Solutions will be available online right after the due time. The
+
+
+lowest two homework grades will be dropped in calculation of the course grade. Read the
+students’ documentation at https://wikis.utexas.edu/display/questla/Students. You are
+encouraged to work together on the homework. You must, however, submit your own work for
+credit.
+Midterm Exams and Final Exam: There will be two midterm exams during class time on
+Monday July 29 and Friday August 9. The final exam is cumulative and mandatory and will be
+held from 9 am to noon on Monday August 19, as scheduled by the Registrar’s Office. No early
+final exam will be given. The midterm exams and final exam will be closed book and notes. A
+formula sheet will be provided to you and calculators may be used for numerical calculations
+only. Academic dishonesty will not be tolerated.
+Pre-Class Reading and In-Class Activities: Before coming to class you are expected to have
+read the relevant materials from the textbook for that day. The lectures will not simply
+regurgitate what you have read, rather they will focus on explaining and expanding the concepts
+that you may have difficulty understanding, with the help of demonstrations, interactive quiz
+questions and example problems.
+Important Dates: The last day to drop a course for a possible refund is Thursday July 18. The
+last day to change registration to or from the credit/no credit basis is Friday August 2. The last
+day to drop the course with approval is Friday August 16.
+Special Accommodations: The University of Austin provides upon request appropriate
+academic accommodations for qualified students with disabilities. For more information, contact
+the Office of the Dean of Students at 471-6259, 471-6441 TTY.
+
+
+Tentative Schedule
+     DAY     DATE                          TOPICS                      CHAPTERS
+ 1     M      07/15 Reflection and Refraction                             30
+ 2     T      07/16
+                      Images and Optical Instruments                      31
+ 3     W      07/17
+ 4    TH      07/18
+                      Interference and Diffraction                        32
+ 5     F      07/19
+ 6     M      07/22
+                      Electric Charge, Force, and Field                   20
+ 7     T      07/23
+ 8     W      07/24 Gauss's Law                                           21
+ 9    TH      07/25 Electric Potential                                    22
+10     F      07/26 Electrostatic Energy and Capacitors                   23
+11     M      07/29                 Midterm Exam 1 (Ch. 30-32 & 20-21)
+12     T      07/30 More on Capacitors                                    23
+13     W      07/31 Electric Current                                      24
+14    TH      08/01
+                      Electric Circuits                                   25
+15     F      08/02
+16     M      08/05
+                      Magnetic Force and Field                            26
+17     T      08/06
+18     W      08/07
+                      Electromagnetic Induction                           27
+19    TH      08/08
+20     F      08/09                     Midterm Exam 2 (Ch. 22-26)
+21     M      08/12
+                      Alternating-Current Circuits                        28
+22     T      08/13
+23     W      08/14 Electromagnetic Waves                                 29
+24    TH      08/15 Particles and Waves                                   34
+25     F      08/16 Quantum Mechanics                                     35
+                   Final Exam, 9 AM to Noon, Monday August 19

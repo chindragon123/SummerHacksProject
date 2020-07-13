@@ -1,0 +1,519 @@
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                     Page 1 of 14
+           ACCOUNTING 380K.1 – FALL 2018
+           Financial Accounting Standards and Analysis I for MPA’s
+           Unique 02585               09:30 am – 11:00 a.m. MW in GSB2.120
+           Unique 02595               12:30 pm – 02:00 p.m. MW in GSB2.120
+           Unique 02605               02:00 pm – 03:30 p.m. MW in GSB2.120
+Course             The course examines issues in financial reporting from both preparer and user perspectives. The basic
+Objectives         objectives of the course are:
+(1) to learn about current GAAP financial reporting.
+(2) to consider the economics of transactions and events, and understand whether and how financial reporting captures those
+     economics. This way of thinking lays the foundation for understanding how equity and credit analysts use financial reports.
+     This way of thinking also allows you to learn about business (i.e., broadens your thinking beyond just debits and credits).
+(3) to learn how to reason about financial reporting problems in a forward direction, similar to what preparers normally do (i.e.,
+     work forward from the data to journal entry to financial statement) and to learn how to reason about financial reporting
+     problems in a backward direction, similar to what financial report users do (i.e., work backward from financial statement and
+     footnote data to journal entry).
+Professor:                   Shuping Chen
+Email:                       shuping.chen@mccombs.utexas.edu
+Web page:                    http://www.mccombs.utexas.edu/Directory/Profiles/Chen-Shuping.aspx
+Office:                      CBA 4M.242       Tel: 512- 471-5328
+Office Hours:                Mondays          3:30-5:00 p.m.
+                             Wednesdays       3:30-5:00 p.m.
+                             Any time on Canvas discussion groups
+FOR HOMEWORK AND EXAM CONSULTATIONS
+Assistants:        Rachel Simon                                         Tiffany Zhang
+Email:             rsimon1812@utexas.edu                                tiffany.zhang96@gmail.com
+Office:            CBA 4.304A                                           CBA 4.304A
+Office Hours: Tuesdays 2:00pm-4:00pm                                    Thursdays 1:00pm-3:00pm
+FOR CASE CONSULTATIONS
+Assistant:         Justin Gooch
+Email:             justinrgooch@gmail.com
+Office:            CBA 4.304A
+Office Hours: Fridays 10:00am-12:00pm
+Justin, Rachel, and Tiffany will each be attending one of my classes. You can always catch one of them before or after class.
+                             PLEASE BRING YOUR NAME PLATES TO CLASS
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                          Page 2 of 14
+COURSE MATERIALS
+TEXT: INTERMEDIATE ACCOUNTING, by Kieso, Weygandt, and Warfield, 2016, 16                         th edition, with 2017 FASB update on
+Chapter 21 Accounting for Leases. Available for purchase at Co-Op. Available for hard copy rental on Amazon.com or Chegg.com.
+Available for e-purchase in several places, including Kindle. A digital version of the updated Chapter 21, provided by the textbook
+publisher, is already posted on the Canvas course website.
+CLASS NOTES & OLD EXAM QUESTIONS: These are essential, cannot-do-without
+class notes. Bring the relevant parts to class each day. The class notes will be available for purchase at Jenn’s Copy &
+Binding (http://www.jennscopies.com/), 2518 Guadalupe. These notes contain three components (1) my class notes, (2) the
+"Additional Problems in Class Notes" indicated on the assignment sheet, and (3) my old exams at the end of the packet.
+The class notes will be your PRIMARY source of studying the topics covered in this course.
+SOLUTIONS TO ADDITONAL PROBLEMS: This packet contains the solutions to the
+unassigned additional homework problems. It does not include those to be turned in for course credit. (Solutions to the latter
+problems will be available on Canvas.)
+Available for purchase at Jenn’s Copy & Binding, 2518 Guadalupe (Dean Keaton & Guadalupe).
+The above two packets (Class Notes and Solution Manual) cost approximately $42 total.
+The three primary sources of studying topics in this course are: class notes, solution packet to (unassigned) homework problems
+(see above), and the textbook. Previous students have indicated that they rely very heavily on the class notes and the additional
+HW problem solution packet to study for exams. You are encouraged to use the textbook as a reference tool or a starting point;
+read excerpts from the textbook as necessary. However, spending time reading every word in the textbook would not be productive
+for several reasons: (1) we cover the topics very quickly in class and there is not much to spend reading the textbook, (2) the
+textbook contains many accounting details that are not that important (and will not show up on exams), (3) the textbook forces
+students to think only about current GAAP; many aspects of this course involve thinking about alternative perspectives, some of
+which are not GAAP, and (4) some important topics are not discussed in the textbook. For topics you’ve never been exposed to
+before (such as derivatives), reading the notes and related sections in the textbook before class can prove very valuable. Reading
+the textbook on an as-needed basis can save you valuable time and maximize efficiency. DO WHAT WORKS BEST FOR YOU.
+ACCOUNTING STANDARDS:                                            Your course fees allow us to purchase a site license to the FASB standards.
+The internet address is: http://aaahq.org/FASB/Access.cfm
+    Login Information: Before September 1, 2018:            USER ID: AAA51055 PW: 6fJHf2Z
+                         After September 4, 2018:          USER ID: AAA51055 PW: I WILL ANNOUNCE ON CANVAS
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                      Page 3 of 14
+COURSE REQUIREMENTS
+   EXAMS: There will be two mid-term exams and one final exam.                  With the exception of the final exam, each exam will
+   only cover the materials in that portion of the course, with the following important exception: statement of cash flows and
+   deferred taxes will be covered in all three exams.
+   For each of the three exams, you can bring a 4 x 6 inch index card “cheat sheet.” Writing/typing on both sides is acceptable.
+   HOMEWORK: There will be 12 homework assignments.                       These homework assignments help you stay up to date on
+   the material (it’s easy to let things slide and somewhat disastrous in this class if you do). Solutions to these assigned homework
+   problems will be made available on 5:00pm on the Canvas course website.
+   Homework is to be turned in using course the Assignment Link on course Canvas site. All homework is due by 5:00pm on
+   Canvas site on due date. Since I release the solution to assigned homework problems by 5:00pm on the due date, no late
+   homework will be accepted.
+   CASES: There will be two case assignments – they are done in four person groups. These cases are based on real
+   world situations and are designed to help you solve unstructured problems that require searching accounting standards. While
+   textbook and exam questions have one ‘right’ answer, the real world cases usually do not have one right answer and are
+   therefore more challenging. Part of your training in this class is to help you tackle unstructured, no-single-right-answer
+   situations that are more reflective of the real world.
+   I will post the cases assigned about two weeks before they are due in the “Course Documents” link on Canvas class website.
+   Your case write-up should describe alternative solutions, cite references to relevant accounting standards, precedents, etc., and
+   recommend a course of actions. Solutions to group cases are limited to three single-spaced typed pages. You can attach
+   your supporting documents to your group reports, such as Excel worksheet, in an Appendix attached to your reports.
+   On the 2nd day of class (Wednesday 9/5), my case TA Justin Gooch (justinrgooch@gmail.com) will assign you to project groups
+   consisting of 4 students to work on the projects. Justin may assign you to work with students in the other two sections that I am
+   teaching.
+COURSE GRADES
+   Course grades are determined by the following weighting scheme:
+      Exam 1                          220 points      22%
+      Exam 2                          260 points      26%
+      Final Exam                      270 points      27%
+      Homework                        110 points      11%
+      Team cases                      140 points      14%
+      TOTAL POINTS                  1,000 points     100%
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                      Page 4 of 14
+DETAILS ON GRADING
+EXAMS: Exams are problem based and so we do assign partial credits. To the extent we can tell that you made a pure math
+mistake (i.e., you wrote $10 x 5000 units = $5,000), we do not take points off. Hence, showing your work is important!
+I grade on a curve based on all three sessions I am teaching.
+No make-up exams will be given. Medical emergencies and family emergencies are the only valid reasons that will be accepted for
+missing an exam. You must provide supporting documentation (e.g., signed note from a physician) if you do miss an exam. If you
+are excused from an exam, the other two exams will be re-weighted (e.g., if you miss the first exam, the second and final exams will
+be re-weighted). If you miss two exams, you automatically fail this course and no re-weighting will be granted. If you do not have a
+valid reason for missing an exam, you will receive a zero on the exam, which usually implies failing the course.
+HOMEWORK: Unless otherwise noted, the homework will be graded on an effort, and not accuracy, basis.                   Homework is
+scored on a 0, 1, 2, 3 basis. You will receive full credit for a problem if the grader concludes that you made a reasonable effort.
+I will drop the two lowest homework scores in calculating your final grade. Homework solutions are made available on the course
+Canvas website at 5:00 p.m. on the homework due date. Homework is considered late (score of 0) if received after 5:00 p.m. on
+the due date (no exceptions).
+To turn in your homework, please save your work into PDF files or WORD files, and upload them onto the course Canvas page. Go
+to the home page, click on the link “Assignments”, you will be taken to a platform where you can upload your files.
+We do not accept paper copies of turned in homework anymore – this allows faster response from TAs after grading and makes
+redistribution of your HW instantaneous.
+CASE: Because there is no single “right” answer to these cases, case will be graded on a relative basis (i.e., your case relative
+to other teams’ cases). When grading, we are looking for coherent and logical arguments that can support your proposed solution.
+How do I deal with the free-rider problem on these cases? At the end of each case, each group member will provide a confidential
+evaluation of him/herself and the other group members. The peer evaluation forms are already posted on Canvas site – click the
+“Course Documents” link to download. Email your forms directly to me to the following email address set up specifically for this
+purpose:
+                             HWCHEN380K.1
+I encourage you to write your notes down immediately after each case instead of waiting till the last minute. I will consider this
+information and make any necessary adjustments to the case grade for specific individuals in the team (e.g., a group member who
+provides little help on the cases will get a deduction from the grade on the cases). The maximum downward adjustment is the
+earned score on the cases.
+REGRADING POLICY: My team of TAs and I will make every effort to ensure the accuracy of grading. Should grading
+discrepancies arise (e.g., not adding up your points correctly, etc.), you must submit a TYPED-UP, WRITTEN request for re-
+grading, on one page, and turn in your written request along with your exam within 2 calendar days (48 hours) after the exams
+are given back to you.
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                      Page 5 of 14
+STRATEGIES FOR SUCCESS
+I. GETTING OFF TO A SOLID START:
+    I would highly recommend that those of you who feel in any way nervous about your skills at making journal entries to read
+    carefully through Chapters 1, 2, and 3 of the textbook before or during the first week of the class and work on the problems
+    assigned in HW #1 – see Page 10 for details on assignment.
+II. CLASS ATTENDANCE AND HOMEWORK:
+    In my opinion, class attendance and homework are the two most important components of this course. Why?
+    Reason #1: There is a lot of material in ACC 380K.1 and the course moves quickly. If you miss class, you will typically spend at
+    least triple the class time to learn the materials on your own. Trying to figure out on your own some of the course material
+    is just too tough. Maximizing in-class learning is the most efficient way to learn the materials.
+    Reason #2: Much of what I cover in class is not in the textbook.
+    If, for some reason, you have to miss class, I recommend that you obtain the class notes from someone else and, if possible,
+    also have them audio record the class. It’s an easy way to ensure that you can get up to speed on the material you missed.
+    Reason #3: Since the content of ACC380k.1 is largely problem oriented, doing the homework problems on a timely basis is a
+    must for good performance. Exam performance is directly related to systematic preparation, which includes timely completion
+    of the homework assignments.
+    There are homework problems from the textbook and in my class notes. What is the difference? Problems in the class notes
+    supplement the textbook when the textbook is deficient in a particular type of problem. So you should view the two as
+    complements and not substitutes. If you don’t do all of the problems for a particular topic, be sure to scan all problems and
+    make sure you get coverage on all types of problems/subtopics within a particular topic.
+III. USE THE RESOURCES PROVIDED:
+CANVAS: The course Canvas site will be an integral part of my teaching tool and your learning tool.
+        Solutions to homework that is turned in for credit will be available on Canvas on due date by due time.
+        Discussion index is available on Canvas. The TA’s and I will monitor these discussion groups to provide timely answers to
+        questions. The only kind of question you should not post on Canvas are case-related questions as those need to be privately
+        communicated to me or the case TA via email (you don’t want to give away your case insights on Canvas!).
+        Corrections to homework solutions will be posted on the announcement portion of Canvas for the course. I’ll label them as
+        MAJOR and MINOR depending on their severity.
+Privacy in Canvas: Information in Canvas is protected by your UTEID login. Please be aware that I will use a merged Canvas site
+for all sections of the course that I am teaching this semester. This will allow students in other sections to see that you are enrolled
+in the course and send you email from within Canvas. However, they will not actually learn your email address and no other
+personal data will be revealed through Canvas. If you have any concerns, please contact the ITS Help Desk at 475-9400 for help
+removing your name from view of other students.
+    TA’S:          I have hand-picked the TA’s because (1) they have taken the class previously, (2) they are bloody smart, and (3)
+    they are eager to help you too.
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                     Page 6 of 14
+IV. THINKING LIKE A BUSINESS PERSION:
+  Your in-class understanding of the accounting issues will be much enhanced if you train yourself at the same time to think like a
+  business person. In a lot of topics we cover, such as derivatives transactions, a solid understanding of the underlying business
+  transactions is a must before you tackle the accounting issues. Understanding the business transactions and the business
+  environment are also important for fulfilling our class objectives, i.e., understanding the economics of the transactions and
+  reasoning backward from the financial statements to infer firms’ performance.
+  Where do you start? One great starting point is to acquire knowledge about what is going on in the business world. Thus, I
+  encourage you to get access to a business publication and to read it on a regular basis. I realize that time is a scarce commodity
+  but even a little bit of reading here and there is much better than no reading. I recommend:
+          1.  The Wall Street Journal. It’s THE newspaper of business.
+          2.  Financial Times. It’s equivalent to the international version of Wall Street Journal.
+          3.  Fortune. It comes out every couple of weeks and has longer and more in-depth articles.
+          4.  Forbes.
+          5.  The Economist.
+          6.  Business Week.
+          7.  Barron’s
+OTHER
+    Academic accommodation for students with disabilities: The University of Texas at Austin provides upon request appropriate
+    academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of
+    Students at 471-6259, 471-4641 TTY, http://www.utexas.edu/diversity/ddce/ssd.
+    Religious holy Days: Per university policy, you must notify me of an absence related to a religious holy day observance no later
+    than 14 days prior to the observance of that holy day. If your religious holy day falls on one of the exam dates, I will reschedule
+    you to take a ‘make-up’ exam before the class exam date.
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                    Page 7 of 14
+PROFESSIONAL CONDUCT
+The Department of Accounting is making a concerted effort to focus students’ attention on their professional conduct. Why? We are
+the #1 program in the country, but this ranking can easily be undermined by a lack of professional conduct.
+Developing and protecting the value of a McCombs MPA degree influences everything I do and should influence your behavior as
+well. The McCombs MPA brand will open doors for you, but it does not provide you with entitlements. You will still have to earn the
+benefits of being branded as a McCombs MPA. This of course will also ensure that your degree reflects well on you and your fellow
+graduates throughout your careers.
+      What does it mean to be professional? Behaving with the highest level of integrity, respect for others, and ethics. Stand
+      by your word, make good decisions, and take responsibility for your actions. Show courtesy and respect for the views and times
+      of your fellow students and to faculty, TA’s, program directors, and staff. In turn, we will show you the same.
+For this class
+Professional behavior is not only required when interacting with someone outside of the university environment, but it also is
+expected in your classes and in situations related to this class. Therefore:
+1. I expect you to attend the section in which you are enrolled. If there is a particular reason that you must miss class (e.g.,
+only time you could get for a doctor’s appointment), please let me know of your need to attend the other section before that class
+meeting. If there is a last-minute emergency, call me in my office and let me know.
+2. I expect students to arrive to class on time. It is very disruptive to the class when a student enter the classroom after class
+has begun, as it interrupts the flow of the lecture/discussion and distracts the other students.
+3. I expect that all electronic devices will be turned off once class begins. Laptops, cell phones, pagers, Blackberries, and
+other communication devices are to be turned completely off (including turning off “cell phone vibrate mode” during class time.) I
+expect that reading of non-class materials will stop once class starts.
+4. I expect students to not take personal breaks during class. Of course from time to time a student must leave class for one
+important reason or another, but students leaving and returning during class is very disruptive, so please keep these disturbances to
+an absolute minimum.
+5. I expect that you will not have conversations or write notes back and forth with other students during class.
+6. I expect that you will be respectful of me, my team of TA’s, and of the other students in class and in office hours.
+7. I expect you to be diligent in working with your teams for the case assignments and to be a team player, not a problem
+member.
+8. I expect you to be responsible for getting the course notes and in-class handouts on any day that you must miss class. It is
+not my responsibility to secure missed material for you.
+In return, you can expect me and my team of TA’s to:
+1. Be in class and office hours on time.
+2. Be respectful of your need to learn the material in this class. Thus, we will provide timely and enthusiastic responses to
+questions made in person or on Canvas and keep you up to date on changes in the syllabus or homework solutions, again on a
+timely basis. You can expect us to return homework, cases, and exams in a timely fashion to enhance your learning experience.
+3. Be courteous to you in our interactions with you in and outside of class.
+4. Provide you with an education that will prepare you well for the long-term.
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                             Page 8 of 14
+                                       Departmental Policy on Scholastic Dishonesty
+The Department of Accounting has no tolerance for acts of scholastic dishonesty. The responsibilities of both students
+and faculty with regard to scholastic dishonesty are described in detail in the department’s Policy Statement on
+Scholastic Dishonesty in the MPA Program. By teaching this course, I have agreed to observe all of the faculty
+responsibilities described in that document. By enrolling in this class, you have agreed to observe all of the student
+responsibilities described in that document. If the application of that Policy Statement to this class and its assignments
+is unclear in any way, it is your responsibility to ask me for clarification.
+                       Application of Departmental Policy to Writing Assignments in this Course
+CASES
+Each team’s case solution should be independently prepared. Each team should not refer to other students, other
+team’s solutions, or to solutions prepared in previous semesters. All questions on cases are to be directed to me or the
+case TA for my sections. Violation of this policy will be treated as an act of “scholastic dishonesty.” Evidence of non-
+independent work will be forwarded to the Dean of Students with a recommendation that a grade of “F” be assigned in
+the course.
+GRADED HOMEWORK
+Working on the homework assignments with other students who are currently enrolled in ACC 380K.1 is permitted (and
+encouraged). However, merely copying the work of another student who has previously completed the homework
+assignment is not permitted. Copying homework solutions from the solutions manual, another instructors’ solution
+packet, a previous semesters’ solution packet, or any other source also is not permitted. Violation of this policy will be
+treated as an act of “scholastic dishonesty.” Evidence of violation of this policy will be forwarded to the Dean of Students
+with a recommendation that a grade of “F” be assigned in the course.
+EXAMS
+Each student is expected to independently complete the exams during the designated exam period. Each student
+should not refer to other students’ exam solutions or discuss the exam with other students during the exam period.
+Violation of this policy will be treated as an act of “scholastic dishonesty.” Evidence of non-independent work will be
+forwarded to the Dean of Students with a recommendation that a grade of “F” be assigned in the course.
+
+
+SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                       Page 9 of 14
+CLASS SCHEDULE ON ONE PAGE (Details on the following pages, pages 10-14)
+Class Date            Topic/Task                        Class Date             Topic/Task
+   #                                                      #
+   1     8/29 W       Introduction, syllabus             16 10/24 W            Compound financial
+                                                                               instruments
+         9/3 M        Labor day. No Class.
+   2     9/5 W        Risk + Uncertainties               17     10/29 M        Compound financial
+                                                                               instruments
+   3     9/10 M       Statement of Cash Flows            18     10/31 W        Stock based
+                                                                               compensation
+   4     9/12 W       Deferred Taxes                     19     11/5    M      EPS
+   5     9/17 M       Deferred Taxes                     20     11/7    W      No Class. Exam prep.
+   6     9/19 W       Deferred Taxes
+                                                                11/8 TH        Second Exam
+   7     9/24 M       Acc , Restatements                       11/9 F         Case #2 Due
+   8     9/26 W       Acc , Restatements
+                                                         21     11/12 M        Leases
+         9/28 F       Case #1 Due                        22     11/14 W        Leases
+                                                         23     11/19 M        Leases
+   9     10/1 M       Equity
+  10     10/3 W       No Class. Exam prep.                      11/21 W        Thanksgiving. No Class.
+         10/4 TH      First Exam
+                                                         24     11/26 M        Pension
+  11     10/08   M    LT Liabilities                     25     11/28 W        Pension
+  12     10/10   W    LT Liabilities
+                                                         26     12/3    M      Pension
+  13     10/15 M      Preview/Review OPTIONS             27     12/5    W      Inventory
+  14     10/17 W      Derivatives
+                                                         28     12/10 M        No class. Catch up.
+  15     10/22 M      Derivatives                               12/TBD***      Final Exam*** (see note)
+***Final exam date TBD: I will attempt to schedule a common exam in December. The university’s scheduling for final
+common exam does not start till mid-November. I will announce final exam date in class and also post the date on
+Canvas class website once I am informed of the final exam schedule. Since this year’s exam interval starts later than
+previous years’, make sure you make travel plans accordingly, i.e., depart AFTER you have attended your final exam,
+which can be as late as December 20. REQUESTs FOR TAKING THE FINAL EXAM EARLIER THAN SCHEDULED
+WILL  NOT BE ACCOMMODATED.
+
+
+ SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                                       Page 10 of 14
+ CLASS SCHEDULE ON ONE PAGE (Details on the following pages, pages 10-14)
+                                                                                                             Due date for homework
+                                                      Assignment (both homework to turn in and               (indicated by those that are
+Date    Chapter        Topic                          homework not to turn in) CA=case; E=exercise;          underlined)
+                                                      P=problem from textbook
+PART I OF CLASS: ESSENTIALS FOR CFOs
+W 8/29  3, 8, 11       Hand out syllabus:             P3-10, P3-11, E8-17, E11-4, Review Problems A          Wednesday 9/5
+                       introduction of class          and B
+                                                      (Review Problems A and B are located in your               HW 1a – review
+                       Review of basic accounting     class notes)                                               problems (collected
+                       concepts (no class                                                                        and graded)
+        Canvas (to     coverage)
+        download                                      (NOTE: If you are delayed in obtaining the textbook
+        The Bigger     The Bigger Picture (in         and/or class notes, go to my Canvas course page and
+        Picture &      course packet – if you did     download relevant materials for these homework
+        Accounting     not get a course packet yet,
+                                                      assignments.)
+        Search         see Canvas)
+        Booklets)
+                                                      Additional Problems in Class Notes A-E (This
+                                                      assignment relates to the Search topic. Justin            Friday 9/7 by 5:00pm
+                       Searching FASB                 Gooch, the case TA, will be helping with this
+Week of                Codification, EDGAR, etc.      homework assignment. His office hours for this
+9/3                    and Analyzing/Writing          first assignment are F 8/31: 10:00am -12:00pm             HW 1b - Accounting
+                                                                                                                Research Problems
+                       Cases (no class coverage)      and F 9/7:10:00am-12:00pm.
+                                                                                                                (collected but not graded)
+                                                      (NOTE: the database search homework problems A-E
+                                                      are not graded. I collect these HW to help you achieve
+                                                      maximum efficiency for your later group cases.)
+        AFTER CLASS:  READ OVER THE BIGGER PICTURE CLASS NOTES.
+M 9/3   LABOR DAY. NO CLASS.
+W 9/5   5, 13, 24      Risks and Uncertainties        CA13-4, CA13-5, CA13-6, E13-13, P13-10,                Monday 9/10
+                                                                                                             (note other homework due on Monday
+                       Start Statement of Cash        P13-11, E24-1, E24-2                                   9/10 -- see below)
+                       Flows with leftover time so
+                       bring those notes.             Additional Problems in Class Notes A                        HW 2
+                                                      Additional Problems in Class Notes B
+        PREPARATION:    READ PAGES 224-225, 673-676, 683-684, AND 1409-1413 FROM TEXTBOOK.
+ M 9/10 5 + 23         Statement of Cash Flows        E23-3, E23-4, E23-5, E23-6, E23-15, E23-16,            Monday 9/10
+                                                      P23-3, P23-7, P23-8, Financial Reporting Problem       (note other homework due on Monday
+                                                      – Procter & Gamble, Financial Statement Analysis       9/10 see above)
+                                                      Case – Vermont Teddy Bear Co. (part a only).
+                                                      Additional Problem in Class Notes E                        HW 3
+                                                      Additional Problems in Class Notes A-D.
+                                                      NOTES: Problems A through D have deferred
+                                                      taxes in them, so do these after we have gone
+                                                      through that topic.
+        PREPARATION: YOU’VE HAD THE SCF TOPIC BEFORE IN YOUR ACCOUNTING CLASSES. THUS, THE ASSIGNED
+        HOMEWORK FOR THIS TOPIC IS DUE AS WE ARE DISCUSSING THE TOPIC RATHER THAN THE USUAL
+        PROCEDURE OF AFTER WE DISCUSS THE TOPIC. READ PAGES 113-118, 216-221, AND 1330-1360 FROM
+        TEXTBOOK.
+        THERE ARE A LOT OF PROBLEMS HERE TO PRACTICE, PERHAPS MORE THAN SOME OF YOU NEED (YOU BE THE
+        JUDGE). THE TEXTBOOK PROBLEMS ARE THE PLACE TO START, TO BE SURE YOU’VE GOT BASICS DOWN.
+        THEN MOVE TO THE ADDITIONAL PROBLEMS IN CLASS NOTES, WHICH FOR THIS TOPIC, ARE OLD EXAM
+        PROBLEMS.
+
+
+ SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                                Page 11 of 14
+                                                                                                                  Due date for
+                                                          Assignment (both homework to turn in and                homework (indicated
+Date    Chapter          Topic                            homework not to turn in) CA=case; E=exercise;           by those that are
+                                                          P=problem from textbook                                 underlined)
+                                                          E19-2, E19-4 (use 20% tax rate; pollution fines are not
+W 9/12  19               Deferred Taxes                   tax deductible), E19-10, E19-12, E19-13, E19-15 (use     Monday 9/24
+                                                          40%, 20% and 20% as tax rates for 2019, 2020, and           HW 4
+                                                          2021), E19-22, P19-1 (municipal interest not taxable),
+                                                          P19-2, P19-4, P19-5, P19-6 (use 30% rate for 2021-
+                                                          2023, and then 20% thereafter)
+                                                          Additional Problem in Class Notes A - C
+        PREPARATION: READ PAGES P19.1 TO P19.30 FROM UPDATED CH19 HANDED OUT AT BEG OF SEMESTER. DEFERRED
+        TAXES TYPICALLY ARE QUITE HARD FOR STUDENTS, SO READ THE TEXT BEFORE CLASS FOR THIS TOPIC. Note: the
+        updated Chapter 19 is very light on NOL carryforward. We will discuss more details in class.
+M 9/17  19               Deferred Taxes                   See above.
+W 9/19  19               Deferred Taxes                   See above.
+M 9/24  22               Accounting Changes and           E22-1, E22-6, E22-7, E22-12 (the double declining       Monday 10/1
+                         Restatements                     balance depreciation is $148,395 total up to 1/1/2018),
+                                                          E22-13, E22-14, E22-15, P22-2, P22-3, P22-6                 HW 5
+                                                          Additional Problems in Class Notes A and F
+                                                          Additional Problems in Class Notes B – E
+        PREPARATION: READ PAGES 170-173 AND 1266-1291 FROM TEXTBOOK.        NOTE THAT FOR THE 1270-1274 PAGES,
+        THERE IS DISCUSSION OF REVENUE RECOGNITION METHODS THAT WE MAY NOT BE EASILY REMEMBERED BY YOU FROM
+        PREVIOUS CLASSES, SO KEEP THAT IN MIND WHEN READING THOSE PAGES.
+W 9/26  22               Accounting Changes and           See above.
+                         Restatements
+F 9/28  Case #1 Due. Upload to Canvas site (PDF or WORD format) by 5:00PM. Note you MUST submit the case cover page with
+        signatures.
+M 10/1  15               Equity                           E15-7, E15-14 (Add: Assume the 3 transactions happen    No Assigned HW in
+                                                          during 2018, what are the December 31, 2018 balances    preparation for your
+                                                          in Common Stock and APIC?)) , P15-2, P15-9, Additional  first exam
+                                                          Problems in Class Notes A-D
+        PREPARATION:   READ PAGES 173-174 (ON COMPREHENSIVE INCOME), AND 776-802 FROM TEXTBOOK.
+W 10/3  NO CLASS – TIME OFF FOR FIRST EXAM PREPARATION
+Th 10/4 FIRST EXAM to be held from 6:00pm – 8:30pm. Location assignment below:
+        09:30am section: UTC3.112
+        12:30pm section: UTC3.132
+        02:00pm section: UTC3.134
+
+
+ SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                               Page 12 of 14
+                                                                                                                  Due date for
+                                                         Assignment (both homework to turn in and                 homework (indicated
+Date    Chapter          Topic                           homework not to turn in) CA=case; E=exercise;            by those that are
+                                                         P=problem from textbook                                  underlined)
+PART II OF CLASS: FINANCIAL INSTRUMENTS / EPS
+M 10/8  14               Long-Term Liabilities (and the  Use effective-interest method on all problems throughout Monday 10/15
+                         fair-value option)              the course.
+                                                         E14-9, E14-10, E14-16, E14-19, E14-20, P14-1 (assume         HW 6
+                                                         interest is paid on December 31, not January 1; also
+                                                         indicate how the balance sheet, income statement, and
+                                                         SCF would look for 2011 and 2018), P14-10 (skip part d),
+                                                         Additional Problems in Class Notes A-B, D, and G-I
+                                                         Additional Problems in Class Notes C, E, and F
+        PREPARATION:   READ PAGES 719-734, 737-742, AND 941-944 FROM TEXTBOOK.
+W 10/10 14               Long-Term Liabilities (and the  See above
+                         fair-value option)
+M 10/15  17A             Preview/Review of PUTS,         Bring class notes on Options (PUTS, CALLS, FUTURES,
+                         CALLS, FUTURES, etc.            etc.) to class. These notes are at the end of the class
+                                                         notes for Derivatives topic.
+W 10/17 17A              Derivatives                     E17-28, P17-12, P17-13, P17-16 (show comprehensive       Wednesday 10/24
+                                                         income rather than just income statement), P17-17
+                                                                                                                      HW 7
+                                                         Additional Problems in Class Notes A-C, E, H-K
+                                                         Additional Problems in Class Notes D, F, and G
+        PREPARATION: READ PAGES 923-940 FROM TEXTBOOK.
+M 10/22 17A              Derivatives                     See above
+W 10/24 16               Compound Financial              CA16-1, CA14-2, E14-12, E14-13, E14-14, E14-15,          Wednesday 10/31
+                         Instruments
+                                                         E16-1, E16-3, E16-4, E16-7, E16-8, E16-9.
+                                                                                                                      HW 8
+                                                         Additional Problems in Class Notes C, D, and E
+                                                         Additional Problems in Class Notes A, B and F
+        PREPARATION: READ PAGES 836-842 FROM TEXTBOOK. PAGES 891-894 OF THE TEXTBOOK TALK ABOUT HOW
+        BIFURCATION OF CONVERTIBLE DEBT WORKS. THE TEXT TALKS ABOUT IT IN THE CONTEXT OF IFRS WHERE CONVERTIBLE
+        DEBT IS ALWAYS BIFURCATED. BUT THE GENERAL DISCUSSION WILL BE HELPFUL FOR OUR DISCUSSION OF US GAAP IN
+        THOSE CASES WHERE IT IS BIFURCATED. SO WHY DOESN’T THE TEXT JUST TALK ABOUT THIS BIFURCATION CONCEPT IN
+        THE CASE OF US GAAP? THE TEXTBOOK IS NOT QUITE RIGHT WHEN IT SAYS US GAAP DOES NOT BIFURCATE
+        CONVERTIBLE DEBT– UNDER SOME CIRCUMSTANCES (CASH SETTLEMENT OPTION), IT IS BIFURCATED.
+
+
+ SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                             Page 13 of 14
+                                                                                                               Due date for
+                                                       Assignment (both homework to turn in and homework       homework (indicated
+Date    Chapter       Topic                            not to turn in) CA=case; E=exercise; P=problem from     by those that are
+                                                       textbook                                                underlined)
+M 10/29 16            Compound Financial               See above.
+                      Instruments
+W 10/31 16            Stock-Based Compensation
+                                                       E16-12, E16-13, E16-14, E16-29, P16-3, P16-4            Monday 11/5
+                                                       Additional Problems in Class Notes A, B, and E
+                                                       Additional Problems in Class Notes C and D                HW 9
+        PREPARATION: READ PAGES 843-851 AND 863-866 FROM TEXTBOOK.
+M 11/5  16            Earnings Per Share               E16-15, E16-18, E16-22, E16-23, E16-24 (use effective   No Assigned HW in
+                                                       interest method here-do not use straight-line as the    preparation for your
+                                                       problem states), E16-25, E16-26 (assume options are not second exam
+                                                       employee stock options), E16-28, P16-8
+                                                       Additional Problems in Class Notes A-C
+        PREPARATION: READ PAGES 402-415 AND 444-447 FROM TEXTBOOK.
+ W 11/7 NO CLASS – TIME OFF FOR SECOND EXAM PREPARATION
+TH 11/8 SECOND EXAM to be held be held from 6:00pm – 8:30pm. Location assignment below:
+        09:30am section: UTC3.102
+        12:30pm section: UTC3.104
+        02:00pm section: UTC4.134
+        NOTE: THE LOCATIONS OF THIS SECOND EXAM ARE DIFFERENT FROM THE LOCATIONS FOR
+        THE FIRST EXAM.
+                                                                                                               PEER EVALUATION
+F 11/9  Case #2 Due. Upload to Canvas site (PDF or WORD format) by 5:00PM. Note you MUST submit the            FORMS DUE TO ME
+        case cover page with signatures.                                                                       DIRECTLY – SEND
+        Email you peer evaluation forms to the following email address:                                        TO EMAIL ADDRESS
+                                                                                                               
+        HWCHEN380K.1@MCCOMBS.UTEXAS.EDU
+PART III OF CLASS: OPERATING THE BUSINESS
+M 11/12 21            Leases                           E21-10, E21-11, E21-12, E21-13, E21-19, E21-20,         Tuesday 11/20
+                                                       E21-21, P21-6
+                                                       Additional Problems in Class Notes A-D, G - L             HW 10
+                                                       Additional Problems in Class Notes E, F
+                                                                                                               Note HW due before
+                                                                                                               Thxgiving.
+        PREPARATION: READ THE 2017 FASB UPDATE - THE UPDATED CHAPTER 21: ACCOUNTING FOR LEASES.
+
+
+ SYLLABUS ACC 380K.1 Professor Chen -- Fall 2018                                                                         Page 14 of 14
+                                                                                                            Due date for
+                                                      Assignment (both homework to turn in and homework     homework (indicated
+Date     Chapter       Topic                          not to turn in) CA=case; E=exercise; P=problem from   by those that are
+                                                      textbook                                              underlined)
+W 11/14  21           Leases                        See above.
+M 11/19  21           Leases                        See above.
+W 11/21  No Class – Day before Thanksgiving.
+M 11/26  20           Pensions                      E20-2, E20-6, E20-8, E20-10, E20-11, E20-12, E20-13,    Monday 12/3
+                                                    E20-17, P20-3, P20-4, P20-5, P20-7, P20-11, P20-12,
+                                                                                                                HW 11
+                                                    Additional Problems in Class Notes A-D
+         PREPARATION: READ PAGES 1116-1145 FROM TEXTBOOK.
+W 11/28  20           Pensions                      See above.
+M 12/3   20           Pensions                      See above.
+W 12/5   8+9          Inventory                     CA 8-6, CA 8-9, E8-20, E8-22, E8-23, P8-8, P8-9, P8-10, Monday 12/10
+                                                    E9-3, E9-5, P9-2 (skip c), P9-5 (skip c)
+                                                    Additional Problem in Class Notes A                         HW 12
+                                                    Additional Problem in Class Notes B
+         PREPARATION: READ PAGES 402-415 AND 444-447 FROM TEXTBOOK.
+M 12/10  16           No Class. Catch up.
+ FINAL EXAM: TBD. I WILL ANNOUNCE COMMON EXAM DATE/TIME IN CLASS, MID TO LATE NOVEMBER.
+ NOTE THIS YEAR’S FINAL EXAM DATES ARE VERY LATE. I WILL TRY TO SCHEDULE YOUR FINAL EXAM BETWEEN
+ DECEMBER 14-16 BUT IT IS STILL POSSIBLE WE WILL BE SCHEDULED FOR FINALS DECEMBER 18-20. PLEASE DO NOT
+ SCHEDULE TO START FAMILY VACATIONS BEFORE DEC. 20, 2018. REQUESTS TO TAKE THE FINAL EXAM EARLIER THAN
+ THE SCHEDULED TIME WILL      NOT BE ACCOMODATED.

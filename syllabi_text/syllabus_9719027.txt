@@ -1,0 +1,402 @@
+                                 E388M Introduction to Digital Humanities
+                                 (cross listed as AMS391, HIS381, INF 383H)
+                                                         Fall 2019
+                                                         PAR 104
+                                               Mondays, 10 am – 1 pm
+Instructor(s):               Tanya E. Clement
+                             PAR 218
+                             tclement@utexas.edu
+Office Hours:                Mondays, 1-2pm
+I. Course Description
+This course is a hands-on introduction to Digital Humanities, which may be defined as “a nexus of fields within
+which scholars use computing technologies to investigate the kinds of questions that are traditional to the
+humanities, or. . . [ask] humanities-oriented questions about computing technologies” (Kathleen Fitzpatrick,
+“Reporting from the Digital Humanities 2010 Conference,” ProfHacker). What are these questions? As usual, it
+depends, depends on the scholar’s theoretical orientation, methods, and resources at hand (including not only
+primary source materials, but time, skill, and support). This course will include learning to evaluate DH questions
+and DH projects through project-based exercises in creating and interpreting digital humanities resources and tools
+and a close (and critical) look at the infrastructural, institutional, and political issues involved in interrogating “the
+digital” in the humanities. As we look at the concepts, methods, theories, and resources of DH through the
+perspective of practice, we will consider how computational methods are being used to further humanities research
+and how our understanding of computing technologies is deepened by humanities research.
+No prerequisites are required for this course.
+II. Specific Learning Objectives
+By the end of this course, students will:
+  • Learn an overview of Digital Humanities history and the most common (or most controversial) methods,
+      practices, and technologies
+  • Be introduced to the theory and practice as well as the public discourse of Digital Humanities through learning
+      to use and think critically about various standards, applications, and tools
+  • Express ideas in class discussions and projects in ways that can be understood by scholars in the multiple fields
+      involved in Digital Humanities projects
+  • Learn to teach workshops, new technologies, and thinking through new technologies
+  • Hone teamwork skills
+  • Prepare and write grants in Digital Humanities
+III. Format and Procedures
+This is a seminar-style course, so attendance and participation in class are critical to individual success in this course
+and to the success of the course as a whole. Students should come to class prepared to participate in small group and
+class discussions, completing all required readings prior to class, and submitting discussion questions on time.
+Students will also work independently and in teams to complete a variety of course projects. These projects will
+combine individual accountability with collaboration. The success of this course will depend on everyone’s
+preparation and willingness to share their ideas and opinions, which requires mutual understanding and respect.
+Students are welcome to express ideas that are different from their peers or the instructor, politely and
+professionally, and in a constructive manner.
+ Course Readings
+  • All course readings are available on the course Canvas site at http://utexas.instructure.com
+  • All readings should be completed before class.
+                                                               1
+
+
+   • Additional reading may be required to prepare for labs and projects.
+  Use of Canvas in class
+   Course material distribution, online communication and collaboration, grades, and assignments will occur in
+   Canvas. Canvas support is at the ITS Help Desk at 475-9400, Monday through Friday, 8 a.m. to 6 p.m.
+IV. Tentative Course Schedule **This syllabus represents the plans and objectives on the first day of class.
+It is subject to change. The Course Schedule on Canvas will always be up-to-date.
+  Date                                                Topics and Readings                                  Evaluation
+  Week 1 (9/9)              Introduction: Oh, the (digital) Humanities
+   • Bowles, E. A. “The Role of the Computer in Humanistic Scholarship,” AFIPS, pp.269, 1965
+      Proceedings of the Fall Joint Computer Conference, 1965.
+   • Bod, Rens. “How the Humanities changed the world”. Oxford University Press's Academic Insights
+      for the Thinking World. February 17, 2014.
+   • Davidson, Cathy and David Theo Goldberg. “A Manifesto for the Humanities in a Technological
+      Age.” Chronicle of Higher Education, February 13, 2004.
+                                                   DH Epistemologies
+  Week 2 (9/16)             Origins
+   • Burdick, Anne et al. Digital_Humanities. Cambridge, MA: The MIT Press, 2012. [Chapter 1]             Required
+   • Harpham, Geoffrey Galt. “Roots, Races, and the Return to Philology.” Representations. Vol. 106,      Discussion
+      No. 1 (Spring 2009), pp. 34-62.                                                                     Posts (RDPs)
+   • Kirschenbaum, M. “What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things
+      about It?” differences 25.1 (2014): 46-63. Duke University Press.
+   • Selfe, Cynthia. “Computers in English Departments: the Rhetoric of Technopower.” ADE Bulletin.
+      90 (1988): 63-67.
+   Optional
+   • Busa, Roberto. 1980. “The Annals of Humanities Computing: The Index Thomisticus.” Computers
+      and the Humanities 14 (1980): 83-90.
+   • Hayles, N. Katherine. How We Think: Digital Media and Contemporary Technogenesis. Chicago ;
+      London: University Of Chicago Press, 2012. [Chapter 2]
+   • Hindley, Meredith. “The Rise of the Machines.” National Endowment for the Humanities.
+      July/August 2013.
+   • Wright, Alex. “The Web that Wasn’t.” In Glut: Mastering Information Through The Ages.
+      Washington, D.C.: Joseph Henry Press, 2007.
+  Week 3 (9/23)             Some Theory
+   • Liu, Alan. “Drafts for Against the Cultural Singularity” Alan Liu. 2 May 2016.                       Required
+   • Mills, Mara and Sterne, Jonathon. “Dismediation: Three Proposals, Six Tactics,” in Disability        Discussion
+      Media Studies, eds. Elizabeth Ellcessor and William Kirkpatrick, 365-378. New York: New York        Posts (RDPs)
+      University Press, 2017.
+   • Ramsay, Stephen. “An Algorithmic Criticism.” Reading Machines: Toward an Algorithmic
+      Criticism. Champaign, IL: University of Illinois Press, 2011.
+   • Ramsay, Steve and Rockwell, Geoffrey. “Developing Things: Notes toward an Epistemology of
+      Building in the Digital Humanities.” In Debates in the Digital Humanities, edited by Matthew K.
+      Gold. Minneapolis: University Of Minnesota Press, 2012.
+   • Risam, Roopika. “Beyond the Margins: Intersectionality and the Digital Humanities” Digital
+      Humanities Quarterly, Vol. 9 No. 2, 2015.
+   Optional:
+   • Drucker, Johanna. “Humanistic Theory and Digital Scholarship.” In Debates in the Digital
+      Humanities, edited by Matthew K. Gold. Minneapolis: University Of Minnesota Press, 2012.
+   • Liu. Alan. “Where is Cultural Criticism in the Digital Humanities?” In Debates in the Digital
+      Humanities, edited by Matthew K. Gold. Minneapolis: University Of Minnesota Press, 2012.
+                                                           2
+
+
+ • Losh, E. Hacktivism. and the Humanities: Programming Protest in the Era of the Digital University.
+   In Debates in the Digital Humanities, edited by Matthew K. Gold. Minneapolis: University Of
+   Minnesota Press, 2012.
+ • Flanders, Julia. “The Productive Unease of 21st-century Digital Scholarship.” Digital Humanities
+   Quarterly 3:3 (2009). Accessed August 31, 2011.
+ • Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to
+   Data-Driven Scholarship.” American Literature 85.4 (2013): 781–809.
+Week 4 (9/30)              Making Meaning I
+ • Liu, Alan. “The Meaning of the Digital Humanities.” PMLA 128.2 (2013): 409–423.                    RDPs
+     • Da, Nan Z. The Digital Humanities Debacle: Computational methods repeatedly come up            Lab:
+          short. The Chronicle of Higher Education. March 27, 2019                                    Voyant
+     • Underwood, Ted. Dear Humanists: Fear Not the Digital Revolution: Advances in computing
+          will benefit traditional scholarship — not compete with it. The Chronicle of Higher
+          Education. March 27, 2019.
+ • Hammond, Adam. “The double bind of validation: distant reading and the digital humanities’
+   ‘trough of disillusionment.” Literature Compass 14, no. 8 (August 1, 2017): no. pg.
+ • McCarty, Willard. “Modeling: A Study in Words and Meanings.” In Companion to Digital
+   Humanities, edited by Ray Siemens, John Unsworth, and Susan Schreibman. Oxford: Blackwell
+   Publishing, December, 2004.
+ Optional:
+ • Hayles, N. Katherine. How We Think: Digital Media and Contemporary Technogenesis. Chicago ;
+   London: University Of Chicago Press, 2012. [Chapter 3]
+ • Jockers, Matthew. [Chap. 4: “Macroanalysis”.] Macroanalysis: Digital Methods and Literary
+   History. Urbana: University of Illinois Press, 2013.
+ • Underwood, Ted. A Genealogy of Distant Reading. Digital Humanities Quarterly. Vol. 11, no. 2,
+   2017.
+Week 5 (10/07)             Making Meaning II
+ • Guiliano, J. and Heitman, C. “Difficult Heritage and the Complexities of Indigenous Data,” Journal RDPs
+   of Cultural Analytics.                                                                             Lab:
+ • Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James            Tool/Project
+   Hemings.” American Literature 85.4 (2013): 661–688.                                                review
+ • Lothian and Phillips. “Can Digital Humanities Mean Transformative Critique?” Journal of E-Media
+   Studies 3 no. 1 (2013).
+ • Sterne, Jonathan, and Tara Rodgers. “The Poetics of Signal Processing.” differences 22.2-3 (2011):
+   31–53.
+ Optional:
+ • Conley, Tara L. “Decoding Black Feminist Hashtags as Becoming” The Black Scholar Vol. 47 ,
+   Iss. 3, 2017.
+ • McPherson, Tara. “Why is Digital Humanities so white?” In Debates in the Digital Humanities,
+   edited by Matthew K. Gold. Minneapolis: University Of Minnesota Press, 2012.
+ • Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital Humanities.” In
+   Debates in the Digital Humanities, edited by Matthew K. Gold and Lauren Klein. Minneapolis:
+   University Of Minnesota Press, 2016.
+                                         Digital Humanities Infrastructures
+10/11                                                                                                 Workshop
+                                                                                                      Proposal Due
+Week 6 (10/14)             Project Development
+ • Muñoz, Trevor. “Digital Humanities in the Library Isn’t a Service,” blog post, August 19, 2012.    DPs
+ • Williford, Christa and Charles Henry. One Culture. Computationally Intensive Research in the       Lab: Final
+   Humanities and Social Sciences: A Report on the Experiences of First Respondents to the Digging    project
+   Into Data Challenge. Council on Library and Information Resources, June 2012.
+                                                         3
+
+
+Week 7 (10/21)           Data management
+• Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the    DPs
+  Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.               Lab:
+• Hooland, Seth van, and Ruben Verborgh. [Chp1-2]. Linked Data for Libraries, Archives and         OpenRefine
+  Museums: How to Clean, Link and Publish Your Metadata, 2015.
+• Liu, Alan. “Transcendental Data: Toward a Cultural History and Aesthetics of the New Encoded
+  Discourse.” Critical Inquiry 31.1 (2004): 49–84.
+Optional
+• Posner, M. “Humanities Data: A Necessary Contradiction” Miriam Posner’s Blog. 25 June 2015.
+  Unsworth, John. “Knowledge Representation in Humanities Computing.”
+Week 8 (10/28)           Platforms, Software, and Formats
+• MacArthur, Marit J., Zellou, Georgia, and Miller, Lee. “Beyond Poet Voice: Sampling the (Non-)   DPs
+  Performance Styles of 100 American Poets,” Journal of Cultural Analytics. April 18, 2018.        Lab #1 Gentle
+• Manovich, Lev. Software Takes Command [“Introduction”]. New York: Continuum Publishing           and Drift
+  Corporation, 2013.
+• McPherson, Tara. “Designing for Difference.” differences 25.1 (2014): 177–188.
+• Sayers, Jetery. “Minimal Definitions.” GoDH. 02 October 2016.
+• Sterne, J. “The MP3 as Cultural Artifact,” New Media and Society 8:5 (November 2006): 825-842.
+                                                       Methods
+Week 9 (11/4)            Feature Selection
+• Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio           DP
+  Collections.” Cultural Analytics, vol. 1, no. 1, 2016.                                           Lab #2
+• Taylor Arnold, Lauren Tilton, and Annie Berke, “Visual Style in Two Network Era Sitcoms,”        Distant Viewer
+  Journal of Cultural Analytics. July 19, 2019.
+• Witmore, Michael. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.”
+  New Literary History 47 (2): 353–75.
+Week 10 (11/11)          Analysis and Visualization
+• Drucker, Johanna. “Humanities Approaches to Graphical Display.” DHQ 5:1 (Winter 2011).           DP
+• Eastwood, J. and Hinton, E. "How does ‘Hamilton,’ the non stop, hip-hop Broadway sensation tap   Lab #3
+  rap's master rhymes to blur musical lines?" Wall Street Journal. 6 June 2016.                    ImagePlot
+• Manovich, Lev. ‘What is visualization?’ Visual Studies, 26.1 (2011): 36-49.
+• Meier, Allison. “W. E. B. Du Bois’s Modernist Data Visualizations of Black Life.” Hyperallergic.
+  N.p., 4 July 2016. Web. 15 Aug. 2016.
+• Wu, Shirley. “An Interactive Visualization of Every Line in Hamilton,” n.d.
+Optional:
+• Lain. “Heavy Metal and Natural Language Processing - Part 1,” April 20, 2016.
+• Manovich, Lev. “Cultural Analytics” Software Studies Initiative.
+• Moretti, F. Graphs, Maps, Trees (Verso, 2005), pp. 1-33, 91-92.
+• Sinclair, Stéfan, Stan Ruecker, and Milena Radzikowska. “Information Visualization for
+  Humanities Scholars.” Literary Studies in the Digital Age. Ed. Kenneth M. Price and Ray Siemens.
+  Modern Language Association of America, 2013. CrossRef. Web. 30 July 2014.
+• Mauch, Matthias et al. “The Evolution of Popular Music: USA 1960–2010.” Royal Society Open
+  Science 2.5 (2015): 150081.
+Week 11 (11/18)          Topic Modeling
+• Binder, Jeffrey M. “Alien Reading: Text Mining, Language Standardization, and the Humanities.”   DP
+  In Debates in the Digital Humanities, edited by Matthew K. Gold and Lauren Klein. Minneapolis:   Lab #4
+  University Of Minnesota Press, 2016.                                                             Mallet
+• Burton, Matt. “The Joy of Topic Modeling.” McBurton.net. May 21, 2013.
+• Jockers, Matthew. “The LDA Buffet Is Now Open; Or, Latent Dirichlet Allocation for English
+  Majors.” September 29, 2011. Accessed July 30, 2014.
+• Rhody, L. Topic Modelling and Figurative Language. Journal of Digital Humanities. Vol. 2, no. 1,
+  Winter 2012. Web. 30 July 2014.
+Optional:
+                                                         4
+
+
+ • Blei, David M. “Topic Modeling and Digital Humanities.” Journal of Digital Humanities. N.p., 8
+   Apr. 2013. Web. 30 July 2014.
+ • Jockers, Matthew L. Macroanalysis: Digital Methods and Literary History. Urbana: University of
+   Illinois Press, 2013. [Chap. 8: “Theme”]
+ • Underwood, Ted. “Topic Modeling Made Just Simple Enough.” The Stone and the Shell. April 7,
+   2012.
+ • Underwood, Ted. “What Kinds of ‘Topics’ Does Topic Modeling Actually Produce?” The Stone
+   and the Shell. April 1, 2012.
+11/18                                                                            ACLS Environmental Scan Due
+Week 12 (11/25)            Spatial Humanities
+ • Bauch, Nicholas. “Introduction”, in Enchanting the Desert: A Pattern Language for the Production   Lab #5
+   of Space. (Stanford: Stanford University Press, 2016).                                             QCIS
+ • Blevins, Cameron. Mining and Mapping the Production of Space: A View of the World from
+   Houston.
+ • Blevins, Cameron. 2014. “Space, Nation, and the Triumph of Region: A View of the World from
+   Houston.” Journal of American History 101 (1): 122–47.
+ • Knowles, Anne Kelly, and Amy Hillier, eds. Placing History: How Maps, Spatial Data, and GIS
+   Are Changing Historical Scholarship. 1st ed. Redlands, Calif: ESRI Press, 2008.
+ Optional
+ • Bodenhamer, D.J., J. Corrigan, and T.M. Harris, eds. The spatial humanities: GIS and the future of
+   humanities scholarship. Spatial humanities. Bloomington: Indiana University Press. [Chapters 1
+   and 2], 2010.
+ • Borges, Jorge Luis. “On Exactitude in Science”
+ • Elliott, T., and S. Gillies. 2009. “Digital Geography and Classics.” Digital Humanities Quarterly
+   3.1.
+ • Jason Farman, “Mapping the Digital Empire,” New Media and Society 12 (2010), 869-888.
+ • Grossner, K., and E. Meeks. 2014. “Topotime: representing historical temporality.” In Proceedings
+   of the Digital Humanities 2014 Conference. Lausanne.
+ • Jo Guldi's guide to spatial humanities at the Scholar's Lab.
+ • Interview with Anne Knowles. Journal of Empire Studies. 20 Sept. 2013.
+ • Grossner, K., and E. Meeks. “Topotime: representing historical temporality.” In Proceedings of the
+   Digital Humanities 2014 Conference. Lausanne.
+ • Watson, Helen. Yolngu community at Yirrkala. “Maps are Territories.”
+Week 13 (12/2)             Social Network Analysis
+ • Arriaga, E., Sancho Caparrini, F., Suárez, J. “Modeling Afro-Latin American Artistic               DP
+   Representations in Topic Maps: Cuba’s Prominence in Latin American Discourse” Digital              Lab #6
+   Humanities Quarterly, vol. 7, no. 1, 201.                                                          Gephi
+ • Moretti, Franco. “Network Theory, Plot Analysis,” Stanford Literary Lab Pamphlet #2 (2011).
+ • Weingart, Scott B. “Demystifying Networks, Parts I & II.” Journal of Digital Humanities. N.p., 15
+   Mar. 2012. Web. 30 July 2014.
+ • Zer-Aviv, Mushon. “If everything is a network, nothing is a network.” Visualizing Information for
+   Advocacy. 8 January 2016.
+ Optional:
+ • Borgatti, Stephen P. et al. “Network Analysis in the Social Sciences.” Science 323.5916 (2009):
+   892–895.
+ • Easley, David and Jon Easley, David. Networks, Crowds, and Markets: Reasoning About a Highly
+   Connected World. New York: Cambridge University Press, 2010. [Chap. 1]
+ • Laudun, John, and Jonathan Goodwin. “Computing Folklore Studies: Mapping over a Century of
+   Scholarly Production through Topics.” The Journal of American Folklore 126.502 (2013): 455–
+   475.
+12/2                                                                   DH SUP Enhancing the Humanities Due
+Week 14 (12/9)             Final Presentations
+12/16                                                                                                 Final Paper
+                                                          5
+
+
+V. Course Requirements
+   Class attendance and participation (5%)
+   1. Class attendance is required. One unexcused absence is granted, but all other absences will only be excused in
+       situations following university policy (illness, religious holy days, participation in University activities at the
+       request of university authorities, and compelling absences beyond the student’s control) with proper
+       documentation and timely notification (prior to class for non-emergencies). Excessive tardiness may be
+       considered an unexcused absence. Two unexcused absences will cost two percentage points. More than two
+       unexcused absences may result in a dropped letter grade.
+   2. Class participation is not merely attendance, but reflects the student’s overall contributions to the
+       collaborative learning environment, based on the quantity and quality of their interactions with fellow
+       classmates, the instructor, and in the online discussions.
+   3. Religious Holy Days: By UT Austin policy, students must notify the instructor of pending absences at least
+       fourteen days prior to the date of observance of a religious holy day. Students who must miss a class, an
+       examination, a work assignment, or a project in order to observe a religious holy day, will be given an
+       opportunity to complete the missed work within a reasonable time after the absence.
+   Discussion Questions (20%)
+   Goal: Students will demonstrate a familiarity and/or an understanding of all the readings required for the week
+   by posing questions and/or responses that provoke thoughtful class discussions.
+   Except when indicated, there will be required readings each week. The required readings will either be available
+   online or posted on Canvas, so there are no books to buy or papers to acquire for the class.
+   Over the course of the semester, students are required to post 10 discussion posts in total, but in the first weeks
+   of the semester, discussion posts are required of all students. Posts are due in Canvas by midnight the day
+   before class meets and should begin as a question or questions that reflect a careful reading of the material for
+   that week and seek to stimulate thoughtful class discussion. Students will post a thoughtful response to his or her
+   own discussion questions. Responses should touch on a majority of the readings for full credit. The length of
+   the post depends on how long it takes the student to generate a response that takes all the readings into account.
+   Lab Assignments (10%)
+   Goal: Students will demonstrate an ability to use a variety of digital tools. Students will also learn to evaluate a
+   workshop. Students will complete assignments for all the workshops they are not running.
+   Workshop Curriculum (25%)
+   Goal: Students will design, implement, and review a workshop focused on teaching a digital humanities tool to a
+   class of information professionals using selected data. Ultimately, the students will produce a proposal to run a
+   workshop. There will be three assignments (each is 1-2 pages):
+   1. Workshop Proposal (10%)
+   2. Workshop Plan (7.5%)
+   3. Workshop (7.5%)
+   Final Project (40%)
+   Goal: Students will demonstrate their understanding of Digital Humanities research questions, methods, and
+   infrastructure by writing an American Council of Learned Societies grant proposal. The final prospectus is
+   broken down into three assignments to help develop a more rigorous proposal.
+   1. Beginning Environmental Scan (10%)
+   2. Enhancing the Humanities (5%)
+   3. Final presentation (5%)
+   4. Final proposal (20%)
+VI. Grading Procedures
+                                                             6
+
+
+                                    B+      84-89           C+     69-73
+            A      95-100           B       79-83           C      60-68
+                                                                                     Grade calculations
+            A-     90-94            B-      74-78           F      <60
+           •
+           •
+    Late Assignment Policy
+    All assignments are due according to the due dates and times on Canvas. All assignments must be submitted via
+    Canvas. Late assignments will only be excused in situations following university policy (illness, religious holy
+    days, etc.) with proper documentation and timely notification (prior to the deadline for non-emergencies). In all
+    other cases, assignments received after the deadline will be penalized 10% per 24-hour period. If an assignment
+    is turned in (without prior authorization or extreme emergency circumstances) even one minute late, an
+    automatic deduction of 10% prior to grading of the assignment will occur; if five days late, even an otherwise
+    perfect assignment will only receive half-credit; and if ten days late, 5h3 assignment will not be graded and will
+    not receive any credit.
+VII. Academic Integrity
+    University of Texas Honor Code
+    The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+    opportunity, and responsibility. Each member of the university is expected to uphold these values through
+    integrity, honesty, trust, fairness, and respect toward peers and community.
+    Each student in this course is expected to abide by the University of Texas Honor Code. [See the UT Honor
+    Code above.] Any work submitted by a student in this course for academic credit will be the student’s own work,
+    although collaboration is allowed and required for some assignments.
+VIII. Other University Notices and Policies
+     Use of E-mail for Official Correspondence
+    All students should become familiar with the University’s official e-mail student notification policy. It is the
+    student’s responsibility to keep the University informed as to changes in his or her e-mail address. Students are
+    expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+    communications, recognizing that certain communications may be time-critical. It is recommended that e-mail be
+    checked daily, but at a minimum, twice per week. The complete text of this policy and instructions for updating
+    your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564 .
+Documented Disability Statement
+    Any student with a documented disability who requires academic accommodations should contact Services for
+    Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not
+    required to provide accommodations without an official accommodation letter from SSD.
+    • Please notify me as quickly as possible if the material being presented in class is not accessible (e.g.,
+        instructional videos need captioning, course packets are not readable for proper alternative text conversion,
+        etc.).
+    • Please notify me as early in the semester as possible if disability-related accommodations for field trips are
+        required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+        transportation, site accessibility, etc.).
+    • Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+        reference SSD’s website for more disability-related information:
+        http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to
+discuss by phone your concerns about another individual’s behavior. This service is provided through a partnership
+among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee
+                                                             7
+
+
+Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit
+http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm is
+activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+    • Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest exit
+       door may not be the one you used when you entered the building.
+    • If you require assistance to evacuate, inform me in writing during the first week of class.
+    • In the event of an evacuation, follow my instructions or those of class instructors.
+    • Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin
+       Police Department, or the Fire Prevention Services office.
+Feminist labs:
+https://whatisafeministlab.online/speakers/?fbclid=IwAR0AnQDbZrGU82X-
+JxWOMgrIVr16MnNU7FyKYkJJ8QhaHp6yMfAUnanwIxU
+vogue pic viz
+https://pudding.cool/2019/04/vogue/
+tools:
+http://lexos.wheatoncollege.edu/upload
+https://github.com/jenniferisasi/sentiment_analysis_with_R
+https://corpling.uis.georgetown.edu/xrenner/
+Gentle and Drift
+https://docs.google.com/document/d/1KDbEsxd-AmmtpscwEE5gX11-
+TvV7md5Y3h0E2OIH3O8/edit
+Labor as a subtopic?
+ • Alexander, E., J. Kohlmann, R. Valenza, M. Witmore, and M. Gleicher. “Serendip: Topic Model-Driven Visual
+   Exploration of Text Corpora.” In 2014 IEEE Conference on Visual Analytics Science and Technology (VAST),
+   173–82, 2014.
+ • Klein, L., Eisenstein, J., Sun, I. “Exploratory Thematic Analysis for Digitized Archival Collections” Digital
+   Scholarship in the Humanities, Vol. 30, Supplement 1, 2015.
+ Optional:
+ • Daniels, Matthew “The Journalist-Engineer.” Matthew_daniels, October 25, 2015.
+ • Victor, Bret. Drawing Dynamic Visualizations. Standord HCI Seminar, 2013.
+ • Black, Michael L. “A Textual History of Mozilla: Using Topic Modeling to Trace Sociocultural Influences on
+   Software Development.” 9.3 (2015): n. pag. Digital Humanities Quarterly. Web. 18 Jan. 2016.
+ • Heuser, Ryan and Long Le-Khac, “A Quantitative Literary History of 2,958 Nineteenth-Century British Novels:
+   The Semantic Cohort Method” Stanford Literary Lab Pamphet. (2012)
+                                                           8

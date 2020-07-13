@@ -1,0 +1,129 @@
+University of Texas at Austin                                                                       Fall 2018
+   WRITING FOR GAMES
+RTF 344M/AET 337
+CMA 4.144 | TTh 5 - 6:30pm
+Professor: Susan O’Connor | email: susanoconnor@utexas.edu | text: (512) 565-6124
+Oﬃce Location and Hours: CMA 6.166 Thursdays, 2:30 - 5pm
+TA: Alessandra Lichtenfeld | Oﬃce Hours: By appointment
+Why study interactive storytelling?
+Because it explores two of the most powerful forces in our lives: the stories we tell, and the
+technology we use.
+Stories and computers are both tools that enable us to connect with the world around us — and
+with each other.
+We can think of interactive storytelling as a form of dramatic writing, just like theater or television.
+But what makes it exciting and weird is that the writer does not control the story; the audience
+does. Creatives (like you) have only just begun to explore the storytelling possibilities of this field.
+All semester long, we will be wrestling with one central idea:
+                                  How we tell stories in this new medium
+Why is this course important?
+Because this moment in time is a turning point for digital storytellers. We still don’t really know how
+this medium works when it comes to narrative. The creative discoveries we make in the next few
+years could shape games (and stories) for decades to come - and this class can be the beginning of
+that adventure for you.
+In the 1920s and ‘30s, writers invented new ways to tell stories, using an exotic technology called
+film. Writers today are playing around with games, digital media, VR, and augmented reality. They
+have questions, lots of questions. What does it mean, to share the story with the audience? What
+new possibilities does that open up for us? What can we do now, that we could never do before?
+In this class, we will ask new questions, make new discoveries, and (with any luck) start to blaze a
+new path forward.
+RTF 344M/AET 337                                                                                            1
+
+
+University of Texas at Austin                                                                     Fall 2018
+What will I be able to do by the end of this course?
+By the end of this course, you will be able to:
+        • Compare and contrast diﬀerent forms of media, to better understand how writers create
+          interactive stories
+        • Understand and analyze how stories are structured - in both old media and new
+        • Create a cast of characters, including player avatars and non-player characters (NPCs)
+        • Understand how game design and narrative intersect - or collide
+        • Use storytelling tools from diﬀerent media to craft a story for a level of a game
+        • Write an interactive script, just like the pros do
+What skills will I develop?
+Over the course of the semester, you will develop strengths in the following areas:
+        • Creative writing and problem-solving skills
+        • Communication skills, both written and verbal
+        • Critical thinking skills
+        • Collaborative learning; the ability to give (and receive) constructive feedback
+        • Design-thinking skills, including emotional intelligence and empathy
+        • Creative flexibility - the ability to generate and revise content under tight deadlines
+How will you teach this class?
+This class relies heavily discussions and small-group work, both inside and outside of class.
+Lectures will be kept as short as possible. The best way to learn is to learn by doing, so come to
+class ready to Do. Class participation is an important part of your grade.
+How do I succeed in this class?
+To answer this question, I looked to two of my past students. One was an AET major; one was from
+RTF. This class was a real challenge for both of them. But they stuck with the work, they persevered
+through the challenging moments in the semester, and they came out the other side as more
+confident and skilled creatives. I learned a lot from them about how to succeed.
+Here’s what I think they would suggest:
+• Be prepared. Do the readings, play the games, come ready to work. We will be doing a fair
+  amount of work in-class, and you want to be able to hit the ground running.
+RTF 344M/AET 337                                                                                          2
+
+
+University of Texas at Austin                                                                     Fall 2018
+• Help others when you can. Your attendance and your level of participation - in class
+  conversations, in workshops and in online discussions - will be part of your overall grade. Bring
+  your whole self to class. You will be learning from each other as much as you will be learning from
+  me.
+• Ask for help when you need it. This subject matter is a combination of left-brain and right-brain
+  work, and it can be challenging in surprising ways. Reach out for help when you need it - myself,
+  the TA, the writing tutor, and your fellow students can be great resources.
+• Be here now. Don’t use cell phones in class. They prevent you and those around you from
+  learning. Most of the time, you won’t need your laptops open, either. I need you for a few hours a
+  week. For the short time we are together, let’s give each other our full attention.
+• Go pro. Professionals deliver work that is clean and well-written. Set this as a standard for
+  yourself, too. Before turning in writing assignments, use spellcheck. A paper full of errors is
+  diﬃcult to read, and this will negatively aﬀect the grader’s first impression.
+This class is designed with your success in mind. You’ve got this. I’m here to help.
+What textbooks will I need?
+You will spend plenty of time this semester reading books, watching movies, and playing games.
+Hooray! A few textbooks that you will want to order right away are:
+• Hamlet on the Holodeck (2016 edition) by Janet Murray (be sure to get the 2016 edition!)
+• The Anatomy of Story by John Truby
+You can find the full list of required materials on Canvas.
+What does our class schedule look like?
+The course follows a series of modules that include Story Structure, Character, Design,
+Environment, and Dialog. See Canvas for more.
+How will I be graded?
+The main focus of this class will be your final deliverable, which will be worth 40% of your grade. I
+will be assigning frequent in-class and out-of-class supporting activities, which will comprise
+another 40% of your grade. You’ll also be graded on attendance (10%) and participation (10%).
+For the full grading scheme, see Canvas.
+RTF 344M/AET 337                                                                                          3
+
+
+University of Texas at Austin                                                                       Fall 2018
+This class carries a Writing Flag. What does that mean?
+In this class - as in any Writing Flag course - you will:
+1. Write regularly, several times during the
+     semester, and complete writing projects                    What if I need extra help
+     that are substantial, such as critical essays                    with my writing?
+     and creative work;
+                                                                    No problem! Just visit the
+2. Rewrite your work, incorporating feedback                   Moody Writing Support program.
+     from the instructor, TA, and fellow students;
+                                                               They provide one-on-one support
+     and
+                                                               for students enrolled in this class.
+3. Earn at least one-third of your grade - if not
+     more - through your writing assignments.
+But wait! What about [_______]?
+If you don’t see your question answered here, please let me know. I am here to help.The full syllabus
+- including policies on late work & absences, as well as university-wide policies and campus
+resources - will be posted on Canvas under Module 00, Class Resources.
+OK sounds good. Can you tell us a little bit about yourself?
+Yes, I can. After graduating from UT Austin (B.A. Art History), I started my career as a writer at a
+small game studio down on Congress Avenue. Since then, I’ve worked on over 25 game titles.
+Some were good, some were not so good! The good ones include BioShock, Tomb Raider, and Far
+Cry 2. Titles in my portfolio have sold over 30 million copies and generated over half a billion dollars
+in sales. (Not all of that money went to me.)
+Early in my career, I didn’t know any other game writers. I wanted to find them, and to create a
+place where we could come together and learn from each other, so I founded the Game Writers
+Conference, which is now the Game Narrative Summit at GDC.
+Some of my recent projects include an interactive-television show with Netflix and a VR game with a
+studio here in Austin. And, of course, this class. I feel very fortunate to be your professor, and I’m
+looking forward to working with you and exploring this material together.
+- Professor O’Connor
+RTF 344M/AET 337                                                                                            4

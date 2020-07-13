@@ -1,0 +1,183 @@
+University of Texas School of Architecture
+Living Wall (In)Formatics
+Fall 2018
+ARC 327R, ARC 386M, LAR 388, and CRP 383
+Instructor: Associate Professor Danelle Briscoe
+UTSOA Living Wall, 2015
+Overview
+This seminar will research, design and discuss living wall systems, specifically focusing on those of
+hot and dry climates. A living wall —or system of plants rooted in growing media attached to a wall
+itself— holds potential environmental benefits for buildings and dense urban conditions. As such,
+the course will investigate historical, contemporary and emerging methods and examples of this
+alternative facade formation.
+In addition, such biological systems offer data to discern and visualize multi-scalar aspects of
+nature in the urban condition. Most conventional design projects and planning endeavors in the
+built environment rarely monitor and report upon site performance and benefits. In fact, the
+Sustainable Sites Initiative (SITES), a comprehensive rating system for developing sustainable
+landscapes, acknowledges this discrepancy and encourages projects to plan for monitoring and
+reporting activities. Building on its interdisciplinary roots, the course will also discuss the
+performance metrics of a living wall that address topics in urban ecology, architecture, landscape
+architecture, and operations and maintenance. To these ends, performance data from living walls
+include physical information, such as surface temperatures, sound decibels, soil media
+characteristics, irrigation use, and maintenance activities. The course will aim to examine these
+factors with regard to a research and design process.
+
+
+Projects
+The course is divided into three projects each with a specific emphasis on a corresponding living
+wall investigation: research, design and thesis.
+         Project 1 Each student will research and present a contemporary living wall system.
+         Templates and specific data inquiries will be provided.
+         Project 2 Each student will progress through a series of focused strategies in order to
+         develop a desired component and living wall system design. Students will engage hands
+         on development and methodology with the Lady Bird Johnson Wildflower Research
+         Center
+         Project 3 Each student will culminate their research and design processes. The optimal
+         material logic and behavior from Project 2 will be further developed in written and
+         modeled format.
+Class format
+         The class will typically act as a lecture and discussion group, with occasional field trip,
+critique, workshop or guest lecturer. On occasion, the course will function like a hands-on, self-
+directed project based seminar. The class will address fundamental theoretical issues of material
+reality via representation.   Students are expected to come prepared to discuss readings and
+verbally and visually present research. Presentation of work is to be expected on due date. In the
+second half of the semester, student will write a short paper based on their research, living wall
+design and topical thesis.
+Requirements
+         Class times                       2- 5pm Th, Sutton 3.114
+         Office hours:                     GOL 4.134, 9am – 11am, Monday (or by appointment)
+         Contact                           briscoed@utexas.edu/ 512.810.3133
+Evaluation
+         10%      Participation
+         90%      Project          Topic                    Output
+                  (20%) 1:         Research                 diagrams/presentation
+                  (40%) 2:         Design                   living wall design & diagram
+                  (30%) 3:         Thesis                   research abstract/diagrams
+
+
+Schedule *
+                               Introduction | course overview | questionnaire
+        08.30. 18     W 01     Lecture: HISTORY
+                               begin Project 1
+                               Reading and discussion
+        09.06. 18     W 02
+                               Lecture: CLIMATE
+                               Reading and discussion *Central Standard (2823 South Congress)
+        09.13. 18     W 03
+                               Lecture: TYPOLOGY
+                               Site visit to LBJ Wild Flower Center
+        09. 20. 18    W 04
+                               Tour Guide Dr. Hans Landel, LBJWFC Conservation Ecologist
+        09. 27. 18    W 05     Project 1 presentations (Group 1)
+        10. 04. 18    W 06     Project 1 presentations (Group 2) | Begin Project 2
+                               Reading and discussion: DESIGN
+        10. 11. 18    W 07
+                               Visit UTSOA Living Wall/ Talk with Marcus Hogue
+                               Danelle at ACADIA conference
+        10. 18. 18    W 08
+                               Independent Site visit/documentation Mopac
+        10. 25. 18    W 09     Work session /Fabrication production
+        11. 01. 18    W 10     Project 2 Review/Presentations
+                               Begin Project 3
+        11. 08. 18    W 11
+                               Lecture: TBD
+        11. 15. 18    W 12     Individual Work session/ critiques
+        11. 22. 18    W 13     HOLIDAY
+        11. 29. 18    W 14     Project 3 final presentations
+        12. 06. 18    W 15     Final submission of semester course work
+     *subject to change as necessary with guest lecturers, field trip, etc.
+
+
+References
+             (A web site on Canvas provides all required assignments, reference materials and copies of the lectures.)
+             Week 1 Readings
+             Waldheim, Charles. “Three: Planning, Ecology, and the Emergence of Landscape”
+             Landscape as Urbanism. Princeton: Princeton University Press, 2016, pp50-67.
+             McHarg, Ian. “Nature in the Metropolis” Design with Nature. Garden City: Natural History
+             Press, 1969, pp 55-65.
+             Week 2 Readings
+             Orff, Kate. “Scale” Toward an Urban Ecology. New York: The Monacelli Press, 2016 pp 197-
+             214.
+             Udeshika Weerakkody et al. “Particulate matter pollution capture by leaves of seventeen
+             living wall species with special reference to rail-traffic at a metropolitan station”. Urban
+             Forestry & Urban Greening. Journal 27 (2017) Elsevier, pp 173-186.
+             Week6 Readings
+             Cook, Robert E. “Do Landscapes Learn? Ecology’s “New Paradigm” and Design in
+             Landscape Architecture” in Projective Ecology, edited by Chris reed and Nina Marie Lister.
+             New York, Actar Publishers, 2014, pp 218-237.
+             Week 7 Readings
+             Briscoe, Danelle. 2014. “Parametric Planting: Green Wall System Research + Design using.
+             BIM,” In Design Agency, Proceedings of the 34th Annual Conference of the Association for
+             Computer Aided Design in Architecture (ACADIA), edited by David Gerber, Alvin Huang
+             and Jose Sanchez. Cambridge: 333–338.
+             Veljko Prodanovica et al. “Optimisation of lightweight green wall media for greywater
+             treatment and reuse”. Building and Environment. Journal 131 (2018) Elsevier, pp 99-107.
+Hardware/Software
+It is required that you have a graphically capable laptop able to run modelling and visual
+programming software. Each assignment will have further defined expectations/requirements
+specified. Readings will be downloadable from the class Blackboard site. The programs will also be
+available on the computers in SUT Computer Lab.
+Attendance
+Attendance is mandatory. Participation is expected. Students with three (3) unexcused absences
+will be encouraged to drop from the course. The minimum penalty for more than three unexcused
+absences is a full letter drop in your final grade for the course. Please contact the instructor prior to
+class if you expect to be late or miss class.
+A student who is absent from a class for the observance of a religious holy day may complete the
+work missed within a reasonable time after the absence, if proper notice has been given in
+advance of the days to be missed. By UT Austin policy, you must notify me of your pending
+absence at least fourteen days prior to the date of observance of a religious holy day. If you must
+miss a class, an examination, a work assignment, or a project in order to observe a religious holy
+day, you will be given an opportunity to complete the missed work within a reasonable time after
+the absence. A student who fails to complete missed work within the time allowed will be subject
+to the normal academic penalties.
+**All students, faculty and staff who wish to use the SOA woodshop are required to take EHS’s new on-line training
+(https://utdirect.utexas.edu/ehs/class.WBX?s_course_comp=0&s_course_prefix=OH&s_course_number=0500 ) and pass a short
+exam at the end. As this training is supplemental to SOA’s woodshop training, no one is excluded or grandfathered from the
+
+
+requirement; both are required in order to use the woodshop’s tools and equipment. As part of our efforts to comply with this
+mandate, the woodshop will soon have a card reader installed at the entrance, similar to those on Goldsmith’s and Sutton’s exterior
+doors. We will thereafter keep the door to the woodshop locked (from the outside) at all times. Those who have taken the on-line
+EHS training will be able to use gain access to the woodshop during operating hours by simply swiping their UT ID cards at the door;
+those who have not taken the on-line training will not be allowed to enter the woodshop. NO EXCEPTIONS CAN BE MADE.
+Basis of Assessment
+Establishing grades for projects of a creative nature is a more complex matter than grading in
+other academic areas. While each project contains certain quantifiable elements by which it may
+be evaluated, a significant portion of each grade is derived from a broader, more subjective set of
+issues.
+Grading for studio courses is broken into three components: 1/3 grasp (ideas combined with an
+appropriate process of inquiry), 1/3 process (the consistent and rigorous development of ideas)
+and 1/3 resolution (the understanding of the project and its architectural implications).
+A/ A- : excellent
+Project surpasses expectations in terms of inventiveness, appropriateness, verbal and visual ability,
+conceptual rigor, craft, and personal development. Student pursues concepts and techniques
+above and beyond what is discussed in class. Project is complete on all levels.
+B+/ B/ B- : above average
+Project is thorough, well researched, diligently pursued, and successfully completed. Student
+pursues ideas and suggestions presented in class and puts in effort to resolve required projects.
+Project is complete on all levels and demonstrates potential for excellence.
+C+/ C/ C- : average
+Project meets the minimum requirements. Suggestions made in class are not pursued with
+dedication or rigor. Project is incomplete in one or more areas. (Please note: a C or better is
+required for the course to count towards the graduate student’s program of study.)
+D+/ D/ D- : poor
+Project is incomplete. Basic skills including graphic skills, model-making skills, verbal clarity or logic of
+presentation are not level-appropriate. Student does not demonstrate the required design skill and
+knowledge base.
+F : failure
+Project is unresolved. Minimum objectives are not met. Performance is not acceptable. Note that
+this grade will be assigned when you have excessive unexcused absences.
+X : (excused incomplete)
+Can be given only for legitimate reasons of illness or family emergency. Simply not completing work
+on time is not an adequate cause for assigning this evaluation.
+ALL GRADES ARE SUBJECT TO DEDUCTIONS for absences, late work and late arrivals.
+Disabilities
+Please notify your instructor of any adaptation you may require to accommodate a specific
+physical need. You will be requested to provide documentation to the Dean of Students' Office, in
+order that the most appropriate accommodations can be determined. Specialized services are
+available on campus through the Services for Students with Disabilities, also found via the web at
+http://deanofstudents.utexas.edu/ssd/.
+Honor Code
+The core values of the University of Texas at Austin are learning, discovery, freedom, leadership,
+individual opportunity, and responsibility. Each member of the University is expected to uphold
+these values through integrity, honesty, trust, fairness, and respect toward peers and community.

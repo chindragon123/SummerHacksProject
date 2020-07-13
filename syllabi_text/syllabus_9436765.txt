@@ -1,0 +1,288 @@
+HALLMAN                          AUDITING & ASSURANCE SERVICES                               SPRING 2019
+                                                                 ACC 358C / ACC 380K.4
+                                                              Auditing & Assurance Services
+Time and Location:
+MW 12:30 – 1:45, UTC 3.102 (unique 02420 for ACC 358C or 02545 for ACC 380K.4)
+MW 2:00 - 3:15, UTC 3.102 (unique 02425 for ACC 358C or 02550 for ACC 380K.4)
+MW 3:30 - 4:45, UTC 3.102 (unique 02430 for ACC 358C or 02555 for ACC 380K.4)
+Professor
+Nicholas Hallman, CPA Ph.D.
+Office: CBA 4M.228; Phone: 471-3517; E-mail: Nicholas.Hallman@mccombs.utexas.edu
+Office hours: Tuesday 1:30pm – 4:30pm, or as announced, and by appointment.
+Teaching Assistants
+Sam Hunt (unique 2420, 02430, 2545, and 02555)
+Email: samhunt@utexas.edu
+Office: CBA 4.304A
+Office hours: Wednesday 9:00am – 12:00pm
+Daniel Rimkus (unique 02425 and 02550)
+Email: Daniel.Rimkus@mccombs.utexas.edu
+Office: CBA 1.310E
+Office hours: Thursday 1pm – 4pm
+Note: Although Sam and Daniel have official course assignments, you should feel free to visit
+either TA’s office hours for help. You should also feel welcome to come to my office hours our
+use the online discussion board (see below).
+Canvas
+I will use the Canvas (http://canvas.utexas.edu) discussion board extensively to make
+announcements, post documents, and answer questions. So that you do not miss anything
+important, please get in the habit of checking the course Canvas site before every class.
+The discussion board benefits you and me. You can use it to post questions, comments, and
+responses to others’ posts. In turn, I will use it to offer clarifications to the entire class, not just
+the person who asked the question. If you have a question of general interest, please use the
+discussion board, not email. That way everyone can benefit.
+Required Course Materials:
+I will not distribute paper copies of course materials. I will upload to Canvas the PowerPoint
+files and other materials that we will use in class discussion.
+There is no official textbook for the course.
+                                                                                                         1
+
+
+HALLMAN                           AUDITING & ASSURANCE SERVICES                         SPRING 2019
+Course Objectives
+At the end of the semester, you should have a better and deeper understanding of the following:
+    -   The role of auditing in a market economy.
+    -   U.S. and international regulation of auditing.
+    -   Auditor independence and ethical responsibilities.
+    -   Dealing with the potential for fraud.
+    -   Internal controls and the integrated audit.
+    -   Risk assessment.
+    -   Audit sampling.
+    -   Audit reporting.
+    -   Evaluating and correcting errors.
+    -   Fundamental issues arising in recent accounting and auditing scandals.
+    -   Academic research in the field of auditing.
+Course Schedule
+The schedule for this course is subject to considerable change as we proceed through the
+semester. An initial outline of the expected schedule is posted on Canvas. I will keep the canvas
+version of the schedule updated, and post announcements whenever I make changes.
+Attendance Policy
+I hated attendance policies when I was a student and I do not enforce them now. This keeps me
+honest and forces me to make attending class worth your time. With that said, impromptu in-
+class discussions are an important part of the course. The content of all such discussions are “fair
+game” for exams. If you believe that you can achieve the grade you desire without attending
+class, you are welcome to try. But you probably can’t.
+A Few Miscellaneous Notes:
+    - This course is not just another requirement to graduate. Rather, given that the vast majority
+      of you will either become auditors or will deal with auditors, the primary objective of this
+      course is to help you to succeed after graduation.
+    - Your primary objective for this course should be to learn the skills required to be a good
+      auditor or, at least, to understand auditing, not to get a good grade. But I know that
+      probably seems trite, and that your grade matters a great deal to you. I will do my best to
+      make sure that the distributions of learning and grades are as congruent (and transparent) as
+      possible. However, like most evaluation systems, grading is inherently noisy.
+                                                                                                   2
+
+
+HALLMAN                            AUDITING & ASSURANCE SERVICES                          SPRING 2019
+Grading
+Course grades will be based on a 500-point scale, as follows:
+                                                                                Points
+                                                                               Possible
+              In-class examination 1, Wednesday, February 21, 2018                100
+              In-class examination 2, Wednesday, April 4, 2018                    100
+              Final examination, Date TBD                                         120
+              Cases                                                                90
+              End-of-semester group presentation                                   90
+              Total points before extra credit (see details below)                500
+In awarding final grades, I start by considering the traditional 90%=A, 80%=B, 70%=C cutoffs
+based on the 500 nominal points listed above. I sometimes award grades that are more (but never
+less) generous than these cutoffs, depending upon the end-of-semester point distribution, to
+reflect the following interpretations:
+     “A” or “A-” = Exceptional performance, exceeding my expectations. An “A” in this course
+         is a sign of distinguishing oneself with particularly strong performance.
+     “B+” or “B” = Fine performance, meeting my expectations. The ability to distinguish
+         outstanding from very good performance is undermined if everyone gets an “A,” so I
+         anticipate that a “B” will be the grade most frequently assigned.
+     “B-,” “C+,” or “C” = Performance that falls short of expectations. These grades should be
+         infrequent, but that being said, there is no such thing as an “automatic B” in the MPA
+         program. If you do not put in the effort necessary to attain a reasonable degree of
+         proficiency in attaining the course objectives, I cannot award you a “B.”
+     “C-,” “D,” or “F” = Performance that falls far short of expectations, usually reflecting lack
+         of sufficient effort. A failing grade can also result from severe cases of scholastic
+         dishonesty.
+Plus/Minus Grading
+                                                                                                    3
+
+
+HALLMAN                          AUDITING & ASSURANCE SERVICES                            SPRING 2019
+I award +/- grades in an approximately “GPA neutral” manner. What this means is that I award
+plus or minus grades for borderline cases at each grade cutoff (primarily the A/B cutoff), but I
+strive to do so in a way that does not significantly alter the grade-point average for the class as a
+whole. Thus, the number of students who get an A- instead of an A will be approximately equal
+to the number of students who get a B+ instead of a B.
+Examinations (two midterms worth 100 points each; final exam worth 120 points)
+Examinations will emphasize issues and concepts from the assigned readings, cases, lectures,
+and class discussion. I will post practice questions from previous semesters’ exams, although
+these these may not be representative of the current year exams (either in terms of subject matter
+or difficulty). Exams may involve a mixture of objective and written-answer formats.
+The two midterm examinations emphasize the material covered since the previous examination.
+The final examination is cumulative, emphasizing material covered after the second midterm
+along with reinforcing key concepts from earlier in the semester, as reflected on the midterm
+exams.
+Cases and Research Exercises (90 points)
+To refine written communication skills as well as judgment skills in dealing with a more realistic
+and less structured variety of auditing problems than can be found in a textbook, we will cover a
+few case exercises based on current policy issues and real-world applications.
+I value the interchange of ideas. Thus, in the formative stage of a case assignment, you are
+welcome to discuss an assigned case on the course discussion board that is available on Canvas.
+That being said, I also value individual accountability. Copying from another student’s prepared
+solution is scholastic dishonesty and will be dealt with accordingly. See the “Policy on
+Scholastic Dishonesty” later in this syllabus for clarification.
+Discussing cases is an important part of the course, so be prepared to discuss and defend your
+case responses in class. There may also be questions about the cases on exams. You are welcome
+to discuss and clarify case issues by posting to the discussion board on Canvas.
+The materials required to complete each case will be posted to Canvas on the due date of the
+previous case. The materials required to complete the first will be posted on the first day of class.
+All cases will be graded for depth of analysis, originality, quality of writing (if applicable), and
+professional impression. Some of these cases involve subjective issues for which multiple views
+can be defended. As in an accounting career, it is important to be both complete and concise.
+Cases will be graded primarily by the TAs. The TAs’ job will be to order the cases and assign
+grades based on a distribution which I dictate. If you have questions about your case grade, your
+first stop should be the TA that graded it.
+University Writing Center
+                                                                                                      4
+
+
+HALLMAN                           AUDITING & ASSURANCE SERVICES                          SPRING 2019
+If you experience difficulty with written assignments, consider scheduling a free appointment
+with a writing consultant at the UT-Austin University Writing Center (UWC). The UWC is one
+of the best student resources available, employing consultants who will work with you to
+improve your written assignments in ways that preserve the integrity of your work. For further
+details, see http://uwc.utexas.edu.
+Group Presentation – “Pick a Scandal” (90 points)
+The capstone project at the end of the semester will involve groups of four (or so) students. Each
+group will investigate a major accounting / auditing scandal (generally from 2000 to date) to
+identify (1) the underlying financial reporting issue(s), (2) what the auditors should have done
+differently, and (3) the consequences to management and to the auditors.
+Groups will present the results from these investigations in 20-minute presentations at the end of
+the semester (see course schedule later in this syllabus). Group member assignments will be
+determined randomly. Each group must also submit the PowerPoint or similar file used to
+facilitate their presentation, along with a list of references.
+Later in the semester, I will provide further details on this assignment and a list of suggested
+scandals.
+Content from these presentations is “fair game” in the final exam, so I advise you to avoid
+missing class when your classmates are presenting.
+Extra Credit for Participation and Effort
+To reward your attentiveness and participation, I reserve the right to award extra credit points
+based on my subjective (but honest) assessment of your performance. We will discuss the extra
+credit policy in more detail on the first day of class.
+Policy on Notifications via Email and via Canvas
+I will frequently post important announcements on our course Canvas site, so it is critical for you
+to monitor this resource before every class.
+In addition, when necessary, I will contact you by email, consistent with the UT-Austin policy on
+email as an authorized vehicle for official University communication. I may use your McCombs
+School of Business email address on the School’s “Address Book,” or I may use the email
+address registered on our course Canvas site, so if these accounts are different, please monitor
+both addresses.
+Student Safety and the Behavior Concerns Advice Line (BCAL)
+Nothing is more important than safety. Please see http://www.utexas.edu/safety to familiarize
+yourself with campus safety initiatives. Also see http://emergency.utexas.edu for emergency
+                                                                                                   5
+
+
+HALLMAN                          AUDITING & ASSURANCE SERVICES                        SPRING 2019
+notifications. Regarding behavioral issues, if you have concerns or are worried about someone
+who is acting differently, consider using the UT-Austin Behavior Concerns Advice Line to
+discuss your concerns. This service is provided through a partnership among the Office of the
+Dean of Students, the Counseling and Mental Health Center, the Employee Assistance Program,
+and The University of Texas Police Department (UTPD). Call 512-232-5050 or visit
+http://www.utexas.edu/safety/bcal. Of course, you are also welcome to discuss any concerns with
+me, and I will take appropriate action as determined on a case-by-case basis.
+Policy on Missed Examinations and Assignments
+My general policy is that medical emergencies, family emergencies, religious holidays, and
+university-sponsored conflicts are the only valid reasons for missing an examination or the due
+date of an assignment. For each such case, I require some form of supporting documentation,
+such as a signed note from a physician. At that point I will determine the best make-up
+alternative on a case-by-case basis, which could mean a make-up exam or recalculating the
+semester grade to omit the missed component, depending on circumstances. Examinations or
+assignments that are missed for other reasons will generally not be accepted. In the case of a
+conflict due to a university-sponsored event, you must notify me as soon as you are aware of the
+conflict and before the examination date or assignment due date.
+Religious Holidays: Consistent with the UT-Austin policy on Observation of Religious
+Holidays, I will work with students on a case-by-case basis to find a suitable make-up alternative
+in the event that a religious holiday conflicts with a scheduled examination or assignment due
+date. By policy, students must provide at least 14 days of advance notice.
+Policy on Students with Disabilities
+I do my best to accommodate students with disabilities. For more information, contact the UT-
+Austin Office of Services for Students with Disabilities (SSD) at 471-6259, or go to
+http://ddce.utexas.edu/disability/current-students/. If you have an SSD-registered
+accommodation letter, please see me with your letter to discuss the accommodations you need
+for this course. For SSD accommodations requiring additional examination time, students must
+provide a suggested block for the time authorized in the SSD letter between the scheduled
+business hours for the McCombs Testing Center of 8:30 a.m. to 4:30 p.m. on the date of the
+exam, or, if necessary, the day after the exam. Students must make SSD-related requests well in
+advance in order to ensure that accommodations can be made. Please note that the McCombs
+Testing Center can fill up during peak examination periods, so reservations at the requested
+date/time may not be possible without sufficient notice. SSD-related requests for exam
+accommodations must be made via email before each exam! If I don’t hear from you before a
+scheduled exam, I will assume that you do not wish an accommodation.
+Policy on Scholastic Dishonesty and Working Together on Course Assignments
+                                                                                                 6
+
+
+HALLMAN                          AUDITING & ASSURANCE SERVICES                         SPRING 2019
+The Master in Professional Accounting Program has adopted a Code of Conduct, a Career
+Services Code of Ethics, and a Policy Statement on Scholastic Dishonesty. It is important for you
+to be familiar with all three documents, which are available on the web at the following link:
+https://my.mccombs.utexas.edu/MPA/Student-Codes-of-Ethics
+The following statement applies to each class in the UT-Austin Department of Accounting:
+The Department of Accounting has no tolerance for acts of scholastic dishonesty. The
+responsibilities of both students and faculty with regard to scholastic dishonesty are
+described in detail in the department’s Policy Statement on Scholastic Dishonesty in the
+MPA Program (which includes the integrated five-year MPA program and the traditional
+MPA program). By teaching this course, I have agreed to observe all faculty
+responsibilities described in that document. By enrolling in this class, you have agreed to
+observe all student responsibilities described in that document. If the application of that
+Policy Statement to this class and its assignments is unclear in any way, it is your
+responsibility to ask me for clarification.
+In simple terms, integrity is a public good from which we all benefit. I view the above statement
+as a commitment to integrity, not as a threat against students. It is my intent to conduct this
+course in an environment of trust and cooperation. I can only achieve this goal if you join me in
+maintaining an atmosphere of absolute ethical integrity in this course and in our MPA program.
+We cannot afford to tolerate any less.
+Personal Policy on Working Together (applies only to this course):
+I believe that learning takes place through a healthy exchange of ideas. Therefore, for this class,
+you are welcome to discuss issues related to assigned cases and problems with other students.
+However, I expect the final product of each assignment to reflect your individual effort (with the
+exception of the capstone project that is assigned in groups). You may not copy or paraphrase
+from others’ solutions. Examples intended to clarify this policy follow:
+Examples of collaborative efforts that I welcome (applies only to this course):
+•    A student is confused about an ambiguous aspect of a case or homework problem, and asks
+     another student what s/he thinks.
+•    Students ask questions and share insights in the class discussion board. (This is appropriate
+     because everyone benefits.)
+Examples of collaborative efforts that I do not tolerate:
+• Student X completes a case before student Y (or in an earlier semester). Y asks X for X’s
+  solution. Y bases his/her solution on X’s solution, changing a few words here and there to
+  make it look original. This is an example of plagiarism, which takes advantage of student X
+  and does not evidence any meaningful learning on the part of student Y. Both X and Y are
+  guilty of scholastic dishonesty.
+                                                                                                    7
+
+
+HALLMAN                          AUDITING & ASSURANCE SERVICES                          SPRING 2019
+  In addition to the (sometimes subtle) changes I make to the cases each semester, students
+  should be aware that assignments required to be submitted online via Canvas may be analyzed
+  with a plagiarism-detection tool such as Turnitin.com. Turnitin.com is a software resource
+  intended to address plagiarism. The software works by cross-referencing submitted materials
+  with an archived database of journals, essay, newspaper articles, books, and other published
+  works. I also maintain a repository of completed cases submitted in prior semesters. Other
+  methods may also be used to determine originality. Plagiarism software is not intended to
+  replace or substitute for the faculty member’s judgment regarding detection of plagiarism.
+• A student finds a source relevant to a case or presentation and copies from it, without using
+  quotation marks, indentation, or other references to acknowledge the source. This is another
+  example of plagiarism, which is a clear instance of scholastic dishonesty.
+• A student completes a data related case and gives the solution file to another student. Blatant
+  copying of this nature is a serious form of scholastic dishonesty.
+• Any collaboration or breach of security on a course examination is scholastic dishonesty of the
+  most severe variety. Cheating on an examination can result in a significant academic penalty,
+  including the possibility of an “F” for the course.
+For more information on University policies and procedures regarding scholastic dishonesty, see
+the Student Judicial Services website at http://deanofstudents.utexas.edu/sjs/.
+When in doubt, you should always feel free to ask me.
+If you have read this far, thank you! The fact that you read 8 pages of syllabus material shows
+that you care about this class and want to succeed. History suggests that only about half of all
+students read the entire syllabus, so I want to give you a small token of my appreciation for being
+in that half. Accordingly, if you send Sam an email (his email address is listed at the top if the
+syllabus) with your name, UTID, and section in the subject line by Monday, January 28th, 2019,
+I will award you one extra credit point.
+                                                                                                   8

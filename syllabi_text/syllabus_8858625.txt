@@ -1,0 +1,732 @@
+                                                                                    1
+                University of Texas Honor Code
+The core values of The University of Texas at Austin are learning, discovery,
+freedom, leadership, individual opportunity, and responsibility. Each member of the
+university is expected to uphold these values through integrity, honesty, trust,
+fairness, and respect toward peers and community.
+                            ACC 310 F - WB
+                   Foundations of Accounting
+                                   Fall – 2018
+                     Unique #: 02280 & 02285
+                              Course Syllabus
+                         Instructor: May Wang
+                                                                                     1
+               ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                       2
+            Notice about the Course Syllabus
+This course syllabus is tentative. It represents my current plans and
+a timeline for the course, and it is subject to change (update). As
+we go through the semester, those plans, due dates or the timeline
+may change to enhance the class learning opportunity and to fit the
+course progress better. Such changes, communicated clearly to
+the class, are not unusual and should be expected. An updated
+course syllabus will be posted on Canvas once any change made to
+the course syllabus and/or the course schedule.
+It is students’ full responsibility to read the course syllabus
+thoroughly, to understand the course structure and the course
+policies (including course work, and course deadlines, etc.), and to
+conform to the course policies and procedures stated in this syllabus.
+Simply put, knowing what you are getting into (how the course is
+conducted) is one of the critical elements to succeed in the course.
+Thank you for your attention to this Notice!
+Your instructor,
+May Wang
+                                                                        2
+              ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                         3
+                    Instructor & TA Information
+Instructor Information:
+              Instructor:           May Wang
+              Office:               McCombs School of Business
+                                    CBA 6.204
+              Office Phone:         512 - 471 - 6092
+              Office Hours:         Mondays 4:00 pm to 5:30 pm (Tentative)
+              E-mail:               May.Wang@mccombs.utexas.edu
+              Course Site:          http://courses.utexas.edu
+TA Office Hour Information:
+  TA Name        Section:             TA Office            TA Office     TA Email &
+                 Unique #                Hour              Location        Contact #
+                               M: 11:00am to 12:30 pm   CBA 4.304A-C  cml3384@utexas.edu
+                  02280
+ Caroline Lee                                                            972-746-1964
+                  02285
+                                T: 3:30 am to 5:00 pm   CBA 4.304A-D
+                               Wed:11:00am to 12:30pm CBA 4.304A-D frannyfang@utexas.edu
+ Franny Fang      02280                                                  512-660-4407
+                  02285         Th.11:00am to 12:30pm RRH 2.220-D
+                                                                                          3
+                   ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                          4
+                Course Description & Objectives
+Course Description:
+This course provides an introduction to financial and managerial accounting, with
+emphasis on the content, interpretation, and uses of accounting reports. It discusses the
+determination and reporting of net income and financial position, and the theories
+underlying business financial statements; and consideration of managerial accounting
+topics designed to extend the student's knowledge to the planning and controlling of the
+operations of the firm. There are no course prerequisites for this class.
+The course is taught as a web-based course and conducted entirely through course site –
+Canvas. The course materials consist of 13 units, and the main topic for each unit is
+outlined in the “Course Schedule” section at the end of this course syllabus.
+The course materials are well-organized and laid out on Canvas, and the course set up is
+clear and easy to follow. The course has been receiving positive feedback and has
+become a popular and highly demanded course for students who desire to learn about
+the language of business (accounting) and the business world.
+Course Objectives:
+Upon successful completion of this course, each student will be able to:
+    Demonstrate an understanding of the role of accounting and its importance in
+       making effective and informed business decisions
+    Demonstrate an understanding of debit and credit rules and the accounting cycle
+    Demonstrate an understanding of the main financial statements
+    Demonstrate an understanding of the basics of accrual accounting
+    Apply forecasted financial statements to a business plan in order to help secure
+       funding for a business venture
+    Demonstrate an understanding of basic decisions that management must make to
+       run an effective and successful business.
+Flagged Course Statement:
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses
+are designed to equip you with skills that are necessary for understanding the types of
+quantitative arguments you will regularly encounter in your adult and professional life.
+You should therefore expect a substantial portion of your grade to come from your use
+of quantitative skills to analyze real-world problems.
+                                                                                           4
+                  ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                          5
+                      Required Course Materials
+Required Course Materials
+The course materials are the excerpts from selected textbooks, and the entire course
+materials are embedded in the course website – Canvas. No hardcopy of the textbook is
+required for the course.
+How to Access the Course Materials?
+This is an entirely web-based course, and the course materials (readings, exercises,
+practice problems and quizzes, etc.) have been embedded electronically within the UT
+Canvas learning management system – simply, Canvas. To access the course materials
+on Canvas, students who plan to take the course must meet certain requirements:
+     Students must complete a “Syllabus Quiz”, and
+     Students must compete “Course Policies Confirmation” statement, and
+     Students must pay for the course materials embedded on the Canvas via a portal
+       named as “Course Materials Fee” in “Modules” section on Canvas. The
+       payment link will be available to students once the course is published on the 1st
+       day of the class.
+Upon completion of these three requirements, students will be able to access the course
+materials throughout the semester. No additional bookstore fees/payments are required.
+No Refunds Warning: There are no refunds for the purchase of the course materials
+once you have paid for. Therefore, before you make a final decision to purchase the
+course materials, it is strongly suggested that you read the course document carefully –
+the syllabus, understand the course policies. It is your best interest to learn about the
+course before you make a purchase payment.
+Course Materials Purchase Support
+If you run into any problem paying for the course materials on the Canvas site, you
+should contact execed@mccombs.utexas.edu for help or call at 512-471-5893. Note that
+neither the instructor nor TAs will be able to address any questions about the purchase
+of the course materials.
+                                                                                           5
+                  ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                          6
+                             Course Communication
+Primary Communication Channel - Canvas
+The course site, Canvas is a Web-based course management system with password-protected access at
+http://canvas.utexas.edu/. To access the course website – Canvas, you will need a UT-EID and then
+simply follow the link above. Canvas will be the primary communication channel for the course. Once
+you purchase the course materials, you will have full access not only to the course materials but also to
+all of the course related communication/announcements, assignments and grades. It is each student’s
+responsibility to keep up with the course communication timely on Canvas throughout of
+semester.
+Please notice that under the default setting on your Canvas site, you will receive email notifications of
+all announcements posted by the instructor. Please make sure that your Canvas email notification
+switch is on so you do not miss any announcements about the course.
+Communication through Email
+The use of e-mail is required for the course, and your email address registered with the University will
+be used for the course communication. Please make sure that you have access to your email address,
+and you are expected to check e-mail on a frequent and regular basis in order to stay current with both
+University-related communications and with the course related communications. Please recognize that
+such communications may be time-critical.
+For this course, emailing to TAs or the instructor from Canvas inbox is not allowed. It delays
+communication. To ensure that our communication with students efficient, students must use your
+email address registered with the University for sending to and receiving emails from us (TAs and the
+instructor) for expediting feedback. Emails sent from Canvas Inbox to TAs and the instructor will
+not receive a response.
+Communication about the Course Materials:
+As an online course, following the proper channels of communication indicated in this syllabus is
+critical for an effective learning experience. Following channels are available for students who may
+ask questions related to the course materials.
+Visiting office hours – If you have questions about the course materials (reading materials and
+assignments), you are encouraged to visit TA’s office hours. We have two dedicated TAs who have
+solid knowledge base to address students’ questions. It is challenging to try to explain or walk through
+an accounting problem and solving process through an email. I suggest you to send a brief email about
+your questions to your TA prior to your visit so that your TA can plan ahead and to address your
+questions more efficiently during the office hours. Our TAs offer 4 times of office hours in total per
+week, which gives students a plenty of opportunities to ask questions and to get help you may need.
+Emailing your questions to TAs – If you cannot make it to your TA’s office hours, you can email
+your questions about the course materials or an assignment to your TA. To efficiently address your
+questions, your email to TAs must be brief, clearly written, and you must lay out your questions in a
+logic way.
+                                                                                                           6
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                          7
+                        Course Communication (continued)
+Communication about the course materials on Canvas - You may get answers for your questions
+from Canvas. If a question about course materials (readings or assignments) has been asked frequently
+by the class, your TAs may post an answer on Canvas so that the whole class can benefit! Therefore,
+visiting the course site regularly and staying connected with Canvas are crucial for this course.
+Questions Related to the Course Policy
+If you have questions about the course policy, you must first read and check your questions with the
+course syllabus and with announcements posted on Canvas. You need to make sure that you are not
+going to ask questions that have already been addressed. If you believe that your questions regarding
+the course itself or the course policies have not been addressed anywhere in the course syllabus or on
+Canvas, you can either visit the instructor’s office hours or email your questions to the instructor.
+24 Hour Turn-around Time Policy
+24 hours duration: When you email your TA or the instructor, please expect at least a 24 hour turn-
+around time. We appreciate your understanding that this is a large class, and we deal with a lot of
+students’ emails on a constant base besides our daily management of the course. Plus, TAs have their
+own intensive graduate school workloads and recruiting schedules, and mutual understanding is
+important. Our TAs have every intention to get back to students at the earliest time as their schedules
+will allow. An online course offers great flexibility but also requires self-discipline to be successful.
+For those of you who expect a timely response from TAs, it highly suggested that you email your
+questions to your TA at least two days before a due date for a unit. Waiting until the last second before
+a due date to ask questions is not suggested and may end up receiving no timely response from your
+TA about your questions about the course materials.
+Do not send your question at last minute: Any “last minute” questions (before a due date) about any
+assignments may not be addressed as you must give TAs 24 hour cushion/turn-around time to get back
+to you. The “last minute” refers to sending your questions to TAs during the last 24 hours before a
+due date. For example, if a deadline is on Wednesday at 11:59 pm, then, the latest time you need to
+email your questions to your TA is on Tuesday before 11:59 pm.
+Follow the Communication Policies
+To manage a course with a large amount of students more efficiently, you are expected to show respect
+for both TAs and the instructor’s time by communicating more effectively, and you are expected to
+follow the course policies stated in this syllabus. We emphasize these policies to serve only one
+purpose - utilizing our time to the maximum and to serve more students.
+Once again, for students who want to succeed in the course, it is critically important to know the
+course policies and to follow the course policies. To put it simply, emails that demand for anything that
+is against the course polices will not receive a response. We only can achieve our learning objectives
+by conforming to the course policies and by working together. So, staying organized, following the
+course polices, meeting deadlines, and communicating effectively are critical aspects for achieving
+better results for your performance.
+                                                                                                           7
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                         8
+                          Course Communication (continued)                           .
+The good news is that based on my experience teaching this course, more than 95% students respect
+the course policies, study the course polices seriously on the day one, keep up with the course pace
+over the semester, perform very well in the course, and happily graduate from the course. So, cheer up
+and get ready for a great semester!
+Communication/Canvas Support:
+For this online course, it is critical to make sure that you have access to Canvas all the time and that
+your internet connection is reliable. It is your responsibility to secure your access to Canvas with a
+secured and reliable internet connection. If you run into any issues with Canvas or the internet
+connection, it is your responsibility to contact and seek help timely from Canvas Support.
+Canvas Support: UT Austin has contracted Instructure, the company behind Canvas, to provide Tier 1
+support for all UT faculty, staff, and students. You can access this 24/7/365 support through the help
+menu in the lower left corner of the Canvas interface (see below).
+There are two choices for this support, phone for “Canvas Support Hotline” or “Chat with Canvas
+Support”. The chat option will provide you with the option to have your completed chat session
+emailed to you in digest form for future reference.
+Note: Please do not send any email regarding Canvas issues and your internet issues to the TAs or the
+instructor since we have no control over them, and Canvas Support is the right source from which to
+seek help.
+                                                                                                          8
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                          9
+                                        Office Hours
+TA’s Office Hours
+We have two dedicated TAs assigned for the course to assist students. Our TAs are graduate students
+(Master in Professional Accounting) who are competent, motivated, and ready to help students
+throughout the course. Each TA will provide office hours twice per week for total of 4 times per week.
+This will give students plenty of opportunities to visit the TA’s office hours and to get the help they
+may need. I suggest to email your questions briefly to your TA prior to your visit. In this way, your TA
+will be able to plan ahead, more efficiently address students’ questions, and help more students during
+their office hours.
+During the semester, you are welcome to provide feedback to the instructor about how our TAs are
+doing in assisting students. With your feedback, both TAs and I will make adjustments to better help
+you. Our TAs provide valuable resources to assist you, and it is up to you to utilize such resources. I
+encourage you to make effort and to work with your TA to enhance your performance when needed.
+Instructor Office Hours
+Besides TA office hours, the instructor will also hold office hours once a week over the semester. You
+are welcome to visit my office hours for questions about the course policy, course set up, learning tips,
+any concerns you may have about your study, or any feedback you might have about the course.
+If you encounter difficulties in your study during the semester, you are welcome to visit my office
+hours. I will be glad to help you identify issues and to help you make progress instead of seeing you
+falling behind. Further, the instructor is dedicated to oversee and manage the entire course, to monitor
+and review the course materials and the class performance, to open and set up deadlines for course
+work, to help students with their leaning experience, to make sure the class will run orderly, fairly and
+smoothly. Therefore, your consideration for the instructor’s time is greatly appreciated. That is why
+that we have dedicated TAs to especially help students with the course materials related questions.
+                                                                                                           9
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                       10
+                         Course Work & Evaluation
+Course Work & Percentage Allocation:
+                                                                              Percentage
+                          Course Work                        Points
+                                                                             Weighted
+         Syllabus Quiz & Course Policies Confirmation
+                                                                20                2%
+         Purchase Course Materials
+         Practice Exercises                                    100               10%
+         Ribs on the Run Exercises                             100               10%
+         Unit Quizzes                                          400               40%
+         Prerequisite quiz for the final exam                   10                1%
+         Comprehensive Final Exam                              100               37%
+                 Total Percentage for Grading                  730              100%
+Notice:
+It is very important to know each type of the course work and to know the deadlines and course
+policies related to each type of the course work. That is why you need to pay a close attention to the
+next section of this syllabus, which describes each type of course work and states all the course
+policies for them. So, read thoroughly!
+                                                                                                       10
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                           11
+                Course Work Description & Polices
+Syllabus Quiz
+The course syllabus is the course official document and a contract between the course and students.
+Taking and passing the syllabus quiz is to ensure that everyone in the course will follow the course
+policies and will learn and compete for a better performance on an equal field. The detailed
+instructions called “Be prepared to take the Syllabus Quiz” will be posted on Canvas so that
+students know why and how to take the syllabus quiz. Make sure that you read such instructions
+thoroughly and carefully before you take the syllabus quiz. Fifteen points are assigned to the syllabus
+quiz, which is a part of your overall grades.
+Completion of “Course Policies Confirmation” Statement
+Once you complete and pass the syllabus quiz, the next step is to complete the “Course Polices
+Confirmation Statement”. Four points are assigned to this confirmation statement. The confirmation
+statement simply serves as your signature just like you signed your name on the course syllabus, which
+is the contract between the course and a student. It is quite simple.
+Practice Exercises
+Practice Exercises in nature are the homework for each unit, and they provide opportunities for you to
+reinforce and evaluate your understanding of the material. Your grades for the Practice Exercise are
+based on accuracy and timely submission, and you receive points for each correct answer. You are
+provided with following practice exercise policy that gives you an advantage and a plenty time to work
+and complete them.
+       Availability: Practice exercises for each unit will be available as each unit will be published to
+        the class. For each unit, you will have about a week to study materials and complete practice
+        exercises.
+       Due date: Practice exercises for each unit are due on the following Wednesday before 11:59
+        pm (see due date for each unit in the section “Course Due Dates” of this syllabus).
+       Time limitation for each practice exercise: None
+       Number of attempts: You will have three attempts to submit each practice exercise. Of these
+        three attempts, the highest score will be factored into your final grade.
+       Availability of correct answers: You will be able to view correct answers after the last
+        attempt.
+       If you miss submitting a practice exercise by its due date, you will receive “zero” for that
+        practice exercise. No late work will be accepted under any circumstance, and NO make-up
+        attempts are offered for any missing assignment.
+       Accurate and independent completion of the practice exercise is critical to your success on
+        subsequent assignments and to your overall performance for the course.
+       Your performance on Practice exercises is worth 10% of your final grade.
+                                                                                                           11
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                         12
+             Course Work Description & Polices (continued)
+Ribs on the Run Exercise
+There is a Ribs on the Run Exercise for each unit, and this exercise in nature is also homework,
+which provides you with an opportunity to apply the content presented in each unit. Your grade for
+each Ribs on the Run exercise is based on accuracy and timely submission, and you receive points for
+each correct answer. The following is the policy for Ribs on the Run exercise.
+       Availability: Ribs on the Run exercise for each unit will be available as each unit will be
+        published to the class. For each unit, you will have about a week to complete the Ribs on the
+        Run exercise.
+       Due Date: The Ribs on the Run exercise for each unit is due on the following Wednesday
+        before 11:59 pm (see due date for each unit in the section “Course Due Dates” of this syllabus).
+       Time limitation for each exercise: None
+       Number of attempts: You will have two attempts to submit each Ribs on the run exercise. Of
+        these two attempts, the highest score will be factored into your final grade.
+       Availability of correct answers: You will be able to view correct answers after the last
+        attempt.
+       If you miss submitting a Ribs on the Run exercise by its due date, you will receive “zero” for
+        the exercise. No late work will be accepted under any circumstance, and NO make-up
+        attempts are offered for any missing assignment.
+       Accurate and independent completion of the Ribs on the Run exercise is critical to your
+        success on subsequent assignments and to your overall performance for course.
+       Your performance on Ribs on the Run exercises are worth 10% of your final grade.
+Unit Quizzes
+Each unit has a unit quiz to test your understanding of the materials. Each unit quiz may consists of
+multiple-choice questions or true or false questions on concepts covered in the unit. Unlike the
+homework assignments, you are only allowed one attempt for each unit quiz. So, be sure to start it only
+after you have thoroughly completed and reviewed all of the unit content and are comfortable with the
+concepts. Once you submit your answers, you will not be able to edit them. Your grade for each unit
+quiz is based on accuracy and timely submission, and you receive points for each correct answer.
+Please read the following policy carefully regarding taking a unit quiz:
+       Availability: The unit quiz for each unit will be available on each Wednesday at 8:00 am, and
+        you will have a whole day on each Wednesday to complete the unit quiz.
+       Due Date and Time: The Unit Quiz is due on each Wednesday before 11:59 pm (see due date
+        for each unit in the section “Course Due Dates” of this syllabus).
+       Time limitation: Time for each unit quiz is limited and varies depending on materials tested
+        and difficulty level of each unit quiz, approximately from 15 minutes to 20 minutes.
+                                                                                                         12
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                          13
+             Course Work Description & Polices (continued)
+      Warning: A reliable internet connection is required and critical, and is your responsibility.
+       Please use a long-standing proven connection and test it before starting unit quizzes. Time
+       begins the moment you start a Unit Quiz and runs continuously; there is no way to pause it,
+       including loss of connectivity or logging out, and there are no make-ups if you missed a unit
+       quiz due to any issues related to the internet connection. A late submission or a missing unit
+       quiz due to a connection failure are not an excuse for retaking a unit quiz. So, it is critical to
+       plan accordingly. For an online course, not paying attention to such policy will negatively
+       impact your performance. A student who assumes that he or she could bargain for a make-up
+       unit quiz when encountering an internet issue only puts his or her performance at risk.
+      Number of attempts allowed: Only one attempt is allowed for taking a unit quiz. Once you
+       submit your answers, you will not be able to edit them. Remember, this is a test for each unit,
+       and it tests whether you really understand the materials covered for each unit.
+      Resources you may use: Written and digital materials, a calculator, and a self-created note
+       sheet. Warning: Direct or indirect assistance from any individual is STRICTLY
+       PROHIBITED and is an unequivocal violation of the McCombs School of Business Code of
+       Ethics and University’s policy on Academic Dishonesty and Cheating.
+      Warning: Your ability to use the allowed resources is constrained by the time limit, and you
+       are only allowed one attempt for each Unit Quiz. Therefore, it is strongly RECOMMENDED
+       that, in addition to diligent review and practice before taking each Unit Quiz, you make your
+       own notes for use during the time you take each Unit Quiz—it is an excellent aid for reviewing
+       the material, taking the quizzes, enhancing your performance.
+      Availability of correct answers: You will be able to view answers for each unit quiz after its
+       due date but within 24 hours.
+      If you miss submitting a unit quiz by its due date, you will receive “zero” for the unit quiz. No
+       late work will be accepted under any circumstance and NO make-ups for any missing unit
+       quiz.
+      No questions answered policy: During a unit quiz time (Wednesday from 8:00 am to 11:59
+       pm), any questions related to a unit quiz will not be answered.
+      Your performance on Unit Quizzes is worth 40% of your final grade.
+Prerequisite Quiz for Final Exam
+To make sure that students are fully aware of the processes and policies about Proctor U system, and to
+make ensure that students are well prepared for taking the final exam within the Proctor U system, a
+prerequisite quiz must be taken and passed in order to move on for taking the final exam. This quiz
+will be set up on the course site – Canvas, and it will be given after completing all of the course
+materials (after unit 13 is covered).
+                                                                                                          13
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                          14
+             Course Work Description & Policies (continued)
+Comprehensive Final Exam
+Thirty-seven percent of your total grade is allocated to a comprehensive final exam, which covers all
+13 units included in the canvas course material. The type of questions on the final exam will be
+multiple choice questions. The final exam will be proctored with a time limit. You will be given
+flexibility to schedule for your final exam in a two-day window and to take the final exam at your
+scheduled date and time. Students must take the final exam during the final exam window (see course
+schedule). The final exam will test your solid understanding of the course materials and also will test
+your ability to apply the concepts, teams, basic accounting topics you have learned from the course to
+solving problems. Therefore, understanding the course materials is critical for preparing for the final
+exam. The following is some basic information about the final exam.
+Preliminary information about the final exam and about Proctor U
+The following is some basic information about the final exam:
+       The final exam will be given approximately 2.5 to 3 hours, and you will have plenty time to
+        complete the final exam.
+       The final exam will be closed-book and will be all multiple choice questions.
+       The final exam will be set up on Canvas, and you will be taking the final exam on Canvas just
+        like you take a unit quiz.
+       The final exam will be given in a two-day window (see the course schedule), and you will be
+        able to schedule your exam on one of these two days.
+        The final exam will be proctored by Proctor U, a user-friendly proctoring system and a live
+        online proctoring service that allows you to take your exam from your home or a comfortable
+        place. The detailed information about how Proctor U work and, and how to set up an account
+        with Proctor U will be posted on Canvas (includes videos) later the semester. Once again that
+        you will be well-informed about Proctor U system and about how to use the Proctor U system
+        for your final exam.
+Therefore, you will have great flexibility to schedule for your final exam during the scheduling time
+and the great flexibility to take the final exam at your scheduled final exam time. It works simple, and
+it works pretty well. So, relax!!
+No Extra Credit Policy
+       There are No extra credit activities. The points you earn across assigned all course work will
+        result in your final course grade.
+       There will be No opportunity to raise your course grade by asking for or doing any “extra
+        credit” work during or after the end of the semester—that would violate University policy.
+Numbering Convention Policy for all Assignments
+An essential part of accounting is precision. In this course, you need to be precise in the way you enter
+your answers on Canvas; otherwise, they will not be counted as correct. The proper format is:
+                                                                                                          14
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                          15
+            Course Work Description & Policies (continued)
+       No dollar sign
+       Commas between every three digits
+       No decimal and no digits beyond a decimal point. (All answers are integers.)
+       Negative numbers denoted by parentheses, not a minus sign. (This is an accounting
+        convention.)
+For example, if your answer to a question is eight hundred thousand dollars, the correct way to enter
+this number for full credit is: 800,000. The followings will be considered incorrect and you will not
+receive the full credit. $800,000, $800,000.00, $800000, $800000.00, $800,000.00, 800,000.00,
+800000, 800000.00, and 800,000.00. You get the idea.
+The grading for all assignment will strictly follow this numbering convention.
+Accommodation Policy for the Course:
+In order to be accommodated for unit quizzes and for the final exam, a student must provide a
+university official document of accommodation from SSD office, and you must submit/send the
+document in PDF to the instructor. The accommodation starts being applied to a unit quiz or to the
+final exam only after the instructor receives and reviews the documentation from a student.
+       For students who plan to have an accommodation (an extra time) for the unit 1 quiz, you must
+        provide and submit the university official documentation the latest by Sept. 10th.
+       If a student asks for an accommodation for a unit quiz or for the final exam without a university
+        official document, his or her email will not be responded.
+       Students who submit the university official documentation and who are eligible for
+        accommodation do not need to inform the instructor about your accommodation for each unit.
+        We will set up the accommodation for you as each unit quiz becomes available.
+       If a student is eligible for the accommodation but encounter any issue with your
+        accommodation time, it is your responsibility to inform the instructor as soon as possible.
+Important notice: The application of the accommodation is not retroactive! What does this mean? For
+example, a student will not be allowed to demand an accommodation (extra time) for unit 1 or unit 2
+quiz when the student provides the office documentation after the course has already completed the
+unit 1 or unit 2 quiz.
+                                                                                                          15
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                           16
+                                      Grading Policy
+Principle Grading Policy
+The ACC 310F-WB course has adopted the University’s plus/minus grading as the standard for
+grading bass. The faculty believes that plus/minus grading permits us to better distinguish gradations in
+performance and provides better feedback to students on their performance.
+Further, The McCombs School of Business has set grading guidelines for this course such that the
+final class grades will fall such that the class average will be in the range of 3.0 – 3.2 at the end of
+the semester. If the overall class average is out of the range, the final class grades will be adjusted
+accordingly. As the McCombs School faculty, I conduct this course by strictly respecting and
+following such grading guidelines.
+You may estimate your performance during the semester based on the traditional grade cutoffs of 90%
+= A-, 80% = B-, 70% = C-, 60% = D-, and below 60% = F. (Notice that under the plus/minus system
+an undergraduate student needs a D- or better to receive credit). Warning: These cutoffs are only used
+as a reference point for you to estimate your grades over the semester, and they are not associated with
+the final grades cut-offs nor with your final grades. Further, it does NOT give students any justification
+for negotiating grades.
+Based on the principle of grading policy, a student’s performance/final grade is measured against the
+class overall performance. In other word, a student’s final grades will be contingent upon the class’s
+overall performance. Under the principle grading policy, the instructor will have final discretion and
+authority to determine the final class grade cut-offs in order to achieve the average final grade range of
+3.0 to 3.2, and such decision will be made after thoroughly reviewing the class performance and after a
+careful consideration of the overall class performance. Therefore, there is no way to know the exact
+cut-off for the final letter grades during the semester until after the course is completed and until the
+course performance will be reviewed. Both TAs and the instructor will not be able to tell you the final
+grades cut-off during the semester, and emails questioning about the final cut-off will not receive a
+response during the course.
+Check Your Grades:
+Canvas automatically grades assignments submitted by students, and the grades for each assignment
+are available on Canvas as soon as an assignment is submitted (used up all allowed attempts).
+Therefore, students can view their grades on Canvas in “Grades” Section all the time. Canvas grade
+section indicates possible points assigned for each assignment and the points a student has earned.
+Students are fully responsible for checking their own grades, and you should check your grades right
+after each grading is up for an assignment on Canvas (right after each assignment is submitted at its
+last attempt). Canvas management system grades all assignment accurately.
+If you have questions about your grades, you must communicate with your assigned TA within a week
+after a unit is closed. Do not wait until the end of the semester to question your grade components,
+and such inquiry is unreasonable and will not receive a response. Any last minute inquiries about
+grading will not be justified nor addressed since timely managing grades for the course is a critical part
+of management of the course that has a large amount of students. We need your support and
+cooperation!
+                                                                                                           16
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                        17
+                                      Grading Policy
+Notice: The deadline for addressing grade related questions for each unit is within a week after a unit
+is closed, and this deadline must be strictly applied to students.
+Before you make an inquiry about your grade, you must double check your grade on Canvas and make
+sure that you have solid reason(s) for your inquiry. When a student makes an inquiry by an email, you
+must clearly indicate which unit and specific assignment you are inquiring. Further, your email must
+be brief, clear, and to the point so that your TA can understand your inquiry, quickly review your
+grades, and get back to you.
+Incomplete Policy:
+Incompletes will be given only in the RAREST of circumstances and only in accordance with
+university policy. There will be no opportunity to raise your course grade by doing “extra credit” work
+during or after the end of the semester—that would violate University policy.
+No Rounding Policy
+Notice that there will be No grading percentage rounding: For example, if you have earned a total of
+89.9999%, your estimated letter grade would be a “B+” based on the estimation reference point of the
+traditional cut-off, which means that 89.9999 % is NOT rounded up to 90.0%. Once again, this “B+” is
+an estimate before we know the exact cut-off for the final class grades. No rounding policy is strictly
+applied to the course, and no negotiation of rounding grades is allowed.
+                                                                                                        17
+                      ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                          18
+              Tentative Course Due Dates & Polices
+Due Dates:
+You may complete each unit as soon as you wish during the time it is available to the class. But
+meeting the following due dates for all units are critical for completing the course. The following are
+due dates by which all assignments must be completed for each unit as shown below (The due dates
+are also indicated in the course schedule at the end of this syllabus). Notice that course schedule and
+due dates are subject to change! You will be informed of any change.
+                                                Assignments for each unit—Complete the Practice
+               Due Date and Time
+                                                   Exercises, Ribs on the Run Exercises, and Unit
+               CT = Central Time
+                                                                     Quizzes for:
+     Wed, Sept. 12 11:59 PM (CT)                                       Unit 01
+     Wed, Sept. 19, 11:59 PM (CT)                                      Unit 02
+     Wed, Sept. 26, 11:59 PM (CT)                                      Unit 03
+     Wed, Oct. 03, 11:59 PM (CT)                                       Unit 04
+     Wed, Oct. 10, 11:59 PM (CT)                                       Unit 05
+     Wed, Oct. 17, 11:59 PM (CT)                                       Unit 06
+     Wed, Oct. 24, 11:59 PM (CT)                                       Unit 07
+     Wed, Oct. 31, 11:59 PM (CT)                                       Unit 08
+     Wed, Nov. 07, 11:59 PM (CT)                                       Unit 09
+     Wed, Nov. 14, 11:59 PM (CT)                                       Unit 10
+     Tue, Nov. 20, 11:59 PM (CT)                                       Unit 11
+     Fri, Nov. 30, 11:59 PM (CT)                                       Unit 12
+     Fri, Dec. 07, 11:59 PM (CT)                                       Unit 13
+     Thu, Dec.13                                            Comprehensive Final Exam
+     Fri, Dec.14                                            Comprehensive Final Exam
+Note: Details about final exam time on each of the exam day will be posted on Canvas. You will be
+well-informed about the final exam details. You need to check Canvas timely.
+Emphasis on Due Date Policy:
+       As an online course, you have flexibility to complete your study for each unit at your own pace
+        as soon as each unit is published until the due date for that unit. Any assignment that has not
+        been completed by its due date will receive zero points.
+       Due to the time limit for each unit quiz, you should plan ahead for some time that fits your
+        schedule to complete each unit quiz. Again, failure of internet connection will not be an
+        excuse to re-take the unit quiz. It is your responsibility to plan ahead, to test your internet
+        connection, and to submit each unit quiz on time.
+       I strongly suggest that you access the course site at least 4 to 5 times per week and to spend at
+        least 8 to 10 hours per unit. By doing so you will be able to actively participate, complete your
+        assignments, and access announcements in a timely manner. Overall, you want to keep up with
+        the course pace and work diligently to ensure your performance
+                                                                                                          18
+                     ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                            19
+             Tentative Course Due Dates & Polices (continued)
+Late Assignment Policy
+        No late assignments: All assignments close at due dates indicated in the “Due Dates” table
+         above. Therefore, assignments cannot be submitted after a due date/deadline, even 1 second
+         after the deadline. Therefore, please give yourself sufficient time to comfortably complete all
+         assignments, and make sure that your internet connection is reliable!
+        No time extensions: There are no time extensions for course activities, including Practice
+         Quizzes, Ribs-on-the-Run exercises, and Unit Quizzes. As a self-paced course you can
+         manage your time to make assignment deadlines. Please allow for a time cushion in completing
+         your assignments … do not wait until a minimum expected time before the due date to get
+         started. It is highly recommended that this cushion is days, not hours, to allow for any
+         unexpected events.
+        Bad internet connections or other technical problems: A bad internet connection or other
+         technical problems with your system are not justification for a missed assignment. You should
+         confirm your connection by starting activities with ample time to address connection issues
+         before the deadline. This is especially important if you are not using a familiar and proven
+         connection, for example, when you are traveling.
+        Possible make up due to sickness: 1) if a student misses an assignment due to the sickness, it
+         is the student’s responsibility to inform the instructor and to provide a doctor's note. 2) If a
+         student is sick and provides a doctor’s note that covers a sick date (dates), upon reviewing the
+         doctor notes, the student may be allowed to make up a missing assignment. 3) If a student
+         missed an assignment due to an emergency situation, it is the student’s responsibility to inform
+         the instructor at the earliest time and to provide a proof for the emergency situation in order to
+         be considered for a makeup assignment. 4) Any proof or a doctor’s note provided by a students
+         must covers the dates that are lined up with an assignment outstanding date and its due date. 5)
+         A student must inform the instructor at the earliest time and must provide any proof and a
+         doctor’s note timely (within a week when a unit is closed).
+        Again, it is your responsibility to start early, to give yourself days of time ahead to avoid any
+         unexpected issues, to seek help from 24/7 Canvas support if you need, and to meet the course
+         due dates.
+Dropping the Course:
+It is a student’s responsibility to drop a course. Students must go through the official procedures to
+drop the course. A student who stops attending the class and fails to officially drop will receive a
+grade of F.
+Consult the Academic Calendar on the Registrar’s website (http://registrar.utexas.edu/calendars/) for
+specific deadlines.
+Reminder: Number 1st, Thursday: Last day an undergraduate student may, with the dean’s approval,
+withdraw from the University or drop a class except for urgent and substantiated, nonacademic
+reasons. (It is your responsibility to check the university calendar and to confirm this date).
+                                                                                                            19
+                      ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                           20
+                        University Notices & Policies
+Use of E-mail for Official Correspondence to Students
+All students should become familiar with the University's official e-mail student notification policy. It
+is the student's responsibility to keep the University informed as to changes in his or her e-mail
+address. Students are expected to check e-mail on a frequent and regular basis in order to stay current
+with University-related communications, recognizing that certain communications may be time-
+critical. It is recommended that e-mail be checked daily, but at a minimum, twice per week. The
+complete text of this policy and instructions for updating your e-mail address are available at
+http://www.utexas.edu/its/help/utmail/1564
+Electronic Class Rosters
+Password-protected class sites will be available for all accredited courses taught at The University.
+Syllabi, handouts, assignments and other resources are types of information that may be available
+within these sites. Site activities could include exchanging e-mail, engaging in class discussions and
+chats, and exchanging files. In addition, class e-mail rosters will be a component of the sites. Students
+who do not want their names included in these electronic class rosters must restrict their directory
+information in the Office of the Registrar, Main Building, Room 1. For information on restricting
+directory information see: http://www.utexas.edu/student/registrar/catalogs/gi02-03/app/appc09.html
+Academic Integrity – University of Texas at Austin
+Students of the University of Texas and this course may not share or distribute materials that could be
+an advantage to another current or future student. Violations are indefensible acts of scholastic
+dishonesty. For more on the University of Texas policy of Academic Dishonesty and Cheating, follow
+the link at http://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline-and-
+conduct/
+Code of Ethics – McCombs School of Business
+The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The
+responsibilities of both students and faculty with regard to scholastic dishonesty are described in detail
+in the BBA Program’s Statement on Scholastic Dishonesty at
+http://www.mccombs.utexas.edu/BBA/Code-of-Ethics.aspx.
+By teaching this course, I have agreed to observe all faculty responsibilities described in that
+document. By enrolling in this class, you have agreed to observe all student responsibilities described
+in that document. If the application of the Statement on Scholastic Dishonesty to this class or its
+assignments is unclear in any way, it is your responsibility to ask me for clarification.
+Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University. Since dishonesty
+harms the individual, all students, the integrity of the University, and the value of our academic brand,
+policies on scholastic dishonesty will be strictly enforced. You should refer to the Student Judicial
+Services website at http://deanofstudents.utexas.edu/sjs/ to access the official University policies and
+procedures on scholastic dishonesty as well as further elaboration on what constitutes scholastic
+dishonesty.
+                                                                                                           20
+                      ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS
+
+
+                                                                                                            21
+                     University Notices & Policies (continued)
+Students with Disabilities
+Students with disabilities may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://www.utexas.edu/diversity/ddce/ssd/.
+Diversity and Inclusion
+It is my intent that students from all diverse backgrounds and perspectives be well served by this
+course, that students’ learning needs be addressed and that the diversity that students bring to this class
+can be comfortably expressed and be viewed as a resource, strength and benefit to all students. Please
+come to me at any time with any concerns.
+Religious Holy Days
+This is a self-paced course. Each student is responsible for managing her or his time to avoid conflicts
+between coursework and religious holidays of individual relevance. Accordingly, assignment due dates
+will not be modified for religious holidays.
+Campus Safety
+Please note the following key recommendations regarding emergency evacuation, provided by the
+Office of Campus Safety and Security. More info at: https://preparedness.utexas.edu/.
+       Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+        buildings and assemble outside when a fire alarm is activated.
+       Familiarize yourself with all exit doors of each classroom and building you may occupy.
+       If you need evacuation assistance, inform the instructor in writing ASAP.
+       In the event of an evacuation, follow the instruction of faculty or class instructors.
+       Do not re-enter a building unless given instructions by Austin or UT police or fire authorities.
+Behavior Concerns Advice Line (BCAL):512-232-5050 or on-line.
+If you are worried about someone who is acting differently, you may use the Behavior Concerns
+Advice Line to discuss by phone your concerns about another individual’s behavior. This service is
+provided through a partnership among the Office of the Dean of Students, the Counseling and Mental
+Health Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police
+Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal
+In case of emergency, further information will be available at: http://www.utexas.edu/emergency.
+Note: This course schedule is subject to change according to the course progress!
+                                                                                                            21
+                      ACC 310 F - WB – FALL 2018 – MAY WANG – COURSE SYLLABUS

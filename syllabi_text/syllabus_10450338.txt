@@ -1,0 +1,191 @@
+Linguistics 344k, Summer 2020
+                     Phonetics: Production and Perception of Speech Sounds
+                      Linguistics 344k, Summer 2020, Unique Number 81155
+                 Asynchronous Lectures: Monday, Wednesday, Friday 10:00-11:30
+                 Synchronous Class Meetings: Tuesday and Thursday 10:00-11:30
+Instructor:     Laura R. Faircloth                      Office Hours: MWF 10:30-11:30
+                lrfaircloth@utexas.edu                                  subject to change
+                                                                        (and by appointment)
+Rationale: This class focuses on the sounds of speech in human spoken languages. We will
+examine three main domains: the articulation of speech sounds, the acoustics of speech sounds,
+and the perception of speech sounds. Then, we will discuss how the field of phonetics impacts
+other areas of linguistics, such as dialect variation. This course is also focused on understanding
+the scientific method and how it is used in linguistics.
+Format: This course is a combination of lectures, discussion, and in-class labs. Lectures will be
+delivered asynchronously through Canvas on Mondays, Wednesdays, and Fridays. Each day will
+have a module consisting of video lectures with graded practice problems and questions. The
+instructor will be available for assistance as well. Synchronous labs and discussions will be held
+via Zoom on Tuesdays and Thursdays. Students are expected to attend these meetings to enhance
+their learning of the topics from the lectures. Students will be evaluated through a midterm test,
+homework assignments, in-class labs, and a final project. There are no prerequisites.
+Textbook: There are two required textbooks (listed below). There will also be supplementary
+readings posted on canvas. Complete the reading by the class specified in the syllabus.
+Ladefoged, Peter, and Sarah Ferrari Disner. Vowels and Consonants. 3rd ed. Malden, MA:
+        Wiley-Blackwell, 2012.
+Reetz, Henning, and Allard Jongman. Phonetics: Transcription, Production, Acoustics, and
+        Perception. Blackwell Textbooks in Linguistics 22. Oxford, United Kingdom: Blackwell
+        Publishing, 2009.
+                                         Course Procedures
+        Attendance and Participation Policy: Students must attend all synchronous discussions
+and labs as well as completing all asynchronous lectures and activities. You will learn the most
+by participating in both, and you are responsible for the material in the lectures and in the
+readings. If you miss a class, you are responsible for getting the material from classmates.
+        Religious Holy Days: By UT Austin policy, you must notify me of your pending absence
+and the date of observance of a religious holy day as far in advance as possible. If you must miss
+a class, an examination, an assignment, or a project in order to observe a religious holy day, I
+will give you an opportunity to complete missed work within a reasonable time after the absence.
+        Classroom Behavior: Observe normal classroom etiquette during Zoom meetings. This
+includes managing your environment and avoiding distractions for you and your classmates.
+        Canvas: Asynchronous lectures and synchronous Zoom meetings are all run through
+canvas. Additionally, I use Canvas to post lectures, assignments, grades, and readings. I will use
+the Canvas announcement system to communicate with the class- make sure that you check these
+regularly. (You can change the settings in Canvas to send you an email when announcements are
+posted) URL: http://canvas.utexas.edu
+                                                                                                    1
+
+
+Linguistics 344k, Summer 2020
+        Email: You must regularly check your university email, ideally at least once a day. Please
+use my email address, listed on the top of the syllabus, to contact me instead of the Canvas email
+system, which is unreliable. I answer emails in a timely fashion (24 hours during the week, 48
+hours on the weekends), but do not expect an immediate response.
+                                             Assignments
+Grading Procedures: Grades are based on participation in the course, homework assignments,
+in-class lab assignments, one exam, and a final project. When a grade is posted on Canvas,
+questions about the grade must be asked within one week. After that time, I will discuss the
+material on the assignment but not the grade itself.
+        Participation (discussions and module quizzes): 6%
+        Homework: 10% (4 total, 2.5% each)
+        Labs: 10% (5 total, 1.66% each)
+        Article Worksheets: 4% (4 total, 1% each)
+        Midterm Exam: 10%
+        Final Project: 60% (divided, see project handout)
+Final Grades: Your letter grade will be determined by your overall final grade. This course
+grades on a +/- scale.
+ A      93-100              B     83- 86.99          C       73-76.99          D     63-66.99
+ A-     90-92.99            B-    80-82.99           C-      70-72.99          D-    60-62.99
+ B+     87-89.99            C+    77 -79.99          D+      67-69.99          F     0-59.99
+Late work: Late work will not be accepted except under extenuating circumstances. In such
+events, you must contact me before the due date to make alternative arrangements. Late
+discussion worksheets will not be accepted under any circumstances because they will be
+discussed in class.
+        Participation: The online modules will include short quiz questions to help you engage
+with the material. These are worth 3% of your grade, and are due before the next class session.
+Participating in the in-class discussions is worth 3%.
+        Homework: There will be four homework assignments that will be posted on Canvas.
+You will submit a typed, pdf document via canvas by midnight on the day the assignment is due.
+An incomplete assignment is better than none.
+        In-Class Labs: There will be a total of five in-class lab assignments. These will be
+conducted during class time in small groups. Write-ups are due at midnight the day of the lab.
+        Article Worksheets: For each in-class discussion, you will read an academic article and
+complete a short worksheet that guides you through the paper and prepares you for the
+discussion. These are graded on completion and are due before class on the day of the discussion.
+        Midterm Test: This class has one midterm test that focuses on technical skills developed
+during the first half of the course. You will have 24 hours to complete the test.
+        Final Project: This course has a final project in lieu of a final exam. The project has
+several stages that will be completed throughout the course. Late work will not be accepted
+except in extenuating circumstances.
+                                                                                                 2
+
+
+Linguistics 344k, Summer 2020
+                                         Tentative Course Schedule
+This syllabus represents current plans and objectives, which may need to change slightly during
+the semester. Such changes, communicated clearly, are not unusual and should be expected.
+L = Ladefoged’s “Vowels and Consonants”, R&J = Reetz and Jongman’s “Phonetics”
+HW = Homework Assignment, WS = Article Worksheet, Italics = Final Project
+ Date                   Topic                        Readings                    Assignments
+ Week 1                 Th: Procedures,              Th: L Ch. 1                 Th: HW 0
+ June 4 -5th
+        th
+                        introductions                F: R&J Ch. 7
+                        F: Sound
+ Week 2                 M: Sound, Speech             M: R&J Ch. 2, 5, 6          M: HW 1
+ June 8 -12
+        th       th
+                        Production                       L Ch. 12                T: Lab 1
+                        T: Lab 1                     W: R&J 3.1, 3.4             Th: Article WS 1
+                        W: Consonant Articulation        4.1-4.2, 4.4            F: HW 2
+                        Th: Discussion 1                 L 6, 11
+                        F: Consonant Acoustics       Th: Article(s)
+                                                     F: R&J ch 8, 9, 10
+                                                     L 14
+ Week 3                 M: Consonants                W: R&J Ch. 3.2, 3.3, 3.4.2, M: Topic
+ June 15 -19
+           th       th
+                        T: Lab 2                     4.3                         Selection
+                        W: Vowel Production          L Ch. 15                    T: Lab 2
+                        Th: Discussion 2             Th: Article(s)              Th: Article WS 2
+                        F: Vowel Acoustics           F: L Ch. 4, 5                   Full Proposal
+                                                                                 F: HW 3
+ Week 4                 M: Project meetings,         W: R&J CH. 12               M: Midterm
+ June 22 -26
+           nd        th
+                        midterm                      Th: Article(s)              Exam
+                        T: Lab 3                     F: R&J 13                   T: Lab 3
+                        W: Hearing                                               W: Materials
+                        Th: Discussion 3                                         Th: Article WS 3
+                        F: Perception
+ Week 5                 M: Speech in context         M: L Ch. 16                 M: Experimental
+ June 29 -July
+           th
+                        T: Lab 4                     F: Ohala 1993?                  Results
+ 3 rd
+                        W: Psycholinguistics                                     T: Lab 4
+                        Th: Lab 5                                                Th: Lab 5
+                        F: Language change                                           Analysis
+ Week 6                 M: Dialect Variation         T: Article(s)               M: Discussion
+ July 6 -9
+       th     th
+                        T: Discussion 4                                          T: Article WS 4
+                        W: Language Acquisition                                  W: Peer
+                        Th: Project Presentations                                Feedback
+                                                                                 Th: Presentations
+                                                                                 F: Final Project
+                                                                                                   3
+
+
+Linguistics 344k, Summer 2020
+University Notices and Policies:
+         Academic Integrity: Each student in this course is expected to abide by the University of
+Texas Honor Code. Work submitted by a student must be the student's own work. You are
+encouraged to discuss the course material outside of class with your classmates, however, your
+assignment must be written up separately. Cite your classmates by listing the names of the
+people you worked with on the top right of your assignment (this helps distinguish assignments
+that are similar because of cheating from those that are similar because the students worked
+together). Avoid discussing your homework online as well, since your assignments will end up
+sounding similar. If you have questions about academic integrity, please ask the instructor. You
+may not receive or give help during exams. Any academic dishonesty will be handled following
+the guidelines from Student Judicial Services. University of Texas Honor Code “The core
+values of The University of Texas at Austin are learning, discovery, freedom, leadership,
+individual opportunity, and responsibility. Each member of the university is expected to uphold
+these values through integrity, honesty, trust, fairness, and respect toward peers and community.”
+If you see someone engaging in academic dishonesty, you should report it to the instructor.
+         Documented Disability Statement: If you have accommodations, request a letter from
+SSD and submit them to the instructor as soon as possible. Instructors are not required to provide
+accommodations without an official accommodation letter from SSD. Please notify me as
+quickly as possible if the material being presented in class is not accessible (e.g., instructional
+videos need captioning, course packets are not readable for proper alternative text conversion,
+etc.). Any student with a documented disability who requires academic accommodations should
+contact Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-
+3986 (video phone) or reference SSD’s website for more disability-related information:
+http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+         Behavior Concerns Advice Line (BCAL): If you are worried about someone who is acting
+differently, you may use the Behavior Concerns Advice Line to discuss your concerns about
+another individual’s behavior. Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+         Q Drop Policy: The State of Texas has enacted a law that limits the number of course
+drops for academic reasons to six (6). As stated in Senate Bill 1231: “Beginning with the fall
+2007 academic term, an institution of higher education may not permit an undergraduate student
+a total of more than six dropped courses, including any course a transfer student has dropped at
+another institution of higher education, unless the student shows good cause for dropping more
+than that number.”
+         Emergency Evacuation Policy: Occupants of buildings on the UT Austin campus are
+required to evacuate and assemble outside when a fire alarm is activated or an announcement is
+made. Please be aware of the following policies regarding evacuation:
+    * Familiarize yourself with all exit doors of the classroom and the building. The nearest
+         exit door may not be the one you used when you entered the building.
+    * If you require assistance to evacuate, inform me in writing during the first week.
+    * In the event of an evacuation, follow my instructions or those of class instructors.
+    * Do not re-enter a building without instructions from the Austin Fire Department, the UT
+         Austin Police Department, or the Fire Prevention Services office.
+                                                                                                    4

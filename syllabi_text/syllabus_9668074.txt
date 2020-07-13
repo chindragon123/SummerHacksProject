@@ -1,0 +1,234 @@
+Syllabus | Reporting with Data, Summer 2019
+School of Journalism, Moody College of Communication, University of Texas at Austin
+This syllabus is for the Fall 2018 semester. There are two class periods, and each has an
+undergraduate and graduate section.
+ J S327D REPORTING WITH DATA
+ Unique                    Day                      Time                    Location
+                           MTWTF                    11:00 - 12:30           BMC 3.208
+Prerequisite
+Graduate standing or upper-division standing and Journalism 310F (or 320D) with a grade of at
+least B-.
+Description
+This course will teach you basic skills to use data analysis and visualizations for news reporting.
+Students will learn how to request data from public and governmental sources, to clean up and
+analyze that data using tools such as Google Spreadsheet, Workbench and Tableau, and use
+simple statistical models to accurately report based on the data.
+Much of this class is presented in the reverse classroom method: You are given readings and
+tutorials that must be completed before class. Class time will include discussion or demos of key
+points, then include time to work through mastery assignments.
+Objectives
+    ●    Locate and use common governmental data clearinghouses from local, state and
+         national sources.
+    ●    Request and negotiate for electronic data from government agencies and other sources.
+    ●    Clean and organize a data set to prepare for analysis.
+    ●    Use statistical models and data visualization software to analyze and contextualize data
+         in news reporting.
+    ●    Use patterns and “answers” from data to create source lists and fully-reported stories.
+Instructor
+Christian McDonald
+christian.mcdonald@utexas.edu
+g) 512-537-2748
+
+
+Office hours: After class each day and during lab on Fridays. There will be at least one required
+office hours visit to be worked out.
+Resources
+Required texts
+     ●  Numbers in the Newsroom​ by Sarah Cohen (​$15​ with discount code IREmember2019.
+        Get the PDF to save time)
+     ●  Other online readings and tutorials, as assigned.
+Some readings and tutorials are due before a specific lecture, while others (NITN) are due in
+conjunction with a quiz. These are outlined in Canvas.
+Software
+In the UT Catalog, the School of Journalism strongly encourages students to have a laptop
+capable of running Microsoft office and Adobe Creative Suite. You are encouraged (implored,
+even) to use your own computer during this class. If you are limited to the lab, you will be at a
+disadvantage as you will have homework that requires a computer. All software used is
+available on both Macs & PCs, but know I will be using a Mac to demonstrate these skills.
+     ● Google Spreadsheets: This is free with your utexas.edu Google account. You could get
+        by with Microsoft Office or even ​Libreoffice​, but we’ll focus on Spreadsheets in class.
+     ● Tableau Desktop: Downloads and a free access key will be provided in class.
+     ● We'll be using other software tools for assignments. These are typically free for the level
+        we are using them or I have acquired educational licences.
+IRE Membership
+I encourage (but do not require) students to join Investigative Reporters & Editors. It is a
+wonderful community of journalists. Many members are technically- or data-minded, and some
+of the most helpful and sharing people you will ever meet. Price is $25/year for students, but
+with that membership, you get, ​among other things​:
+     ● Tableau Desktop​/Tableau Prep, a data analysis and visualization tool.
+     ● CometDocs​, an online file conversion and storage tool.
+     ● PacerMonitor, a legal research tool created to help people follow federal court cases.
+     ● IRE Journal subscription - Keep up with the latest and greatest investigations and tips
+        through our magazine, the IRE Journal.
+     ● Member Listservs - Get tips and advice from some of the biggest names in investigative
+        journalism on one of the IRE listservs.
+     ● Online Resources - Visit www.ire.org to take advantage of free data sets, podcasts,
+        conference audio recordings, on-demand training videos and more.
+     ● Thousands of Tipsheets - Some of the best reporters in the business have put together
+        more than 4,000 guides to help you with your reporting.
+Once you are a member, email Amy Johnston at ​amy@ire.org​ to get licenses.
+
+
+Course outline
+I will adjust this class based on progress. See the course in Canvas for a full list of assignments
+and readings.
+Grading
+     ●   (10%) ​Participation*​: Students are expected to come to class and participate in
+         discussions and in-class assignments. This is a lab-centric course where skills are
+         covered at a computer with instructor supervision, and each class builds upon the
+         previous, so if you miss a class you will fall behind. If you must miss a class, tell me in
+         advance, or I can't help you. Attendance in class is a part of your grade. ​Each student
+         will be assigned a day to present in class a data story from the news​ (and post in
+         the Facebook group), which we will all discuss in class.
+     ●   (20%) ​Quizzes​: Quizzes will include material from assigned readings, lectures and work
+         done in class.
+     ●   (30%) ​Assignments​: Some assignments are done in class, but others require
+         out-of-class time to complete.
+     ●   (40%) ​Final project​: This project will include a fully-reported story with at least three
+         sources based on pre-approved data sets obtained by the students. The process will
+         include a pitch, analysis, data report and visualization. If you fail the final, you will not
+         receive an A no matter the grades on your other assignments.
+*By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to
+the date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, you will be given an
+opportunity to complete the missed work within a reasonable time after the absence.
+Grading scale
+The grading scale for the course will be as follows:
+     ● A: 94-100
+     ● A-minus: 90-93.99
+     ● B-plus: 87-89.99
+     ● B: 84-86.99
+     ● B-minus: 80-83.99
+     ● C-plus: 77-79.99
+     ● C: 74-76.99
+     ● C-minus: 70-73.99
+     ● Anything below a 70 is failing.
+Graduate credit
+This class is cross-listed for graduate students. Those students will have additional assignments
+
+
+and have more rigor applied others.
+Quantitative reasoning flag
+This course carries the ​Quantitative Reasoning flag​ for undergraduates. Quantitative Reasoning
+courses are designed to equip you with skills that are necessary for understanding the types of
+quantitative arguments you will regularly encounter in your adult and professional life. You
+should therefore expect a substantial portion of your grade to come from your use of
+quantitative skills to analyze real-world problems.
+About academic dishonesty
+I take academic dishonesty seriously, in addition to ​university policies​, know the following are
+not acceptable:
+     ● Plagiarizing or using someone else’s material, another media source, student work or
+        even yourself and representing it as new for this class. You can’t turn in a story or media
+        project from another class without the instructor’s prior permission.
+     ● Making up quotes, sources or facts.
+     ● Not interviewing people who appear in your stories.
+     ● Not giving appropriate attribution or citation of a source or background information.
+     ● Cheating during a quiz or an assignment.
+Moody writing center
+The ​Moody College Writing Support Program​, located in BMC 3.322, offers one-on-one
+assistance without charge to undergraduates seeking to improve their professional writing in all
+fields of communication. We have student specialists in Journalism, RTF, CSD, CMS,
+Communication & Leadership and PR & Advertising. In addition, we offer workshops to
+strengthen core writing skills in each field and to inspire students to strive for excellence.
+Students may guarantee their time by booking half-hour appointments on our website for
+assistance during all stages of the writing process. Writing coaches also will take drop-ins if they
+are not working with appointments.
+Counseling and Mental Health Services
+Taking care of your general well-being is an important step in being a successful student. If
+stress, test anxiety, racing thoughts, feeling unmotivated or anything else is getting in your way,
+there are options available for support.
+For immediate support:
+     ● Visit/Call the Counseling and Mental Health Center (CMHC): M-F 8-5p | SSB, 5th floor
+        | ​512-471-3515​ | ​cmhc.utexas.edu
+     ● CMHC 24/7 Crisis Line: ​512.471.2255​ | ​cmhc.utexas.edu/24hourcounseling.html
+CARE Counselor in the Moody College of Communication is: Abby Simpson, LCSW
+     ● CMA 4.134 | ​512-471-7642​ (Please leave a message if she is unavailable)
+
+
+FREE Services at CMHC:
+     ● Brief assessments and referral services
+     ● Mental health & wellness articles - ​cmhc.utexas.edu/commonconcerns.html
+     ● MindBody Lab - ​cmhc.utexas.edu/mindbodylab.html
+     ● Classes, workshops, & groups - ​cmhc.utexas.edu/groups.html
+University Policies
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: ​“As a
+student of The University of Texas at Austin, I shall abide by the core values of the University
+and uphold academic integrity.”​ ​Plagiarism is taken very seriously at UT.​ Therefore, if you
+use words or ideas that are not your own (or that you have used in previous class), you must
+cite your sources. Otherwise you will be guilty of plagiarism and subject to academic disciplinary
+action, including failure of the course. You are responsible for understanding ​UT’s Academic
+Honesty and the University Honor Code​.
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the
+Q-drop deadline, which typically occurs near the middle of the semester. Under Texas law, you
+are only allowed six Q drops while you are in college at any public Texas institution. For more
+information, see: ​http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+Your success in this class is important to me. We will all need accommodations because we all
+learn differently. If there are aspects of this course that prevent you from learning or exclude
+you, please let me know as soon as possible. Together we’ll develop strategies to meet both
+your needs and the requirements of the course. There are also a range of resources on
+campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there
+are circumstances that make our learning environment and activities difficult, if you have
+medical information that you need to share with me, or if you need specific arrangements in
+case the building needs to be evacuated, please let me know. I am committed to creating an
+effective learning environment for all students, but I can only do so if you discuss your needs
+with me as early as possible. I promise to maintain the confidentiality of these discussions. If
+appropriate, also contact ​Services for Students with Disabilities​, 512-471-6259 (voice) or
+
+
+1-866-329- 3986 (video phone).
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+Center each year to improve their academic performance? All students are welcome to take
+advantage of Sanger Center’s classes and workshops, private learning specialist appointments,
+peer academic coaching, and tutoring for more than 70 courses in 15 different subject areas.
+For more information, please visit ​http://www.utexas.edu/ugs/slc​ or call 512-471-3614 (JES
+A332).
+     ●   Undergraduate Writing Center
+     ●   Libraries
+     ●   ITS
+     ●   Student Emergency Services
+Important Safety Information:
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call
+BCAL (the Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If
+something doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+Title IX Reporting
+Title IX is a federal law that protects against sex and gender-based discrimination, sexual
+harassment, sexual assault, sexual misconduct, dating/domestic violence and stalking at
+federally funded educational institutions. UT Austin is committed to fostering a learning and
+working environment free from discrimination in all its forms. When sexual misconduct occurs in
+our community, the university can:
+     1. Intervene to prevent harmful behavior from continuing or escalating.
+     2. Provide support and remedies to students and employees who have experienced harm
+         or have become involved in a Title IX investigation.
+     3. Investigate and discipline violations of the university’s relevant policies.
+Faculty members and certain staff members are considered “Responsible Employees” or
+“Mandatory Reporters,” which means that they are required to report violations of Title IX to the
+Title IX Coordinator. I am a Responsible Employee and must report any Title IX related
+incidents that are disclosed in writing, discussion, or one-on-one. Before talking with me, or with
+any faculty or staff member about a Title IX related incident, be sure to ask whether they are a
+responsible employee. If you want to speak with someone for support or remedies without
+making an official report to the university, email advocate@austin.utexas.edu For more
+information about reporting options and resources, visit ​titleix.utexas.edu​ or contact the Title IX
+Office at ​titleix@austin.utexas.edu​.
+
+
+The following recommendations regarding emergency evacuation from the ​Office of Campus
+Safety and Security​, 512-471-5767:
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and
+assembling outside.
+    ●   Familiarize yourself with all exit doors of each classroom and building you may occupy.
+        Remember that the nearest exit door may not be the one you used when entering the
+        building.
+    ●   Students requiring assistance in evacuation shall inform their instructor in writing during
+        the first week of class.
+    ●   In the event of an evacuation, follow the instruction of faculty or class instructors. Do not
+        re-enter a building unless given instructions by the following: Austin Fire Department,
+        The University of Texas at Austin Police Department, or Fire Prevention Services office.
+    ●   Link to information regarding emergency evacuation routes and emergency procedures
+        can be found at: ​www.utexas.edu/emergency

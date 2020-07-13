@@ -1,0 +1,242 @@
+ARC 327R, 386M                                                                     The University of Texas at Austin
+Spring 2019                                                                        School of Architecture
+COMPUTATIONAL DESIGN
+Instructor:        Kory Bieg
+                   Associate Professor, The University of Texas at Austin
+                   Email: kory@otaplus.com
+                   Office | Goldsmith, Room 4.136
+                   Office Hours | By Appointment
+Wed |        9:00am ‐ 12:00pm        |    WMB 5.112
+Canvas Class Website: http://canvas.utexas.edu/
+“An architect operating under essentialism would extract from a natural system such as a honeycomb all that is
+invariant, an essential hexagonal cell, seeing all that departs from it in the model as error or accident. We
+recognize those preserved errors as inherently systematic as any pure geometry, the result of influences from the
+context or from within the system itself.” Resier + Umemoto, Atlas of Novel Tectonics
+"Beautiful is an adjective that we often employ to indicate something that we like. What is beautiful is the same as
+what is good, and in fact in various historical periods there was a close link between the Beautiful and the Good...A
+beautiful thing is something that would make us happy if it were ours, but remains beautiful even if it belongs to
+someone else." Umberto Eco, History of Beauty
+\\\\
+COURSE DESCRIPTION
+Design processes are rapidly evolving as new programs are co‐opted from other industries and
+technological advancements change the way we build. This class will look at the experimental
+application of digital tools to develop new tactics for design. Students will develop a series of digital
+models using an evolutionary design approach, rapidly producing a large number of iterations. Select
+models will be embedded with procedurally driven surface systems and further modified using texture
+mapping techniques. Finally, students will create a short animated film for their final project.
+The class is divided into 4 project‐based assignments. Each assignment builds on the completion of the
+previous one through an integrative design process. Each student will develop one object (defined
+loosely) over the course of the semester that will be continually modified, updated, and calibrated
+through constant feedback and exchange. Students will develop a project agenda with specific goals
+informed by an analysis of the object itself. The qualities that emerge through the design process will
+provide a framework for the further development of the project and a tool for evaluation. The agenda
+
+
+will not be one of optimization. Rather, students will develop a multi‐layered and multi‐functional object
+with cross‐scalar properties made manifest in the object's form, performance, and physical properties —
+or put simply, its digital matter.
+Though the goal is not to produce buildings (program, circulation, site), projects will be evaluated on
+their spatial and experiential potential and attention to digital craft. Students will be using Autodesk 3ds
+Max for the generation and visualization of form and Processing for pattern, texture, and surface design.
+The seminar will be taught through a series of in‐class tutorials, discussions, readings, and project based
+critiques. Students will attempt to reconnect highly specialized trajectories of architectural discourse
+into a single, cohesive design process.
+\\\\
+ATTENDANCE
+Class meets on Wed from 9:00am‐12:00pm in West Mall Building, 5.112
+Attendance is mandatory. Two (2) unexcused absences will result in a full letter grade drop in your final
+grade for the course. Three (3) unexcused absences may result in administrative failure and being
+dropped from the course. Absences are only excused with written documentation of a medical condition
+or family emergency. If you plan on missing class for the observance of a religious holy day, please notify
+the instructor at least 14 days prior per UT Austin policy. It is up to the student to complete work missed
+due to excused absences within a reasonable time frame. If you show up late (5 minutes after the start
+of class) 3 times, it will be counted as 1 unexcused absence.
+\\\\
+GRADING POLICY
+Grading for the course is based on the full completion of all assignments. The percentage breakdown
+listed below is only for reference. Please be aware that the final project is a synthesis of all the
+assignments. If you do not complete or perform unsatisfactorily for any of the assignments, your grade
+for future assignments will most likely be negatively impacted.
+Attendance, Participation, and Presentation                                   20%
+ASSIGNMENT 01 | Evolutionary Form Catalog                                     25%
+ASSIGNMENT 02 | Procedural Membrane                                           25%
+ASSIGNMENT 03 | Animation                                                     20%
+ASSIGNMENT 04 | Final Submittal, project text                                 10%
+
+
+A(‐)    Excellent
+        Project surpasses expectations in terms of inventiveness, appropriateness, visual language,
+        conceptual rigor, craft, and personal development. Student pursues concepts and techniques
+        above and beyond what is discussed in class. Project is complete on all levels.
+B(+,‐)  Above Average
+        Project is thorough, well presented, diligently pursued, and successfully completed. Student
+        pursues ideas and suggestions presented in class and puts in effort to resolve required
+        projects. Project is complete on all levels and demonstrates potential for excellence.
+C(+,‐)  Average
+        Project meets the minimum requirements. Suggestions made in class and not pursued with
+        dedication and rigor. Project is incomplete in one or more areas.
+D(+)    Poor
+        Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of presentation are not
+        level‐appropriate. Student does not demonstrate the required competence and knowledge
+        base.
+F       Fail
+        Project is unresolved. Minimum objectives are not met. Performance is not acceptable. Note
+        that this grade will be assigned when you have excessive unexcused absences.
+X       Excused Incomplete
+        Can be given only for legitimate reasons of illness or family emergency. Simply not completing
+        work on time is not an adequate cause for assigning this evaluation. It may only be used after
+        consultation with the Associate Deans' offices and with an agreement as to a new completion
+        date. Work must be completed before the second week of the next semester in which you are
+        enrolling, according to the School of Architecture policy.
+\\\\
+DISABILITIES
+Please notify your instructor of any adaptation you may require to accommodate a specific physical
+need. You will be requested to provide documentation to the Dean of Student's Office, in order that the
+most appropriate accommodations can be determined. Specialized services are available on campus
+through the Services for Students with Disabilities, also found via the web at:
+http://www.utexas.edu/diversity/ddce/ssd/ or by phone at 512.471.6259
+
+
+\\\\
+CARE PROGRAM
+Counselors in Academic Residence (CARE) Program places licensed mental health professionals within
+the colleges or schools they serve in order to provide better access to mental health support for
+students who are struggling emotionally and/or academically.
+Abby Simpson is the CARE counselor for the School of Architecture. Faculty and staff may refer students
+to the CARE counselor or students may directly reach out to her.
+Abby Simpson | BTL 114B | (512) 471‐3115
+https://cmhc.utexas.edu/CARE_simpson.html
+\\\\
+HONOR CODE
+It is expected of every student to abide by the UT Honor Code. Dishonesty and/or the poor treatment of
+your classmates will not be tolerated. The UT Honor Code (or statement of ethics) and an explanation or
+example of what constitutes plagiarism can be found at: http://registrar.utexas.edu/catalogs/gi09‐
+10/ch01/index.html
+\\\\
+SAFETY AND SECURITY
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires
+exiting and assembling outside. Familiarize yourself with all exit doors of each classroom and building
+you may occupy. Remember that the nearest exit door may not be the one you used when entering the
+building. Students requiring assistance in evacuation shall inform their instructor in writing during the
+first week of class. In the event of an evacuation, follow the instruction of faculty or class instructors. Do
+not re‐enter a building unless given instructions by the following: Austin Fire Department, The University
+of Texas at Austin Police Department, or Fire Prevention Services office. To find more information
+regarding emergency evacuation routes and emergency procedures go to: www.utexas.edu/emergency
+
+
+\\\\
+COURSE REQUIREMENTS
+There are no pre‐requisites for the course, though a knowledge of 3d modeling s recommended.
+Students are required to have a laptop computer that is capable of running high performance 3d
+software applications, including Autodesk 3ds Max and Processing. All programs should be 2017
+versions of later. Students will also be required to purchase and install VRAY, a rendering plug‐in for 3ds
+Max.
+Weekly progress and participation in class pin‐ups and reviews is required, including completion of
+assigned readings and participation in discussions. Each week, 1 or more students will be required to
+present a review of the weeks required readings and the work/theory of the author.
+The submission of high quality final renders (jpeg format), your final 3ds Max and Processing files, a 350
+word project description, and your final animation on a USB Flash Drive or via a downloadable link is
+mandatory. Failure to submit your work by the final day of class will result in a minimum full letter grade
+drop in your final grade for the course.
+Students will use multiple software programs, capitalizing on each program's best features in order to
+unlock potential new territories of form‐making and methods of design. Though each program is
+independently parametric, students will also work parametrically across platforms. The use of multiple
+software packages will help the students overcome limitations imposed by current BIM programs, while
+promoting a new integrated digital approach to the design of form, surface, and ornament.
+Install all required software by the start of the second class.
+Required Software Includes:
+          Autodesk 3ds Max 2018 or later, 64‐bit | free student version
+          Processing 3D | free download
+          VRay 2.0 or later, 64‐bit for 3ds Max
+Additional Software:
+          Adobe Photoshop CS6 or later
+          Adobe Illustrator CS6 or later
+          Adobe After Effects CS6 or later
+
+
+\\\\
+COURSE SCHEDULE
+WK 1  W. 1/23   Introduction to Class / Review Syllabus / Assign Readings
+                Tutorial        3ds Max, Processing, VRAY
+                                General Overview
+                Assignment      Install All Required Software
+WK2   W. 1/30   Assignment      Assignment 01 | Evolutionary Form Catalog
+                Tutorial        3ds Max
+                Reading DUE     Steven Johnson, Emergence
+                                Philip Ball, The Self‐Made Tapestry
+                                Casey Reas, Form and Code (Supplemental)
+WK3   W. 2/6    PIN‐UP / Due    Assignment 01a | Evolutionary Form Catalog
+                Assignment      Assignment 01b | Evolutionary Form Catalog (Variations)
+                Reading DUE     Greg Lynn, Architectural Curvilinearity
+                                Gilles Deleuze, The Fold – Leibniz and the Baroque
+                                Greg Lynn, Animate Form (Supplemental)
+WK4   W. 2/13   Desk Crits
+                Reading DUE     Mario Carpo, The Digital: From Complexity to Simplicity and
+                                Back
+                                Resier + Umemoto, Atlas of Novel Tectonics
+                                Mario Carpo, Ten Years of Folding (Supplemental)
+WK5   W. 2/20   PIN‐UP / Due    Assignment 01b | Evolutionary Form Catalog (Variations)
+                Assignment      Assignment 02 | Procedural Membrane
+                Tutorial        Processing
+                Reading DUE     Ali Rahim, Interiorities
+                                Lars Spuybroek, The Radical Picturesque
+                                Ali Rahim, Uniformity and Variability (Supplemental)
+
+
+WK6   W. 2/27         Tutorial     Processing
+                      Reading DUE  Mark Foster Gage, Software Monocultures
+                                   Tom Wiscombe, Project
+                                   Mark Foster Gage, In Defense of Design (Supplemental)
+                                   Tom Wiscombe, Extreme Integration (Supplemental)
+                                   Tom Wiscombe, Emergent Processes (Supplemental)
+WK7   W. 3/6          Tutorial     Processing
+                      Reading DUE  David Ruy, Returning to (Strange) Objects
+                                   Neri Oxman, Per Formative
+                                   David Ruy, Lessons from Molecular Gastronomy (Supplemental)
+WK8   W. 3/13         Desk Crits
+                      Reading DUE  Manuel De Landa, Deleuze, Diagrams, and the Genesis of From
+                                   Sanford Kwinter, Architectures of Time
+                                   Manuel De Landa, Matter Matters (Supplemental)
+                                   Manuel De Landa, Nonorganic Life (Supplemental)
+NO CLASS /// SPRING BREAK 3/20
+WK10 W. 3/27          PIN‐UP       Assignment 02 | Procedural Membrane
+                      Reading DUE  Graham Harman, Aestheticizing the Literal
+                                   Patrik Schumacher, Parametric Patterns
+                                   Patrik Schumacher, A Critique of Object Oriented Architecture
+                                    (Supplemental)
+                                   Graham Harman, Response to Schumacher (Supplemental)
+                                   Patrik Schumacher, Tectonic Articulation (Supplemental)
+WK11 W. 4/3           PIN‐UP / Due Assignment 02 | Procedural Membrane
+                      Assignment   Assignment 03 | Animation
+                      Tutorial     Autodesk 3ds Max
+                                   After Effects
+                      Reading DUE  Achim Menges and Michael Hensel, Versatility and Vicissitude
+                                   Jane Burry, The Construction of a Problem
+                                   Achim Menges and Michael Hensel, Patterns in Performance‐
+                                   Oriented Design (Supplemental)
+                                   Jane and Mark Burry, Gaudi and CAD (Supplemental)
+
+
+WK12 W. 4/10              Tutorial       Autodesk 3ds Max
+                                         After Effects
+                          Reading DUE    Roland Snooks, Behavioral Formation
+                                         Gilles Retsin, Discrete and Digital
+                                         Daniel Kohler and Rasa Navasaityte, Mereological Tectonics
+                                         (Supplemental)
+WK13 W. 4/17              Desk Crits
+                          Assignment     Assignment 04 | Final Submittal, project text
+WK14 W. 4/24              Desk‐crits
+WK15 W. 5/1               DUE            Assignment 03 | Animation
+                                         Assignment 04 | Final Submittal, project text
+WK16                      FINAL EXHIBITION OF ANIMATIONS
+\\\\
+WEB RESOURCES
+https://www.autodesk.com/education/free-software/featured (Autodesk Student Download)
+https://processing.org/ (Processing Download)
+https://store.chaosgroup.com/products/educational (VRay Educational Version)
+https://www.vray-materials.de/ (Free VRay Materials)
+https://www.lynda.com/ (Tutorials, free with UTexas login)
+https://www.youtube.com/user/korybieg (tutorials, all programs, by me!)
+https://www.plethora-project.com/education/ (tutorials)
+https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw (Processing tutorials)

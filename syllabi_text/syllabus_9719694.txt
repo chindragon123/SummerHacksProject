@@ -1,0 +1,185 @@
+ARC/ARI 221K | #00780, #00785                                    The University of Texas at Austin
+Fall 2019                                                        School of Architecture
+VISUAL COMMUNICATIONS III
+Tu Th | 2:00-5:00pm | West Mall Building, 5th Floor
+Canvas Class Website: https://utexas.instructure.com/
+Instructors:    Kory Bieg
+                Email: bieg@utexas.edu
+                Office | Goldsmith Hall, Room 4.136 | Office Hours by Appointment
+                Marla Smith
+                Email: marlasmith@utexas.edu
+                Office | Goldsmith Hall, Room 2.206 | Office Hours by Appointment
+Teaching Assistants:
+                Rayan Itani: ritani@utexas.edu
+                Stephanie Almendares: almendarezstephani@gmail.com
+                Mabel Sheu Whye Loh: sheuwhye.loh@utexas.edu
+\\\\
+VIS COMM 3
+The focus of Visual Communication III is continuous engagement with digital media in one’s
+design process. Such an engagement will foster an ongoing evaluation of the conceptual and
+practical impact of digital techniques on architectural and interior design production. The course
+places increased emphasis on 3D design and integrates digital modeling with the students’ prior
+experience working with graphic and imaging software. The aim is to provide students with a
+foundation in parametric modeling, its relationship to the larger workflow in the digital realm,
+along with setting up opportunities for working with various modes of output, including drawings,
+robotics, and digitally fabricated models/installations.
+\\\\
+COURSE FORMAT
+Vis Comm 3 is offered as a module system. There will be three modules. Each module will be
+project-based while focusing on a particular digital design tool/technique.
+MODULE FORMAT
+A typical week will include a lecture/tutorial that will introduce conceptual and technical issues
+covered in the current assignment, a demonstration of key software-related techniques, and
+allotted time for a group Q&A and individual help. The remainder of class sessions will include
+desk crits, during which students will be able to work on assignments and receive feedback from
+
+
+the teaching assistants and faculty.
+Digital copies of completed assignments will be submitted through Canvas and physical
+prints/plots will be presented during group pin-ups, as outlined in individual assignment
+handouts. Student work will be reviewed at pin-ups on the last day of each module.
+Prerequisites
+ARC/ARI 311L (Visual Communication II)
+\\\\
+COURSE REQUIREMENTS
+Students are required to have a laptop computer by the first day of class that is capable of running
+high performance 2d and 3d software applications and meets or exceeds the UTSOA
+recommended laptop’s performance. Software will be listed on the handout for each module.
+Please note that Grasshopper and Enscape will require the use of Windows. Although there is a
+Mac version of Rhinoceros, we strongly recommend that you use the Windows version, as this
+is the version that the in-class tutorials will be conducted in.
+We use Adobe software in this course. When accessing Adobe software in SOA computer labs,
+you will be prompted to sign in with an Adobe ID. You are not required to purchase Creative
+Cloud services to sign in on our lab computers, but you are required to create a free Adobe ID.
+That can be done here: https://accounts.adobe.com/”
+Weekly progress and participation in class pin-ups, desk crits, and reviews is required.
+The submission of high quality final images (jpeg format), progress images, 3d digital models,
+and full documentation of project and design process on a thumb drive or via direct download is
+mandatory. Failure to submit your work on the final day of class will result in a minimum full letter
+grade drop in your final grade for the course.
+\\\\
+ATTENDANCE
+Attendance is mandatory. Two (2) unexcused absences will result in a full letter grade drop in
+your final grade for the course. Three (3) unexcused absences may result in failure and being
+dropped from the course. Absences are only excused with written documentation of a medical
+condition or family emergency. If you miss more than 25% of the semester due to illness or other
+excused absences, you will be required to drop and retake the course. If you plan on missing
+class for the observance of a religious holy day, please notify the instructor at least 14 days prior
+per UT Austin policy. It is up to the student to complete work missed due to excused absences
+within a reasonable time frame. If you show up late (5 minutes after the start of class) 3 times, it
+will be counted as 1 unexcused absence.
+
+
+\\\\
+SCHEDULE
+Class will begin at 2:00 PM Tuesday and Thursday.
+On days of pin-ups and reviews, it is expected that your work is pinned up by 2:00pm. If you are
+late pinning up, you will be counted as late or as an unexcused absence, depending on the
+amount of tardiness.
+Final submissions are due on the last day of each module session.
+Intermediate deadlines will be noted on handouts for each assigned project.
+\\\\
+GRADING POLICY
+Establishing grades for projects of a creative nature is a more complex matter than grading in
+other academic areas. A significant portion of each grade is derived from a broader, more
+subjective set of issues; however, in this course, a set of technique-based criteria – including
+the appropriate usage of media, precision and exactness, and demonstrated knowledge of
+graphic conventions relative to contemporary architectural representation – will play a large part
+in evaluating student work.
+Grades will be given for each module and project assignments. Final grades will be weighted
+based on all assignments.
+Grading is broken into three components for each given mark:
+1/3 grasp       (the ideas and understanding of the project at hand, combined with an
+                appropriate process of inquiry),
+1/3 process     (the consistent and rigorous development and testing of ideas) and
+1/3 resolution (the demonstration of competence, completeness, and finesse through
+                representation).
+A(-)    Excellent
+        Project surpasses expectations in terms of inventiveness, appropriateness, visual
+        language, conceptual rigor, craft, and personal development. Student pursues concepts
+        and techniques above and beyond what is discussed in class. Project is complete on all
+        levels.
+B(+,-) Above Average
+        Project is thorough, well presented, diligently pursued, and successfully completed.
+        Student pursues ideas and suggestions presented in class and puts in effort to resolve
+        required projects. Project is complete on all levels and demonstrates potential for
+        excellence.
+
+
+C(+,-) Average
+         Project meets the minimum requirements. Suggestions made in class and not pursued
+         with dedication and rigor. Project is incomplete in one or more areas.
+D(+)     Poor
+         Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of presentation
+         are not level-appropriate. Student does not demonstrate the required competence and
+         knowledge base.
+F        Fail
+         Project is unresolved. Minimum objectives are not met. Performance is not acceptable.
+         Note that this grade will be assigned when you have excessive unexcused absences.
+X        Excused Incomplete
+         Can be given only for legitimate reasons of illness or family emergency. Simply not
+         completing work on time is not an adequate cause for assigning this evaluation. It may
+         only be used after consultation with the Associate Deans' offices and with an agreement
+         as to a new completion date. Work must be completed before the second week of the next
+         semester in which you are enrolling, according to the School of Architecture policy.
+\\\\
+DISABILITIES
+Please notify your instructor of any adaptation you may require to accommodate a specific
+physical need. You will be requested to provide documentation to the Dean of Student's Office,
+in order that the most appropriate accommodations can be determined. Specialized services are
+available on campus through the Services for Students with Disabilities, also found via the web
+at: http://www.utexas.edu/diversity/ddce/ssd/ or by phone at 512.471.6259
+\\\\
+HONOR CODE
+It is expected of every student to abide by the UT Honor Code. Dishonesty and/or the poor
+treatment of your classmates will not be tolerated. The UT Honor Code (or statement of ethics)
+and an explanation or example of what constitutes plagiarism can be found at:
+http://registrar.utexas.edu/catalogs/gi09-10/ch01/index.html
+\\\\
+SAFETY AND SECURITY
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when a fire alarm is activated. Alarm activation or announcement requires
+
+
+exiting and assembling outside. Familiarize yourself with all exit doors of each classroom and
+building you may occupy. Remember that the nearest exit door may not be the one you used
+when entering the building. Students requiring assistance in evacuation shall inform their
+instructor in writing during the first week of class. In the event of an evacuation, follow the
+instruction of faculty or class instructors. Do not re-enter a building unless given instructions by
+the following: Austin Fire Department, The University of Texas at Austin Police Department, or
+Fire Prevention Services office. To find more information regarding emergency evacuation routes
+and emergency procedures go to: www.utexas.edu/emergency
+\\\\
+2019 | VIS COMM 3 | COURSE SCHEDULE
+WK 1            Th.     8/29            VIS COMM 3 INTRODUCTION
+WK 2            Tu.     9/3             Module 1 Begins (GRASSHOPPER)
+                Th.     9/5
+WK 3            Tu.     9/10
+                Th.     9/12
+                Mo.     9/16            Studio Assignment 1 Review
+WK 4            Tu.     9/17
+                Th.     9/19
+WK 5            Tu.     9/24
+                Th.     9/26
+WK 6            Tu.     10/1
+                Th.     10/3
+WK 7            Mo.     10/7            Studio Assignment 2 Review (1/2 group)
+                Tu.     10/8            Desk Crits
+                Wed.    10/9            Studio Assignment 2 Review (1/2 group)
+                Th.     10/10           Module 1 Ends
+WK 8            Tu.     10/15           Module 2 Begins (VR + REPRESENTATION)
+                Th.     10/17
+WK 9            Tu.     10/22           ACADIA WORKSHOPS, Rooms booked
+                Th.     10/25           ACADIA CONFERENCE
+                                        Thom Mayne Lecture, 6:00pm, LBJ Auditorium, Required
+WK 10           Tu.     10/29
+                Th.     10/31
+WK 11           Tu.     11/4            Module 2 Ends
+                                        Module 3 Begins (VR + REPRESENTATION, FLIP GROUPS)
+                Th.     11/7
+WK 12           Tu.     11/12
+                Th.     11/14
+WK 13           Tu.     11/19           Module 3 Ends
+                Th.     11/21           DESK CRITS, studio help
+                Wed.    12/4-6          Studio Final Reviews
+\\\\

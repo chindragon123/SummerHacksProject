@@ -1,0 +1,82 @@
+                Accounting 326 - Financial Accounting Standards and Analysis - Fall 2018
+Professor: Dain Donelson                                    Office: CBA 3.216 Phone: (512) 232-3733
+E-mail: dain.donelson@mccombs.utexas.edu                    Office Hours: T&R 11:00-12:00 or by appointment
+____________________________________________________________________________________
+TA: Antonis.Kartapanis@mccombs.utexas.edu                   Office Hours: M&W 5:00-6:00, CBA 3.332V
+____________________________________________________________________________________________________
+Overview: The course examines financial reporting issues, mainly from a user perspective. The objectives are:
+(1) To learn about current U.S. financial reporting;
+(2) To understand whether and how financial reporting captures the economics of transactions and events, and;
+(3) To learn how to reason about financial reporting problems as users do (i.e., to understand the relations
+between financial statements, including footnotes, and journal entries).
+Required Text: Financial Reporting and Analysis by Revsine et al. (7th Edition)
+Prerequisites: ACC 311(H), ACC 312(H), FIN 357(H)
+Communication Channels: The class webpage is Canvas. I may send email containing announcements.
+Exams and Homework: There will be four exams, each worth 25% of your grade. Exams may include multiple-
+choice, short answer and computational questions. You may have 1-page (8.5” x 11”, front/back, your own
+handwriting) of notes for use during the exam, which must be turned in with your exam. Electronically prepared
+exam notes will receive a LARGE penalty. Any request for a re-grade must be made IN WRITING no less than
+two days and no more than seven days after the exam is returned. The request must state, in detail, the reason you
+believe the grade is in error. Requests that do not conform to this policy will not be honored.
+Any missed exam must be approved either in advance or through Student Emergency Services. Makeup exams
+will be given only in extraordinary circumstances (at my discretion). For ordinary absences, the weight will be
+assigned to the other exams. If you do not have a valid reason, you will receive a grade of zero. I reserve the right
+to adjust grades for extraordinary class contribution. I also reserve the right to give quizzes, and collect
+homework, which will substitute for part of the exam. There will be no makeups for quizzes.
+You should work homework problems to prepare for the exam. Working on the homework assignments with other
+students is encouraged. When homework is collected, it will be on the day of the exam and must be stapled, with
+each question clearly presented. Office hours tend to be crowded right before exams and thus keeping up with
+homework is to your advantage.
+Curved Grades: GRADES WILL BE BASED ON A CURVE.
+I cannot stress enough that a curve means that you cannot assume ANYTHING about what a score means as far
+as a grade. In other words, a score of 20 might be an “A,” or a score of 70 might be an “F,” although neither of
+these events has ever occurred in the past. Further, a score of 90 does not guarantee an “A,” nor does a score
+below 60 guarantee an “F.” In general, scores in the 60s receive a “B,” although, again, this is not a guarantee.
+Despite repeated explanations of this concept, many students make false assumptions that they are failing the
+course or getting very low grades when they are (often) performing in the average range. Again, it all depends on
+the distribution. While most students seem to understand the curve, there are misunderstandings EVERY semester
+on this issue. The class average is generally expected to be between 3.2 and 3.4, although this may vary based on
+my assessment of overall class performance. Plus/minus grading will be used.
+Class Conduct: Professional behavior is required. In particular, please put away cell phones. If you have
+unusual circumstances, speak with me about it before class. If I say nothing, this does not mean that I did not
+notice it – the use of a cell phone is one of the most obvious activities to observe from the front of the room.
+
+
+Please note that you may step out of the room at any time, provided you do so in a non-disruptive manner. If you
+cannot live without your cell phone during class, this is not the course for you. I will impose a substantial grade
+penalty for those who distract other students through cell phone use.
+Class Attendance: Class attendance is important, but I do not track attendance. YOU DO NOT NEED TO
+NOTIFY ME UNLESS YOUR ABSENCE WILL BE FOR AN EXTENDED TIME. Please note that if you miss
+class, I will not photocopy or scan a copy of that day’s notes - you may copy them (by hand) during office hours
+or get a copy from a classmate.
+Students with disabilities: The University of Texas at Austin provides, upon request, appropriate academic
+accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of
+Students at 471-6259, 471-4641 TTY.
+                                                 Detailed Schedule
+  Expected        Chapter, pages               Topic                                        E = exercise
+     Date                                                                                   P = problem
+      8-30        CH. 1, 1-20                  1: Financial Reporting Overview;
+       9-4        CH. 11, 607-11               Disclosure and Risk                          E 7, P 14 (1. only)
+     9-6 -        CH. 2, 47-82                 2: Income Statement Overview;                E 2, 7, 8, 12, 13, 14
+      9-13                                     Earnings Management & Restatements           P 3, 5, 12, 13
+      9-20        CH. 4, 173-85                3: Cash Flows                                Ch. 4: E 5-10; P 8, 9
+                  CH. 17, 1005-19; 1024-31
+      9-25        First Exam – In Class
+     9-25 -       CH. 13, 715-62               4: Deferred Taxes                            E 1, 2, 7, 8, 9
+      10-2                                                                                  P 1, 2, 5
+      10-4        CH. 11, 561-587              5: Debt                                      E 1-6, 8, 9
+      10-9                                                                                  P 2, 3, 5, 15
+     10-11        CH. 15, 863-878              6: Equity;                                   E 2, 3, 5, 8; P 4
+                  CH. 15, 878-884              Earnings Per Share (EPS)                     E 10, 13-15; P 7, 12
+     10-16        Second Exam – In Class
+     10-18        CH. 11, 587-606              7: Derivatives                               E 12; P 6, 22, 23, 26
+     10-23
+     10-25        CH. 15, 884-902              8: Stock-Based Compensation                  E 16; P 17, 18
+     10-30
+      11-1        CH. 15, 903-08               9: Compound Financial Instruments            P 2, 5
+      11-6        Third Exam – In Class
+      11-8        CH. 12, 645-68; 671-88       10: Leases                                   P 1, 2, 3, 6, 7
+     11-15
+    11-20 –       CH. 16, 937-64; 972-78       11: Intercompany Equity Investments          E 4, 5, 9, 10, 12
+      12-4                                                                                  P 1, 4
+      12-6        Fourth Exam – In Class

@@ -1,0 +1,271 @@
+                      ADV 380J Quantitative and Qualitative Research
+                                       Fall 2018 (#06155)
+                                            CMA 3.124
+                                  TTH 11:00 AM – 12:30 PM
+                                The University of Texas at Austin
+Instructor:           Dr. Jeeyun Oh
+                      Assistant Professor
+                      Stan Richards School of Advertising & Public Relations
+Office:               BMC 4.320
+Office hours:         Wednesday 11:00 AM – 1:00 PM
+Email:                jeeyunoh@utexas.edu
+Phone:                (512) 471-8134
+Prerequisite:         Graduate standing
+TA:                   Yutian Li (yutianlee@utexas.edu)
+Course Description
+This graduate seminar course provides students with a basic understanding of the principles,
+methods, and techniques in conducting scholarly and professional research in advertising,
+marketing, and social sciences. Students will be introduced to the most common quantitative and
+qualitative research methods and techniques in the fields, and learn the practice of planning and
+executing advertising/marketing research by conducting a semester-long research project in a
+small group.
+Course Objectives
+By the end of this semester, students will be able to:
+    1. understand how research is practiced in advertising, marketing, and social sciences.
+    2. evaluate and choose research methods appropriate to their research interests, and
+    3. execute a research project including data collection, data analysis, data interpretation, and
+        reporting.
+Required Course Materials
+Babin, B. J., & Zikmund, W. G. (2016). Essentials of Marketing Research (6th ed.). Boston, MA:
+Cengage Learning.
+*Additional readings are available at http://canvas.utexas.edu/. See the reading list at the end.
+                                                 1
+
+
+Instructional Approach
+The format of this course combines lecture with active discussion/participation. Students are
+expected to complete assigned readings prior to each class meeting in order to actively
+participate.
+Course Requirements
+                  Exams (Exam 1: 10%; Exam 2: 15%; Exam 3: 5%; 30% in total)
+There will be two in-class exams and one take-home exam scheduled during the semester. They
+will cover materials presented in lectures, textbook and journal-article readings, in-class
+exercises and class discussion. The format for the in-class exam will be a combination of
+multiple-choice and short-answer questions. They are to be taken at the scheduled times and
+locations. If you are unable to take the exam at the scheduled time and location, you need to
+notify me at least two weeks prior to the exam. Failure to take any of the in-class exams on
+time will result in the grade of F.
+                              “Everyday Research” Assignments (15%)
+Students will practice a research method or come up with an original research question based on
+assigned readings. Selected assignments will be reviewed and discussed in class. Due dates may
+vary; check each assignment for its due date. You may submit 6 assignments, and your
+highest 5 assignments will count. More information will be given in class.
+                                          Paper Critique (5%)
+In a small group, students will take turns presenting a critique of an advertising research article
+(available in the Readings folder). The team responsible for a given article is expected to
+distribute a handout that summarizes the key points of the presentation and conduct a 10-
+minute oral presentation of the article in class, followed by a 5-minute Q&A session. Your
+handout and PPT should include: (a) correct identification of research question, method, and
+results, (b) detailed description of the research method used, and (c) detailed methodological
+critique of the study.
+See the handout for guidelines, and check the example work on CANVAS. Paper critique
+submissions are due by 24 hours before the scheduled presentation at http://canvas.utexas.edu/.
+You are required to set up a meeting with your TA to discuss your presentation in advance.
+                            Consumer Survey/Experiment Project (40%)
+Each group will come up with a research question related to advertising. You will design an
+online survey or experiment on Qualtrics, collect and analyze data using PSPP
+(https://www.gnu.org/software/pspp/get.html), write a report of findings and perform an oral
+presentation for the class. Your grade will be based on the following assignments. Failure to
+submit the final report on time will result in the grade of F:
+ 1) Research proposal (7%)
+ 2) Online questionnaire (4%)
+ 3) Final presentation (6%)
+ 4) Final report (20%)
+ 5) Anonymous peer review (3%)
+                                                   2
+
+
+                           Attendance (6%) and Class participation (4%)
+This is a graduate seminar class, so I expect you to attend class regularly and participate in
+discussion actively. Late arrivals will be noted by your TA and will affect your attendance grade.
+If you don’t ever speak up in class and/or are not prepared for discussions, then you will not
+receive much credit for the class participation section. Texting, checking email/Facebook, or
+any other activity other than taking notes in class will decrease 1% on your final grade for
+each time this happens. You are responsible for any assignments given and all work missed
+when absent or late.
+Late Work Policy
+As a general rule, I accept late work, but you will automatically lose 50% of your score. No
+late work will be accepted for the final report and Exam 3. Software, network or storage
+device failure is not a valid excuse for late work. No assignment will be accepted two weeks past
+the due date.
+Course Evaluation
+Your final grade will be determined by the following:
+               ASSESSMENT                                   PERCENT
+               Exam 1                                              10%
+               Exam 2                                              15%
+               Exam 3                                               5%
+               Everyday Research Assignments                       15%
+               Paper Critique Assignment                            5%
+               Consumer Survey Project                             40%
+               Attendance                                           6%
+               Class Participation                                  4%
+               TOTAL                                              100%
+Grading Scale
+You can estimate your grade using the following scale; the scale may change depending on how
+the entire class performs:
+A = 94-100 %
+A- = 90-93 %
+B+ = 87-89 %
+B = 84-86 %
+B- = 80-83 %
+C+ = 77-79 %
+C = 74-76 %
+C- = 70-73 %
+D or F = below 69 %
+                                                  3
+
+
+SCHEDULE
+The instructor reserves the right to alter the syllabus during the semester. Assigned readings have
+to be completed prior to each class meeting.
+*
+  ERA (“Everyday Research” Assignment) released; check each assignment for its due date.
+Week 1
+08/30*      Introduction
+            The Role of Marketing Research (Chapter 1)
+Week 2
+09/04       The Marketing Research Process (Chapter 3)
+            Paper Critique #1 (Mochon, Norton, and Ariely, 2012)
+09/06*      Harnessing Big Data into Better Decisions (Chapter 2)
+            Paper Critique #2 (Brandtzaeg, 2017)
+            Review of ERA #1
+Week 3
+09/11       Observational Research (Qualitative) (Chapters 5 & 8)
+            Paper Critique #3 (Shiau, 2016)
+09/13*      Observational Research (Quantitative) (Chapter 8)
+            Paper Critique #4 (Hoenen, Lübke, & Pause, 2016)
+            Review of ERA #2
+Week 4
+09/18       Observational research in the field (no class)
+09/20       Qualitative Research Tools (Chapter 5)
+            Paper Critique #5 (Lopatovska et al., 2018)
+Week 5
+09/25       EXAM 1
+09/27*      How to Write a Research Proposal
+            Review of ERA #3
+            Research proposal assignment released
+                                                    4
+
+
+Week 6
+10/02   Survey Research (Chapter 7)
+        Paper Critique #6 (Shakya & Christakis, 2017)
+10/04*  Survey Research (Chapter 7)
+        Paper Critique #7 (Wang, Yang, & Haigh, 2017)
+        Paper Critique #8 (Lee & Sundar, 2015)
+        Review of ERA #4
+Week 7
+10/09   Experimental Research (Chapter 9)
+        Paper Critique #9 (Oh & Jin, in press)
+10/11   Experimental Research (Chapter 9)
+        Paper Critique #10 (Ahn, Bailenson, & Park, 2014)
+        Review of ERA #5
+        Research proposal due by 11:59 PM
+Week 8
+10/16*  Operational Definition & Measurement (Chapter 10)
+        Paper Critique #11 (Spence, Velasco, & Knoeferle, 2014)
+10/18   Measurement in the field (no class)
+Week 9
+10/23   Online Questionnaire (Chapter 11)
+        Paper Critique #12 (Vansteenkiste, Duriez, Simons, & Soenens, 2006)
+        Review of ERA #6
+10/25   Online Questionnaire (Chapter 11)
+Week 10
+10/30   Online Questionnaire (Chapter 11)
+        Online questionnaire due by 11:59 PM; launch data collection
+11/01   EXAM 2
+Week 11
+                                            5
+
+
+11/06   PSPP: Descriptive and Inferential Statistics (Chapters 13)
+11/08   NCA conference (no class)
+Week 12
+11/13   PSPP: Data Cleaning and Analysis (Chapters 14)
+        Complete dataset due by 11:59 PM
+11/15   Data Analysis (Chapters 14)
+        Exam 3 questions released
+Week 13
+11/20   Data Analysis (no class)
+11/22   Thanksgiving (no class)
+Week 14
+11/27   How to Write and Present Results
+        Exam 3 submission due by 11:59 PM
+11/29   Presentation Prep
+Week 15
+12/04   Final Presentations
+12/06   Final Presentations
+12/09   Final Report Due
+                                           6
+
+
+Policy on Scholastic Dishonesty (http://deanofstudents.utexas.edu/sjs/acint_student.php)
+The University defines academic dishonesty as cheating, plagiarism, unauthorized collaboration,
+falsifying academic records, and any act designed to avoid participating honestly in the learning
+process. Scholastic dishonesty also includes, but is not limited to, providing false or misleading
+information to receive a postponement or an extension on a test, quiz, or other assignment, and
+submission of essentially the same written assignment for two courses without the prior
+permission of the instructor. By accepting this syllabus, you have agreed to these guidelines and
+must adhere to them. Scholastic dishonesty damages both the student's learning experience and
+readiness for the future demands of a work-career. Students who violate University rules on
+scholastic dishonesty are subject to disciplinary penalties, including the possibility of failure in
+the course and/or dismissal from the University.
+Policy on Religious Holy Days Observance
+(http://www.utexas.edu/student/registrar/catalogs/gi03-04/ch4/ch4g.html#attendance)
+The Texas Education Code specifies that an institution of higher education shall excuse a student
+from attending classes or other required activities, including examinations, for the observance of
+a religious holy day, including travel for that purpose. A student whose absence is excused under
+this subsection may not be penalized for that absence and shall be allowed to take an
+examination or complete an assignment from which the student is excused within a reasonable
+time after the absence.
+A student who misses classes or other required activities, including examinations, for the
+observance of a religious holy day should inform the instructor as far in advance of the absence
+as possible, so that arrangements can be made to complete an assignment within a reasonable
+time after the absence.
+Students with Disabilities (http://www.utexas.edu/diversity/ddce/ssd)
+Please notify your instructor of any modification/adaptation you may require to accommodate a
+disability-related need. You will be requested to provide documentation to the Dean of Student's
+Office in order that the most appropriate accommodations can be determined. Specialized
+services are available on campus through Services for Students with Disabilities.
+                                                  7
+
+
+Additional (Required) Reading List
+Week 2
+Mochon, D., Norton, M. I., & Ariely, D. (2012). Bolstering and restoring feelings of competence
+        via the IKEA effect. International Journal of Research in Marketing, 29(4), 363-369.
+Brandtzaeg, P. B. (2017). Facebook is no “Great equalizer” A big data approach to gender
+        differences in civic engagement across countries. Social Science Computer Review,
+        35(1), 103-125.
+Week 3
+Shiau, H. C. (2016). Guiltless consumption of space as an individualistic pursuit: Mapping out
+        the leisure self at Starbucks in Taiwan. Leisure Studies, 35(2), 170-186.
+Hoenen, M., Lübke, K. T., & Pause, B. M. (2016). Non-anthropomorphic robots as social entities
+        on a neurophysiological level. Computers in Human Behavior, 57, 182-186.
+Week 4
+Lopatovska, et al. (2018). Talk to me: Exploring user interactions with the Amazon
+        Alexa. Journal of Librarianship and Information Science, 0961000618759414.
+Week 6
+Shakya, H. B., & Christakis, N. A. (2017). Association of Facebook use with compromised well-
+        being: A longitudinal study. American Journal of Epidemiology, 185(3), 203-211.
+Wang, R., Yang, F., & Haigh, M. M. (2017). Let me take a selfie: Exploring the psychological
+        effects of posting and viewing selfies and groupies on social media. Telematics and
+        Informatics, 34(4), 274-283.
+Lee, S., & Sundar, S. S. (2015). Cosmetic customization of mobile phones: Cultural antecedents,
+        psychological correlates. Media Psychology, 18(1), 1-23.
+Week 7
+Oh, J. & Jin, E. J. (in press). Interactivity benefits low self-efficacy smokers more: The
+        combinatory effects of interactivity and self-efficacy on defensive response and quitting
+        intention. Journal of Interactive Advertising.
+Ahn, S. J. G., Bailenson, J. N., & Park, D. (2014). Short-and long-term effects of embodied
+        experiences in immersive virtual environments on environmental locus of control and
+        behavior. Computers in Human Behavior, 39, 235-245.
+Week 8
+Spence, C., Velasco, C., & Knoeferle, K. (2014). A large sample study on the influence of the
+        multisensory environment on the wine drinking experience. Flavour.
+        https://doi.org/10.1186/2044-7248-3-8
+Week 9
+Vansteenkiste, M., Duriez, B., Simons, J., & Soenens, B. (2006). Materialistic values and
+        well-being among business students: Further evidence of their detrimental effect. Journal
+        of Applied Social Psychology, 36(12), 2892-2908.
+                                                    8

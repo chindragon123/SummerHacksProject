@@ -1,0 +1,325 @@
+Course: ADV 378. 360-Video Production
+ Time: Tuesday and Thursday, 9:30 – 11 am
+ Location: BMC, Room 3.206
+ Instructor: Octavio Kano-Galvan, Assistant Professor of the Practice
+ Office: BMC, Room 4.308
+ Office Hours: Tuesday and Thursday from 8:30 am to 9:30 pm and by appointment
+ Email: Octavio.KanoGalvan@austin.utexas.edu
+Course Description:
+ 360-video technology offers creative and interesting new ways to create immersive visual content. The
+ goal of this class is to provide students the required skills to plan, capture, edit and produce 360-videos.
+ What will I learn?
+     • 360-video production planning
+     • 360-camera functions and operations
+     • Adobe Premier, After Effects and Photoshop 360-video editing
+     • Media analysis
+     • Filmmaking process and considerations
+ Learning outcomes:
+     1. Students will be able to visualize, plan, execute and produce 360-Video stories
+     2. Students will gain the skills and abilities to operate a 360-Video camera
+     3. Students will be able to proficiently use Adobe video editing software.
+     4. Students will be able to form a production team with specific roles and responsibilities to
+          produce a professional-quality 360-video.
+ How will I learn?
+       Students will work individually and in groups to write scripts, video-shoot, and edit their own
+       projects. Sample student projects during the semester include commercials, short films, music
+       video and/or news stories. Selected videos are Oculus screened during class throughout the
+       semester to enhance the analysis and learning process. Students will work with the following
+       software on desktop/laptop computers: Adobe Premiere, After Effects, Audition and Photoshop.
+       Experimentation, exploration, and creativity are highly encouraged.
+Course Materials
+   •   Access to a 360-Video 4K camera. (School will provide the camera)
+   •   Access to a computer/laptop that supports 4k video editing
+   •   Access to VR Headsets 3D Virtual Reality Glasses with audio integrated (Oculus) provided by the
+       school
+   •   Mobile device that supports Wi-Fi and Bluetooth
+   •   Full access to Adobe Creative Cloud https://moody.utexas.edu/technology/digital-media-
+       production-labs
+   •   128 GB Micro SD card
+
+
+   •    Micro SD card reader
+   •    UT Box account (You will need to use Box to submit your projects on Canvas)
+   •    Canvas and Box apps
+Course Outline (Units and Essential Questions):
+Unit 1. Careers in 360-video production
+   •    What are the available careers in 360-video production and what is involved with each?
+   •    What are the differences between 360-video, virtual reality, and augmented reality?
+   •    What are: Director, Videographer, Video Editor, Sound Engineer, Technical Director, Producer,
+        Graphics Editor?
+   •    How can I work with a team to develop an answer to a question or solution to a problem?
+   •    How does an efficient 360 video production workflow looks like?
+Unit 2. Equipment Orientation & Safety
+   •    What are the classroom rules for 360-video production?
+        What is the behavioral contract and how is it applied in 360-video production?
+   •    What are the expectations regarding appropriate use of class equipment?
+Unit 3. Basic 360-Video Camera Operation, Shot Composition and Pre-production and Post-
+production Considerations.
+   •    What are the basics of using a 360-video camera?
+   •    What are the stitching principals of a 360 footage?
+   •    What are the basic camera shots and angles along with framing heights?
+   •    What is a video sequence? How are scenes incorporated into a video sequence?
+   •    What is continuity in 360-video production?
+   •    How is audio used on a 360-video production?
+   •    What are the basic operational techniques you need to know to operate a 360-video camera?
+   •    What are the proper lighting and audio considerations for 360-video?
+Unit 4. Video and Sound Editing
+   •    What are the basic project settings to begin editing in Adobe Premiere and After Effects?
+   •    How is video imported into the program to begin editing?
+   •    How is a simple edit accomplished in Premiere?
+   •    How is a shot placed on a timeline in Premiere?
+   •    What is the function of the toolbar in Premiere?
+   •    How are transitions added to video clips in Premiere?
+   •    How are titles formatted and entered in Premiere?
+   •    What special effects are available for video in After Effects?
+   •    How is audio edited in Premiere and Audition?
+   •    What effects can be used to manipulate audio in Audition?
+   •    How are videos exported from Premiere and After Effects to social media?
+
+
+Unit 5. Story Visualization or Story Planning
+    •    How do I give shape and form to my ideas?
+    •    Script, where do I start?
+    •    What is basic story structure and how does the beginning, middle and end of a story relate to
+         video segments?
+    •    What is the difference between a dramatic and factual story for video?
+    •    What is a commercial, and how does it differ from a Public Service Announcement?
+    •    What is a Focus Statement and how is it used to help create a story?
+    •    What is a storyboard and how is it used to organize and plan a story?
+6. Career Development
+    •    How do I use technology as a tool? (Little planets, Bullet shoot, etc.)
+    •    How do the skills and knowledge I am learning in this class gets applied within a job setting and
+         employers will value?
+Projects, Participation and Attendance
+      1. Project 1: Record Five 360-Video unique locations with a subject on it, natural light, artificial
+          light. Record audio for the five movies (30% of your grade)
+      2. Project 2: Plan, produce, execute and edit a 360-video story (50% of your grade)
+      3. Participation, design and invitation of the project 2 poster and invitation (10% of your grade)
+      4. Attendance (10% of your grade)
+Course Structure
+  Think of this class as an agency/studio setting. You and your team will draft a script, brainstorm,
+  critique, create and execute your projects. 360-video production employs constant communication
+  throughout the process. You will use class meetings as an opportunity for refreshers and status
+  meetings. Some days you will report your progress and then be given the next steps in the process.
+  Often, however, you’ll use the time as a work session, in which you roll up your sleeves and get into the
+  process. Given that we have only a limited time to create a movie for a “client”, your dedication is
+  expected, as is your preparedness for each session. You must keep up with the pace. Attendance and
+  participation at all class meetings are mandatory.
+E-Mail Communication
+  In addition to classroom instructions, we will communicate through Canvas announcements during the
+  course of the semester. It’s your responsibility to routinely check your Canvas email on a daily basis. We
+  will use this forum to share case details and research findings, content, and monitoring general project
+  progress and logistics.
+Computer and Cell Phone Use
+  Collaborative learning is a key component of this class. You are strongly encouraged to bring your own
+  laptop and mobile device to class. When class is in session, however, please accept the “class use only”
+  rule regarding your computer and mobile device usage. Do NOT use your computer to study for other
+  classes, surf the web, type emails, check social media, etc. Please mute your cell phone, music player,
+
+
+ or other electronic communication devices in class.
+Course Schedule
+ The following schedule is tentative in the sense that if we hit on a topic that sparks a great deal of
+ interest, we will stay with it longer than the schedule below would seem to allow. This means we all
+ need to stay alert to changes in the schedule, project assignments, and so on. To ensure each class is
+ successful, it is essential for you to attend class and to work on the assigned project prior to class.
+ Changes to the schedule may be also made at my discretion and if circumstances require. It is your
+ responsibility to note these changes when announced (although I will do my best to ensure that you
+ receive the changes with as much advanced notice as possible).
+ The syllabus is a living document and will need to maintain a degree of flexibility to adapt to changing
+ circumstances.
+           August 29                                           Introductions and class presentation
+           September 3 and 5                                   Units: 1. Careers in 360-video production
+                                                              and Unit 2. Equipment Orientation and Safety
+           September 10 and 12                                Unit 3. Basic 360-Video Camera Operation,
+                                                              Shot Composition and Production and Post-
+                                                              production Considerations.
+           September 17 and 19                                Project 1 begins
+           September 24 and 26                                Unit 4. Video and Sound Editing. Project 1
+                                                              continues
+           October 1 and 3                                    Project 1 continues
+           October 8 and 10                                   (Yom Kippur 9) Unit 4 continues Project 1
+                                                              presentation and deadline
+           October 15 and 17                                  Project 2 begins. Pre-production
+           October 22 and 24                                  Unit 5. Video Production and Unit 6. Career
+                                                              development
+           October 29 and 31                                  Project 2: Production: project shooting and
+                                                              audio recording
+           November 5 and 7                                   Project 2: Postproduction: Video and audio
+                                                              editing
+           November 12 and 14                                 Project 2: Deadline, Critique and feedback
+                                                              and private show for our group.
+
+
+            November 19 and 21                                 Project 2. Movie poster and invitation
+                                                               production for the public
+            November 26 (27 – 29 Thanksgiving holiday          Poster and invitation distribution
+            break)
+            December 3 and 5                                   Project 2 public show
+Policies:
+Classroom Policies
+  Statement on Learning Success
+  Your success in this class is important to me. We will all need accommodations because we all learn
+  differently. If there are aspects of this course that prevent you from learning or exclude you, please let
+  me know as soon as possible. Together we’ll develop strategies to meet both your needs and the
+  requirements of the course. I also encourage you to reach out to the student resources available
+  through UT. Many are listed on this syllabus, but I am happy to connect you with a person or Center if
+  you would like.
+Grading Policies
+  As I hope you can see, flexibility is built into the assignments to support your success in this course. If
+  you miss a smaller assignment or don’t do as well on your earlier journal entries, your grade will not be
+  impacted significantly. Consequently, the final grades are firm, and no additional curve is available.
+    Grade            Cutoff           Points needed
+    A                94%              940
+    A-               90%              900
+    B+               87%              870
+    B                84%              840
+    B-               80%              800
+    C+               77%              770
+    C                74%              740
+    C-               70%              700
+    D                65%              650
+    F                <65%             <650
+Absences
+  If you are absent on the day that your team meets, you are responsible for providing your team with
+  the necessary information to compensate for your absence. It is crucial to keep in communication with
+  your team members; you are responsible for letting both us and your team know if you cannot make it
+  to a class.
+  Excused Absence: The only absences that will be considered excused are for religious holidays or
+  extenuating circumstances due to an emergency. If you plan to miss class due to observance of a
+
+
+ religious holiday, please let us know at least two weeks in advance. You will not be penalized for this
+ absence, although you will still be responsible for any work you will miss on that day if applicable. Check
+ with us for details or arrangements.
+ If you have to be absent, use your resources wisely. Ask your team and other classmates to get a run-
+ down and notes on any lessons you miss. If you find there are topics that we covered while you were
+ gone that raise questions, you may come by during office hours or schedule a meeting to discuss. Email
+ specific questions you have in advance so that we can make the most of our time. “What did I miss?” is
+ not specific enough.
+Student Rights & Responsibilities
+   •  You have a right to a learning environment that supports mental and physical wellness.
+   •  You have a right to respect.
+   •  You have a right to be assessed and graded fairly.
+   •  You have a right to freedom of opinion and expression.
+   •  You have a right to privacy and confidentiality.
+   •  You have a right to meaningful and equal participation, to self-organize groups to improve your
+      learning environment.
+   • You have a right to learn in an environment that is welcoming to all people. No student shall be
+      isolated, excluded or diminished in any way.
+ With these rights come responsibilities:
+   • You are responsible for taking care of yourself, managing your time, and communicating with the
+      teaching team and with others if things start to feel out of control or overwhelming.
+   • You are responsible for acting in a way that is worthy of respect and always respectful of others.
+   • Your experience with this course is directly related to the quality of the energy that you bring to it,
+      and your energy shapes the quality of your peers’ experiences.
+   • You are responsible for creating an inclusive environment and for speaking up when someone is
+      excluded.
+   • You are responsible for holding yourself accountable to these standards, holding each other to
+      these standards, and holding the teaching team accountable as well.
+ Personal Pronoun Use (She / He / They / Ze / Etc)
+ Professional courtesy and sensitivity are especially important with respect to individuals and topics
+ dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance,
+ and nationalities. Class rosters are provided to the instructor with the student’s legal name, unless they
+ have added a “preferred name” with the Gender and Sexuality Center.
+ (http://diversity.utexas.edu/genderandsexuality/publications-and-resources/). I will gladly honor your
+ request to address you by a name that is different from what appears on the official roster, and by the
+ gender pronouns you use (she/he/they/ze, etc.). Please advise me of any changes early in the semester
+ so that I may make appropriate updates to my records.
+University Resources for Students
+ Services for Students with Disabilities
+
+
+    This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+    circumstances that make our learning environment and activities difficult, if you have medical
+    information that you need to share with me, or if you need specific arrangements in case the building
+    needs to be evacuated, please let me know. I am committed to creating an effective learning
+    environment for all students, but I can only do so if you discuss your needs with me as early as
+    possible. I promise to maintain the confidentiality of these discussions. Any student with a
+    documented disability who requires academic accommodations should contact Services for Students
+    with Disabilities at 471-6259 (voice) or 512-410-6644 (Video Phone) as soon as possible to request an
+    official letter outlining authorized accommodations. For more information, visit:
+    http://ddce.utexas.edu/disability/about/.
+Counseling and Mental Health Center
+    Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs
+    and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals
+    and cope with stress.
+    All of us benefit from support during times of struggle. You are not alone. There are many helpful
+    resources available on campus and an important part of the college experience is learning how to ask
+    for help. Asking for support sooner rather than later is often helpful.
+    If you or anyone you know experiences any academic stress, difficult life events, or feelings like
+    anxiety or depression, we strongly encourage you to seek support.
+    http://www.cmhc.utexas.edu/individualcounseling.html
+  The Sanger Learning Center
+    Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+    Center each year to improve their academic performance? All students are welcome to take
+    advantage of Sanger Center’s classes and workshops, private learning specialist appointments, peer
+    academic coaching, and tutoring for more than 70 courses in 15 different subject areas. For more
+    information, please visit: http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+  Undergraduate Writing Center: http://uwc.utexas.edu/
+  Libraries: http://www.lib.utexas.edu/
+  ITS: http://www.utexas.edu/its/
+  Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+  BeVocal
+    BeVocal is a university-wide initiative to promote the idea that individual Longhorns have the power
+    to prevent high-risk behavior and harm. At UT Austin all Longhorns have the power to intervene and
+    reduce harm. To learn more about BeVocal and how you can help to build a culture of care on
+    campus, go to: wellnessnetwork.utexas.edu/BeVocal.
+  Important Safety Information:
+    If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+    Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t
+    feel right – it probably isn’t. Trust your instincts and share your concerns.
+
+
+   The following recommendations regarding emergency evacuation from the Office of Campus Safety
+   and Security, 512-471-5767, http://www.utexas.edu/safety/
+   Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+   buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and
+   assembling outside.
+   •     Familiarize yourself with all exit doors of each classroom and building you may occupy.
+         Remember that the nearest exit door may not be the one you used when entering the building.
+   •     Students requiring assistance in evacuation shall inform their instructor in writing during the first
+         week of class.
+   •     In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-
+         enter a building unless given instructions by the following: Austin Fire Department, The University
+         of Texas at Austin Police Department, or Fire Prevention Services office.
+   •     Link to information regarding emergency evacuation routes and emergency procedures can be
+         found at: www.utexas.edu/emergency
+ Title IX Reporting
+     Title IX is a federal law that protects against sex and gender-based discrimination, sexual
+     harassment, sexual assault, sexual misconduct, dating/domestic violence and stalking at federally
+     funded educational institutions. UT Austin is committed to fostering a learning and working
+     environment free from discrimination in all its forms. When sexual misconduct occurs in our
+     community, the university can:
+     1. Intervene to prevent harmful behavior from continuing or escalating.
+     2. Provide support and remedies to students and employees who have experienced harm or have
+          become involved in a Title IX investigation.
+     3. Investigate and discipline violations of the university’s relevant policies.
+     Faculty members and certain staff members are considered “Responsible Employees” or
+     “Mandatory Reporters,” which means that they are required to report violations of Title IX to the
+     Title IX Coordinator. I am a Responsible Employee and must report any Title IX related incidents that
+     are disclosed in writing, discussion, or one-on-one. Before talking with me, or with any faculty or
+     staff member about a Title IX related incident, be sure to ask whether they are a responsible
+     employee. If you want to speak with someone for support or remedies without making an official
+     report to the university, email advocate@austin.utexas.edu For more information about reporting
+     options and resources, visit titleix.utexas.edu or contact the Title IX Office at
+     titleix@austin.utexas.edu.
+     The following recommendations regarding emergency evacuation from the Office of Campus Safety
+     and Security, 512-471-5767, http://www.utexas.edu/safety/
+University Policies
+ Academic Integrity
+     Each student in the course is expected to abide by the University of Texas Honor Code: “As a student
+     of The University of Texas at Austin, I shall abide by the core values of the University and uphold
+     academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas
+     that are not your own (or that you have used in previous class), you must cite your sources.
+     Otherwise you will be guilty of plagiarism and subject to academic disciplinary action, including
+
+
+   failure of the course. You are responsible for understanding UT’s Academic Honesty and the
+   University Honor Code which can be found at the following web address:
+   http://deanofstudents.utexas.edu/sjs/acint_student.php
+Q Drop Policy
+   If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-
+   drop deadline, which typically occurs near the middle of the semester. Under Texas law, you are only
+   allowed six Q drops while you are in college at any public Texas institution. For more information,
+   see: http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop

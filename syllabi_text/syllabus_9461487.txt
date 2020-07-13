@@ -1,0 +1,324 @@
+ ADV 377M                             Semester: Spring 2019
+                                      Class Meets: TH 9:30 pm – 10:45 pm in PHR 2.116
+ Digital                              Lab Meets: Fridays ONLINE
+ Metrics
+    “We have technology, finally, that for the first time in human history allows people to
+            really maintain rich connections with much larger numbers of people.”
+                                 – Pierre Omidyar, Founder of Ebay
+Instructor:      Dr. Natalie Devlin
+                 Office: BMC 4.318
+                 Phone: (256) 872-7898 (cell)
+                 Email: nataliebdevlin@utexas.edu
+Office Hours: T/TH 11:00 am – 12:00 pm and by appointment
+Teaching Assistant: Jung Ah Lee
+                         Email: jungahlee@utexas.edu
+       Course Description                Course Requirements           Policies and Resources
+ 1. Course Description               1. Required Readings          1. Classroom Policies
+ 2. Course Objectives and            2. Classroom expectations        a. Grading Policies
+    Learning Outcomes                3. Major Course Assignments      b. Policy on late work
+ 3. Course Prerequisites             4. Course grades                 c. Plagiarism
+ 4. How to succeed in this           5. Course Schedule               d. Policy on absences
+    course                                                            e. Course Communication
+                                                                   2. University Policies and
+                                                                      Resources
+                                                                      a. UT Honor Code
+                                                                      b. Student Accommodations
+                                                                      c. Accommodations for Religious
+                                                                         Holidays
+                                                                   3. University Resources for
+                                                                      Students
+                                                                      a. Moody College Writing
+                                                                         Support Program
+                                                                      b. Counseling & Mental Health
+                                                                   4. Safety information
+                                                                      a. Behavior concerns advice
+                                                                         line
+                                                                      b. Emergency Planning
+
+
+                                           COURSE DESCRIPTION
+1) Course Description: Digital Metrics serves as an introduction to digital metrics and digital analytics and how
+this area is continuously growing. As technology has evolved, businesses are left with an abundance of data at their
+fingertips, causing them to rely on strategic analysis to find creative ways to communicate with their key
+stakeholders. This class will teach you to think strategically and creatively in the digital space through identifying
+problems/challenges, creating a solution, and establishing important measures for success.
+2) Course Learning Outcomes:
+     WHAT:         Identify and discuss key issues affecting “big data” & digital media
+     HOW:          Unit 1 will introduce students to the rise of “big data” and how the availability of data has
+                   influenced privacy, audience targeting, and online ad buying.
+     WHAT:         Learn how digital strategies are planned, implemented, tested, and measured in display,
+                   search, and social media campaigns.
+     HOW:          Unit 2 will feature overviews of Display, Search, and Social Media campaigns, including
+                   planning, implementation, testing, and measurement.
+     WHAT:         Analyze, visualize, and present data.
+     HOW:          Unit 3 will include lessons on analytics tools, proper data visualization techniques, and data
+                   storytelling through concise, accurate presentations. Students will add to their resumes by
+                   completing Google Analytics and Google Ad Words certifications and will obtain a basic
+                   proficiency in Tableau software.
+     WHAT:         Implement a social media campaign, Analyze results, and Present learnings
+     HOW:          Students will each complete a simulated social media campaign. They will be required to use
+                   results to improve the performance of their campaign each week. At the end of the semester,
+                   students will work in teams and discuss what they each learned from their completed simulations
+                   and present what they feel an effective go-forward social media strategy would be for the
+                   company.
+3) Course Catalog Prerequisites: Advertising 345J with a grade of at least B, and consent of instructor; additional
+prerequisites vary with the topic. Additional prerequisite: Upper-division standing.
+4) How to succeed in this course:
+          Come Prepared to Participate: Come to class having prepared for the day by reading and be ready to
+          discuss the day’s material.
+          Collaborate with Classmates: A career path in digital is driven through collaboration and discussion.
+          Working in teams is crucial to brainstorming creative analytic solutions.
+          Give Feedback: Throughout the semester, please give your feedback on how you learn, topics that interest
+          you, or how this course can help you land internship and job opportunities.
+                                         COURSE REQUIREMENTS:
+1) Required Readings and Materials:
+               o Stukent Mimic Social Software Access: More information to be shared on Canvas
+               o Tableau Desktop Software – Free for students
+               o The Course website on Canvas
+               o Readings posted on the course website and/or distributed in class
+
+
+2) Classroom Expectations:
+        Mastery of Prerequisite material: Students should have a mastery of media planning as evidenced by
+        progress in the Texas Media sequence or by demonstrating a strong interest in digital media.
+        Respect your fellow classmates: In this course, we will have several class discussions. Opinions are
+        welcomed; however, it is important to remember that others might not hold your same viewpoint.
+        Discussions and healthy debates are an important part of the educational process. Please remember to
+        respect your classmates and your professor in all classroom discussions. If you are in violation of this
+        policy, you may be asked to leave the classroom. If you are asked to leave for behavioral violations, you
+        will be counted as absent for the day.
+        Know your industry: Students should read blogs, newsletters, or other periodicals that are relevant to the
+        class discussion and provide thought-provoking content for class each week. Digital Media is a quickly
+        evolving field, and it is crucial to stay on top of new developments.
+        Take full advantage of every opportunity: The University of Texas at Austin and the Moody College of
+        Communication provides many wonderful resources to students. You should take advantage of every guest
+        speaker, workshop, meeting, etc. that is made available to you. So often these connections and lessons can
+        help land you an internship or a job.
+        Bring a laptop computer: I recommend bringing a laptop to lecture days. It is a digital class, so we will
+        use our digital devices often. If you are not paying attention, because you are playing on your laptop or
+        using social media, you may be asked to leave.
+3) Major Course assignments: Assignments add up to a total of 700 possible points
+        Exams: (2 exams - 100 points each, total 200 points): Students are expected to read all assigned
+        readings. These exams will assess what students have learned from course readings, lectures, and lab
+        activities.
+        Online “Lab” Assignments: (25 points each (Testing Lab = 50 points), total 225 points): Students will
+        complete a number of lab assignments on Friday that reinforce the topics discussed in class each week.
+        Some labs will be hosted online through Canvas, and will give students a “low risk” opportunity to assess
+        learning and mastery of weekly topics. These labs give you the opportunity to put into practice what you
+        learn in class during the week. You WILL be working with BIG data. Other labs will involve students
+        completing a social media marketing simulation throughout the semester. In this simulation, students will
+        use the principles learned in this course to successfully manage a social media campaign. Simulations will
+        be completed on Fridays online and are hosted by Stukent. Students must purchase access to the
+        simulations as the “required text” for this course and sign up on their website. Additional information will
+        be available on Canvas.
+        Social Media Strategy Presentation (100 points): Students will work together in groups of five to discuss
+        their primary learnings from completing their social media simulations. After establishing what they feel
+        were “best practices,” students will complete a presentation that showcases a winning social media strategy
+        for the company to implement moving forward.
+        Google Analytics, Google Ad Words, and Digital Marketing Certifications: (125 points total):
+        Students are required to complete the certification exams for Google Analytics and Google Ad Words to
+        add to their resumes. If you have previously obtained these certifications, you will still need to retake the
+        exams to get a grade for this course (it is always good to practice and refresh your digital knowledge).
+        Students will be given class time to complete the certification courses. WHEN YOU COMPLETE YOUR
+        EXAM, YOU MUST SCREENSHOT YOUR SCORE AND UPLOAD IT TO CANVAS. Students will
+        also be required to select and complete one additional Digital Marketing Certification that requires them to
+        complete a course in their specialized area. Again, this helps target resumes.
+
+
+      Course Participation, Attendance, and Professional Conduct: (50 points): Come to class prepared and
+      ready to actively discuss readings and lectures, interact with classmates, the instructor, and industry guests.
+      You will learn that learning flourishes in an active environment, and you are expected to help foster
+      engagement throughout the course. Repeated absences will lower this grade. Also, I will evaluate your
+      final participation grade based using the following rubric:
+      A = Student engages in all activities; interacts with class members during face-to-face by providing
+      constructive feedback; participates on Canvas discussions and assignments; expresses individual thoughts
+      and poses questions during each class session; actively participates in each small group session; volunteers
+      for class discussion; prepared and familiar with course material when called upon; does not use technology
+      (phones, tablets, laptops) inappropriately during class.
+      B = Student sporadically fails to participate in-class discussion or on learning tasks. Student demonstrates
+      lack of preparedness during class by not actively participating with group members to accomplish tasks.
+      Student only occasionally volunteers for discussion, and comments/ questions are off-topic. Student uses
+      technology (cell phones/tablets) for activities unrelated to the course. Student does not participate in all
+      required activities on Canvas.
+      C = Student seldom volunteers to express ideas or shares thoughts during face-to face meetings or
+      participate via Canvas. Student’s responses to questions demonstrate vague familiarity with module
+      readings. Student is passive during group projects and needs reminders to stay on topic or to actively
+      participate. Student frequently uses technology (i.e. cell phone, tablets) inappropriately during class.
+      D and below = Student never volunteers, cannot answer direction questions related to the readings,
+      participates in few/no online discussion activities, and does not participate during face-to-face sessions.
+      Student is routinely using technology inappropriately in class (i.e. texting, emailing, Facebook-ing, etc.).
+      Lack of participation and preparedness, both online and face-to-face, is routine throughout the semester.
+4) Course grades:
+      Course Assignment Grades
+                                        Assignment                              Points Possible
+                                           Exam 1                                    100
+                                           Exam 2                                    100
+                                  Stukent Lab Assignments                             75
+                               Friday Online Lab Assignments                         150
+                             Social Media Strategy Presentation                      100
+                               Google Analytics Certification                         50
+                               Google Ad Words Certification                          50
+                               Digital Marketing Certification                        25
+                               Class Attendance/Participation                         50
+                                          TOTAL                                      700
+
+
+Course Final Grading Scale:
+                                   Proportion of Points               Letter Grade
+                                       92.5% - 100%                         A
+                                       89.5% - 92.4%                       A-
+                                       86.5% - 89.4%                       B+
+                                       82.5% - 86.4%                        B
+                                       79.5% - 82.4%                       B-
+                                       76.5% - 79.4%                       C+
+                                       72.5% - 76.4%                        C
+                                       69.5% - 72.4%                       C-
+                                       59.5% - 69.4%                        D
+                                        Below 59.4%                         F
+5) Course Schedule:
+Please Note: The course schedule is subject to change. Students are responsible for changes that are
+announced in class and by email.
+        Date                                 Topic                                  Assignment Due
+                                                  Week One:
+                                             Course Introduction
+    Tues., Jan. 22                  Course Syllabus Review
+    Thurs., Jan 24               Welcome to the World of Data
+                                                  Week Two:
+                                      I Like Big Data and I Cannot Lie
+    Tues., Jan. 29               Big Data: Then, Now, Future
+    Thurs., Jan. 31                The Nuts N Bolts of Data
+                                                 Week Three:
+                                              People and Privacy
+     Tues., Feb. 5                   Privacy: Does it exist?
+    Thurs., Feb. 7            Goodbye Segmentation, Hello 1:1
+  Friday Online Lab              Defining an Audience Lab #1
+                                                  Week Four:
+                                                     Social
+    Tues., Feb. 12                        Social Part I
+    Thurs., Feb. 14                      Social Part II
+  Friday Online Lab        Stukent: Social Simulation Rounds 1 & 2                 Audience Lab Due
+                                                  Week Five:
+                                                    Search
+    Tues., Feb. 19                        Search Part I
+    Thurs., Feb. 21                      Search Part II
+  Friday Online Lab        Stukent: Social Simulation Rounds 3 & 4             Stukent Rounds 1 & 2 Due
+                                                  Week Six:
+                                           Exam Review & Exam 1
+    Tues., Feb. 26                       Exam Review
+    Thurs., Feb. 28                         Exam 1
+  Friday Online Lab        Stukent: Social Simulation Rounds 5 & 6             Stukent Rounds 3 & 4 Due
+
+
+                                          Week Seven:
+                                             Display
+ Tues., March 5                  Display Part I
+ Thurs., March 7                 Display Part II
+Friday Online Lab            Canvas: Display Lab               Stukent Rounds 5 & 6 Due
+                                          Week Eight:
+                                     Google Certifications
+ Tues., March 12      Google Certifications Video-Canvas
+Thurs., March 14        Complete Google Certifications
+Friday Online Lab       Complete Google Certifications              Display Lab Due
+                                          Week Nine:
+                                         Spring Break
+ Tues., March 19            Spring Break – No Class
+Thurs., March 21            Spring Break – No Class
+Friday Online Lab           Spring Break – No Class
+                                           Week Ten:
+                                         Web Analytics
+ Tues., March 26                Web Analytics I                Google Certifications Due
+Thurs., March 28                Web Analytics II
+Friday Online Lab         Canvas: Web Analytics Lab
+                                         Week Eleven:
+                                   Don’t Tell Me, Show Me!
+  Tues., April 2            Data Visualization Part I
+  Thurs., April 4          Data Visualization Part II
+Friday Online Lab             Digital Certification             Web Analytics Lab Due
+                                         Week Twelve:
+                                    Visualization + Testing
+  Tues., April 9           Data Visualization Part III
+ Thurs., April 11                 Testing Part I
+Friday Online Lab        Canvas: Data Visualization Lab         Digital Certification Due
+                                        Week Thirteen:
+                                   Testing & Optimization
+ Tues., April 16                 Testing Part II
+ Thurs., April 18                Testing Part III
+Friday Online Lab   Canvas: Testing Lab (Rocket Fuel Case)     Data Visualization Lab Due
+                                        Week Fourteen:
+                                   Exam Review + Exam 2
+ Tues., April 23                 Exam Review
+ Thurs., April 25                   Exam #2                             Exam #2
+Friday Online Lab      Continue Working on Testing Lab
+                                         Week Fifteen:
+                                Digital Strategy Presentations
+ Tues., April 30                Data Storytelling
+  Thurs., May 2   Social Media Strategy Presentation Workday
+Friday Online Lab Social Media Strategy Presentation Workday        Testing Lab Due
+                                         Week Sixteen:
+                                Digital Strategy Presentations
+   Tues., May 7       Social Media Strategy Presentations
+  Thurs., May 9       Social Media Strategy Presentations
+
+
+                                        POLICIES AND RESOURCES
+1) Classroom Policies:
+        A. Grading Policies: In this course, grades are not given. They are earned. Therefore, I do not give you
+             a grade; rather, you earn your grade. For each assignment, you will be provided with a detailed rubric
+             of how you earned your final score.
+        B. Policy on late work: Late Work will not be accepted. Exceptions will be made under extreme
+             circumstances, if the student discusses the issue with the instructor ahead of time, either in person or
+             via e-mail/phone.
+        C. Plagiarism: In accordance with the UT Honor Code, Plagiarism will not be tolerated in this course. If
+             words are not your own or are taken from another source, they must be properly quoted and cited. If
+             you have any questions about plagiarism, proper citations, etc., please see me. Please read the
+             http://deanofstudents.utexas.edu/conduct
+        D. Policy on absences: Attendance is mandatory. In order to be successful in this course, it is
+             imperative that you attend every single class. You are allowed two free absences for whatever reason
+             you choose. After that, all future absences will result in deducted points from your class participation
+             grade.
+        E. Course Communication: If you send me an email during business days, please expect a response
+             within 24 hours. All emails should be written in a professional manner. I will not respond to emails
+             that are not properly formatted and/or include severe spelling/grammatical errors. I will assume that
+             your email is spam if it is poorly written. If you are unsure as to how to properly format an email,
+             please visit: http://smallbusiness.chron.com/proper-business-email-format-40878.html.
+        F. Use of Technology: Technology will be used in this course. Laptops, iPads, tablets, etc. are welcomed
+             in this classroom. HOWEVER, these items should only be used for classroom-related activities.
+             Please silence all devices before class begins. If you are playing on Facebook, Twitter, Instagram,
+             Snapchat, checking email, etc. during class, you may be asked to leave. If you are asked to leave for
+             this reason, you will lose classroom participation points.
+2) University Policies and Resources:
+        A. University of Texas Honor Code: The core values of the University of Texas at Austin are learning,
+             discovery, freedom, leadership, individual opportunity, and responsibility. Each member of the
+             University is expected to uphold these values through integrity, honesty, trust, fairness, and respect
+             toward peers and community.
+             Mandatory reading: All students agree to read then abide by the University of Texas at Austin’s
+             Standard of Academic Integrity and understand the nature of Academic Dishonesty as defined by UT-
+             Austin at: http://deanofstudents.utexas.edu/sjs/acint_student.php and
+             http://deanofstudents.utexas.edu/sjs/acadint_whatis.php
+        B. Student Accommodations: Students with a documented disability may request appropriate academic
+             accommodations from the Division of Diversity and Community Engagement, Services for Students
+             with Disabilities, 512-471-6259 (voice) or 1-866-329-3986 (video phone).
+             http://ddce.utexas.edu/disability/about/
+                  l    Please request a meeting as soon as possible for us to discuss accommodations
+                  l    Please notify me as soon as possible if the material being presented in class is not accessible
+                  l    Please notify me if any of the physical space is difficult for you.
+        C. Accommodation of Religious Holidays: By UT Austin policy, you must notify me of your pending
+             absence at least fourteen days prior to the date of observance of a religious holy day. If you must miss
+
+
+              class, an examination, a work assignment, or a project in order to observe a religious holy day, you will
+              be given an opportunity to complete the missed work within a reasonable time after the absence.
+3) University Resources for Students:
+         A. Moody College Writing Support Program
+         The Moody College Writing Support Program, located in BMC
+         3.322, https://moody.utexas.edu/students/moodywriting offers one-on-one assistance without charge to
+         students seeking to improve their professional writing in all fields of communication. We have specialists
+         in Journalism, RTF, CSD, CMS, and PR and Advertising. In addition, we offer workshops to strengthen
+         core-writing skills in each field and to inspire students to strive for excellence. Students may book half-
+         hour appointments on our website or drop in for assistance during all stages of the writing process.
+4) Safety Information:
+         A. Behavior concerns advice line: If you’re worried about the behavior of a classmate, roommate,
+              friend, etc., please call the Behavior Concerns Advice Line (BCAL) at 512-232-5050. For more
+              information, please visit: https://operations.utexas.edu/units/csas/bcal.php.
+         B. Emergency Planning: In case of emergency, proper plans can be found online at
+              https://operations.utexas.edu/units/csas/plans.php.

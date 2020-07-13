@@ -1,0 +1,314 @@
+          Course ACC 384.3 Taxation of Entities II (Flow-Through Entities)
+        Professor Terri Holbrook, CPA, MST
+            Term Fall 2019
+                   Section #02795 TTH 12:30 – 2:00pm CBA 4.344
+         Meetings Section #02800 TTH 2:00 – 3:30pm CBA 4.324
+                   Section #02805 TTH 3:30 – 5:00pm CBA 4.324
+ Office and hours CBA 4M.208; Tues and Thurs 5:00-6:00pm, or by appointment
+Professor contact Terri.Holbrook@mccombs.utexas.edu office phone 512-471-2888
+                   Christina Mao christinamao@utexas.edu
+   Teaching Asst
+                   This course will include an in-depth analysis of Subchapter K of the Internal
+                   Revenue Code, which covers the structure and principals governing the
+           Course taxation of non-corporate flow-through entities and their owners. The course
+       Description will also address the taxation of S-Corporations and their shareholders,
+                   giving students the knowledge to compare the two flow-through entities.
+                   This course is designed for graduate accounting students who are pursuing
+                   the Tax Track of the MPA program. Prerequisites include an introductory tax
+     Prerequisites course (ACC 380K.11, ACC 355, or equivalent) and completion or
+                   concurrent enrollment in a tax research course (ACC 384.1, or equivalent).
+                   After completing this course, students should have:
+                        1. An appreciation of the complexity of Subchapter K and the supporting
+                            Regulations and case law;
+                        2. An understanding of the concepts behind the aggregate and entity
+                            theories of partnership taxation;
+                        3. Learned the fundamentals of partnership taxation using a life-cycle
+         Learning           approach, including formation, operation, allocations, distributions
+        Objectives          and liquidations;
+                        4. An understanding of more complex areas, including special
+                            allocations of partnership items, transactions between a partnership
+                            and its’ partners, and new provisions under the TCJA;
+                        5. A working knowledge of Subchapter S corporations and the ability to
+                            compare and contrast between all flow-through tax entities.
+
+
+                   Fundamentals of Partnership Taxation: Cases and Materials; Schwarz,
+                   Lathrope & Hellwig, Thomson-West publisher
+                   You may use the 10th or 11th Edition. See schedule for assigned pages to
+                   read for each class period for each edition. If using the 10th Edition, please
+                   make sure to read the supplement when assigned. Find the supplement
+                   posted in first module on Canvas.
+Required Text and A required Course Packet will be available in class for a nominal cost that
+    supplemental includes relevant sections of the Internal Revenue Code.
+       resources
+                   The Canvas course site contains modules for each chapter and all
+                   PowerPoint slide decks are posted there. I encourage you to print out these
+                   slides, bring to class and take additional notes on the slides so that you may
+                   refer to them during exams.
+                   Other required readings and resources may be assigned and posted on
+                   Canvas. You may also refer to resources on the UT Library website, such as
+                   the RIA Checkpoint tax database.
+    General Course Information
+    Course Policies
+                    Students will be evaluated through a combination of projects, exams, and a
+                    qualitative “professionalism” grade. Points will be allocated as follows:
+                        • First exam (200 points)
+                        • Second exam (200 points)
+                        • Final exam (250 points)
+          Grading       • Partnership tax return (100 points)
+          Criteria      • Group project (150 points)
+                        • Professionalism; described below (100 points)
+                        • Total Points – 1,000
+                    A plus or minus grading scale will be used to assign final grades, with an
+                    expected distribution curve around an average GPA of 3.4-3.6.
+                        1. The exams will be administered during the times outlined in this
+                             syllabus calendar. Please reserve these times in advance so that you
+                             do not have a conflict during a scheduled exam. You must sit for the
+                             exams on the dates and times scheduled. If an extraordinary event
+                             (death in immediate family, illness requiring hospitalization, etc.),
+                             contact me before the exam and I will resolve on an individual basis.
+           Exams        2. Exams will test the material covered since the last exam; however,
+                             due to the integrated nature of tax law, there may be a
+                             comprehensive element to each exam.
+                        3. During each exam you may use a calculator, your text, notes, and
+                             any printed material you wish to bring. You may not use your laptop,
+                             tablet, cell phone during exams.
+
+
+                      There is assigned reading for each class meeting and you are expected
+                      to come prepared to discuss the material.
+Outside Reading       Problems are included in each chapter and the solutions to the problems
+  and Problems        are posted on Canvas. Although these problems will not be collected or
+                      graded, you are encouraged to work through these problems as they will
+                      help you learn the material and prepare for the exams.
+                 A U.S. Return of Partnership Income (Form 1065) will be assigned and
+                 completed in groups. All information will be provided for you to prepare the
+     Tax Return return, including a list of the forms and schedules required. These forms are
+                 available at www.irs.gov in fill-out and print format. Tax preparation software
+                 is NOT permitted.
+                 Students will work in groups on a project that will be assigned mid-semester.
+                 This project will incorporate tax research, comprehension and analysis,
+  Group Project critical thinking, creative presentation, visual data illustration and
+                 communication skills.
+                 In calculating your final grade, 100 points will come from your display of
+                 professionalism in my class. This discretionary evaluation will be based
+                 upon the following:
+                      • Class attendance
+                      • Participating in class discussions
+                      • Evidence of preparedness by responding to class questions
+Professionalism
+                      • Courteous consideration of classmates
+                      • Showing respect to classmates by using laptops/tablets only for class
+                          activities, and if not distracting to others
+                      • Turning off all cell-phones
+                      • Contributing to the learning environment of the classroom
+                 You are expected to attend all classes and absences will be noted. It is in
+                 your best interest to attend class and be prepared. If you must miss a class,
+           Class
+                 it is your responsibility to contact another student to get the lecture notes and
+     Attendance other materials that you missed.
+                 Please turn off all cell phones and music devices during class. Laptops or
+      Classroom
+                 Tablets may be used only to take notes or view class materials, and if they
+     Citizenship are not distracting to others.
+                 This course will use the Canvas education management system found at
+                 www.canvas.utexas.edu All important information, including the syllabus,
+                 class slides, additional reading materials, and problem solutions will be
+                 posted there. I may communicate important information via announcements
+                 or messages on Canvas and students may also communicate with me
+        Canvas, through Canvas or email.
+ Communication Privacy in Canvas: Information in Canvas is protected by your UTEID
+    and Privacy login. Please be aware that I will use a merged Canvas site for all sections
+                 of the course that I am teaching this semester. This will allow students in
+                 other sections to see that you are enrolled in the course and send you email
+                 from within Canvas. However, they will not actually learn your email address
+                 and no other personal data will be revealed through Canvas. If you have any
+                 concerns, please contact the ITS Help Desk at 475-9400. For information on
+
+
+               restricting directory information see:
+               http://www.utexas.edu/student/registrar/catalogs/gi02-03/app/appc09.html
+               The McCombs School of Business has no tolerance for acts of scholastic
+               dishonesty. The responsibilities of both students and faculty with regard to
+               scholastic dishonesty are described in detail in the BBA Program’s Statement
+               on Scholastic Dishonesty at http://my.mccombs.utexas.edu/BBA/Code-of-
+               Ethics. By teaching this course, I have agreed to observe all faculty
+               responsibilities described there. By enrolling in this class, you have agreed to
+               observe all student responsibilities described there. If the application of the
+               Statement on Scholastic Dishonesty to this class or its assignments is
+     Policy on unclear in any way, it is your responsibility to ask me for clarification.
+   Scholastic Students who violate University rules on scholastic dishonesty are subject to
+   Dishonesty disciplinary penalties, including the possibility of failure in the course and/or
+               dismissal from the University. Since dishonesty harms the individual, all
+               students, the integrity of the University, and the value of our academic brand,
+               policies on scholastic dishonesty will be strictly enforced. You should refer to
+               the Student Judicial Services website at
+               http://deanofstudents.utexas.edu/conduct/ to access the official University
+               policies and procedures on scholastic dishonesty as well as further
+               elaboration on what constitutes scholastic dishonesty.
+               Please note the following recommendations regarding emergency
+               evacuation, provided by the Office of Campus Safety and Security, 512-
+               471-5767, http://www.utexas.edu/safety:
+                   • Occupants of buildings on The University of Texas at Austin campus
+                        are required to evacuate buildings when a fire alarm is activated.
+                        Alarm activation or announcement requires exiting and assembling
+                        outside.
+                   • Familiarize yourself with all exit doors of each classroom and building
+                        you may occupy. Remember that the nearest exit door may not be
+                        the one you used when entering the building.
+                   • Students requiring assistance in evacuation should inform the
+Campus Safety           instructor in writing during the first week of class.
+                   • In the event of an evacuation, follow the instruction of faculty or class
+                        instructors.
+                   • Do not re-enter a building unless given instructions by the following:
+                        Austin Fire Department, The University of Texas at Austin Police
+                        Department, or Fire Prevention Services office.
+                   • Behavior Concerns Advice Line (BCAL): 512-232-5050 (or
+                        https://operations.utexas.edu/units/csas/bcal.php).
+                   • Further information regarding emergency evacuation routes and
+                        emergency procedures can be found at:
+                        http://www.utexas.edu/emergency.
+
+
+                 If you have a complaint regarding your grade on an exam, please discuss
+       Student   with me as soon as possible after the exam. I will not consider any grade
+                 changes if brought to my attention more than three days after exam results
+    Grievance    are returned to you.
+  Procedures     If a student has a grade grievance on his/her final course grade, the student
+                 must follow the specified procedures established by the University.
+                 Please refer to the academic calendar for the last day to drop/add a course
+                 without financial or academic penalty. It is the student's responsibility to
+    Drop/Add,    handle withdrawal requirements from any class. You must do the proper
+Withdrawal or    paperwork to ensure that you will not receive a final grade of "F" in a course
+   Incomplete    if you choose not to attend the class once you are enrolled.
+         policy  If a student fails to complete this course for illness or other reason deemed
+                 adequate, I will use my discretion to assign a grade of I (Incomplete). This
+                 will be handled on an individual basis.
+                 By UT Austin policy, you must notify me of your pending absence at least
+                 fourteen days prior to the date of observance of a religious holy day. If you
+Religious Holy   must miss a class, an examination, a work assignment, or a project in order
+          Days   to observe a religious holy day, you will be given an opportunity to complete
+                 the missed work within a reasonable time after the absence.
+                 Students with disabilities may request appropriate academic
+                 accommodations from the Division of Diversity and Community Engagement,
+Students with
+                 Services for Students with Disabilities, 512-471-6259,
+    disabilities http://diversity.utexas.edu/disability/.
+                 It is my intent that students from all diverse backgrounds and perspectives be
+                 well served by this course, that students’ learning needs be addressed and
+ Diversity and
+                 that the diversity that students bring to this class can be comfortably
+      Inclusion expressed and be viewed as a resource, strength and benefit to all students.
+                 Please come to me at any time with any concerns.
+
+
+Course Schedule (may change with adequate notice to students)
+ DATE      TOPIC               TEXT             TEXT              Applicable IRC
+                               Ed 10*           Ed 11             Sections
+ TH        Introduction to
+ Aug 29    Subchapter K
+ T         Tax classification Ch 1; Skip text Ch 1                761(a),
+ Sept 3    of business         pgs 4-7, read                      7701(a)(2),
+           enterprise; choice supplement.                         7704
+           of business entity
+ TH        Contributions of    Ch 2             Ch 2              721,722,723,70
+ Sept 5    property; basics                                       4(c)(1)(A),
+           of liabilities; Org                                    724,752(a)-(c),
+           expenses                                               709
+ T         Operations:         Ch 3 pgs 57-     Ch 3 pgs 59-79    701,702(b),703,
+ Sept 10   aggregate and       76;                                706(a) and (b)
+           entity principles
+ TH        Operations          Ch 3 pgs 77-80 Ch 3 pgs 79-83      701,702,703(a),
+ Sept 12   consequences to                                        705,706(a)
+           partners
+ T         Limitations on      Ch 3 pgs 80-     Ch 3 pgs 94-108   704(d),465,469,
+ Sept 17   partnership         93; Read Supp                      461(l)
+           losses              on 461(l)
+ TH        Special             Ch 4; Skim for   Ch 4; Skim for    704(b)
+ Sept 19   allocations under high points;       high points; skip
+           704(b)              skip pgs 118-    pgs 133-145
+                               130
+ T         Allocations for     Ch 5             Ch 5              704(a) and
+ Sept 24   contributed                                            (c),724,751(c)
+           property; family                                       and (d);704(e);
+           partnership rules;                                     706(c) and (d)
+           varying interests
+ TH        Allocations of      Ch 6; skip pgs   Ch 6; skip pgs    704(c)(1)(A),
+ Sept 26   partnership         190-192 & 198- 215-220             752(a)-(c)
+           liabilities         204
+ Mon       Exam 1; 6:00-       UTC 4.102 &
+ Sept 30   8:30p               4.104
+           Chaps 1-6
+ T         Payments for        Ch 7 pgs 207-    Ch 7; pgs 223-    707(a) and
+ Oct 1     services and        210,214-         242; 245-248      (c),267(a)(2)
+           compensating        226,230-232                        and (e)(1)
+           partners
+ TH        Contributions of    Ch 7 pgs 232-    Ch 7; pgs 249-    83(a)-(c) and
+ Oct 3     services for        258; Read        280               (h), 1061
+           partnership         supp on
+           equity; Carried     Carried Interest
+           interests
+
+
+Mon    Tax Returns Due
+Oct 7  5pm
+T      Sales and         Ch 8; Read     Ch 8             707(a); 267(a),
+Oct 8  exchanges of      supp                            (c) and (d)
+       property between
+       partners/partners
+       hips
+TH     Sales and         Ch 9 pgs 283-  Ch 9 pgs 303-328 705(a),706(c),
+Oct 10 exchanges of      307                             741,751,752(d),
+       partnership                                       1(h)(5)(B),
+       interests
+T      Sec 754 elections Ch 9 pgs 307-  Ch 9 pgs 328-338 742,743,752(a),
+Oct 15 and 743(b)        317; Read                       754,755
+       adjustments       supp
+TH     Operating         Ch 10 pgs 319- Ch 10 pgs 339-   731,732,733,
+Oct 17 distributions and 334            354              734, 735
+       734(b)
+       adjustments
+T      Mixing bowl       Ch 10 pgs 335- Ch 10 pgs 355-   704(c),737,
+Oct 22 transactions &    346. Omit 347- 366. Omit 367-   731(d),732(e),
+       disproportionate  360.           382.             751(b)
+       distr
+TH     Liquidating       Ch 11 pgs 361- Ch 11 pgs 383-   736,761(d),731,
+Oct 24 distributions     385            408              732
+T      Payments to       Ch 11 pgs 386- Ch 11 pgs 409-   731,732,736,
+Oct 29 retiring partners 395            418              741,751
+TH     Termination &     Ch 12; skip pg Ch 12; skip 437- 708, 691(a)-(c),
+Oct 31 mergers of a      412-427. Read  446.             736
+       partnership;Death supp.          Ch 13
+       of a partner      Ch 13
+Mon    Exam 2 6:00 –     UTC 4.102 &
+Nov 4  8:30pm            4.104
+       Chaps 7-13
+T      NO CLASS
+Nov 5
+TH     Formation and     Ch 15 pgs 457- Ch 15 pgs 473-   1361,1362,1378
+Nov 7  operation of S-   472            488
+       Corporation
+T      Limitation of     Ch 15 pgs 472- Ch 15 pgs 489-   1363,1366,1367
+Nov 12 losses and        490            491, 495-509     311(b),
+       distributions to                                  1368, 1371
+       shareholders
+TH     Special issues of Ch 15 pgs 491- Ch 15 pgs 510-   1363, 1371,
+Nov 14 S-Corporations    515            534              1372, 1374,
+                                                         1375
+
+
+ T           TCJA applications Canvas         Canvas readings 199A, 163(j)
+ Nov 19      to Flow-Through   readings
+             entities
+ TH          Group projects
+ Nov 21
+ T           NO CLASS
+ Nov 26
+ TH          THANKSGIVING
+ Nov 28
+ T           Group projects
+ Dec 3
+ TH          Group projects
+ Dec 5
+ TBD         Final Exam
+*If using Ed 10, read supplement when assigned.

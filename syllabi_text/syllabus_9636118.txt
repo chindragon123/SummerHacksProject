@@ -1,0 +1,397 @@
+                CS n429: Summer, 2019
+             Computer Organization and
+                              Architecture
+                        Instructor: Dr. Bill Young
+Unique numbers: 85580; Class time: MTWTHF 10-11:45am; Location: ASE
+                                       1.126
+      Instructor Office: GDC 7.810; Phone: 471-9782; Email: byoung at
+                                   cs.utexas.edu
+       Instructor Office Hours: Monday and Friday 8:30-9:30am and by
+                                    appointment
+   TA: Adrian Trejo; Email: atrejo at cs.utexas.edu; TA Office Hours: TBA
+   Proctor: Matthew Hinton; Email: mjh4395 at utexas.edu; Proctor Office
+                                    Hours: TBA
+   This website: www.cs.utexas.edu/users/byoung/cs429/syllabus429.html
+Important Class Announcements:
+Breaking news important to the class will be posted here. Consult this
+spot often.
+Note: our class has been moved to GDC 2.216. We'll be meeting in that room
+every day, including discussion sections, with one exception. On Wednesday,
+June 12, we'll be meeting in GDC 4.304.
+Instead of a discussion section this Friday (6/7), we'll have a regular class in
+the usual location.
+We'll be programming in C this semester. The following as a pretty good style
+guide to follow in all of your assignments: style guide. We probably won't
+grade as strictly as defined by this webpage, but it will provide you with
+guidelines on how to write rigorous C and settle any "what are the style
+guidelines" questions.
+Dr. Young's office is in the south wing. You have to take the south elevator,
+
+
+because the two towers don't connect on the 7th floor.
+Feel free to email me (Send me an email message), but please put "CS429"
+in the header.
+Course Description:
+CS429 is the first course in the systems core sequence required of all UT CS
+majors. It describes how computers operate at a fairly low level of abstraction.
+For example, we'll consider:
+      What are the components of a computer and how do they fit together?
+      How do computers do arithmetic?
+      How does the code you write actually execute?
+      How does a program in a high level language like C get translated into a
+      form the machine can execute?
+      How is information stored and accessed?
+      How can you write code likely to execute efficiently?
+Understanding these fundamentals thoroughly is absolutely essential to your
+future success in computer science. The material of this course is quite
+detailed and requires careful and diligent study. If you are not willing to put in
+the time and effort required to master this material, you probably should
+reconsider your decision to major in Computer Science.
+The UT College of Natural Sciences recently published Vision and
+Recommendations for 21st Century Undergraduate Education (June, 2016). It
+contains these words:
+      "Research on learning shows that transformative education requires
+      teaching methods that engage students in productive intellectual
+      struggles. Students must personally grapple with scientific and
+      mathematical concepts to develop a deep understanding of core
+      principles. They must be given opportunities to overcome obstacles
+      and failure to develop an acceptance of ambiguity and a willingness
+      to persevere."
+In this class, you won't succeed unless you do some struggling, grappling and
+persevering, and accept ambiguity! Not everything will be spelled out for you
+and there are a number of skills you'll have to acquire on your own. You will
+
+
+be asked to complete some very challenging assignments. In some cases you
+will be expected to use tools and techniques that are not discussed in class.
+That is not to say that help is not available; just that we expect you to be
+proactive about learning. This is a skill you must acquire now, because you'll
+need it for your entire academic and professional career. Toto, I don't think
+we're in high school anymore!
+The students that do well in this class are survivors. This class is a lot of work,
+and it is important to keep current. The material in this class is cumulative; it
+can be quite difficult to catch up if you fall behind. It is important to keep
+turning in homework and coming to class. Here are some general hints for
+succeeding in this and other classes: Hints for Success.
+We will be discussing several different programming languages in this course:
+C, x86 assembly language, and Y86 assembly language. You will be writing
+programs in at least C and x86.
+If you want to get a sense of what this course is like, I suggest you watch this
+short video: An Apt Metaphor for CS429.
+Weekly Discussion Sections:
+Each Friday (except 6/7 which will be a lecture) is the weekly discussion
+section. It will be held at the class time and in the class room.
+Using Piazza:
+We will be using Piazza for class communication. The Piazza system is highly
+catered to getting you help quickly and efficiently from classmates, the TAs,
+and myself. Rather than emailing questions to the teaching staff, I encourage
+you to post your questions on Piazza. Don't post code and other items on
+Piazza that give away solutions to homework or labs, unless you post
+them privately (visible only to yourself and the instructors.)
+If you turn off Piazza notifications and miss an important posting, you
+are responsible. If you have any problems or feedback for the developers,
+email team at piazza.com. Because of some issues in past semesters, posts
+may be anonymous to the class, but not to the instructors. I expect that posts
+will be pertinent and respectful. Don't use Piazza as a place to vent or trash
+anyone. Please don't waste everyone's time posting jokes and other fluff.
+Prerequisites:
+
+
+You are expected to have taken and passed the following courses (or
+equivalent) with a grade of at least C-: Computer Science 311 (or 313K) or
+311H (or 313H); and Computer Science 314 (or 315) or 314H (or 315H). If you
+don't have the prerequisites, be sure to clear it with the CS department or risk
+being dropped from the class.
+Text:
+The required text book for this class is Computer Systems, A Programmer's
+Perspective by Randal E. Bryant and David O'Hallaron, Prentice Hall, 2016
+(Third Edition). You must have the 3rd edition, which is substantially different
+from the 2nd edition. It's up to you to be sure you have a correct edition. Note
+that this book is also used in CS439, so don't sell it back at the end of the
+semester if you plan on continuing in CS.
+There is an available international edition that costs less than the standard
+edition. But be aware that some of the homework problems appear to be
+different in the international edition. So make sure that if you buy the
+international edition, that you check with someone who has regular book to
+make sure you're doing the right problems.
+There is apparently also an ebook version here which you are welcome to
+investigate: eBook version.
+Note that our book has quite a few errors. You can find the errata here: book
+errors. Several times, I've been puzzled by something in the book only to find
+that it was wrong.
+Since we will be programming some in C, I recommend that you have access
+to The C Programming Language, second edition, by Brian Kernighan and
+Dennis Ritchie, Prentice Hall Software Series. This is available on-line. There
+are also many Web pages devoted to C-language programming. A nice
+tutorial intro to C is here: C Tutorial. Java programmers should have no
+problem with the subset of C that we will use.
+Class Schedule and Slides:
+The class schedule is here: schedule. This schedule is approximate; some
+dates may change. Rely on the assignment handouts, not on this schedule for
+assignment due dates.
+All of the class slides will be made available via links below as we cover new
+material. You are welcome to print them out or view them on-line. Slides are in
+
+
+PDF form. They are derived from slides originally developed for the course by
+Bryant and O'Hallaron and substantially modified by me and other professors.
+They are used with permission.
+The following is a tutorial on C generated by a UT grad student: C Tutorial
+Slides on C: 4up-PDF PDF
+Slideset 1: Introduction to Computer Systems 4up-PDF PDF
+Slideset 2: Bits and Bytes 4up-PDF PDF
+Slideset 3: Integers 4up-PDF PDF
+Number wheel for unsigned 4-bit ints: Unsigned.
+Number wheel for signed 4-bit ints: Signed.
+Slideset 4: Floating Point 4up-PDF PDF
+Slideset 5: Digital Logic 4up-PDF PDF
+No Laptops:
+If you want to use laptops, cell phones, or other electronic devices, please
+step out of the class. In previous semesters I've had complaints from students
+that use of laptops was distracting to other students.
+Videos:
+For the past several semesters, I have been making some videos that you
+might find helpful. Generally, they cover small snippets of class material that
+some students find confusing. If you have other topics for which you'd find
+such videos helpful, please share them with me.
+Same Bits, Different Interpretations
+Big Endian vs. Little Endian
+Representing Unsigned Integers
+Representing Signed Integers
+Why Sign Extension Works
+Representing Normalized FP Numbers
+Representing Denorms and Special FP Values
+Round to Even
+
+
+Multiplying Floating Point Numbers
+Adding Floating Point Numbers
+Functionally Complete Sets of Boolean Operators
+Assembly Language Programming: Swap
+x86 Push instruction
+x86 Pop instruction
+MOV vs. LEA
+x66 Call and Ret instructions
+Using x86 Condition Codes
+Array Indexing
+Handling Data Hazards in the Y86 Pipeline
+Cache Reading
+Handling Cache Misses
+Tests:
+There will be three in-class exams of approximately one and one half hours
+each. See the schedule for dates: schedule. There will be no makeups on in-
+class exams, but I will drop the lowest of these three scores. Exams are
+cumulative but will focus very heavily on the material since the previous exam.
+The final exam is optional for anyone who has taken all three in-class exams
+and is willing to take the (normalized) average of all three exams as their final
+exam score. Our final exam is on the last day of class, 7/31.
+Your exam grades is computed as follows: If you take all three in-class exams
+and are happy with the average (of all three), you can skip the final and
+substitute that average for the final exam score. For example, suppose you
+receive (normalized) scores of 100, 90, and 80 on the three exams. Your
+average for the in-class exams is 95 (dropping the lowest score of 80), which
+counts 30% of your grade. If you choose not to take the final exam, your score
+on that is 90 (the average of all three), which counts 20% of your grade. If you
+skip any of the in-class exams, you must take the final. If you do take the final,
+the score on that test will be your final exam score, no matter how well you did
+on the in-class exams. I.e., taking the final exam could lower your grade.
+We also will have several pop quizzes over the course of the semester,
+probably one or more a week. They will be counted along with the 15% of
+your grade from weekly homeworks. There will be no makeup for quizzes, but
+they individually count only a small fraction of your grade, so don't freak out if
+you miss one. Quizzes may cover any material we've covered previously in
+the class, but will focus on recent material.
+
+
+Assignments:
+Written homework will be assigned nearly every week. They're due by the end
+of the due day (midnight). Answers must be submitted on Canvas and will not
+be accepted late. You may discuss written assignments with classmates and
+get help from the instructors; but submit your own work. This is an easy
+portion of your grade so make the most of it.
+You will have around 5-6 labs over the course of the semester. You must work
+alone on all labs. The due dates will be clearly marked. For labs, you will have
+3 total grace days available which you can use over the course of the
+semester. You'd do well to save them as long as possible to deal with
+illnesses and personal emergencies.
+We'll be programming in C this semester. You can use the following as the
+style guide to follow in all of your assignments: style guide. We won't grade as
+strictly as defined by this webpage, but it will provide you with guidelines on
+how to write rigorous C and settle any "what are the style guidelines"
+questions.
+When you get your lab and homework grades, please check them carefully. If
+there's an error call it to our attention. We expect that after a week the grades
+will be final, unless there is a real issue.
+Labs are generally posted on Canvas and Piazza.
+Getting help:
+It is a good idea to post your questions on Piazza, so that others can
+comment and also see the answer. But please don't post homework or lab
+solutions or large code fragments except in private messages to the
+instructors. General questions about class material, quizzes or tests should
+be directed to Dr. Young. Adrian (the TA) will manage and grade the labs and
+is your best source of information on those. Weekly homeworks are generally
+graded by the proctor; direct your questions there for homeworks.
+Attendance:
+You are strongly encouraged to come to class. Attendance will not be
+checked, but my experience suggests strongly that students who regularly
+miss class do poorly. On test days, be sure to arrive on time.
+
+
+Computation of Your Grade:
+The weighting of the grades for the various aspects of the course are as
+follows:
+  Component                       Percent
+  In class exams (one dropped)      30%
+  Final Exam                        20%
+  Homework and Quizzes              15%
+  Labs                              35%
+Canvas attempts to compute a running average course grade as individual
+scores are entered. You should totally ignore that. I'm not making any effort
+to get Canvas to weight things appropriately, drop low scores, etc. If you want
+to know how you're doing in the class, compute the score yourself.
+Grades for the entire course tentatively will be averaged using the weighting
+below:
+  Course score    Grade
+  [93...100]        A
+  [90... 93)        A-
+  [87... 90)       B+
+  [83... 87)        B
+  [80... 83)        B-
+  [77... 80)       C+
+  [73... 77)        C
+
+
+   [70... 73)        C-
+   [65... 70)        D+
+   [60... 65)         D
+   [ 0... 60)         F
+This is tentative. The grades may be curved and may be a bit more generous
+than this. They will not be less generous. That is, if you have a 93 you are
+guaranteed an A; but somone who gets an 92 might also get an A, depending
+on the final distribution of grades in the class.
+A course grade of at least C- is required for this course to count toward a UT
+CS degree.
+Scholastic Dishonesty:
+Academic dishonesty will not be tolerated. See
+http://www.cs.utexas.edu/academics/conduct for an excellent summary of
+expectations of a student in a CS class.
+All work must be the student's own effort. Work by students in previous
+semesters is not your own effort. Don't even think about turning in such work
+as your own, or even using it as a basis for your work. We have very
+sophisticated tools to find such cheating and we use them routinely. It's far
+better to get a 0 on an assignment than to cheat.
+Remember the lesson of Virginia Attorney General Mark Herring. In 1980,
+as a 19 year old college student, Herring wore blackface to a party. In 2019,
+39 years later, that one stupid adolescent decision almost cost him his job and
+his career. Stupid things you do now can affect you for the rest of your life!
+Getting caught cheating is one of those things that can haunt you forever.
+Don't do it!
+Also, don't post your work on any publicly available site, such as GitHub
+or Course Hero. It's understandable that you're proud of your work, but this
+just invites copying for students this semester and in subsequent semesters. If
+someone copies your work, even without your knowledge, you will both be
+liable to punishment, even in subsequent semesters. Here's what Mike Scott
+said when I mentioned this issue to him:
+
+
+       I have submitted cases to Student Judicial Services for past
+       students who have posted code from CS314 and CS312 to public
+       repos and current students used it to cheat. Not much SJS can do
+       grade wise, but it is recorded and they often have to write an essay
+       about the matter.
+I plan to follow Mike's lead here. There are other services such as BitBucket
+that have private repositories; you can grant selective access to instructors
+and to potential employers.
+Also, don't repost my slides or any other class materials on CourseHero or
+any other public repository. Consider all course materials to be copyright. You
+can get into serious legal problems violating copyright laws, and you will
+certainly have problems with me if you do this.
+No deviation from the standards of scholastic honesty or professional integrity
+will be tolerated. Scholastic dishonesty is a serious violation of UT policy; and
+will likely result in an automatic F in the course and in further penalties
+imposed by the department and/or by the university. Don't do it! If you are
+caught, you will deeply regret it. And even if you're not caught, you're still a
+cheating low-life.
+Students with Disabilities:
+Students with disabilities may request appropriate academic accommodations
+from the Division of Diversity and Community Engagement, Services for
+Students with Disabilities, 471-6259,
+http://www.utexas.edu/diversity/ddce/ssd.
+Typically, students allowed extra time or a quiet testing environment will take
+exams in a conference room on GDC 7South at the same time as the regular
+exam. The TA or proctor will supervise the exam. If you are allowed such
+accommodations, be sure to get me your SSD letter well in advance of
+the test since I will need to arrange a TA to proctor your test. Please be
+flexible with respect to time, etc.
+Grad Students Clearing Architecture Background
+Requirement
+If you're a grad student who needs to complete your background requirement
+in Architecture by exam, I'm happy to help you with that. You can do as little
+as take the final exam for CS429 with a grade of at least 80%. But be aware
+
+
+that the exams for this class (or any class) are idiosyncratic and assume that
+the person taking the test is also taking the class. For example, we focus on
+the x86 ISA. You could be a world-class expert on the MIPS or ARM
+architecture and not do well on the exam. My suggestion is to study the
+appropriate sections of the Bryant and O'Hallaron book, review the class
+slides, and take the three in-class exams. BTW: the final is optional for
+students in the class who take all three in-class exams. I'll give you the same
+option. If you get 80% average on the three in-class exams, I'll count that as
+clearing your background requirement. That's probably much safer than rolling
+the dice and just taking the final.
+Some Interesting Links:
+As I find items of interest to the class, I post them here. Newer items are near
+the top.
+Nice Reference on x86 Instructions
+NYT article partly on UT CS
+C primer
+Why 32-bit ops on registers zero the upper 32-bits
+Which x86 instructions set flags?
+Anatomy of Solid State Drives
+Mixing C and Assembly. Note: I'm not certain all of the examples in this are
+correct.
+Factorial Function in Assembly
+Nice intro to GDB
+Useful interface for GDB
+gcc Optimization Levels
+40 Years of the x86
+C Coding Style Guide
+Errata for our textbook
+Using Valgrind
+UT Grads Thriving
+Papers on SSD
+Why your tiny program gives a large executable
+Compiling with gcc
+Complete x86 registers
+Nice x86 IA32 reference
+Lucy Pipelining Example
+PC-relative addressing.
+
+
+x86 Instruction Manual
+Comparing signed and unsigned
+Resources on processors and optimization
+Blog on x86 coding
+How a CPU Works
+Which Engineers Make the Most
+Replace Hard Drives with DRAM?
+CS students in demand
+Layout of a Program in Memory
+Disk drive at work
+Cache Associativity Cartoon
+Ender's Game a Reality
+Status of Moore's Law
+Good PDP-8 reference
+IA32 cheat sheet
+Primer on Y86
+Decimal to FP guide
+x86 Assembly Guide
+Moore's Law Dead?
+Unix, C Hoaxes?
+5 Things to Know
+Indiana U. Career Overview
+Jobs Prospects
+Top 10 Jobs for CS Majors
+Jobs with High Pay
+Cities with Most CS Jobs

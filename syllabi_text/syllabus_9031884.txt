@@ -1,0 +1,485 @@
+           The University of Texas at Austin                                       Course Syllabus
+           McCombs School of Business                                              Fall 2018
+           Department of Accounting
+                                                 ACC 329
+                                 Cost/Managerial Accounting and Control
+                         Unique Number: 02430, 02435 –– Classroom: UTC 3.110
+Instructor:      Professor K. Rowland Atiase
+Office Phone:    512-471-5841
+Office Hours:    Tuesdays and Thursdays 2 – 3 pm in CBA 4M.248, and by appointment
+E-Mail:          ratiase@mail.utexas.edu
+TA:              Shelby Burgess
+Office Hours: Wednesdays 10 a.m. – 11 a.m. in CBA 4.304A TA Space, and by appointment
+E-Mail:          Shelby Burgess <shelbyburgess21@gmail.com>
+TA:              Krisha Desai
+Office Hours: Mondays & Wednesdays 11 a.m. – Noon in CBA 4.304A TA Space, and by appointment
+E-Mail:          Krisha Desai <krisha.desai11@gmail.com>
+The timing and location of office hours above are tentative. Always refer to Canvas for up-to-date details.
+Required Texts:
+    Datar, & Rajan (DR), Horngren’s Cost Accounting: A Managerial Emphasis, 16th Edition plus NEW
+        MyAccountingLab with Pearson eText -- Access Card Package 1
+    ACC 329 Course Packet: Cost and Management Accounting Readings, Handouts (HO’s), Cases and
+        Solutions. Published by Forty Acres Press (Phone: 512-322-7009). Available for purchase
+        beginning on TBD at the University Co-op, 2246 Guadalupe Street (Phone: 512-476-7211).
+           Ajinkya, Atiase & Bamber (AAB), Issues in Accounting Education, Fall 1986, pp. 268-281. *
+           The Ernst & Young Guide to Total Cost Management (E&Y Guide), Wiley & Sons, 1992,
+            Chapters 7, 8 & 9. *
+            * Included in the ACC 329 Course Packet.
+    1   Individual Pearson MyAccountingLab (MAL) access is required but may be purchased
+        separately online. You must use the 16th Edition of the DR Textbook for the written
+        homework assignments as prior editions have different questions. As an example, below
+        were the buying options from the University Co-op in a recent semester. The eText is more
+        than sufficient.
+      1. Loose Leaf with MyAccountingLab: $183.47 (Suggested Retail Price) ISBN: 9780134642468
+      2. Printed Text with MyAccountingLab: $288.53 (Suggested Retail Price) ISBN: 9780134642444
+      3. eText with MyAccountingLab: $127.33 (Suggested Retail Price) ISBN: 9780134475585
+
+
+                                 Page 2, ACC 329, Fall 2018, Course Syllabus
+Course Objectives:
+         This course will cover cost accumulation concepts and techniques for Product and Service Costing,
+Planning and Control, and Non-Routine Managerial Decisions. Modern management accountants are not
+only concerned with how cost data is transformed into cost accounting information but more importantly how
+to use cost accounting information to aid managerial goals. It is the case, however, that one cannot effectively
+use cost information without a good understanding of how various sets of cost accounting information are
+generated. Topics introduced in Introductory Managerial Accounting courses will be covered much more
+rigorously in this course. In addition, the course will provide students with a good exposure to topics on
+current and emerging concepts, practices and developments in Total Cost Management (TCM) including
+Activity-Based Costing (ABC), Benchmarking and Best Practices (BBP), Customer Costing (CC), Business
+Process Analysis (BPA), Business Process Improvement (BPI), Cost-Volume-Profit Analysis under
+Absorption and Direct Costing, Relevant Costing, Strategic Cost Management (SCM), and Transfer Pricing
+in Perfect and Imperfect Intermediate Product Markets.
+         The course should develop the student's understanding, skill, and analytical ability in management
+accounting to the level where he or she can function effectively (and efficiently) as a professional
+management accountant in industry, public accounting, management consulting, government, or personal
+business management.
+Reading/Written (Home) Assignments & Outline of Class Notes:
+         This course, though not difficult conceptually, will undoubtedly be demanding in time and effort. Thus
+students may be well-advised to allocate adequate time to the study of the material. The only path to success
+in this course is for the student to complete (or at least attempt) the reading and written home assignments
+regularly and on time (i.e., before each class meeting). Note: Basic algebraic and quantitative skills are
+assumed.
+         Written homework (in pencil) is due at the beginning of each class session for which it is assigned.
+Homework need not be perfect; if a reasonable attempt is made towards solving all problems, you will receive
+perfect scores. Assigned problems are meant to guide class participation; time constraints will determine
+whether they will (all) be solved in class. Active class participation is required. Homework will be collected
+at random.
+         Students are expected to read each new chapter of the DR textbook, make their own notes, and take
+a New Chapter Pre-Class Quiz in preparation for class. The New Chapter Pre-Classes Quizzes will be taken
+using Pearson MyAccountingLab (MAL) and are due by 10 a.m. every time we start a new chapter. The New
+Chapter Pre-Class Quizzes will constitute 5% of the Overall Course Grade (Total Hard Points). Instructions
+for signing up for MyAccountingLab are on the last page of the syllabus.
+         The outline of class notes for each class will be posted on Canvas a few days before each class.
+Each student should print and bring the outline of class notes for each class. Students’ own pre-class notes
+and class notes taken in class based on class lecture are expected to complement each other. It should be
+noted that class handouts/notes are for courtesy only -- it is not the Professor’s responsibility to provide
+students with notes.
+
+
+                                 Page 3, ACC 329, Fall 2018, Course Syllabus
+Group Case Write-up and Presentation:
+         You and your group will be responsible for a detailed analysis of a primary case. You should plan to
+submit three copies of a maximum of a five-page, double-spaced typed solution, along with any exhibits and
+presentation slides you deem appropriate. Your solution to the case must explain what you believe the
+company's problems and challenges are, and then explain how your suggested course of action addresses
+those problems. Your target audience is fellow managers who are familiar with basic business concepts, but
+not with the details of a particular problem or solution techniques. Obviously, a set of computations or
+schedules would not by themselves be sufficient to define the problem and explain a solution.
+Secondary Case Write-ups:
+         You and your group should also turn in three copies of a maximum of two-page double-spaced
+executive summary (along with any exhibits you deem appropriate) of the other cases on the designated
+dates. The executive summaries should discuss (1) the major issues, (2) your solution, (3) operational and/or
+strategic questions you might pose to specific managers or to the firm.
+Group Review Synthesis Write-up and Presentation:
+         You and your group will present and submit three copies of two-page double-spaced typed review
+and synthesis (along with exhibits and presentation slides) of one of the major areas of cost and managerial
+accounting covered during the semester.
+         I expect each student to contribute equally to every case and synthesis write-up and presentation.
+         Minimum Attire for Group Presentations: Business Casual
+Examinations, Group Case Write-ups and Presentations, Synthesis and Grading:
+         There will be two mid-term exams and a comprehensive final exam. In addition, there may be
+unannounced pop quizzes. A requirement of the course is that Exam I, Exam II & the Final Exam will be
+given in the evening. Do note the exam dates and times now and arrange to keep yourself free at those
+times.
+         Individual grades will depend on the student's performance according to the following criteria:
+                  Grading Item                                   Points
+                  Midterm Exam I (Room TBD, 5:00–7:00 pm)           125
+                  Midterm Exam II (Room TBD, 5:00–7:00 pm)          125
+                  Final Exam       (TBD)                            150
+                  Primary Case                                       50
+                  Secondary Case                                     25
+                  Review and Synthesis                               25
+                  New Chapter Pre-Class Quizzes                      26
+                      TOTAL POINTS                                  526
+                  Quizzes, Homework & Class Participation           Soft Points*
+
+
+                                   Page 4, ACC 329, Fall 2018, Course Syllabus
+          *Soft points are typically used to upgrade students whose overall performance on hard points
+(examinations, etc.) falls on a borderline (e.g., A/A-/B+/B). The definition of “borderline” is determined
+differently each semester based on class performance. However, each student must earn at least 70 percent
+of the points assigned to homework collected or risk an automatic reduction of his or her final course grade
+by half a letter grade!
+          In accordance with the Accounting Department Grade Policy/Guideline for Upper-Division BBA
+Accounting Core courses and MPA Core courses, Final Course Grades (A, A-, B+, B, B-, C+, C, etc.) will be
+assigned to achieve a final class average GPA between 3.2 and 3.4, inclusive.
+Privacy in Canvas:
+          Information in Canvas is protected by your UTEID login. Please be aware that I will use a merged
+Canvas site for all sections of the course that I am teaching this semester. This will allow students in other
+sections to see that you are enrolled in the course and send you email from within Canvas. However, they
+will not actually learn your email address and no other personal data will be revealed through Canvas. If you
+have any concerns, please contact the ITS Help Desk at 512-475-9400 for help removing your name from
+view of other students.
+Students with Disabilities
+          Students with disabilities may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259,
+http://diversity.utexas.edu/disability/.
+Diversity and Inclusion
+          It is my intent that students from all diverse backgrounds and perspectives be well served by this
+course, that students’ learning needs be addressed and that the diversity that students bring to this class
+can be comfortably expressed and be viewed as a resource, strength and benefit to all students. Please
+come to me at any time with any concerns.
+Religious Holy Days
+          By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work assignment,
+or a project in order to observe a religious holy day, you will be given an opportunity to complete the missed
+work within a reasonable time after the absence.
+Policy on Scholastic Dishonesty
+          The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The
+responsibilities of both students and faculty with regard to scholastic dishonesty are described in detail in
+the BBA Program’s Statement on Scholastic Dishonesty at http://my.mccombs.utexas.edu/BBA/Code-of-
+Ethics. By teaching this course, I have agreed to observe all faculty responsibilities described there. By
+enrolling in this class, you have agreed to observe all student responsibilities described there. If the
+application of the Statement on Scholastic Dishonesty to this class or its assignments is unclear in any
+
+
+                                  Page 5, ACC 329, Fall 2018, Course Syllabus
+way, it is your responsibility to ask me for clarification. Students who violate University rules on scholastic
+dishonesty are subject to disciplinary penalties, including the possibility of failure in the course and/or
+dismissal from the University. Since dishonesty harms the individual, all students, the integrity of the
+University, and the value of our academic brand, policies on scholastic dishonesty will be strictly enforced.
+You should refer to the Student Judicial Services website at http://deanofstudents.utexas.edu/conduct/ to
+access the official University policies and procedures on scholastic dishonesty as well as further
+elaboration on what constitutes scholastic dishonesty.
+Campus Safety
+Please note the following recommendations regarding emergency evacuation, provided by the Office of
+Campus Safety and Security, 512-471-5767, http://www.utexas.edu/safety:
+      Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+          buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and
+          assembling outside.
+      Familiarize yourself with all exit doors of each classroom and building you may occupy.
+          Remember that the nearest exit door may not be the one you used when entering the building.
+      Students requiring assistance in evacuation should inform the instructor in writing during the first
+          week of class.
+      In the event of an evacuation, follow the instruction of faculty or class instructors.
+      Do not re-enter a building unless given instructions by the following: Austin Fire Department, The
+          University of Texas at Austin Police Department, or Fire Prevention Services office.
+      Behavior Concerns Advice Line (BCAL): 512-232-5050 (or
+          https://operations.utexas.edu/units/csas/bcal.php).
+Further information regarding emergency evacuation routes and emergency procedures can be found at:
+http://www.utexas.edu/emergency.
+
+
+                        Page 6, ACC 329, Fall 2018, Course Syllabus
+Month   Date Day Reading Assignment                                  Written Assignment         MyAccountingLab
+                                                                     (Due at the beginning      Pre-Class Quiz
+                                                                     of class)                  (Due by 10 a.m.)
+Aug.     30   Th Introduction, Course Policies; Ch. 1 –              1-1, 2, 3, 12, 13
+                 Objectives of Cost & Management Accounting
+Sept.     3   M  Labor Day Holiday
+          4   T  Ch. 2 – Cost Terms & Purposes, Actual Costing       2-1, 2, 7, 8, 9, 10, 11,   Chapter 2 Quiz
+                                                                     12, 14, 37, 38, 39, 40
+          6   Th Ch. 4 – Normal Costing                              4-1, 2, 9, 12, 13, 23, 25, Chapter 4 Quiz
+                                                                     31, 37
+         11   T  Ch. 4 – Normal Costing, cont’d                      4-24; Handout (HO) #1
+                                                                     & HO #2
+         13   Th Ch. 3 – Cost Volume Profit (CVP) Analysis                                      Chapter 3 Quiz
+         14   F  Twelfth Class Day (last day to drop a class for a possible refund)
+         18   T  Ch. 3 – Profit Volume (PV) Line                     3-40, 43, 49, 52; HO #3
+         20   Th Ch. 9;                                              Variations to HO #3        Chapter 9 Quiz
+                 HOs Appendix 1, Appendix 2, Appendix 3;                  (details TBA)
+                 AAB paper -- Absorption versus Direct Costing 9-1, 4; HO #4
+         25   T  Ch. 9; AAB paper – Difference in Net Income         HO #5 & HO #6
+                 AC vs. DC; Cost Volume Profit Analysis under
+                 Absorption Costing
+         27   Th Ch. 11 – Relevant Costing                           11-1, 2, 3, 4, 8, 26, 28,  Chapter 11 Quiz
+                                                                          34; HO #7
+   Oct.   2   T  Ch. 11 – Non-Routine Decisions                      HO #8, HO #9, HO #10;
+          4   Th Chs. 6 & 7 – Static & Flexible Budgets I –          6-2, 7, 8,11;
+                 Responsibility Accounting, Direct Materials &       HO #11;
+                 Direct Labor Standard Costs & Variances
+          7   Su Optional Review Session, in GSB 2.126, please complete Sample Problems I
+          9   T  Catch-up & Review; Ch. 11 In-Class Quiz
+         10   W  Extended TA Office Hours 9:00 a.m. to 1:00 p.m.—Details TBA
+         10   W  Exam I, 5-7 pm
+         11   Th No Class
+         16   T  Total Strategic Cost Management                     7-1, 3, 4; Start working
+                                                                     on Take Home Quiz for
+                                                                     Ch 6 & 7
+        18    Th Chs. 7 & 10 – Flexible Budgets & Cost               7-30, 31, HO #12; 7-41;
+                 Behavior, cont’d / Berkshire Threaded               Take Home Quiz is due
+                 Fasteners Case (do not start working on this
+                                                                     10-29 (req. 1 only)
+                 case until specifically instructed to do so)
+         23   T  Ch. 8 – Flexible Budgets II –Variable & Fixed       8-29                       Chapter 8 Quiz
+                 Overhead Budgets & Variances
+
+
+                                Page 7, ACC 329, Fall 2018, Course Syllabus
+          25     Th     Bridgeton Industries Case                          Submit via Canvas
+          30      T     Ch. 8; Ch. 5 and E&Y Guide-Chs. 7 & 8; -           HO #13 & HO #14;            Chapter 5 Quiz
+                        Business Process Analysis, Business Profit         5-29;
+                        Improvement, Activity Based Costing, &             E&Y Guide Ch. 9;
+                        Customer Costing
+                                                                           HO #15 & HO #16
+Nov.      1      Th     Ch. 14 – Sale and Production Variances             Study HO #17 & #18          Chapter 14 Quiz
+                                                                               but do not solve
+                                                                               them before class
+          1      Th     Last day for an academic Q-drop
+          6       T     Ch. 22 – Transfer Pricing: General Rule for        HO #17 & #18;               Chapter 22 Quiz
+                        Optimal Transfer Price                             22-2, 4, 6, 11, 24, 25
+          8      Th     Ch. 22 – Transfer Pricing: Imperfectly             HO #19 & HO #20
+                        Competitive Intermediate Product Markets
+          11     Su     Optional Review Session, in GSB 2.126, please complete Sample Problems II
+          13      T     Catch-up and Review; Ch. 8 In-Class Quiz
+          14     W      Extended TA Office Hours -9:00 a.m. to 1:00 p.m.—Details TBA
+          14     W      Exam II, 5-7 pm
+          15     Th     No Class
+          20      T     Total Strategic Cost Management
+          22     Th     Thanksgiving Holiday
+          23      T     Destin Brass Case                                  Submit via Canvas
+          29     Th     Total Strategic Cost Management, Cont’d
+Dec.      4       T     Review & Synthesis Presentations                   Submit via Canvas
+          4      Th     Last chance to see the Professor (by 3pm at
+                        the latest) to request a One-Time Exception
+                        drop
+          5      W      Last day to request the Makeup Final or to cancel your request (via special form on Canvas)
+          6      Th     Catch-up and Review                                Bonus HO (TBA)
+     There is no reading preparation for the class days that are marked “Total Strategic Cost Management”
+     Written assignments sometimes may not be collected on the day they are due. Please have all yet-to-be-
+      collected homework ready at the next class session.
+     You can also expect to be asked to re-do certain HO’s and turn them in the following class. Whenever there
+      are changes in reading and written assignments, there will be announcements in class and/or via Canvas.
+        Uniform Final Exam (to be confirmed) – Thursday, December 13, 2018, 7:00 to 10:00 p.m.
+        Makeup Final Exam (to be confirmed) –Friday, December 14, 2018, 7:00 to 10:00 p.m.
+        **Do not schedule travel in the finals period until exam times are confirmed in Nov. 2018**
+
+
+     Cost/Managerial Accounting and Control: Case Preparation Master Checklist
+   In the real world, accounting professionals are expected to set the standard for attention to detail.
+   Our cases are not only academically meaningful but will act as a practice run with the highest level
+   of professionalism. There are high expectations for standardization of logistics and formatting.
+Where?          What?                                                                             Checked?
+Class           (TBA) In one of the classes early on in the course, your group leader will
+                draw a group number. Groups 1-4 have Bridgeton Industries as Primary
+                Case and Groups 5-8 have Destin Brass as Primary Case. The other
+                becomes the Secondary Case. These two cases are to be solved completely
+                outside of class and there will be no prior discussion to help you get started.
+                    * Exception: Wait for further instruction before starting the Berkshire case.
+                     You can actually start preparing the Bridgeton case before the Berkshire.
+Canvas          (TBA) There will be a mechanism for you to indicate which group you belong
+                to. In the past, we have used a Google Spreadsheet linked to Canvas.
+Cover Page      Case name; course name and semester; group member names
+Cover Page      Indicate your class/section, e.g. “11:00 Section”
+Cover Page      Group number: group nickname, e.g. “Group 3: Accountaholics”
+Cover Page      Page numbering should not start on the cover page
+Paper           Times New Roman font, size 11 or 12; 1-inch margins
+Paper           Double-spaced (1.5 spacing does not constitute double-spacing)
+Paper           The first paragraph should include a brief overview of the case facts as well
+                as introduction to the issues you are to address, i.e. the questions that you
+                intend to answer throughout the case. This is to provide a nice transition to
+                the body of your paper and not to be a long-winded summary.
+Paper           For each body paragraph, include a concise topic sentence that answers the
+                question. Support in the form of analysis and explanations should follow your
+                topic sentence.
+Paper           If your group chooses to really drill down into a specific topic or branch off to
+                other topics, you must still prioritize having adequate coverage of every one
+                of the suggested questions and issues if you want to score high marks.
+Paper           Sub-headings are acceptable, but you should still have transitions between
+                paragraphs and between subsections of your paper.
+Paper           Do not enumerate or bullet-point your answers, but instead include answers
+                in a coherent sequence of paragraphs.
+Paper           Provide adequate support for conclusions—do not simply conclude
+                something without supporting it somehow (this applies even to the
+                Secondary Case although there is less breadth expected in the
+                explanations). Ask yourself: if you were the CEO of this firm would this
+                conclusion make sense to you?
+Paper           For the hard copies you need to submit in class, please print single-sided.
+
+
+Paper          Max 5 pages for Primary Case, and max 2 pages for all other group
+               assignments, so get to the point and do not repeat yourself unnecessarily.
+Paper and      All pages after the cover page should be numbered in the lower-right hand
+Appendices     corner, beginning with page number 1 on the page following the cover page.
+Paper and      Any numbers that you come up with must be backed up by tables and
+Appendices     exhibits in the appendices (not restricted by page count) and should be
+               noted upon first reference in the body of the paper, e.g. “… (see Exhibit 1).”
+Presentation   All text and numbers must be readable from the very back of the room.
+Canvas         Submit the paper with cover page and appendices in one file (preferably pdf)
+               and the presentation (preferably pptx) in another file. In addition, you can
+               submit your Excel workbook (optional). Deadline is 15 minutes before your
+               class start time. Bring your presentation to class on a USB drive as backup.
+Rehearsal      You will use the Professor’s laptop to present so please make sure that your
+               presentation is compatible with the McCombs Common Operating
+               Environment (COE). If you must use your own device, please practice with
+               the media console in the classroom well ahead of Presentation Day.
+Primary        Your Primary Case presentation cannot go over 15 minutes, including setup.
+Case and       Your Review & Synthesis presentation cannot go over 5 minutes, including
+Synthesis      setup. All group members must partake in presenting.
+Presentation   Groups will present in order (by group number) and the minimum attire is
+Day            Business Casual. At least one group member should arrive early to turn in
+               the printed copies and (if applicable) check that your PowerPoint has been
+               loaded correctly. For your Secondary Case, three copies of your paper (with
+               cover page and appendices) should each be stapled or bound and turned in
+               to folders in the front of the classroom which will be marked Copy #1, Copy
+               #2 and Copy #3. For your Primary Case and the Synthesis Project:
+                     Copy #1 should have your paper (stapled or bound) separate from
+                         your printed slides (stapled or bound). Turn in the paper at the
+                         beginning of class into the folder marked Copy #1 and keep the
+                         printed slides to give to Prof. Atiase right before you present.
+                     Copy #2 should have your paper and slides stapled or bound
+                         altogether, and turned into the folder marked Copy #2.
+                     Copy #3 should be prepared like Copy #2 and turned into folder #3.
+               Printed slides can be full-page or handout (any layout), but must be readable
+          Questions about case formatting? Please seek clarification from your TA’s or Prof. Atiase.
+          TA’s are not allowed to help groups with any substantive (non-logistical) questions.
+          Please note that for Secondary Cases, it requires the same amount of effort to arrive at the
+           correct answer as for a Primary Case. The only difference is that the Secondary write-up is
+           more concise and there is no presentation requirement.
+          Standardized logistics should not come at the cost of creativity and nuanced responses in
+           the paper and during the presentation. Ingenuity, personality, and originality are expected.
+
+
+                      Suggested Questions and Issues on the
+                      Berkshire Threaded Fasteners Co. Case
+1. How do the individual product line and total company’s Direct Costing Income
+   Statements and Incomes compare with the Absorption Costing Income
+   Statements and Incomes for the year ended December 31, 1973 and the six
+   months ended June 30, 1974?
+2. If the company had dropped the 300 series as of January 1, 1974, what effect
+   would that action have had on the profit for the first six months of 1974?
+3. In July 1974, should the company have reduced the price of the 100 series from
+   $2.45 to $2.25?
+4. Which is Berkshire’s most profitable product line?
+5. What strategic suggestions do you have for Mr. Magers and Berkshire as a result
+   of your overall analysis?
+These questions and issues are things you may wish to consider. You may emphasize
+other issues you think are important or adopt a different perspective that you think may
+be appropriate to the case.
+Group write-ups for primary and secondary cases are described in the course outline.
+Each primary (secondary) case group should plan to submit three copies of a
+maximum of five(two)-page double-spaced typed solution, along with any exhibits and
+presentation slides that they deem appropriate. Each primary case group should also
+plan on a maximum 15 minute overall presentation (including set-up time).
+
+
+                      Suggested Questions and Issues on the
+                             Bridgeton Industries Case
+1. Explain the trend in the overhead allocation rates over the 1987 to 1990 period.
+2. Are the product costs reported by the cost system appropriate for strategic non-
+   routine decision making?
+3. Assuming 1991 prices, sales volumes and materials costs are unchanged from
+   1990, what is the likely 1991 budget (Hint: Use Direct costing)
+   (a) with no changes in the product line?
+   (b) if the manifold product line is dropped?
+   How does the overhead allocation rate differ under the two alternatives?
+4. Would you outsource manifolds in 1991?
+5. What other strategic suggestions do you have for Bridgeton Industries?
+These questions and issues are things you may wish to consider. You may emphasize
+other issues you think are important or adopt a different perceptive that you think may
+be more appropriate to the case.
+Group write-ups for primary and secondary cases are described in the course outline.
+Each primary (secondary) case group should plan to submit three copies of a
+maximum of five(two)-page double-spaced typed solution, along with any exhibits and
+presentation slides that they deem appropriate. Each primary case group should also
+plan on a maximum 15 minute overall presentation (including set-up time).
+
+
+                      Suggested Questions and Issues on the
+                           Destin Brass Product Co. Case
+1. What are the problems/issues facing Destin Brass?
+2. How might the standard cost estimates being used be improved upon using
+   activity based costing?
+3. What are the implications of the differences between your improved cost estimate
+   and the company’s standard cost?
+4. Suppose that production and sales levels as well as other activities and costs are
+   at the current standard level. How would net income differ under currently used
+   standard costing system and the activity based costing system?
+5. What strategic suggestions would you make to Destin Brass Co. as a result of
+   your overall analysis?
+These questions and issues are things you may wish to consider. You may emphasize
+other issues you think are important or adopt a different perceptive that you think may
+be more appropriate to the case.
+Group write-ups for primary and secondary cases are described in the course outline.
+Each primary (secondary) case group should plan to submit three copies of a
+maximum of five(two)-page double-spaced typed solution, along with any exhibits and
+presentation slides that they deem appropriate. Each primary case group should also
+plan on a maximum 15 minute overall presentation (including set-up time).
+
+
+  Group Review and Synthesis Presentation & Write-up Grading
+                                   Guidelines
+Your group synthesis topic is one of the following three major objectives of
+Managerial/Cost Accounting –namely:
+    1. Product (Service) Costing
+    2. Planning and Control, and
+    3. Non-Routine Managerial Decisions
+Virtually all topics covered in this course fall under at least one of these three
+major areas. Each group is responsible for the review and synthesis of one of
+the above major areas of managerial accounting (i.e., your Primary Synthesis
+Topic) covered during the semester. The review and synthesis may address
+the following suggested questions and issues:
+    1. What are the learning objectives of your synthesis topic? Define your
+        synthesis topic and discuss the learning objectives of the synthesis
+        topic.
+    2. How have we achieved them? Describe in some detail.
+                Issues 1 & 2 are worth approximately 55-60% of the grade.
+    3. What knowledge have we gained in this course beyond ALL previous
+        courses taken (Value Added)?
+                 Issue 3 is worth 15-20%
+    4. How do you expect the knowledge you gained in this course on your
+        primary synthesis topic to help you in your potential future careers?
+                 Issue 4 is worth approximately 15-20% of the grade.
+    5. Any other comments they want to share.
+                Issue 5 is worth approximately 5% of the grade.
+These questions and issues are things you may wish to consider. You may
+emphasize other issues you think are important or adopt a different perceptive
+that you think may be more appropriate for your review and synthesis. Each
+group should plan to submit three copies of two-page, double-spaced typed
+review and synthesis (along with any exhibits and presentation slides that they
+deem appropriate) and also plan on a 5 minute overall presentation.
+Minimum Attire: Business Casual
+
+
+Get Started
+With Pearson’s MyLab & Mastering and Canvas
+       Enter Your Canvas Course
+1 Sign in to Canvas and enter your Canvas course.
+2 Do one of the following:
+        Select MyLab & Mastering in Course Navigation, and then select any course link on the Pearson page.
+        Select any Pearson link from any module.
+3 Go to Get Access to Your Pearson Course Content.
+       Get Access to Your Pearson Course Content
+1 Accept the End-User License Agreement and Privacy Policy.
+   If you previously linked your Canvas and Pearson accounts, you go directly to the Pearson payment page. Skip to
+   step 3.
+2 To link your Canvas and Pearson accounts, do one of the following:
+        If you already have a Pearson account, enter your username and password.
+         Tip: To look up your Pearson account, select Forgot your username or password?
+        If you do not have a Pearson account, select Create and follow the prompts to create a new account.
+3 To get access to your Pearson course, do one of the following:
+        Select Access Code, enter your access code, and select Finish.
+        Under Use a Credit Card or PayPal, select the button with the applicable price and enter your payment
+         information.
+        Get temporary access without payment for 14 days. (You can pay for full access when temporary access
+         expires or when you’re ready. )
+4 When the registration is complete, the You’re Done page appears and you get a confirmation email. You can close
+   the You’re Done page and return to your Canvas course. From now on, when you select any of the MyLab &
+   Mastering links in your Canvas course, your MyLab & Mastering course immediately opens in a new tab.
+Note: In the future, it is recommended you enter your MyLab & Mastering course through Canvas.
+Need Help?
+See Help for MyLab & Mastering with Canvas.
+Go to our YouTube channel where students and instructors can find getting started videos.
+Contact Pearson 24/7 Technical Support. To provide them with your details in an export file, enter your Canvas
+course and go to MyLab & Mastering>Diagnostics. (If you don’t have access to the Diagnostics page, please
+contact your instructor for this information.)

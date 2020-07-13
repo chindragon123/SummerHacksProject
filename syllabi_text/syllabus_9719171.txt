@@ -1,0 +1,83 @@
+                            Accounting 326 - Intermediate Accounting - Fall 2019
+Professor: Hyun Hwang                                        Office: CBA 4M.254           Phone: 512.471.5313
+E-mail: hyun.hwang@mccombs.utexas.edu                        Office Hours: Appointment
+___________________________________________________________________________________________________
+TA: Boda Cai (bodacai37@utexas.edu)                  Office Hours: Fridays 5pm – 6pm
+TA: Max Chen (maxchen828@utexas.edu) Office Hours: Thursdays 5pm – 6pm
+___________________________________________________________________________________________________
+Overview: The course examines financial reporting issues, mainly from a user perspective. The objectives are:
+(1) To learn about current U.S. financial reporting;
+(2) To understand whether and how financial reporting captures the economics of transactions and events, and;
+(3) To learn how to reason about financial reporting problems as users do.
+Main Text:
+Intermediate Accounting, by Kieso, Weygandt, and Warfield, 17th edition.
+Advanced Accounting, by Hopkins and Halsey, 4th edition: https://mybusinesscourse.com/book/aa4euta#purchase
+Supplementary Text:
+Penman (1): Financial Statement Analysis and Security Valuation, by Stephen Penman, 5th edition.
+Penman (2): Accounting for Value, by Stephen Penman: E-book available on the university library.
+Prerequisites: ACC 311(H), ACC 312(H), FIN 357(H)
+Communication Channels: The class webpage is Canvas. I may send email containing announcements.
+Exams and Homework:
+There will be two midterm exams (15% each) and one final exams (40%).
+    •    The final exam covers every topic. Two midterm exams are not cumulative.
+    •    Exams may include multiple-choice, short answer, and computational questions.
+    •    Any request for a re-grade must be made in writing no more than seven days after the exam is returned.
+         The request must state, in detail, the reason you believe the grade is in error. Requests that do not conform
+         to this policy will not be honored.
+    •    Any missed exam must be approved either in advance or through Student Emergency Services. Makeup
+         exams will be given only in extraordinary circumstances (at my discretion). For ordinary absences, the
+         weight will be assigned to the other exam. If you do not have a valid reason, you will receive a grade of
+         zero. I reserve the right to adjust grades for extraordinary class contribution.
+Homework assignments account for 30% of your total score. The highest 10 scores will be considered for your
+total score. For each question,
+    •    You will get full credit if your answer is correct.
+    •    You will get partial credit (50%) if your approach to the question is reasonable.
+    •    You will get zero credit otherwise.
+    •    Working on the assignments with other students is encouraged, but you must write your own answer.
+
+
+     •   Homework is collected at the beginning of the class on the due date. It must be stapled, with each
+         question clearly presented. Office hours tend to be crowded right before exams and thus keeping up with
+         homework is to your advantage.
+Class Participation: Extra points will be awarded for students who actively participate in class discussion (up to
+15%). I do not track attendance, but you need to notify me if your absence will be for an extended time.
+Midterm 1: 15%           Midterm 2: 15%         Final: 40%             Homework: 30%           Participation
+                                             100                                                         15
+                                                Total score: 100 + 15
+Curved Grades: Grades will be based on a curve. A curve means that you cannot assume anything about what a
+score means as far as a grade. In other words, a score of 90 does not guarantee an “A,” nor does a score below 60
+guarantee an “F.” The class average is generally expected to be approximately 3.3, although this may vary based
+on my assessment of overall class performance. Plus/minus grading will be used.
+Class Conduct: Professional behavior is required. In particular, please put away cell phones. If you have
+unusual circumstances, speak with me about it before class. Please note that you may step out of the room at any
+time, provided you do so in a non-disruptive manner. I will impose a substantial grade penalty for those who
+distract other students through cell phone use.
+Students with disabilities: The University of Texas at Austin provides, upon request, appropriate academic
+accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of
+Students at 471-6259, 471-4641 TTY.
+
+
+                                             Tentative Schedule
+   Expected   Topic                                             Chapter in     Homework
+     Dates                                                      Textbook       Due date
+   8/28 – 9/4 1. Introduction                                   Penman (1): 8  9/9
+   9/9 – 9/11 2. Stockholders’ Equity                           Kieso: 15, 17  9/16
+      9/16    3. Dilutive Securities and EPS                    Kieso: 16, 17  9/23
+      9/18    4. Deferred Tax                                   Kieso: 19      9/23
+      9/23    5. Options and Stock Compensation                 Kieso: 16      9/30
+      9/25    6. Analysis of Statement of Stockholders’ Equity  Penman (1): 9  9/30
+      9/30    Review
+      10/2    Midterm 1
+  10/7 – 10/9 7. Long-term Liabilities and Leasing              Kieso: 14, 21  10/14
+10/14 – 10/16 8. Balance Sheet and Statement of Cash Flows      Kieso: 5       10/21
+10/21 – 10/23 9. Income Statement and Related Information       Kieso: 4       10/28
+     10/28    10. Analysis of B/S and I/S.                      Penman (1): 10 11/4
+     10/30    11. Accounting for Growth from Leverage           Penman (2): 4  11/4
+      11/4    Review
+      11/6    Midterm 2
+11/11 – 11/13 Business combination 1                            Hopkins: 1     11/18
+11/18 – 11/20 Business combination 2                            Hopkins: 2     11/25
+ 11/25 – 12/2 Business combination 3                            Hopkins: 3     12/4
+      12/4    Additional topics
+      12/9    Additional topics
+     TBD      Final Exam

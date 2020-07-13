@@ -1,0 +1,125 @@
+BIM MODELING/REPRESENTATION                                        ARC s327R/s386M /LAR s388                               1
+Instructor:          Marla Smith marlasmith@utexas.edu
+                     Office Hours:   TU, TH 11:30-12:30 GOL 2.206
+Hannah Griffiths S2017                      Ann Staniford F2018     Allie Alford F2018                Kenneth Sneed S2018
+ https://roundme.com/tour/325414/view/1071959/                                  https://roundme.com/tour/333810/view/1108520/
+Prerequisites:
+                     Restricted to Architecture and Engineering students. Open to other majors with instructor’s
+                     consent.
+Description: In this class you will explore the creation, iteration, representation and visualization of Building
+                     Information Models with the option of utilizing various software platforms and representation
+                     methods including: Revit, Dynamo, Rhino, Grasshopper, Enscape3D, RoundMe, and HTC Vive
+                     VR. You will be representing your project through digital presentations including rendering,
+                     panoramas, videos and virtual reality. While various programs will be introduced the class will
+                     focus on BIM Modeling in Revit 2019 and representation through Enscape3D and HTC Vive.
+                     Week 1: Introduction to BIM Modeling techniques using Revit 2019. We will be covering site
+                     creation, system families, and best modeling practices. This model will be the base for further
+                     explorations. We will be using Enscape3D to evaluate the project in real time as well as produce
+                     renderings and panoramas while utilizing screen representations and HTC Vive immersive VR.
+                     Week 2: Parametric form and component creation. Creation of parametric forms and surfaces
+                     used to produce divided curves and surfaces. Creation of adaptive components and iteration
+                     over divided curves and surfaces. We will be covering Panoramas in both Enscape3D and Revit,
+                     video creation in Enscape3D and exploring digital and immersive presentation options.
+                     Week 3: Continue to develop model, form and components. Peer review of projects using the
+                     HTC Vive to make presentation and design decisions. Introduction to Dynamo.
+                     Week 4: Final iteration/development of models, graphs, and presentation techniques. Digital
+                     presentation strategy should be finalized during this week. Video Creation and editing.
+                     Week 5: Production and evaluation of final presentations and models.
+.
+Hardware: You should have a laptop capable of running at the minimum Revit 2019 and if possible
+                     Enscape3D. If you do not there are lab computers for check out and in WMB.
+                     You should also acquire a Google Cardboard or similar for Panorama viewing.
+                     VR Representation is a hardware intensive process. We will be using the VR lab in Sutton Hall for
+                     presentation and evaluation of models using the HTC Vive headset. There will be limited access
+                     to mobile hardware capable of running VR presentations in class.
+Software:            Download and install the lab versions of Revit and Enscape3D (if your video card will run it) on to
+                     your own computer. Sign up for a RoundMe account. These programs are available from
+                     Autodesk and Enscape3D to students at no charge. We will be using Rhino on a limited basis
+                     and it is available on the lab computers in WMB 1.114.
+
+
+BIM MODELING/REPRESENTATION                                  ARC s327R/s386M /LAR s388                         2
+Evaluation:
+Attendance: Two unexcused absences will result in the lowering of your grade by one letter.
+             Three unexcused absences will result in a grade no higher than a C and my recommendation
+             that you drop the course. Five unexcused absences = F.
+             Use mobile phones for class related assignments. If you need to use your phone for non-class
+             related reasons, inform the teacher beforehand and leave the room.
+             Work on class related assignments during class. Complete other non-class related items outside
+             of class.
+Progress:    Everyone is starting out at differing levels of proficiency therefore your grade will be based on
+             relative progress.
+Assignments: There will be two projects. You should complete the projects by the beginning of class on the
+             due date.
+Grades:
+             X       Excused Incomplete - Can be given only for legitimate reasons of illness or family
+                     emergency. Simply not completing work on time is not an adequate cause for assigning
+                     this evaluation. It may only be used after consultation with the Associate Deans' offices
+                     and with an agreement as to a new completion date. Work must be completed before
+                     the second week of the next semester in which you are enrolling, according to the
+                     School of Architecture policy.
+             F       Fail - Project is unresolved. Minimum objectives are not met. Performance is not
+                     acceptable. Note that this grade will be assigned when you have excessive unexcused
+                     absences.
+             C-, D   Poor - Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of
+                     presentation are not level-appropriate. Student does not demonstrate the required
+                     competence and knowledge base.
+             C+/C Average - Project meets the minimum requirements. Suggestions made in class and not
+                     pursued with dedication and rigor. Project is incomplete in one or more areas.
+             B-/B/B+ Above Average - Project is thorough, well presented, diligently pursued, and successfully
+                     completed. Student pursues ideas and suggestions presented in class and puts in effort
+                     to resolve required projects. Project is complete on all levels and demonstrates potential
+                     for excellence.
+             A/A-    Excellent - Project surpasses expectations in terms of inventiveness, appropriateness,
+                     visual language, conceptual rigor, craft, and personal development. Student pursues
+                     concepts and techniques above and beyond what is discussed in class. Project is
+                     complete on all levels.
+
+
+BIM MODELING/REPRESENTATION                                  ARC s327R/s386M /LAR s388                      3
+Resources:
+            Lynda.com (free tutorials for current UT Students)
+            Video Tutorials included in assignments
+            Autodesk Design Academy, https://academy.autodesk.com/software/revit
+                                              https://academy.autodesk.com/software/fusion-360
+Accommodations:
+            At the beginning of the semester, students with disabilities who need special accommodations
+            should notify the instructor by presenting a letter prepared by the Services for Students with
+            Disabilities Office. To ensure that the most appropriate accommodations can be provided,
+            students should contact the SSD Office at 471-6259 or 471-4641 TTY.
+Policy on Scholastic Dishonesty:
+            Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties,
+            including the possibility of failure in the course and/or dismissal from the University. Since such
+            dishonesty harms the individual, all students, and the integrity of the University, policies on
+            scholastic dishonesty will be strictly enforced.
+            Feric Fevolution                             290 Mulberry, New York, ShOP Architects
+
+
+    BUILDING INFORMATION MODELING/REPRESENTATION
+    Instructor:     Marla Smith               marlasmith@utexas.edu
+    Office Hours: TU, TH, 11:30-12:30, GOL 2.206             471.0708
+    date                                           assigned           due
+WK1 7/16 Precedent 00-Revit-Enscape                 A00, A01          A00
+    7/17 Precedent Base 01
+    7/18 Precedent Base 02
+            Intro to HTC Vive
+WK2 7/23 Parametric Forms-Panoramas                    A02a           A01  1pm
+    7/24 Parametric Forms
+    7/25 Parametric Components
+           Immersive Presentation Options
+WK3 7/30 Parametric Components                         A02b           A02a 1pm
+    7/31 Parametric Explorations-Dynamo
+    8/1    Digital Evaluations
+WK4 8/6    Parametric Expressions-Dynamo               A02c           A02b
+    8/7    Development/Representation
+    8/8    Digital Evaluations
+WK5 8/13   Parametric Expressions
+    8/14   Representation
+    8/15   Digital Evaluations
+    8/16   Digital Presentations Finals                               A02c 1pm
+    Assignment Points                                    pts %
+    A01    Foundation                                     20
+    A02a   Parametric Explorations                        25
+    A02b   Parametric Explorations                        25
+    A02c   Parametric Expression                          30
+                                                         100

@@ -1,0 +1,802 @@
+GEO660: Field Geology, 2019
+                                                SYLLABUS
+                                  GEO 660A & B – FIELD GEOLOGY
+                                             SUMMER 2019
+DESCRIPTION:          The capstone six-week summer field course for undergraduate geoscience majors in
+                       several Jackson School degree options. Taught annually outdoors at sites in west
+                       Texas, New Mexico, Colorado, Wyoming, Montana, Idaho and Utah by up to ten
+                       faculty/research scientists. The course consists of ~ 15 single or multi-day projects
+                       that focus on aspect of field description and interpretation. Products generated
+                       include measured sections, reports, photopan interpretations, cross sections, maps
+                       and stereonets. Geo660A and Geo660B are two separate three week courses;
+                       students may enroll for one or both.
+INSTRUCTORS:          Field Camp Director: Dr. Mark Helper, JGB 4.112
+                                             helper@mail.utexas.edu
+                                             Phone: Office - 471-1009
+                                             Cell – 512-924-2526
+                      Other Instructors & Assistant Instructors: See attached.
+TEACHING ASSISTANTS: See attached.
+GRADING:              Field Projects, Field Tests, Presentations………………………. 100%
+                      Project scores are weighted by the number of days in the field. The number of
+                      projects varies by instructor, locality, weather and year. Single day individual exercises
+                      (field tests) are weighted double. See the attached course schedule and calendar for
+                      details.
+                      This course carries the Independent Inquiry flag. Independent Inquiry courses are
+                      designed to engage you in the process of inquiry over the course of a semester,
+                      providing you with the opportunity for independent investigation of a question,
+                      problem, or project. You should therefore expect a substantial portion of your grade
+                      to come from the independent investigation and presentation of your work.
+PREREQUISITES:        A grade of C or better in Geo. 420K and Geo. 428, or permission of field camp
+                      director.
+OTHER ITEMS:          Announcements and course information will be posted on the 660 website at
+                      http://www.geo.utexas.edu/courses/660/default.htm. Check it often prior to
+                      departure for updated information about the travel schedule, lodging addresses, a
+                      calendar of projects, sign-up details, etc.
+                      Academic dishonesty will not be tolerated. Anyone in violation of University policy
+                      (see Student Handbook) will receive a failing grade and is subject to additional
+                      punitive measures, which may include expulsion from the University. Expectations
+                      during group work will be clearly stated by all instructors prior to commencement of
+                      projects. If you are unclear about what constitutes dishonesty or unsanctioned
+                      collaboration, ASK. Do not assume that one instructor’s rule apply to all projects.
+REQUIRED ITEMS:       See attached list.
+                                                      1
+
+
+GEO660: Field Geology, 2019
+                                                Course Objectives
+Why a class in geological field methods? Geology is first and foremost a field science. Field geology and
+field geologists provide literally the ground truth for geologic concepts and theories of how the earth works.
+The degree to which we, as geologists, are successful observers and interpreters of rocks in the field depends
+in large measure on what we are prepared to see and record. The old adage “I wouldn’t have believed it if I
+hadn’t seen it” is, in the case of field geology, more truthfully “I wouldn’t have seen it if I hadn’t believed it”.
+We explore. We discover. Unfortunately, without sufficient experience and preparation we can’t attach
+meaning to (and thus frequently ignore) what we don’t recognized or understand. Discovery is, in part,
+“…seeing what everybody has seen, and thinking what nobody has thought." (A. Szent-Györgyi). From our
+vantage point, this requires a perspective acquired largely from field experiences.
+Paradoxically, we must also learn what to ignore; “Wisdom is learning what to overlook...” (W. James).
+There is rarely, if ever, sufficient time for exhaustive field data collecting. As time permits, we thus typically
+focus on a relatively few key aspects at a field site, paying less or no attention to the rest. Anthropologists
+term this ability to recognize and sort the significant from the insignificant “professional vision”. It is a
+crucial field skill that comes mostly from practical experience. You will begin to develop your professional
+vision in this class.
+Field proficiency has long been a distinguishing characteristic of our science. As a geoscientist, you are
+expected to be a proficient scientific observer and recorder. Your unique skills and training in this area
+separate you from lawyers, engineers, chemists and other professionals with whom you might one day
+work. Without proper preparation, including a strong grounding in field methods, we would be little better
+than rock hounds out for a day of casual collecting. Field geology is not merely collecting data and samples;
+it is about making sense of the geology around you, about making geologic interpretations. Landscapes are
+histories, with time marked by boundaries in the rocks, soil and sediment. A geologic map or a measured
+section is the articulation of that history, with each line marking a before and after, a hiatus that might last a
+second or a billion years. Through our maps and graphical logs, we represent time as space. The ability to
+create, read and interpret such product is best developed from training and practice in a field setting. It all
+begins by making and recording observations. An accurate record in the form of a map, measured section,
+photograph, sketch, a carefully documented sample, field notes, etc. provides a permanent, solid basis upon
+which to develop testable ideas and interpretations – the plot of the story. Without such evidence,
+interpretations are fanciful fables; there is no scientific basis to objectively evaluate them.
+Successful field work depends greatly on how well we can formulate and test ideas while in the field.
+Geology is rooted in the scientific method. The process of formulating and testing multiple working
+hypotheses during field work is a distinctive, unique, vital aspect of our profession, one that can only be
+taught and practiced while in the field.
+Like all sciences, geology has its own vocabulary. There is no better way to learn a language than to be
+immersed in it. This course can provide that immersion.
+It is often said “The best geologist is the one who has seen the most rocks” and there is much truth to it. Six
+weeks of field work at some of THE classic geologic localities in the western US provides a strong
+introduction, the beginnings of a mental catalog of rocks and field relationships that can provide a
+framework to build upon in future classes, later field work and a future career in the geosciences.
+                                                           2
+
+
+GEO660: Field Geology, 2019
+                                          660 STAFF, 2019
+Faculty                               Expertise/Interests
+1 Dr. David Mohrig                Sedimentology, depositional systems
+1 Dr. Charles Kerans              Carbonate depositional systems
+1 Dr. Claudia Faccenna            Tectonics, Geodynamics
+1 Dr. Nikola Tissato              Geophysics
+1 Dr. James Gardner               Volcanology
+1,2 Dr. Peter Hennings            Structural geology, tectonics
+1, 2 Dr. Mark Helper              Cordilleran geology, geology of crystalline rocks
+1, 2 Dr. Brian Horton             Basin analysis, tectonics
+2 Dr. Danny Stockli               Structural geology, petrology, geochronology
+Assistant Instructor (Faculty Advisor)
+1 Ben Smith, Ph.D. Candidate           Carbonate Depositional Systems (Kerans; 2 years 660 experience)
+Teaching Assistants (Faculty Advisor)
+1 Kristina Butler, Ph.D. Candidate     Basin analysis, tectonics (Horton)
+1 Cody Draper, M.S. Candidate          Carbonate Depositional Systems (Kerans; 1 year 660 experience)
+2 Jake Makis, M.S. Candidate           Ore deposits (Cloos; 2 years 660 experience)
+2 Megan Flansburg, Ph.D. Candidate Tectonics, basin analysis (Stockli)
+2 Rachel Ruthven, Ph.D. Aspirant       Petrology (Ketcham)
+_______________________________________________________________________
+1
+  Teaches all or part of 660A
+2
+  Teaches all or part of 660B
+                                                    3
+
+
+GEO660: Field Geology, 2019
+                                      EQUIPMENT LIST - GEO 660
+  Required Materials:
+   Field notebook (e.g., engineer’s field book)
+   Clipboard (8 1/2 x 11 size) with cover
+   Geologic hammer
+   Hand lens (10x)
+   Small squirt bottle of dilute (approx. 10%) HCl
+   Grain size card
+   Six-inch ruler (best is the Post ruler with protractor on it)
+   Protractor (bring spare rulers & protractors; many students lose several)
+   Pencils and erasers (again, the number depends on how many you lose)
+   2 or 3 drafting (mechanical) pencils (recommend Pentel or equivalent 0.5 mm or 0.3 mm lead,
+      hardness F or 3H) and spare leads
+   Colored pencil set that will keep a point (at least 10 colors); pencils with hard, water-fast lead are
+      preferred
+   Pencil sharpener or pointer, and/or sandpaper – for colored pencils
+   Technical pens with fine-line points and black ink (Sizes 00, 0, 1, are desirable)
+   Tablet of 8 1/2 x 11” tracing paper
+   Tablet of 10 square to the inch of 8 1/2 x 11” graph paper
+   Liquid paper (optional)
+   The textbooks and lab manual from GEO 420K and GEO 428
+   Calculator
+   Watch
+   Carrying bag (shoulder bag or daypack)
+   Proper field clothes, long pants, long-sleeve shirts, jacket (see note on gear)
+   Sun screen/block lotion
+   Hat, wide brim
+   Hiking boots, broken in (avoid non-lace boots; see note on gear)
+   Rainwear (it will rain; see note on gear)
+   Canteen (2 or 3, one-quart/liter water bottles, a Camel-Back or some other water storage container)
+   Warm sleeping bag and pad** (see note on gear)
+   Tent (can be shared; see notes on gear)
+   Towels, washcloth
+   Flashlight and/or headlamp
+   Plate, cup, silverware
+  Desirable Materials:                                          Prohibited Items:
+   Digital Camera                                              Firearms
+   Masking tape                                                Consumption of alcohol in UT vehicles
+   Scotch tape                                                 Illegal drugs
+   Tweezers (important for run-ins with cactus)
+   Insect repellent
+   Minor first aid kit for bug bites, thorns, blisters (moleskin), etc.
+   Small pair of binoculars
+   Whistle (if you are prone to getting lost and have a weak voice)
+   Safety goggles or other eye protection (see field course policy handout regarding this and hard hats)
+   Sharpie markers to label rocks
+                                                      4
+
+
+GEO660: Field Geology, 2019
+                                               Gear for Geo. 660
+The equipment list for Geo. 660 contains items that many of you may not own that can be relatively
+expensive. Below are some ideas on adequate equipment at reasonable prices. A little searching on the
+web can yield tremendous dividends.
+Boots
+Footwear is the single most important item for a field course. Good boots provide traction, protection and
+support for your feet. Tennis or basketball shoes are not adequate for the latter two reasons, nor are
+cowboy boots for the former. A wide variety of boot styles are available, from those with low-or high-top
+nylon/leather uppers, to all-leather boots. Leather boots provide maximum protection, support and, with
+the proper soles, excellent traction. Most today are designed with backpacking in mind, which requires
+relatively rigid uppers and maximum padding to provide comfort and support for carrying heavy loads. Once
+broken-in, a well-made boot of this type is unsurpassed for field use. They are the best at keeping feet dry,
+provide an important measure of protection from cactus and other thorny plants, and will usually (but not
+always) outlast a softer boot.
+  The major disadvantage of leather boots is price; a decent pair now costs over $150, with many in the
+$180-$250 range. Do you need leather boots at this price for 6 weeks of fieldwork? No. A well-made,
+cheaper pair of “soft” boots can be adequate if: 1) you’re relatively agile and light on your feet; 2) your field
+pack doesn’t weigh more than about 30 lbs.; 3) you’re not prone to kicking cactus. I worked in soft boots
+for many years and, although they lasted little more than one season, I’ve was very happy with the lowest-
+priced models of Merrill, Vasque and Asolo boots, which can often be found on sale (or on the web) for less
+than $100/pair. Well-made pairs by major manufacturers sell at list prices of $70 - $200. Less well made
+varieties tend to lack side support (foot tends to roll sideways when walking across slopes) and can quickly
+come apart (soles detach, front rand comes off) after limited use. High-top boots provide ankle support and
+will keep scree and dirt out when moving down-slope on unstable ground. Trail running shoes are for trails
+and do not work well for the off-trail traversing you will be doing.
+  Regardless of the boots you select, you will be much more comfortable if you use well-padded socks with a
+clean pair of thin sock liners. Sock liners wick moisture from your feet and are easy to wash/rinse at the end
+of a day.
+Rain gear
+A good, well-fitting, waterproof coat is a necessity, not a luxury. We have never experienced a summer
+where it didn’t rain. Three summers were exceedingly wet, raining nearly every day and for several days on
+end. We camp and cook outdoors and are in the field every day, rain or shine. Strong winds and colder
+temperatures often accompany rain in the mountains.
+ Adequate rain gear need not cost 100’s of dollars, but a $5 plastic poncho, which is only marginally better
+than a plastic trash bag, won’t work in such conditions, nor will a thin nylon shell sprayed with Scotchguard.
+Lower-priced ($20-50) raincoats and rain pants, which are usually made of plastic- or coated nylon, are
+adequate and widely available in a variety of styles. The best of the least expensive brands is probably Frogg
+Toggs. Medium-priced coats (typically $50-100) can be somewhat lighter-weight, usually better ventilated,
+may have an attached hood and are thus more comfortable to work in. They are, however, no more water
+repellent than lower-priced varieties, sometimes less so. High-priced rainwear is general constructed of one
+or more “miracle” fabrics; lightweight materials that are touted to “breathe” while also being waterproof.
+In my opinion (based on several coats, boots, mittens, and a few other items) these fabrics are vastly
+overrated for the price. Nonetheless, such coats are generally ruggedly constructed, fit well, and typically
+have many desirable features (multiple pockets, armpit zippers, internal drawstrings, ancillary ventilation,
+etc.). Again, they are no more waterproof than much lower priced models. Ponchos and umbrellas don’t
+work well in windy weather.
+                                                         5
+
+
+GEO660: Field Geology, 2019
+Regardless of what you type of coat you choose be sure it’s large enough to allow for insulating layers
+underneath. Have a pair of rain pants.
+Sleeping Bags and Pads
+This summer, you will spend 33 nights sleeping on the ground in a tent. Nighttime temperatures can be as
+low as 30o in June and are commonly 40o-50o. Blankets are only marginally adequate in such conditions; a
+sleeping bag provides better heat retention and insulation. The enormous price range for sleeping bags
+reflects differences in insulating materials, weight and construction. At the high end are extremely light,
+down-filled bags made of waterproof, breathable fabrics that have a comfort range that extends to -30o F.
+These bags are uncomfortably warm for all but the coldest conditions. At the low end are cotton bags with
+natural or synthetic fiber insulation, some of questionable construction, which may or may not keep you
+warm at temperatures below 50o. In between is a very large spectrum of nylon shell, down- or synthetic
+fiber-filled bags that are more than adequate for summer camping in the US Rockies. Fiber-filled bags are
+light, dry quickly, are easy to clean, are nearly as warm as down, and pack to a small volume. Like wool, they
+provide warmth even when wet. Down bags are typically more expensive, slow to dry and nonfunctional
+when wet. If you are concerned about your sleeping bag keeping you warm, bring a pair of long underwear
+to sleep in and make sure you have a good sleeping pad. I also use a sleeping bag liner to extend the
+temperature range of my bag.
+  A sleeping pad or foam mattress provides insulation from cold ground and a measure of comfort. A
+closed-cell foam or inflatable pad provides the best insulation. A blanket beneath you sleeping bag is much
+better than nothing.
+Tents
+The Department no longer supplies tents. Tent prices have come down in recent years and very well made,
+1- to 3- person tents are available for $200 or less. In evaluating a tent for this summer, ask yourself the
+following: Will the tent withstand windy (30-40 mph) conditions? If it has fiberglass poles and is tall enough
+to stand up in then the answer is likely no. Is it waterproof (or can it be made waterproof) in a sustained,
+heavy downpour? If the tent fly does not extend most of the way to the ground the answer is no. Do you
+have all the parts? A waterproof ground cloth (a sheet of heavy mil plastic will do) keeps the floor of your
+tent from absorbing water from wet ground and protects against punctures. When sticking out beyond the
+tent fly, it collects water that runs under the tent, making it worse than no fly at all.
+Clothing
+You should have clothing that will allow you to live and work comfortably in both cold (40oF) and hot
+(100o+F) weather. Cold is best handled by wearing layers that can be donned and shed as needed. For
+maximum comfort your outermost layer should be windproof; rain coats/pants are adequate. Beneath this,
+a layer that will trap air (sweater, sweat shirt, fleece jacket, down vest, etc.) comes next, underlain by one or
+more thin layers (T-shirt, long sleeved shirt) that provide additional warmth and wick perspiration from your
+skin. Synthetic fabrics (hiking pants, shorts, shirts) do not hold as much moisture (sweat, rain, snow) and dry
+much quicker than cotton. They are also easier to wash without facilities. Exposed skin can burn more
+easily at altitude –stay covered and use sun screen.
+   A wide brim hat, bandanna, and sunblock are essential for working in the deserts of western US. A knit
+cap is nice for sleeping on a cold night and good for cold rainy days under a hood. If you’re cold, try putting
+a hat on. Finally, you will be traveling or working outdoors nearly every day of the 6 weeks. You will load
+and unload your gear, along with ice chests, cook boxes, tarps, etc., many, many times along the way. It is
+to your and everyone else’s benefit to travel light. Examine every piece of clothing you pack critically; do
+you really need it? Keep in mind that there will be opportunities to do laundry at some places we visit and
+we will not be anywhere that requires anything but field clothing. Believe it not, clothing can be worn more
+than once before it’s too dirty, and rinsing or washing socks, underwear, shirts, etc. under a faucet or in a
+stream can extend wearability almost indefinitely!
+                                                           6
+
+
+GEO660: Field Geology, 2019
+          Jackson School of Geosciences Department of Geological Sciences
+                                        Field Trip and Field Course Policies
+The Department of Geological Sciences conducts numerous field activities (field trips, field geology
+courses, and field research). Because students are exposed to a variety of situations and experiences
+that are different from those found in the classroom, special rules of conduct are necessary.
+Traveling and field work involves hazards and risks, so each person must exercise care to avoid
+personal injury to others. Examples of dangers specific to field work are the use of geologic picks,
+poisonous snakes, tick bites, toxic plants, falling, and slippery rocks encountered when hiking on
+steep slopes or crossing streams. Other dangers, as well as damage to property, may be created by
+carelessness. The Department has access to certain private properties and use of private facilities
+whose future availability will depend upon proper consideration for these resources by everyone.
+Students who abuse University or personal property during a field trip, or who jeopardize the health
+and safety of other people, will be required to leave the field trip immediately. These persons will be
+subject to appropriate academic evaluation and possible disciplinary action by the Office of the Dean
+of Students.
+The Department has the following rules and recommendations which apply to field activities.
+1. Liability and Waiver. The University requires all students to sign a liability release form (accompanying form). This
+      form must be signed and returned before a student is allowed to participate in field activities.
+2. Medical Care. A medical form must be filled out by all students. Any student who has medical problems (e.g.
+      asthma, diabetes, metabolic disorders, allergies, trick knees) should inform the field trip leader or supervising
+      professor. If you require special medications, it is your responsibility to insure that they are available when needed.
+      Field activities are sometimes in very remote areas, and immediate medical assistance is not possible.
+3. Health Insurance. Every student taking a field course must have medical insurance. Student health insurance is
+      available at minimal cost through the Student Health Center (471-4955). Students taking field trips as part of
+      normal classes who do not have health insurance will be provided with insurance for the field trips only.
+4. Clothing and protective cover. Wear suitable clothes. We recommend wearing a hat, long pants, and good hiking
+      boots in some areas. These help prevent sunstroke, insect bites, and bad encounters with cacti or thorny shrubs. You
+      may want to bring insect repellent, and we also suggest the use of sunscreen. Consider significant possibilities of
+      rain or cold weather.
+5. General field hazards. Insects, poisonous snakes, and toxic plants may be found on any field trip or course. Wearing
+      suitable clothing and boots helps reduce these hazards. Remember to check yourself for ticks which can transmit
+      diseases such as Rocky Mountain spotted fever, Lyme disease, etc. Ticks should be removed immediately; be sure
+      to remove the body with head intact. Do not use a match to kill the tick first. Watch for, don't play with, and avoid
+      snakes. Five students on Department trips have been bitten by rattlers since World War II; try not to be the sixth. If
+      you are allergic to such things as bee stings, you must bring appropriate medication. A few other common sense
+      rules: stay out of the water if you can't swim; stay out of thunderstorms, particularly at high elevations, and out of
+      flashflood-prone areas in any rain. Some field areas have steep cliffs that you are not required to and should not
+      climb; use common sense and follow your instructor's advice in such areas.
+6. Head and eye protection. We recommend eye protection when using, or around someone using, a geologic pick,
+      hammer, or other tools. Hard hats should be used in mines, quarries, steep road cuts, or other areas where rock falls
+      or blows to the head could occur; some sites may require these protective devices. Safety glasses and hard hats can
+      be checked out from the Department storeroom.
+7. Firearms. Possession of firearms or facsimiles at any time during any field course or field trip is forbidden.
+8. Drugs and alcohol. Use or possession of illegal drugs at any time is forbidden. Alcoholic beverages may NOT be
+      consumed at any time while traveling in a University vehicle.
+9. Department equipment. Take care of Department property. Our equipment normally gets hard use and current
+      budgets are tight, so treat it as you would your own.
+10. Person Conduct: Belligerent, intimidating or harassing behavior will not be tolerated. Any behavior that can or
+      could be construed as sexual harassment, even if unintentional or offered in jest, will not be tolerated – if in doubt,
+      err on the side of caution. No means no, without exception or explanations. Offenses should be reported to
+      instructors immediately and are grounds for dismissal.
+You have previously read and agreed by signature to follow the Field Trip/Field Course Policies
+for departmental field activities given above. Please keep them in mind this summer.
+                                                               7
+
+
+GEO660: Field Geology, 2019
+                2019 Class Rosters (on 4/29/19)
+                                                        660
+ Last               First    email                      course(s)
+ Arias              Joseph   josepharias4998@gmail.com  Both
+ Baiocchi           Jason    jason.baiocchi@utexas.edu  B
+ Benavidas          Juan     juanbenavid@utexas.edu     Both
+ Bland              Carolyn  cdbland@utexas.edu         Both
+ Bolduc             Chance   chancebolduc@gmail.com     A
+ Denham             Andrew   atdenham@yahoo.com         B
+ Ditges             Thomas   thomasditges@yahoo.com     Both
+ Ferrari            Brianna  brianna.ferrari@utexas.edu B
+ Foux               Caitlin  caitlinfoux@utexas.edu     Both
+ Fredericks         Mason    masonfred1009@gmail.com    Both
+ Garcia             Victor   victorgarcia5@utexas.edu   A
+ Milliken           Matthew  mdmilliken@utexas.edu      Both
+ Nguyen             Tyler    tylernguyen184@gmail.com   Both
+ Quintero           Thomas   tquintero@utexas.edu       Both
+ Ryan               Rebecca  rryan20@utexas.edu         Both
+ Smith-Salgado      Clara    csmithsalgado@aol.com      B
+ Soto-Kerans        Nicholas sotokerans@gmail.com       A
+ Standring          Patricia patty.standring@utexas.edu A
+ Villasenor         Gabriel  g_villasenor@utexas.edu    Both
+ Wade               Matthew  matthewgeowade@gmail.com   Both
+ Yang               Yukun    yangyukun1998@yahoo.com    Both
+ Zamora             Marlowe  mz0898@hotmail.com         Both
+ Zhao               Xiafei   feifeizhao98@gmail.com     Both
+                                             8
+
+
+   GEO660: Field Geology, 2019
+                                      SCHEDULE FOR GEO 660A&B, SUMMER 2018
+May 26          Travel to Carlsbad, NM; Drs. Kerans & Mohrig (Stevens Inn)
+May 26-28 AM Guadalupe Mts. projects; Drs. Kerans & Mohrig (Stevens Inn)
+May 28 PM       Travel to Alamogordo; Drs. Kerans & Mohrig (camping, Lincoln National Forest)
+May 29 AM       White Sands N.M. project; Drs. Kerans & Mohrig
+        PM      Travel Ghost to Ranch; Drs. Kerans & Mohrig (camping, Ghost Ranch Conference Center)
+May 30-31       Ghost Ranch project; Drs. Kerans & Mohrig (camping, Ghost Ranch Conference Center)
+ May 31 AM      Ghost Ranch project; Drs. Kerans & Mohrig
+        PM      Travel to Los Alamos; Intro. to Valles Caldera; Drs. Helper & Gardner (camping, Bandelier N.M.)
+June 1-June 4   Valles Caldera projects; Drs. Helper, Faccenna & Gardner (camping, Bandelier Nat.Mon.)
+June 5          Valles Caldera projects; Drs. Helper & Gardner (Hampton Inn, White Rock, N.M.)
+June 6          Travel to Questa, N.M.; Drs. Helper, Faccenna & Tisato (camping, Rio Grande del Norte Nat.Mon.)
+June 7-8        Taos Plateau Project; Drs. Helper, Faccenna & Tisato (camping, Rio Grande del Norte Nat. Mon.)
+June 9          Day Off; Dr. Helper (camping, Rio Grande del Norte Nat. Mon.)
+June 10         Travel to Casper, WY; Dr. Helper (Super 8, Casper, WY)
+June 11-14      Alcova, WY Mapping Projects; Drs. Helper and Hennings (camping, Bear Trap Meadows)
+June 15         Travel to Cody, WY; Big Horn Basin structure; Drs. Helper, Hennings, & Horton (Buffalo Bill’s Antlers Inn)
+                                                       END Geo660A
+June 16         Travel to Sawtooth Mts., near Augusta, MT; Heart Mountain detachment, Sunlight Basin, Canyon Mouth
+                 Anticline; Drs. Helper, Hennings, & Horton (camping, Sun Canyon Lodge)
+June 17-20      Sun River Cross Section project; Drs. Helper, Hennings, & Horton (camping, Sun Canyon Lodge)
+June 21         Travel to Helena, MT, shop, set camp; Drs. Helper & Horton (camping, Kim’s Marina)
+June 22-27      Big Belt Mts. mapping projects; Drs. Helper & Horton (camping, Kim’s Marina) – Day Off June 25
+June 28         Field Test; Dr. Helper & Horton (camping, Kim’s Marina)
+June 29         Travel to Butte, MT (Berkeley Pit) and Hecla, MT; Dr. Helper (primitive camping, Deer Lodge N.F.)
+June 30-July 3  Hecla project; Drs. Helper and Stockli (primitive camping)
+July 4          Travel to Price, UT; Dr. Helper (Holiday Inn Express)
+July 5          Travel to Bernalillo, NM; Dr. Helper (Motel)
+July 6          Travel to Austin; Dr. Helper
+                                                         9
+
+
+GEO660: Field Geology, 2019
+                                             MONEY FOR MEALS
+    All meals while camping and all lunches, except on some travel days, will be provided.
+    All hotels during the trip will provide at least a continental breakfast (bread, pastry, juice, coffee) and
+     some may have hot food. If you eat a hardy breakfast you may want to purchase addition breakfast food
+     – it will not otherwise be provided.
+    You will need to purchase lunch and dinner during some hotel stays. These days for 660A are May 26,
+     27, 29; June 10, 15; for 660B July 4 ,5, 6.
+Ice chest/refrigerators will be available to store food/medicine during hotel stays. You will be able to make
+a lunch from food we purchase for this purpose before going into the field, provided you are leave yourself
+time to do so before departure. All lunch food is put away at 7:45 AM.
+                                                        10
+
+
+GEO660: Field Geology, 2019
+                             Geo660A&B Trip Addresses, Summer 2019
+              660A: May 26-June 15                          660B: June 16-July 6
+May 26&27                        June 11-14                 June 16-20
+Best Western Stevens Inn         Bear Trap Meadows          Sun Canyon Lodge
+1829 S Canal Street              Campground                 8571 Sun Canyon Lodge Rd
+Carlsbad, NM 88220               Natrona County, WY         P.O. Box 327
+575-887-2851                                                Augusta, MT 59410
+                                 June 15                    (888) 749-3654
+May 28                           Buffalo Bill’s Antlers Inn
+Upper Fir Group                  1213 17th St.              June 21-28
+Campground                       Cody, WY 82414             Campground
+Lincoln National Forest          307-587-2084               Kim's Marina and Resort
+No phone or mailing address                                 8015 Canyon Ferry Rd.
+Emergency Calls only:                                       Helena, MT 59602
+575-682-2551                                                (406) 475-3723
+May 29-31                                                   June 29 –July 3
+Ghost Ranch Conference Center                               Beaverhead National Forest,
+HC 77, Box 11, Abiquiu, NM 85710-9601                       Dillon Ranger District
+EMERGENCY Contact:                                          Primitive camping at Hecla,
+Phone messages: (505) 685-4333, ext. 152                    Pioneer Mts., near Melrose, MT
+                                                            No phone or cell service
+June 1-4
+Group Campsite                                              July 4
+Bandelier National Monument                                 Super 8
+Los Alamos, NM                                              180 N Hospital Dr.
+No phone or mailing address                                 Price, UT 84501
+Emergency Calls - 505-672-3861                              435-637-8088
+June 5                                                      July 5
+Hampton Inn                                                 Motel
+124 State Highway 4                                         Bernalillo, NM
+Los Alamos, NM 87544
+505-672-3828
+June 6-9
+Campsites
+Rio Grande Del Norte
+ National Monument
+Cerro, NM
+No phone or mailing address
+Emergency Calls - 575-758-8851
+June 10
+Super 8
+3838 C Y Avenue
+Casper, WY 82609; (307) 266-3480
+                                                     11
+
+
+GEO660: Field Geology, 2019
+                            12
+
+
+GEO660: Field Geology, 2019
+4/30/2019
+M. Helper
+                     COURSE DESCRIPTION, GEO 660A&B, SUMMER 2018
+WEEK 1 – Drs. Mohrig, Kerans and Martindale – See Figure 2 and 3
+(May 26-June 1 AM)
+Introduction to Guadalupe Mountains and Permian Basin Stratigraphic Setting/
+Permian Reef Geology Trail, McKittrick Canyon
+There is perhaps no more famous setting to begin your exploration of the field observation and interpretation
+of depositional processes than the Guadalupe Mountains. Tertiary faulting and uplift has caused the exposure
+of a shelf-to-basin setting that contains both carbonate and terrigenous sediments. Dramatic 2000-3000 ft
+high walls of carbonate and clastic shelf, slope and basin deposits are laid out in spectacular vistas. We will
+present the stratigraphic setting, and then sketch and interpret several of these major walls in terms of stratal
+geometric relationships and depositional processes.
+An all-day hike on Day 2 up the 2000 vertical feet of the Permian Reef Geology Trail reveals the depositional
+facies and stratal geometries of a major reef-rimmed carbonate platform. We will use the Permian Reef
+Geology Trail guide as background material but formulate our own model of a representative depositional
+profile from observations made along the trail.
+Sacramento Mts. and White Sands National Monument, near Alamogordo, NM (May 29 AM)
+The Sacramento Mountains, together with the Guadalupe and Franklin Mountains, comprise the outcrop
+trilogy used by industry and academic groups since the 60’s to illustrate different styles of carbonate facies
+and reef styles. Exceptional exposures of unique Pennsylvanian phylloid algal mounds in Dry Canyon illustrate
+both a unique style of carbonate deposition and the distinct depositional patterns of an icehouse system, with
+repeated large amplitude swings in sea-level. These exposures, plus the Mississippian buildups of the Lake
+Valley Group provide a broad spectrum of carbonate and mixed systems. Reconstruction of environmental
+conditions associated with deposition of the Holder Formation, a Virgilian (Upper Pennsylvanian) mixed
+siliciclastic–carbonate sequence is a theme here. The White Sands gypsum dune field nearby also provides an
+ideal setting for examining dune geometries and aeolian processes that are a modern analog for our next
+project.
+Travel to Abiquiu, NM (May 29 PM)
+The drive north to Abiquiu and the Ghost Ranch Conference Center takes us across a young lava flow (the
+Carrizzo flow) and up the axis of the Rio Grande Rift (Fig. 3), the site of Tertiary crustal extension. Proceed
+north and northwest within the rift, we skirt Santa Fe and the giant Valles Caldera (our focus during week 2)
+along the western edge of the Espanola Basin, one of rift’s central valleys. Following the Chama River, we
+drive up and out of the rift onto the eastern edge of the Colorado Plateau near Abiquiu, NM. Flat lying Triassic
+and Jurassic strata of the Plateau at Ghost Ranch (Fig. 3) are the next topic of study.
+Aeolinites and evaporites – sedimentology and stratigraphy of the Jurassic Morrison, Todilto and Entrada
+Formations (May 30-June 1 AM)
+Here we measure, describe and interpret the stratigraphic and depositional contrasts between aeolian dune
+sandstone of the Entrada Formation and overlying gypsum and carbonate beds of the Todilto Formation, as
+exposed in the walls of the canyons surrounding our campground.
+                                                        13
+
+
+GEO660: Field Geology, 2019
+WEEK 2+ – Volcanology; Drs. Gardner, Helper Faccenna and Tisato – see Figure 3
+(June 1 PM-June 8)
+Geology and volcanology of a supervolcano – the Valles Caldera, Jemez Mountains, New Mexico – Drs.
+Gardner and Helper (June 1 PM – June 5)
+Following a short drive south to Los Alamos, NM (Fig. 3), we begin our study of the Valles Caldera. The Valles
+Caldera of the Jemez Mountains is the classic locality for understanding the nature of large-volume caldera
+eruptions. Exception preservation and outstanding exposures of Pleistocene eruptive products (ash flow
+and air fall tuffs, lava flows, lava domes) provide an unparalleled opportunity to examine, map and describe
+the hallmarks of these gigantic eruptions. A field trip our first afternoon examines the caldera proper and its
+youngest products. The main eruptive rocks and their precursors are studied the following day.
+  Days 2-4 are devoted to learning to recognize, interpret and map the intrusive and eruptive products of
+calderas through a mapping exercise that examine the geometry and sequence of volcanic deposits.
+Geology of the Taos Plateau Volcanic Field – Drs. Helper, Faccenna, and Tisato (June 6-9)
+Late Miocene to Pliocene eruptive rocks and interlayered sediments of the northern Rio Grande Rift of
+northernmost New Mexico are spectacularly exposed in the gorges of the Rio Grande and Red River near
+Questa, NM, within the recently created Rio Grande del Norte National Monument. The uppermost part of
+this succession comprises the Taos Plateau volcanic field, which caps the San Luis rift basin alluvial fill. Here
+we document and map the eruptive history of the Servilleta Basalts, older more silic lava flows and domes,
+and the interlayered alluvial fill. What are the relative ages of the rocks, how do we tell them apart, and
+when did the river gorges form?
+Week 3 – Basement-Cored Structures of the Wyoming Laramide Province; Drs. Hennings, Helper and Horton
+– see Figure 4 (June 10-15)
+Travel to Casper, WY (June 10) – Dr. Helper
+After a day off on June 9, we travel a long day’s drive north to Casper, Wyoming. Shortly after crossing the
+border into Colorado and into the northern-most part of the San Luis Basin (Fig. 3) we skirt the
+paleoshoreline of ancient Lake Alamosa. As recently as c. 500 Ka, the northern San Luis Basin in Colorado
+was a closed basin that hosted a giant pluvial lake, Lake Alamosa. Southward draining of the lake is thought
+to have created the northern segment of the Rio Grande River in New Mexico (Fig. 3), helping integrate a
+vast drainage catchment that by 200 Ka resembled the modern Rio Grande watershed. We leave the Rio
+Grande Rift near Fort Garland, Colorado, cross the Laramide Front Ranges of the Rockies (here the Sangre de
+Christo Mountains) and emerge onto the high plains at Walsenburg, Colorado. Skirting Denver, we follow I-
+25 north along the Front Range into Wyoming (Fig. 4), where we enter the Wyoming Laramide Province of
+Precambrian-cored uplifts and intervening basins. These are our next topic of study.
+Mapping a basement-rooted Laramide anticline, Alcova Reservoir, central Wyoming – Drs. Hennings and
+Helper (June 12-14)
+With topographic maps and aerial photos, we will map the structural and stratigraphic relationships and
+interpret the subsurface geology of a small Laramide anticline. This will be accomplished with the aid of a
+stereonet and cross section. We will also visit the regional geology of the Alcova area and become familiar
+with the complexity of natural fractures. This relatively simple mapping and cross section exercise is a prelude
+to later, more complex mapping and subsurface interpretation.
+ Big Horn Mountains and Big Horn Basin Transect – Drs. Henning, Helper and Horton (June 15)
+After finishing the Alcova project, we travel north and west to Cody, Wyoming (Fig. 5). From Sheridan to
+Cody, your job is to observe Laramide fold and fault geometries and speculate on their subsurface
+continuations. This information will inform your ~E-W regional cross section of the Big Horn Mountains and
+Basin at the latitude of Cody, which you will complete before day’s end. Spectacular vistas in the Big Horn
+                                                         14
+
+
+GEO660: Field Geology, 2019
+Mountains and westward across the Big Horn Basin, and Dr. Henning’s guidance, will allow you to do so! We
+spend the evening in historic Cody, WY, where we will be joined by a new group of T.A.s and Geo660B
+students.
+                                   This ends the first 3-week class, GEO660A
+WEEK 4 & 5– Structural Geology of the Thin-skinned Sevier Fold-Thrust Belt, Western Montana; Drs.
+Hennings, Helper and Horton – See Figure 5
+June 16-28
+Clark’s Fork Canyon and Travel to Sawtooth Mountains – Drs. Henning, Helper and Horton (June 16)
+Departing Cody, we travel a short distance north to the mouth of Clark’s Fork Canyon at the eastern end of
+the Beartooth Mountains (Fig. 5), another Laramide basement uplift. Here Big Horn Basin and older folded
+and faulted stratigraphy is brought above ground to partially onlapped by strata deposited as the Beartooths
+were uplifted ( the Beartooth Conglomerate), a classic example of so-called growth strata. Proceeding north
+and westward, we cross the leading edge of the Cretaceous Sevier fold-thrust belt near Bozeman and later
+Helena, MT (Fig. 5), and travel along its leading edge to our destination in the Sawtooth Range (Sun Canyon
+Lodge) near Augusta, MT. Along the way we enter the country explored by Lewis and Clark, with spectacular
+Big Sky vistas of isolated, snow-capped mountain ranges.
+Leading Edge of the Sevier Belt, Sawtooth Range, Montana – Drs. Henning, Helper and Horton (June 17-
+20)
+From a camp near the Sun River in the Sawtooth Range, we examine, measure and map in cross section the
+geology and geometry of the leading edge of the Sevier belt. The spectacular Sevier Fold and Thrust Belt is a
+Late Cretaceous to Early Paleogene belt of thin-skinned deformation that extends the length of the Rocky
+Mountains. The end result of our field work in the Sun River area is a cross section constrained by surface
+observation, map data, and a seismic reflection profile. You will learn how practicing structural geologists
+make use of a combination of tools and techniques to arrive at a constrained subsurface interpretation in a
+structural complex setting.
+Travel to Helena and Canyon Ferry, MT – Drs. Helper and Horton (June 21)
+As we turn our vehicles south, a short drive takes us back to Helena, the state capitol, last seen five days
+earlier on our trip north. Here we grocery shop and set up camp nearby along the northern edge of Canyon
+Ferry Reservoir, the largest of a series of reservoirs along the upper Missouri River.
+Structural geology of a fold-dominated portion of the Sevier Belt – Drs. Helper and Horton (June 22-28)
+Working from our camp at Kim’s Marina (Fig. 5) on the southern edge of the Big Belt Mountains, you will
+learn how to map, measure and describe the geology of this fold-dominated salient of the Sevier Belt. This
+is accomplished during two 3-day projects, a day off, and a field mapping test. Each of the projects share
+common components:
+      Day 1: Introduction to setting and stratigraphy
+             o Compile a stratigraphic column of map units, recon. the field area, begin mapping
+      Day 2: Continued mapping
+             o Begin constructing cross section and stereonets
+      Day 3: Finish mapping
+             o Turn in map, cross section and stereonets
+Evening lectures provide information on stereonets, cross-section construction and the geology of the Sevier
+and Laramide Orogenies.
+                                                         15
+
+
+GEO660: Field Geology, 2019
+WEEK 6 – Ore Deposits; Drs. Helper and Stockli (June 29-July 3) – See Figure 6
+Ore deposits introduction: Field trip to Butte, Montana; travel to Hecla, near Melrose, MT - Drs. Helper and
+Stockli (June 29)
+After completing work in the Big Belts, we travel southwest to Butte, MT (Fig. 6) to see what remains of "the
+richest hill on earth". The topics this day are giant porphyry copper deposits, EPA superfund sites and
+mining in the west. After buying supplies, we drive south into the Pioneer Mountains, where we establish a
+camp near the ghost towns of Lion City and Hecla, once the center of the richest silver mining district in
+Montana. Here we spend four days documenting and unraveling field relationships among deformation,
+plutonism, contact metamorphism and mineralization within facies equivalents of the same rocks mapped in
+the previous two projects.
+ Hecla Project: Ore deposit geology and geologic processes - Drs. Helper and Stockli (June 30-July 3)
+This project integrates different geological disciplines to unravel the geological history of this late-1800’s
+silver-zinc mining district. Field data will be collected over four days to understand the sedimentary,
+structural, metamorphic, magmatic and hydrothermal history of this area and to produce a concise report
+that synthesizes this information. In addition to introducing concepts in metamorphic and ore geology, this
+exercise offers a unique chance to integrate different types of data to understand the geological history of
+an area – a common exercise for any earth scientist.
+Travel to Austin - Dr. Helper (July 4-6)
+The first day of this 3-day drive takes us across the Snake River Plain hot spot track, across southern down
+through the flats of ancient pluvial Lake Bonneville along and across the Wasatch Range near Salt Lake City
+and onto the Colorado Plateau near Price, Utah. Day 2 is a long drive across the Colorado Plateau, with a
+stop at Arches National Monument near Moab, UT and across the San Juan Basin back into the Rio Grande
+Rift near Albuquerque, NM. Day 3 transits the high plains of eastern New Mexico and the Texas panhandle
+(Figs. 3 and 1), the Llano Estacado, and ends on the Edwards Plateau (Fig. 2), a largely featureless drive
+across a vast portion of these two great state. It’s been 6600 miles of geologic immersion, with experiences
+to last a lifetime - what a class, what a trip!
+                                                          16
+
+
+GEO660: Field Geology, 2019
+                         Figure 1. Geo660 Summer 2019 Geological Route Map
+                                                17
+
+
+GEO660: Field Geology, 2019
+                   Figure 2. Route Map 2 – Austin, Texas to Albuquerque, New Mexico
+                                                   18
+
+
+GEO660: Field Geology, 2019
+                Figure 3. Route Map 3 – Albuquerque, New Mexico to Denver, Colorado
+                                                19
+
+
+GEO660: Field Geology, 2019
+                  Figure 4. Route Map 4 – Denver, Colorado to Rock Springs, Wyoming
+                                                  20
+
+
+GEO660: Field Geology, 2019
+                   Figure 5. Route Map 5 – Casper, Wyoming to Great Falls, Montana
+                                                 21
+
+
+GEO660: Field Geology, 2019
+Figure 6. Geological Route Map – Idaho Falls, Idaho to Great Falls, Montana
+                                                     22
+
+
+GEO660: Field Geology, 2019
+                                     Being Academically Prepared
+Sedimentary Geology
+         Below are listed some general aspects of sedimentary geology that you will be expected to have
+mastered by the time you leave for Geo 660. All of this material was covered in Geo 416M and Geo 420K.
+The best sources for your review are your notes, the text, and the web sites for these courses.
+1. Classification of rocks and sediment by texture
+         You must be able to classify terrigenous sediments and rocks by texture (e.g., poorly sorted,
+immature, fine-grained sandstone). This means that you must be able to identify the mean grain size, estimate
+the grain sorting, recognize the four stages of textural maturity, and recognize grain shape and roundness.
+You should be able to tell if the sorting reflects a unimodal, bimodal or polymodal grain distribution. Impact
+scars on pebbles and larger grains are important to identify. Rock color also reflects important aspects of the
+rock. You must have an understanding of the factors that control these sediment/rock characteristics. For
+sandstones and conglomerates be able to estimate the abundance of framework grains, matrix, cement, and
+porosity using your hand lens.
+         You must be able to distinguish those rock aspects that are depositional in nature from those that
+result from weathering. For example, weathering commonly results in the oxidation of pyrite and other
+ferrous minerals, differential dissolution of minerals, hydration, oxidation, and case-hardening of joints.
+Precipitation of travertine crusts and soluble white salt crusts (efflorescence), as well as Liesegang bands, are
+post-depositional products. In addition, it is usually possible on outcrop to recognize basic lithology (e.g.,
+sandstone, limestone, shale) by weathering habit.
+         Be able to classify carbonate rocks according to the Dunham classification, including identification of
+major grain types. Know the major taxonomic groups of invertebrate fossils and their environmental
+significance. Know the marine evaporite mineral sequence.
+2. Classification of rocks and sediment by mineralogy
+         Be able to classify sediment and rocks by mineralogy (e.g., arkose). For sandstones be able to estimate
+the type of common cements (quartz, calcite, dolomite, siderite, iron oxides, kaolinite), the abundance of QFR
+components, and clan name using the Folk classification. Understand the relationship between mineralogy,
+source area, and other controls such as climate, tectonism and nature of transport.
+3. Sedimentary structures
+         You must be able to identify sedimentary structures and understand under what conditions they form.
+Be able to identify common fossils, know their age ranges, and environmental significance. Below are listed
+some common sedimentary structures and other features of sedimentary rocks. You should be able to
+recognize these, understand how they form, and interpret their genetic significance.
+                                                        23
+
+
+GEO660: Field Geology, 2019
+         Laminations                                               Breccia
+         Wind-ripple laminations                                   Paleokarst
+         Trough cross-strata                                       Evaporite molds
+         Tabular cross-strata                                      Inter vs. intraparticle porosity
+         Current ripple and climbing ripple cross-strata           Boundstone
+         Wave ripple cross-strata                                  Geopetals
+         Hummocky cross-strata                                     Fenestral fabric
+         Textural mottled bedding
+         Structureless (massive) bedding
+         Graded and reverse graded bedding
+         Contorted bedding
+         Nodular bedding
+         Flaser and lenticular bedding
+         Herringbone cross-strata
+         Scour-and-fill structures
+         Channel walls and channel-fills
+         Cryptalgal laminations, stromatolites (laterally linked and stacked hemispheres)
+         Bouma sequence
+         Wave and current ripple marks
+         Trace fossils: burrows, tracks, and trails
+         Flute casts, groove casts, load casts
+         Parting lineation
+         Mud cracks
+         Stylolites
+         Liesegang bands
+         Chert and other nodules, calcite-cemented concretions (and other types)
+         Cone-in-cone structure
+         Adhesion structures
+4. Depositional and diagenetic environments and processes
+         You must be able to make a basic interpretation of environment of deposition (e.g., deep-sea turbidite
+sequences, meandering fluvial channel). You should be able to determine whether the seafloor was well
+oxygenated, suboxic, anoxic. Clues are TOC (reflected in rock color), presence of absence of trace fossils,
+abundance of pyrite, etc. Most information is derived from the larger-scale geometry of the strata. You should
+always scan an outcrop for the continuity of beds, the overall strata arrangement, faults, channel structures,
+and vertical trends before studying the rock up close.
+         For carbonate and evaporite environments, review the shelf-to-basin facies tract, the environmental
+factors important for carbonate/evaporite production, the different styles of carbonate shelf architecture as
+a function of changes in sea level, climate, time in geologic history. Review the principal mechanisms
+proposed for (1) changing sea level, (2) dolomitization, (3) subaerial and subaqueous evaporite deposition, (4)
+cyclic sediment deposition.
+                                                        24
+
+
+GEO660: Field Geology, 2019
+5. Field methods
+         You must be able to perform basic field procedures including (1) measuring a section with a staff and
+Brunton compass or similar instrument, (2) identifying textures and mineralogies with a hand lens, and (3)
+using a Brunton compass or similar instrument to measure bedding and foreset orientations, (4) operate a
+hand-held GPS instrument.
+6. Data presentation
+         You must be able to display geological information in various formats including (1) vertical sections,
+(2) scaled field sketches, (3) cross-sections, (4) neatly drafted maps, (5) stereonets.
+7. Basin-scale processes
+         You must have a basic understanding of (1) tectonic basin types, (2) the types of environments
+associated with these, and (3) the types of sediments characteristic of the different types of basins and source
+areas.
+8. Global-scale processes
+         You must have a basic understanding of the depositional architectures and their scales as a function
+of cycles of sea level, climate and tectonism. Know the general history of Earth change (e.g.,
+greenhouse/icehouse periods, first-order sea-level curve), and the basics of higher order processes such as
+orbital forcing of Earth’s climate.
+Structural Geology & Mapping
+         The topics and the skills outlined below were covered in GEO428, 426P, 420K, 416K and 401/303,
+particularly in labs and/or field trip exercises. Notes, texts, old labs and web sites for these courses are
+particular valuable resources for review.
+     1) Be able to read a topographic map, construct a topographic profile along a line of section, and have
+         the ability to accurately locate yourself with a topographic map.
+     2) Have a good understanding of strike lines (structure contours), 3-point problems, the rule of V's, and
+         how these are manifest on geologic maps by unit contacts, fault traces, fold axial traces.
+     3) Be able to correctly use a compass to measure the attitudes of linear and planar features.
+     4) Be able to construct stereographic projections of the attitudes of lines and planes, and determine a
+         fold axis from attitude measurements of folded layers.
+     5) Be able to appropriately label maps and cross sections (and where these items belong on a finished
+         product): title, author, date, north arrow, scale bar, contour interval, stratigraphic symbols,
+         explanation of symbols, location of cross section; endpoints of cross section, orientation of cross
+         section, vertical scale, and vertical exaggeration.
+     6) Be able to draw a structural cross section; know how to project data from a map into the plane of a
+         cross section.
+                                                         25
+
+
+GEO660: Field Geology, 2019
+    7) Know fold terminology and map symbols: fold axis, axial surface, hinge line, axial trace, plunge, fold
+       limbs, cylindrical, overturned vs. upright, parallel vs. non-parallel, angular vs. curved.
+    8) Know fault terminology and map symbols: thrust, normal, strike slip, footwall, hanging wall,
+       displacement, dip and strike separation, fault tip, fault ramp, detachment, listric, thin-skinned vs.
+       thick-skinned, releasing and restraining bends.
+    9) Be able to interpret a geologic map, including relative ages from superpositional or cross-cutting
+       relationships, dip directions from map patterns, anticlines vs. synclines and directions of plunge, axial
+       trace symbols, up vs. down sides of faults from map patterns.
+Igneous Geology
+    1) Know how to classify igneous rocks using compositional criteria (intrusive rocks: granite, granodiorite,
+       gabbro, peridotite; extrusive rocks: rhyolite, andesite, dacite, basalt) and textural criteria (tuff, welded
+       tuff, vitrophyre, etc.), and apply appropriate adjectives (porphyritic, aphanitic, phaneritic, etc.).
+    2) Be able to identify common minerals in igneous rocks with a hand lens. These include, but are not
+       limited to, quartz, plagioclase, k-feldspar, biotite, muscovite, clinopyroxene, amphibole (hornblende)
+       and olivine.
+    3) Have an appreciation for the geological settings in which different igneous rocks might be found.
+Metamorphic Geology
+    1) Know how to classify metamorphic rocks (slate, phyllite, schist, gneiss, hornfels) and apply
+       appropriate adjectives (granoblastic, porphyroblastic, foliated, etc.).
+    2) Be able to identify common metamorphic minerals with a hand lens. These include, but are not
+       limited to: i) minerals common to most metamorphic rocks: quartz, plagioclase, k-feldspar, biotite,
+       muscovite, chlorite, ii) pelites: garnet, aluminosilicates (andalusite, kyanite, sillimanite), staurolite,
+       iii) metabasites: clinopyroxene, orthopyroxene, amphibole (hornblende, tremolite/actinolite), and
+       iv) metacalcsilicates/metacarbonates: calcite, dolomite, talc, tremolite, wollastonite, diopside.
+    3) Have an understanding of the concepts of metamorphic facies, P-T and T-X grids and isograds,
+       including an appreciation of the dependence of mineral assemblages on rock composition,
+       temperature, pressure and fluid composition/availability.
+    4) Understand the relationship of fabrics defined by metamorphic minerals to minor and major folds and
+       faults/shear zones.
+    5) Know metamorphic index minerals for pelitic and mafic rocks.
+                                                       26

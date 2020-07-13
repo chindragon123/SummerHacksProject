@@ -1,0 +1,238 @@
+                M408D Summer 2019 First Half
+                Sequences and Series
+Prof Info       Professor: Kathy Davis         Phone: 471-0128
+                Office Hours: MW 12:50-1:30; Extra appointments MWF mornings
+                Office: RLM 9.138		
+                Email: davis@math.utexas.edu 8am-5pm Use this not Canvas
+                Web Site: http://www.ma.utexas.edu/users/davis/408d
+Grading         Homework 0%            Not collected, not graded
+                Exams           50%    Two (in-TA session). See p2 for dates.
+                Quizzes         25%    Two (in-TA session).
+                Final           25%    See p2 for date.
+                Cheat Sheets           E1 and E2. One 8.5 by 11 sheet; any thing
+                			                    you want on it.
+                Make-Ups               You must tell us in advance (even same day)		
+Grades          89.6-100        A
+                88.6-89.5       A-		
+                79.6-88.5       B
+                78.6-79.5       B-
+                69.6-78.5       C
+                68.6-69.5       C-
+                59.6-68.5       D
+                Below           F
+Final Exemption All 100's
+Canvas          We will not use Canvas
+Text            Stewart, Calculus, Early Transcendentals, Eighth Edition, used
+                only for extra homework. You can buy an online book. See the
+                links on my site and in Canvas.
+Topics          Chapters 7, 9, 11, 14, 15, Detailed syllabus : p5-5
+PreReqs         Appropriate score on placement exams.
+Goals           Goals: This isn't a theorem/proof class. The goal is for you to learn
+                new techniques, to write answers in a clear coherent form, to see
+                applications and to get some understanding of why calculus works.
+                The University of Texas provides appropriate academic accommodations
+SSD
+                for qualified students with disabilities. For more information,contact the
+                Office of the Dean of Students at 471-6259, 471-6441 TTY. If you plan on
+                using accomodations, YOU NEED TO SEE ME EARLY in the semester,
+                and RESERVE A ROOM EARLY, or you'll lose your chance.
+
+
+Exam Dates
+E1 Tuesday June 25
+E2 Thursday July 11
+Final Exam Date
+Monday August 19, 9am
+Other Important Dates
+Friday June 7 		        Classes Start
+July 3-4		              Holiday
+July 12			              Holiday (finals for other classes)
+August 16		             Last Class Day
+TA Info
+All your exam and quizzes are in your TA session. If you switch times, I won't grade your exams.
+Talk to us if you must switch, even for just one day.
+TA:       				                          Phone:
+Email:
+TA Session Meets Here:
+86315 TTh 10-11:30 am        CPE 2.206
+86320 TTh 10-11:30 am        CPE 2.212
+TA Office Hours:
+Getting A Regrade
+You can ask for a regrade to correct things that you feel we missed, or graded unfairly.
+We will never lower your grade.
+The Rules: Ignore the rules, I won't regrade your stuff
+0) To get a regrade, you must take the exam/quiz in ink.
+1) You can't get a regrade if you don't pick up your stuff
+2) Compare your work with the online solutions.
+3) Mark what you want me to look at, and give the exam/quiz to me in class. NOT MY OFFICE
+4) Ask for the regrade within three MWF days after we give it back in TA session.
+5) I'll bring the regraded paper to class with me, usually the next class day.
+Ichiban Very Important Rule: Don't throw stuff away. I give second regrades before the final.
+
+
+Computing your grade
+AV = 25*(Quiz Average) + .5*(Exam Average) .25*Final
+Your average determines your grade: no special deals, no retakes, no curves. The rules on this
+syllabus are legally binding.
+Study Advice
+a) You will need to be in class, taking notes.
+b) Watch out for your algebra; it's easy to lose points.
+c) You need to show work. Anyone can get answers from Google; I want to see what you learned.
+Here's a general plan for studying:
+a) Start with working problems. If you get stuck, check your notes to see whether I did a
+similar problem. If not, discuss it with your study pals. You can also take a picture of your
+work and email me.
+b) If something seems wrong on the 14U problems, email me. Don't waste hours of your
+own time.
+c) Go to TA session to work practice quiz/exam problems.
+Where to find study material:
+a) The problems in Stewart are too simple, so we have extra practice. For studying, you can start
+with Stewart but that isn't enough and your exam problems will be harder.
+b) Every week I post 14U problems with solutions. Because the course moves so quickly, you need
+to do these problems every night, after the lecture, or at the very least, every weekend. Solutions are
+posted, too!
+c) The homework has problems to practice you for the quizzes and exams. They don't have solutions;
+these are meant to be done in your TA session.
+ d) Finally, GO THROUGH YOUR NOTES to see if there's anything you've missed.
+This is not a course in which you drill dozens of problems and then get you problems just like
+the drill. You need to do more than problems: you need to think about the kinds of problems you've
+seen and you need to organize that in your mind. The YAPS are designed to help.
+
+
+ 6/6/18   Th   No 408D activities
+ 6/7/18    F   First Class Day; 7.1
+6/10/18   M    7.2
+6/11/18    T
+6/12/18   W    7.3
+6/13/18   Th   Q1
+6/14/18    F   7.4
+6/17/18   M    7.5, 7.8
+6/18/18    T
+6/19/18   W    7.8, 9.1
+6/20/18   Th
+6/21/18    F   9.1,9.2
+6/24/18   M    9.3, 9.4
+6/25/18    T   E1
+6/26/18   W    9.5
+6/27/18   Th
+6/28/18    F   10.1, 10.2
+ 7/1/18   M    10.2, 10.3
+ 7/2/18    T   Q2
+ 7/3/18   W    HOLIDAY
+ 7/4/18   Th
+ 7/5/18    F   10.3, 10.4
+ 7/8/18   M    11.1, 11.2
+ 7/9/18    T
+7/10/18   W    11.1, 11.2
+7/11/18   Th   E2
+7/12/18    F   HOLIDAY
+7/15/18   M    11.3, 11.4
+7/16/18    T
+7/17/18   W    11.4, 11.5
+7/18/18   Th   Q3
+7/19/18    F   11.6
+7/22/18   M    11.8, 11.9
+7/23/18    T
+7/24/18   W    11.10
+7/25/18   Th   Q4
+7/26/18    F   11.11
+7/29/18   M    14.1
+7/30/18    T
+7/31/18   W    14.1
+ 8/1/18   Th
+ 8/2/18    F   14.2
+ 8/5/18   M    14.3
+ 8/6/18    T   E3
+ 8/7/18   W    14.5
+ 8/8/18   Th
+ 8/9/18    F   15.1, 15.2
+8/12/18   M    15.3
+8/13/18    T
+8/14/18   W    15.3
+8/15/18   Th
+8/16/18    F   15.3
+8/19/18 Monday Final Exam
+
+
+             7 Techniques of Integration (eight days)
+             Substitution Review
+             7.1 Integration by Parts
+             7.2 Trigonometric Integrals
+             7.3 Trigonometric Substitution
+             7.4 Integration of Rational Functions by Partial Fractions
+             7.5 Strategy for Integration (use as reference with good problem set)
+             7.8 Improper Integrals
+*+$!,'-.//0123                                                                     !"
+             9 Differential Equations (six days)
+             9.1 Modeling with Differential Equations
+             9.2 Direction Fields and Euler’s Method
+             9.3 Separable Equations
+             9.4 Models for Population Growth
+             9.5 Linear Equations
+9::;3<""===>?0>2:6@03>6A2"0B0A6?CB3"B72D363"3.//01C"*+$!,>;9;
+             9.6 Predator-prey Systems (optional)
+             10 Parametric Equations and Polar Coordinates (four days)
+             10.1 Curves Defined by Parametric Equations
+             10.2 Calculus with Parametric Curves
+             10.3 Polar Coordinates
+             10.4 Areas and Lengths in Polar Coordinates
+             10.5 Conic Sections (optional)
+             10.6 Conic Sections in Polar Coordinates (optional)
+             11 Infinite Sequences and Series (twelve days)
+             11.1 Sequences
+             11.2 Series
+             11.3 The Integral Test and Estimates of Sums
+             11.4 The Comparison Tests
+             11.5 Alternating Series
+             11.6 Absolute Convergence and the Ratio and Root Tests
+             11.7 Strategy for Testing Series
+             11.8 Power Series
+             11.9 Representations of Functions as Power Series
+             11.10 Taylor and Maclaurin Series
+             11.11 Applications of Taylor Polynomials
+             14 Partial Derivatives (three days)
+             14.1 Functions of Several Variables
+             14.2 Limits and Continuity
+             14.3 Partial Derivatives
+             14.5 The Chain Rule
+             15 Multiple Integrals (five days)
+             15.1 Double Integrals over Rectangles
+
+
+*+$!,'-.//0123                                                         !"
+             9 Differential Equations (six days)
+             9.1 Modeling with Differential Equations
+             9.2 Direction Fields and Euler’s Method
+             9.3 Separable Equations
+             9.4 Models for Population Growth
+             9.5 Linear Equations
+             9.6 Predator-prey Systems (optional)
+             10 Parametric Equations and Polar Coordinates (four days)
+             10.1 Curves Defined by Parametric Equations
+             10.2 Calculus with Parametric Curves
+             10.3 Polar Coordinates
+             10.4 Areas and Lengths in Polar Coordinates
+             10.5 Conic Sections (optional)
+             10.6 Conic Sections in Polar Coordinates (optional)
+             11 Infinite Sequences and Series (twelve days)
+             11.1 Sequences
+             11.2 Series
+             11.3 The Integral Test and Estimates of Sums
+             11.4 The Comparison Tests
+             11.5 Alternating Series
+             11.6 Absolute Convergence and the Ratio and Root Tests
+             11.7 Strategy for Testing Series
+             11.8 Power Series
+             11.9 Representations of Functions as Power Series
+             11.10 Taylor and Maclaurin Series
+             11.11 Applications of Taylor Polynomials
+             14 Partial Derivatives (three days)
+             14.1 Functions of Several Variables
+             14.2 Limits and Continuity
+             14.3 Partial Derivatives
+             14.5 The Chain Rule
+             15 Multiple Integrals (five days)
+             15.1 Double Integrals over Rectangles
+             15.2 Double Integrals over General Regions
+             15.3 Double Integrals in Polar Coordinates
+9::;3<""===>?0>2:6@03>6A2"0B0A6?CB3"B72D363"3.//01C"*+$!,>;9;

@@ -1,0 +1,60 @@
+6/6/2019                                                        Syllabus for Differential Equations, M 427J
+   M 427J Differential Equations
+   Unique Number 86340
+   Instructor: John Meth, RLM 9.144, 512­475­9138, jmeth@math.utexas.edu
+   Office Hours: MWF 10:15­11:15 in RLM 9.166
+   Textbook: Differential Equations and Their Applications, 4th ed., by Martin Braun
+   Class Time and Location: MWF 11:30AM­1PM, CPE 2.214
+   Prerequisites and Restrictions: The prerequisite is one of M408D, M308L, M408L, M308N,
+   M408S or M408M, with a grade of at least C­.
+   Email Policy:
+   If you email me, please put your EID and your Unique Number in the subject line. Please
+   check to see if your question is answered in the syllabus before emailing me. Please email me
+   at my email address, not through the Canvas messaging service.
+   Grades:
+   Your grades and class materials can be found on Canvas. It can be found at
+   https://canvas.utexas.edu/. Grades are distributed as follows:
+            Quizzes: 20%. Quizzes will be given on most Thursdays. Your two lowest quiz scores will
+            be dropped. There will be no makeups for any reason.
+            Midterms: 60%. There will be three midterms. I will replace your lowest midterm score
+            with your final exam score, provided that this is to your benefit (i.e. your grade on the
+            final exam is better than your lowest midterm score). Each midterm score will count for
+            20% of your final grade. There will be no makeups or alternate midterm times for any
+            reason. The dates of our midterms can be found on the lessons calendar, below.
+            Final Exam: 20%. The final exam is worth 20%. There will be no makeups for any
+            reason. There will be no alternate final exam times for any reason. To find information
+            about the final exam, google UT Finals Schedule and enter the unique number of our
+            class.
+            Grade cutoffs: If the course is curved, the curve will not be known until after the final
+            exam. You are guaranteed cutoffs that are standard (93­100 A, 90­92 A­, 87­89 B+,
+            etc.) or better. Final grades are final and will not be changed. If you feel extenuating
+            circumstances were deleterious to your grade in the course, please contact Student
+            Emergency Services.
+https://web.ma.utexas.edu/users/jmeth/DESummer19/DEhtml%20Summer%2019/DESummer19Syll86340.html              1/2
+
+
+6/6/2019                                                        Syllabus for Differential Equations, M 427J
+   Content:
+   The topics to be covered in class can be found here:
+   https://www.ma.utexas.edu/academics/courses/course­syllabi#m427j­syllabus
+   Calendar:
+   Our lecture and homework calendar can be found here:
+   DELessons.html
+   General Information:
+            Drop Deadlines: Please see Academic Calendar
+            Academic Dishonesty: Academic dishonesty of any kind will not be tolerated, and is
+            punished to the fullest extent allowed by university policy.
+            Students with Disabilities: Upon request, The University of Texas at Austin provides
+            appropriate academic accommodations for qualified students with disabilities. For more
+            information, contact the Office of the Dean of Students at 512­471­6259, 512­471­4641
+            TTY. If you plan on using accommodations, please notify me in the first twelve class
+            days of the semester.
+            Mental Health Services: The Counseling and Mental Health Center is located on the
+            fifth floor of the Student Services Building (SSB), with hours Monday through Friday,
+            8AM­5PM, and may be reached at 512­471­3515 (appointments) and 512­471­CALL
+            (crisis line).
+            Religious Holidays: According to university policy, you must notify me of your pending
+            absence at least fourteen days prior to the date of observance of a religious holy day.
+            You will be given an opportunity to complete any missed work within a reasonable
+            amount of time after the absence.
+https://web.ma.utexas.edu/users/jmeth/DESummer19/DEhtml%20Summer%2019/DESummer19Syll86340.html              2/2

@@ -1,0 +1,145 @@
+Fall 2018 - ARC 385M - Construction III
+Instructor: Ulrich Dangel     Email: dangel@utexas.edu
+Office Hours: Tuesdays 2:00 - 3:30pm, GOL 4.108, Tel. 512-471-5157
+Teaching Assistant: Robbie Anderson (Robbie.anderson@utexas.edu)
+Lecture: TTH 12:30 - 2:00pm, SUT 2.112, Lab: TH 7:00 - 10:00pm, PAR 304
+Course Summary
+This course is an introduction to analyzing the behavior of basic structures through quantitative methods of
+conventional structural analysis and design. It functions as an applied statics course and emphasizes schematic
+calculations for the design of components and connections of various structural systems. In addition, essential
+design criteria and assembly techniques of the building envelope and its relationship to the overall structural
+system will be explored.
+The analysis aspects of this course will examine the structural behavior and application of support members
+and columns in timber, steel, reinforced concrete, and masonry. Throughout the course, the student will be
+required to make assessments in the areas of material, form, and fabrication.
+The primary objective of the course is to provide the student with the ability to use methods and analyses, along
+with rules of thumb and present-day conventions, to determine the preliminary sizing and evaluation of a total
+structural system. Consequently, the student will learn to make a judgment on which structural systems and
+envelope assemblies are appropriate and applicable to a specific design solution.
+NAAB Student Performance Criteria
+B.4 Technical Documentation, B.5 Structural Systems, B.7 Building Envelope Systems and Assemblies, B.8
+Building Materials and Assemblies
+Format
+- Lectures will cover the significant material introduced in the required reading assignments.
+- Homework will be assigned at the end of each lab session and will be due at the beginning of the following
+     lab. Lab sessions will review example problems similar in nature to those assignments. Late homework
+     assignments will be reviewed but not credited.
+- In addition to the weekly assignments, projects will constitute the fundamental course work. Late project
+     assignments will be graded, but will be lowered by half a letter grade for each day late.
+- Quizzes may be given without notice to cover reading assignments, which should be completed prior to the
+     presentation of the material in lecture.
+- Exams will be closed book and will cover all lectures, labs, and reading assignments within a given period.
+- All course material (course description, syllabus, assignments, projects, readings, grades, etc.) will be
+     available on Canvas at canvas.utexas.edu
+Course Requirements
+Statics and Strength of Materials for Architecture and Building Construction, Onouye + Kane, 4th ed.
+(required, available at Coop)
+Reserved Texts:
+Fundamentals of Building Construction, Allen; The Architect’s Studio Companion, Allen; Glass Construction
+Manual, Balkow; Building Structures, Ambrose; Simplified Engineering for Architects and Builders, Ambrose +
+Tripeny; Designing the Exterior Wall, Brock; Building Construction Illustrated, Ching; Constructing Architecture,
+Deplazes; Structures – Or Why Things Don’t Fall Down, Gordon; Construction Materials Manual, Hegger;
+
+
+Facade Construction Manual, Herzog; Timber Construction Manual, Herzog; Concrete Construction Manual,
+Kind-Barkauskas; Olin’s Construction: Principles, Materials & Methods, Leslie; Masonry Construction Manual,
+Pfeifer; Architectural Structures, Place; Why Buildings Fall Down, Levy; Why Buildings Stand Up, Salvadori;
+Building Skins, Schittich; Structures, Schodek; Elementary Structures for Architects and Builders, Shaeffer;
+Steel Construction Manual, Schulitz; Roof Construction Manual, Schunck; Interactive Structures (DVD),
+Vassigh;
+Attendance Policy
+Attendance is mandatory in all lectures and labs. Students can have three (3) unexcused absences – for any
+reason – without penalty. Each additional absence, regardless of the reason, will lower the final course grade by
+one full letter grade.
+Religious Observances
+A student shall be excused from attending classes or other required activities, including examinations, for the
+observance of a religious holy day, including travel for the purpose. A student whose absence is excused under
+this subsection may not be penalized for that absence and shall be allowed to take an examination or complete
+an assignment from which the student is excused within a reasonable time after the absence. University policy
+requires students to notify each of their instructors as far in advance of the absence as possible so that
+arrangements can be made to complete an examination, assignment, or a project within a reasonable time after
+the absence. A student who fails to complete missed work within the time allowed will be subject to the normal
+academic penalties.
+Grading
+Final grades are derived from homework and quizzes, three semester exams, and the semester projects.
+Grading is based on a 100 point scale as follows:
+A         93 - 100
+A-        90 - 92
+B+        87 - 89
+B         83 - 86
+B-        80 - 82
+C+        77 - 79
+C         73 - 76
+C-        70 - 72
+D+        67 - 69
+D         63 - 66
+D-        60 - 62
+F         59 and below
+The individual grades accumulated over the semester are averaged towards the final grade as follows:
+Homework                    10%
+Exam 1                      20%
+Exam 2                      20%
+Exam 3                      20%
+Projects                    30%
+NO INCOMPLETES WILL BE ALLOWED.
+
+
+Students with Disabilities
+Students with disabilities who require special accommodations must obtain a letter that documents the disability
+from the Services for Students with Disabilities area of the Office of the Dean of Students (471-6259 voice or
+471-4641 TTY for users who are deaf or hard of hearing). This letter should be presented to the instructor in
+each course at the beginning of the semester and accommodations needed should be discussed at that time.
+Five business days before an exam the student should remind the instructor of any testing accommodations that
+will be needed.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to
+discuss by phone your concerns about another individual’s behavior. This service is provided through a
+partnership among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the
+Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-
+5050 or visit http://www.utexas.edu/safety/bcal.
+Policy on Academic Integrity
+Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Since such dishonesty harms the
+individual, all students, and the integrity of the University, policies on scholastic dishonesty will be strictly
+enforced. For further information, visit the SJS website at http://deanofstudents.utexas.edu/sjs or call 471-2841.
+
+
+Fall 2018 - ARC 385M - Construction III
+Instructor: Ulrich Dangel
+Schedule
+Week                              Topic                                       Notes                           Reading*
+1         30-Aug             TH   Course Introduction                         No Lab
+2         4-Sep              T    Statics                                                                     Ch. 1.1 - 1.6, 2.1 - 2.4
+          6-Sep              TH   Structural Properties of Areas              Project Part 1 issued           Ch. 6.1 - 6.4
+                                                                                                                                                                                Structural Fundamentals
+3         11-Sep             T    Stress and Strain                                                           Ch. 5.1 - 5.4
+          13-Sep             TH   Shear and Moment                                                            Ch. 2.5 - 2.6, 7.1 - 7.5
+4         18-Sep             T    Bending Stress                                                              Ch. 8.1 - 8.2, 8.6
+          20-Sep             TH   Shearing Stress                             Project Proposal Part 1 due     Ch. 8.3 - 8.4
+5         25-Sep             T    Deflection/Compression Members                                              Ch. 8.5, 9.1 - 9.2
+          27-Sep             TH   Compression Members                                                         Ch. 8.7, 9.5
+6         2-Oct              T    Building Envelope: Historic Development                                     pp. 9 - 16 (Building Skins)
+                                                                                                                                                                                Envelope
+          4-Oct              TH   Exam 1 7:00 - 9:00pm                        No Lab
+7         9-Oct              T    Building Envelope: Design Fundamentals                                      Part A (Facade Construction Manual)
+          11-Oct             TH   Properties of Wood/Beam Design              Project Part 1 due              Ch.4.1, Ch. 5.1 - 5.2, 5.4 - 5.7 (Ambrose + Tripeny)
+8         16-Oct             T    Column Design/Wood Connections              Project Part 2 issued           Ch. 9.4                                                           Wood
+          18-Oct             TH   Wood Connections                                                            Ch. 19 (Ambrose)
+9         23-Oct             T    Properties of Steel                                                         Ch. 8 (Ambrose + Tripeny)
+          25-Oct             TH   Exam 2 7:00 - 9:00pm                        No Lab
+10        30-Oct             T    Beam and Column Design in Steel                                             Ch. 9.3                                                           Steel
+          1-Nov              TH   Steel Connections I                         No Lab/Project Part 2 Pinup     Ch. 10.2
+11        6-Nov              T    Steel Connections II                                                        Ch. 10.1, 10.3
+          8-Nov              TH   Beam Design in Concrete                                                     Ch. 13.1 - 13.5 (Ambrose + Tripeny)
+                                                                                                                                                                                Concrete
+12        13-Nov             T    Beam and Column Design in Concrete                                          Ch. 13.6 - 13.8, 14, 15 (Ambrose + Tripeny)
+          15-Nov             TH   Exam 3 7:00 - 9:00pm                        No Lab
+13        20-Nov             T    Building Envelope: Materials + Properties                                   Part B 1.1 - 1.7 (Facade Construction Manual)
+                                                                                                                                                                                Envelope
+          22-Nov             TH   Thanksgiving                                No Lab
+14        27-Nov             T    Project Presentations 1                     Project Part 2 due
+          29-Nov             TH   Project Presentations 2
+                                                                                                                                                                                Project
+15        4-Dec              T    No Class
+          6-Dec              TH   No Class                                    No Lab
+Schedule subject to change                                                                   * Reading in bold is from the course textbook, all other reading is available on Canvas

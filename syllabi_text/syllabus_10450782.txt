@@ -1,0 +1,66 @@
+6/11/2020                                                        Syllabus for Differential Equations, M 427J
+   M 427J Differential Equations
+   Unique Number 85505
+   Instructor: John Meth, jmeth@math.utexas.edu
+   Office Hours: All office hour questions and answers will be conducted virtually and
+   asynchronously on Piazza:
+   piazza.com/utexas/summer2020/427j/home
+   Textbook: Differential Equations and Their Applications, 4th ed., by Martin Braun
+   Class Time and Location: Class meets MWF 11:30AM­ 1:00PM via Zoom. Links will be sent
+   through Canvas:
+   https://canvas.utexas.edu/
+   Classes are synchronous, but attendance is not mandatory and recordings of each class will
+   be accessible via Zoom.
+   Prerequisites and Restrictions: The prerequisite is one of M408D, M308L, M408L, M308N,
+   M408S or M408M, with a grade of at least C­.
+   Email Policy:
+   If you email me, please put your EID and your Unique Number in the subject line. Please
+   check to see if your question is answered in the syllabus or on Piazza before emailing me.
+   Please email me at my email address, not through the Canvas messaging service.
+   Grades:
+   Your grades and class materials can be found on Canvas. It can be found at
+   https://canvas.utexas.edu/. Grades are distributed as follows:
+            Quizzes: 25%. Quizzes will be given as take home assignments via Canvas. You will turn
+            in your quiz as a .pdf file uploaded on Canvas. Although the quizzes can easily be
+            completed in under an hour, you will have more than 48 hours to complete each quiz.
+            You may use any resources (but please do not post any information related to the quiz
+            on Piazza or any other public message board). Your top five quiz scores will be counted
+            towards your grade (I'm dropping your lowest 5 quiz scores).
+            Exams: 75%. There will be three exams. Exams will be given as take home assignments
+            via Canvas. You will turn in your midterm as a .pdf file uploaded on Canvas. Although
+            the exams can easily be completed in under an hour, you will have more than 48 hours
+            to complete each midterm. You may use any resources (but please do not post any
+            information related to the midterm on Piazza or any other public message board).
+https://web.ma.utexas.edu/users/jmeth/DESummer20/DESummer20Syll85505.html                                    1/2
+
+
+6/11/2020                                                        Syllabus for Differential Equations, M 427J
+            Grade cutoffs: If the course is curved, the curve will not be known until after the last
+            exam. You are guaranteed cutoffs that are standard (93­100 A, 90­92 A­, 87­89 B+,
+            etc.) or better. Final grades are final and will not be changed. If you feel extenuating
+            circumstances were deleterious to your grade in the course, please contact Student
+            Emergency Services.
+   Content:
+   The topics to be covered in class can be found here:
+   https://www.ma.utexas.edu/academics/courses/course­syllabi#m427j­syllabus
+   Calendar:
+   Our lecture and homework calendar can be found here:
+   DELessonsNew.html
+   General Information:
+            Drop Deadlines: Please see Academic Calendar
+            Academic Dishonesty: Academic dishonesty of any kind will not be tolerated, and is
+            punished to the fullest extent allowed by university policy.
+            Students with Disabilities: Upon request, The University of Texas at Austin provides
+            appropriate academic accommodations for qualified students with disabilities. For more
+            information, contact the Office of the Dean of Students at 512­471­6259, 512­471­4641
+            TTY. If you plan on using accommodations, please notify me in the first twelve class
+            days of the semester.
+            Mental Health Services: The Counseling and Mental Health Center is located on the
+            fifth floor of the Student Services Building (SSB), with hours Monday through Friday,
+            8AM­5PM, and may be reached at 512­471­3515 (appointments) and 512­471­CALL
+            (crisis line).
+            Religious Holidays: According to university policy, you must notify me of your pending
+            absence at least fourteen days prior to the date of observance of a religious holy day.
+            You will be given an opportunity to complete any missed work within a reasonable
+            amount of time after the absence.
+https://web.ma.utexas.edu/users/jmeth/DESummer20/DESummer20Syll85505.html                                    2/2

@@ -1,0 +1,346 @@
+                 Introduction to Digital Humanities
+                              INF 315E.01 - Spring 2020
+Instructor​: Liz Fischer (she/her)               Unique numbers: ​27450, 31099
+Email​: ​lfischer@utexas.edu                     Course numbers: ​INF 315E.01, AMS 315
+Office hours: ​ M 1-2:30, W 3-4:30, and          Class Meetings: ​MWF 11-12 in​ ​FAC 7
+by appointment
+Office​: FAC 16
+Textbook
+   ● Humanities Data in R​ by Taylor Arnold and Lauren Tilton. Available for free
+       through UT Libraries​.
+About the Course
+Focuses on the critical application of exploratory techniques in digital scholarship in the
+humanities, including principles of exploratory data analysis and the R programming
+language to perform both analysis and visualization. Practice in critiquing how text,
+images, audio, and spatial data are analyzed and represented from a humanistic
+perspective that considers intersectional power dynamics surrounding ability, class,
+gender, and race in culture.
+This course carries the Writing Flag. Writing Flag courses are designed to give students
+experience with writing in an academic discipline. In this class, you can expect to write
+regularly during the semester, complete substantial writing projects, and receive
+feedback from your instructor to help you improve your writing. You will also have the
+opportunity to revise one or more assignments, and you may be asked to read and
+discuss your peers’ work. You should therefore expect a substantial portion of your
+grade to come from your written work. Writing Flag classes meet the Core
+Communications objectives of Critical Thinking, Communication, Teamwork, and
+Personal Responsibility, established by the Texas Higher Education Coordinating
+Board.
+
+
+Learning Objectives
+    ● Interpretation​: Students will explain quantitative information presented in
+        multiple forms (e.g., equations, graphs, diagrams, tables).
+    ● Representation​: Students will convert quantitative information into multiple
+        forms (e.g., equations, graphs, diagrams, tables).
+    ● Calculation​: Students will demonstrate fluency in the mechanics and language
+        or symbolism necessary to manipulate numerical or non-numerical information
+        to solve a problem.
+    ● Application & Analysis​: Students will make judgments and draw conclusions
+        based on the quantitative and qualitative analysis of data (numerical or
+        non-numerical).
+    ● Assumptions & Limitations​: Students will identify assumptions underlying
+        their methods of interpretation including data identification, data curation, data
+        extraction, data analysis, data representation study and evaluate how their
+        results and outcomes may be affected.
+    ● Communication​: Students will express qualitative and quantitative evidence in
+        support of an argument or in justifying their work, including formatting,
+        presenting, and contextualizing the evidence used
+Coursework & Grading
+You will be graded on the following assignments this term:
+    ●   Weekly assignments (30%)
+    ●   In-class work & labs (5%)
+    ●   Data Set Review (15%)
+    ●   Midterm Exam (10%)
+    ●   Final Project: Critical Data Analysis Research Paper (40%)
+Assignment Descriptions
+Weekly assignments
+In the first half of the semester, the weekly assignments will be R programming
+problem sets. In the second half of the semester, the weekly assignments will be Canvas
+discussion posts discussing the readings for the week. You may always have a
+one-class-period extension on weekly assignments ​if​ ​you come to my office hours to
+discuss the assignment before the extended deadline.
+
+
+Data Set Review
+This assignment is meant to make data curation decisions more transparent. By writing
+a review that focuses on how and why and for whom data sets are created for public
+use, we start a conversation about how these data sets are built and how those decisions
+shape the study of culture in the humanities and reflect assumptions and limitations in
+human knowledge and experience.
+Midterm
+The midterm exam will assess learning of R programming skills and the critical
+perspectives introduced through weekly assigned readings. The midterm will assess
+understanding of the calculation, representation, and interpretation of data. Questions
+will include scenarios to solve with R, and data visualizations or outputs to give written
+interpretations of.
+Final Project: Critical Data Analysis Research Paper
+The Final Research Project will include a proposal, a working draft presentation, and a
+final draft. The final research paper asks you to construct or find and analyze both
+quantitatively and qualitatively your own data set from cultural heritage materials
+found online. Methods of inquiry for this paper should be drawn from what we have
+covered this semester. Analyzing data will include information about what kind of data
+it is, why it's important to ask questions of it, and why you chose the methods of
+analysis you chose. This paper will include an abstract, a literature review, a description
+of methodology, and a discussion of what you observed and any hypotheses or
+discoveries that may have arisen out of this analysis. This paper will be 8-10 pages.
+Grades
+Final grades will be determined on the following scale. Please note: To ensure fairness,
+all numbers are absolute, and will not be rounded up or down at any stage. For
+example, a B- will be inclusive of all scores of 80.0000 through 83.9999. The University
+does not recognize the grade of A+.
+•       A=94-100                  •      B-=80-83                 •      D+=67-69
+•       A-=90-93                  •      C+=77-79                 •      D=64-66
+•       B+=87-89                  •      C=74-76                  •      D-=60-63
+•       B=84-86                   •      C-=70-73                 •      F=0-59
+
+
+Class Policies
+This class will always strive to be a safe space for learning and development; that is, a
+space where we can develop and refine the knowledge and skills necessary for
+culturally competent practice. Learning requires stretching beyond comfort zones,
+and yet feeling safe is a prerequisite for a good learning environment. As we all bring
+diverse experiences to our shared classroom, here are some general guidelines to
+help create the environment we want.
+Accessibility
+Your success in this class is important to me​. If there are aspects of this course that
+prevent you from learning or exclude you, please let me know as soon as possible.
+Together we’ll develop strategies to meet both your needs and course requirements.
+I am committed to making all course materials as accessible as possible​, and to
+working with students if any of these materials are inaccessible. We will all need
+some accommodations in this class, because we all learn differently. If you need
+specific accommodations, let me know. Any conversations we have about
+accommodations are confidential. ​I am happy to take extra steps to ensure
+accessibility for all students​.
+Attendance
+I make no distinction between types of absences. If you need to miss a class, I do not
+need to know the reason; there is no “excused” absence. You may miss up to 6 classes
+without penalty (though keep in mind deadlines and the usual late work policy still
+apply). Beyond that, each absence will result in a one-letter drop in the final course
+grade.
+Behavior
+Be respectful of your colleagues. There is zero tolerance for slurs or derogatory
+language. In general, don’t discriminate based on race, gender presentation, marital
+status, religion, disability, age, or sexual orientation.
+Everyone in our class has the right to be addressed in accordance with their personal
+identity. The university provides me with a class roster containing each student’s
+
+
+legal name and sex marker. ​I will gladly address you by the name and gender
+pronoun with which you identify.​ Please let me know your preferred name and
+pronouns early in the semester, so your peers and I can address you appropriately.
+Email Policy
+The most effective way to reach me outside of class is via email. You can use the
+email address listed on the first page of this syllabus, or the message system in
+Canvas. Email is an official form of communication at UT; see the departmental email
+policy below for more information.
+Email correspondence should be done with a professional tone. This means including
+a meaningful subject line, a greeting, and a sign-off with your name. If your would
+like a response, make sure it is clear what you need from me. I will do my best to
+respond to you within 24 hours, but please note I do not respond to emails after 8pm
+or on weekends. If you know you will need a fast response, please plan accordingly.
+Learning Procedures
+It is never okay to laugh at, belittle, or harass a colleague because of their opinion or
+point of view. ​Always think about how your comments will support our learning
+as a group​. But safe doesn’t mean operating in an environment where beliefs and
+ideas go unchallenged. Challenging colleagues to explain their arguments in a
+thoughtful manner is key to creating an engaging learning community.
+     ● Make a commitment to understand unfamiliar positions from the context or
+        point of view of your peers.
+     ● Speak for yourself rather than for a group (use your “I” statements).
+     ● Be present – really listening to your colleagues will dramatically improve your
+        in-class experience and prevent most understandings.
+     ● Take risks in speaking honestly; this will help the learning of the group.
+Note on Language
+I recognize that everyone will have different proficiencies in the English language,
+and English may be a second, third, or even fourth language for some. This class is
+designed to give you proficiency in a particular dialect and style of the English
+language that is typical to academic and professional communication. The goals of
+this class do not make your own language practices any less valuable and valid;
+
+
+rather, they seek to empower you to succeed during your university and professional
+careers. There are many resources on campus available to assist you in achieving the
+goals of this class. If you are struggling with completing assignments in the dialect of
+English we will be using, please let me know as soon as possible and I can connect
+you to resources that may help.
+Late Work
+I will accept work up to one week after the assigned due date, with a 5% grade
+deduction for each class-day it is late. After one week, no late work will be accepted
+unless prior arrangements have been made.
+Technology Policy
+Computers will be essential for the work we do in this class. You are permitted to use
+own computer during class when we are doing computer-based work. You are also
+welcome to use the computers in our classroom if you cannot or prefer not to use
+your own device. Learning the appropriate and respectful use of these technologies
+in professional settings, such as a college classroom, is important. That being the case,
+laptops are only to be used for class work, and cell phone use is not permitted
+during class.​ Improper use of technology during class may result in being counted
+absent for the day.
+University Policies
+Scholastic Honesty
+Turning in work that is not your own, or any other form of scholastic dishonesty, will
+result in a major course penalty, possibly failure of the course. This standard applies
+to all drafts and assignments, and a report of the incident will be submitted to the
+Office of the Dean of Students and filed in your permanent UT record. Under certain
+circumstances, the Dean of Students will initiate proceedings to expel you from the
+University.
+So, take care to read and understand the Statement on Scholastic Responsibility,
+which can be found online at
+http://www.utexas.edu/cola/depts/rhetoric/firstyearwriting/plagiarismcollusion.
+
+
+php​ If you have any doubts about your use of sources, ask your instructor for help
+before handing in the assignment.
+Students With Disabilities
+Any student with a documented disability who requires academic accommodations
+should contact Services for Students with Disabilities (SSD) at 512-471-6259 (voice) or
+1-866-329-3986 (video phone) as soon as possible to request an official letter outlining
+authorized accommodations. More information is available on the Services for
+Students with Disabilities website at http://ddce.utexas.edu/disability/
+Email Accounts
+Email is an official means of communication at UT-Austin, and your instructor will
+use this medium to communicate class information. You are therefore required to
+obtain a UT email account and to check it daily. All students may claim an email
+address at no cost by going to the IT Services website at
+https://get.utmail.utexas.edu/.
+Emergency Information
+Occupants of buildings on The University of Texas at Austin campus are required to
+evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+requires exiting and assembling outside.
+Familiarize yourself with all exit doors of each classroom and building you may
+occupy. Remember that the nearest exit door may not be the one you used when
+entering the building.
+Students requiring assistance in evacuation shall inform their instructor in writing
+during the first week of class.
+In the event of an evacuation, follow the instruction of faculty or class instructors.
+Do not re-enter a building unless given instructions by the following: The University
+of Texas at Austin Police Department, or Fire Prevention Services office.
+Information regarding emergency evacuation routes and emergency procedures can
+be found on the UT emergency page at http://www.utexas.edu/emergency
+
+
+Other Important Emergency Information
+You can find more information about planning for emergencies on the Emergency
+Preparedness site at http://www.utexas.edu/safety/preparedness/
+Behavior Concerns Advice Line: 512-232-5050
+Use this resource to help fellow UT members about whom you have concerns. You
+can learn more about the Behavior Concerns Advice Line on their site at
+https://operations.utexas.edu/units/csas/bcal.php
+
+
+Tentative Schedule
+                                               Assignment   You should have
+ Week   Day                Topic
+                                                   Due         prepared...
+       Jan 22      Course introduction
+  1
+       Jan 24   Digital Humanities history
+                  Making meaning in the                       Readings on
+       Jan 27                                  Discussion 1
+                        humanities                               Canvas
+                        Visit to PCL
+  2    Jan 29
+                 (meet in Learning Lab 3)
+                   Introduction to R &                       Read ​Humanities
+       Jan 31
+                   Programming Basics                          Data​ Ch. 1
+                                   Calculation
+               Calculator, Objects, Numeric
+        Feb 3                                    P-Set 0    Read Ch. 2.2 & 2.3
+                          Vectors
+  3
+        Feb 5  Logical vectors & Subsetting                 Read Ch. 2.4 & 2.5
+        Feb 7              Lab 1
+       Feb 10 Character Vectors, Data Frames     P-Set 1     Read Ch. 2.6-2.7
+  4    Feb 12 Matrices, I/O, Adv. Subsetting                Read Ch. 2.8 & 2.9
+       Feb 14              Lab 2
+                       Representation & Interpretation
+       Feb 17       Tables, Histograms           P-Set 2     Read Ch 3.1-3.3
+                Quantiles, Binning, Control
+  5    Feb 19                                                Read Ch. 3.4-3.6
+                           Flow
+       Feb 21              Lab 3
+              Combining Plots, Aggregation,
+       Feb 24                                    P-Set 3     Read Ch. 3.7-3.9
+                   Applying Functions
+  6            Multivariate Analysis, Scatter
+       Feb 26                                               Read Ch. 4.1 & 4.2
+                           Plots
+
+
+   Feb 28               Lab 4
+   Mar 2      Text, Points, Line Plots         P-Set 4    Read Ch. 4.3-4.5
+          Scatter Plot Matrix, Correlation
+ 7 Mar 4                                                 Read Ch. 4.6 & 4.7
+                       Matrix
+   Mar 6                Lab 5
+   Mar 9               Review                  P-Set 5
+   Mar 11             Midterm
+ 8
+                                                            Readings on
+   Mar 13      Project Development
+                                                              Canvas
+                        Spring Break -- No Class
+                         Application & Analysis
+              Proposal development
+   Mar 23
+            workshop; Finding datasets
+                                                         Read Ch. 6 intro &
+   Mar 25                                   Discussion 2   supplementary
+ 9                 Network Data
+                                                              material
+                                                         Read Ch. 10 intro &
+   Mar 27                                                  supplementary
+                Text Analysis Data
+                                                              material
+                                                         Read Ch. 9 intro &
+   Mar 30            NLP Data               Discussion 3   supplementary
+                                                              material
+                                                         Read Ch. 7 intro &
+10 Apr 1          Geospatial Data                          supplementary
+                                                              material
+                                                         Read Ch. 8 intro &
+   Apr 3            Image Data                             supplementary
+                                                              material
+                      Assumptions & Limitations
+
+
+               Scraping, curating & cleaning
+       Apr 6
+                             data
+  11          OpenRefine Workshop at the
+       Apr 8                                            Dataset Report
+                             PCL
+                                                                 Readings on
+       Apr 10          Ethics in data
+                                                                     Canvas
+                                                Research
+              Literature reviews: engaging in
+       Apr 13                                   question
+                   scholarly conversation
+                                                  draft
+  12
+       Apr 15      No class-- conferences
+                   Debates in the Digital                        Readings on
+       Apr 17                                  Discussion 4
+                        Humanities                                   Canvas
+       Apr 20     Proposal presentations
+                                                            Proposal
+  13   Apr 22     Proposal presentations
+       Apr 24         Writing abstracts
+                  Giving & incorporating
+       Apr 27
+                          feedback
+  14   Apr 29           Peer review             Abstract
+                Class canceled-- instructor
+       May 1
+                          traveling
+       May 4       No class-- conferences
+                   Debates in the Digital                        Readings on
+       May 6                                   Discussion 5
+  15                    Humanities                                   Canvas
+              Publishing & sustaining digital                    Readings on
+       May 8
+                        scholarship                                  Canvas
+                                 Communication
+Finals  TBD     Final project presentations    Final paper

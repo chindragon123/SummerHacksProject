@@ -1,0 +1,319 @@
+BME 261L
+DEVELOPMENT AND ANALYSIS IN BME DESIGN
+SUMMER 2019
+INSTRUCTOR
+DR. DAN PUPERI                       DANPUPERI@UTEXAS.EDU                          512-232-6847
+OFFICE: BME 1.108D                   OFFICE HOURS: BY APPOINTMENT USING GOOGLE CALENDAR
+TEACHING ASSISTANT S – EMAIL FOR OFFICE HOURS
+SHAHAB HAGHAYEGH                     SH.HAGHAYEGH@GMAIL.COM
+LEARNING ASSISTANTS
+ALI ABBASPOUR, JAMES KWON
+COURSE DESCRIPTION
+UNIVERSITY CATALOG C OURSE DESCRIPTION
+Further exploration of biomedical engineering design principles through open-ended hands-on applications.
+                        How do engineers actually design devices?
+This course will challenge students to engage in many aspects of the engineering design process. Students will
+learn the basics of engineering design in both lab and lecture by participating in a semester long design project.
+The goal of the course is to provide students for opportunity for professional growth by exposing them to an
+extended engineering design process while giving opportunities for strengthening teamwork, creativity, and
+practical communication skills.
+LEARNING OBJECTIVES
+By the end of the semester, students will have the opportunity to:
+     • Design and build a working biomedical engineering device prototype
+     • Consider the impacts of market, budget, and the FDA on device requirements and design
+     • Participate in an engineering design process including reviews and documentation
+     • Follow the medical device design control process outlined by the FDA and ISO
+     • Learn about companies and recent events in the biomedical device industry
+     • Assess and improve team function
+
+
+MY LEARNING OBJECTIVES
+     •
+     •
+     •
+ABET PROGRAM OUTCOME S
+(2) an ability to apply engineering design to produce solutions that meet specified needs with consideration of
+public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+(4) an ability to recognize ethical and professional responsibilities in engineering situations and make informed
+judgements, which must consider the impact of engineering solutions in global, economic, environmental, and
+societal contexts
+(5) an ability to function effectively on a team whose members together provide leadership, create a collaborative
+and inclusive environment, establish goals, plan tasks, and meet objectives
+(7) an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+COURSE REQUIREMENTS
+REQUIRED MATERIALS
+There is no required textbook. All required content will be posted on the Canvas webpage. You will also be
+responsible for doing your own research to find content applicable to your design project.
+You must keep a lab/design notebook. For this class you will have the option of keeping a physical lab/design
+notebook or an electronic lab/design notebook.
+          Physical notebook must meet the following criteria:
+               1) Permanently bound pages
+               2) Pages pre-numbered, without any missing numbers or pages torn out
+               3) Room for table of contents at the beginning
+          You can buy acceptable lab/design notebooks from either BMES or from the Co-op.
+          Electronic notebook must be Microsoft OneNote.
+          OneNote can be downloaded free for almost every platform.
+          The lab/design notebook must be a separate OneNote notebook from class notes, personal notes, etc.
+          Guidelines for maintaining both physical and electronic lab/design notebooks are posted on Canvas.
+          Lab/design notebooks will be graded in lab throughout the semester.
+PREREQUISITES
+BME 245L and BME 343.
+
+
+COURSE FORMAT AND LEARNING ACTIVITIES
+The course will consist of lectures on Mondays, Tuesdays, and Wednesdays from 9-11am and a 3-hour lab section
+on Mondays, Tuesdays, and Wednesdays from 12-3pm. All lectures will be held in GDC 1.406 and all labs will be
+held in BME 3.310.
+Lectures will contain some background information, and will help students understand the design process.
+However, much of the learning in this course will be self-directed. Student’s will use the knowledge and
+resources from lecture and will be responsible for learning the specifics that are needed to complete the semester
+long design project.
+Labs will be time to work with your team and ask TA and LA questions, but teams are given freedom to work on
+their projects on a convenient schedule. Every student will be required to check in for every lab period so that TAs
+can ensure progress is being made and give feedback. While every student will have the opportunity to learn the
+specifics of the engineering design process, not every student will learn the same material in this class because of
+the collaborative nature of the design project.
+Lecture materials, lab assignments, and examples may be found on Canvas https://canvas.utexas.edu/.
+HOW TO BE SUCCESSFUL IN THIS COURSE
+Participation: This is a hands-on course. You will learn the most by participating the design process with your
+team. Participation includes showing up on time to both lab and scheduled lectures. Lab session attendance is
+mandatory.
+Project management: In order to complete the design project successfully, you will have to manage the project
+well. You will have to work steadily throughout the semester and use all of the available resources (including all of
+your teammates)
+Explore: One major goal of college is to teach you how to find answers yourself. Research has shown that you will
+learn more by actively participating in learning rather than being spoon fed information from an instructor. The
+design project in this class is open ended, which means you have a lot of freedom to explore. Learn something new
+by trying something new!
+Teamwork: All of your work in the class will be accomplished in teams of 4-5. Teams are randomly assigned and
+you will have to work well with your teams in order to be successful. There is no formal peer-feedback for this
+class. [Translated: there is not a mechanism where you can write an angry letter to the instructor complaining
+about your teammates]. Depending on the random team assignments, you might be given the opportunity to
+learn to work with people who may be quite different in their approach and goals than you are.
+Practice safety and cleanliness: Successfully working in the lab requires adherence to all safety guidelines. You
+must dress appropriately for a laboratory environment (socks and closed toed shoes are required), follow all safety
+procedures, and wear PPE (googles) when appropriate. You must also maintain the lab room as if you were
+working in a professional setting and part of your grade will be based on your ability to clean up after yourself and
+respect the shared equipment available to you. Because this is the summer session, you may store parts of your
+project in the junior lab room, provided they are packed up and stored neatly in a way that does not interfere with
+working space for other teams.
+
+
+ASSIGNMENTS
+Your major assignments for the course include written design control documents, the final project and
+presentation, and your lab work (including lab/design notebook).
+    1.  Design control documents
+             a. Customer needs (4% of final grade)
+             b. Project plan (6% of final grade)
+             c. Requirements specifications (8% of final grade)
+             d. Detailed design specifications (8% of final grade)
+             e. Code and code review (6% of final grade)
+             f. Design history file (8% of final grade)
+    2.  Presentations
+             a. Requirements presentation (4% of final grade)
+             b. Detailed design presentation (4% of final grade)
+             c. Device presentation (8% of final grade)
+    3.  Lecture assignments
+             a. My learning objectives (2.5% of final grade)
+             b. Weekly biotech industry discussion (7.5% of final grade)
+             c. Teamwork assessments (4% of final grade)
+             d. BME job requisition (4% of final grade)
+             e. Reflection essay (5% of final grade)
+    4.  Lab work – you will receive feedback each week in lab on your lab notebook and in lab work. This
+        includes things such as proper preparation, safety, cleanliness, documentation of results, and teamwork.
+        (21% of final grade)
+
+
+COURSE SCHEDULE
+      Schedule may be adjusted as semester progresses to meet learning goals more effectively
+  Lab     Lecture
+                                 Lecture topics                                      Lab                                     Due
+ Week      date
+    1   7/15/2019                 Introduction                     Device definition / customer needs
+    2   7/16/2019   Design control and project management              Research / project planning       My learning objectives (lecture)
+    3   7/17/2019           Requirements definition                    Requirements development          Customer needs (lab)
+    4   7/22/2019                   The FDA                            Requirements development          Project plan
+    5   7/23/2019                 NO LECTURE                           Requirements development
+    6   7/24/2019    Design reviews / requirements review              Requirements development
+    7   7/29/2019                 NO LECTURE                   Hardware and software requirements review Requirements specifications document
+    8   7/30/2019             Design specifications                                Design
+    9   7/31/2019                 NO LECTURE                                       Design
+   10    8/5/2019                 NO LECTURE                                       Design
+   11    8/6/2019                Design reviews                                    Design                BME job requisition (lecture)
+   12    8/7/2019                 NO LECTURE                             Hardware design review          Design specifications document
+   13   8/12/2019       Giving an effective presentation                      Implementation
+   14   8/13/2019   Guest lecture – device design in industry                  Finalize device           Code review
+                                                                                                         Reflection essay (lecture)
+   15   8/14/2019                 NO LECTURE                                Final presentations
+                                                                                                         Design history file (lab)
+
+
+COURSE POLICIES
+CLASS PARTICIPATION AND ATTENDANCE
+Lecture and lab attendance is mandatory. Students are expected to attend all lectures and show up to at least the
+beginning of all lab sessions. All absences must be discussed with the Instructor prior to the session or as soon as
+possible in case of an emergency. Because of the open-ended nature of the project and the various resources that
+are not located in BME 3.310, students are not required to stay for the entire lab section, but all teams are
+expected to meet all deadlines for the class.
+LAB CLEANLINESS
+Before leaving lab, you must clean up after yourself. If the TA or instructor has to clean up after you, you will lose
+points on your lab work grade. If the lab space is not cared for, specific sections or the entire class may lose points.
+GRADING POLICY AND PROCEDURES
+Lab assignments must be submitted electronically on Canvas before the beginning of your lab session on the due
+date. Lecture assignments are due before the beginning of lecture on the due date. Due dates will be made clear
+when assignments are given. Any late submission will be penalized 5 points before close of business (5:00 p.m.)
+and 10 points per day after that. A student (and an assignment) will be considered “late” 20 minutes after the start
+of the lab session.
+REGRADE REQUESTS
+Grading questions and clarifications should be discussed with the grader (either TA or instructor). If you believe
+the TA unfairly graded an assignment, you must submit, in writing, a re-grade request to the instructor within 3
+days of the assignment being returned. The instructor will re-grade the ENTIRE assignment from scratch, without
+referencing the original grading.
+LATE ASSIGNMENTS
+Because all assignments will be accomplished as a group, no late assignments are accepted without penalty.
+Groups will have to work together to make sure all assignments are submitted on time. Assignments will be posted
+via Canvas unless otherwise specified. If there are extenuating circumstances, they will be handled on a case by
+case basis. Communicate with the instructor as far in advance as possible.
+
+
+GRADING
+The breakdown of your final grade is as follows
+                     Assignment                          Points possible          Percent of total grade
+  Lecture assignments                                  230                   23.0%
+           My learning objectives                                20                   2%
+           Biotech industry discussion (4*20)                    80                   8%
+           Team assessments (4*10)                               40                   4%
+           BME job requisition                                   40                   4%
+           Reflection essay                                      50                   5%
+  Project plan                                         60                    6%
+  Requirements specifications                          160                   16%
+           Customer needs                                        40                   4%
+           Requirements specifications document                  80                   8%
+           Requirements review                                   40                   4%
+  Design specifications                                180                   18%
+           Detailed design specifications document               80                   8%
+           Detailed design review                                40                   4%
+           Code and code review                                  60                   6%
+  Final project                                        160                   16%
+           Design history file                                   80                   8%
+           Final device presentation                             80                   8%
+  Lab work (15 points per week*14 weeks)               210                   21.0%
+Grades will be assigned as follows. If you are within 3 points / 0.3% of the next cutoff, consideration will be given
+for participation and effort to bump your grade up to the next level. I will not bump grades up automatically; you
+must ask and give me the rationale why I should round your grade up.
+     Grade           Cutoff        Points needed
+  A               94%            940
+  A-              90%            900
+  B+              87%            870
+  B               84%            840
+  B-              80%            800
+  C+              77%            770
+  C               74%            740
+  C-              70%            700
+  D               65%            650
+  F               0%             0
+
+
+Some assignments will be graded on a rubric that corresponds to the total number of points shown in the above
+grade breakdown table. These assignments are: my learning objectives, reflection essay, and lab work grade.
+For the rest of the assignments, a 0-5 scale will be used for each rubric item. This scale is meant to correlate
+stronger to industry norms used for annual performance evaluations.
+Grading scale for each rubric item:
+    • 0: incomplete / not done
+    • 1: needs significant improvement
+    • 2: does not meet expectations
+    • 3: meets expectations
+    • 4: exceeds expectations
+    • 5: outstanding
+The score for most rubric items should be 3 = meets expectations. If you meet all expectations in this course, you
+will receive an A. However 3/5 = 60%, so in order to assign the correct number of points that corresponds to an A,
+the percentage grade you receive on the 0-5 rubric will be mapped to the a percentage grade for the assignment
+using linear interpolation as show in the chart below:
+                                                  100
+                                                   90
+                         Grade on A-F scale (%)
+                                                   80
+                                                   70
+                                                   60
+                                                   50
+                                                   40
+                                                   30
+                                                   20
+                                                   10
+                                                    0
+                                                        0          20      40       60       80      100
+                                                            Score on 0-5 'meets requirements' scale (%)
+The specific mathematical mapping is as follows:
+  x = percentage score     y = percentage score
+    on 0-5 rubric scale         on A-F scale
+                    x > 60 y = 0.15x + 85
+              20 < x < 60 y = 0.7x + 52
+                    X < 20 y = 0.303x
+Example: if your team scores all 3/5 ratings on the customer needs assignment rubric items and therefore receives
+a score 24/40 = 60%, your grade that will go in the gradebook is (0.15)(60)+85 = 94% = 37.6 points.
+However, if you did not meet expectations for a couple of items and received a 22/40 = 55%, then the grade that
+will go in the gradebook is (0.7)(55)+52 = 90.5% = 36.2 points.
+Conversely, if there were a couple of items that you exceeded expectations on and received a 26/40 = 65%, then
+the grade that will go in the gradebook is (0.15)(65)+85 = 94.75% = 37.9 points.
+
+
+UNIVERSITY POLICIES
+RELIGIOUS HOLY DAYS
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in
+order to observe a religious holy day, I will give you an opportunity to complete the missed work within a
+reasonable time after the absence.
+Q DROP POLICY
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop deadline,
+which typically occurs near the middle of the semester. Under Texas law, you are only allowed six Q drops while
+you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+STUDENT ACCOMMODATIONS
+Students with a documented disability may request appropriate academic accommodations from the Division of
+Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329-
+3986 (video phone). http://ddce.utexas.edu/disability/about/
+     •   Please request a meeting as soon as possible for us to discuss any accommodations
+     •   Please notify me as soon as possible if the material being presented in class is not accessible
+     •   Please notify me if any of the physical space is difficult for you
+UNIVERSITY RESOURCES FOR STUDENTS
+The university has numerous resources for students to provide assistance and support for your learning
+     •   Sanger Learning and Career Center: http://www.utexas.edu/ugs/slc
+     •   University Writing Center: http://uwc.utexas.edu/
+     •   Information Technology Services: http://www.utexas.edu/its/
+     •   Counselling and Mental Health Center: http://www.cmhc.utexas.edu/individualcounseling.html
+     •   Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+     •   Libraries: http://www.lib.utexas.edu/
+     •   Canvas: https://utexas.instructure.com/courses/633028/pages/student-tutorials
+
+
+ACADEMIC INTEGRITY
+Each student in the course is expected to abide by the University of Texas Honor Code:
+“As a student of The University of Texas at Austin, I shall abide by the core values of the University and uphold
+academic integrity.”
+Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that are not your own (or that you
+have used in previous class), you must cite your sources. Otherwise you will be guilty of plagiarism and subject to
+academic disciplinary action, including failure of the course. You are responsible for understanding UT’s Academic
+Honesty and the University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+DO NOT MESS AROUND WITH ACADEMIC INTEGRITY. IF YOU ARE UNSURE OR CONFUSED, ASK FOR
+HELP. IT IS EACH STUDENT’S RESPONSIBILITY TO UNDERSTAND THE UNIVERSITY’S POLICIES ON
+ACADEMIC INTEGRITY. IF YOU TURN IN AN ASSIGNMENT THAT HAS ACADEMIC INTEGRITY ISSUES, “I
+DIDN’T KNOW” IS NOT AN EXCUSE.
+IMPORTANT SAFETY INF ORMATION
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the Behavior
+Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel right – it probably
+isn’t. Trust your instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety and Security,
+512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings when an
+alarm or alert is activated. Alarm activation or announcement requires exiting and assembling outside, unless told
+otherwise by an official representative.
+     •    Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that
+          the nearest exit door may not be the one you used when entering the building.
+     •    Students requiring assistance in evacuation shall inform their instructor in writing during the first week of
+          class.
+     •    In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a
+          building unless given instructions by the following: Austin Fire Department, The University of Texas at
+          Austin Police Department, or Fire Prevention Services office.
+     •    Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+          http://www.utexas.edu/emergency

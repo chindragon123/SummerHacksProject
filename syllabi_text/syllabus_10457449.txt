@@ -1,0 +1,126 @@
+                                 UNIVERSITY OF TEXAS
+                               Department of Mechanical Engineering
+                     DYNAMIC SYSTEMS AND CONTROLS
+                             ME N344 (Unique #75975); Summer 2020
+                                        MW 900-1200; Zoom
+Instructor: Dr. Dongmei Chen                                                      Office Hours
+dmchen@me.utexas.edu                                                              W 1:00-2:00pm
+TA Hanyu Zhu : zhuhanyu@utexas.edu (Zoom)                                         Tue : 1-3pm
+                                   TENTATIVE SCHEDULE
+WEEK                                      TOPICS                                          Note
+6/8,10 (HW Due) Introduction; First law concept vs. Energy/power concepts
+                 Examples: mass spring damper and electrical circuit
+                 Introduction to Bond graph: One-port elements and sources
+                 Modeling Examples: One can/funnel system-capacitor, resistor
+                 Two-port components; Three-port elements
+                 Electrical circuits and MSD systems
+6/15,17 (HW1) Bond graph and state variables; dependent/independent                       Quiz 1
+                 Derivation of state equations
+                 More complex system modeling:
+                 Mechanical, electrical, hydraulic, thermal and electromagnetic systems
+6/22 (HW2)       Operation for linear systems                                             Quiz 2
+                 Solution of state equations, unforced, forced responses
+6/24             Review 1
+6/29 (HW3)       First and second order systems
+7/1              Midterm exam
+7/6 (HW4)        Eigenvalue/eigenvector solutions                                         Quiz 3
+7/8              Transfer functions and analysis
+7/13 (HW5)       Inverse Laplace transform                                                Quiz 4
+7/15             Bode plots, system identification
+7/20 (HW6)       Introduction to closed-loop automatic control; PID control               Quiz 5
+                 Control design & applications
+7/22              Review 2
+7/27 (HW7)       Examples of modeling and control of complex systems
+7/29-30           Final exam
+ Prerequisites: M 427K, ME 318M, ME 324, ME 340, and ME 140L, and co-registration in ME
+144L)
+Refs:   D. Rowell & D.N. Wormley, System Dynamics: An Introduction, Prentice-Hall, 1997
+
+
+        D. Karnopp, D. Margolis & R. Rosenberg, System Dynamics, Wiley, 2000
+        Brief version of System Dynamics from the University Coop ((including Chapters 3, 4,
+        &5)
+        G. F. Franklin, J. D. Powell, A. Emami-Naeini, Feedback Control of Dynamic Systems,
+        Prentice Hall, 2002.
+ Grading:         Homework        15%     No late HW accepted w/o prior approval/excuse
+                  5 Quizzes       25%
+                  Midterm Exam    25%
+                  Final Exam      35%
+Course Evaluation: MEC form               Scholastic dishonesty policy strictly enforced
+Disabilities: The University of Texas at Austin provides upon request appropriate academic
+adjustments for qualified students with disabilities. For more information, contact the Office of
+the Dean of Students at 471-6259, 471-4241 TDD or the College of Engineering Director of
+Students with Disabilities at 471-4321, and visit the UT Austin Services for Students with
+Disabilities at http://diversity.utexas.edu/disability/. Below is the instruction on how to obtain
+the accommodation letter:
+        Students are responsible for contacting their instructors to deliver and discuss their
+        Accommodation Letter, and any associated handouts, as soon as possible to determine
+        how accommodations will be provided in this class. Students can access Accommodation
+        Letters via the SSD Student Web Portal:
+        http://ssdportal.ddce.utexas.edu/ClockWork/custom/misc/home.aspx
+
+
+OBJECTIVES
+• Represent dynamical systems in mathematical terms (differential equations) using bond graphs
+• Assess characteristic behavior of dynamic systems in the time and frequency domains
+• Synthesize automatic controllers to achieve desired behavior
+COURSE CATALOG DESCRIPTION
+Lumped physical system models; electrical, fluid, mechanical, and thermal system analysis; linear
+system transient, steady-state behavior; introduction to feedback control.
+Three lecture hours a week for one semester.
+HOMEWORK POLICY
+Homework will be assigned to support lecture material and reading assignments-approximately
+seven homework assignments plus one optional homework assignment. No late homework will
+be accepted except for illness or other extenuating circumstances. Students should bring a signed
+excuse from a health professional (if ill) or other authoritative professional (other extenuating
+circumstances).
+EXAMINATION and LABORATORY POLICY
+Five quizzes, one midterm and one final examination will be given in the course. The material
+covered in the final examination is comprehensive. The five quizzes will test material covered in
+prior lectures. The midterm examination will test material covered prior Review1. Final exam is
+scheduled at the end of the term. Quizzes and the midterm will be given according to the above
+schedule. The format of the exams will be discussed prior to the exam.
+Make-up quizzes and exams will not be provided. Signed excuses from appropriate professionals
+(i.e. doctors for illness, etc) must be turned in if an examination is not taken—otherwise a grade
+of zero will be assessed for that examination.
+There will be no lab projects during the semester.
+CLASS FORMAT
+Lecture style.
+ATTENDANCE
+Regular class attendance is expected but roll will not be taken. Class participation will be noted.
+IMPORTANT DATES
+Refer to course catalogs.
+
+
+KNOWLEDGE, SKILLS, AND ABILITIES STUDENTS SHOULD
+HAVE BEFORE ENTERING THIS COURSE
+All materials covered in courses M 427K, ME 218 (318), and ME 324. Completion or co-
+registration in EE 331K (ME340) is required and basic knowledge of heat transfer and fluid
+mechanics. Special emphasis will be on mathematical modeling, solution of differential equations,
+and complex numbers.
+KNOWLEDGE, SKILLS, AND ABILITIES STUDENTS GAIN FROM
+THIS COURSE
+Students will gain experience in mathematical modeling of dynamics systems to determine
+response characteristics to design parameters, an appreciation for applied mathematics (using
+differential equations, complex numbers, etc.) and math applications (MatLab), and the ability to
+control the dynamic performance of dynamic systems.
+IMPACT ON SUBSEQUENT COURSES IN CURRICULUM
+This is a technical elective. It should help in the senior design projects course and mechatronics
+courses.
+ABET EC2000 PROGRAM OUTCOMES ACHIEVED
+     1. Knowledge of and ability to apply engineering and science fundamentals to real problems
+     2. Ability to solve open-ended problems
+     3. Ability to design mechanical components, systems, and processes
+     5. Ability to use modern computer tools in mechanical engineering
+     8. Ability and desire to lay a foundation for continued learning beyond the baccalaureate
+     degree.
+ASME PROGRAM CRITERIA OUTCOMES ACHIEVED
+     b. Ability to apply advanced mathematics through multivariate calculus and differential
+     equations.
+     d. Ability to work professionally in both the thermal and mechanical systems areas including
+     the design and realization of such systems.
+DESIGN ASSIGNMENTS
+No special design assignments will be given. Students will be asked to design controllers in
+homework.
+PROFESSIONALISM TOPICS
+Not specifically covered.

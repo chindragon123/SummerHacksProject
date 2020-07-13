@@ -1,0 +1,327 @@
+The University of Texas at Austin
+School of Architecture
+ENVIRONMENTAL CONTROL II
+(the thermal environment + water systems,
+                                                                                                                                 PHOENIX CENTRAL LIBRARY by WILL BRUDER ARCHITECTS. Photo: A. Pyrek
+vertical transportation, fire protection and egress)
+Unique Number: 00940 • ARC 384L & 00395 • ARI 384L
+MW     0930 to 1100p SUT 2.114
+M      0700 to 0800p SUT 2.114
+INSTRUCTORS:
+Adam Pyrek
+Office: WMB 4.116A
+Office hours: M 8:45 to 09:30a and by appointment
+Telephone:
+Email: aapyrek@utexas.edu (Include ECII in the subject)
+Charles Di Piazza
+Office: BTL 114A
+Office hours: W 11:00 to 12:00p and by appointment
+Telephone:
+Email: cdp@austin.utexas.edu (Include ECII in the subject)
+Teaching Assistant:
+Ken Sneed
+Office hours: by appointment
+Email: kensneed@utexas.edu
+COURSE DESCRIPTION
+As a complementary course to EC I (illumination, electricity and acoustics), Environmental Control II will focus on the
+thermal environment, water systems and management, vertical transportation, fire protection and egress. The
+course will first establish a framework and a context for the technical components of buildings. These will include
+Environment, Resources & Energy; Site, Resources & Climate; Thermal Comfort; and the Design Process.
+Consequently, the various core topics of this course will be explored both individually and in relation to one another
+in order to develop students’ approaches to systems integration in architecture. The assignments will encourage the
+students to explore the possible opportunities to find interrelationships between different systems and disciplines.
+The course will survey traditional and free-running buildings as a background to contemporary approaches of
+mechanical and hybrid environmental control. Beyond learning about the industry standard systems and methods,
+students will become familiar with alternative ways of fulfilling project and code requirements. Case studies will be
+used in order to broaden the students’ realm of possibilities in terms of system selection and the use of novel
+approaches to climate control for buildings. Other related topics such as the application of renewable energy
+technologies will also be covered.
+One and one-half lecture hours twice per week and a one-hour lab once per week for one semester.
+COURSE OBJECTIVES
+The objective of this course is for graduate students to acquire the understanding of the technical material that will
+allow them to become effective designers and project team-leaders. After this survey, they should be able to use
+critical thinking (with some imagination) in order to push the selection and application of environmental control
+     Syllabus • ARC/ARI 384L: Environmental Control II • Fall 2018 • Instructors: Adam Pyrek & Charles Di Piazza • page 1 of 7
+
+
+systems beyond what is typically offered by the industry. This should ultimately lead to more design autonomy, a
+more seamless integration of systems, improved occupant comfort, and better performing, more environmentally
+sensitive projects.
+Some of the specific objectives of this course are for students to be able to:
+      Perform fundamental calculations relating to envelope heat flow, natural ventilation, rainwater collection…
+      Have an in-depth understanding of the occupant's thermal comfort.
+      Be familiar with the technical terminology needed for effective interdisciplinary communication.
+      Recognize the importance of occupant behavior in the design of passive and mechanical systems.
+      Have a critical understanding of the role of analytical tools used for thermal and energy simulations.
+      Be familiar with the principles of water conservation and rainwater collection.
+          Use case studies to expose students to real-world conditions and illustrate application of
+           environmental principles in contemporary practices.
+NAAB CRITERIA
+National Architectural Accrediting Board “requires an accredited program to produce graduates who: are
+competent in a range of intellectual, spatial, technical, and interpersonal skills; understand the historical, socio-
+cultural, and environmental context of architecture; are able to solve architectural design problems, including the
+integration of technical systems and health and safety requirements; and comprehend architects' roles and
+responsibilities in society.”
+The Student Performance Criteria as categorized under the NAAB Educational Realms that are addressed during
+the EC courses are listed here:
+Primary: A.5. Investigative Skills, B.3. Sustainability, B.6. Comprehensive Design, B.8. Environmental Systems, B.10.
+Building Envelope Systems, B.11. Building Service Systems, B.12. Building Materials and Assemblies, C.2. Human
+Behavior, C.4. Project Management.
+Secondary: A.1. Communication Skills, A.2. Design Thinking Skills, A.3. Visual Communication Skills, A.4. Technical
+Documentation, A.6. Fundamental Design Skills, A.10. Cultural Diversity, B.1. Pre-Design, B.2. Accessibility, B.4. Site
+Design, B.5. Life Safety, B.7. Financial Considerations, C.1. Collaboration, C.3. Client Role in Architecture, C.6.
+Leadership, C.8. Ethics and Professional Judgment, C.9. Community and Social Responsibility.
+For more information reference: www.naab.org
+FORMAT AND PROCEDURES
+The course will consist of five complementary components: Lectures, Lab Sessions, Assigned Reading, Field Trips and
+Assignments/Quizzes/Tests. All components will cover and mutually reinforce the same subjects, but will focus on
+different aspects (theoretical, quantitative, hands-on, etc.). Effort will also be made to relate and integrate this
+course to the students’ current studio work. The structured time for this semester will consist of 1-1/2 lecture hours
+twice per week and a 1 hour lab once per week. Required field trips with the class and the instructor will take place
+during the semester. Guest speakers will be invited in order to share their expert view and experience on specific
+topics.
+The Canvas course management software will be used to distribute course materials, to communicate and
+collaborate online, to post grades, to submit assignments, etc. You can find support in using Canvas at the ITS Help
+Desk at 475-9400, Monday through Friday, 8 a.m. to 6 p.m.
+https://utexas.instructure.com/courses/633028/wiki/general-canvas-support-procedure
+PREREQUISITE
+Graduate standing and consent of the graduate adviser.
+TENTATIVE COURSE SCHEDULE
+Schedule may be adjusted during the semester due to coordination with guest lecturers and/or trips. If the schedule
+is changed, students will be notified and the updated schedule will be posted on Canvas.
+                                      < SEE NEXT PAGE FOR THE TENTATIVE SCHEDULE>
+      Syllabus • ARC/ARI 384L: Environmental Control II • Fall 2018 • Instructors: Adam Pyrek & Charles Di Piazza • page 2 of 7
+
+
+WK            DATE        TOPIC
+ 1          29-Aug        Course Introduction & Design Process
+ 2           3-Sep        Labor Day - No Class
+             5-Sep        Environment, Resources and Energy
+ 3          10-Sep        Thermal Comfort
+            12-Sep        Site, Resources and Climate
+ 4          17-Sep        Envelope: Introduction & IAQ
+            19-Sep        Envelope: Solar Geometry & Shading
+ 5          24-Sep        Envelope: Heat Flow: Opaque Elements
+            26-Sep        Envelope: Heat Flow: Fenestration
+ 6           1-Oct        Passive EC Methods: Part 1
+             3-Oct        Envelope: Moisture Control and Air Flow
+ 7           8-Oct        Passive EC Methods: Part 2
+            10-Oct        Passive EC Methods: Case Studies
+ 8          15-Oct        Mechanical EC Methods: Introduction
+            17-Oct        Mechanical EC Methods: Heating
+ 9          22-Oct        Mechanical EC Methods: Cooling
+            24-Oct        Mechanical EC Methods: Ventilation
+10          29-Oct        Mechanical EC Methods: HVAC
+            31-Oct        Case Studies
+11           5-Nov        Hybrid EC Methods
+             7-Nov        Fire Protection
+12          12-Nov        Water Systems and Management Part 1
+            14-Nov        Conveying Systems
+13          19-Nov        Water Systems and Management Part 2
+            21-Nov        Thanksgiving Holiday
+14          26-Nov        Case Studies
+            28-Nov        Field Trip or Guest Lecturer
+15           3-Dec        Field Trip or Guest Lecturer
+             5-Dec        Life-Cycle Lecture
+16          10-Dec        Review
+Syllabus • ARC/ARI 384L: Environmental Control II • Fall 2018 • Instructors: Adam Pyrek & Charles Di Piazza • page 3 of 7
+
+
+EVALUATION CRITERIA
+GRADED WORK
+Students will be evaluated on the following work:
+ASSIGNMENTS 50.0% (#1&2-10%; #3&4-15%)
+LAB WORK           15%
+QUIZZES            15%
+IN-CLASS EXAM 10.0%
+WRITTEN EXAM 10.0%
+Bonus point may be earned by students for exemplary work or class participation at the instructor’s discretion.
+ASSIGNMENTS, QUIZZES, AND EXAM
+There will be (4) assignments during the semester: Assignment #1 - Site and Climate Analysis; Assignment #2 -
+Shading Study - Including a Physical Model; Assignment #3 - Passive Methods - Design and Calculations; Assignment
+#4 - Mechanical Methods and Energy Modeling
+All assignments will be listed on Canvas with the final due dates. All completed assignments will be submitted digitally
+via Canvas (by midnight on the due date). Do not email assignments as attachments! Due dates are tentative and
+may be adjusted in order to allow for coordination with students' studio work. Teams will be assigned by the instructor.
+Quiz dates may be adjusted and given at any time and will cover the assigned reading, lecture material, labs and
+class discussions. There will be a comprehensive exam at the end of the semester (covering assigned reading,
+lecture material, labs and class discussions). The exam will divide into an in-class section and a take-home written
+section.
+GRADING CRITERIA
+A Grade Work:
+      Has a concept that is innovative and original
+      Is comprehensive and very well developed
+      Shows in-depth understanding of the subject matter including the assigned text
+      Includes exemplary supporting figures, graphs and/or models
+      Is well written and well supported by cited references
+B Grade Work:
+      Has a concept that is strong
+      Is comprehensive and developed
+      Shows understanding of the subject matter including the assigned text
+      Includes appropriate supporting figures, graphs and/or models
+      Is well written and well supported by cited references
+C Grade Work:
+      Has a concept
+      Is developed
+      Shows understanding of the subject matter
+      Has adequate figures, graphs and/or models
+      Is well written with and is supported by cited references
+D Grade Work:
+      Fulfills some of the assignment requirements
+      Is not developed
+      Shows some understanding of the subject matter
+      Has inadequate figures, graphs and/or models
+      Is not written well and has too few relevant cited references
+F Grade Work:
+      Does not fulfill the assignment requirements
+      Is not developed
+      Does not show understanding of the subject matter
+      Has no relevant figures, graphs and/or models
+      Is not written well. Has no relevant references or references are not cited
+Each of 5 categories is worth 20%. Use Modern Language Association (MLA) format for citations. Assignments
+without citations will not receive a passing grade.
+      Syllabus • ARC/ARI 384L: Environmental Control II • Fall 2018 • Instructors: Adam Pyrek & Charles Di Piazza • page 4 of 7
+
+
+FINAL GRADE CRITERIA
+   UT LETTER GRADE     EC MINIMUM SCORE
+           A                    93.33
+           A-                    90
+           B+                   86.67
+            B                   83.33
+           B-                    80
+           C+                   76.67
+           C                    73.33
+           C-                    70
+           D+                   66.67
+           D                    63.33
+           D-                    60
+            F                     0
+LAB WORK
+Lab sessions will be held during the scheduled time on Monday nights. Some of the lab assignments will be graded
+and will account for 15% of the semester’s grade. Many of the labs will complement a graded assignment. Students
+should be able to complete the work during the scheduled time.
+DEADLINES
+Each student may hand in ONE assignment (7) calendar days late ONCE during the semester. Consequently,
+assignments will be reduced by 5% for each school day that they are late. Credit for work turned in late due to non-
+scholastic reasons should be discussed with the instructor before the due date. Agreed-upon proof of the reason
+needs to be provided by the student.
+ATTENDANCE AND PARTICIPATION
+Students are required to attend and participate in all lectures. Attendance may be taken at any time. Students
+need to notify the instructor in advance by email if they cannot attend a lecture. Absent students must complete
+the assigned reading and familiarize themselves with the content of the missed lecture. Three (3) unexcused
+absences (not due to illness, or to authorized University activities) will result in a deduction of a letter-grade from the
+student’s final grade. Students need to attend labs, many of which will contribute to a graded assignment, or will
+count toward a lab grade.
+Students are expected to fully participate during class and labs, and need to bring a calculator, pencil/pen and
+paper in order to perform quick calculations when required. (Calculator: Any type will do, and does not need to
+be scientific. Phone with a calculator will do. Laptops don’t count).
+Students are not to use electronic devices such as laptops, tablets or phones during the lecturers without
+prior approval from the instructor. Students will need a phone or other portable electronic device with
+the Canvas Student App installed in order to take quizzes and final exam in class.
+ASKING FOR ASSISTANCE
+Each student is expected to ask for assistance when needed. This can take place right after class, or students may
+schedule additional time to meet with the instructor or the TA at a later date, preferably during office hours.
+      Syllabus • ARC/ARI 384L: Environmental Control II • Fall 2018 • Instructors: Adam Pyrek & Charles Di Piazza • page 5 of 7
+
+
+TEXTS
+REQUIRED TEXTS:
+Grondzik, Walter T.; Kwok, Alison G.; Stein Benjamin; Reynolds, John S. Mechanical and Electrical
+Equipment for Buildings, 12th Edition. Wiley, 2014.
+Heschong, Lisa. Thermal Delight in Architecture. MIT Press, 1979.
+Required reading for a lecture will be assigned at the end of the previous lecture. Additional reading may be
+assigned at that time. Check Canvas each week for required readings.
+RECOMMENDED TEXTS:
+These texts are held on reserve at the Architecture and Planning Library, or available as an Electronic Resource
+through the UT Library:
+Addington, D. Michelle. Smart Materials and New Technologies: For the Architecture and Design Professions. Amsterdam ; Boston
+: Architectural Press, 2005.
+Allen, Edward; Iano, Joseph. The Architect's Studio Companion: Rules of Thumb for Preliminary Design, 4th Edition. Wiley, 2006.
+Arvind Krishan, et al. Climate Responsive Architecture. New Delhi ; New York : Tata McGraw-Hill Pub. Co., 2001.
+Bachman, Leonard R. Integrated Buildings: The Systems Basis of Architecture, New York : J. Wiley & Sons, 2003.
+Bradshaw, Vaughn. Building Control Systems, 2nd Edition. New York : Wiley, 1993.
+Bluyssen, Philomena M. The Indoor Environment Handbook : How to Make Buildings Healthy and Comfortable. London, Sterling,
+VA : Earthscan, 2009.
+Bobenhausen, William. Simplified Design of HVAC Systems. Wiley, 1994.
+Daniels, Klaus. The Technology of Ecological Building. Birkhauser, 1995.
+Daniels, Klaus. Low-Tech, Light-Tech, High-Tech. Birkhauser, 1998.
+Fanger, P.O. Thermal Comfort. McGraw Hill, 1970.
+Givoni, Baruch. Passive and Low Energy Cooling of Buildings. Van Nostrand Reinhold, 1994.
+Lechner, Norbert. Heating, Cooling, and Lighting: Sustainable Design Methods for Architects, 3rd Edition. Wiley, 2009.
+Mendler, Sandra. The HOK Guidebook to Sustainable Design. Hoboken, N.J. : J. Wiley, 2006.
+McDonough, William. Cradle to Cradle : Remaking the Way We Make Things. New York : North Point Press, 2002.
+Rush, Richard D. The Building Systems Integration Handbook. New York : Wiley, 1986.
+Watson, Donald, Climatic Design: Energy-Efficient Building Principles and Practices, New York ; St. Louis : McGraw-Hill, 1983.
+Yeang, Ken. Ecodesign : A Manual for Ecological Design. London : Wiley, 2006.
+ON-LINE RESOURCES:
+ENERGY EFFICIENCY AND RENEWABLE ENERGY (EERE):
+www.eere.energy.gov
+WINDOWS AND DAYLIGHTING GROUP, LAWRENCE BERKELEY NATIONAL LABORATORY:
+windows.lbl.gov
+ENERGY STAR (A joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy):
+www.energystar.gov
+THE COMMITTEE ON THE ENVIRONMENT (COTE)
+network.aia.org/CommitteeontheEnvironment/Home
+THE HESCHONG MAHONE GROUP, INC.
+www.h-m-g.com/downloads/Daylighting/order_daylighting.htm
+PVWATTS (Performance Calculator for Grid-Connected PV Systems)
+http://pvwatts.nrel.gov/
+BUILDINGGREEN, INC.
+http://www.buildinggreen.com
+      Syllabus • ARC/ARI 384L: Environmental Control II • Fall 2018 • Instructors: Adam Pyrek & Charles Di Piazza • page 6 of 7
+
+
+UNIVERSITY POLICIES
+UNIVERSITY OF TEXAS HONOR CODE
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the University is expected to uphold these values through integrity,
+honesty, trust, fair-ness, and respect toward peers and community.
+Students who violate University rules on scholastic dishonesty are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Since such dishonesty harms the individual, all
+students, and the integrity of the University, policies on scholastic dishonesty will be strictly enforced. For further
+information, visit the following sites: Student Judicial Services web site http://deanofstudents.utexas.edu/sjs/;
+University Honor Code http://www.txstate.edu/honorcodecouncil/
+STUDENTS WITH DISABILITIES
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified
+students with disabilities. For more information, contact Services for Students with Disabilities at 471-6259 (voice) or
+232-2937 (video phone).
+DOCUMENTED DISABILITY STATEMENT
+Any student with a documented disability who requires academic accommodations should contact Services for
+Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone).
+          Please notify the instructor as quickly as possible if the material being presented in class is not accessible
+           (e.g., instructional videos need captioning, course packets are not readable for proper alternative text
+           conversion, etc.).
+          Please notify the instructor as early in the semester as possible if disability-related accommodations of any
+           kind are required. For field trips, advanced notice will permit the arrangement of accommodations on
+           the given day (e.g., transportation, site accessibility, etc.).
+          Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+           reference SSD’s website for more disability-related information:
+           http://diversity.utexas.edu/disability/contact-us/
+CLASS WEB SITES AND STUDENT PRIVACY
+Web-based, password-protected class sites will be associated with all academic courses taught at the University.
+Syllabi, handouts, assignments and other resources are types of information that may be available within these sites.
+Site activities could include exchanging e-mail, engaging in class discussions and chats, and exchanging files. In
+addition, electronic class rosters will be a component of the sites. Students who do not want their names included
+in these electronic class rosters must restrict their directory information in the Office of the Registrar, Main Building,
+Room 1. For information on restricting directory information, see the General Information Catalog or go to:
+http://www.utexas.edu/student/registrar/catalogs/
+RELIGIOUS HOLIDAYS
+By UT Austin policy, the student must notify the instructor of pending absence at least fourteen days prior to the date
+of observance of a religious holy day. If the student must miss a class, an examination, a work assignment, or a
+project in order to observe a religious holy day, she/he will be given an opportunity to complete the missed work
+within a reasonable time after the absence.
+EMERGENCY EVACUATION POLICY
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire
+alarm is activated or an announcement is made. Please be aware of the following policies regarding evacuation
+from the Office of Campus Safety and Security, 512-471-5767, http://operations.utexas.edu/units/csas/:
+            Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest
+               exit door may not be the one you used when you entered the building.
+            If you require assistance to evacuate, inform me in writing during the first week of class.
+            In the event of an evacuation, follow instructions of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police
+Department, or the Fire Prevention Services office.
+              Behavior Concerns Advice Line (BCAL): 512-232-5050
+              Link to information regarding emergency evacuation routes and emergency procedures can be
+               found at: http://emergency.utexas.edu/
+      Syllabus • ARC/ARI 384L: Environmental Control II • Fall 2018 • Instructors: Adam Pyrek & Charles Di Piazza • page 7 of 7

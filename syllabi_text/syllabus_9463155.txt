@@ -1,0 +1,215 @@
+AET 310 FOUNDATIONS OF CREATIVE CODING
+UID: 20585, 20596, 20595                               Text: Learning Processing by Daniel Shiffman
+Meetings: MW 8-9:30, MW 9:30-11, TH 9:30-11            Instructor: Tyler Coleman
+Location: 4.112                                        Office Hours: MW 11-12
+Abstract
+Computational Thinking and Logical Processes to approach technical problems with creative solutions.
+Applying creative coding techniques to Games, Viz, Projection & Lighting, and Music & Sound using
+languages and tools including Processing, Touchdesigner, SuperCollider, Unity, and C#.
+Assessment
+Challenges 1 - 6 are graded pass/fail for 4 or 5 points each, Challenges 7 - 10 (projects) are graded out
+of 15 points. The remaining 15 points of the final grade is based on professionalism and attendance.
+One-Week Processing Challenges (4 or 5 points each)
+     ●  Challenge 1: Colors, Shapes, Animation (build an Alien)
+     ●  Challenge 2: Variables, Loops, If-Else (update Alien with variables)
+     ●  Challenge 3: Functions, Objects, Datatypes (make Alien object/class)
+     ●  Challenge 4: Arrays, Algorithms, Debugging (create Alien minigame)
+     ●  Challenge 5: Libraries and Sound (add sound to minigame)
+     ●  Challenge 6: Review Quiz
+Two-Week Projects (15 points each)
+     ●  Challenge 7 (Project 1): Processing Final, complete game or interactive experience/story
+     ●  Challenge 8 (Project 2): SuperCollider project for Music & Sound
+     ●  Challenge 9 (Project 3): Touchdesigner and Arduinos for Projection & Lighting
+     ●  Challenge 10 (Project 4): Unity / C# for Games & Viz
+Required Equipment
+All students MUST have access to a portable computer, either Mac or PC. Arduinos will be provided for
+use during lab time. All software used in this class is available for free.
+Textbook
+        Learning Processing by Daniel Shiffman
+Units of Study
+           ●   Foundations
+                   ○ Logical Processes
+                   ○ Programming Basics
+           ●   Application
+                   ○ Solving problems with code
+           ●   Systems
+                   ○ Processing libraries
+                   ○ Other creative coding tools for:
+                           ■ Games & Viz, Projection & Lighting, Music & Sound
+
+
+Calendar
+Week                                        Book
+1    Course Intro
+     Processing Basics
+2    Challenges and Assignments             Chapters 1 - 3
+     Demo 1: Shapes, Colors, and Animation
+     LAB - Building Alien with Shapes
+3    Challenge 1 Due                        Chapters 4 - 6
+     Demo 2: Variables, Loops, If-Else
+     LAB - Building Alien with Variables
+4    Challenge 2 Due                        Chapters 7 - 8
+     Demo 3: Functions, Objects, Data Types
+     LAB - Make Alien into Object
+5    Challenge 3 Due                        Chapter 9
+     Demo 4: Arrays, Algorithms, Debugging
+     LAB - Minigame
+6    Challenge 4 Due                        Chapters 10 - 12
+     Demo 5: Libraries and Sound
+     LAB - Add Sound to Minigame
+7    Challenge 5 Due                        Chapters 13 - 14
+     Demo 6: Images, Sprites, Video
+     Lab - Review
+8    Challenge 6 Due                        Chapters 15 - 16
+     Demo 7: Math and Transformations
+     LAB - Processing Game
+9    Spring Break                           Chapters 17 - 21
+10   Challenge 7 Due                        Bonus: 5pts Extra Credit for submitting the game to
+     Lecture: CC for Music & Sound          OpenProcessing.org
+     LAB
+11   Demo 8: SuperCollider                  Video Tutorials created by M&S Faculty (??)
+     Discussion: Music & Sound
+     LAB
+12   Challenge 8 Due
+     Lecture: CC for Projection & Lighting
+     LAB
+13   Demo 9: Touchdesigner / Arduino        Video Tutorials created by PLAI Faculty (Michael M)
+     Discussion: Projection & Lighting
+     LAB
+14   Challenge 9 Due
+     Lecture: CC for Games & Viz
+     LAB
+15   Demo 10: Unity / C#                    Video Tutorials created by Game / Viz Faculty (MJ)
+     Discussion: Game Design & Viz
+     LAB
+
+
+ 16      Challenge 10 Due
+Process
+We will work through demonstrations, textbook content, and a number of technical and creative
+challenges to learn about multimedia and interactive system programming.
+Grades
+6 Challenges: 4% or 5% each
+3 Projects: 15% each
+Attendance and Professionalism: 15%
+Bonus: 5%
+Final grades will be determined on the basis of the following rubric. Please note: to ensure
+fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B- will
+be inclusive of all scores of 80.000 through 83.999. The University does not recognize the grade
+of A+.
+A = 94-100
+A- = 90-93
+B+ = 87-89
+B = 84-86
+B- = 80-83
+C+ = 77-79
+C = 74-76
+C- = 70-73
+D+ = 67-69
+D = 64-66
+D- = 60-63
+F = 0-60
+Class Attendance Policy
+As detailed above, attending class during the scheduled meeting times earns professionalism credit.
+Credit is NOT earned for arriving late, leaving early, or failing to attend class meetings. If attending a
+scheduled class meeting is not possible, students are expected to promptly notify the instructor of
+extenuating circumstances.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to
+six (6). As stated in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of
+higher education may not permit an undergraduate student a total of more than six dropped courses,
+including any course a transfer student has dropped at another institution of higher education, unless
+the student shows good cause for dropping more than that number.”
+University Attendance Policy: Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+complete the missed work within a reasonable time after the absence.
+
+
+Services for Students with Disabilities (SSD)
+The University of Texas at Austin provides upon request appropriate academic accommodations for
+qualified students with disabilities. For more information, contact Services for Students with Disabilities
+(512-471-6259, ssd@austin.utexas.edu, http://ddce.utexas.edu/disability/, or videophone 512-471-
+6644). Please provide documentation of your needs during the first week of class, if possible, so that I
+can make the necessary accommodations promptly.
+Academic Integrity
+The University's Honor Code states that “As a student of The University of Texas at Austin, I shall abide
+by the core values of the University and uphold academic integrity.” You are expected to maintain
+absolute integrity and a high standard of individual honor in scholastic work undertaken at the
+University. At a minimum, you should complete any assignments, exams, and other scholastic
+endeavors with the utmost honesty, which requires you to:
+     ● acknowledge the contributions of other sources to your scholastic efforts;
+     ● complete your assignments independently unless expressly authorized to seek or obtain
+         assistance in preparing them;
+     ● follow instructions for assignments and exams, and observe the standards of your academic
+         discipline;
+     ● and avoid engaging in any form of academic dishonesty on behalf of yourself or another
+         student.
+(adapted from http://deanofstudents.utexas.edu/sjs/acint_student.php)
+Academic Dishonesty
+In promoting a high standard of academic integrity, the University broadly defines academic dishonesty
+as including any act designed to give an unfair or undeserved academic advantage, such as:
+     ● Cheating
+     ● Plagiarism
+     ● Unauthorized Collaboration / Collusion
+     ● Falsifying Academic Records
+     ● Misrepresenting Facts (e.g., providing false information to postpone an exam, obtain an
+         extended deadline for an assignment, or even gain an unearned financial benefit)
+     ● Multiple submissions (submitting essentially the same written assignment for two courses
+         without authorization to do so)
+     ● Any other acts (or attempted acts) that violate the basic standard of academic integrity
+(adapted from http://deanofstudents.utexas.edu/sjs/acadint_whatis.php)
+Students who violate University rules on academic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University.
+(from http://deanofstudents.utexas.edu/sjs/acint_faculty_syllabus.php)
+Plagiarism
+“Plagiarism” includes, but is not limited to, the appropriation of, buying, receiving as a gift, or obtaining
+by any means material that is attributable in whole or in part to another source, including words, ideas,
+illustrations, structure, computer code, and other expression or media, and presenting that material as
+one’s own academic work being offered for credit or in conjunction with a program course requirement
+(from Sec. 11-402, http://catalog.utexas.edu/general-information/appendices/appendix-c/student-
+discipline-and-conduct/).
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice
+Line to discuss by phone your concerns about another individual’s behavior. This service is provided
+
+
+through a partnership among the Office of the Dean of Students, the Counseling and Mental Health
+Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police
+Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when
+a fire alarm is activated or an announcement is made. Please be aware of the following policies
+regarding evacuation: • Familiarize yourself with all exit doors of the classroom and the building.
+Remember that the nearest exit door may not be the one you used when you entered the building. • If
+you require assistance to evacuate, inform me in writing during the first week of class. • In the event
+of an evacuation, follow my instructions or those of class instructors. Do not re-enter a building unless
+you’re given instructions by the Austin Fire Department, the UT Austin Police Department, or the Fire
+Prevention Services office.
+Student Support Services
+There are numerous free and/or low-cost support services available to students at UT. They include
+(but are not limited to) the following:
+Fine Arts Career Services (512-232-7333, utexas.edu/finearts/careers) provides a full range
+of services and resources to support students and alumni.
+The Undergraduate Writing Center
+(512-471-6222, uwc.utexas.edu) helps students with every phase of writing assignments for
+their courses.
+The Sanger Learning Center (512-471-3614, utexas.edu/ugs/slc) provides study skills,
+time-management, and note-taking courses.
+University Health Services (512-471-4955, healthyhorns.utexas.edu) provides medical and health
+promotion services for currently enrolled students and some non-students who are
+officially enrolled in certain University programs.
+The Counseling and Mental Health Center (512-471-3515, cmhc.utexas.edu) helps students with
+their personal concerns so that they can meet the daily challenges of student life.
+UT Electronic Mail Notification Policy
+Electronic mail (e-mail) is a mechanism for official University and instructor communication to students.
+Students are expected to check e-mail on a frequent and regular basis in order to stay current with
+University- and course-related communications, recognizing that certain communications may be time-
+critical. It is recommended that e-mail be checked daily, but at a minimum, twice per week.
+It is the responsibility of every student to keep the University and instructor informed of changes in his
+or her official e-mail address (do so at https://utdirect.utexas.edu/utdirect/bio/address_change.WBX).
+Consequently, e-mail returned to the University with "User Unknown" is not an acceptable excuse for
+missed communication. Similarly, undeliverable messages returned because of a full inbox or use of a
+spam filter will be considered delivered without further action required of the University or instructor.
+(see http://www.utexas.edu/cio/policies/university-electronic-mail-student-notification-policy)

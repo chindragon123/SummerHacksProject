@@ -1,0 +1,248 @@
+                           ANT  324L  Digital  Data  Systems  in  Archaeology  
+                                            Unique  No.  31680    
+                                                 Spring  2019  
+Wed  3:00  –  6:00  pm    
+TAR  5D  (Texas  Archeological  Research  Laboratory,  Pickle  Research  Campus,  Bldg.  5D)    
+  
+Instructor:  Jonathan  H.  Jarvis  
+Office:  TARL  116  
+Office  hours:  Wed.  12:00  –  3:00  pm  or  by  appointment  (in  this  case  “by  appointment”  
+means:  feel  free  to  stop  by  anytime  but  call  or  email  first  to  be  sure  I’ll  be  there)  
+Email:  jjarvis@mail.utexas.edu  
+Office  phone:  512/471-­‐5959  
+  
+  
+Course  Description  
+This  course  provides  the  basic  knowledge  and  skills  needed  to  operate  digital  equipment  
+(e.g.,  GPS  and  Total  Data  Stations)  commonly  used  for  collecting  spatial  data  on  
+archaeological  sites.  Classroom  instruction  on  mapping  and  grid  systems  will  be  
+translated  into  "hands-­‐on"  instrument  operation  in  simulated  archaeological  field  
+conditions.  An  introduction  to  GIS  software  and  its  uses  in  archaeology  (as  a  tool  for  
+quantitative  analysis,  presenting/visualizing  data,  etc.)  will  be  provided.  Data  collected  
+during  simulated  field  operations  will  be  processed  and  mapped  using  GIS  software.    An  
+overview  of  near-­‐surface  geophysical  survey  techniques  will  be  included,  with  hands-­‐on  
+instruction  in  the  operation  of  a  magnetometer.      
+  
+Prerequisites  
+There  are  no  specific  prerequisites  for  this  course;  however,  students  are  expected  to  
+have  some  basic  familiarity  with  desktop  computers  (PC’s)  and  should  be  comfortable  
+working  with  technology.              
+    
+Textbook  /  Readings  
+The  text  (citation  below)  will  be  provided  as  a  PDF;  it  is  also  available  as  a  free  download  
+from:  http://www.esri.com/industries/ebooks/index.html.  Note  that  although  there  will  
+be  a  few  questions  on  the  first  (and  only)  test  drawn  from  the  readings,  most  of  this  
+course  will  rely  on  lectures  and  hands-­‐on  exercises.    The  text  is  simply  intended  to  
+provide  a  sample  of  some  GIS  applications  in  archaeology.    SUPPLEMETARY  READINGS  
+WILL  BE  PROVIDED  BY  THE  INSTRUCTOR.        
+  
+Environmental  Systems  Research  Institute  [ESRI]  
+2009          GIS  for  Archaeology.  GIS  Best  Practices  Series.  ESRI.  Redlands,  CA.  (e-­‐book)  
+  
+  
+
+
+Optional  Text  
+The  optional  text  is  precisely  that—optional;  it  is  not  necessary  for  successfully  
+completing  the  course.    It  is,  however,  a  very  useful  reference  for  the  more  commonly  
+used  operations  in  ArcGIS.      
+  
+Clemmer,  Gina  
+2017   The  GIS  20  Essential  Skills.  3rd  edition.  ESRI  Press.  Redlands,  CA.    
+(Again,  it’s  optional.    ISBN  #  9781589485129)  
+  
+  
+  
+Grading  Criteria  
+There  will  be  a  test  early  in  the  semester  to  assess  knowledge  of  site  mapping  and  
+digital  data  collection  methods  acquired  during  classroom  lectures  and  readings  (25%  of  
+semester  grade).    The  remainder  of  the  semester  grade  will  be  based  field  performance  
+with  the  digital  collection  systems  (20%)  and  maps  produced  using  GIS  software  (3  sets  
+of  maps  accounting  for  10%,  15%  and  30%  of  semester  grade;  a  grading  rubric  will  be  
+provided  for  each  mapping  assignment).    Except  for  the  first  map,  each  set  of  maps  will  
+present  quantitative  data  collected  in  the  field.    The  last  mapping  assignment  will  
+incorporate  all  of  the  knowledge  gained  in  the  course  and  function  as  a  de  facto  final  
+exam  for  the  course;  there  will  not  be  a  traditional  test  on  the  final  exam  day  scheduled  
+by  the  University  for  this  course.      
+  
+The  plus/minus  grading  system  (100-­‐93=A;  92-­‐90=A-­‐;  89-­‐87=B+;  86-­‐83=B;  82-­‐80=B-­‐,  etc.)  
+will  be  used  in  this  course.    Grades  will  not  be  curved.    There  will  be  opportunities  for  
+extra  credit  available  as  the  semester  progresses.      
+  
+Attendance  &  Participation  
+Attendance  is  important  in  all  of  your  classes.    It  is  particularly  important  for  this  class.    
+This  is  a  techniques  class  that  provides  hands-­‐on  experience  with  hardware  and  
+software  during  every  class  meeting;  as  such  attendance  and  participation  are  required.    
+A  class  absence  (for  a  valid  reason,  of  course)  must  be  made  up  one-­‐on-­‐one  with  the  
+instructor.    Please  contact  your  instructor  as  soon  as  possible  (within  1-­‐2  days)  if  you  
+miss  a  class  to  arrange  for  a  make-­‐up.  More  than  one  class  absence  without  a  make-­‐up  
+session  will  result  in  a  letter  grade  drop  in  your  final  grade  for  the  course.    
+Participation  is  a  critical  component  of  this  course;  “field  performance  with  digital  
+collections  systems”  (20%  of  your  grade)  cannot  be  accomplished  without  active  
+participation.      
+  
+University  Policies  
+The  usual  University  policies  found  on  every  syllabus  are  included  at  the  end  of  this  
+document.    Please  take  a  moment  to  review  these  policies.    The  “acceptable  use”  policy  
+applies  to  the  classroom  computers  and  the  TARL  network.      
+  
+
+
+Classroom  Policies  &  Important  Reminders  
+•   You  are  encouraged  to  work  together  and  help  one  another;  however,  the  graded  
+     assignments  (maps  and  test)  MUST  be  completed  on  your  own.      
+  
+•   If  you  are  having  problems  with  any  of  the  course  material  or  if  any  aspect  of  the  
+     course  is  unclear,  please  let  your  instructor  know  as  soon  as  possible.    
+  
+•   Do  not  hesitate  to  make  use  of  your  instructor’s  office  hours.      
+  
+•   Please  remember  to  turn  your  phone’s  ringer  off  during  class  
+  
+•   Have  I  mentioned  that  attendance  and  participation  are  important?    
+  
+  
+Assignment  Deadlines  &  Test  Date  
+(Refer  also  to  the  schedule  below;  other  important  dates  from  the  University’s  academic  
+calendar  can  be  found  near  the  end  of  this  syllabus)  
+27  FEB  –  Test  
+3  APR  –  Mapping  Assignment  1  Due  
+24  APR  –  Mapping  Assignment  2  Due  
+8  MAY  –  Mapping  Assignment  3  Due  
+  
+Tentative  Schedule  
+Topics  and  activities  are  subject  to  change.    Lectures  often  include  live  software  
+demonstrations  that  students  will  follow  along  with  on  classroom  computers.    Many  
+“activities”  will  take  place  outdoors  on  the  grounds  of  the  Pickle  Research  Campus.    In  
+the  event  of  uncooperative  weather,  the  week’s  outdoors  activity  will  be  postponed  and  
+replaced  with  classroom  instruction  and/or  classroom  activities  as  appropriate.      
+Jan  23  
+Course  Introduction  
+Presentation:  Maps  in  Archaeology  –  Past,  Present  &  Future;  general  overview  of  maps,  
+their  uses  in  archaeology  and  Cultural  Resource  Management  (the  intersection  of  
+archaeology  and  public  policy)  and  the  ethics  of  cartography  (cf.  How  to  Lie  With  Maps  
+[Monmier  1991])  
+Jan  30  
+Lecture:  Maps  as  2-­‐D  models  of  a  3-­‐D  world  –  geodesy,  datum,  grid  systems  and  
+projections;  review  of  coordinate  geometry  as  applied  in  archaeology;  review  of  land  
+navigation  w/  map  and  compass      
+Feb  6  
+Lecture:  GIS;  getting  started  with  ArcGIS  
+
+
+Activity:  Practice  land  navigation;  locate  our  project  area  on  a  map  with  ArcGIS;  identify  
+and  convert  coordinates  
+Feb  13  
+Lecture:  Global  Positioning  System  (GPS)  technology;  using  GPS  with  maps  
+Activity:  Navigate  to  our  project  area  with  consumer-­‐grade  GPS;  establish  datum  with  
+sub-­‐meter  GPS  
+Feb  20  
+TEST  REVIEW  
+Activity:  Total  Data  Station  (TDS)  set-­‐up  and  basic  operation;  Real-­‐Time  Kinematic  (RTK)  
+GPS  set-­‐up  and  basic  operation  
+Feb  27  
+TEST  
+Activity:  Establish  backsight  with  RTK;  TDS  operation-­‐  set  out  stakes  using  coordinate  
+geometry  (“COGO”  function),  topographic  mapping,  etc.    
+  
+Mar  6  
+Lecture:  GIS  –  layout  view  and  map  design;  cartographic  representation  
+Assign  MAP  1  (project  location  map)  
+Mar  13  
+Activity:  Work  on  MAP  1  
+Activity:  Practice  geospatial  equipment  operation  (Team  A)  
+  
+SPRING  BREAK  
+Mar  27  
+Lecture:  Geophysical  survey  –  electromagnetic  spectrum;  passive  vs.  active  sensors;  
+ground  penetrating  radar  (GPR),  magnetometers,  soil  resistivity    
+Activity:  Work  on  MAP  1  
+Activity:  Practice  geospatial  equipment  operation  (Team  B)  
+Apr  3  
+MAP  PROJECT  1  DUE  
+Activity:  Establish  magnetometer  collection  unit  with  TDS  
+Activity:  Operate  magnetometer    
+Apr  10  
+Lecture:  GIS  –  shapefiles,  geodatabases  and  rasters  
+Assign  MAP  2  
+Activity:  Work  on  MAP  2  
+
+
+Activity:  Practice  operating  geospatial  field  equipment  (Team  C)    
+Apr  17  
+Lecture:  Downloading  and  working  with  field  data;  surfaces  and  basic  quantitative  
+analysis  in  ArcGIS;  georeferencing  data  
+Assign  MAP  3  
+Activity:  Work  on  MAP  2  
+Activity:  Practice  operating  geospatial  field  equipment  (Team  D)    
+Apr  24  
+MAP  PROJECT  2  DUE  
+Lecture:  Advanced  GIS  topics  –  GIS  and  databases  (“Big  Data”),  modeling,  etc.  
+Activity:  Work  on  MAP  3  
+Activity:  Students  individually  set-­‐up  TDS  and  operate  GPS  equipment  (one  at  a  time  
+while  everyone  else  works  on  mapping  assignment;  TDS  set-­‐up  and  GPS  operation  will  
+be  graded)  
+May  1  
+Lecture:  Digital  data  in  Texas  archaeology  and  how  it  informs  Cultural  Resource  
+Management  decisions;  other  types  of  digital  data  and  available  resources    
+Activity:  Work  on  MAP  3  
+Activity:  Continue  individual  TDS  set-­‐ups  /  GPS  operation  (graded)  
+May  8  
+MAP  PROJECT  3  DUE  
+Course  debriefing  
+  
+Important  Dates  
+(Please  see  the  Registrar’s  academic  calendar  for  official,  definitive  dates  and  deadlines)  
+25  JAN  –  Last  day  of  the  official  add/drop  period.    
+6  FEB  –  12th  class  day  (date  the  official  enrollment  count  is  taken)  
+8  APR  –  Last  day  an  undergraduate  may  change  registration  to  or  from  pass/fail  
+  
+University  Policies  
+Acceptable  Use    
+This  course  utilizes  University  computers  and  network  resources.    The  “Acceptable  Use  
+Policy”  applies.    This  policy  can  be  found  at:  http://www.utexas.edu/cio/policies/.      
+  
+University  of  Texas  Honor  Code    
+The  core  values  of  The  University  of  Texas  at  Austin  are  learning,  discovery,  freedom,  
+leadership,  individual  opportunity,  and  responsibility.  Each  member  of  the  university  is  
+expected  to  uphold  these  values  through  integrity,  honesty,  trust,  fairness,  and  respect  
+toward  peers  and  community.    
+
+
+  
+Scholastic  Dishonesty  &  Plagiarism    
+Plagiarism  is  a  serious  violation  of  academic  integrity.  In  simplest  terms,  this  occurs  if  
+you  represent  as  your  own  work  any  material  that  was  obtained  from  another  source,  
+regardless  how  or  where  you  acquired  it.  It  is  the  student’s  responsibility  to  read  and  
+abide  by  the  requirements  for  presentation,  referencing  and  avoidance  of  plagiarism  to  
+be  found  at:  http://deanofstudents.utexas.edu/sjs/acadint_plag_collab.php.      
+  
+Documented  Disability  Statement    
+The  University  of  Texas  at  Austin  provides  upon  request  appropriate  academic  
+accommodations  for  qualified  students  with  disabilities.  For  more  information,  contact  
+Services  for  Students  with  Disabilities  at  (512)  471-­‐6259  (voice)  or  1-­‐866-­‐329-­‐3986  
+(video  phone)  or  http://www.utexas.edu/diversity/ddce/ssd.      
+  
+Use  of  E-­‐Mail  for  Official  Correspondence  to  Students    
+E-­‐mail  is  recognized  as  an  official  mode  of  university  correspondence;  therefore,  you  are  
+responsible  for  reading  your  e-­‐mail  for  university  and  course-­‐related  information  and  
+announcements.  University  policy  suggests  that  students  should  check  email  at  a  
+minimum  of  twice  per  week  (your  instructor  recommends  checking  email  daily).    The  
+University’s  policies  and  instructions  for  updating  your  e-­‐mail  address  can  be  found  at:  
+http://www.utexas.edu/its/policies/emailnotify.php    
+  
+  
+Religious  Holy  Days    
+A  student  who  misses  classes  or  other  required  activities,  including  examinations,  for  
+the  observance  of  a  religious  holy  day  should  inform  the  instructor  as  far  in  advance  of  
+the  absence  as  possible,  so  that  arrangements  can  be  made  to  complete  an  assignment  
+within  a  reasonable  time  after  the  absence.      
+  
+Behavior  Concerns  Advice  Line  (BCAL)    
+If  you  are  worried  about  someone  who  is  acting  differently,  you  may  use  the  Behavior  
+Concerns  Advice  Line  to  discuss  by  phone  your  concerns  about  another  individual’s  
+behavior.  This  service  is  provided  through  a  partnership  among  the  Office  of  the  Dean  of  
+Students,  the  Counseling  and  Mental  Health  Center  (CMHC),  the  Employee  Assistance  
+Program  (EAP),  and  The  University  of  Texas  Police  Department  (UTPD).  Call  512-­‐232-­‐
+5050  or  visit  http://www.utexas.edu/safety/bcal/.    
+  

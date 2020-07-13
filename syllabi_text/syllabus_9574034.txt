@@ -1,0 +1,292 @@
+MODULES + MONOLITHS
+ARC-s327R/s386M
+Workshop and Seminar
+UTSOA
+Instructor: Juan Jofre Lora  OBJECTIVES
+juanjofre@utexas.edu
+Office Hours: By Appointment Part Seminar, part Workshop, Modules + Monoliths aims to explore the history and
+                             future of the solid object. While current modes of operation, both digital and physical,
+Tuesdays 4-7pm               prioritize planar construction, we will focus on mass. The aim is to develop a critical
+SUT 2.112                    history of stereotomic processes and their potential future.
+                             We will begin with a series of lectures and readings that explore the different base
+                             building materials and the respective constructive methodologies that they engender.
+                             Our goal is to uncover both the cultural reasoning and constructive logic that each
+                             material created. We will trace each material across time to uncover lost techniques,
+                             different working systems, and the rich projects that they produced. Readings will help
+                             us question and contextualize the history and potential future of all of the techniques
+                             we uncover.
+                             Each student will select a single building or specific technique to study and analyse as
+                             a critical reserch component. The aim of the research is to understand and be able to
+                             reproduce the construction logic of the precedent in order to be able to project future
+                             uses for the techniques explored.
+                             As we build a more robust understanding of the different building techniques, we will
+                             begin to deploy them to create contemporary objects. In doing so, we will be forced
+                             to test and refine our understanding of each technique and potentially discover new
+                             means to push it forward.
+                             The course will be structured with two major deliverables, and two minor material
+                             explorations; first, an analytical research article on a relevant historic case study or
+                             process, and second, an exploration of a new cast object and module. In between,
+                             students will undertake two small design exercises aimed at understanding gravity and
+                             mass, and the process of building a complex mold. At the end of the semester, each
+                             student will develop and produce their own monolithic structure.
+                             WORKING METHODOLOGY
+                             The course will be structured as a hybrid seminar and workshop. Each class will have
+                             a mix of lectures, reading discussions, tutorials, and generative work time. We will
+                             be learning through intellectual research and discussion, but also through the act of
+                             making. These two different types of knowledge should inform each other and create
+                             a productive synergy.
+                             We will split our time between the seminar room and the shop, with an emphasis on
+                             intellectual pursuits towards the beginning of the semester and physical production
+                             in the latter half. Students will be encouraged to utilize digital fabrication tools as well
+                             as traditional fabrication techniques and should be comfortable working in a shop
+                             environment.
+                             The course will have mandatory meetings on Tuesdays from 4-7pm. A large portion
+                             of the grade is contingent on student participation and collaboration, as such, it is
+                             essential that students come to class and participate in reading discussions.
+
+
+MODULES + MONOLITHS
+ARC-s327R/s386M
+Workshop and Seminar
+UTSOA
+Instructor: Juan Jofre Lora  SCHEDULE
+juanjofre@utexas.edu
+Office Hours: By Appointment Wk 1 Tue 1|22     Introduction + Syllabus
+                                               Modules + Monoliths Lecture
+Tuesdays 4-7pm                        Readings The Medium is the Message, Marshall McLuhan
+SUT 2.112                                      The Wall and the Books, Borges
+                                               Monolithic Architecture, Machado, el-Khoury
+                             Wk 2 Tue 1|29     History, Narrative + Monumentality
+                                               Reading Discussion
+                                               Research Topics Introduction
+                                      Readings Learning From the Past, The Cannibal’s Cookbook,
+                                               Brandon Clifford
+                                               A Culture of Stone, Inka Perspectives on Rock,
+                                               Introduction, Carolyn Dean
+                             Wk 3 Tue 2|5      Monoliths, Megaliths, + Cyplopean Constructs
+                                               Reading Discussion
+                                      Readings Stone Architecture, Arches, Alfonso Acosella
+                                               Drawn Stone, The Projective Cast, Robin Evans
+                             Wk 4 Tue 2|12     Geometry of Stone
+                                               Reading Discussion
+                                               Projective Geometries Lecture
+                                      Readings The Tell Tale Detail, Marco Frascari
+                                               The Art of Japanese Joinery, Kiyosi Seike
+                                               Wood Joints as an Expression of Aesthetic Values,
+                                               Wood and Wood Joints, K. Zwerner
+                             Wk 5 Tue 2|19     Wood, Jointry + Detail
+                                               Reading Discussion
+                                               Assemblies + Jointery Lecture
+                                               Exercise 1 - Center of Gravity
+                                      Readings Brick: A World History, Intro, James Campbell
+                                               From the Photograph, Red Plenty, F. Spufford
+                                               Living Bits and Bricks, Carlo Ratti
+                                               About Building with Bricks, LRO
+                             Wk 6 Tue 2|26     In Class Workday
+                             Wk 7 Tue 3|5      In Class Workday
+                             Wk 8 Tue 3|12     Bricks, Modules + Bits
+                                               Reading Discussion
+                                               Arches | Symmetries | Compression Lecture
+                                      Readings Brick: A World History, Various, James Campbell
+                                               The Function of Ornament, Moussavi, Kubo
+                                               Ornament and Crime, Adolf Loos
+                                               Ornament in Architecture, Louis Sullivan
+
+
+MODULES + MONOLITHS
+ARC-s327R/s386M
+Workshop and Seminar
+UTSOA
+Instructor: Juan Jofre Lora  Wk 9 Tue        3|19              SPRING BREAK (No class)
+juanjofre@utexas.edu         Wk 10 Tue       3|26              Bricks, Pattern + Ornament
+Office Hours: By Appointment                                   Reading Discussion
+                                                               Exercise 1 Due
+Tuesdays 4-7pm                                                 Exercise 2 - Two Part Mold
+SUT 2.112                                    Readings          Vers un Architecture, Le Corbusier
+                                                               A Concrete Atlantis, Reyner Banham
+                                                               The Material Without a History, Adrian Forty
+                                                               Architecture and Technology: Two Centuries of
+                                                               Creative Tension, Antoine Picon
+                             Wk 11 Tue       4|2               In Class Workday
+                             Wk 12 Tue       4|9               Research Presentations
+                                                               Exercise 3 - Assemblage or Monolith
+                             Wk 13 Tue       4|16              Concrete + Modernity
+                                                               Reading Discussion
+                                                               Exercise 2 Due
+                                             Readings          Towards a Concrete Utopia: Architecture in
+                                                               Yugoslavia 1948 -1980
+                                                               Bunker Archeology, Paul Virilio
+                                                               The Semantics of Exposed Concrete, Rejean
+                                                               Legault
+                             Wk 14 Tue       4|23              Concrete Monoliths
+                                                               Reading Discussion
+                                                               In Class Workday
+                                             Readings          A Sculptors World, Isamu Noguchi
+                             Wk 15 Tue       4|30              In Class Workday
+                             Wk 16 Tue       5|7               Final Presentation
+                             *Note: Schedule is tentative and subject to change.
+
+
+MODULES + MONOLITHS
+ARC-s327R/s386M
+Workshop and Seminar
+UTSOA
+Instructor: Juan Jofre Lora  REQUIREMENTS
+juanjofre@utexas.edu
+Office Hours: By Appointment The course will make significant use of the Rapid Prototyping Facilities at UTSOA. For
+                             that reason, it is mandatory that all students in the course sign up for the semester
+Tuesdays 4-7pm               subscription plan and take the prerequisite course.
+SUT 2.112
+                             Students are required to have a laptop computer by the first day of class that is capable
+                             of running high performance 2d and 3d software applications and meets or exceeds
+                             the UTSOA recommended laptop’s performance, including:
+                             Rhinoceros 5.0
+                             Student licenses are available at the Rhino website.
+                             You may also purchase a single-user, educational license at a discounted price online:
+                             http://www.rhino3d.com/sales/order-na-std.htm
+                             Grasshopper
+                             A free plug-in for Rhino that can be downloaded from here:
+                             http://www.grasshopper3d.com/
+                             Adobe Design Standard CS6 or CC
+                             The suite contains multiple pieces of Adobe software, including Photoshop, Illustrator,
+                             InDesign and Acrobat, all of which you will use at some point in the semester. If you
+                             have an earlier version of CS already (such as CS4 or more recent), it may be adequate
+                             for the required coursework. You may purchase a student license at the Campus
+                             Computer Store; for
+                             MAC or Windows. Free 30-day trial versions of individual CS applications can be
+                             downloaded online: http://www.adobe.com/downloads.html
+                             There is also a Cloud-based monthly subscription.
+
+
+MODULES + MONOLITHS
+ARC-s327R/s386M
+Workshop and Seminar
+UTSOA
+Instructor: Juan Jofre Lora  EVALUATION
+juanjofre@utexas.edu
+Office Hours: By Appointment Establishing grades for projects of a creative nature is a more complex matter than
+                             grading in other academic areas. While each project contains certain quantifiable
+Tuesdays 4-7pm               elements by which it may be evaluated, a significant portion of each grade is derived
+SUT 2.112                    from a broader, more subjective set of issues.
+                             Each assignment will be weighted based on its duration and complexity. Your work will
+                             be evaluated on its rigor and evolution over the semester. Grades will be distributed
+                             at the completion of interim assignments and final portfolio submissions. Participation
+                             and punctuality will be part of the grading equation.
+                             The instructor and teaching assistant are available for any questions or concerns
+                             throughout the semester.
+                             GRADING SCALE
+                             A/A- : excellent
+                             The work submitted surpasses expectations in terms of inventiveness, appropriateness,
+                             verbal and visual ability, craft, and personal development. Student pursues ideas and
+                             techniques above and beyond what is discussed in class.
+                             B+/B/B- : above average
+                             The work submitted is thorough, diligently pursued, and successfully executed.
+                             Student pursues ideas and techniques presented in class and puts in effort to resolve
+                             assignment. The work demonstrates potential for excellence and is complete.
+                             C+/C/C- : average
+                             The work submitted meets the minimum requirements. Suggestions made in class are
+                             not pursued with dedication and/or the work submitted is incomplete. (Note: C- does
+                             not meet the minimum grade to be counted toward the student’s degree.)
+                             D+/D/D- : below average
+                             The work submitted does not address basic skills including graphic skills, verbal clarity
+                             or presentation is not level appropriate. Student does not demonstrate the required
+                             conceptual and technical rigor expected and/or the work submitted is incomplete.
+                             F: failure
+                             Minimum objectives are not met. Performance is not acceptable.
+                             X: excused incomplete
+                             Given for reasons of illness or family emergency. An incomplete is assigned after
+                             consultation with the Associate Deans’ offices. Coursework must be completed prior
+                             to the beginning of the following semester.
+
+
+MODULES + MONOLITHS
+ARC-s327R/s386M
+Workshop and Seminar
+UTSOA
+Instructor: Juan Jofre Lora  ATTENDANCE
+juanjofre@utexas.edu
+Office Hours: By Appointment Attendance is mandatory. Most of our class meetings will be devoted to discussions,
+                             exercises, and hands-on workshops, so regular attendance and active participation
+Tuesdays 4-7pm               is expected. With 2 unexcused absences will lower by a full letter grade. Because
+SUT 2.112                    our time in class is limited, promptness is important. If you are late for class, it is your
+                             responsibility to make sure you have not been marked absent. Please contact the
+                             instructor prior to class (juanjofre@utexas.edu) if you will be late or miss class.
+                             Religious holy days sometimes conflict with class and examination schedules. If you
+                             miss an examination, work assignment, or other project due to the observance of a
+                             religious holy day you will be given an opportunity to complete the work missed within
+                             a reasonable time after the absence. Please notify each of your instructors as far in
+                             advance as possible prior to the classes scheduled on dates you will be absent to
+                             observe a religious holy day.
+                             STUDENTS WITH DISABILITIES
+                             Students with disabilities who require special accommodations need to get a letter that
+                             documents the disability from the Services for Students with Disabilities area of the
+                             Office of the Dean of Students (471-6259 voice or 471-4641 TTY for users who are
+                             deaf or hard of hearing). This letter should be presented to the instructor in each course
+                             at the beginning of the semester and accommodations needed should be discussed at
+                             that time. Five business days before an exam the student should remind the instructor
+                             of any testing accommodations that will be needed.
+                             HONOR CODE
+                             It is expected of every student to abide by the UT Honor Code. Dishonesty and/or
+                             the poor treatment of your classmates will not be tolerated. The UT Honor Code (or
+                             statement of ethics) and an explanation or example of what constitutes plagiarism can
+                             be found at: http://registrar.utexas.edu/catalogs/gi09-10/ch01/index.html
+                             SAFETY + SECURITY
+                             Occupants of buildings on The University of Texas at Austin campus are required to
+                             evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+                             requires exiting and assembling outside. Familiarize yourself with all exit doors of each
+                             classroom and building you may occupy. Remember that the nearest exit door may
+                             not be the one you used when entering the building. Students requiring assistance in
+                             evacuation shall inform their instructor in writing during the first week of class. In the
+                             event of an evacuation, follow the instruction of faculty or class instructors. Do not
+                             re-enter a building unless given instructions by the following: Austin Fire Department,
+                             The University of Texas at Austin Police Department, or Fire Prevention Services office.
+                             To find more information regarding emergency evacuation routes and emergency
+                             procedures go to: www.utexas.edu/emergency
+
+
+MODULES + MONOLITHS
+ARC-s327R/s386M
+Workshop and Seminar
+UTSOA
+Instructor: Juan Jofre Lora  RESEARCH TOPICS
+juanjofre@utexas.edu
+Office Hours: By Appointment The aim of the research project is to produce in depth knowledge of the historical
+                             context and construction process of a specific building. Each student will be tasked
+Tuesdays 4-7pm               with becoming an “expert” on their selected building and presenting their findings to
+SUT 2.112                    the rest of the class. The research should deal with three specific components; the
+                             historical context of the project, the technical and construction processes utilized for
+                             its construction, and its adaptation for current use.
+                             First, it needs to establish the history and lineage of the project to be able to contextualize
+                             its inception. What projects or technological innovations preceeded the project and
+                             allowed for its development? How does it fit into a narrative of progress? Why was it
+                             culturally significant?
+                             Second, it must address the specific construction methods and challenges associated
+                             with its development at the time. How did these developments further the field? What
+                             innovations where achieved during its construction?
+                             Finally, it needs to propose how those techniques could be applied or modified with
+                             today’s technologies to produce new projects. Does digital technology facilitate the
+                             production of a similar project? Or does it “naturally” produce a simplified version? How
+                             can modern technology be utilized to reduce labor? Or can it?
+                             There is no specific format for the research, but it must include both a written component
+                             and any necessary visual imagery and explanatory diagrams. Students are encouraged
+                             to develop their own diagrams and drawings to help explain the methods utilized.
+                             The final submission will be a digital presentation to the class and an accompanying
+                             physical copy with footnotes and references.
+                             Potential Topics
+                             Baths of Caracalla
+                             Baths of Diocletian
+                             Colossus of Constantine, Acrolithic Sculpture
+                             Osaka Castle Stone Walls
+                             Governor’s Palace, Uxmal
+                             Cappadoccia Caves
+                             Badami Chalukya Temples
+                             Alhambra Dome
+                             Halle Au Ble, Nicolas Le Camus
+                             St. Genevieve Crypt Vaults, J.G. Souflott
+                             San Carlo alle Quattro Fontane, Francesco Borromini
+                             Grundtvig’s Church, Peder Vilhelm Jenser Klint
+                             Spaarndammerbuurt Het Schip, Michel de Klerk
+                             Brion Cemetery, Carlo Scarpa
+                             Candelaria Metro Station, Felix Candela
+                             Zarzuela Racetrack Stands, Eduardo Torroja
+                             *Students may suggest any other research topic, to be approved by instructor

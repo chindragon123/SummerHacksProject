@@ -1,0 +1,254 @@
+AET304 Course Syllabus
+        Foundations Of Arts And Entertainment Technologies
+                                                   AET 304
+      “In this electronic age, we see ourselves being translated more and more into the form of information,
+                 moving toward the technological extension of consciousness.” – Marshall McLuhan
+                                     Spring 2019, LAITS Online Broadcast
+                                  MW, 10:00 – 11:30 am (and On Demand)
+Instructor:                 Jack W. Stamps, DMA
+Office Hours:               Wednesday, 2-3pm in the Foundry (main level DFA)
+Lead TA:                    Thomas B. Yee, MM
+TA Team Email:              onlineaet304ta@austin.utexas.edu
+                            Only email the above address for AET 304-related matters! Any emails sent to Dr.
+                            Stamps or Thomas directly will not be responded to. Any contact made to other
+                            staff or faculty of the School of Design and Creative Technologies or the College
+                            of Fine Arts about AET 304 matters will be considered a violation of class policy
+                            and may negatively affect the consideration of your request.
+I.       Rationale:
+This course presents a broad overview of digital media technologies, software and
+applications along with the fundamental concepts of digital representations of images and
+signals. Students will study an assortment of entertainment concepts or experiences,
+discover the underlying technology involved and learn how this technology is delivered to
+the participant. For example: What is the relationship between circuit-bending and DIY
+electronics? How does interactive art work? How do robotic lights move? How can a
+dancer’s body movements affect the music that accompanies the dance? What goes on
+behind the scenes of a large-scale live musical performance? How are 3D printers changing
+art, manufacturing, and medicine? In pursuit of answers to such questions students will
+also consider the cultural, philosophical, ethical and practical aspects of entertainment
+technology.
+II.      Course Aims and Objectives:
+By the end of this course, students will:
+    •   Understand the history, present and future of arts and entertainment technologies
+                                                           1
+
+
+  AET304 Course Syllabus
+      •  Consider the historical landmarks of entertainment technologies and their continuing impact on
+         popular culture aesthetics of the present and future
+      •  Experience and investigate a wide range of cutting-edge arts and entertainment technologies
+      •  Personally engage arts and entertainment technologies through three creative projects
+      •  Gain introductory experience on visual- and audio-editing software and crowdfunding tools
+      •  Explore the infinite combinatorial possibilities of arts and entertainment technologies
+      •  Consider the cultural/political/economic implications of arts and entertainment technologies
+      •  Think critically about how, why, and where entertainment technologies are deployed
+  III.     Assessment Model:
+           Attendance and Content Completion:                                                    15%
+Attendance credit for the first three class sessions is assessed automatically based on being logged in to the
+LAITS broadcast stream in Canvas for the entirety of the class session. Completion credit for the On Demand
+content after the third class session is      assessed by viewing the entirety of video content or reading the
+entirety of text content. Attendance credit for the first three class sessions may be excused by requesting
+excused absences (see Section VI below). Completion of the On Demand modules may not be excused. All
+content must be complete by May 8 at 11:59 PM.
+           Session Comprehension Checks:                                                         10%
+Comprehension checks during the first three class sessions will be assessed by Instapolls sent over the LAITS
+broadcast stream in Canvas. You must be logged in to the stream when the Instapoll begins to receive the
+Instapoll. If the Instapoll does not initially appear, do not refresh your webpage; the timing of receiving the
+Instapoll varies based on internet connection. Comprehension checks for the On Demand content after the third
+class session is administered at various points during the video content. The checks must be completed at that
+time; backtracking in the video or refreshing the page will forfeit your ability to answer the check. Therefore,
+attentiveness throughout the video content is essential. Instapolls for the first three class sessions may be
+excused by requesting excused absences (see Section VI). On Demand checks may not be excused. All content
+must be complete by May 8 at 11:59 PM.
+           Quizzes (during “live” sessions) (4):                                                 20%
+Each is worth 5% total semester grade. Email the TAs for a make-up quiz up to one week later.
+           Topical Discussions (during “live” sessions) (4):                                     16%
+Each is worth 4% total semester grade. Email the TAs for a make-up discussion up to one week later.
+           Creative Projects (3):                                                                24%
+Please see the Assignment Prompts in Canvas for detailed instructions about each Creative Project. Projects will
+be accepted up to two weeks after the due date with an increasing late penalty. After the two weeks are up,
+any late projectsmust be emailed directly to the TA Team and can only receive 50% maximum of the original
+grade value. May 8 by 11:59 PM is the deadline for accepting late assignments.
+           Final Exam (1):                                                                       15%
+Absolutely no late submissions will be accepted for the Final Exam. A study packet will be provided.
+                                                          2
+
+
+AET304 Course Syllabus
+          Letter Grade Policy:
+          To ensure fairness, all numbers are absolute, and will not be rounded up or down at any stage. Thus a B-
+          will be inclusive of all scores of 80.000 through 83.999... The University does not recognize the grade of A+.
+          Thus, the conversion from percentage value to letter grade is as follows:
+          A = 94 – 100
+          A- = 90 – 93.999…
+          B+ = 87 – 89.999…
+          B = 84 – 86.999…
+          B- = 80 – 83.999…
+          C+ = 77 – 79.999…
+          C = 74 – 76.999…
+          C- = 70 – 73.999…
+          D+ = 67 – 69.999…
+          D = 64 – 66.999…
+          D- = 60 – 63.999…
+          F = 0 – 59.999…
+IV.      Academic Integrity
+Cheating and Plagiarism
+By enrolling in this course, you agree to abide by the student Honor Code and Academic Integrity policies as outlined
+by the Office of the Dean of Students here. Infractions of this policy will be severely penalized. We have uncovered
+evidence of students cheating on quizzes or caught plagiarism on creative projects red-handed in past semesters.
+In such cases, failing the course, suspension from school, or even expulsion are all penalties that may be applied
+at the discretion of the Office of the Dean of Students. Academic Dishonesty may ruin your grade, academic career,
+and can stain your reputation for decades to come.
+Academic Dishonesty
+“Academic dishonesty” or “scholastic dishonesty” includes, but is not limited to, cheating, plagiarism, collusion,
+falsifying academic records, misrepresenting facts, and any act designed to give unfair academic advantage to the
+student or the attempt to commit such an act. In AET 304, this includes but is not limited to:
+         1) Submitting all or part of someone else’s work as your own, without properly crediting your
+              sources (this especially applies to creative projects). When in doubt, cite your sources!
+         2) Sharing answers to Comprehension Checks, Quizzes, or the Final Exam with other students
+         3) Taking Comprehension Checks, Quizzes, or the Final Exam together with other students. If you are
+              with other students during the broadcast, do not interact with them while taking these.
+         4) Using forbidden aids like internet searches on Comprehension Checks, Quizzes, or the Final Exam
+V.        Course Schedule
+                                                             3
+
+
+AET304 Course Syllabus
+ Week      Date(s)                        Topic                                Assignments and Comments
+     1       1/23      Introduction, Syllabus               Live Session: 10:00 – 11:30 AM, LAITS Video Stream Tool
+     I.                     Music and Audio Technology
+     2       1/28      The History of Music Technology      Live Session: 10:00 – 11:30 AM, LAITS Video Stream Tool
+             1/30      A Closer Look at Logic X             Live Session: 10:00 – 11:30 AM, LAITS Video Stream Tool
+     3      2/3-2/9    Modern Songwriting                   From Week 3 on, all content will be viewed On Demand through
+                       Music and Concert Technologies       the Modules tab at your convenience/schedule.
+     4    2/10-2/16    Benefits and Consequences
+                       Cultural Implications of Sampling
+   5.1    2/17-2/23    Adapting to the Digital Revolution
+             2/20      Live: Unit I Discussion and Quiz
+    II.                   Performance & Visual Technology
+   5.2    2/17-2/23    Tools of Digital Visualization
+     6     2/24-3/2    The .GIF as Art Form                 Creative Project 1: Short Recursive Animation (Due 3/9)
+                       Robotics and Entertainment
+     7      3/3-3/9    Projection Design
+                       Max/MSP
+              3/6      Live: Unit II Discussion and Quiz
+   III.                      The World of Video Gaming
+     8    3/10-3/16    From Pong to Tomorrow
+                       Mobile Apps and Gaming
+          3/17-3/23    Spring Break: No Class!
+     9    3/24-3/30    Virtual Reality
+                       Augmented Reality
+   10      3/31-4/6    The Sociology of Gaming              Creative Project 2: Video Game Crowdfunding (Due 4/13)
+                       Gaming Aesthetics Studies
+  11.1     4/7-4/13    Video Game Design
+             4/10      Live: Unit III Discussion and Quiz
+   IV.                   The Democratization of Technology
+  11.2     4/7-4/13    Makerspaces and DIY Technology
+   12     4/14-4/20    Podcasting                           Creative Project 3: Podcast Episode (Due 4/27)
+   13     4/21-4/27    Processing
+   14      4/28-5/4    Subversive Technologies
+                       Redemptive Technologies
+              5/1      Live: Unit IV Discussion and Quiz
+   V.                         The New Heuristics of Art
+   15       5/5-5/8    The Device                           Final Exam Study Packet Distributed (approx.. 5/5)
+                       Course Wrap-up and Takeaways         Late Projects (up to 50% Total Credit): Due 5/8, 11:59 PM
+                                                            Extra Credit (from last two weeks): Due 5/8, 11:59 PM
+           5/9-5/11    Final Exam: administered via Canvas  Absolutely no late submissions accepted! Due 5/11, 11:59 PM
+                                                          4
+
+
+AET304 Course Syllabus
+VI. AET 304 Class Policies
+        1. Class attendance and participation policy:
+                   AET 304 in Spring 2019 is a hybrid broadcast course. This means that the first three class
+                   sessions will take place live at the class times listed above. After the third class session, the
+                   course content will be delivered in an On Demand format through the Canvas modules tab.
+                   This means that students will be able to view video- and text-based content based on their own
+                   schedules and optimal learning conditions.
+                   (a) For the first three live class sessions, attendance—and attentiveness—is essential and
+                        required. Attendance is facilitated through the LAITS broadcast stream in Canvas and
+                        assessed by Instapolls. Students must attend the entire session to be counted present.
+                   (b) After the third class session, attendance and participation is assessed automatically via viewing
+                        video- and text-based content in the Modules tab in Canvas. Attentiveness is essential, and
+                        multitasking during video content is highly discouraged. Students must view the entirety of
+                        video content to receive completion credit.
+                   (c) In addition to the first three live class sessions, there will be four live sessions (one per unit)
+                        throughout the semester. Each of these sessions will consist of one Topical Discussion followed
+                        by one Quiz over the unit material. These sessions will take place in the normal class time—
+                        10:00 – 11:30 AM. The full session time may not be needed.
+                   (d) If one must miss a class session and desires to ask for an excused absence, it is the student’s
+                        responsibility to let the TA team know by email in advance of the absence. An excused
+                        absence may not be granted if you notify us only after missing a class session. It is the
+                        student’s responsibility to catch up with material or class activities missed due to the
+                        absence—the TA team will not necessarily remind the student of what needs to be made
+                        up from the class session missed.
+                   (e) Instapolls and Attendance in the first three class sessions may be excused, but the Topical
+                        Discussions and Quizzes in the four live sessions must be made up or they will receive zeroes.
+                        Make-up Quizzes may be taken within one week of the live class session, and make-up Topical
+                        Discussions may be submitted within one week as well. Contact the TA email to schedule a
+                        make-up Quiz or receive instructions for a make-up Discussion.
+                   Religious Holy Days
+                   By UT Austin policy, you must notify the TA Team of your pending absence at least fourteen
+                   days prior to the date of observance of a religious holy day. If you must miss a class, an
+                   examination, a work assignment, or a project in order to observe a religious holy day, we will
+                   give you an opportunity to complete the missed work within a reasonable time after the
+                   absence. With advance notice, we are happy to accommodate religious holy days.
+        2. Required Course Materials:
+                   Required Textbook: Pixels, Samples, Lumens, Illusion by Dr. Jack W. Stamps. 2nd Edition. Kendall
+                   Hunt Publishing (Dubuque, IA: 2018). Available in the UT Co-Op in paperback or as a digital copy
+                   at the below link (with a $35 discount!):
+                   https://he.kendallhunt.com/product/pixels-samples-lumens-illusion-foundations-art-and-entertainment-technologies
+                   The textbook comes with a one-use code for accessing online supplemental materials including
+                   links to videos, websites, music tracks, and more. Being able to access these online
+                   supplemental materials will be essential to success in the course. Thus, buying a physical or
+                   digital textbook with a working access code is required. Buying a used textbook may result in
+                   having an access code that has already been used once and is thus invalid. Buying a new digital
+                   copy from the link above is highly recommended.
+                                                                  5
+
+
+AET304 Course Syllabus
+          3. Piazza and Email Correspondence:
+                   There are two modes of correspondence between students and the teacher/TA team in AET
+                   304: Piazza and Email. Carefully note the appropriate usage of the two tools:
+                   Piazza: Accessible through a tab in Canvas, Piazza works as a forum space for AET 304 students
+                   to ask questions about the course materials, discuss interesting course-related topics, and
+                   quickly answer each other’s questions if TA action or attention is not required. For example: if
+                   a student needs to clarify a question about the Creative Project instructions, the student may
+                   ask on Piazza and receive confirmation or clarification from other students in the course. Dr.
+                   Stamps and the TA Team reserve the right to delete posts that are inappropriate, off-topic, rude
+                   to classmates, or violate academic integrity.
+                   Email: Any student request that requires TA action or attention must be directed to the TA
+                   Team email. Requests made through other channels will not be acknowledged.
+VII. Other University Notices and Policies
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact Services for
+Students with Disabilities (SSD) at (512) 471-6259 or 1-866-329-3986. AET 304 will be unable to provide
+accommodations without an official accommodation letter from SSD. (Note to Faculty: Details of a student’s
+disability are confidential. Faculty should not ask questions related to a student’s condition or diagnosis when
+receiving an official accommodation letter.)
+    • If you require accommodations on completing assignments and quizzes/exams, please email a digital copy
+        of your official SSD accommodations letter to the shared TA email address as soon as possible. We will be
+        happy to provide accommodations as specified in the accommodation letter from SSD.
+    • Please notify me as quickly as possible if the material being presented in class is not accessible (e.g.,
+        instructional videos need captioning, course packets are not readable for proper alternative text
+        conversion, etc.).
+    • Please notify me as early in the semester as possible if disability-related accommodations for field trips
+        are required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+        transportation, site accessibility, etc.).
+    • Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video
+        phone) or reference SSD’s website for more disability-related information:
+        http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Behavior Concerns Advice Line (BCAL)
+ If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line
+ to discuss by phone your concerns about another individual’s behavior. This service is provided through a
+ partnership among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the
+ Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512-232-
+ 5050 or visit http://www.utexas.edu/safety/bcal.
+Q drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6).
+As stated in Senate Bill 1231:
+          “Beginning with the fall 2007 academic term, an institution of higher education may not permit an
+   undergraduate student a total of more than six dropped courses, including any course a transfer student has
+   dropped at another institution of higher education, unless the student shows good cause for dropping more
+   than that number.”
+                                                         6

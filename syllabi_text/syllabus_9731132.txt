@@ -1,0 +1,659 @@
+                                             Experimental Storytelling
+                                              (06190 | 06320 | 06640)
+                                                       Fall 2019
+Class Meets: Tuesdays | 12:30 – 3:30 | BMC 4.208 classroom AND CMA 6.154 lab
+  Instructor: Prof. Erin Reilly                                Office: BMC 4.368
+  Email: ebreilly@utexas.edu                                   Office hours: 1-2 pm Mon (BMC 4.368)
+  Phone: 207-251-1617                                          AND 4-5 pm Thurs (CMA 6.154)
+                                                               OR by appointment
+  TA: Jeongmin Ham                                             Office: BMC 4th floor
+  Email: jham112@utexas.edu                                    Office hours: By appointment
+  Undergraduate Learning Assistant: Joshua                     Office: CMA 6.154
+  Ramirez                                                      Lab hours: Monday 2:30-5:30 PM
+  Email: joshramirez@utexas.edu                                Tuesday 4:00-6:00 PM
+                                                               Wednesday 6:00-9:00 PM
+                                                               Thursday 10:00 AM-12:00PM
+This course is part of the Undergraduate Learning Assistant (ULA) program this semester. Your ULA, Joshua
+Ramirez, was selected because he has expertise that can help you be successful in the course. Think of your ULA as
+an approachable, near-peer mentor whose purpose is to help you learn during and outside of class. Joshua will
+often be the first person you contact if you have questions about demo / lab assignments. I encourage you to take
+advantage of his Lab hours.
+ULAs do not grade any assignments and cannot answer questions about your grades. For questions about grades,
+please contact TA, Jeongmin Ham or Professor Erin Reilly.
+                                            Course Description
+As the media landscape becomes populated with more and more screens—from television and computer screens
+to mobile displays, but also virtual reality headsets, other wearable devices, and a rapidly growing Internet of
+Things—we have quite literally a whole world of possibilities for creating experimental storytelling experiences.
+These technologies offer unique potential for creating new and different kinds of experiences, including ones that
+respond with increasing precision to people’s behavior and input. So how might these screens (and the ecosystem
+within which they function) change the stories we share, but also how we share them? What might be the next
+step beyond the screen?
+This course aims to introduce students to experimental storytelling that explores our senses, the physical and
+virtual world to create an immersive story experience. Using design thinking and human computer interaction,
+students will ideate, synthesize concepts, create user scenarios based on the story’s audience and develop a POC
+(proof of concept) for feedback and entry into becoming new creators.
+Course Learning Outcomes
+     ● Expose students to new affordances of emerging media.
+     ● Introduce students to different models of storytelling
+     ● Encourage students to test out multiple forms of storytelling through their mobile device and computer.
+                                                             1
+
+
+What will I learn?
+Main skills and attitudes to be developed:
+    • Positive attitude
+    • Team collaboration
+    • Thinking skills (develop observation skills, divergent thinking and identifying patterns)
+    • Self-management
+Learning Outcomes
+    1. Expose students to the future of the media & entertainment industry
+    2. Introduce students to different ways to enter a story
+    3. Understand how to leverage the affordances of media
+    4. Construct experimental stories that explore game mechanics, location-based stories and public
+         interactives
+    5. Learn how to activate fans through unique content strategies
+How will I learn?
+    • Writing Assignments                                           •    Group Activities
+    • Guest Lectures                                                •    Real World Client Projects
+    • Demos
+Pre-requisites for the course: N/A
+How to succeed in this course:
+My role is to be a “guide on the side”… to help you acquire the skills needed to succeed as a Creative Director /
+Experience Designer / Project Manager / Engagement Strategist.
+Your role is to show up, be present, have a willingness to learn, do good work and accept constructive feedback
+from myself and your peers.
+                      Overall, let’s have some fun …we’re talking about our passions after all!
+                                                            2
+
+
+                                          Course Requirements
+Recommended Texts
+     •    Jane McGonigal, Reality is Broken (New York: The Penguin Press, 2011)
+     •    Matt Madden, 99 Ways to Tell a Story (London: Penguin Books, Ltd, 2005)
+     •    Don Norman, Design of Every Day Things (New York: Basic Books, 2013)
+I may periodically post additional required readings to the class website at Canvas. These readings will be short
+articles in mainstream publications, such as newspapers and magazines, that help shed contemporary light on issues
+discussed in this course.
+Required Device
+Mobile SMART phone, Computer and ability to record, edit and publish photos and videos.
+Course Schedule: A Weekly Breakdown
+       Week            Topics/Daily Activities             Readings, Viewings &             Deliverable/ Due Dates
+                                                                Homework
+     1 – 8/29    Introduction                       @48Moods Weekly Themes:
+                  • Review Syllabus                   • THEME 1: #Who Am I?
+                  • Discuss Projects                  • THEME 2: #Diversity
+                  • Course Expectations
+                  • Visit Demo Lab                  Readings:
+                                                      • Review and Be Inspired by
+                                                         99 Ways to Tell a Story
+                 @48Moods Project
+                  • Activity: PLAY Code Names       Sandbox Demo/Analysis!
+                     / Images Game                  @CMA 6.154
+                  • Discuss Innovation Hard           • Sign up to use the lab
+                     Skill: Association               • Choose 1 of the Demos
+                                                         from Lab Demos google doc
+                 Activity: Team Building                 watch it / play with it.
+                 Exercise                             • Offer analysis (minimum
+                                                         500 words)
+      2 – 9/5    Guests (Skype):                    Themes:                             @48Moods DEADLINES
+                 Juliana and Ariel                    • THEME 3: #Mystery               always due by Date at 12 PM:
+                 Escape Room in a Box Creators        • THEME 4: #Wonder                  • THEME 1: #Who Am I? –
+                                                                                             9/1
+                 Lecture: What is Storytelling?     Class Project 1:                      • THEME 2: #Diversity – 9/3
+                                                       • There are 3 different Escape     • Peer Comments – 9/5
+                 Activity: TXI – New Recruit             Room in a Box games in the
+                 Story Kit”                              Lab. Get together with your
+                 Break into TEAMS!                       peers and play. Be prepared    Sandbox Demo/Analysis Due!
+                  • Project Lead(s)                      to discuss and use some of
+                  • Story Writer / Copy                  the insights next week.
+                  • Story Challenges /                 • Finish drafting STORY Plan
+                        Interaction
+
+
+          •      Story Physical Build        • Optional: Connect with your
+          •      Story Media Assets            peers and go play an Escape
+          •      Account Planner / Project     Room (avg $35) (see
+                 Release                       https://theescapegame.com
+                                               /austin/) Happy to go with
+         Create Storyline! – Class will        you if my schedule permits.
+         fill out the following google
+         doc.                              Readings:
+                                             • You’ve Conquered the
+                                               Escape Room. But Can You
+                                               Escape the Lab? New York
+                                               Times, 2019.
+                                           Sandbox Recommendation!
+                                           @CMA 6.154
+                                             • Based on themes from
+                                               Week 1 and 2 of class, make
+                                               a recommendation of a new
+                                               demo and post it on the
+                                               Student Demo
+                                               Recommendation tab on
+                                               this google sheet.
+3 – 9/12 Lecture: Affordances,             Themes:                             @48Moods DEADLINES
+         Constraints & Conventions           • THEME 5: #Object                always due by Date at 12 PM:
+          • Character, Location, Objects,    • THEME 6: #Place                   • THEME 3: #Mystery – 9/8
+              Time & Data                                                        • THEME 4: #Wonder – 9/10
+          • Review various media and       Sandbox Demo/Analysis!                • Peer Comments – 9/12
+              compare                      @CMA 6.154
+                                             • Sign up to use the lab
+         Activity: TXI – New Recruit         • Choose 1 of the Demos           Sandbox Recommendation
+         Story Kit” – Enter the Story…         from Lab Demos google doc       Due!
+         Turn it into Action                   watch it / play with it.
+          • Understand puzzles, riddles      • Offer analysis (minimum
+              and more                         500 words)
+          • Design ways to enter story
+          • Build Shopping List!
+4 – 9/19 12:30 – 1:45 PM                   Themes:                             @48Moods DEADLINES
+         Class will begin at BMC 2.106       • THEME 7: #Sound                 always due by Date at 12 PM:
+         Keynote: Troy Ruhanen on            • THEME 8: #Character               • THEME 5: #Object – 9/15
+         "Disruption: Leading Positive                                           • THEME 6: #Place – 9/17
+         Change" followed by a panel.      Sandbox Recommendation!               • Peer Comments – 9/19
+                                           @CMA 6.154
+         2PM to End of Class                 • Based on themes from            Meet as a Team – Go
+         Lecture: Defining & Designing         Week 3 and 4 of class, make     shopping!
+         Character                             a recommendation of a new       Buy materials to use in Week 5
+          • Understand character types,        demo and post it on the         and 6 to complete Project #1:
+              alignment and class              Student Demo                    TXI – New Recruit Story Kit
+          • Inanimate objects as               Recommendation tab on
+              Character                        this google sheet.              Sandbox Demo/Analysis Due!
+          • Use of Improve
+                                                                          Syllabus for COURSE-ID, Page 4 of 4
+
+
+5 – 9/26 Class Work on Project #1: TXI   Themes:                             @48Moods DEADLINES
+         – New Recruit Story Kit”          • THEME 9: #Reaction              always due by Date at 12 PM:
+          • Teams work to build their      • THEME 10: #Connection             • THEME 7: #Sound – 9/22
+            part of the experience.                                            • THEME 8: #Character –
+                                         REQUIRED: Sign up to see                9/24
+                                         Immersive Experience, War             • Peer Comments – 9/26
+                                         Remains (Roughly 12 minutes so
+                                         expect ½ hour of time. Cost is      Sandbox Recommendation
+                                         $37.10, like purchasing a           Due!
+                                         required text)
+6 – 10/3 Guest Lecture: MWM (Creators    Themes:                             Must have seen War Remains
+         of War Remains)                   • THEME 11: #Memory               by 10/3
+                                           • THEME 12: #Touch
+                                                                             @48Moods DEADLINES
+         Class Work on Project #1: TXI   Sandbox Demo/Analysis!              always due by Date at 12 PM:
+         – New Recruit Story Kit”        @CMA 6.154                            • THEME 9: #Reaction –
+         Teams work to build their part    • Sign up to use the lab              9/29
+         of the experience.                • Choose 1 of the Demos             • THEME 10: #Connection –
+                                             from Lab Demos google doc           10/1
+                                             watch it / play with it.          • Peer Comments – 10/3
+                                           • Offer analysis (minimum
+                                             500 words)
+   7–    Introduce Final Project         Themes:                             Project #1: TXI – New Recruit
+ 10/10    • Client (UT Campus              • THEME 13: #Agency               Story Kit DUE!
+             Admissions) Presents Client   • THEME 14: #Behavior
+             Brief                                                           @48Moods DEADLINES
+          • Choice of Location-based     Sandbox Recommendation!             always due by Date at 12 PM:
+             Story or Public Interactive @CMA 6.154                            • THEME 11: #Memory –
+                                           • Based on themes from                10/6
+         Activity: Who’s Your Audience?      Week 3 and 4 of class, make       • THEME 12: #Touch – 10/8
+         (Understand requirements /          a recommendation of a new         • Peer Comments – 10/10
+         Create user personas)               demo and post it on the
+                                             Student Demo
+          Review rest of semester plans!     Recommendation tab on           Sandbox Demo/Analysis Due!
+          • Grad Students Meet to            this google sheet.
+            discuss @48Moods Curation
+            (proposed book idea due
+            10/31)
+   8–    Voter Registration Visit        Themes:                             @48Moods DEADLINES
+ 10/17                                     • THEME 15: #Nostalgia            always due by Date at 12 PM:
+         Lecture: New Screen is No         • THEME 16: #Emotion                • THEME 13: #Agency –
+         Screen At All                                                           10/13
+          • REVIEW Guest Experience                                            • THEME 14: #Behavior –
+             Treatment (This will        Work on Individual Guest                10/15
+             determine which project     Experience Treatment                  • Peer Comments – 10/17
+             moves forward into team
+             development)                                                    Sandbox Recommendation
+                                                                             Due!
+                                                                        Syllabus for COURSE-ID, Page 5 of 4
+
+
+      Activity: Autonomous Vehicles
+      & Storytelling
+      (Help to understand the
+      affordances of media)
+  9–  Guest Lecture:                     Themes:                             @48Moods DEADLINES
+10/24 Adam Tate                            • THEME 17: #Best_of_Me           always due by Date at 12 PM:
+      Gensler Digital Design               • THEME 18: #TheEnd                 • THEME 15: #Nostalgia –
+      Experience Team                                                            10/20
+       • Sizzle reel of Gensler Projects                                       • THEME 16: #Emotion –
+         at https://vimeo.com/24196      Reading: The Two Worlds of a            10/22
+         1941 PW=gensler.                Soviet Spy. Commentary, 2017.         • Peer Comments – 10/24
+      Activity: What’s your story?       Work on Individual Guest
+      (central spine of your story,      Experience Treatment
+      characters, plot, conflict – Draw
+      sketches, wireframes,
+      storyboards… lay out your idea)
+      Final Project Check-In
+       • Review Beautiful Corner and
+         Vertical Slice
+ 10 – GUEST Lecture:                     Homework:                           @48Moods DEADLINES
+10/31 Alisa Katz, Senior Producer        Social Media Experiment -           always due by Date at 12 PM:
+      Cortina Productions                @48moods | CURATION                   • THEME 17: #Best_of_Me –
+                                           • Curate your best 3 posts            10/27
+                                             and put them in order (1-5,       • THEME 18: #TheEnd –
+      Activity: Play Test Finished           1 being the best)                   10/29
+      Project #1 w Guests                  • Curate the overall best 5         • Peer Comments – 10/31
+       • Discuss – what worked?              posts from the class and
+         What didn’t? How could we           put them in order (1-5, 1
+         have been done better?              being the best)                 Guest Experience Treatment
+                                           • Identify your favorite          DUE!
+                                             #theme
+      Guest Experience Quick Pitch!        • Write 250 words or less on      Grad Students: Proposed
+                                             your thoughts / feelings        @48moods book project
+                                             towards @48moods
+                                             collective storytelling
+                                             project
+                                         Guest Experience Treatment
+                                           • Review 1 minute videos.
+                                             Vote on the top 3 to 5 you
+                                             want to work on.
+                                           • Note: Team Leaders will be
+                                             the chosen Guest
+                                             Experiences
+ 11 – Lecture: Storyboarding and         Grad Students: Edit @48moods        Social Media Experiment -
+11/7  Mapping Interaction                book!                               @48moods | CURATION due
+                                                                        Syllabus for COURSE-ID, Page 6 of 4
+
+
+                                               Production                           Money to purchase
+         Activity: Storyboard and Map           • User Interface Design             @48Moods DUE!
+         the Narrative “work” of your           • Media Production
+         project include audience                                                   Guest Experiences Chosen /
+         interactions and consequences                                              Teams Selected
+ 12 –    Hack Lab: Review Possible             Production
+11/14    Technology To Use                      • Media Production (Create all
+          • The day will look like a Hack         your assets! -- video,
+            Lab environment for each              animation, SFX, tangible
+            team to review and discuss            items)
+            tool of choice, get                 • Design interaction
+            comfortable – will this work
+            for your experience?               Grad Students: Edit @48moods
+                                               book!
+ 13 –    Production                            Post-Production                      Grad Students: @48moods
+11/21     • Media Production                    • Edit project!                     book sent to Printer!
+ 14 –    Production                            Post-Production                      @48Moods Book For Sale!
+11/28     • Edit and Compile                    • Finalize Project and Publish!
+ 15 –    Final Project Showcase                                                     Final Project: 3 Minute Video
+12/5     (Open to Public to view and vote                                           Pitch DUE!
+         / Showcase your project)
+                                                                                    All Teams Showcase Final
+                                                                                    Projects DUE!
+    Assignments
+       1.   Social Media Experiment - @48moods | 20%
+            In numerology the number 48 resonates with creative expression, so nothing better than having
+            Experimental Storytelling be a culmination of creative expression made through a collective story
+            together. Stories are complex, yet simple; participatory, yet controlled; and unequivocally are
+            visceral, can trigger behavior and over time are reflective of our individual agency, our shared
+            moment in time and the culture that we live in. The syllabus has 2 themes per week with specific
+            days (Sunday and Tuesday) scheduled to post and your reflection on your peers due by day of class
+            (Thursday). Using 99 Ways to Tell a Story as inspiration, your goal with each assignment is to
+            compose an original photo and haiku that best represents your personal take on the theme
+            proposed, then post it to @48moods on Instagram.
+            Haiku is a traditional form of Japanese poetry. Haiku poems consist of 3 lines. The first and last
+            lines of a Haiku have 5 syllables and the middle line has 7 syllables. The lines rarely rhyme. Many
+            people consider Haikus as unfinished poems, a poem that the reader finishes in his or her mind.
+            Often keeping a journal is encouraged in creative classes, a place to write down ideas, draw
+            images, and jot down potential projects. In a digital-first world, my choice for using @48moods as
+            a form of journaling is for you to learn to get a nugget of a story idea down quickly, to practice
+            being creative “in public” – giving way to better understanding how to pitch an idea in its simplest
+            form and have a chance for public to react immediately.
+                                                                               Syllabus for COURSE-ID, Page 7 of 4
+
+
+   Over the course of the semester, sharing and commenting on each other’s work… the posts that
+   evoke a visceral, behavioral or reflective moment for you individually is encouraged. You can
+   critique anyone in the class. However, please do not critique the same person each week. We will
+   be checking to make sure you’re critiquing different people each week. However, if you love a
+   peer’s work, by all means …comment, heart it as often as you want. Be ready to share your
+   comments on your own work as well as your peers… students will randomly be called on each class
+   to reflect on @48moods. For examples, see @erinbreilly.
+   ** NOTE: Grad Students are required to do an extra project to complete their grade for this
+   project. Starting Week 7, Grad Students will work together to propose an experimental book
+   curating the collective story into a sellable product. Week 10, Grad Students will have all material
+   in hand to curate and edit completing it by Week 13 to go to the printers and be ready to sell to
+   peers and guests during Week 15 showcase. **
+2. TXI – New Recruit Story Kit” | 15%
+   The first 6 weeks of class will train you how to work in teams and develop an idea from story
+   concept to completion. The entire class will be broken into unique teams that build on your core
+   expertise to hone in on skills you are best at contributing within a team project. The class will work
+   on the same concept together to complete the final product. Our goal is to develop a unique
+   interactive story experience that is the “Acceptance Letter” to welcome the first cohort of 48
+   students into the new specialization, Texas Immersive. (You’re a wizard, Harry)
+   So, what is Texas Immersive?
+        Interactive, intimate, experiential …the top three words that describe “Immersive” today.
+        From Disney putting guests at the center of their own Star Wars world to Meow Wolf’s mantra
+        of subverting reality… never before has there been more attention fixated on media that
+        surrounds and envelopes its audiences, allowing them fully embodied experiences. Immersive
+        connects multiple disciplines from theater to themed attractions to museums, retail, and
+        public spaces. Each experience created has a strong ability to affect the audience on a deep
+        level of engagement, and often use a variety of mixed media blending physical and digital
+        interactions that connect the senses.
+        This convergence of disciplines will form the foundation of Texas Immersive.
+        Texas Immersive is an interdisciplinary specialization focused on four key areas: Audience –
+        Story – Technology – Innovation. Developing these competencies will foster deep emotional
+        connections, create lasting impact and prepare our students to take on real-world challenges.
+        Overall, students will learn to become Experience Designers… those who understand how to
+        target and build stronger relationships with audiences; tell stories and drive meaningful
+        interactions in a connected environment; and create strong franchises using audience-centric
+        activation models.
+   Overall, this initial project will teach you how to design a captivating story and use game
+   mechanics and different forms of engagement to help the “new recruits” push the story forward.
+   Teams will shop for supplies, design all the assets and build out the story challenges. We will play
+   test the 1st prototype and iterate if need be to ready it for mass production (after all 48 UT
+   students will receive this in December).
+3. Sandbox Demos/Analysis! @CMA 6.154 | 15%
+   The best way to understand the future of storytelling is to experience it; to immerse yourself.
+   Though I encourage you to make use of the Experience Lab as often as you can (See ULA Lab Hours
+                                                                      Syllabus for COURSE-ID, Page 8 of 4
+
+
+   above), you are required to visit it 3x throughout the semester on the specific dates noted in the
+   schedule above.
+   Your grade will be a combination of your 3 visits. You will need to Sign up to use the lab ahead of
+   time noting which demo you plan to review by choosing from Lab Demos google doc. You are
+   required to watch it / play with it and then offer an analysis (minimum 500 words) of the
+   experience.
+   The analysis should incorporate at least two ideas or concepts from Professor Reilly’s lectures or
+   Guest Lectures. It’s also encouraged to incorporate relevant material from other classes and
+   outside experience, in addition to the readings assigned or the books recommended in this course.
+   Keep in mind, this is a scholarly research analysis. Though a certain informality in tone is
+   permissible, even desirable, student writing should be well-written, coherently organized, and
+   thought-provoking. Your analysis should make the students want to demo this experience.
+   Rather than writing into the void each week, students have been placed in groups (See google
+   doc). Students are required to have a conversation with two of their group peers each time. A
+   conversation is dialogue so author and respondent should discuss, reply to each other. I’m not
+   looking for “That’s cool.” Or “I really like what you wrote.” But rather reflect together and discuss
+   the core concepts coming out of the class in relation to the analysis.
+4. Final Project: Real-World Client Project
+   Choice of Location-Based Story or Public Interactive Experience | 30%
+   We communicate to connect with other human beings. We communicate to express our feelings
+   or to share a story. We communicate to create a better world. Throughout our existence, humans
+   have developed new ways to communicate from grunts and groans to language to the printing
+   press and the internet. Every day students and faculty at UT are discovering new ways to
+   communicate, new ways to make the human experience better.
+   Our first real-world client is the new Campus Admissions Visitor Center (Still securing but pretty
+   sure). They’re looking to us to create location-based story experiences or an immersive interactive
+   and compelling experience that not only showcases the people and work being done at UT but
+   gives visitors a chance to interact with these stories and be inspired to join the UT community.
+   Each student will submit an Individual Guest Experience (5% of Grade). These will be pitched via a
+   1 minute video. The top ones will pitch to the client each)Student teams (team of 4 students
+   each) will work as an experience design team to create a guest experience, pitch it to the client and
+   develop a prototype in the form of a location-based story application or a visitor center interactive
+   story zone. Teams will develop story experiences that offer both a lean-back and lean-in
+   experiences. They will develop across multiple mediums ensuring that the team has thoughtfully
+   considered the audience and how they learn about it, the actual immersive experience and what
+   participants receive or leave with to carry the idea forward. Teams will use Discord as means to
+   collaborate on production and show works in progress, teams will ideate, conduct market
+   research, design look and feel, create assets, build proof of concept and pitch the guest experience
+   to the client. With feedback, the team will develop a working prototype with a video showcase (up
+   to 3 minutes) to share with the public Week 15.
+5. Sandbox Recommendation! @CMA 6.154 | 10%
+   Based on weekly themes in class, make a recommendation of a new demo and post it on the
+   Student Demo Recommendation tab on this google sheet. The goal of to involve you in active
+   processes of learning beyond the classroom and understand the wider community participating in
+   experimental stories. You need to select an individual platform or experience and identify it’s
+   unique affordances.
+                                                                      Syllabus for COURSE-ID, Page 9 of 4
+
+
+     6.   Attendance (Activities / Discussions) | 10%
+          Weekly activities and discussions in the classroom as well as on canvas will be graded with a pass
+          or fail. This means, you participated and completed the work – pass; you didn’t -- fail. I expect you
+          to “Lean In” to this course. It’s not a course you can sit back and just pass.
+          This grade is for informal activities and discussions during class. They are some of the most
+          valuable and interactive aspects of our course and offers us an opportunity to share diverse
+          insights, reflect and collaborate on the course concepts. This is an outlet for exploratory learning
+          and expressing ideas and perspectives beyond the projects.
+          In discussions, you should avoid merely a compliment (e.g. "Interesting post...") or support (e.g. "I
+          agree with you...") of another student's work. You will not be given credit for activity or discussions
+          that do not meaningfully contribute to or expand the conversation, as determined by the
+          instructor’s assessment.
+Grades
+ The following table represents how you will demonstrate your learning and how we will assess the degree
+ to which you have done so.
+ Assignments                                            Points possible                Percent of Total Grade
+  1. Social Media Experiment - @48moods                       400 (undergrad)                      20
+        Grad Students will curate / edit book             400+100 for 500 (grad)
+  2. TXI – New Recruit Story Kit” Class                          100 - Story                       15
+        Project                                               100 - Challenges
+                                                                 100 - Build
+                                                             100 – Completion
+                                                                 400 TOTAL
+  3. Sandbox Demos / Analysis! @CMA 6.154                            300                           15
+  4. Final Project (Chosen Guest Experience or            100 – Guest Experience                    5
+     Grad students must lead teams)                       100 – Completed Final
+                                                             +25 Team leader                       25
+                                                             200 (225) TOTAL
+  5. Sandbox Recommendations! @CMA 6.154                             60                            10
+  6. In-Class Activities / Discussions (Attend                       15                            10
+     Required War Remains)
+  7. Extra Credit –Attend Imagine Moody MeetUp                        2                           Extra
+     (2nd Wednesday of every month | 6-8PM |
+     @CMA 6.154)
+  8. Submit to D3 Pitch Competition and Attend                        2                           Extra
+     Event October 27 (12-6 PM)
+                                                                   1375+                          100%
+Each student should keep track of his/her own grades. There are a total of 975+ points possible in this
+course, and grades will be based on the following:
+     •    Social Media Experiment - @48moods for 18 individual posts and curation / reflection worth 20
+          points (similar to a 5 star rating) each for a total of 400 points. Grad students will receive a grade
+          for curating and editing the book (100 points)
+     •    TXI – New Recruit Story Kit Class Project – 4 Steps to completion each 100 points for a total of 400
+          points.
+                                                                             Syllabus for COURSE-ID, Page 10 of 4
+
+
+     •    Three Sandbox Demos/Analysis worth 100 points each for a total of 300.
+     •    Three Sandbox Recommendations worth 20 points each for a total of 60.
+     •    Final Projects are worth 100 points for the Individual Guest Experiences and 100 points for Team
+          participation in the final prototype. Leaders of each team will be reviewed on an additional 25
+          points.
+     •    Participation in class and online is 1 point each week for a total of 15.
+Classroom Expectations
+ Class attendance
+ We meet only once a week. Attendance is required at all class, presentation, client and team meetings. We
+ may also have a significant number of meetings that are off site and 1 outside the scheduled class time.
+ There will be no excused absences. Failure to attend any of these meetings will affect your grade and
+ could reduce your final grade by as much as two letter grades. Attendance means showing up to the class
+ or meeting on time. Habitual lateness will affect your grade.
+ Class participation
+ Teamwork: This course is primarily structured around teamwork. You will self-assign yourself to a pair and
+ a group, and the bulk of your work in the course will be carried out and evaluated based on these teams.
+ Teams will consist of varying personalities, skills and interests and you must find a way to manage these
+ differences. The ability to cooperate, to communicate and to work effectively is essential to creating
+ successful strategies and creative briefs, both in this class and in the real world. Once students have been
+ assigned to teams, I will not adjust the membership of these teams. Although I don’t anticipate any
+ problems, if issues do arise I expect you to resolve them yourselves, just as you would in a real-world job
+ situation.
+ Deadlines: This class simulates the real world, and in the real world, deadlines are non-negotiable. All
+ assignments must be handed in on time. Late assignments or projects will not be accepted and you will not
+ earn any points (i.e. you will receive a grade of 0) for that assignment. The usual litany of excuses (I slept
+ through my alarm, I missed the bus, I have a cold, my grandmother died) won’t work. In the real world,
+ failure to meet a deadline could result in you losing your job. Now is the time to practice time
+ management and adherence to deadlines.
+ Time management: This course is very demanding on your time. Your teammates in this class will judge
+ you on how much, and the quality of, work you contribute to your class project. Do not lose track of what
+ is most important.
+ Communication: The primary way I will communicate with you outside of class is through canvas. You are
+ responsible for making sure you get any messages from me and you are responsible for the content of
+ those announcements. I may notify you via canvas about a change in meeting times or assignment
+ deadlines. Failure to check your canvas does not excuse you from meeting the responsibilities outlined in
+ the message. At a minimum, you should check your canvas once every day.
+ Plagiarism: Everything you produce in this class must be your original work. If you have help from anyone
+ outside this class it will be considered a breach of UT’s policy on Scholastic Integrity and will be dealt with
+ accordingly.
+                                                                           Syllabus for COURSE-ID, Page 11 of 4
+
+
+                                                Policies
+ Classroom Policies
+ Statement on Learning Success
+ Your success in this class is important to me. We will all need accommodations because we all learn
+ differently. If there are aspects of this course that prevent you from learning or exclude you, please let me
+ know as soon as possible. Together we’ll develop strategies to meet both your needs and the
+ requirements of the course. I also encourage you to reach out to the student resources available through
+ UT. Many are listed on this syllabus, but I am happy to connect you with a person or Center if you would
+ like.
+ Grading Policies
+ Weekly meetings and participation – LAB time:
+ LAB time will consist of you meeting in your groups, trying out the demos or out in the field workshopping
+ the different methods or projects assigned. Your attendance, attitude, contribution and participation in
+ these meetings and in the field will be assessed and will contribute to your final grade.
+ Attendance and Professionalism
+ Attendance at all classes and meetings is required. It is also assumed that students will be active
+ participants in class. Simply being present in the room is not sufficient; you must also be engaged and
+ involved scholars. Participation – not just attendance – is integral to a successful, enjoyable class and to
+ you earning a high grade. Active participation means contributing to the discussion, listening to what your
+ colleagues have to say and engaging with the readings and in-class activities. It means showing up on time,
+ not checking Facebook or email on your computer, not texting on your phone. NOTE that if you do not
+ participate in class discussions, you will not earn full points for attendance even if you come to every class.
+ Peer Evaluations
+ You will be asked to provide an assessment of your and your teammates' contributions to the
+ Final project. They will be taken into account in final assignment of grades.
+ Grading System:
+ This class will be graded using the plus/minus grading system, as outlined by the university’s provost office
+ (http://www.utexas.edu/provost/planning/plus-minus/). Advertising and PR majors are required to have a
+ minimum grade of C in all communication courses and in all required and elective courses in order to
+ continue in the program.
+NOTES on Grading:
+     • Late work is not accepted.
+     • I will NOT be rounding up percentage grades or points. So if you earn an 89.6% that translates into
+         a B+ and will not be rounded up to 90% (an A-).
+     • Any questions or comments about a grade must be presented in writing within seven (7) days after
+         the grade is announced or posted.
+     • When I grade your work, you start with zero points. You earn points based on the quality of the
+         work and the accuracy, appropriateness and detail of your answers. You do not start with 100
+         points and then lose them based on mistakes you make. Your final points represent the total
+         points earned for that assignment, not the number of points “taken away” for errors or omissions.
+                                                                           Syllabus for COURSE-ID, Page 12 of 4
+
+
+Absences
+ The only absences that will be considered excused are for religious holidays or extenuating
+ circumstances due to an emergency. You will be given attendance/participation credit for any session that
+ you miss that is documented to the teaching team in writing by a medical doctor’s statement, or an official
+ statement from a UT faculty member about an ensemble or other organization’s off-campus commitment.
+ NO OTHER ABSENCES WILL BE EXCUSED.
+                                    Student Rights & Responsibilities
+     •   You have a right to a learning environment that supports mental and physical wellness.
+     •   You have a right to respect.
+     •   You have a right to be assessed and graded fairly.
+     •   You have a right to freedom of opinion and expression.
+     •   You have a right to privacy and confidentiality.
+     •   You have a right to meaningful and equal participation, to self-organize groups to improve your
+         learning environment.
+     •   You have a right to learn in an environment that is welcoming to all people. No student shall be
+         isolated, excluded or diminished in any way.
+With these rights come responsibilities:
+     • You are responsible for taking care of yourself, managing your time, and communicating with the
+         teaching team and with others if things start to feel out of control or overwhelming.
+     • You are responsible for acting in a way that is worthy of respect and always respectful of others. •
+         Your experience with this course is directly related to the quality of the energy that you bring to it,
+         and your energy shapes the quality of your peers’ experiences.
+     • You are responsible for creating an inclusive environment and for speaking up when someone is
+         excluded.
+     • You are responsible for holding yourself accountable to these standards, holding each other to
+         these standards, and holding the teaching team accountable as well.
+Personal Pronoun Preference
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing
+with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and
+nationalities. Class rosters are provided to the instructor with the student’s legal name. I will gladly honor
+your request to address you by a name different than what appears on the roster, and by the gender
+pronouns you use. Please advise me of this preference early in the semester so that I may make appropriate
+changes to my records.
+                                              University Policies
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a
+student of The University of Texas at Austin, I shall abide by the core values of the University
+and uphold academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use
+words or ideas that are not your own (or that you have used in previous class), you must cite your
+sources. Otherwise you will be guilty of plagiarism and subject to academic disciplinary action,
+including failure of the course. You are responsible for understanding UT’s Academic Honesty and
+the      University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+                                                                            Syllabus for COURSE-ID, Page 13 of 4
+
+
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+deadline, which typically occurs near the middle of the semester. Under Texas law, you are only allowed
+six Q drops while you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please let me
+know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements
+of the course. There are also a range of resources on campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical information
+that you need to share with me, or if you need specific arrangements in case the building needs to be
+evacuated, please let me know. I am committed to creating an effective learning environment for all
+students, but I can only do so if you discuss your needs with me as early as possible. I promise to maintain
+the confidentiality of these discussions. If appropriate, also contact Services for Students with Disabilities,
+512-471-6259 (voice) or 1-866-329- 3986 (video phone). http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope
+with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources
+available on campus and an important part of the college experience is learning how to ask for help. Asking
+for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or
+depression, we strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center each
+year to improve their academic performance? All students are welcome to take advantage of Sanger
+Center’s classes and workshops, private learning specialist appointments, peer academic coaching, and
+tutoring for more than 70 courses in 15 different subject areas. For more information, please
+visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+                                       Important Safety Information:
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t
+feel right – it probably isn’t. Trust your instincts and share your concerns.
+Title IX Reporting
+                                                                          Syllabus for COURSE-ID, Page 14 of 4
+
+
+Title IX is a federal law that protects against sex and gender-based discrimination, sexual harassment,
+sexual assault, sexual misconduct, dating/domestic violence and stalking at federally funded educational
+institutions. UT Austin is committed to fostering a learning and working environment free from
+discrimination in all its forms. When sexual misconduct occurs in our community, the university can:
+      1. Intervene to prevent harmful behavior from continuing or escalating.
+      2. Provide support and remedies to students and employees who have experienced harm or have
+           become involved in a Title IX investigation.
+      3. Investigate and discipline violations of the university’s relevant policies.
+Faculty members and certain staff members are considered “Responsible Employees” or “Mandatory
+Reporters,” which means that they are required to report violations of Title IX to the Title IX Coordinator. I
+am a Responsible Employee and must report any Title IX related incidents that are disclosed in writing,
+discussion, or one-on-one. Before talking with me, or with any faculty or staff member about a Title IX
+related incident, be sure to ask whether they are a responsible employee. If you want to speak with
+someone for support or remedies without making an official report to the university, email
+advocate@austin.utexas.edu For more information about reporting options and resources, visit
+titleix.utexas.edu or contact the Title IX Office at titleix@austin.utexas.edu.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety
+and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside.
+      •    Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember
+           that the nearest exit door may not be the one you used when entering the building.
+      •    Students requiring assistance in evacuation shall inform their instructor in writing during the first
+           week of class.
+      •    In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter
+           a building unless given instructions by the following: Austin Fire Department, The University of
+           Texas at Austin Police Department, or Fire Prevention Services office.
+      •    Link to information regarding emergency evacuation routes and emergency procedures can be
+           found at: www.utexas.edu/emergency
+                                                                            Syllabus for COURSE-ID, Page 15 of 4

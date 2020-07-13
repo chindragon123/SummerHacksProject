@@ -1,0 +1,236 @@
+                                               Animation and Rigging
+                                                         AET 328
+                                                           20639
+                                          re-animator animatronic remix.
+                                                       Spring 2019
+                                                        DFA 4.126
+                                               TTH 2:00 PM- 3:30 PM
+Instructor:                  Dax Norman
+                             daxnorman@utexas.edu
+                             daxnorman.com
+Office Hours:                Mondays and Tuesdays : 11am-1215 pm in the Foundry,
+                             or by appointment
+I. Rationale:
+This course teaches the observation and implementation of believable character movement through a series of
+iterative projects that focus on the classic principles of animation, applied to 3D digital characters.
+II. Course Aims and Objectives:
+Aims
+This course explores 3-D character rigging and animation using joints, forward and inverse kinematics, multiple
+character animation approaches, facial animation, bipedal character rigging and animation, and exploration into 3 -D
+production environments, such as rendered video for film, games, the web, and VR.
+Specific Learning Objectives:
+By the end of this course, students will:
+          •    Understand the similarities and differences between producing animation for a 3-D game versus film
+          •    Understand the situations to use forward kinematic (FK) vs inverse kinematic (IK) rigging approaches
+          •    Create 3D character animations which apply the classic 12 animation principles
+          •    Be fluent in the process of character setup, implementing specifics to a model’s design needs
+          •    Explore animated blend shaping approaches to deform digital models
+          •    Apply 3-D character animation for use in both rendered video as well as real time
+               environments
+          •    Successfully collaborate on a state of the art 3-D production
+III. Format and Procedures:
+This course will meet twice a week. During the first meeting, there will be a lecture that will include demonstration
+along with discussion. During the second meeting of the week, there will be group learning project with discussion.
+The in-class projects will review and practice the material covered from the week’s first cla ss meeting. Active
+participation in weekly in-class group projects will be a major component of the professionalism and participation
+component of student grades for the course that will comprise 20% of the final grade.
+                                                              11
+
+
+IV. Tentative Course Schedule: **This syllabus represents my current plans and objectives. As we go
+through the semester, those plans may need to change to enhance the class learning opportunity. Such changes,
+communicated clearly, are not unusual and should be expected.
+    Date                    Main Topic(s)                         Work to do at home               Evaluation
+                                                                to be completed before class
+ Jan 22,24     Course Introduction. Basic FK/ IK            Setup blog for class project
+               rigging and animation review.                process. Download Maya (if
+                                                            applicable)
+                                                            Begin Abstract rig and
+                                                            animation project.
+ Jan 29,31     Animation principles, continued.             Finish rig and animation for
+               Lighting and rendering basics.               Abstract Project.
+   Feb 5, 7    Creating a beat list, setting up             Begin Animation on “Shot #1”        Abstract Rig and
+               shots for animating narrative.                                                   Animation due
+               First Pass animation process.
+ Feb 12, 14    Second pass animation process, the           Refine animation and render        Shot #1 First Pass
+               graph editor/ animation cleanup.             shot #1.                           Due
+ Feb 19, 21    Creating Blend Shapes                        Create blend shapes/ facial       Shot #1 Render Due
+                                                            animation setup on character
+ Feb 26,28     Facial Animation/ lip sync basics.           Create facial animation (shot       Blend Shapes, first
+               Reaction Shots. Animation takes.             #2) First Pass.                     pass
+    March 5,   Working with audio and animation. Lip        Facial Animation (shot #2)        Shot #2 First pass
+    March 7    Sync, continued.                             Second Pass. Render
+                                                            animation.
+    March      Character Rigging, continued                 Begin Character Rig                 Shot #2 Render
+    12,14                                                                                       Due
+March 19,21 Spring Break                                  Spring Break                        Spring Break
+    March      Character Rigging, Continued                 Finish Character Rig
+    26,28
+ April 2,4     Animation Principles, Continued              Begin Shot #3 (first Pass)          Character Rig
+                                                                                                Due
+April 9,11     Compositing and editing                      Shot #3, Second Pass animation
+               animation.                                   and rendering.
+April 16,18    Discuss Final Project.                       Begin final project               Shot #3 Render Due
+               Film Language.
+April 23, 25   Animation and Virtual Reality                Work on Final Project               .
+ April 30,     Designing in Time                            Finish final Project
+ May 02
+                                                         22
+
+
+  May 7, Final Project Presentations/    Finish final projects, be prepared Final Projects Due
+  May 9  Course Wrap-up                  to present and discuss work with
+                                         class
+Date TBA Digital Demo Day                Final Project Presentations        During Finals
+                                                                            Week
+                                      22
+
+
+Feedback Statement (to encourage students to respond to your requests for their feedback)
+During this course I will be asking you to give me feedback on your learning in informal as well as formal ways,
+including through anonymous surveys about how my teaching strategies are helping or hindering your learning. It’s
+very important for me to know your reaction to what we’re doing in class, so I encourage you to respond to these
+surveys, ensuring that together we can create an environment effective for teaching and learning.
+V. My Assumptions
+It is my belief that with hard work and a little bit of patience, anyone can be good at 3-D animation. The learning
+curve is slower for some than others, but do not be discouraged and you will get to where you want to be. With the
+projects we create in this course, I advise students to make something that they can get really excited about. Think
+about making short-term goals for your progress, and try to learn a new skill each day. The 3-D animation process is
+very iterative, in that projects build upon one another, and many steps are repeated ad infinitum. With a firm plan in
+place, it will be easy to create a road map for success.
+VI. Course Requirements:
+          1. Class attendance and participation policy:
+                    (a) Expected classroom behavior: take notes, ask many questions, and attend class for the entire
+                         duration. Make a solid effort on each project outside of class, so that you may have many
+                         questions to contribute to the discussion.
+                    (b) Cell phone use, including texting, is unallowable. Keep cell phones stored during the duration
+                         of class
+                    Religious Holy Days
+                    By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to
+                    the date of observance of a religious holy day. If you must miss a class, an examination, a work
+                    assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+                    complete the missed work within a reasonable time after the absence.
+          2. Course Readings/Materials:
+                    (a) Recommended Textbooks: Introducing Autodesk Maya 2016: Autodesk Official Press, by
+                    Dariush Derakhshani. 1st Edition. ISBN: 9781119059639
+                    (b) The Animator’s Survival Kit, by Richard Williams. ISBN: 978-0571238347
+                    (b) Supplies needed: Laptop computer capable of running Autodesk Maya and Adobe After Effects
+                    (c) Other supplies: Jump Drive for external storage and data backup. A mouse for your laptop, as
+                    the 3D software will be much slower to use without one.
+                    (d) To download free student version of Maya:
+                    http://www.autodesk.com/education/free-software/maya
+                    (e) URL for course website: http://goingforwardbackwards.tumblr.com
+          3. Assignments, Assessment, and Evaluation
+                     (a) Finished Assignments should be posted to canvas in the requested format before 9:00 AM on
+                            the Due Date
+                     (b) Late assignments will lose 10 points for the first day late, 20 points if 2 days late, 40 points
+                            off if 3 days late, and so on, with point subtraction doubling for each day of lateness
+                     (c) Preliminary information on papers or projects, with due dates, shall be posted to canvas on
+                            the date of assignment
+                                                               33
+
+
+                  (d) List of assignments that will impact the final grade
+                  Project 1: Abstract Rig and Animation (10%)
+                  Project 2: Animation (Shot #1) (10%)
+                  Project 3: Blend Shape/ Facial Animation Setup (10%)
+                  Project 4: Animation (Shot #2) (10%)
+                  Project 5: Character Rig (10%)
+                  Project 6: Animation (Shot #3) (10%)
+                  Project 7: Final Project (20%)
+                  Attendance, Professionalism and Participation (20%) MISSING M ORE THAN 3 CLASSES will
+                                                                        result in an AUTOMATIC ZERO for this grade.
+                   (e) This course will consist of seven projects. Other than the final project, the distribution of
+                  weight towards the final grade is even, with each project worth 10% of the final grade. Each of
+                  these projects in of itself represents one aspect of the 3-d animation production pipeline and
+                  builds upon the last, culminating in a finished multimedia work.
+                  (f) Any changes in the syllabus, such as project due dates, will be announced in class as well a s
+                  on canvas.
+           4. Use of Canvas in class
+                In this class I use Canvas—a Web-based course management system with password-protected
+                access at http://canvas.utexas.edu —to distribute course materials, to communicate and collaborate
+                online, to post grades, and to submit assignments. You can find support in using Canvas at the ITS
+                Help Desk at 475-9400, Monday through Friday, 8 a.m. to 6 p.m., so plan accordingly.
+   VII. Grading Procedures: Grades will be based on:
+                    Abstract Rig and Animation (10%)
+                   Animation (Shot #1)           (10%)
+                  Blend Shape/ Facial Animation Setup (10%)
+                    Animation (Shot #2) (10%)
+                    Character Rig          (10%)
+                  Animation (Shot #3) (10%)
+                    Final Project        (20%)
+                  Professionalism and Participation (20%):-→ MISSING MORE THAN 3 CLASSES will
+                                                                 result in an AUTOMATIC ZERO for this grade.
+   Letter Grade        Percentage
+A                      93%-100%
+A-                     90%-92%
+B+                     87%-89%
+B                      83%-86%
+                                                             44
+
+
+B-                         80%-82%
+C+                         77%-79%
+C                          73%-76%
+C-                         70%-72%
+D+                         67%-69%
+D                          60%-66%
+F                          0%-59%
+   IX. Academic Integrity
+   University of Texas Honor Code
+   The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+   opportunity, and responsibility. Each member of the university is expected to uphold these values through integrity,
+   honesty, trust, fairness, and respect toward peers and community.
+   X. Other University Notices and Policies
+    Use of E-mail for Official Correspondence to Students
+       • All students should become familiar with the University's official e-mail student notification policy. It is the
+            student's responsibility to keep the University informed as to changes in his or her e -mail address. Students
+            are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+            communications, recognizing that certain communications may be time -critical. It is recommended that e-
+            mail be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions
+                                                               44
+
+
+          for updating your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564 .
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact Services for
+Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not
+required to provide accommodations without an official accommodation letter from SSD. (Note to Faculty: Details
+of a student’s disability are confidential. Faculty should not ask questions related to a student’s condition or
+diagnosis when receiving an official accommodation letter.)
+     ▪▪   Please notify me as quickly as possible if the material being presented in class is not accessible (e.g.,
+          instructional videos need captioning, course packets are not readable for proper alternative text conversion,
+          etc.).
+     ▪▪   Please notify me as early in the semester as possible if disability-related accommodations for field trips are
+          required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+          transportation, site accessibility, etc.).
+     ▪▪   Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+          reference SSD’s website for more disability-related information:
+          http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Behavior Concerns Advice Line (BCAL)
+ If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to
+ discuss by phone your concerns about another individual’s behavior. This service is provided through a part nership
+ among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee
+ Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512 -232-5050 or visit
+ http://www.utexas.edu/safety/bcal.
+Q drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As
+stated in Senate Bill 1231:
+          “Beginning with the fall 2007 academic term, an institution of higher education may not permit an
+   undergraduate student a total of more than six dropped courses, including any course a transfer student has
+   dropped at another institution of higher education, unless the student shows good cause for dropping more than
+   that number.”
+Emergency Evacuation Policy
+ Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm
+ is activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+          ▪▪ Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest
+               exit door may not be the one you used when you entered the building.
+          ▪▪ If you require assistance to evacuate, inform me in writing during the first week of class.
+          ▪▪ In the event of an evacuation, follow my instructions or those of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police
+Department, or the Fire Prevention Services office.
+                                                     ❖❖ ❖❖     ❖❖    ❖❖
+                                                            55
+
+
+66

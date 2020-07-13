@@ -1,0 +1,197 @@
+                                 Research Methods for Practitioners
+                                            Summer 2019
+                                               Syllabus
+Instructor.     Dr. Mike Parent
+Email.          Michael.Parent@austin.utexas.edu
+Office Hours. Tuesday, 11am-1pm
+                Exceptions: No office hours June 11; held on June 13, 11-1 instead.
+                                No office hours June 25; Dr. Parent away that week
+TA.
+Email.
+Office Hours.
+Course Overview
+Welcome to Research Methods for Practitioners!
+The purpose of this course is to familiarize yourself with research methods relevant to mental
+health practitioners and other consumers of research.
+This course will be taught online-only. We will not meet in person. Materials will be uploaded o
+of before stated deadlines. All assignments are to be complete and submitted on canvas; do not
+send assignments via email.
+Relevant CACREP and APA Standards. For those in the class who intend to pursue licensed
+professional counselor degrees, this course is designed to meet the standards of CACREP and
+APA guidelines for masters programs, for coverage of research methods. Those standards are:
+CACREP:
+8. RESEARCH AND PROGRAM EVALUATION
+    1. the importance of research in advancing the counseling profession, including how to
+        critique research to inform counseling practice
+    2. identification of evidence-based counseling practices
+    3. needs assessments/program evaluation
+    4. development of outcome measures for counseling programs
+    5. evaluation of counseling interventions and programs
+    6. qualitative, quantitative, and mixed research methods
+    7. designs used in research and program evaluation
+    8. statistical methods used in conducting research and program evaluation
+    9. analysis and use of data in counseling
+    10. ethical and culturally relevant strategies for conducting, interpreting, and reporting the
+        results of research and/or program evaluation
+APA:
+Scientific Mindedness. By being scientifically minded, students apply appropriate techniques to
+identify and answer research questions and to make informed decisions as knowledgeable
+consumers of the research literature. The skills involved in achieving this goal enable the student
+
+
+to evaluate literature sources with informed critical thinking; integrate various concepts,
+principles, and theories to formulate plausible explanations for behavior; solve problems in a
+variety of settings; and carry out their roles in science and practice with appropriate attention to
+cultural diversity and intersecting identities. These skills are essential for master’s-level
+graduates whether they become practitioners or scientists. Scientifically minded graduates can
+make an impact on society by ensuring that they solve problems and employ interventions with
+the knowledge that their strategies have been tested with scientific rigor.
+OUTCOMES                            INDICATORS
+2.1 Demonstrate                     • Identify researchable questions at appropriate level of
+psychological literacy                 complexity
+                                    • Access/navigate relevant databases to gather pertinent peer-
+                                       reviewed data
+                                    • Evaluate quality of sources using critical thinking
+2.2 Formulate plausible             • Integrate an appropriate range of psychology concepts to
+psychological explanations             explain behavior
+for behavioral phenomena            • Identify and rule out alternative explanations.
+                                    • Recognize and defend against biases (e.g., personal, cultural,
+                                       cognitive) that might distort conclusions
+2.3 Engage in innovative and        • Apply specialized expertise to solve problems in applied
+integrative applications to            research, consulting, and/or innovating
+solve problems                      • Make decisions informed by convergence of evidence in
+                                       literature
+2.4 Incorporate sociocultural       • Employ research and professional interventions that take into
+factors in scientific inquiry          account individual and cultural diversity and its complexity.
+                                    • Design interventions for specific age groups and target
+                                       populations, considering intersecting identities
+Course Modules
+    1. Using library systems to obtain primary research.
+    2. Quantitative methods
+            a. Statistical methods
+                      i. Correlation. Review of the basis of correlational designs and correlational
+                         statistics (e.g., Pearson’s r, Spearman’s r).
+                     ii. Regression. Review of regression-based univariate statistics (e.g.,
+                         hierarchical regression, mediation, moderation). Introduction to structural
+                         equation modeling.
+                    iii. Analysis of variance. Review of group-based univariate designs (e.g., t-
+                         tests, ANOVA, ANCOVA).
+            b. Cross-sectional/correlational design
+                      i. Research. Review of cross-sectional research designs. Review of strengths
+                         and limitations of this approach. Review of recruitment of marginalized
+                         populations.
+                     ii. Program evaluation. Review of needs assessment and program evaluation.
+                         Review of data sources and assessments. Review of incorporation of
+                         community knowledge into the assessment.
+
+
+            c. Experimental and quasi-experimental design
+                     i. Research. Review of basic experimental research.
+                    ii. Program evaluation. Application of experimental designs to program
+                         evaluation.
+            d. Longitudinal design
+                     i. Research. Introduction to basic longitudinal designs.
+                    ii. Program evaluation. Needs assessment and program evaluation over time.
+    3.  Qualitative methods
+            a. Methods of qualitative inquiry
+                     i. Grounded theory. Review of the use of GT, particularly in outcome
+                         research and program evaluation.
+                    ii. Consensual qualitative research. Review of the use of CQR, particularly in
+                         outcome research and program evaluation.
+    4.  Mixed methods. Review of the utility of mixed methods approaches to outcome research
+        and program evaluation.
+    5.  Research on counseling
+            a. Assessing outcomes in counseling. Review of symptom indexes and other
+                measures of outcomes.
+            b. Randomized clinical trial research. Review of ideal RCTs, and how RCTs can be
+                impacted by practical considerations.
+            c. Evaluation of outcome research. Review of assessing outcome research.
+    6.  Reporting research. Review of summarizing outcome and program evaluation research
+        for non-professionals.
+    7.  Critiquing research. Critical evaluation of outcome research.
+Pedagogical approaches.
+The course will be delivered in an online format. Modules will be arranged such that they are
+released in sequence with the course as the summer semester progresses (e.g., only the first
+module will be released in week 1).
+Modules will include video and audio-recorded lectures for every topic. Lectures will include
+practical examples from published research and examples of studies from the relevant topic
+areas. Every module will include multiple quizzes on the topic material.
+Every module will also include individual work. Individual work will reflect individual
+identification and interpretation of relevant research material. For example, in the correlational
+design unit a student may find a manuscript that describes research linking an aspect of
+personality to attitudes toward therapy, and would have to correctly describe the basic
+correlational findings of that study using the material covered in class. Every student will
+identify a different article set for this task, of interest to their topic area, to prevent inappropriate
+collaboration. All deadlines will be posted in canvas.
+Course Schedule
+June 6      Thurs      Lecture: Course intro and syllabus review.
+                       Lecture: Using library systems to obtain primary research.
+
+
+              Assessment: Study collection and annotated bibliography development.
+              Due June 10.
+June 11 Tues  Lecture: Basics and Definitions
+              Lecture: Correlation.
+              Lecture: Regression.
+              Assessment: Basics self-test. Due June 14.
+              Assessment: Correlation self-test. Due June 14.
+              Assignment: Correlation calculation. Due June 14.
+              Assessment: Regression self-test. Due June 14.
+              Assessment: Retrieval and summary of regression-based study. Due
+              June 14.
+June 13 Thurs Lecture: Analysis of variance and t-tests.
+              Lecture: Moderation.
+              Lecture: Mediation.
+              Assessment: Analysis of variance self-test. Due June 14.
+              Assessment: Moderation self-test. Due June 14.
+              Assessment: Mediation self-test. Due June 14.
+              Assessment: Retrieval and summary of group difference-based study.
+              Due June 14.
+June 18 Tues  Lecture: Cross-sectional designs.
+              Lecture: Longitudinal designs.
+              Lecture: Experimental designs.
+              Assessment: Correlational design self-test. Due June 21.
+              Assessment. Longitudinal design self-test. Due June 21.
+              Assessment: Experimental design self-test. Due June 21.
+June 20 Thurs Lecture: Program Evaluation.
+              Lecture. Recruitment of marginalized populations.
+              Assessment: Recruitment of marginalized populations study retrieval and
+              summary. Due June 21.
+              Assessment: Program evaluation self-test. Due June 21.
+June 25 Tues  Lecture: Qualitative designs.
+              Lecture: Consensual qualitative research.
+              Assessment: Qualitative designs self-test. Due June 28.
+              Assessment: Qualitative study retrieval and summary. Due June 28.
+              Assessment: CQR study retrieval and summary. Due June 28.
+June 27 Thurs Lecture: Mixed methods designs.
+              Assessment: Mixed method self-test. Due June 28.
+              Assessment: Mixed methods study retrieval and summary. Due June 28.
+July 2  Tues  Lecture: Assessing outcomes in counseling.
+              Lecture: Symptom indices and measures of change.
+              Assessment: Assessing outcomes self-test. Due July 6.
+              Assessment: Symptom indices and measures of change self-test. Due
+              July 6.
+              Assessment: Assessing outcomes study retrieval and summary. Due July
+              6.
+July 3  Wed   Lecture: Randomized clinical trials.
+
+
+                      Assessment: RCT self-test. Due July 5.
+                      Assessment: RCT study retrieval and summary. Due July 5.
+July 9      Tues      Lecture: Meta-analyses.
+                      Assessment: Meta-analyses self-test. Due July 12.
+                      Assessment: Meta-analyses study retrieval and summary. Due July 12.
+July 11     Thurs     Lecture: Critiquing outcome research.
+                      Assessment: Outcome study retrieval and critique. Due July 12.
+Assessments are due by 1:00pm of the day listed in the course schedule. Late assignments are
+accepted only with an approved medical excuse.
+Grading
+Item                                  Number        Points         Total
+Study retrievals assignments          11            100            1100
+Self-tests                            17            50             850
+Total Course pts                      1950
+A       1755 and up
+B       1580-1754
+C       1420-1579
+D       1280-1419
+F       1279 and below

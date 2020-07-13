@@ -1,0 +1,240 @@
+note: any part of this syllabus or the course structure itself, including how grades are tabulated
+or awarded may change at any time
+COURSE DESCRIPTION
+Animation, Visual Effects, Digital Painting and CGI are used to produce digital content in a
+variety of formats including film, traditional and 3D animation, motion graphics and GUI, real
+time rendering and video games. Through hands-on ​CREATIVE ASSIGNMENTS​, you will learn
+the ​TOOLS ​and ​TECHNIQUES​ of Digital Media Production. You will apply these techniques to
+complete a variety of tasks in a ​PIPELINE​ of digital production from preproduction through
+performance and capture to designing, compositing, rendering simulating and building. You are
+given a wide array of projects to choose from, and YOU define your identity as a digital media
+producer. Are you a specialist or a generalist? Are you a CGI simulations expert or a traditional
+character animator? Are you a concept artist or an augmented reality designer? Perhaps you
+are something we have never seen before.
+Choose your own adventure...
+INSTRUCTORS
+I am​ ​Ben Bays (Links to an external site.)​. I am from Austin. I graduated from The
+University of Texas. I have worked as an animator, visual effects artist, video game
+artist and many other things.
+    ●   Contact Ben Bays
+    ● Office Hours
+I am assisted by Graduate Level MFA and MA students from RTF - Radio Television
+and Film.
+
+
+You should reach out to them through the Canvas Inbox.
+Sara Pinar Onder (Links to an external site.)​ has been the TA for this course for several
+semesters. Sara has has technical understanding and exceptional insight in digital
+media production.
+     ●   Contact Sara Pinar Onder
+ (Links to an external site.)
+ONLINE CLASS FORMAT
+This course is Asynchronous, Self-Paced and Non-Linear.
+If you look at the​ ​ASSIGNMENTS​ section of this course (​It is very helpful to sort the
+Assignments in a particular way.​), you will see a collection of​ ​CREATIVE ASSIGNMENTS
+CREATIVE ASSIGNMENTS
+     ●   Each CREATIVE ASSIGNMENT is worth 6 points. Details in Rubrics.
+     ●   You may complete the CREATIVE ASSIGNMENTS ​in any order you wish​, though I do
+         ask that you complete the ​DMP Entrance Exam​ before you begin (and yes, this Exam
+         does count as one of your CREATIVE ASSIGNMENTS).
+     ●   You may submit (and resubmit) a CREATIVE ASSIGNMENT ​as many times as you
+         wish​ until ​you​ are satisfied with your grade. Made a mistake? Fix it and resubmit--no
+         penalty.
+     ●   You may complete the CREATIVE ASSIGNMENTS ​at your own pace. ​There is only
+         one ​required​ deadline in this course: ​AUGUST 14th, 11:59 pm​. After this date/time, I
+         will ​not​ accept submissions (or revisions).
+UNITS
+
+
+As you can see there are ​UNITS​ with CREATIVE ASSIGNMENTS in them.
+    1. SOFTWARE UNIT
+    2. PIPELINE UNIT
+    3. SPECIALIZATION UNIT
+Complete 5 CREATIVE ASSIGNMENTS from ​each​ of those 3 UNITS.
+15 CREATIVE ASSIGNMENTS x 6 POINTS EACH = 90 POINTS
+You cannot submit more than 15 CREATIVE ASSIGNMENTS for credit.
+X-FACTOR
+The​ X-FACTOR UNIT​ is a set of assignments or challenges which give you points for speed,
+exceptional work, attending special events or completing other miscellaneous challenges.
+Judicious use of the X-FACTOR UNIT can cause you finish the course with a perfect score
+early!
+COMMUNICATION
+Much of our communication will happen through CANVAS.
+    ●  If you have a question or comment about a ​particular​​CREATIVE ASSIGNMENT​, please
+       communicate in the ​comment​ section of ​that​ assignment.
+            ○ examples:
+                   ■ "Is it okay to use Adobe Illustrator for this particular assignment?"
+                   ■ "The layer mask isn't visible in my After Effects project"
+                   ■ "Ben you spelled 'egregious' wrong and the Rubric shows an old version
+                      of this assignment"
+            ○ rationale : I can download your previous submissions, edit the assignment itself,
+               know which course you are even enrolled in.
+            ○ Responses to SUBMISSION COMMENTS can take up to one week.
+    ●  Questions about more ​general issues​should be made via email to me (or the TAs)
+       through the ​Canvas Inbox System​.
+            ○ example:
+
+
+                     ■   "When are your office hours?"
+                     ■   " Could you look at my Resume and Portfolio and tell me what you think?"
+                         (yes we can)
+                     ■ "Ben I see a mistake in how you are tabulating points AND you left an
+                         announcement from Fall 2017 up on the home page."
+            ○   Responses via the CANVAS INBOX can take up to one week
+I am available for ​synchronized video meetings​ on the​ ​CANVAS CALENDAR​.
+It is something like office hours, something like an impromptu class on any subject you like,
+something like an atelier, something like me available.
+HARDWARE and SOFTWARE
+Some of the assignments require a ​camera​, even a smartphone or webcam.
+Some assignments can be completed with apps on a ​smartphone​ or a ​tablet​.
+Some of the assignments will require a ​computer​. Either your own, or one on a cloud.
+There are no minimum or maximum specifications for this computer, and you may use MAC or
+PC or even LINUX operating systems.
+That said ​some​software (like the Adobe Creative Suite or the UNREAL engine) has minimum
+specifications or may only work on certain systems.
+In the details of each CREATIVE ASSIGNMENT, there is a section called SOFTWARE. This
+section details the primary software used and alternate software (if any exists).
+
+
+The PRIMARY SOFTWARE used for this course is
+    ●   ADOBE CREATIVE SUITE (Links to an external site.)​ : Photoshop, Animate and After
+        Effects
+            ○ MAC and PC
+            ○ Adobe offers student pricing.
+            ○ They also offer a 7 day free trial.
+    ●   AUTODESK MAYA (Links to an external site.)
+            ○ (Links to an external site.)​MAC and PC
+            ○ Maya is free
+                     ■ Create an account using your official UT email (name@mail.utexas.edu
+                     ■ download Maya
+*Summer 2020: Adobe has extended an offer for free use of the Adobe Creative Suite to you on
+your personal computer until July 6th, 2020. The email address you provided to the University,
+the one attached to your name in UT direct, is your account login. Instructions to install Adobe
+Creative Suite here:
+https://wikis.utexas.edu/display/comm/Adobe+-+Faculty+-+Student+User+Covid+-+19+license
+(Links to an external site.)
+After July 6, you must purchase the software, or have advanced to a point in the course where it
+is no longer required. This course has been designed to mitigate this disruption, but thinking
+long-term, you may want to consider the investment for the entire academic year if your area of
+study is in digital media production.
+GRADES
+GRADES are posted on the​ ​Canvas Gradebook​ throughout the semester.
+You begin the course with ZERO POINTS for all​ ​ASSIGNMENTS
+
+
+ASSIGNMENTS are evaluated when you submit them.
+RUBRICS define the grading parameters of each assignment and assign POINTS.
+POINTS = Percentage POINTS
+LETTER GRADES are submitted to the registrar at the end of the semester according to the
+following table.
+ Grade             Range:
+ A                 100 or more points                 to 95.0%
+ A-                < 95.0 %                           to 90.0%
+ B+                < 90.0 %                           to 85.0%
+ B                 < 85.0 %                           to 80.0%
+ B-                < 80.0 %                           to 75.0%
+ C+                < 75.0 %                           to 70.0%
+ C                 < 70.0 %                           to 65.0%
+ C-                < 65.0 %                           to 60.0%
+ D+                < 60.0 %                           to 55.0%
+ D                 < 55.0 %                           to 50.0%
+ D-                < 50.0 %                           to 45.0%
+ F                 < 45.0 %                           to 0.0%
+On Campus Media Labs
+* summer 2020: media labs on campus are currently closed
+
+
+UT Austin has several media labs you can use.
+The following labs have the required software for this course.
+Media Labs for all majors:
+Moody College Media Labs
+    ●   CMA 4.142 DML Lab
+    ●   CMA 4.138 DML Lab
+    ●   CMB 4.144
+    ●   CMB 4.120
+Fair Use
+You may use your own photos, videos, audio etc for any of the assignments. I welcome
+it.
+
+
+You may ​ALSO​ use any images, videos, audio from other sources including the
+internet. You are not limited to public domain or creative commons licensed footage.
+You may use anything provided you transform it.
+Ask yourself this question:
+ I​ s the use you want to make of another's work transformative -- that is, does it
+add value to and repurpose the work for a new audience -- and is the amount of
+material you want to use appropriate to achieve your transformative purpose?
+If you simply turn in someone else's video, it is ​not​ transformative (and is also
+plagiarism). But if you download a video and rotoscope or animate over it, it ​IS
+transformative. Every assignment in this course requires that you add something.
+Fair Use can seem complex, but in the context of this course, it is pretty clear: you CAN use
+other people work in your own provided you transform it.
+More on Fair Use Here. (Links to an external site.)
+RTF Safety Policy
+Special safety precautions for your crew, actors and others in the area are required if you are
+undertaking any hazardous activities while filming, including but not limited to ANY driving or
+horseback/livestock shots, shooting in or around water or heights, or if you are using stunts,
+flames, pyrotechnics, squibs or simulated weapons. Please note that unlicensed handguns and
+other real weapons are never permitted in RTF studios or on location shoots. In addition, you
+must follow all federal, state and local laws and the rules of any venue or location at which you
+are filming regarding hazardous activities, including University of Texas at Austin rules if filming
+is done on campus.
+Student filmmakers must submit a detailed safety plan to their course instructor and the RTF
+Technical Facilities Manager if a script or project involves driving or horseback/livestock shots,
+shooting in or around water or heights, stunts, flames, pyrotechnics, squibs, weapons or any
+other hazardous activities (this requirement applies to all shoots, including documentary
+projects, but please see the special guidelines for documentary driving shots below). It is the
+responsibility of the student to hire experts in the field and budget at least $600/day for expert
+consultation and on-set supervision if, in the judgment of the class instructor and the Technical
+
+
+Facilities Manager, such expert consultation or supervision is necessary. In addition, any
+utilization of pyrotechnics on the University of Texas at Austin campus requires prior review and
+approval through the Fire Prevention Services office by the University Fire Marshal or their
+designee.
+Students should understand that driving while filming will be permitted only in strictly limited
+circumstances, such as on a private road or drive. In most circumstances, students who wish to
+undertake driving shots will be required to arrange for a police escort and a city permit.
+Monitors inside the vehicle will NOT be allowed while filming in a vehicle. Filming from the back
+of trucks is not considered safe and is not permitted under any circumstances.
+Documentary filming of an interview while the interview subject is driving is only permitted if the
+cameraperson is secured in a seat belt and is not directing the driver of the car in any way,
+besides engaging in a conversation in which the driver/interviewee has been informed not to
+look at the camera or the interviewer at all during the interview. In addition, any filming from a
+vehicle, for drive-by B-roll, must be done by a cameraperson secured in a seat belt, where the
+driver is not being directed in any way by the director, so that they are driving as they normally
+would. As noted above, any documentary student planning on filming in any vehicle must
+submit a safety plan to their course instructor and the RTF Technical Facilities Manager.
+Students who fail to comply with this policy will receive a failing grade in this class and will be
+barred from future access to RTF production and post-production equipment and facilities
+If Police, Fire, or EMS are called to your shoot, or any injuries on your shoot require
+medical attention, this must be reported to your instructor and the Assistant Director of
+Production Services, (Keefe Boerner Keefe.Boerner@austin.utexas.edu), within 24 hours
+of the incident. There is a form in checkout and on the RTF website that must be filled out
+and returned within three business days.
+Policy on Academic Integrity
+Students who violate University rules on academic dishonesty are subject to disciplinary
+penalties, including the possibility of failure in the course and/or dismissal from the University.
+Since such dishonesty harms the individual, all students, and the integrity of the University,
+policies on academic dishonesty will be strictly enforced. For further information, please visit the
+
+
+Student Conduct and Academic Integrity website at:​ ​http://deanofstudents.utexas.edu/conduct
+(Links to an external site.)​.
+Counseling and Mental Health Services
+Taking care of your general well-being is an important step in being a successful student. If
+stress, test anxiety, racing thoughts, feeling unmotivated or anything else is getting in your way,
+there are options available for support.
+For immediate support:
+-     Visit/Call the Counseling and Mental Health Center (CMHC): M-F 8-5p | SSB, 5th floor
+| 512-471- 3515 |​cmhc.utexas.edu
+-     CMHC Crisis Line: 24/7 | 512.471.2255 |​ ​cmhc.utexas.edu/24hourcounseling.html
+CARE Counselor in the Moody College of Communication is: Abby Simpson, LCSW
+- |CMA 4.134 | 512-471- 7642 (Please leave a message if she is unavailable)
+FREE Services at CMHC:
+-     Brief assessments and referral services
+
+
+- Mental health &amp; wellness articles -​ ​cmhc.utexas.edu/commonconcerns.html
+- MindBody Lab -​ ​cmhc.utexas.edu/mindbodylab.html
+- Classes, workshops, &amp; groups -​ ​cmhc.utexas.edu/groups.html

@@ -1,0 +1,225 @@
+General Microbiology Laboratory
+Summer 2019
+BION226L Syllabus
+Instructor: Eric D. Cambronne, Ph.D.
+               eric.cambronne@austin.utexas.edu
+               Office hours: Monday 10:00-11:00 AM /1:30 – 2:30 PM - NMS1.124 or by appointment
+Lecture: Mon 12:00 - 1:30 PM Ernest Cockrell Jr. Hall (ECJ) 1.308
+Laboratory: Biomedical Engineering Building (BME)
+Section                                              Graduate Teaching Assistants
+ 85045 Tue PM 12-3          2.106               Shahima Islam        shahima@utexas.edu
+          Thu PM 12-3       2.106
+ 85050 Tue PM 12-3          2.204               Zhina Shen           zns@utexas.edu
+          Thu PM 12-3       2.204
+         (Office hours for Graduate TA’s to be determined by individual instructor)
+Undergraduate Teaching Assistants
+                                  Tammy Nguyen
+                                  Michelle Hoang
+After hours laboratory access
+                                                   1
+
+
+Week Begins:              Laboratory (Tue/Wed/Thu)                  Lecture (Mon)
+      June 6 Jun 6 – Thu:      Introduction to the Lab
+ 1                             Check-in
+     June 10 June 11 – Tue:    Project I:                          June 10: Lecture 1
+                               Streaking out for isolated colonies
+ 2                             and sampling of soil for bacteria
+             June 13 – Thu:    Project VI:
+                               Mutagenesis of W3110 with UV
+     June 17 June 18 – Tue:    Project II:                         June 17: Lecture 2
+                               Initialize characterization of an
+                               isolated soil organism
+ 3           June 20 – Thu:    Project VII:
+             Quiz 1            Growth curve and Induction of β-
+                               galactosidase
+     June 24 June 25 – Tue:    Project III:                        June 24: Lecture 3
+                               Characterization of soil organism
+ 4                             (continued)
+             June 27 – Thu:    Project VIII:
+                               Assay for β-galactosidase
+      July 1  July 2 – Tue:    Project IV:        DATA SET 2 DUE    July 1: Lecture 4
+             Quiz 2            Characterization of 16S rRNA;
+                               Quorum sensing; Streptomyces;
+ 5                             Biofilm Set-up
+              July 4 – Thu:    No Laboratory Sessions
+      July 8  July 9 – Tue:    Project V:                           July 8: Lecture 5
+                               Agarose gel electrophoresis of PCR
+                               product; DNA sequencing; Biofilms
+ 6           July 11 – Thu:    Project IX:
+                               Bacteriophage induction and
+                               enumeration
+     July 15 July 16 – Tue:    Project X:         DATA SET 1 DUE   July 15: Lecture 6
+             Quiz 3            Conjugation and transduction
+ 7
+             July 18 – Thu:    No Laboratory Sessions
+     July 22 July 23 – Tue:    Project XI:                         July 22: Lecture 7
+                               Isolation of plasmid DNA
+                               and digestion with restriction
+                               enzyme SspI
+ 8           July 25 – Thu:    Project XII:
+             Quiz 4            Characterization of plasmid DNA by
+                               gel electrophoresis; Bacterial
+                               motility and chemotaxis
+     July 29 July 30 – Tue:                       DATA SET 3 DUE        July 29:
+                                                                      Final Exam
+                                       FINAL EXAM                   Review Session
+ 9
+             Aug 2 – Fri:      Retrieval of Materials
+                               Location: NMS1.124
+                                          2
+
+
+General information:
+1. Objective: This course will provide training at the introductory level in the manipulation and
+characterization of microorganisms from the perspective of modern experimental microbiology.
+Prerequisites: Credit with a grade of at least C- or registration for BIO326M or BIO326R (or 226R).
+BIO326R is recommended.
+2. Laboratory Manual: The accompanying paperback workbook is mandatory and required for each
+student in the course. It is available for purchase at the UT COOP (beginning 06.07.19). Copies are
+reserved by unique section number so have that available with you for pick-up.
+3. Section site on UT Canvas: There are Section sites on UT Canvas reserved for use by each section.
+Important announcements, course documents, and other information for students in the course will be
+posted on Canvas. PowerPoint presentations that accompany Monday lectures will also be posted in
+the Lecture module prior to the beginning of class. Please check your section site regularly.
+    *Make sure you can access the site for your section (you must be enrolled to do so). Please
+    confirm your notification settings to make sure you receive notifications for announcements.
+    You will be responsible for loss of points resulting from failure to receive notifications.
+4. Lab Sessions: You will need to photograph many of your results during this course, including
+pictures taken through the microscope. A cell phone or digital camera will be adequate for this. These
+pictures will be needed to complete the data sets. Please also bring a fine-point, felt-tip marker and a
+USB flash drive.
+    *Always back up your data in a safe location. No considerations will be given for data lost
+    due to technical issues resulting in incomplete data sets.
+5. Attendance: Attendance at each meeting of your laboratory section is mandatory. Attendance at
+the weekly Monday lecture is required for successful execution. In addition, continuity of group effort
+from week to week and sharing results within each section are important in this course.
+    *Attending other sections on a casual basis or switching with other students is not allowed
+    and will count as an absence. Each unexcused absence in lab will result in a loss of 12
+    points from the final grade.
+Occasionally a medical/family emergency or another essential activity (interviews for jobs/admissions,
+travel for conferences, competitions) makes missing a lab, leaving the lab early, or arriving late,
+unavoidable. If you foresee an absence, send us (Eric Cambronne and your Graduate TA) an e-mail
+stating (a) your name and the unique number of your section (b) a clear description of the nature of the
+conflict with appropriate supporting documentation. You should do this as soon as you are aware of
+the conflict. Be sure to include all of this information or your absence may remain unexcused.
+    If your absence is due to a sudden, serious emergency, then contact us as soon as you know when
+    you will be able to resume your normal activities. You should plan on providing evidence of the
+    emergency, including disclosure of your situation with Student Emergency Services (512) 471-5017
+    studentemergency@austin.utexas.edu in the Office of the Dean of Students.
+In such unavoidable or unforeseeable events, you may be offered a make-up lab (typically in after
+hours), depending on the availability of material and feasibility. Please note for this consideration
+the reason for absence must be of an extraordinary nature. As a general guideline, minor illnesses,
+activities of social clubs, or exams scheduled outside of normal class time are not justifications for an
+                                                       3
+
+
+absence. If an exam in another course is scheduled during your lab period, the instructor of that course
+is required to offer you a make-up.
+6. Data sets. You will submit three (3) data sets for this course. They are worth a total of 110
+points, each question worth 2 points. Refer to the ‘Data Set Template’ on the Canvas Site before each
+lab to make sure you collect all the required data each week.
+*You must provide a hard copy of each set, which will be due at the beginning of your regular
+laboratory class time, during the weeks indicated on the calendar. When you submit a data set,
+you are certifying that all the results are original and obtained by you (alone or as part of a group). The
+use of someone else’s data without attribution is a form of plagiarism and will be referred to Student
+Judicial Services with a recommendation for failure in the course.
+     LATE DATA SETS: Sets turned in late, but on the same day they are due, will incur a 2-point penalty.
+     If the report is turned in the following day, but at or before your regular class time, there will be an
+     additional 2 pt. penalty. After that time, there will be a 2-pt. penalty for each 24-hr period the report
+     is late. It is your responsibility to arrange with the instructor a time when a late report can be turned
+     in. Reports will not be considered as submitted until a hard copy is received by the instructor.
+7. Lectures. M 12:00 – 1:30 PM ECJ 1.308. The lectures will place the experimental work you are doing
+in the lab within the broader context of current understanding and knowledge in microbiology.
+PowerPoint slides will be posted on the Lectures page of the Canvas site prior to the lecture, but these
+are not intended to substitute for your attendance at the lectures. You will be responsible for mastering
+all the material covered in the lectures, including information not shown on the visuals. If you are having
+difficulty with the lecture material, then see me (Eric Cambronne) during office hours or make an
+appointment. The lab TAs are not responsible for helping you with the lecture material.
+8. Quizzes. There will be 4 written quizzes during the semester. These quizzes will be administered
+and completed at the beginning of lab sessions indicated on the calendar. The quizzes will be 10 points
+each (total of 40 points, lowest quiz will be dropped = Net 30 points). Quizzes will be free response
+style as short Q and A format. Graded quizzes will be returned to you for your reference. The quizzes
+will draw largely from the material presented in Monday lectures. Topics covered in lecture that directly
+relate to activities in the laboratory will be prioritized. You will only be responsible for material covered
+in lectures prior to any given quiz week.
+     *There will be no make-up quizzes except in cases of documented serious illness or critical
+     family emergency. Keep in mind that your lowest quiz score is dropped from your final tally.
+9. Final exam. There will be a 65 minute practical exam (50 points) during your designated lab period.
+The exam format will cover the theory and experimental aspects of the lab. This final exam will be held
+in the lab itself. There will be stations set up for answering theory questions and performing basic lab
+procedures (taught during the course). A study guide will be provided and discussed during a review
+session of lecture. (06.29)
+Final exams may be examined and discussed during office visits (NMS 1.124) on Friday August
+2, 2019. A key will be available in my office for your perusal. If you believe a question on the exam
+was improperly graded, you can discuss this with me at that time only. After this final office hours,
+you will not have a chance to view or discuss the exam with me. Pending a final resolution, exams
+must remain with the instructor.
+                                                          4
+
+
+10. Performance in class. Performance in class is taken seriously, and students will be evaluated
+according to whether they come to class on-time and prepared, participate actively in the lab exercises,
+contribute information and results when called upon to do so and show through their performance
+increased skill and understanding. Instructors observe students carefully and draw conclusions about
+the quality of their overall participation and their contributions to the success of the class. Some of the
+questions that are considered in evaluating student performance are: (1) Is the student punctual and
+ready for class? (able to answer questions about the week’s work, has read the lab manual prior to the
+session and is not struggling to determine the day’s activities). (2) Is the student a participant or a
+passive observer over the course of the laboratory session? (3) Does the student post data on time for
+the class, and carry out the needed calculations in a timely manner? (4) Is the student courteous and
+helpful to others, able to keep the workspace clean and functional and follow laboratory rules without
+prompting? (5) For assignments that must be completed after hours, is the student involved or is a
+proxy consistently assigned to carry out the necessary tasks?
+*A total of 10 points have been assigned for ‘Performance and Participation’ in the course and
+will be evaluated by your Graduate TA or Instructor. You should feel free to discuss your
+performance at any time with your Graduate TA or Instructor.
+For certain labs you will work in pairs of two or groups of four, and others individually. Lab partners will
+be changed during the course.
+The document ‘Lab Safety Rules and Guidelines’ is available on Canvas and will also be posted in the
+laboratories. Students are responsible for adhering to the procedures outlined in this document. A
+summary of lab procedures will be given during the first week.
+11. Grading concerns. If you feel that one of the quizzes or data sets was improperly graded, you
+should address the issue with me or the Graduate TA within seven days after the report was returned,
+during normal office hours or make an appointment. After the one-week period, there will be no
+reconsideration of grades.
+12. ‘After hours’ lab work. Students will need to return to the after-hours lab (adjoining main labs)
+outside of their normal lab hours to complete work (there is a significant amount of after-hours lab work).
+This includes Monday to Friday, and either a UGTA, Graduate TA or member of the kitchen staff will
+be present to supervise the work. All ‘after hours’ work must be supervised, so you should plan to come
+in only at scheduled times. Unless specifically stated otherwise, there will be no ‘after hours’
+scheduled on weekends. To access the building during ‘after hours’, you will need a UTID proximity
+card. If you are enrolled in the course, the locks will be programmed to allow you to enter the building.
+*A schedule indicating when the lab will be open and supervised during these ‘after hours’ times
+will be posted on Canvas.
+13. Academic honesty. All students are expected to adhere to the highest standard of academic
+honesty. Principles of academic integrity at the University are outlined by the Dean of students at:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+14. Disabilities. Students with disabilities may request appropriate academic accommodations from
+the Division of Diversity and Community Engagement, Services for Students with Disabilities, 471-
+6259, http://www.utexas.edu/diversity/ddce/ssd/ If you have been granted specific accommodations
+please notify me in writing by the twelfth class day. Arrangements for extra time or a non-distracting
+                                                       5
+
+
+environment during examinations must be made well ahead of time and must coincide as much as
+possible with the regularly- scheduled exam time.
+15. Religious holidays. UT Austin policy requires that you notify me of your pending absence at least
+fourteen days prior to the date of observance of a religious holiday. If you must miss a class, an
+examination, a work assignment, or a project in order to observe a religious holiday, you will be given
+an opportunity to complete the missed work within a reasonable time after the absence.
+Grading:
+A maximum of 200 points can be earned in the course. Points will be assigned as follows…
+Data Sets:             110 points 2 points per item (55 total items in 3 Data Sets)
+Quizzes:               30 points total (4 quizzes X 10 points each – Lowest quiz score dropped)
+Final Exam:            50 points - Theory and experimental aspects.
+Performance:           10 points
+Final grades
+Final cumulative scores >/= 0.5 will be rounded up to next integer.
+(i.e., 179.8 will be rounded to 180 but 179.4 will not)
+                                 A         200 – 186       A-     <186 – 178
+   B+       <178 – 172           B       <172 – 166        B-     <166 – 160
+   C+       <160 – 154           C       <154 – 148        C-     <148 – 142
+   D+       <142 – 136           D       <136 – 130        D-     <130 – 124
+   F        <124
+                                                      6

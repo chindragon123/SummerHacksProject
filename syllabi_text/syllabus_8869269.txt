@@ -1,0 +1,278 @@
+                                           Digital Production Art 3-D
+                                                       AET 326
+                                                         20925
+                                   Designing in time for multiple dimensions.
+                                                       Fall 2018
+                                                      DFA 4.126
+                                           T TH 11:00 PM- 12:30 PM
+Instructor:                 Dax Norman
+                            daxnorman@utexas.edu
+                            daxnorman.com
+Office Hours:               Fridays 11am-12:30pm in the Foundry,
+                            or by appointment
+I. Rationale:
+This course simulates the production pipeline of a 3-D digital art studio; Manifesting creative ideas into tangible
+reality via 3D modeling, texturing, rigging, animation, lighting, rendering, and interactivity.
+II. Course Aims and Objectives:
+Aims
+This course teaches students to manifest ideas from thought to tangible reality in a digital space. This course
+consists of projects focused on the creation of animated 3-D characters and objects, to virtual game environments.
+In this semester-long exploration of 3-D digital artistry, one will be able to try on all aspects of the production
+pipeline to see which best suits them. Digital production art 3D is an action packed and fun filled sampler of the
+exciting world of creating 3D graphics and the myriad potential therein.
+Specific Learning Objectives:
+By the end of this course, students will:
+          •   Understand the similarities and differences between producing animation for a 3-D game versus film
+          •   Conceptualize characters and environments in both form and function
+          •   Create character and environment designs in the form of 3-D digital models
+          •   Comprehend the process of rigging, or character setup
+          •   Explore texture through multiple approaches to surfacing digital models
+          •   Apply 3-D character animation for use in both rendered video as well as real time game
+              environments
+          •   Evaluate the relationship between art history and its relationship to the current state of 3 -D digital art
+          •   Create a most specific creative 3D project, utilizing the entire 3D production pipeline, for bo th
+              maximum efficiency and maximum output possibilities.
+                                        Project(s) intended to prove a thorough understanding of 3D production process
+                                                                                   in order to dissolve boundaries between
+                                                                                                    games, film, art, design,
+                                                                                       to best prepare for a relevant future,
+                                                                         controlling production in the age of information.
+                                                            11
+
+
+III. Format and Procedures:
+This course will meet twice a week. During the first meeting, there will be a lecture that will include demonstration
+along with discussion. During the second meeting of the week, there will be group learning project with discussion.
+The in-class projects will review and practice the material covered from the week’s first class meeting. Active
+participation in weekly in-class group projects will be a major component of the professionalism and participation
+component of student grades for the course that will comprise 20% of the final grade.
+                                                           11
+
+
+ IV. Tentative Course Schedule: **This syllabus represents my current plans and objectives. As we go
+ through the semester, those plans may need to change to enhance the class learning opportunity. Such changes,
+ communicated clearly, are not unusual and should be expected.
+      Date                      Main Topic(s)                        Work to do at home              Evaluation
+                                                                       to be completed before
+                                                                                 class
+                 Intro to class and intro to Maya             Download autodesk Maya,
+                 interface.                                   Create sketchfab.com
+                 Discuss scope of project of class as         account.
+                 well as goals and expectations.
+                 build cube with 3d glasses and               Build 3D concept from in
+                 googly eye from observation                  class still life.
+                                                              .ma = best maya file type
+                                                              .fbx= overall best 3D file
+August 30                                                                     type for export
+                 Modeling and Texturing process:              Create card deck with texture.
+                 Creating a card deck. including using
+                 reference                                    Know difference between
+                 going to 5th floor to find art history       procedural and file textures.
+                 images for face cards
+                                                              You may use either, but know
+                                                              their strengths and weaknesses
+                                                              in reference to your personal
+                                                              art production style.
+Sept 4, 6
+                 Build and texture table. Discuss           Create and texture table.
+                 modeling concerns for animation.
+                 Project process checkpoint:                Must be created with animation
+                 checkpoint #1                              in mind.
+Sept 11, 13
+                 model and texture coat, hat and              Create textured models for coat,
+                 pants                                        hat, and pants. (w/ efficient file
+                                                              texturing, using only one map for 3
+Sept 18, 20                                                   objects)
+                 facial modeling: techniques                  This should be a deconstructed face
+                                                            (know what that means and
+Sept 25, 27                                                 Why) created as “X” for multiple loops.
+                 facial modeling (continued): texturing       UV Mapping. This should not be a
+                                                              mysterious thing at this point.
+                                                              If UV mapping is confusing at this
+Oct 2, 4                                                      point, let TA know asap.
+                 model and texture: neck tie and low          (OUTPUT!)
+                                                            Output  necktie and flowers with vase.
+                 poly flower vase
+Oct 9, 11        checkpoint #2:
+                 Modeling and texturing hands                 Model/ texture hands.
+                                                              (wristwatch optional)
+Oct 16, 18
+Oct 23, 25       Rigging using set driven keys
+                 Char. Rigging for loop combos.               Understand SDK. Create sdk.
+Oct 30, Nov 1
+                 Animation using your rigged                   Rigging / animation output.
+                 character and blend shape process          (.FBX!) understand 12 PRINCIPLES
+Nov 6, 8                                                                               of Animation.
+                                                              Create Animation. Understand
+                 Create Final animation loops.                the graph editor /how to
+                                                              exploit it for specific timing
+Nov 13, 15       Designing loops for interactivity
+                                                          22
+
+
+                                                 Create Final animation loops.
+Nov 20, 22 Thanksgiving Thursday
+           Refine animation loops.                Refine animation loops.
+           export loops for interactivity         export loops for
+                                                  interactivity
+Nov 27, 29
+           Implement all animation loops to      Implement assets for output via
+           Unity 3d                              UNITY3D.
+           Create interactive output
+           adding collision, sound, looping
+           animation and triggers in unity 3d.
+Dec 4, 6   exporting a build
+           Final Output and delivery of assets   Deliver Output via UNITY 3D,
+Dec11
+           In Class Presentation.                Maya, Sketchfab, 3d Print
+Last Class
+                                               22
+
+
+Feedback Statement (to encourage students to respond to your requests for their feedback)
+During this course I will be asking you to give me feedback on your learning in informal as well as formal ways,
+including through anonymous surveys about how my teaching strategies are helping or hindering your learning. It’s
+very important for me to know your reaction to what we’re doing in class, so I encourage you to respond to these
+surveys, ensuring that together we can create an environment effective for teaching and learning.
+V. My Assumptions
+It is my belief that with hard work and a little bit of patience, anyone can be good at 3-D digital art. The learning
+curve is slower for some than others, but do not be discouraged and you will get to where you wan t to be. With the
+projects we create in this course, I advise students to make something that they can get really excited about. Think
+about making short-term goals for your progress, and try to learn a new skill each day. The 3 -D digital art process is
+very iterative, in that projects build upon one another, and many steps are repeated ad infinitum. With a fi rm plan in
+place, it will be easy to create a road map for success.
+VI. Course Requirements:
+          1. Class attendance and participation policy:
+                    (a) Expected classroom behavior: take notes, ask many questions, and attend class for the entire
+                         duration. Make a solid effort on each project outside of class, so that you may have many
+                         questions to contribute to the discussion.
+                    (b) Cell phone use, including texting, is unallowable. Keep cell phones stored during the duration
+                         of class
+                    Religious Holy Days
+                    By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to
+                    the date of observance of a religious holy day. If you must miss a class, an examination, a work
+                    assignment, or a project in order to observe a religious holy day, I will give you an oppor tunity to
+                    complete the missed work within a reasonable time after the absence.
+          2. Course Readings/Materials:
+                    (a) Recommended Textbooks: Introducing Autodesk Maya 2018: Autodesk Official Press, by
+                         Dariush Derakhshani. 1st Edition. ISBN: 9781119059639
+                    (b) Unity in Action: MultiplatformGame Development in C#,
+                    By Joseph Hocking. ISBN: 9781617292323
+                    (c)Cartoon Animation, by Preston Blair. ISBN: 9781560100843
+                    (b) Supplies needed: Laptop computer capable of running Autodesk Maya and Unity.
+                    (c) Other supplies: Jump Drive for external storage and data backup. A mouse for your laptop, as
+                    the 3D software will be much slower to use without one.
+                    (d) To download free student version of Maya and Unity:
+                    http://www.autodesk.com/education/free-software/maya
+                    http://unity3d.com/
+                    (e) URL for course website: http://aet326.tumblr.com/
+                    (f) Sketchfab.com → create an account for your class process blog
+          3. Assignments, Assessment, and Evaluation
+                     (a) Finished Assignments should be posted to canvas in the requested format before 9:00 AM on
+                            the Due Date
+                     (b) Late assignments will be lose 10 points for the first day late, 20 points if 2 days late, 40
+                            points off if 3 days late, and so on, with point subtraction doubling for each day of lateness
+                     (c) Preliminary information on papers or projects, with due dates, shall be posted to canvas on
+                            the date of assignment
+                                                               33
+
+
+                  (d) List of assignments that will impact the final grade
+                  Based on Project deliverables: “the Parts”: (40%) everything builds together, this assesses both
+                  timeliness of delivery, as well as aesthetic quality of asset deliverables of the parts that make up
+                  the whole.
+                  Based on Project deliverables: “the Whole”: (40%) This stands to serve as a representation of
+                  how well the pieces of the project come together as a unified WHOLE. (Is the whole greater than
+                  the sum of its parts? To what extent does the completed work demonstrate knowledge of the 3D
+                  digitalart production pipeline?)
+                  Attendance, Professionalism and Participation (20%) MISSING MORE THAN 3 CLASSES will
+                                                                       result in an AUTOMATIC ZERO for this grade.
+                   (e) This course will consist of projects. Each of these projects in of itself represents at least one
+                  aspect of the 3D digital production ART pipeline, and builds upon the last, culminating in a
+                  finished multimedia work. (optimized for future output)
+                  (f) Any changes in the syllabus, such as project due dates, will be announced in class as well as
+                  on canvas.
+           4. Use of Canvas in class
+                In this class I use Canvas—a Web-based course management system with password-protected
+                access at http://canvas.utexas.edu —to distribute course materials, to communicate and collaborate
+                online, to post grades, and to submit assignments. You can find support in using Canvas at the ITS
+                Help Desk at 475-9400, Monday through Friday, 8 a.m. to 6 p.m., so plan accordingly.
+   VII. Grading Procedures: Grades will be based on:
+                  The Parts (the process):     40%
+                  The Whole (the project): 40%
+                  Attendance, Professionalism and Participation (20%):-→
+                  MISSING MORE THAN 3 CLASSES will result in an AUTOMATIC ZERO for this grade.
+   Letter Grade        Percentage
+A+                     97%+
+A                      93%-96%
+A-                     90%-92%
+B+                     87%-89%
+                                                             44
+
+
+B                          83%-86%
+B-                         80%-82%
+C+                         77%-79%
+C                          73%-76%
+C-                         70%-72%
+D+                         67%-69%
+D                          60%-66%
+F                          0%-59%
+   IX. Academic Integrity
+   University of Texas Honor Code
+   The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+   opportunity, and responsibility. Each member of the university is expected to uphold these values throug h integrity,
+   honesty, trust, fairness, and respect toward peers and community.
+   X. Other University Notices and Policies
+    Use of E-mail for Official Correspondence to Students
+       • All students should become familiar with the University's official e -mail student notification policy. It is the
+            student's responsibility to keep the University informed as to changes in his or her e -mail address. Students
+            are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+            communications, recognizing that certain communications may be time -critical. It is recommended that e-
+            mail be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions
+                                                               44
+
+
+          for updating your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564 .
+Documented Disability Statement
+Any student with a documented disability who requires academic acc ommodations should contact Services for
+Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not
+required to provide accommodations without an official accommodation letter from SSD. (Note to Faculty: Details
+of a student’s disability are confidential. Faculty should not ask questions related to a student’s condition or
+diagnosis when receiving an official accommodation letter.)
+     ▪▪   Please notify me as quickly as possible if the material being presented in class is not accessible (e.g.,
+          instructional videos need captioning, course packets are not readable for proper alternative text conversion,
+          etc.).
+     ▪▪   Please notify me as early in the semester as possible if disability-related accommodations for field trips are
+          required. Advanced notice will permit the arrangement of accommodations on the given day (e.g.,
+          transportation, site accessibility, etc.).
+     ▪▪   Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986 (video phone) or
+          reference SSD’s website for more disability-related information:
+          http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Behavior Concerns Advice Line (BCAL)
+ If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to
+ discuss by phone your concerns about another individual’s behavior. This service is provided through a partnership
+ among the Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee
+ Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call 512 -232-5050 or visit
+ http://www.utexas.edu/safety/bcal.
+Q drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6). As
+stated in Senate Bill 1231:
+          “Beginning with the fall 2007 academic term, an institution of higher education may not permit an
+   undergraduate student a total of more than six dropped courses, including any course a transfer student has
+   dropped at another institution of higher education, unless the student shows good cause for dropping more than
+   that number.”
+Emergency Evacuation Policy
+ Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm
+ is activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+          ▪▪ Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest
+               exit door may not be the one you used when you entered the building.
+          ▪▪ If you require assistance to evacuate, inform me in writing during the first week of class.
+          ▪▪ In the event of an evacuation, follow my instructions or those of class instructors.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police
+Department, or the Fire Prevention Services office.
+                                                     ❖❖ ❖❖     ❖❖    ❖❖
+                                                            55
+
+
+66

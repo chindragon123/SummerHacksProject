@@ -1,0 +1,216 @@
+AET 326D                The University of Texas at Austin | | Department of AET
+Fall 2019               Syllabus
+Course Information      3D Materials and Lighting
+                        Tuesday 6:30 - 9:30pm in ​DFA 4.126
+                        Course website at ​http://canvas.utexas.edu
+Instructor              Isaac Oster, Adjunct Faculty, AET
+                        ioster@utexas.edu​ / isaac.oster@gmail.com
+                        Office hours: By Appointment
+Catalog Description     An introduction to surfacing 3D game models using state of the art workflows and tools.
+Course Overview         This course will focus on training students to create realistic materials for existing 3D assets using
+                        Substance Painter.
+Prerequisite(s)         None
+Objectives &            By the end of the course, students should be able to:
+Assessment              1) Create both realistic and stylized textures and materials
+Instruments
+                        2) Understand how to modify existing UVs and set up high and low poly models for baking
+                        3) Create photorealistic images of assets using Substance Painters rendering tool.
+                        4) Create real time geometry with efficient UV layouts using Retopology. High poly geo to be provided if
+                            necessary.
+Course materials        https://www.youtube.com/playlist?list=PLpoXxlr0idMn26r9VavnnZesmzjZFXw4R
+                        Additional tutorials and course material will be posted to Canvas.
+    UT Electronic Mail  Electronic mail (e-mail) is a mechanism for official University and instructor communication to students.
+    Notification Policy  Students are expected to check e-mail on a frequent and regular basis in order to stay current with
+                         University- and course-related communications, recognizing that certain communications may be
+                         time-critical. It is recommended that e-mail be checked daily, but at a minimum, twice per week.
+                        It is the responsibility of every student to keep the University and instructor informed of changes in his
+                         or her official e-mail address (do so at https://utdirect.utexas.edu/utdirect/bio/address_change.WBX).
+                         Consequently, e-mail returned to the University with "User Unknown" is not an acceptable excuse for
+                         missed communication. Similarly, undeliverable messages returned because of a full inbox or use of a
+                         spam filter will be considered delivered without further action required of the University or instructor.
+                        (see ​http://www.utexas.edu/cio/policies/university-electronic-mail-student-notification-policy​)
+    Use of Class        The materials used in this class, including, but not limited to, exams, quizzes, and homework
+    Materials            assignments are copyright protected works. Any unauthorized copying of the class materials is a
+                         violation of federal law and may result in disciplinary actions being taken against the student.
+                         Additionally, the sharing of class materials without the specific, express approval of the instructor may
+                         be a violation of the University's Student Honor Code and an act of academic dishonesty, which could
+                         result in further disciplinary action. This includes, among other things, uploading class materials to
+                         websites for the purpose of sharing those materials with other current or future students.
+                         (from https://wikis.utexas.edu/display/coursematerials/Sample+Use+Statement+for+Syllabus)
+Attendance              Attendance is worth 10 percent of your final grade. Yo​u are allowed three absences for illness or
+                        personal reasons; however, you will likely miss points for in-class assignments or activities as a result,
+                        and these generally cannot be made up. However, if a serious medical or personal crisis (hospitalization,
+
+
+                       death in the family, etc.) impacts your attendance, please inform me as soon as possible. In addition, see
+                       the exception below for religious holy days.
+                       Arriving more than ten minutes late at the beginning of class or after a break, leaving class without
+                       permission, and leaving class prior to dismissal for the day all count as being tardy. Three tardies equals
+                       an absence. Four absences will lower your course grade by one letter grade. Additional absences may
+                       result in failure of the course.
+Religious Holidays     Section 51.911 of the Texas Education Code states that a student shall be excused from attending classes
+                       or other required activities, including examinations, for the observance of a religious holy day, including
+                       travel for that purpose. A student whose absence is excused under this subsection may not be penalized
+                       for that absence and shall be allowed to take an examination or complete an assignment from which the
+                       student is excused within a reasonable time after the absence. University policy requires students to
+                       notify each of their instructors at least fourteen days prior to the date they will be absent from
+                       scheduled classes to observe a religious holy day.
+                       (from ​http://www.utexas.edu/provost/policies/religious_holidays/1555_001.pdf​)
+Classroom Etiquette    Please observe the following rules during class as a courtesy to fellow students and the instructor.
+                       1) ​Be on time at the beginning of class and after each break. ​If you must come in late at the beginning of
+                       class, please enter the room and seat yourself as quietly and unobtrusively as possible. And please don’t
+                       hold up the entire class by failing to return promptly at the end of an announced break, since often the
+                       second part of the class period is when we will engage in group activities.
+                       2) ​Turn off your cell phone’s notification sounds upon entering the classroom​. If you forget to do so, and
+                       your phone rings, chirps, or vibrates loudly during class, turn it off immediately and discreetly. I reserve
+                       the right to penalize repeat offenders by subtracting points from their day’s assignment.
+                       3)​ Don’t distract other students.​ Everyone benefits from a classroom free of distracting sights, sounds,
+                       and smells. If you would like to update your Facebook page, talk to your friends, listen to loud music,
+                       polish your nails, doodle with Sharpies, etc., please do so outside the classroom during breaks.
+                       4)​ Consider bringing earphones and/or earplugs to class for work sessions​. If you like to listen to music
+                       while you work, you are welcome to do so, so long as no one else can hear it. And if you are easily
+                       distracted by noise/conversation, please bring earplugs to wear so that the conversation from desk
+                       critiques will not bother you.
+Exams               There will be no exams. Grade is determined by project quality.
+Grading             Course work will be weighted as follows in calculating the final grade:
+                    10 points - Attendance
+                    5 points - Asset 01 Texturing (normal)
+                    5 points - Asset 01 Texturing (themed)
+                    10 points - Asset 02 Retopology/UV/Bake/Texture
+                    10 points - Asset 03 Retopology/UV/Bake/Texture
+                    20 points - Asset 04 - Hand Painted texturing
+                    20 points - Dinosaurs
+                    20 points - Kitbash Asset
+                    100 Points Total
+                    A   95
+                    A-  92
+                    B+  88
+                    B   85
+
+
+                      B-   82
+                      C+   78
+                      C    75
+                      C-   72
+                      D+   68
+                      D    65
+                      D-   62
+Academic              The University's ​Honor Code​ states that “As a student of The University of Texas at Austin, I shall abide
+Integrity             by the core values of the University and uphold academic integrity.” You are expected to maintain
+                      absolute integrity and a high standard of individual honor in scholastic work undertaken at the
+                      University. At a minimum, you should complete any assignments, exams, and other scholastic endeavors
+                      with the utmost honesty, which requires you to:
+                            ● acknowledge the contributions of other sources to your scholastic efforts;
+                            ● complete your assignments independently unless expressly authorized to seek or obtain
+                                  assistance in preparing them;
+                            ● follow instructions for assignments and exams, and observe the standards of your academic
+                                  discipline; and
+                            ● avoid engaging in any form of academic dishonesty on behalf of yourself or another student.
+                      (adapted from http://deanofstudents.utexas.edu/sjs/acint_student.php)
+Academic              In promoting a high standard of academic integrity, the University broadly defines academic dishonesty
+Dishonesty            as including ​any act designed to give an unfair or undeserved academic advantage​, such as:
+                            ● Cheating
+                            ● Plagiarism
+                            ● Unauthorized Collaboration / Collusion
+                            ● Falsifying Academic Records
+                            ● Misrepresenting Facts (e.g., providing false information to postpone an exam, obtain an
+                                  extended deadline for an assignment, or even gain an unearned financial benefit)
+                            ● M​ultiple submissions​ (submitting essentially the same written assignment for two courses
+                                  without authorization to do so)
+                            ● Any other acts (or attempted acts) that violate the basic standard of academic integrity
+                      (adapted from ​http://deanofstudents.utexas.edu/sjs/acadint_whatis.php​)
+                      Students who violate University rules on academic dishonesty are subject to disciplinary penalties,
+                      including the possibility of failure in the course and/or dismissal from the University.
+                      (from http://deanofstudents.utexas.edu/sjs/acint_faculty_syllabus.php)
+   Plagiarism             “Plagiarism” includes, but is not limited to, the appropriation of, buying, receiving as a
+                          gift, or obtaining by any means material that is attributable in whole or in part to another
+                          source, including words, ideas, illustrations, structure, computer code, and other
+                          expression or media, and presenting that material as one’s own academic work being
+                          offered for credit or in conjunction with a program course requirement (from Sec. 11-402,
+                          http://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline
+                          -and-conduct/).
+   Copyright and          Understanding the basic principles of copyright and fair use is of critical importance to
+   Fair Use               designers. Many of the uses we will make of texts, images, and videos this semester will
+                          be covered by the doctrine of fair use. However, as creators, you need to be aware of
+                          your own and other copyright holders’ legal rights, and to properly identify and license
+                          your own and others’ works. We will discuss these issues during the semester as needed,
+                          but when you have questions about whether or when you can appropriate someone
+                          else’s work, a useful resource is Georgia K. Harper’s Copyright Crash Course, available at
+                          http://copyright.lib.utexas.edu/.
+   Services for           The University of Texas at Austin provides upon request appropriate academic
+   Students with          accommodations for qualified students with disabilities. For more information, contact
+   Disabilities (SSD)     Services for Students with Disabilities (512-471-6259, ​ssd@austin.utexas.edu​,
+                          http://ddce.utexas.edu/disability/, or videophone 512-471-6644). Please provide
+                          documentation of your needs during the first week of class, if possible, so that I can make
+                          the necessary accommodations promptly.
+
+
+   Student Support   There are numerous free and/or low-cost support services available to students at UT.
+   Services          They include (but are not limited to) the following:
+                     Fine Arts Career Services​ (512-232-7333, ​utexas.edu/finearts/careers​) provides a full
+                     range
+                     of services and resources to support students and alumni.
+                     The Undergraduate Writing Center
+                     (512-471-6222, ​uwc.utexas.edu​) helps students with every phase of writing assignments
+                     for
+                     their courses.
+                     The Sanger Learning Center​ (512-471-3614, ​utexas.edu/ugs/slc​) provides study skills,
+                     time-management, and note-taking courses.
+                     University Health Services​ (512-471-4955, ​healthyhorns.utexas.edu)​ provides medical and
+                     health promotion services for currently enrolled students and some non-students who
+                     are
+                     officially enrolled in certain University programs.
+                     The Counseling and Mental Health Center​ (512-471-3515, ​cmhc.utexas.edu​) helps
+                     students with their personal concerns so that they can meet the daily challenges of
+                     student life.
+Emergency            Mass e-mails (in addition to sirens and fire alarms, when appropriate) will be used to
+Procedures           provide students, faculty, and staff with information regarding potential threats to the
+                     safety and security of the campus community. E-mails will also be used as a way to notify
+                     students, faculty, and staff of emergency situations and keep them updated on the
+                     situation. Emergency officials also have the ability to disseminate important information
+                     via text message directly to the cell phones of users subscribed to the service. Please
+                     consider subscribing to this service at ​https://utdirect.utexas.edu/apps/csas/text/main/​.
+                     (​adapted from
+                     http://www.utexas.edu/safety/preparedness/plans/EmergencyManagementPlan2013a.pdf​)
+Campus Carry         The concealed carry of handguns by permit holders is generally allowed in outdoor areas,
+                     as well as buildings and spaces that are accessible to the public. Permit holders are
+                     allowed to carry in classrooms.
+                     It is the responsibility of concealed-carry license holders to carry their handguns on or
+                     about their person at all times while on campus. “About” the person means that a license
+                     holder may carry a holstered handgun in a backpack or handbag, but the backpack or
+                     handbag must be close enough that the license holder can grasp it without materially
+                     changing position. The holster must completely cover the trigger area and have enough
+                     tension to keep the gun in place if jostled. A license holder may not carry a partially or
+                     wholly visible handgun on campus premises or on any university driveway, street,
+                     sidewalk or walkway, parking lot, parking garage, or other parking area.
+                     The open carry of handguns is not permitted on campus. Anyone who sees an openly
+                     carried gun on campus should immediately call 911. (from
+                     https://campuscarry.utexas.edu/students)
+Overview of Schedule Please be aware that on occasion the order and timing of the course schedule may need
+                     to be altered to accommodate UT closures, instructor illness, student needs/interests, and
+                     design program workshop opportunities and lectures. Any significant alterations to the
+                     schedule will be announced via Canvas.
+                     Reading assignments and an agenda for each day of class will be posted to Canvas. Use the
+                     numbers in the left-hand column of this schedule (01, 02, 03,...30) to locate the Canvas
+                     module that corresponds to a given day of class (e.g., if you are looking for the reading
+                     assignment for the seventh day of class, T 4 Feb, it will be posted to module 07 in Canvas).
+Tuesdays class meeting dates, Spring 2020 (from https://registrar.utexas.edu/calendars/19-20)
+
+
+Jan 21 - First Class
+Jan 28 - Asset 01 Texturing (normal) - ​Due
+Feb 04 - Asset 01 Texturing (themed) - ​Due
+Feb 11 - Asset 02 Retopology/UV/Bake/Texture
+Feb 18 - Asset 02 Retopology/UV/Bake/Texture - ​Due
+Feb 25 - Asset 03 Retopology/UV/Bake/Texture
+Mar 03 - Asset 03 Retopology/UV/Bake/Texture - ​Due
+Mar 10 - Asset 04 - Hand Painted texturing
+Mar 17 - Asset 04 - Hand Painted texturing
+Mar 24 - Asset 04 - Hand Painted texturing - ​Due
+Mar 31 - Dinosaurs
+Apr 07 - Dinosaurs - ​Due
+Apr 14 - Kitbash Asset
+Apr 21 - Kitbash Asset
+Apr 28 - Kitbash Asset - ​Due
+May 04 - ​Final Class, all work due
+Fall 2019 final exam calendar: h ​ ttps://registrar.utexas.edu/schedules/199/finals

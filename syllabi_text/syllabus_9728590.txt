@@ -1,0 +1,158 @@
+The University of Texas at Austin | College of Fine Arts | School of Design and Creative Technologies | Department of Arts and Entertainment Technologies
+           AET Interaction Design with HTML5
+         324k Introduction to web design and interactive programming
+                           (Unique No. 20461)
+                   Fall 2019 | Tue/Thur 11:00am–12:30pm | DFA 4.106
+                   INSTRUCTOR: Greg Hervey - ghervey@utexas.edu
+                   Office Hours (by appointment): T/TH 7:00am-8:00am
+                   CLASS WEBSITE: canvas.utexas.edu
+                 COURSE OVERVIEW
+                 Learn fundamentals of HTML5 to design and develop interactive and responsive web pages. Leverage popular JavaScript
+                 libraries and write custom JavaScript to add interactivity. Build responsive web pages that adjust for optimal display on
+                 mobile devices using the latest CSS layout modules. Learn programmatic constructs for event handling and design patterns
+                 for common user interactions.
+                 The course website is required reading (there is no required textbook). Other than grading and attendance policies, parts of
+                 this syllabus are subject to change with advance notice, as deemed necessary by the instructor.
+                 COURSE MODULES
+                   ■ HTML5/CSS Basics: Learn basics of web technology and foundational front-end coding.
+                   ■ Layout: Explore the Flexbox and Grid CSS layout modules, and responsive design.
+                   ■ Animation: Learn to animate the user interface.
+                   ■ Interaction Design: Examine HTML form elements, leverage JavaScript libraries, and learn event-handling.
+                 COURSE REQUIREMENTS
+                 • Mac or PC Laptop
+                 • Adobe Creative Cloud (UT student price: $99/yr at CampusComputer.com) and Brackets (free at www.brackets.io)
+                 • Internet access and a working email address (class notifications, assignments, and quizzes will all be administered
+                   through Canvas)
+                 • Cloud Storage (Dropbox, Google Drive, Box, etc. All UT students have free Box access)
+                   ***backup of your data is solely your responsibility and should be done frequently to avoid loss of any work***
+                 “My computer crashed” or “my files got corrupted” is the 21st century equivalent of “the dog ate my homework”
+                         Archive all work files until you receive a final grade in the course (in case files get corrupted when uploading).
+                 LEARNING OBJECTIVES
+                 By the end of the course, students should:
+                 • understand web technologies & languages,
+                 • be able to code responsive HTML pages,
+                 • be able to program web interactions (drag-and-drop, toggle, slider, animate on scroll),
+                 • be able to control the triggering and timing of animated elements,
+                 • create and upload a responsive self-promotional website.
+
+
+CALENDAR
+Subject to change; provided as general outline only. Additional non-graded classroom exercises are not listed.
+WEEK                          TOPIC/PROJECT                                                    POINTS (130 TOTAL)
+Week 1         MODULE 1 Introduction to HTML
+Week 2		                   Introduction to CSS
+Week 3		                   Project 1: HTML marketing email                                            10
+ 		                        Module 1 Quiz                                                              10
+Week 4         MODULE 2 CSS layout & Responsive Design
+Week 5		                   Flexbox & grid layout
+Week 6		                   Project 2: responsive multi-page website                                   10
+ 		                        Module 2 Quiz                                                              10
+Week 7         MODULE 3 CSS Animation
+Week 8		                   JavaScript, jQuery, GSAP
+Week 9		                   Project 3: animation sequence                                              10
+		                         Module 3 Quiz                                                              10
+Week 10        MODULE 4 Interaction Design
+Week 11		                  Forms & events
+Week 12		                  Project 4: parallax animation                                              20
+Week 13-15		               FINAL PROJECT (portfolio site)                                             30
+Week 15		                  FINAL QUIZ                                                                 20
+GRADING
+Your final grade in this course will be the total of four module grades (above), and a ‘professionalism’ grade. The
+professionalism grade is determined by attendance, punctuality, and participation. The Professionalism grade is 130 points
+(120 of which are for attendance/punctuality), for a maximum point total of 260 for the course.
+Grades are calculated as a percentage of total points available. A* = 100–94%, A– = 93–90%, B+ = 89–87%,
+B = 86–84%, B– = 83–80%, C+ = 79–77%, C = 76–74% C– = 73–70%, D+ = 69–67%, D = 66–64%, D– = 63–60%,
+F=<60%. (*UT Austin does not recognize the grade of A+)
+Late or incomplete work will seriously affect your grade. If you feel you may not be able to get to class on time and complete
+all work on time, you should ask me for a grade of Q, or drop before the deadline (see Q drop Policy, below).
+ATTENDANCE POLICY
+Attendance and use of the full class period is expected. This is a hands-on, instructor-led, project-based course so
+punctuality is essential: you MUST arrive to class on time. If you are more than 20 minutes late (or leave class more than 20
+minutes early), it counts as an absence. Four absences will drop your final grade in the course by one letter grade.
+Each additional absence beyond that will result in another incremental grade drop (e.g. from B to B–, B– to C+, etc.). If a
+medical or personal situation affects your attendance or punctuality, discuss it with me ASAP. Absences or arriving late/
+leaving early will adversely affect your grade—and when excessive, may result in failing the course.
+Roll will be taken daily at the start of the class. Roll call is visual and based on seating assignments. If you arrive late, or are
+out of your seat during visual roll call you may be marked late or absent. It is your responsibility to contact me or the TA
+within 48 hours to ensure your attendance/punctuality is correctly recorded (you cannot contest your attendance record
+later in the semester, when there is no way to verify it).
+I do not distinguish excused from unexcused absences; if you’re not in the classroom participating in the lesson, you are
+absent (unless you’ve prescheduled a religious holiday; see religious holy days below). ONE absence alone will not impact
+your grade (however it will count as one of the four that could cause your grade to be dropped). If you are absent, you
+MUST schedule office hours with me to make up the missed work, within one week of the absence.
+Q drop Policy The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6).
+As stated in Senate Bill 1231: “Beginning with the fall 2007 academic term, an institution of higher education may not permit
+an undergraduate student a total of more than six dropped courses, including any course a transfer student has dropped at
+another institution of higher education, unless the student shows good cause for dropping more than that number.”
+
+
+UNIVERSITY ATTENDANCE POLICY: RELIGIOUS HOLY DAYS
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of observance of a
+religious holy day, or it will be counted as an absence. If you miss a class to observe a religious holy day, you MUST schedule
+office hours with me to make up the missed coursework within one week of the absence (before or after).
+USE OF E-MAIL FOR OFFICIAL CORRESPONDENCE
+All students should become familiar with the University’s official e-mail student notification policy. It is the student’s
+responsibility to keep the University and instructor(s) informed as to changes in his/her e-mail address. Students
+are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+communications, recognizing that certain communications may be time-critical. The complete text of this policy and
+instructions for updating your e-mail address are available at http://www.utexas.edu/its/help/utmail/1564
+CLASSROOM AND CLASS WEBSITE
+The class will be held in DFA 4.106. This room is locked outside of classroom hours. Additional computers with Adobe
+software are available on the 3rd floor of DFA. I use Canvas to distribute course materials, communicate and collaborate
+online, post grades, receive your assignments, and to give you online quizzes and/or surveys. You can find support for using
+Canvas at https://canvas.utexas.edu
+SERVICES FOR STUDENTS WITH DISABILITIES
+Any student with a documented disability who requires academic accommodations should contact Services for Students
+with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not required to provide
+accommodations without an official accommodation letter from SSD.
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with
+disabilities. For more information, contact Services for Students with Disabilities (512-471-6259, ssd@austin.utexas.edu,
+http://ddce.utexas.edu/disability/, or videophone 512-471-6644). Please provide documentation of your needs during the
+first week of class, so that I can make the necessary accommodations promptly.
+ACADEMIC HONESTY
+University of Texas Honor Code The core values of The University of Texas at Austin are learning, discovery, freedom,
+leadership, individual opportunity, and responsibility. Each member of the University is expected to uphold these values
+through integrity, honesty, trust, fairness, and respect toward peers and community.
+Use of Class Materials The materials used in this class, including, but not limited to, exams, quizzes, and homework
+assignments are copyright protected works. Any unauthorized copying of the class materials is a violation of federal law
+and may result in disciplinary actions being taken against the student. Additionally, the sharing of class materials without
+the specific, express approval of the instructor may be a violation of the University’s Honor Code and an act of academic
+dishonesty, which could result in further disciplinary action. This includes, among other things, uploading class materials to
+websites for the purpose of sharing those materials with other current or future students.
+COPYRIGHT AND FAIR USE
+Understanding the basic principles of copyright and fair use is of critical importance to designers. Many of the uses we will
+make of text, images, and videos will be covered by the doctrine of Fair Use. However, as creators, you need to be aware of
+your own and other copyright holders’ legal rights, and to properly identify and license your own and others’ works. We will
+discuss these issues as needed.
+A useful resource is the Copyright Crash Course, available at http://copyright.lib.utexas.edu/.
+BEHAVIOR CONCERNS ADVICE LINE (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice Line to discuss by
+phone your concerns about another individual’s behavior. This service is provided through a partnership among the Office
+of the Dean of Students, the Counseling and Mental Health Center (CMHC), the Employee Assistance Program (EAP), and
+The University of Texas Police Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal
+
+
+EMERGENCY EVACUATION POLICY
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when a fire alarm is
+activated or an announcement is made. Please be aware of the following policies regarding evacuation:
+• Familiarize yourself with all exit doors of the classroom and the building. Remember that the nearest exit door may not be
+  the one you used when you entered the building.
+• If you require assistance to evacuate, inform me in writing during the first week of class.
+• In the event of an evacuation, follow my instructions or those of class proctors/TAs. After evacuation, do not leave the
+  vacinity without checking in with me or our TA.
+Do not re-enter a building unless you’re given instructions by the Austin Fire Department, the UT Austin Police Department,
+or the Fire Prevention Services office.
+CAMPUS CARRY
+The concealed carry of handguns by permit holders is generally allowed in outdoor areas, as well as buildings and spaces
+that are accessible to the public. Permit holders are allowed to carry in classrooms.
+It is the responsibility of concealed-carry license holders to carry their handguns on or about their person at all times while
+on campus. “About” the person means that a license holder may carry a holstered handgun in a backpack or handbag, but
+the backpack or handbag must always be close enough that the license holder can grasp it without materially changing
+position. The holster must completely cover the trigger area and have enough tension to keep the gun in place if jostled.
+A license holder may not carry a partially or wholly visible handgun on campus premises or on any university
+driveway, street, sidewalk or walkway, parking lot, parking garage, or other parking area.
+The open carry of handguns is not permitted on campus. Anyone who sees an openly carried gun on campus should
+immediately call 911. (from https://campuscarry.utexas.edu/students)
+CELL PHONES
+You must silence your cell phone in class (if your phone interrupts my class, you owe me a Frappuccino™). Texting or social
+networking in class—even during free lab time—is prohibited.

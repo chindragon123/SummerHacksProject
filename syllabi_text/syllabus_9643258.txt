@@ -1,0 +1,296 @@
+CH301 Summer 2019 Syllabus
+Principles of Chemistry I • Summer 2019
+Unique: 85290 · MTWThF, 8:30-10am PAI 2.48
+Instructor: Dr. Sam Dunning
+(samdunning@utexas.edu)
+Teaching Assistant: Tyler Davis
+(ty.davis@utexas.edu)
+Chemistry Course Content
+CH301 will cover the following subjects in chemistry. Each of the four overall topics
+below have links to that section on our gchem site.
+Unit 1 - Gases (Links to an external site.)Links to an external site. The semester
+begins with the study of gases beginning with the gas laws and finishing with the
+kinetic molecular theory of gases.
+Unit 2 - Atomic Theory and Bonding (Links to an external site.)Links to an
+external site. Our second unit is all about the atom including its structure and
+energetics. Atoms combine via chemical bonds. As more atoms bond together,
+molecules are created. Bonding theory allows us to predict properties and describe
+the behavior of these molecules.
+Unit 3 - Intermolecular Forces (Links to an external site.)Links to an external
+site. The interactions between molecules govern key physical properties.
+Categorizing intermolecular forces (IMFs) helps us define key behaviors of chemical
+substances.
+Unit 4 - Thermodynamics (Links to an external site.)Links to an external
+site. The final unit is a study of thermodynamics as it applies to specific substances,
+chemical reactions, and processes. Thermodynamics is the study of the energy
+requirements for all interactions both physical and chemical.
+Resources Available to You for Free
+gchem website: All of our course topics are covered via our online "gchem"
+website. The gchem site has chapters presented in the same order that we will cover
+them in class. Plus, in addition to the textual content, there are hundreds of videos
+available throughout the chapters. Some videos are for "big picture" concepts while
+others are for specific problem solving skills. When you do learning exercises (LEs)
+
+
+in Canvas, you will being seeing the content of the gchem site. You can always
+browse the gchem site independent of Canvas.
+OpenStax eBook: Rice University has dozens of open source eBooks that were
+created for teaching. Here is a link to their "Chemistry" eBook. Browse the table of
+contents to find the right chapters.
+Piazza: (Links to an external site.)Links to an external site. What to do if you
+have a question but can’t make it to office hours? You should post a question to our
+online discussion board – it’s called Piazza. Students can post questions and other
+students can answer questions. The course instructors and teaching assistants
+check student answers and endorse or correct them throughout the week. We do
+moderate this discussion board and ask that you keep your questions chemistry
+related. If you have a personal question, you should email your lead faculty professor
+at the email address provided at the top of the course syllabus. We do not answer
+content questions via email - only via the Piazza site. You should receive an email
+from Piazza with an invitation to join our class. If you don’t get the invitation via
+email, you can add yourself to the Piazza discussion board using the sign up
+link: https://piazza.com/utexas/summer2019/ch301/home (Links to an external
+site.)Links to an external site.
+Your UT Network Bandwidth: Each student at UT receives at least 500MB of
+"free" bandwidth per week. This may, or may not meet your actual needs for this
+course and your other online activities. Please consider your upgrade options offered
+through the UT ITS website at http://www.utexas.edu/its/help/network/1772 (Links to
+an external site.)Links to an external site.. Also realize that resident students that
+are using Resnet will have 10GB per week included with their room - that should be
+more than enough, but if you need more you do that via Resnet. ALL students
+should be aware of their own bandwidth needs and respond accordingly.
+UTInstapoll: We are using UT Install software as our in-class response system.
+Each student will need to set up an account and have a smart device (phone, laptop,
+tablet, etc.). You will need to bring your wifi enabled device to each and every class
+in order to obtain points for the Reef portion of your grade. We will not use the
+iclicker remote which is a separate product - only the app will be used. Reef access
+is purchased at the UT Co-op bundled with your course pack. You will register for
+Reef through an assignment in your Canvas modules.
+Resources You Provide (purchase)
+Simple Scientific Calculator: (Links to an external site.)Links to an external
+site. We will only allow simple scientific calculators for our exams. No programmable
+or graphing calculators will be accepted. The TI-30xais the best calculator for this job
+and is only about $10 dollars. Plan on using it for homework as well as your exams.
+
+
+Calculating Your Overall Score
+We will use five aggregate scores that we will use to get your over all score in the
+course. Your overall score is calculated according to the percentages in the following
+table.
+  Category                                                               Weight
+ 3-Exam avg: average of your best 3 of 4 exams (one drop)               60%
+ Final exam: score on the final exam                                    25%
+ Learning Exercises: LE average (seven drops)                           5%
+ Homework: HW average (three drops)                                     5%
+ Instapoll: score for in-class polling questions as a percentage of max 5%
+ points possible. A score of 75% or above gives full credit.
+  Total                                                                  100 %
+Grade Breaks
+Course grades will be determined according to the following scale or cut-offs:
+A      ≥  93.00
+A-     ≥  90.00
+B+     ≥  87.00
+B      ≥  83.00
+B-     ≥  80.00
+C+     ≥  77.00
+C        ≥ 73.00
+C-       ≥ 70.00
+D+       ≥ 67.00
+D        ≥ 63.00
+D-       ≥ 60.00
+F        < 60.00
+
+
+    Your score is calculated to the nearest 1/100th - that's 2 places PAST the decimal.
+    So the only digit that is rounded "up" is the 1/1000th's digit.
+    Exam Schedule
+• All midterm exams take place during class on the following dates:
+• Exam 1: 6/17
+• Exam 2: 6/25
+• Exam 3: 7/3
+• Exam 4: 7/11
+•
+• Final 7/12, 7-10pm. Room TBA.
+    If you have an Exam Conflict...
+    If you have a documented, UT-related conflict with the exam time for all or specific
+    exam(s), it is possible that we can offer you an alternate time on the same day. To
+    request an alternate exam time, please
+    visit https://cm.utexas.edu/academics/undergraduate/testing-services (Links to an
+    external site.)Links to an external site. and follow the given instructions. Check ALL
+    the exam dates now and fill this out SOON for all exam conflicts you have during the
+    semester!
+    University related conflicts include:
+  •    a UT laboratory course (like physics, chemistry, or biology lab)
+  •    a UT Band member where rehearsal is at the same time as the exam
+  •    any official UT course with a conflicting time (we'll need the unique number of the
+       course)
+  •    UT athletes who must travel to go to a game or tournament
+  •    affiliated students to the above reason - like trainers, team managers, and traveling
+       band members
+  •    You are away from UT as part of a University-sponsored activity. For such
+       instances, you will provide written documentation on UT Letterhead explaining the
+       reason for your absence.
+    In general, only UT-related conflicts are accepted reasons to reschedule an exam for
+    another day. An exception is if the exam is in conflict with a religious holiday. If your
+    exam is in conflict with a religious holiday you must provide notice of the conflict at
+    least 14 days in advance.
+    SSD Students
+    If you are a student registered with the Office of Services for Students with
+    Disabilities and receive special accommodations for your exams, the Chemistry
+
+
+Student Services Office (BIO 404) is equipped with a limited number of seats in a
+reduced distraction environment for the administration of exams. Please submit your
+SSD letter to them.
+Visit https://cm.utexas.edu/academics/undergraduate/testing-services (Links to an
+external site.)Links to an external site. to sign up for accommodated exams for this
+course. Sign up for accommodations for ALL semester exams NOW! You may
+contact Chemistry Student Services (512-471-1567) with any questions related to
+setting up SSD accommodations for a chemistry class.
+Work in the Class
+You should stay fully engaged in class. Opportunities to test your prior knowledge,
+your progress on the learning curve, and your mastery of chemical principles will be
+given in class using an in-class polling system. It is very important that you
+remember to bring your "device" so that you can answer questions and get credit this
+way. We use technology (your cell phone, laptop, or other wifi-enabled device) to
+facilitate this in-class polling, but be sure not to let your device get in the way of your
+engagement in the class! Practice the skill of being fully involved in the present -
+keep your device closed or face-down on your desk when not using it to enter your
+answer to the polling questions. The score from the polling questions will be 5% of
+your overall score.
+Work Outside the Class
+Work outside the class includes reading and learning via the Learning Exercises (LE)
+and Homework (HW) in Canvas. The LEs are designed to introduce the new
+material, whereas the HWs are designed to help you test your knowledge of various
+concepts for the course. Both quantitative (calculations) and qualitative (conceptual)
+questions will be on the LEs and HWs. These assignments are a great way to test
+yourself as we move through the material. Some questions are easy while others will
+be much harder and push you to develop more sophisticated problem-solving skills.
+Skill drilling worksheets are available in the course pack, but they are not graded.
+The worksheets are designed to help build your problem solving skills such that you
+can be successful in the course. Each type of assignment has been designed for a
+particular purpose to help you master the learning outcomes for this course. To this
+end, each assignment should be completed in the order in which it was assigned.
+The Canvas LEs and HWs will be counted toward your overall grade at 5% each.
+Exams
+Four examinations will be given during the semester. Exam scores will be available
+on Quest and Canvas (Quest is only used for the grading of the exams - there is no
+cost associated with Quest for this course). You may use Quest to see which
+questions you missed on each exam.
+
+
+Be sure and bring your approved non-programmable, non-graphing calculator to the
+exam. We cannot provide calculators. You CANNOT use your cell phone or any
+other device as your calculator. Each student will receive a unique exam copy with a
+specific version number on it. There is a different exam version for every student in
+the class; no two students can have the same version numbers. We will keep ALL
+exam materials after the exam is over. You MUST turn in your exam, scratch paper,
+and bubblesheet when you complete your exam. Make sure you sign each part of
+your exam.
+You CANNOT make-up a missed exam for ANY REASON WHATSOEVER. If you
+have a University approved conflict that requires rescheduling an exam, you must
+reschedule within the first 2 weeks of the course - see the section on exam conflicts.
+You get to drop one exam score from your overall average, so for whatever reason
+you miss, that particular exam score (a zero) will be your dropped exam.
+Final Exam
+We will not allow you to take the final early, late, or with another section. Make
+sure you know the time and place of your exam for your section of the course.
+A final exam cannot be made-up in any way. Final exam times are scheduled by the
+registrar's office and cannot be changed for any reason. Show up at the right place
+and the right time or get a zero on the exam. The final exam WILL be
+comprehensive. This means that all the material covered during the course will be on
+the exam. The final exam will be counted as 25% of your overall grade. If you keep
+up with the material for the semester, the final will not be any more difficult than the
+four exams. It will be extremely difficult if you try to cram for it one day ahead. Keep
+up and make the grade. The time for the final is published when the course schedule
+is made, but it is subject to change, so double check the time for the final the week
+before the final exam.
+Cheating
+If you get caught cheating in any way, whatsoever, you will have to discuss the
+situation with us. We will arrive at a penalty and write up a formal report. The
+minimum penalty for cheating is receiving a 0 on the assignment on which you
+cheated, but harsher penalties may be assigned. In this class, in addition to all the
+traditional types of cheating (looking at someone else’s answer, utilizing “cheat
+sheets” of any form or fashion – paper or digitized, getting an advance copy of an
+exam or quiz), we also consider allowing someone else to enter answers in class
+with your phone or tablet cheating. For example, if you send your iPhone to class
+with another classmate or an individual who is not you and you are caught, you and
+your accomplice will be penalized. For more information, read about scholastic
+dishonesty in the General Information Catalog.
+Drop Date
+The last day to drop the course is June 7, 2019. This will require you to go to your
+college and get a drop form. After the deadline, students must go to the Dean's
+office, WCH 2.112, to begin the appeal for substantiated non-academic reasons.
+
+
+Students with Disabilities
+Please notify me of any modification/adaptation you may require to accommodate a
+disability-related need. You will be requested to provide documentation to the Dean
+of Students' Office, in order that the most appropriate accommodations can be
+determined. Specialized services are available on campus through Services for
+Students with Disabilities. The official wording is this: The University of Texas at
+Austin provides upon request appropriate academic accommodations for qualified
+students with disabilities. For more information, contact the Office of the Dean of
+Students at 471-6259, 471-6441 TTY or Division of Diversity and Community
+Engagement, Services for Students with Disabilities, 512-471-
+6259,www.utexas.edu/diversity/ddce/ssd.Links to an external site. If you only need
+exam accommodations (extended time, reduced distraction environment), you can
+work directly with our Student Services Office - see the information listed under
+"exams".
+Observance of Religious Holidays
+Religious holy days sometimes conflict with class and examination schedules. It is
+the policy of The University of Texas at Austin that the student must notify each
+instructor at least fourteen days prior to the classes scheduled on dates he or she
+will be absent to observe a religious holy day. For religious holidays that fall within
+the first two weeks of the semester, the notice should be given on the first day of the
+semester. The student may not be penalized for these excused absences but the
+instructor may appropriately respond if the student fails to complete satisfactorily the
+missed assignment or examination within a reasonable time after the excused
+absence.
+How can I be prepared for an emergency?
+Occupants of buildings on The University of Texas at Austin campus are required to
+evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+requires exiting and assembling outside. Familiarize yourself with all exit doors of
+each classroom and building you may occupy. Remember that the nearest exit door
+may not be the one you used when entering the building. Students requiring
+assistance in evacuation shall inform their instructor in writing during the first week of
+class. In the event of an evacuation, follow the instruction of faculty or class
+instructors.
+Do not re-enter a building unless given instructions by the following: Austin Fire
+Department, The University of Texas at Austin Police Department, or Fire Prevention
+Services office. Behavior Concerns Advice Line (BCAL): 512-232-5050
+Does this course carry a FLAG?
+QRThis course carries the Quantitative Reasoning flag. Quantitative Reasoning
+courses are designed to equip you with skills that are necessary for understanding
+the types of quantitative arguments you will regularly encounter in your adult and
+
+
+professional life. You should therefore expect a substantial portion of your grade to
+come from your use of quantitative skills to analyze real-world problems.
+Core Curriculum Requirements & Objectives
+This course may be used to fulfill three hours of the natural science and technology
+(Part I or Part II) component of the university core curriculum and addresses the
+following four core objectives established by the Texas Higher Education
+Coordinating Board: communication skills, critical thinking skills, teamwork, and
+empirical and quantitative skills.
+Communication Skills
+Students will work in class, on homework and on exams to apply scientific model to
+explain empirical data as well as to use models to predict physical and chemical
+change. Students will be able to connect mathematical formulas and graphical
+representations to communicate scientific concepts.
+Critical Thinking
+Students are presented with many opportunities to use critical thinking skills to solve
+problems both in class via the classroom polling system and on graded homework
+assignments. These skills are assessed on the exams.
+Teamwork
+Students work in small groups in class on guided group activities designed to help
+the student come to a deeper understanding of the content and to "discover"
+chemical principles via the process of inquiry. Outside of class students are
+encouraged to continue working in groups on better understand homework
+assignments.
+Quantitative Skills
+Students are required to calculate answers based on their understanding of scientific
+laws and derived equations. These methods include skills in manipulating units,
+understanding and applying the concept of ratios, proportionality, rearranging
+algebraically to solve for a specified unknown, understanding and applying rates of
+change, interpreting equations using physical models. These skills are assessed on
+the exams.

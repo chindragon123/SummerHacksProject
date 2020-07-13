@@ -1,0 +1,391 @@
+RTF 344M/AET 337                                                                                       Fall 2019
+   WRITING FOR GAMES
+                               RTF 344M/AET 337
+                         CMA 6.174 | Tuesdays & Thursdays 5 - 6:15pm
+           Professor: Susan O’Connor | email: susanoconnor@utexas.edu | text: (512) 565-6124
+           Oﬃce Location and Hours: 6.166 (or online via video) T & Th 6:15 - 7:45
+Welcome to this course on writing for video games! I’m glad you’re here.
+Why study writing for games?
+Because it gives us a chance to take a close look at how two of the most powerful forces in our
+lives come together: namely, the stories we tell, and the technology we use.
+Stories and technology connect us with the world around us — and with each other. One is peanut
+butter, the other is chocolate. We are still learning how to get those great tastes to taste great
+together.
+At its core, interactive storytelling is a form of dramatic writing, just like theater or television. But
+what makes it exciting and weird is that the writer does not control the story; the audience does.
+Creatives (like you) have only just begun to explore the storytelling possibilities in this field.
+All semester long, we will be exploring:
+                                         How games work, how stories work,
+                                                       and how they work together
+Why is this course important?
+Because we are are a turning point. Games aren’t new, but they aren’t old yet, either. Game makers
+aren’t done experimenting. They’re still exploring new and diﬀerent ways to tell interactive stories.
+We’ve seen some success and some failures - but nothing’s written in stone.
+This period of exploration and discovery has happened before. In the 1920s and ‘30s, writers
+invented new ways to tell stories, using that exotic technology called film. Writers today are playing
+University of Texas at Austin                                                                                  1
+
+
+RTF 344M/AET 337                                                                                  Fall 2019
+around with games, digital media, VR, and augmented reality. They have questions, lots of
+questions. What does it mean, to share the story with the audience? What new possibilities does
+that open up for us? What can we do now, that we could never do before?
+The discoveries we make in the next few years could shape games (and stories) for decades to
+come - and this class can be the beginning of that adventure for you.
+What will I know, understand, and be able to do by the end of this
+course?
+By the end of this course, you will be able to:
+        • Understand and recognize the building blocks of games
+        • Describe the ways in which a game is designed for a player, and his/her motivation
+        • Recognize the fundamentals of story - the ways in which every story is the same, regardless
+          of the medium
+        • Identify the the seven steps of story structure at work inside game narratives, and how they
+          work together to create the spine of the story
+        • Compare and contrast how story is structured in both traditional and interactive stories, to
+          see how games change that structure
+        • Understand the tools writers use to create characters
+        • Explain the unique role characters play in a game narrative
+        • Describe how worlds shape stories
+        • Critically evaluate a game narrative, with evidence to support that critique
+Students may vary in their competency levels on these abilities. You can expect to acquire these
+abilities only if you honor all course policies, attend class regularly, complete all assigned work in
+good faith and on time, and meet all other course expectations of you as a student.
+What skills will I develop?
+Over the course of the semester, you will develop strengths in the following areas:
+        • Communication skills, both written and verbal
+        • Critical thinking skills
+        • Design-thinking skills, including emotional intelligence and empathy
+        • Creative flexibility - the ability to generate and revise content under tight deadlines
+University of Texas at Austin                                                                             2
+
+
+RTF 344M/AET 337                                                                                Fall 2019
+What materials will I need?
+1. The Art of Game Design: A Book Of Lenses, Third Edition by Jesse Schell ($25.50 to rent
+     through Amazon)
+2. The Anatomy of Story, by John Truby ($11.69 on Amazon)
+3. A subscription to SquareCap: https://info.squarecap.com ($12)
+On Canvas you’ll find class slides and other materials.
+You will also need access to a few movies and games, including (but not limited to) Florence,
+Journey, Brothers, & Control. We will discuss specifics in class.
+How will you teach this class?
+This class relies heavily discussions and small-group work, both inside and outside of class.
+Lectures will be kept as short as possible. The best way to learn is to learn by doing, so come to
+class ready to Do. Class participation is an important part of your grade.
+Can I use my laptop in class?
+If we are not actively working on a project in class, laptops are closed and put away. When students
+are surfing the web, responding to e-mail, instant messaging each other, and otherwise not devoting
+their full attention to the topic at hand they are doing themselves and their peers a major disservice.
+Those around them face additional distraction. Fellow students cannot benefit from the insights of
+the students who are not engaged. Faculty oﬃce hours are spent going over class material with
+students who chose not to pay attention, rather than truly adding value by helping students who
+want a better understanding of the material or want to explore the issues in more depth. Students
+with real needs may not be able to obtain adequate help if faculty time is spent repeating what was
+said in class. There are often cases where learning is enhanced by the use of laptops in class.
+Faculty will let you know when it is appropriate to use them.
+What about my phone?
+No phones. Period. Phones and wireless devices are turned oﬀ (not just on ‘silent’). They prevent
+you and those around you from learning. Learning requires mentally manipulating concepts; multi-
+tasking keeps that from happening. You (or your parents) have paid good money for you to be in this
+class. For the short time we are together, let’s give each other our full attention.
+University of Texas at Austin                                                                           3
+
+
+RTF 344M/AET 337                                                                                Fall 2019
+How do I succeed in this class?
+• Be prepared. Do the readings, play the games, come ready to work. We will be doing a lot of
+   work in-class, and you want to be able to participate fully. (There will be quizzes.)
+• Help others when you can. Your attendance and your level of participation - in conversations, in
+   workshops and in online discussions - will be part of your overall grade. Bring your whole self to
+   class. You will be learning from each other as much as you will be learning from me.
+• Ask for help when you need it. This class is a combination of left-brain and right-brain work, and
+   it can be challenging in ways you may not expect. Ask for help when you need it.
+• Go pro. Professionals deliver work that is clean and well-written. Set this as a standard for
+   yourself, too. Before turning in writing assignments, use spellcheck.
+This class is designed with your success in mind. I’m here to help.
+This class carries a Writing Flag. What does that mean?
+In this class - as in any Writing Flag course - you will:
+• Write regularly, several times during the
+   semester, and complete writing projects that                  What if I need extra help
+   are substantial, such as critical essays and                       with my writing?
+   creative work;
+                                                          Visit the Moody Writing Support program.
+• Rewrite your work, incorporating feedback
+   from the instructor, TA, and fellow students;                   They offer peer coaching,
+                                                                 writing study halls, and more.
+   and
+                                                            http://sites.utexas.edu/moodywriting/
+• Earn at least one-third of your grade - if not
+   more - through your writing assignments.
+This class also carries an Independent Inquiry Flag.
+What does that mean?
+Independent Inquiry courses are designed to engage you in the process of inquiry over the course
+of a semester, providing you with the opportunity for independent investigation of a question,
+problem, or project related to your major. You should therefore expect a substantial portion of your
+grade to come from the independent investigation and presentation of your own work.
+University of Texas at Austin                                                                           4
+
+
+RTF 344M/AET 337                                                        Fall 2019
+What does our class schedule look like?
+It looks awesome.
+Week One
+The Designer Creates An Experience
+Week Two
+The Experience Rises Out Of A Game
+The Game Consists of Elements
+Week Three
+The Game Is Made For A Player
+The Experience Is In the Player’s Mind
+Week Four
+The Player’s Mind Is Driven By The Player’s Motivation
+Experiences Can Be Judged By Their Interest Curves
+Week Five
+One Kind Of Experience Is The Story
+Week Six
+Story And Game Structures Can Be Artfully Merged With Indirect Control
+Weeks Seven and Eight
+The Seven Key Steps of Story Structure
+Weeks Nine And Ten
+Worlds Contain Characters (Schell); Character (Truby)
+Weeks Eleven and Twelve
+Stories and Games Take Place in Worlds (Schell) and Story World (Truby)
+Weeks Twelve and Thirteen
+Final deliverable: Game Narrative Review
+University of Texas at Austin                                                   5
+
+
+RTF 344M/AET 337                                                                 Fall 2019
+How will I be graded?
+Your final grade will be based on the following:
+     Attendance & Participation: 20%
+     Quizzes & Formative Assessments: 20%
+     Three Essays: 10% each, for a total of 30%
+     Game Narrative Review: 30%
+                  Game Narrative Review    Attendance +    Formative Assessments
+                  Essays
+                                30%                       30%
+                                    20%                 20%
+University of Texas at Austin                                                            6
+
+
+RTF 344M/AET 337                                                                                 Fall 2019
+Got it. So how did you become a game writer?
+After graduating from UT Austin (B.A. Art History), I started my career as a writer at a small game
+studio down on Congress Avenue. Since then, I’ve worked on over 25 game titles. Some were great,
+some were terrible. The great ones include BioShock, Tomb Raider, and Far Cry 2. Past clients
+include Telltale Games, Lucas Arts, Ubisoft, and Electronic Arts. You can find my portfolio at
+susanoconnorwriter.com
+If you are interested in learning more about careers in the game industry, I’m here to help you
+navigate that world.
+I’m looking forward to working with you and exploring this material together.
+- Professor O’Connor
+University of Texas at Austin                                                                            7
+
+
+RTF 344M/AET 337                                                                               Fall 2019
+Policies and Resources
+Classroom Policies
+Grading policies
+The course grade will be computed as follows. Grading is based on mastery of course material,
+attendance, and completion of assignments. I DO NOT ACCEPT LATE ASSIGNMENTS. Class
+grade curves are generally avoided, I do not round grades up or down.
+           A 94.0 and above A. 90.0-93.9
+           B+ 87.0-89.9
+           B 84.0-86.9
+           B- 80.0-83.9
+           C+ 77.0-79.9
+           C 74.0-76.9
+           C- 70.0-73.9
+           D+ 67.0-69.9
+           D 64.0-67.9
+           D- 60.0-63.9
+           F 62.9 and below
+Assignment grades will be posted on Canvas and you are welcome to raise questions about
+potential data entry or calculation errors with me as they are entered (7 calendar days from date
+entered). Important Note: no credit is given for late assignments. However, the final grade
+assigned in the course is an informed and final evaluation and not open for discussion or
+negotiation. Any lobbying eﬀorts (i.e. asking for a higher grade because you want one, need one,
+etc.) will not be tolerated.
+To respect each student’s privacy, individual grades are never discussed over email or phone. You
+may email me with concerns about missing grades, but if you wish to verify a specific grade, you
+must meet me in person.
+Policy on late work
+As you know by now, no credit is given for late assignments. Please communicate with me if you
+hare having problems keeping to the schedule. It is better to talk through problems than ignore
+them.
+University of Texas at Austin                                                                          8
+
+
+RTF 344M/AET 337                                                                                 Fall 2019
+Policy on absences
+This is a discussion-based course and students learn as much or more from interacting with each
+other than from the formal presentations by the instructor. When all students attend every class it is
+easier to develop a culture and atmosphere conducive to sharing experiences and discussing
+opinions. Formal attendance will be taken each class, and you are expected to participate actively
+in discussions and class exercises. You will be expected to be able to answer questions and ask
+relevant and thoughtful questions. When evaluating any individual’s contribution, quantity and
+volume are much less important than quality and perceptiveness.
+Attendance will be recorded through SquareCap (www.squarecap.com). It is an EXPRESS violation
+of the academic integrity policy to let anyone log-in for you using SquareCap. There are no warnings
+and no leniency regarding this policy.
+You should view class attendance as you would work attendance and communicate to me (by e-
+mail) when you must miss a class. You are given two (2) allowed absences for the semester. You
+are expected to manage these two absences to cover all expected and unexpected class absences.
+If your absences exceed two days, your grade will be reduced accordingly. Although you get two
+free absences, you WILL NOT be allowed to make-up missed in-class assignments or quizzes.
+In-class assignments and quizzes are given randomly throughout the semester and you MUST be
+present in class to participate and get credit.
+Genuine emergencies and serious illness will be handled on a case-by-case basis as will
+accommodations for student athletes. My flexibility will be determined, in part, by your standing in
+the class in terms of participation and attendance record.
+The ONLY time an absence can be exempt from this policy is for observance of a religious holy day
+(see University policies below) or in the case of exigent circumstances.
+Does this sound severe? It is! But that is because I want you to have a great experience. We only
+have fourteen weeks together; let’s make the most of it.
+Important Note. The course syllabus is subject to change at the sole discretion of the instructor.
+Students will be given reasonable notice of any changes and all changes will be posted on Canvas.
+As a final note, by continuing in this class, you acknowledge that you understand everything in this
+syllabus, will take responsibility for clarifying any questions you have with me directly and agree to
+the standards and expectations outlined here.
+University of Texas at Austin                                                                            9
+
+
+RTF 344M/AET 337                                                                                 Fall 2019
+University Policies
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+complete the missed work within a reasonable time after the absence.
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-
+drop deadline, which typically occurs near the middle of the semester. Under Texas law, you are
+only allowed six Q drops while you are in college at any public Texas institution. For more
+information, see: http://ugs.utexas.edu/vick/academic/adddrop/qdrop
+Student Accommodations
+Students with a documented disability may request appropriate academic accommodations from
+the Division of Diversity and Community Engagement, Services for Students with Disabilities,
+512-471-6259 (voice) or 1-866-329-3986 (video phone). http://diversity.utexas.edu/disability/about/
+• Please request a meeting as soon as possible to discuss any accommodations
+• Please notify me as soon as possible if the material being presented in class is not accessible
+• Please notify me if any of the physical space is diﬃcult for you
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code:
+“As a student of The University of Texas at Austin, I shall abide by the core values of the University
+and uphold academic integrity.”
+This means that work you produce on assignments, tests and exams is all your own work, unless it
+is assigned as group work. I will make it clear for each test, exam or assignment whether
+collaboration is encouraged or not.
+Always cite your sources. If you use words or ideas that are not your own (or that you have used in
+previous class), you must make that clear otherwise you will be guilty of plagiarism and subject to
+academic disciplinary action, including failure of the course.
+You are responsible for understanding UT’s Academic Honesty Policy, which can be found at the
+following web address: http://deanofstudents.utexas.edu/conduct/
+University of Texas at Austin                                                                           10
+
+
+RTF 344M/AET 337                                                                                  Fall 2019
+Writing Flag
+This course carries the Writing Flag. Writing Flag courses are designed to give students experience
+with writing in an academic discipline. In this class, you can expect to write regularly during the
+semester, complete substantial writing projects, and receive feedback from your instructor to help
+you improve your writing. You will also have the opportunity to revise one or more assignments, and
+you may be asked to read and discuss your peers’ work. You should therefore expect a substantial
+portion of your grade to come from your written work. Writing Flag classes meet the Core
+Communications objectives of Critical Thinking, Communication, Teamwork, and Personal
+Responsibility, established by the Texas Higher Education Coordinating Board.
+The Writing Flag faculty committee also provides statements on Plagiarism and Academic Integrity
+and Plagiarism Detection Software
+Plagiarism and Academic Integrity
+Using someone else’s work in your own writing without giving proper credit is considered
+plagiarism, a serious form of academic dishonesty that can result in severe penalties. Copying
+someone else’s work, buying a paper and submitting it as your own, copying and pasting text (even
+with changes), or borrowing images from an online source, are some examples of plagiarism. Even if
+you plagiarize accidentally, you can be held responsible and penalized.
+Learning to cite sources appropriately is an important part of becoming a professional. When you
+are unsure about citation, you are encouraged to ask your instructor (who is already an expert in the
+discipline) what is appropriate in the context of your assignment. Consultants at The University
+Writing Center can also help you determine whether you are citing sources correctly—and they have
+helpful guides online for using direct quotations and paraphrasing. Reviewing those skills will help
+you feel confident that you are handling sources professionally in your writing.
+You can read the University’s definition of plagiarism and other forms of academic dishonesty in
+Sec. 11–402 of the Student Conduct Code. For more information, visit the Dean of Students’ site.
+Plagiarism Detection Software
+If plagiarism detection software such as if TurnItIn will be used in a class, please include a statement
+such as the following in your syllabus:
+All assignments in this course may be processed by TurnItIn, a tool that compares submitted
+material to an archived database of published work to check for potential plagiarism. Other
+methods may also be used to determine if a paper is the student’s original work. Regardless of the
+results of any TurnItIn submission, the faculty member will make the final determination as to
+whether or not a paper has been plagiarized.
+University of Texas at Austin                                                                            11
+
+
+RTF 344M/AET 337                                                                                 Fall 2019
+University Resources for Students
+The university has numerous resources for students to provide assistance and support for your
+learning, use these to help you succeed in your class. In addition to the Moody Writing Center,
+mentioned earlier in the document, you have access to:
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+Center each year to improve their academic performance? All students are welcome to take
+advantage of Sanger Center’s classes and workshops, private learning specialist appointments,
+peer academic coaching, and tutoring for more than 70 courses in 15 diﬀerent subject areas. For
+more information, please visit http://ugs.utexas.edu/slc or call 512-471-3614 (JES A332).
+Moody Writing Support Program
+The Moody College Writing Support Program, located in BMC 3.322, oﬀers one-on-one assistance
+without charge to undergraduates seeking to improve their professional writing in all fields of
+communication. We have student specialists in Journalism, RTF, CSD, CMS, Communication &
+Leadership and PR & Advertising. In addition, we oﬀer workshops to strengthen core writing skills in
+each field and to inspire students to strive for excellence. Students may guarantee their time by
+booking half-hour appointments on our website for assistance during all stages of
+the writing process. Writing coaches also will take drop-ins if they are not working with
+appointments. http://sites.utexas.edu/moodywriting/
+Counseling and Mental Health Services
+Taking care of your general well-being is an important step in being a successful student. If stress,
+test anxiety, racing thoughts, feeling unmotivated or anything else is getting in your way, there are
+options available for support.
+For immediate support:
+• Visit/Call the Counseling and Mental Health Center (CMHC): M-F 8-5p | SSB, 5th floor             |
+   512-471-3515 |cmhc.utexas.edu
+• CMHC Crisis Line: 24/7 | 512.471.2255 | cmhc.utexas.edu/24hourcounseling.html
+CARE Counselor in the Moody College of Communication is: Abby Simpson, LCSW
+-    |CMA 4.134 | 512-471-7642 (Please leave a message if she is unavailable)
+FREE Services at CMHC:
+• Brief assessments and referral services
+University of Texas at Austin                                                                           12
+
+
+RTF 344M/AET 337                                                                                  Fall 2019
+• Mental health & wellness articles - cmhc.utexas.edu/commonconcerns.html
+• MindBody Lab - cmhc.utexas.edu/mindbodylab.html
+• Classes, workshops, & groups - cmhc.utexas.edu/groups.html
+Student Emergency Services
+ http://deanofstudents.utexas.edu/emergency/
+ITS
+Need help with technology? http://www.utexas.edu/its/
+Libraries
+Need help searching for information? http://www.lib.utexas.edu/
+Canvas
+Canvas help is available 24/7 at https://utexas.instructure.com/courses/633028/pages/student-
+tutorials
+Important Safety Information
+BCAL
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL
+(the Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something
+doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+Evacuation Information
+The following recommendations regarding emergency evacuation from the Oﬃce of Campus Safety
+and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when an alarm or alert is activated. Alarm activation or announcement requires exiting and
+assembling outside, unless told otherwise by an oﬃcial representative.
+Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember
+that the nearest exit door may not be the one you used when entering the building.
+Students requiring assistance in evacuation shall inform their instructor in writing during the first
+week of class.
+In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a
+building unless given instructions by the following: Austin Fire Department, The University of Texas
+at Austin Police Department, or Fire Prevention Services oﬃce. www.utexas.edu/emergency
+University of Texas at Austin                                                                            13

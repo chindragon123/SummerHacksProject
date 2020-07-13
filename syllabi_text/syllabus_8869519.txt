@@ -1,0 +1,267 @@
+                                             TechnoCulture
+                          ANT 325L (31752) M&W 11:30-1pm SAC 4.174
+                         Dr. John Hartigan, https://twitter.com/aesopsanthro
+                       Tel.232-9201; E-mail: johnhartigan@austin.utexas.edu
+            Office Hours (SAC 4.158): Mon. & Wed. 2:00-3:00pm (& by appointment)
+Description: This inquiry-driven course proceeds via two trajectories: 1) an analysis of social
+groups using digital methods and 2) a process of self-reflection focused on technological
+mediations of experience. The goal is for students to develop and deploy techniques of
+observation and analysis for making sense of communities online, while also taking stock of how
+our self-identities are shaped by algorithms and various tracking technologies. We begin by
+thinking about attention—what do we focus on, for how long, and with what affects? Attention is
+more than a personal matter; it has many collective forms and dimensions. We’ll consider how
+we value some forms of attention and deride others, depending on social contexts and cultural
+sensibilities. Then we’ll sift through the layers of technological mediation that alternately
+facilitate, channel, or diffract our abilities to attend to relationships, objects, and the world
+around us. With these patterns and tendencies established, we’ll analyze how media systems and
+technological infrastructures intentionally organize and mine collective forms of attention—
+online, certainly, but increasingly in real-world settings. We will sample various ethnographic
+techniques and methods—digital and traditional—then try these out in developing analytical
+accounts of the cultures of technologies (publics) that permeate social worlds today. We will
+conclude with some reflections on how the human and the social are being actively redefined
+today. The aim of this course is to encourage new forms of intellectual engagement;
+technological expertise is not required.
+Procedure: Our core process will be to think by writing, so some form of writing through guided
+exercises will be due for each class session. Initially, these will take the form of lists and
+unstructured notes, but as the semester progresses the writing assignments will have greater
+focus and structure. There are two basic modes of writing in this course: journaling and field
+reporting. In the first, you will mainly engage in reflecting on your experiences online or in
+dealing with digital materials. In the second, you will progress through stages of social analysis
+by developing field notes, then working these into more coherent field reports, and finally into
+developed accounts of online publics or social worlds. Most of our in-class time will be spent on
+people reading aloud what they have written. I expect people to listen attentively and politely.
+Final projects will be presented to the class over our last three sessions.
+Grading: These writings and in-class readings and presentations will all be recorded as
+completion grades that can only be submitted on the due date in class. Attendance is mandatory,
+though reasonable absences will be excused if you notify me as soon as possible. Journal
+exercises and entries = 20%; Field notes = 10%; Field reports = 30%; Final projects = 40% (10%
+for workshopping and 30% for finished presentation). There are no make-up work options in this
+course.
+                                                                                                   1  
+  
+
+
+Schedule:
+Week 1:
+W 8-29: Introducing TechnoCulture: what is it? “The Case for Hiring a Digital Anthropologist”
+Week 2: Self
+W 9-5: Attention.
+Readings: James, William. 1890. “Attention” (Chapter XI). In The Principles of Psychology.
+Henry Holt and Company, 402–458; Fernandez-Duque, Diego, and Mark L. Johnson. 1999.
+“Attention Metaphors: How Metaphors Guide the Cognitive Psychology of Attention.” Cognitive
+Science 23 (1): 83–116. https://www.nytimes.com/interactive/2018/02/09/technology/the-
+addiction-wrought-by-techies.html “Even the Tech Elite Are Worrying About Tech Addiction”
+Journal exercise: Keep track of the distractions that arise as you read these articles. Everything,
+from your internal thoughts to friends contacting you or digital attention-grabbers. List these to
+discuss in class.
+Week 3: Social
+M 9-10: Ethnography
+Readings: Stewart, Kathleen. 2007. Ordinary Affects, Duke University Press, 1–31 [UT Library]
+Journal exercise: Go to a public place that you already frequent. Stay put for one hour and take
+notes on everything you can observe. Who’s there; what patterns do you see; what implicit
+knowledge shapes interactions in this space?
+W 9-12: Fieldnotes
+Readings: Nelms, Taylor. 2014. “Immersion: Four Beginnings for an Anthropology of Big
+Data.” Medium, June 19. https://medium.com/@tnelms/immersion-4c103c0fcac5 ;
+https://www.epicpeople.org/data-science-and-ethnography/
+https://www.theatlantic.com/technology/archive/2016/08/entanglement/494930/ ;
+https://anthrodendum.org/2018/02/07/three-lies-of-digital-ethnography/ ;
+https://johnpostill.com/2015/01/16/13-six-ways-of-researching-new-social-worlds/ Boellstorff,
+Tom. 2008, Chapter 1 (“The Subject and Scope of this Inquiry: Arrivals and Departures,
+Everyday Second Life”) and Chapter 4 (“Place and Time”) in Coming of Age in Second Life.
+Princeton University Press. 3–31, 89–117 [UT Library] https://splinternews.com/we-took-a-tour-
+of-the-abandoned-college-campuses-of-sec-1793849944
+Journal exercise: Repeat Monday’s exercise but in an online “location”—site or place. Write
+about the differences and similarities in your capacity to observe.
+                                                                                                    2  
+  
+
+
+Week 4: Self
+M 9-17: The Self
+Readings: Allen, Douglas, “Social Constructions of Self: Some Asian, Marxist, and Feminist
+Critiques of Dominant Western Views of the Self,” in Culture and Self ; “Are We Puppets in a
+Wired World?” Sue Halpern, New York Review of Books.
+Journal exercise: Engage in some form of unmediated self-reflection. Either observe your
+thoughts or try to detach from them through meditation. After 30 minutes, reflect on this
+experience.
+W 9-19: The data-driven Self:
+Readings: http://www.nybooks.com/articles/2018/05/24/big-brother-goes-digital/ ; “The Data-
+Driven Life,” By Gary Wolf, New York Times ;
+https://www.theatlantic.com/magazine/archive/2018/09/download-your-facebook-data/565736/ ;
+Journal exercise: List the various technological means by which data about you is generated.
+Track the way your self appears in various digital medium.
+Week 5: Social
+M 9-24: Publics & Guides.
+Readings: How The World Changes Social Media, Miller et al;
+https://techcrunch.com/2018/07/10/in-the-public-sector-algorithms-need-a-conscience/ ;
+[optional: “Publics and Counter Publics,” Michael Warner.] ; Shannon Mattern, “Cloud and
+Field: On the Resurgence of ‘Field Guides in a Networked Age’”; Ingrid Burrington, “Seeing
+Networks in New York City”; J.R. Carpenter, “The Gathering Cloud”; Natasha Myers,
+“Becoming Sensor”.
+Journal exercise: Identify publics in which you participate. Sketch the contours of belonging to
+these publics (boundaries and forms of inclusion or exclusion).
+W 9-26: Digital Methods.
+Readings: Shannon Mattern, Designing Methodologies. Kirsten M. Kinsley, Dan Schoonover &
+Jasmine Spitler, “GoPro as an ethnographic tool: A wayfinding study
+in an academic library.” Nick Seaver, https://culanth.org/articles/966-what-should-an-
+anthropology-of-algorithms-do ; Beaulieu, Anne. “Mediating Ethnography: Objectivity and the
+Making of Ethnographies of the Internet.”
+Exercise: Generate field notes on at least one public.
+Week 6: Self
+M 10-1: Addiction
+Readings: https://www.nytimes.com/interactive/2018/02/09/technology/the-addiction-wrought-
+by-techies.html ; https://www.theguardian.com/science/head-quarters/2018/aug/09/three-
+problems-with-the-debate-around-screen-time ;
+                                                                                                 3  
+  
+
+
+https://www.nytimes.com/2017/12/05/magazine/the-return-of-the-techno-moral-panic.html
+https://www.vox.com/2018/8/8/17664580/persuasive-technology-psychology ; “Screen-addicted
+teens are unhappy.”
+https://www.washingtonpost.com/news/the-switch/wp/2017/12/12/former-facebook-vp-says-
+social-media-is-destroying-society-with-dopamine-driven-feedback-loops/
+https://www.theverge.com/2017/11/9/16627724/sean-parker-facebook-childrens-brains-
+feedback-loop https://www.theguardian.com/technology/2017/may/02/facebook-executive-
+advertising-data-comment
+Journal exercise: write a page on how you think about addiction and digital mediums.
+W 10-3: Digital Literacy
+Readings: http://www.publicbooks.org/invisible-algorithms-invisible-politics/ ;
+https://www.socialsciencespace.com/2018/02/nick-seaver-dissecting-algorithmic-organism/
+https://www.theguardian.com/commentisfree/2018/aug/25/skim-reading-new-normal-maryanne-
+wolf
+Journal exercise: Write a page on what you don’t know about technology but wish you did.
+Week 7: Social
+M 10-8: Automation of Inequality
+Readings: https://www.nytimes.com/2017/10/26/opinion/algorithm-compas-sentencing-bias.html
+https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-
+algorithms-in-public-services-often-fail-the-most-vulnerab; https://gizmodo.com/how-
+algorithmic-experiments-harm-people-living-in-pover-1822311248;
+https://www.washingtonpost.com/business/2018/07/10/rich-people-prefer-grey-poupon-white-
+people-own-pets-data-behind-cultural-divide/
+https://www.jacobinmag.com/2018/01/virginia-eubanks-interview-automating-inequality-
+poverty; https://www.sciencenews.org/blog/science-public/are-computers-better-people-
+predicting-who-will-commit-another-crime
+https://www.nytimes.com/2018/06/07/books/review/reinventing-capitalism-in-the-age-of-big-
+data-mayer-schonberger-ramge.html
+Journal exercise: write one page thinking about digital reproductions of inequality.
+W 10-10: Digital Hate
+Readings: “Trolls for Trump,” Andrew Marantz, The New Yorker.
+https://www.washingtonpost.com/news/the-intersect/wp/2018/04/25/inside-the-online-world-of-
+incels-the-dark-corner-of-the-internet-linked-to-the-toronto-suspect/
+; https://www.salon.com/2018/04/22/how-­‐the-­‐u-­‐s-­‐became-­‐troll-­‐nation-­‐from-­‐gamergate-­‐to-­‐the-­‐rise-­‐of-­‐
+trump/  
+https://www.nytimes.com/2017/11/01/magazine/not-the-bots-we-were-looking-for.html
+Exercise: Generate field notes on the racial or gender boundaries of a public.
+                                                                                                                        4  
+  
+
+
+Week 8: Self
+M 10-15: Thinking
+Readings: https://www.technologyreview.com/s/611808/the-neuropolitics-consultants-who-
+hack-voters-brains/ ; https://blogs.scientificamerican.com/observations/what-your-facebook-
+network-reveals-about-how-you-use-your-brain/ ; https://www.wsj.com/articles/how-
+smartphones-hijack-our-minds-1507307811 ; https://www.nytimes.com/2018/08/14/style/how-
+can-i-focus-better.html
+Journal exercise: Take an hour-long walk; observe your thought process, jotting down notes as
+you go.
+W 10-17: Googling Stupidity
+Readings: Nicholas Carr, “Is Google Making us Stupid?” David Auerbach, “The Stupidity of
+Computers.” Chad Wellmon, “Why Google Isn’t Making Us Stupid…or Smart.”;
+https://now.tufts.edu/articles/slow-down-reader
+Exercise: Spend an hour online; observe your thought process, recording notes in whatever
+manner you choose.
+Week 9: Social
+M 10-22: Field reports on your public.
+W 10-24: Surveillance
+Readings: http://www.businessinsider.com/china-emotional-surveillance-technology-2018-4 ;
+https://www.washingtonpost.com/news/world/wp/2018/01/07/feature/in-china-facial-
+recognition-is-sharp-end-of-a-drive-for-total-surveillance/ ; https://www.wsj.com/articles/want-
+to-spy-on-your-children-call-it-monitoringand-get-their-blessing-1504114131
+Journal exercise: Identify a tracking or monitoring technology and use it as a model to generate
+field observations.
+Week 10: Social
+M 10-29: Robots & AI
+Readings: https://www.nytimes.com/2018/08/13/opinion/we-are-merging-with-robots-thats-a-
+good-thing.html ; https://aeon.co/essays/the-offloading-ape-the-human-is-the-beast-that-
+automates ; https://hackernoon.com/how-artificial-intelligence-will-change-the-human-
+experience-99d795ce84b8 ; https://www.forbes.com/sites/daviddomzalski/2018/02/19/how-
+artificial-intelligence-will-soon-change-your-life/#603ff325b0ed
+Journal exercise: Write one page on how humanity may be enhanced by technological
+advancements.
+W 10-31: The End of Humanity?
+Readings:
+http://www.realcleartechnology.com/articles/2013/12/06/our_final_invention_how_the_human_r
+ace_goes_and_gets_itself_killed_816.html ; “Dark Factory,” Sheelah Kolhatkar, New Yorker.
+                                                                                                 5  
+  
+
+
+Journal exercise: Write one page on how humanity may be imperiled by technological
+advancements.
+Week 11: Social
+M 11-5: Field reports on your public.
+W 11-7: Interpreting Big Data
+Readings: https://thenewinquiry.com/view-from-nowhere/ https://aeon.co/essays/why-big-data-
+is-actually-small-personal-and-very-human ; https://www.epicpeople.org/purity-and-data/ ;
+https://www.epicpeople.org/domestication-data/ https://thenewinquiry.com/the-anxieties-of-big-
+data/ ; https://thenewinquiry.com/cloudy-logic/
+Journal exercise: list interpretive opportunities to interact with some form of data.
+Week 12: Self
+M 11-12: Privacy
+Readings: “The Prism,” by Jill Lepore, New Yorker; “Nowhere to Hide,” by Louis Menand, New
+Yorker,
+Journal exercise: Write on when and how you maintain privacy; when do you feel it slipping
+away?
+W 11-14: Field reports on your public.
+Week 13: Social
+M 11-19: Research Day!
+Week 14:
+M 11-26: Workshop Presentations.
+W 11-28: Workshop Presentations.
+Week 15:
+M 12-3: Presentations
+W 12-5: Presentations.
+Week 16:
+M 12-10: Presentations.
+                                                                                               6  
+  
+
+
+Resources:
+http://ethnographymatters.net/ https://www.rescuetime.com/ https://www.timeuse.org/ahtus
+https://www.ucl.ac.uk/why-we-post
+Recommended:
+Subscribe to the New York Times and to Adobe Creative Cloud, available through the Campus
+Computer Store.
+Syllabus as a Living Document:
+This syllabus is subject to change as the semester unfolds, as our discussions develop and your
+thinking and writing advance. Adjustments are likely and will hopefully reflect your feedback on
+our progress. I will announce changes in class and post syllabus updates to Canvas, so pay
+attention and stay current with class discussions and writing. Most readings are available online
+by following these links; for academic articles I will post a PDF when necessary. If you have
+trouble accessing an article, let me know immediately—others will likely encounter the same
+problem. But also please use your initiative to locate readings as necessary; it’s good practice in
+honing digital skills.
+Tech-etiquette: Despite much research that shows laptops and phones are a distraction in the
+classroom, this is a technology course. You are welcome to use such devices but you must
+demonstrate your cognizance that they are designed exactly to distract and absorb your attention.
+When people are reading, refrain from using these devices; also, I will call on people who seem
+adrift online. If tech-usage becomes rude and obnoxious, I will resort to drastic measures such as
+discounting the assignment turned in that day.
+Expertise: I invite your expertise in improving this course. My digital literacy is fairly limited.
+Please offer suggestions on materials that may enhance our discussions and exercise, and provide
+feedback on my approach to this course, with suggestions for additional topics or considerations.
+Thanks in advance!
+Students with disabilities may request appropriate academic accommodations from the Division
+of Diversity and Community Engagement, Services for Students with Disabilities, 512-471-
+6259, http://www.utexas.edu/diversity/ddce/ssd/
+UT Honor Code: http://registrar.utexas.edu/catalogs/gi09-10/ch01/index.html) Familiarize
+yourself with University statements about plagiarism and the consequences of plagiarizing:
+http://www.lib.utexas.edu/services/instruction/learningmodules/plagiarism/
+Penalties for violation of this Code can include failure of the course and University disciplinary
+action.
+                                                                                                    7  
+  

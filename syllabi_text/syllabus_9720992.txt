@@ -1,0 +1,61 @@
+Spring 2019
+ARC 370V / ARC 380V
+Creative Robotics
+Benjamin Rice
+ben@austin.utexas.edu
+Tues/Thurs 9:30-11am WMB Computer Lab / Sutton Hall
+Robotics Lab
+Office hours by appointment Sutton Hall Robotics Lab
+Course Description:
+This course will explore contemporary methods of using industrial robots to produce creative expression
+and representation. The course will revolve completely around researching, testing, and creating
+creative output in the robotics lab on the robots with a focus on pushing the limits of what we
+understand to be considered representation. This course has no rigid boundaries or correct answers –
+only unlimited questions that lead to creative, and hopefully unexpected, output.
+Expected Learning Outcomes:
+A knowledge of emerging robotic technologies as they relate to creative output, particularly modes of
+representation. Basic understandings of skills relative to this including:
+    •   programming for robotics;
+    •   robotic simulation;
+    •   material research;
+    •   3d modelling and visualization;
+Course Requirements:
+Students are expected to arrive on time to class prepared to work. The lab based nature of this course
+requires active engagement in every class meeting. Our final projects in this course will be actively
+worked on and built up over time through each and every meeting. Thoughtful discussion relative to
+your own as well as your colleague’s projects is required.
+Assignments:
+There is a single assignment to meet the requirements of this course. This project will be constructed
+thoroughly over each and every class meeting The final project will be due the final day of the course.
+
+
+Grade Breakdown:
+     •   Attendance and discussion: 20%
+     •   Final Project 80%
+Grading Policy:
+A Work exceptional
+A- As above, but with scope for further development
+B+ Strong, well researched and thorough work, diligently pursued, and successfully completed. Student
+pursues ideas and suggestions presented in class and completes all work.
+B Strong, well researched and thorough work, diligently pursued, and successfully completed.
+B- Strong, well researched and thorough work, diligently pursued. One or more assignments or projects
+requiring further development.
+C Assignments and/or projects are not pursued with dedication or vigor. Assignments or projects are
+incomplete in one or more areas.
+F Unacceptable work
+Attendance:
+You are expected to attend each class session. A student with two non-excused absences may be asked
+to leave the class.
+Course Materials:
+Throughout the course we will be producing output on the robots constantly. The materials you will
+need to purchase for the course will be based on your research direction, but students can expect to
+spend between $100-400 on materials during the course of the semester.
+Americans with Disabilities Act (ADA) Policy Statement:
+The University of Austin provides upon request appropriate academic accommodations for qualified
+students with disabilities. For more information, contact the Office of the Dean of Students at 471-6259,
+471-6441 TTY.
+Academic Integrity Statement:
+Strict standards of academic honesty will be enforced according to the University policy on academic
+integrity. All written work handed in by you is considered to be your own original work, prepared
+without unauthorized assistance. I expect that a student’s name on any assignment means that you
+have neither given nor received unauthorized aid.

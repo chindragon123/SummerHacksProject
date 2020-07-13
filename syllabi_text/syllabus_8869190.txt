@@ -1,0 +1,266 @@
+     MUS 319D – AET 305, Section I & II Foundations of Digital Sound and Music
+                                              22435 - 20860
+                                 9:30 – 11:00am, TU–TH, MRH 3.124
+                                              22440 - 20855
+                                11:00 – 12:00am, TU–TH, MRH 3.124
+                                                   Fall/2018
+Instructor: Nathan Nokes – nnokes@utexas.edu
+Office Hours: TBA | EMS Studios MRH 4.176 (EMS III)
+Teaching Assistant: Rita Yung – ysnrita@gmail.com
+Description
+Students enrolled this class will focus on learning the basic concepts behind digital audio and recording.
+The course will cover foundational material for dealing with recording, editing, sequencing, and mixing
+inside a Digital Audio Workstation. The primary objective of this course is to provide a functional
+understanding of digital audio systems and recording techniques that can be utilized in various fields
+including, but not limited to: audio production, film scoring, game music, and sound design.
+By the end of this course, students will:
+         •    Have an understanding of principles of sound (both acoustic and digital)
+         •    Work with manipulation, entry and sequencing of MIDI data and instruments to create
+              synthesized, and sampled sounds - This includes editing techniques and learning about
+              various forms of processing such as reverberation, filtering, audio compression and other
+              special effects.
+         •    Gain experience editing, manipulating and processing audio recordings
+         •    Create a stand-alone piece of music or sound design project demonstrating the knowledge
+              gained throughout the semester
+Class Format:
+This course will be split between lectures and lab work. Some days will be dedicated to lecturing,
+answering questions, and demonstrating concepts. As the semester continues the lectures will begin to
+be split with hands-on lab work in the multimedia lab, using the tools demonstrated in class. Students will
+also be expected to complete projects and assignments according to the topics discussed.
+Materials
+Logic X Pro - Available in the classroom. Optional Purchase (Pro Apps Bundle for Education discount
+available from Apple).
+Serum (synthesizer), online download. Xfer Records. Available in the classroom. Optional Purchase.
+Decent flat response closed or semi closed headphones (bring every class).
+Optional
+Rumsey, Francis and Tim McCormick. Sound and Recording. Waltham, MA: Focal Press, 2009
+Izhaki, Roey. Mixing Audio. Waltham, MA: Focal Press, 2012
+Komplete 11 – Native Instruments.
+Eastwest - Composer Cloud
+                                                       !1
+
+
+Prerequisites
+For AET 305: Arts and Entertainment Technology 304 (AET304).
+For MUS319D - None
+Basic knowledge of music theory. (scales, chords, chord progression, rhythmic notation, etc.)
+Course outline
+Official communication with student will be either during class, or through UT Canvas. It is
+student’s responsibility to check the class website regularly to be aware of changes made to this
+outline, although I will do my best to make these announcements during class.
+     Date                      Main Topic(s)                     Readings             Assignments/
+                                                                                     projects/quizzes
+    Week 1      – Course Introduction – review syllabus,
+                   course overview.
+      8/30      – Lecture: Music theory review
+    Week 2      –  Lecture: Acoustics, fundamentals of       Logic Pro X User     Assignment 1
+       9/4         sound, and psychoacoustics.               Guide
+       9/6      –  Lab Work: Working in a DAW 1 (Intro to
+                   Logic, signal flow, audio editing.)
+    Week 3      –  Lecture: Introduction to digital audio                         Assignment 2
+      9/11      –  Lab Work: Working in a DAW 2
+      9/13         (Bussing, routing, grouping,
+                   automation)
+    Week 4      –   Lecture: MIDI (history, use synthesis                         Quiz # 1 (on
+      9/18          and sampling)                                                 content from
+      9/20      –   Lab Work: Working in a DAW 3 (Midi                            weeks 2, and 3)
+                    recording, editing. Project 1)                                Project 1
+                –   Quiz # 1 (First 30 min of 2/8 class)
+    Week 5      Lab Work: Working on Project 1                                    Assignment 3
+      9/25
+      9/27
+    Week 6      Audio processing                                                  Assignment 4
+      10/2          – Lecture: Frequency processing
+      10/4               (EQ, Filters, comb filters)
+                    – Lab Work
+    Week 7      Audio processing                                                  Assignment 5
+      10/9          – Lecture: Time processing (delay,
+     10/11               flanger, chorus)
+                    – Lab Work
+    Week 8      Audio processing                                                  Assignment 6
+     10/16          – Lecture: Specialization (panning,
+     10/18               reverb)
+                    – Lecture: Dynamic processing
+                         (compressor, limiter, gate, ducker)
+                    – Lab Work
+                                                      !2
+
+
+     Week 9
+      10/23                Midterm Exam (both days)
+      10/25
+    Week 10        –   Lecture: Basic subtractive synthesis     Serum User guide       Assignment 7
+      10/30            (Serum)
+       11/1        –   Lab Work
+    Week 11        –   Lecture: Samplers and step               Kontakt User guide     Assignment 8
+       11/6            sequencers (Kontakt, Eastwest,           Logic User guide
+  11/8 (VOTE)          Ultrabeat)
+                   –   Lab Work
+    Week 12        –   Lecture: Mixing/Mastering                                       Assignment 9
+      11/13
+      11/15        –   Microphones and Studio equipment
+    Week 13        –   TBA
+      11/20        –   Break
+  11/22(Break)
+    Week 14        –   Lab Work: Final Project                                         Final Project
+      11/27
+      11/29
+    Week 15        –   Lab Work: Final Project                                         Final Project
+      12/4
+      12/6
+    Week 16                       Finals Week                                          Final Project
+      12/11                Final Project Presentation
+      12/13
+Classroom policies
+Students are expected to attend class daily. Students will have 2 excused absences (without doctor’s
+note/notification). Each absence beyond 2 (without a doctor’s note/notification) will result in a reduction of
+5 points off the final (assignments) point total in the course.
+All students are expected to participate in class discussion, and are expected to respect the opinions and
+statements of their classmates during discussion and classroom activities.
+Contacting Teacher or TA(s)
+For basic questions concerning assignments or lectures, email the the TAs and CC me. In addition feel
+free to stop by during my office hours.
+Note about email: Most weekdays I typically check my email early morning and in the evening. Please
+allow adequate time for responses.
+Grading
+Projects and homework will be submitted online via Canvas.
+Make-up work will be accepted under special circumstances only. There will be no make-up exams,
+except in emergency circumstances (please see me for additional details).
+Assignments should be turned in on time. Late assignments will be accepted up to 1 week after the due
+date, with a 5% deduction for each day late.
+                   The final grade is calculated from:
+                                                        !3
+
+
+                45% – Assignments/quizzes/projects
+                15% – Midterm
+                35% – Final project
+                5% – Attendance
+Grading Policy
+To ensure fairness, all numbers are absolute, and will not be rounded up or down at any stage.
+Thus a B- will be inclusive of all scores of 80.000 through 83.999... The University does not
+recognize the grade of A+. Thus, the conversion from percentage value to letter grade is as
+follows:
+                A = 94 – 100
+                A- = 90 – 93.999…
+                B+ = 87 – 89.999…
+                B = 84 – 86.999…
+                B- = 80 – 83.999…
+                C+ = 77 – 79.999…
+                C = 74 – 76.999…
+                C- = 70 – 73.999…
+                D+ = 67 – 69.999…
+                D = 64 – 66.999…
+                D- = 60 – 63.999…
+                F = 0 – 59.999…
+Student Rights & Responsibilities
+     •  You have a right to a learning environment that supports mental and physical wellness.
+     •  You have a right to respect.
+     •  You have a right to be assessed and graded fairly.
+     •  You have a right to freedom of opinion and expression.
+     •  You have a right to privacy and confidentiality.
+     •  You have a right to meaningful and equal participation, to self-organize groups to
+        improve your learning environment.
+     •  You have a right to learn in an environment that is welcoming to all people. No student
+        shall be isolated, excluded or diminished in any way.
+With these rights come responsibilities:
+     • You are responsible for taking care of yourself, managing your time, and communicating
+        with the teaching team and with others if things start to feel out of control or
+        overwhelming.
+     • You are responsible for acting in a way that is worthy of respect and always respectful of
+        others.
+     • Your experience with this course is directly related to the quality of the energy that you
+        bring to it, and your energy shapes the quality of your peers’ experiences.
+     • You are responsible for creating an inclusive environment and for speaking up when
+        someone is excluded.
+     • You are responsible for holding yourself accountable to these standards, holding each
+        other to these standards, and holding the teaching team accountable as well.
+Personal Pronoun Preference
+                                                  !4
+
+
+    Professional courtesy and sensitivity are especially important with respect to individuals
+    and topics dealing with differences of race, culture, religion, politics, sexual orientation,
+    gender, gender variance, and nationalities. Class rosters are provided to the instructor with
+    the student’s legal name. I will gladly honor your request to address you by an alternate
+    name or gender pronoun. Please advise me of this preference early in the semester so that
+    I may make appropriate changes to my records.
+University Policies
+Academic Integrity
+    Each student in the course is expected to abide by the University of Texas Honor
+    Code: “As a student of The University of Texas at Austin, I shall abide by the core
+    values of the University and uphold academic integrity.” Plagiarism is taken very
+    seriously at UT. Therefore, if you use words or ideas that are not your own (or that
+    you have used in previous class), you must cite your sources. Otherwise you will be
+    guilty of plagiarism and subject to academic disciplinary action, including failure of
+    the course. You are responsible for understanding UT’s Academic Honesty and the
+    University Honor Code which can be found at the following web address: http://
+    deanofstudents.utexas.edu/sjs/acint_student.php
+ Drop Policy
+    If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before
+    the Q-drop deadline, which typically occurs near the middle of the semester. Under Texas
+    law, you are only allowed six Q drops while you are in college at any public Texas
+    institution. For more information, see: http://www.utexas.edu/ugs/csacc/academic/
+    adddrop/qdrop
+ University Resources for Students
+    Your success in this class is important to me. We will all need accommodations because
+    we all learn differently. If there are aspects of this course that prevent you from learning or
+    exclude you, please let me know as soon as possible. Together we’ll develop strategies to
+    meet both your needs and the requirements of the course. There are also a range of
+    resources on campus:
+ Services for Students with Disabilities
+    This class respects and welcomes students of all backgrounds, identities, and abilities. If
+    there are circumstances that make our learning environment and activities difficult, if you
+    have medical information that you need to share with me, or if you need specific
+    arrangements in case the building needs to be evacuated, please let me know. I am
+    committed to creating an effective learning environment for all students, but I can only do
+    so if you discuss your needs with me as early as possible. I promise to maintain the
+    confidentiality of these discussions. If appropriate, also contact
+    Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video
+    phone). http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+    Do your best to maintain a healthy lifestyle this semester by eating well, exercising,
+    avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will
+    help you achieve your goals and cope with stress.
+                                                  !5
+
+
+     All of us benefit from support during times of struggle. You are not alone. There are many
+     helpful resources available on campus and an important part of the college experience is
+     learning how to ask for help. Asking for support sooner rather than later is often helpful.
+     If you or anyone you know experiences any academic stress, difficult life events, or feelings
+     like anxiety or depression, we strongly encourage you to seek support. http://
+     www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+     Did you know that more than one-third of UT undergraduate students use the Sanger
+     Learning Center each year to improve their academic performance? All students are
+     welcome to take advantage of Sanger Center’s classes and workshops, private learning
+     specialist appointments, peer academic coaching, and tutoring for more than 70 courses in
+     15 different subject areas. For more information, please visit http://www.utexas.edu/ugs/slc
+     or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Important Safety Information:
+     If you have concerns about the safety or behavior of fellow students, TAs or
+     Professors, call BCAL (the Behavior Concerns Advice Line): 512-232-5050. Your call
+     can be anonymous. If something doesn’t feel right – it probably isn’t. Trust your
+     instincts and share your concerns.
+     The following recommendations regarding emergency evacuation from the Office of
+     Campus Safety and Security, 512-471-5767, http://www.utexas.edu/safety/
+     Occupants of buildings on The University of Texas at Austin campus are required to
+     evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+     requires exiting and assembling outside.
+ •   Familiarize yourself with all exit doors of each classroom and building you may occupy.
+     Remember that the nearest exit door may not be the one you used when entering the
+     building.
+ •   Students requiring assistance in evacuation shall inform their instructor in writing during the
+     first week of class.
+ •   In the event of an evacuation, follow the instruction of faculty or class instructors. Do not
+     re-enter a building unless given instructions by the following: Austin Fire Department, The
+     University of Texas at Austin Police Department, or Fire Prevention Services office.
+ •   Link to information regarding emergency evacuation routes and emergency procedures can
+     be found at:
+     www.utexas.edu/emergency
+                                                 !6

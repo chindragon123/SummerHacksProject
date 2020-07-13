@@ -1,0 +1,118 @@
+                                       The University of Texas at Austin
+                                          Department of Philosophy
+                                                  Summer 2019
+                                           PHL F325M / BIO F337
+                                       Medicine, Ethics and Society
+                                       MTuWThF 11.30 -13.00; WAG 302
+  Instructor: Sahotra Sarkar.                                             Office: 415 Waggener.
+  Office Hours: MW: 10.30 -11.30;                                         Phone: (512) 232 -7122.
+         but students are welcome any time I’m in.                        E-mail: sarkar@austin.utexas.edu.
+Course Description:
+This course is an introduction to the philosophy of medicine with a focus on social policy and ethical issues.
+Topics covered include: conceptual and normative foundations of medicine; ethical implications of recent
+scientific results such as genomics and human embryology; medical explications of race and their implications
+for health; prospects and problems with human genetic modification and the possibility of eugenics; issues
+of equity and justice in public health including genetic screening and testing, and mandatory vaccination.
+Throughout, the emphasis will be on social context and normative analysis.
+The course will focus on the following four major topics in sequence:
+    • Ethics and human embryology.
+    • Race and medicine.
+    • Vaccination and problems of public health.
+    • Gene cloning, editing, and eugenics.
+The scope of this course is broader than that of traditional courses in biomedical ethics. It includes discussions
+of topics in medical epistemology (including aspects of the philosophy of biology) and the social and political
+contexts of medical practice.
+Prerequisites: None, but students are expected to be willing to satisfy ambitious reading requirements
+(which must be completed before each class) and to participate meaningfully in class discussions and other
+course-related activities.
+Class Policies and Conduct:
+Students with disabilities will be accommodated as specified in: http://diversity.utexas.edu/disability/
+accommodations-and-services/.
+For the university policy on academic honesty, look at: http://deanofstudents.utexas.edu/conduct/
+academicintegrity.php.
+Besides the usual university policies this course will implement the following rules:
+   1. Attendance at all lectures and discussion sessions is mandatory and will be recorded. Poor attendance
+      may lead to a failing grade independent of other aspects of course performance.
+   2. Students are not allowed to use computers or any other electronic device in class or in discussion
+      sessions. The purpose of this policy is to ensure a focus on class activities. Failure to comply with this
+      policy may lead to a failing grade independent of other aspects of course performance.
+                                                         1
+
+
+   3. In all written work, sources of all information must be explicitly cited, and the sources used must
+      consist of peer-reviewed publications. Using websites as information sources for citation purposes will
+      not be adequate. (The internet can be profitably used to uncover information but all such information
+      must be verified by reference to the peer–reviewed published literature.)
+Required Texts:
+The following three books are available through the University Co-op:
+    • Gilbert, S. F. and Pinto-Correia. 2017. Fear, Wonder, and Science in the New Age of Reproductive
+      Biotechnology. New York: Columbia University Press.
+    • Hotez, P. J. 2018. Vaccines Did Not Cause Rachel’s Autism. Baltimore: Johns Hopkins University
+      Press.
+    • Fish, J. M. Ed. 2011. Race and Intelligence: Separating Science From Myth. New York: Routledge.
+Other required texts are available through Canvas. Additional (optional) recommended readings are also
+available at the same location. The additional readings will be of particular use when writing the term paper
+(see below).
+Grading Policy:
+Grades will be assigned on the basis of:
+    • Three open-book in-class examinations which will consist of short-answer questions, together worth
+      45 % of the grade. Dates of examinations: in-class, 17-June-19; 28-June-19; and 11-July-19. The
+      examinations will test knowledge of material presented in the lectures as well as in the required readings
+      but not in the recommended readings.
+    • A 3000-word typed term paper, worth 40 % of the grade, due in class on11-July-19. Late papers will
+      not be accepted. See the Class Policies section about how to cite sources in papers. A list of potential
+      paper topics will be made available through Canvas. Students are encouraged to devise their own paper
+      topics but these must be explicitly discussed and cleared with the instructor prior to submission. Paper
+      topics may also be generated from collective class projects that will be discussed during the lectures.
+      Each such project will involve four to six students working together on a single topic and then each
+      reporting on some aspect of it in an independent paper.
+    • Class participation (worth 15 % of the grade) judged on the basis of attendance, active engagement
+      during class meetings, and other class activities.
+                                                       2
+
+
+Course Schedule:
+ Date      Topic                            Required Readings               Optional Readings
+ 06-Jun-19 Introduction.                    —                               —
+ 07-Jun-19 Human Development and Ethics.    Gilbert & Pinto-Correia 2017,   —
+                                            Chapters 1, 2.
+ 10-Jun-19 The Embryo.                      Gilbert & Pinto-Correia 2017,   —
+                                            Chapters 3, 4.
+ 11-Jun-19 The Foetus.                      Gilbert & Pinto-Correia 2017,   —
+                                            Chapters 5, 6.
+ 12-Jun-19 Improving Humans                 Gilbert & Pinto-Correia 2017,   —
+                                            Chapters 7, 8.
+ 13-Jun-19 Human Bodies.                    Gilbert & Pinto-Correia 2017,   —
+                                            Chapters 9, 10.
+ 14-Jun-19 Review                           —                               —
+ 17-Jun-19 Exam 1.                          —                               —
+ 18-Jun-19 Vaccination and Public Health.   Fine et al. 2011;
+                                            Hotez 2018, Chapters 1 -7.
+ 19-Jun-19 Measles and Autism.              Hotez 2018, Chapters 8 -12.
+ 20-Jun-19 Objections to Vaccination.       Navin 2018.
+ 21-Jun-19 Review                           —                               —
+ 24-Jun-19 Race and Science.                Fish 2011, Chapters 2, 5, 6.    Fish 2011, Chapter 1, 4.
+ 25-Jun-19 Social Construction of Race.     Fish 2011, Chapters 8, 11, 12.  Fish 2011, Chapters 9, 10.
+ 26-Jun-19 Race, Intelligence and Success.  Fish 2011, Chapters 13, 14, 15.
+ 27-Jun-19 Review                           —                               —
+ 28-Jun-19 Exam 2.                          —                               —
+ 01-Jul-19 The Human Genome Project.        Sarkar 2019, Chapter 4.         Tauber & Sarkar 1992.
+ 02-Jul-19 The CRISPR Revolution.           Sarkar 2019, Chapter 5.         —
+ 03-Jul-19 Eugenics: History and Prospects. Sarkar 2019, Chaper 6.          —
+ 05-Jul-19 Review.                          —                               —
+ 08-Jul-19 Elimination of Genetic Diseases. Sarkar 2019, Chapter 7.         —
+ 09-Jul-19 Genetic Enhancement.             Sarkar 2019, Chapter 8.
+ 10-Jul-19 Review.                          —                               —
+ 11-Jul-19 Exam 3; Papers due.              —                               —
+                                              3
+
+
+References:
+  • Fine, P., Eames, K., and Heymann, D. L., 2011. “Herd immunity”: A rough gide. Clinical Infectious
+    Diseases 52: 911 -916.
+  • Navin, M. 2018. Prioritizing religion in vaccine exemption policies. In Vallier, K. and Weber, M. Eds.
+    Religious Exemptions. Oxford: Oxford University Press, 2018. 184-202.
+  • Sarkar, S. 2019. A Brave New Eugenics? CRISPR and the Human Future. Mss.
+  • Tauber, A. I. and Sarkar, S. 1992. ‘The Human Genome Project: Has blind reductionism gone too
+    far? Perspectives in Biology and Medicine 35: 220 -235.
+                                                     4

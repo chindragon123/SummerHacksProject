@@ -1,0 +1,240 @@
+EE 312 Syllabus                                                                       http://users.ece.utexas.edu/~vallathn/ee312/syllabus.html
+                              Syllabus - Electrical & Computer Engineering EE 312
+                               SOFTWARE DESIGN & IMPLEMENTATION I
+                                  The University of Texas at Austin, Summer 2019
+                                                Instructor: Vallath Nandakumar
+                                                    Subject to change until 6/6/2019
+                                                         Last modified: 5/21/2019
+         Description: This course teaches C/C++ programming. All programming will be in C/C++.
+         Objectives: To learn problem solving skills and techniques for programming; programming in the C/C++ language; and
+         basic software engineering concepts for imperative programming for small programs. Develop the ability to use
+         programming techniques, skills and modern tools necessary for software engineering practices.
+         Estimates of the required effort to pass the class are:
+                5 hours per week of studying
+                5-15 hours per week of programming (less early in the course, more later)
+                1500 lines of C code.
+         Prerequisites: Electrical Engineering 306 or Biomedical Engineering 303 with a grade of at least C- AND Electrical
+         Engineering 319K with a grade of at least C-. Incoming students are expected to know the basics of computers and
+         computation, and to have written some small programs in both C and assembly language.
+         Lecture:
+         MWF 10 AM -11:30 PM, lectures will be in ECJ 1.324.
+         Recitation (Discussion) Sections:
+              Unique        Hour               Room                  Day              Recitation Section TA              Grader
+                76035       1-2:30             EER 1.512              Th                  Shikhar Singh
+                76040       10-11:30           EER 1.512              Th                  Shikhar Singh
+         Teaching Staff:
+                Instructor, Vallath Nandakumar, email: vallathn [at] austin dot utexas dot edu Office: EER 4.826.
+                Office Hours: See the Office Hours page. Or by appointment.
+                Teaching Assistants:
+                Graduate TAs:
+                Shikhar Singh, shikhar_singh at utexas dot edu
+         Class web site: See Canvas and here.
+         Required Textbook:
+1 of 6                                                                                                                         6/6/19, 4:41 PM
+
+
+EE 312 Syllabus                                                                          http://users.ece.utexas.edu/~vallathn/ee312/syllabus.html
+         None.
+         Recommended Textbooks:
+         C Programming, Second Edition, K. N. King ; Paperback ; ISBN: 978-0-393-97950-3
+         Thinking in C++ (2nd Edition) Volume 1, by B. Eckel, ISBN 0-13-979089-9. Note that the Eckel book can be downloaded
+         from http://www.mindviewinc.com � i.e., this book is free.
+         Class Participation, Instapoll on Canvas (Required)
+                 Make sure that you can access Canvas and Instapoll using a web browser in class.
+                 You may use a phone or other internet-connected device. Participation on the Instapoll questions is graded.
+                 In order to get credit for a given day you MUST answer at least 3/4 of the Instapoll questions during class.
+               If you do not meet these requirements you will not receive Instapoll credit for that day. Regardless of your Instapoll
+         score, you are expected to come to all classes on time, and stay until the end.
+               Answering Instapoll from anywhere other than the classroom, answering for another person etc. are considered
+         academic dishonesty, and will be grounds for reporting to Student Conduct.
+               You are given 2 free Instapoll days, which you can use for any reason (app not working, left phone at home, cannot
+         attend lecture, attending interview etc.).For longer absences due to personal issues, etc. come and see me as soon as
+         possible if you want to make up the missing scores; I may ask for evidence.
+         Class Discussion Tool: I have set up a discussion group for the class on Piazza.
+                 Go to the Piazza web site and join the EE 312 - Nandakumar group, for The University of Texas at Austin. An
+                 access code is required to sign up, that you may get from me.
+                 I will post class announcements and information to the discussion group.
+                 You must read Piazza posts, especially instructor announcements. Piazza is an official communication channel for
+                 this course.
+                 Post your questions about the class to the discussion group. You cannot expect to get detailed answers to technical
+                 questions by email, so Piazza use is encouraged. Students are also encouraged to discuss important matters with the
+                 teaching team in person, typically during recitation or office hours.
+         Email: All students must become familiar with the University's official e-mail student notification policy. It is your
+         responsibility to keep the University informed as to changes in your e-mail address. You are expected to check e-mail on a
+         frequent and regular basis in order to stay current with University-related communications, recognizing that certain
+         communications may be time-critical. It is recommended that e-mail be checked daily. Instructions for updating your
+         e-mail address are available here.
+         You are responsible for checking your e-mail and the class discussion group regularly for class work and announcements.
+         Verbal instructions and special dispensations given to you by instructors must be confirmed by email. You must include
+         your full official name and UT EID in every email. You must also Cc: all relevant parties, including your TA and project
+         partner, where relevant.
+         Use of electronic devices in class:
+         Laptops, cell phones, tablets etc. are not allowed in class.
+         Contacting the instructors:
+         Piazza is to be used for technical questions and questions of general interest. If you have a question regarding your grade,
+         attendance, special requirement etc., you must contact the staff by email. Include your EID and course name. If relevant,
+         include your TA or grader(s) (and/or Nandakumar) in every email. Use Reply All whenever possible to keep everyone in
+         the loop. Include the unique or the recitation date and time if relevant.
+         Any agreement between you and an instructor must be confirmed by email. Oral agreements may not be honored unless
+         confirmed in writing.
+2 of 6                                                                                                                            6/6/19, 4:41 PM
+
+
+EE 312 Syllabus                                                                            http://users.ece.utexas.edu/~vallathn/ee312/syllabus.html
+         Do not use Canvas mail to contact the instructor staff.
+         Software: Required software for programming assignments is described on this web page or on Piazza.
+         Computing Facilities:
+         You must log in remotely to the remote Linux machines kamek.ece.utexas.edu to try out your programming assignments.
+         Schedule: A schedule of lecture topics is available online. Readings will be announced on Piazza, and are to be
+         completed before class. The schedule is subject to change. The schedule on Canvas is to be followed, if there are
+         discrepancies.
+         Grading: Class components used to determine your final average are shown below. This is subject to change.
+               Component Type                    Number                      Points                   Total Points
+          Programming
+                                                   8-9                         ~28                        250*
+          Assignments
+          Quizzes                               Undecided                                                 110*
+          Instapoll Participation                  ~27                      ~1 each                         30
+          Midterms 1 & 2                             2                      160/200                        360
+          Final Exam                                 1                         250                         250
+          Total                                                                                           1000
+                Quizzes, and Instapoll participation cannot be made up for any reason. For programming assignments there is some
+                leeway. See the explanation of slip days below.
+                The final letter grades will be assigned based on your earned total points. The maximum possible points is 1000.
+                The grade cutoffs will be determined later. There may be upward curving of your earned total points.
+                Depending on the results of an exam, exam scores may be adjusted. Exam scores will rarely get worse due to a
+                adjustment. No other class components (assignments, Instapoll participation, or quizzes) are curved.
+                You have 3 slip days (max of 1 per homework assignment) to use through out the term on your assignments if you
+                are not able to turn an assignment in on time. If you want to use a slip day, mark it in your submitted program file
+                header (the main file's). Slip days are to account for life circumstances (My hard drive crashed!! I got a virus
+                downloading an mp3!!) and emergencies. Do not use your slip days frivolously. If you use up your slip days and
+                late assignments will not be graded and be assigned a grade of 0. Failure to follow instructions on turning in
+                assignments may result in the loss of slip days.
+                The required format and procedures for turning in assignments are available on Canvas on the assignments page.
+                Assignments that are not turned in in the correct format will cause you to lose slip days, lose points, and/or receive a
+                0 on the assignment. Once you run out of slip days, you will get a 0 for late work. Turning in work more than 24
+                hours late will also earn a 0.
+                At any time, you may be asked to come to the instructor's office and work out coding or other questions. This will
+                be part of the homework assignment grading process.
+                Quizzes are given at the beginning of some recitation sections. If you are not present when the quiz is completed
+                you receive a 0 for that quiz. Quizzes cannot be made up under any circumstances. Quizzes are not curved. Quiz
+                grading will be: 10 for a perfect quiz, 7 - 9 for minor mistakes, and 6 or less for little or no effort. Your lowest quiz
+                score will be dropped.
+                If a student misses a midterm exam with a verifiable excuse, the final exam will count for the missed exam.
+                If you are dissatisfied with a grade you receive on an assignment or test, you must submit your complaint via
+                email, along with supporting evidence, to your grader within 5 days of the date the teaching staff first attempted to
+                return the assignment or test to you.
+                Questions about your grade are to be sent to the grader assigned to your section. See the table above for graders and
+3 of 6                                                                                                                              6/6/19, 4:41 PM
+
+
+EE 312 Syllabus                                                                             http://users.ece.utexas.edu/~vallathn/ee312/syllabus.html
+                 section unique ids.
+                 You may request a regrade of an exam if you feel the grading criteria was not applied correctly. To ensure accuracy
+                 the entire exam will be regraded and your score may go down.
+                 Illness: If you are sick and cannot attend class or turn in an assignment, inform the instructor immediately. Be
+                 prepared to turn in a doctor's certificate explaining your condition; we may allow some adjustment in deadline.
+         Guiding Principle - Feedback and concerns about the course are always welcome; legitimate grading errors that are
+         identified in a timely fashion will certainly be corrected, but whining is counter-productive and will only irritate those who
+         evaluate your work to determine grades.
+         Important Dates for Changing Academic Status and Dropping the Course: Refer to the Registrar's
+         academic calendar for the deadlines for changes in academic status. Highlights are:
+                 6/7/19: Last day of the official add/drop period; after this date, changes in registration require the approval of the
+                 department chair and usually the student's dean.
+                 6/11/19: Last day to drop for a possible refund. Last day to add a course.
+                 6/26/19: Last day a student may change registration in a class to or from the pass/fail or credit/no credit basis. Last
+                 day an undergraduate student may, with the dean's approval, withdraw from the University or drop a class except for
+                 urgent and substantiated, nonacademic reasons.
+         Students experiencing significant nonacademic problems (extended health problems or family emergencies) should
+         contact the Engineering Student Services in EER 2.848.
+         Academic Dishonesty:
+         Read the academic integrity policy that we expect and enforce at UT Austin.
+         "...You and other students are expected to maintain absolute integrity and a high standard of individual honor in scholastic
+         work undertaken at the University. This is a very basic expectation that is further reinforced by the University's Honor
+         Code. At a minimum, you should complete any assignments, exams, and other scholastic endeavors with the utmost
+         honesty, which requires you to:
+                 acknowledge the contributions of other sources to your scholastic efforts;
+                 complete your assignments independently unless expressly authorized to seek or obtain assistance in preparing
+                 them;
+                 follow instructions for assignments and exams, and observe the standards of your academic discipline; and
+                 avoid engaging in any form of academic dishonesty on behalf of yourself or another student."
+         Every piece of work that you turn in with your name on it must be yours and yours alone unless explicitly allowed by an
+         instructor in a particular class. Specifically, unless otherwise authorized by an instructor:
+                 Students may not discuss their work with anyone except the instructor and other members of the instructional staff
+                 (instructor, TA, lab proctor or partner on a pair assignment).
+                 Students may not acquire from any source (e.g., another student or an internet site) a partial or complete solution to
+                 a problem or project that has been assigned.
+         You are responsible for complying with this policy in two ways:
+              1. You must not turn in work that is not yours, except as expressly permitted by the instructor of each course.
+              2. You must not enable someone else to turn in work that is not theirs. Do not share your work with anyone else. Make
+                 sure that you adequately protect all your files. Even after you have finished a class, do not share your work or
+                 published answers with the students who come after you. They need to do their work on their own. This means do
+                 not post your solution code to any public web site such as pastebin. Also, do not post your work to the web even
+                 after you have completed EE 312.
+         The penalty for academic dishonesty will be a course grade of F and a referral of the case to the Dean of Students.
+4 of 6                                                                                                                               6/6/19, 4:41 PM
+
+
+EE 312 Syllabus                                                                            http://users.ece.utexas.edu/~vallathn/ee312/syllabus.html
+         Further penalties, including suspension or expulsion from the university may be imposed by that office.
+         One final word: This policy is not intended to discourage students from learning from each other, nor is it unmindful of the
+         fact that most significant work in engineering and computer science is done by teams of people working together. But,
+         because of our need to assign individual grades, we are forced to impose an otherwise artificial requirement for individual
+         work. In some classes, it is possible to allow and even encourage collaboration in ways that do not interfere with the
+         instructor's ability to assign grades. In these cases, your instructor will make clear to you exactly what kinds of
+         collaboration are allowed for that class.
+         For EE 312 the policy on collaboration is modified as follows:
+         If you are repeating the course you may reuse code you completed on your own. You may NOT use code from a program
+         you worked on as part of a pair or code that was from a program involved in an academic dishonesty case. You must start
+         from scratch on any and all programs that:
+                 were part of an academic dishonesty case
+                 you worked with a partner during a pervious semester
+                 you are working with a partner this semester
+         You are encouraged to study for tests together, to discuss methods for solving the assignments, to help each other in using
+         the software, and to discuss methods for debugging code. Essentially if you talk about an assignment with any one else
+         you are okay, but the moment you start looking at someone else's source code or showing someone else your source
+         code you have crossed the line into cheating. You should not ask anyone to give you a copy of their code or, conversely,
+         give your code to another student who asks you for it. Similarly, you should not discuss your algorithmic strategies to such
+         an extent that you and your collaborators end up turning in exactly the same code. Discuss high level approaches together,
+         but do the coding on your own.
+         Examples of cheating are many and include accessing another student's account, looking at someone else's solution code,
+         copying or downloading someone else's solution code, referring to solutions from previous semesters, having another
+         student walk you through the solution and how to code it, having another student perform significant debugging of your
+         code, having another student write your code for you and / or allowing others to copy of access your solution code. This
+         means you shall not look on the internet for code to solve your problems unless we explicitly permit it.
+         Examples of allowable collaboration include discussions and debate of general concepts and solution strategies and help
+         with syntax errors.
+         The code you can reuse in this course are:
+              1. You may use any code you develop with the instructor, TAs, or proctors.
+              2. You may use code (with attribution) from the class slides and the class coding examples.
+              3. You may share additional test cases and expected results of test cases. You may not share solution code or
+                 experiment code.
+         You shall not make use of code you find from other sources including the world wide web. Materials from the web should
+         only be used for educational purposes. Thus, you can read about linked lists and look at examples of linked list code, but
+         you must not copy any code from the web or be looking at any of this code from the web when writing anything you turn
+         in. If you discuss an assignment with another student or look at examples from the web you should employ the League of
+         Legends Rule:
+         League of Legends Rule: After a discussion with another student or looking at example code you should do something
+         that has nothing to do with computer science or programming for at least half an hour -- playing League of Legends or
+         other similar activity. (Watching a sitcom, reading a book, working on another class.)
+         You are also allowed to post short segments of code (2 lines or less) of code that are giving you syntax errors to the class
+         discussion group in order to get help on fixing the syntax error.
+         If you have any doubts about what is allowed, ask the instructor.
+5 of 6                                                                                                                              6/6/19, 4:41 PM
+
+
+EE 312 Syllabus                                                                              http://users.ece.utexas.edu/~vallathn/ee312/syllabus.html
+         Plagiarism detection software will be used on assignments to find students who have copied code from one another.
+         For more information on Scholastic Dishonesty see the University Policy on Scholastic Dishonesty.
+         Religious Holidays: By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to
+         the date of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in
+         order to observe a religious holy day, you will be given an opportunity to complete the missed work within a reasonable
+         time after the absence.
+         Students with Disabilities: students with disabilities may request appropriate academic accommodations from the
+         Division of Diversity and Community Engagement, Services for Students with Disabilities,
+         471-6259, http://diversity.utexas.edu/disability. Please present written proof of your special need from the above-
+         mentioned office by 6/26/19. If your accommodation includes a longer duration or quiet facilities for the midterms or
+         final, it is your responsibility to secure a spot in the SSD facilities on the day of the exam, overlapping with the regular
+         exam time (if possible). You will have to request these facilities a month in advance of the test. The spots fill up fast!
+                                                             Back to the EE 312 webpage
+6 of 6                                                                                                                                6/6/19, 4:41 PM

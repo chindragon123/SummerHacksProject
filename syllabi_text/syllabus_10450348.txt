@@ -1,0 +1,69 @@
+     M W408D - Sequences, Series, Multivariable Calculus -
+                                  WB, Summer 2020
+Instructor
+Dr. Eric Staron
+Office: N/A
+Email: estaron@math.utexas.edu
+Office Hours: MWF: 10:30-11:30, via zoom, or by appointment.
+Class Information
+Lecture: MWF, 11:30-12:45, Zoom (link available on canvas)
+Discussion Section: (85480) TTH, 10-11:15a, Zoom; (85485) TTH, 11:30-12:45, Zoom
+Course Websites
+Quest can be accessed at https://quest.cns.utexas.edu/
+Canvas can be accessed at http://canvas.utexas.edu//.
+Textbook
+Calculus, Early Transcendentals, 8th edition, by James Stewart
+Course Overview
+This course is a continuation of M408C and covers a variety of topics in the theory of functions of
+one or more variables: techniques of integration, improper integrals, differential equations, infinite
+sequences and series, power and Taylor series, parametric curves, and derivatives and integrals
+of vector and multivariable functions with applications. Its objective is to provide students with
+practical mathematical skills necessary for advanced studies in all areas of science and engineering.
+Emphasis will be placed on concepts and computations rather than proofs.
+Prerequisites
+Mathematics 408C, 408L, or 408S with a grade of at least C-; or consent of instructor.
+Rules for the Classroom
+I expect you to be courteous to each other. Academic Dishonesty will result in an F for the course.
+Grading
+Your grade will be determined by online homework, 4 in-class exams, and a final exam. Grades
+will be determined using the following scale:
+100-93, A      92-90, A-     89-87, B+       86-83, B    82-80, B-      79-77, C+
+76-73, C     72-70, C-     69-65, D+       64-60, D    59-0, F
+Homework (10%): Homework assignments will typically cover two lectures worth of material and
+be due at 11:30p. Homework will be assigned regularly via the Web using the UT Homework Ser-
+
+
+vice, QUEST; all answers and grades will be returned via the Web also using Quest. The lowest
+3 scores will be dropped. I will add 5% of your instapoll average to your HW grade but your
+homework average is capped at 100.
+This course makes use of the web-based Quest content delivery and homework server system maintained by the
+College of Natural Sciences. This homework service will require a $30 charge per student per class for its use,
+with no student being charged more than $60 a semester. This goes toward the maintenance and operation of the
+resource. Please go to http://quest.cns.utexas.edu to log in to the Quest system for this class. After the 12th
+day of class, when you log into Quest you will be asked to pay via credit card on a secure payment site. Quest
+provides mandatory instructional material for this course, just as is your textbook, etc. For payment questions,
+email quest.billing@cns.utexas.edu.
+In-Class Exams (60%): The exam dates are 06/19, 07/08, 07/29, and 08/12. Calculators are
+not allowed during the exams. I replace your lowest exam grade with your final if that will help
+your course grade. Because of this policy there will be absolutely positively no make-up
+exams. The exams will be administered on Quest and are multiple choice.
+Final Exam (30%): The final exam is cumulative. It is scheduled for Saturday, August 15th from
+7 to 10p. If you do not show up to the final exam, you will earn a 0 on the final.
+Student with Disabilities
+Students who fall under the University’s Learning Disability Policy must present certification of
+that fact to the student’s instructor prior to the first test. The University of Austin provides upon
+request appropriate academic accommodations for qualified students with disabilities. For more
+information and certification letter, contact the Division of Diversity and Community Engagement,
+Services for Students with Disabilities:
+http://www.utexas.edu/diversity/ddce/ssd/, 471- 6259, 471-6441 TTY.
+Students with disabilities must make arrangements with the instructor or the UT Testing center
+2 weeks before each exam. Failure to do so will result in a student forfeiting their accommodations.
+Counseling and Mental Health Center
+Student Services Bldg (SSB), 5th Floor Hours: M–F 8am–5pm
+512 471 3515 (appointments)
+512 471 CALL (crisis line)
+https://cmhc.utexas.edu/
+Dean of Students - Student Emergency Services
+512 471 5017
+https://deanofstudents.utexas.edu/emergency/
+                                                       2

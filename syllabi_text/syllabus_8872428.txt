@@ -1,0 +1,201 @@
+ArE 345K: Masonry Engineering, Unique # 15075/15730                                  Fall 2018
+                            ARE 345K: MASONRY ENGINEERING
+Instructor: Professor Raissa P. Ferron                 Office Location: ECJ 4.704
+Email: rferron@mail.utexas.edu                         Office Phone: 512-232-2691
+Office Hours: Mondays & Wednesdays 11am to 12pm on Mon and Wed on class days only,
+or by appointment. Concealed carry of handguns is not permitted in Dr. Ferron’s office.
+Course Website: Canvas. http://canvas.utexas.edu/            Prerequisites: CE329; CE 324P
+Meetings Days/Times: Mondays 10:00 – 11:00 am; Fridays 12:00 – 3:00 pm
+Lectures Location: ECJ 3.402; Lab Location: TBA
+Final Exam: Monday, Dec 17, 9 – 12:00pm
+Required Textbook:
+    (a) Klingner, R. E., Masonry Course Notes, January 2012, will be posted on Canvas in pdf
+        format.
+    (b) 2013 Masonry Building Code Requirements and Specification for Masonry Structures
+        (TMS 402-13 / ACI 530-13 / ASCE 5-13 →Building Code Requirements for Masonry
+        Structures and TMS 602-13 / ACI 530.1-13 / ASCE 6-11 →Specification for Masonry
+        Structures)
+    (c) 2013 Masonry Designers’ Guide
+        Figure 1: Covers of Required Textbook b and Required Textbook c
+Notes: Required Textbook b and c will be purchased from The Masonry Society by the instructor
+and re-sold at cost to students.
+Course Description: This is an introductory course focusing on masonry materials and
+design. The objective of this course is to provide an introduction to the behavior of masonry
+materials and components and to present methods for design of masonry building, primarily
+concentrating on masonry wall systems.
+My teaching philosophy: You all belong here and are capable of excelling in this class.
+Let’s work together to make that happen.
+                                 Updated August13, 2018                                  Page 1
+
+
+ArE 345K: Masonry Engineering, Unique # 15075/15730                                      Fall 2018
+What you will learn: By the end of this course, you should be able to:
+                               Discuss fundamental trends in the history of masonry
+                                construction.
+                               Describe the nomenclature, properties, and material
+                                specifications associated with each basic component of masonry
+                                (units, mortar, grout, accessory materials).
+                               Describe how masonry assemblages behave with respect to
+                                differential movement
+                               Summarize several current and future challenges in masonry
+                                construction
+                            
+                               Design simple masonry structures (requiring little structural
+                                calculation) for satisfactory performance with respect to the
+                                characteristics covered in (3) above.
+                               Perform structural calculations for unreinforced and reinforced
+                                masonry elements, using the strength design.
+                                    Construct simple masonry elements.
+                                    Identify visually cracking and durability issues in
+                                     masonry and provide possible causes for the distress.
+Course Grade Distribution: Figure 2 presents the distribution for which the overall course letter
+grade is based:
+                  Figure 2: Major requirements for course numerical grade
+                                Updated August13, 2018                                       Page 2
+
+
+ArE 345K: Masonry Engineering, Unique # 15075/15730                                   Fall 2018
+The plus/minus (+/-) grading system will be used in the final course grade calculation.
+Read below for additional details regarding the some of the items shown in Figure 2:
+➢ Homework & Labs:
+All homework and lab assignments, except specific problems requiring numerical
+calculations, must be typed. Non-typed homework problems will receive 15% score penalty.
+For numerical calculation problems, the details of relevant calculations must be shown with
+the correct units, and the solution should be clearly designated (i.e. boxed off, bolded, etc).
+All assignments must have a TYPED cover sheet with the following information:
+student(s) name, the class name, assignment number, date assignment is due, and
+Professor’s Ferron name. Unless otherwise stated, HW and lab assignments are due at the
+beginning of class on their due date within the first 10 minutes. Additional details regarding
+HW & Lab policy will be posted on Canvas. Assignments received after the deadline but
+before 11:59:59 PM on the same day will be penalized 15% of the total grade; a 25% penalty
+will be assigned if it is not submitted by between 12:00:00 AM - 5:00:00 PM CST on the
+following day. No assignments will be accepted after this point. Late assignments must be
+sent to Prof. Ferron’s inbox through CANVAS.
+➢ Exams:
+Students are expected to take the exams at the scheduled times. These dates will be posted on
+the course schedule. Students must notify the instructor in advance if they are unable to take
+an exam. Make-up exams will be given only when adequate supporting evidence is
+furnished. A doctor’s note must be provided if an illness prevents you from taking an exam.
+➢ Quizzes and Attendance:
+Pop quizzes with be held periodically during the semester. These pop quizzes will count
+towards your attendance grade. No make ups are allowed on the pop quizzes. Students get
+three free waivers for absences on pop quizzes during the semester. No additional waivers
+will be allowed regardless of the reason. Once these three waivers have been used, then zero
+credit is received for quizzes and attendance. Note, no ‘free’ unexcused absences are allowed
+on lab days, field trip days, days with guest speakers, and student presentation days, unless for
+observance of a religious holiday or emergency medical reason. If a student misses a lab or
+student presentation day, a 50% grade penalty will be applied to your grade on that
+assignment. If a student misses a field trip day or guest speaker day, then a 50% penalty
+will be applied towards your quizzes and attendance zero grade for the first miss. After
+that, zero credit will be received for quizzes and attendance portion of your grade for any
+additional misses. No assignment penalty is applied if student misses a lab day, field trip day,
+guest speakers day, or student presentation day if the student is absent due to a observance of
+a religious holiday, providing student notifies Prof. Ferron at least 14 days prior to the date of
+observance of the religious holiday. Otherwise, Prof. Ferron’s discretion will apply in other
+situations. If you miss class, it is your responsibility to make sure that you are aware of any
+announcements that have been made and that you are familiar with the material covered in
+class. You are responsible for all material and administrative instructions given during an
+absence.
+                                  Updated August13, 2018                                  Page 3
+
+
+ArE 345K: Masonry Engineering, Unique # 15075/15730                                   Fall 2018
+                                      Additional course information
+Grade disputes: Any grade disputes must be submitted in writing via email to Prof. Ferron
+within 3 calendar days after the graded work is posted on blackboard or distributed back to the
+class, whichever occurs first, regardless of whether the student in question was present in class
+or not. No dispute will be accepted after the deadline. Prof. Ferron will confirm receipt of your
+email via email within 48 hours. If you do not receive email confirmation from Prof. Ferron
+that your dispute email was received by her, then you should assume the email was not received
+and you should submit the dispute to Prof. Ferron in person.
+Personal Pronoun Preference: Professional courtesy and sensitivity are especially
+important with respect to individuals and topics dealing with differences of race, culture,
+religion, politics, sexual orientation, gender, gender variance, and nationalities. Class rosters
+are provided to the instructor with the student’s legal name. I will gladly honor your request
+to address you by an alternate name or gender pronoun. Please advise me of this preference
+early in the semester so that I may make appropriate changes to my records.
+Copying and distributing lecture materials: Students do not have the right to copy and/or
+distribute the course materials for outside usage unless Prof. Ferron expressly grants
+permission. These materials include but are not limited to syllabi, lecture hand outs,
+quizzes, exams, in-class materials, review sheets, and additional problem sets.
+Professionalism: You are expected to treat your instructor and all other participants in the
+course with courtesy and respect. Your comments to others should be factual, constructive,
+and free from harassing statements. Unprofessional or disrespectful conduct will result in a
+lower grade on an assignment.
+Scholastic Dishonesty: Giving aid to a student during an exam or taking information from
+another student’s exam constitutes scholastic dishonesty. Submitting another student’s
+laboratory report or homework assignment and representing it as your own work also
+constitutes scholastic dishonesty, as does copying text from the laboratory manual or any
+other published document. Students are not discouraged from working together outside of
+class, but submitting identical or similar assignments is unacceptable (with the exception of
+explicitly stated team-based homework, projects, or reports). If students are found to have
+cheated on homework, exams, or laboratory reports, all students involved will be held
+responsible. For additional information regarding academic dishonesty and UT’s honor code,
+see the Dean of students’ website and University General Information Catalog at:
+http://deanofstudents.utexas.edu/conduct/ and http://catalog.utexas.edu/general-
+information/appendices/appendix-c/student-discipline-and-conduct/.
+Course Evaluation: An evaluation of the course and instructor will be conducted at the end
+of the semester using the approved UT Course/Instructor evaluation forms. Students are also
+encouraged to provide feedback to the instructor throughout the course.
+                                  Updated August13, 2018                                  Page 4
+
+
+ArE 345K: Masonry Engineering, Unique # 15075/15730                                    Fall 2018
+Drop Dates:
+     • Undergraduate students: From the 1st through the 12th class day (4th class day in the
+         summer sessions), an undergraduate student can drop a course via the web and
+         receive a refund, if eligible. From the 13th (5th class day in the summer sessions)
+         through the university’s academic drop deadline, a student may Q drop a course with
+         approval from the Dean, and departmental advisor.
+     • Graduate students: From the 1st through the 4th class day, graduate students can
+         drop a course via the web and receive a refund. During the 5th through 12th class
+         day, graduate students must initiate drops in the department that offers the course and
+         receive a refund. After the 12th class day, no refund is given. No class can be added
+         after the 12th class day. From the 13th through the 20th class day, an automatic Q is
+         assigned with approval from the Graduate Advisor and the Graduate Dean. From the
+         21st class day through the last class day, graduate students can drop a class with
+         permission from the instructor, Graduate Advisor, and the Graduate Dean. Students
+         with 20-hr/week GRA/TA appointment or a fellowship may not drop below 9 hours.
+Students with Disabilities: The University of Texas at Austin provides, upon request,
+appropriate academic accommodations for qualified students with disabilities. For more
+information, contact the Division of Diversity and Community Engagement, Services for
+Students with Disabilities, 512-471-6259 (Videophone: 512-410-6644) or
+http://diversity.utexas.edu/disability/
+Emergency Evacuations: Occupants of buildings on The University of Texas at Austin
+campus are required to evacuate buildings when a fire alarm is activated. Alarm activation or
+announcement requires exiting and assembling outside. Familiarize yourself with all exit
+doors of each classroom and building you may occupy. Remember that the nearest exit door
+may not be the one you used when entering the building. Students requiring assistance in
+evacuation should send an email to Prof. Ferron during the first week of class to inform
+her. In the event of an evacuation, follow the instruction of faculty or class instructors. Do
+not re-enter a building unless given instructions by the following: Austin Fire Dept., The
+University of Texas at Austin Police Dept., or Fire Prevention Services office. Further
+information regarding emergency evacuation routes and emergency procedures can be found
+at: www.utexas.edu/emergency
+Class Web sites and student privacy: Students who do not want their names included in
+electronic class rosters must restrict their directory information. For information on
+restricting directory information, see the Undergraduate Catalog or go to:
+http://www.utexas.edu/student/registrar/catalogs/ug02-04/index.html.
+Mental health and Wellness Resources: Being in school, while handling everything else in
+life, can be stressful. If you or someone you know is feeling overwhelmed, depressed, and/or
+in need of support, please know that services are available:
+     • Counseling and Mental Health Crisis Line: 512-471-CALL (2255). This is a
+         confidential service that allows you to talk with trained counselors about urgent
+         concerns regarding yourself.
+     • Counseling and Mental Health Center: 512-417-3515; https://cmhc.utexas.edu/
+                                   Updated August13, 2018                                  Page 5
+
+
+ArE 345K: Masonry Engineering, Unique # 15075/15730                                  Fall 2018
+           o Please note, that Jeni Wade is the Counselor in Academic Residence (CARE)
+               counselor for CSE. Her office is located in EER 2.812 and office number is
+               512-471-8396.
+   •   Behavior Concerns Advice Line (BCAL) 512–232-5050. BCAL is a 24-hour/seven-
+       days-a-week advice line, providing students, faculty and staff an opportunity to
+       discuss their concerns about another individual's behavior. For more information visit
+       the BCAL website: http://www.utexas.edu/safety/bcal/
+   •   Student Ombuds Office: Call 512-471-3825 or visit
+       https://ombuds.utexas.edu/student. This is a confidential service provided you can use
+       to discuss interpersonal difficulties, university policies and bureaucracy issues, and
+       conflict resolution techniques.
+                                Updated August13, 2018                                   Page 6

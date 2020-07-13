@@ -1,0 +1,496 @@
+ADV 392:                            Semester: Spring 2020
+PhD Methods II                      Meeting Time: Tuesdays 3:30 – 6:30 PM
+                                    Location: BMC 4.208
+                                    Unique #: 06845
+Professor:         Dr. Laura F. Bright
+                   Office: BMC 4.328
+                   Phone: (512) 699-8218 (cell)
+                   Email: laurabright@utexas.edu
+Office Hours:      Tuesdays 1:30 – 3:00 PM and by appointment
+Course Objectives
+1.   To demonstrate that you are familiar with research methods common in scholarship.
+2.   To evaluate and design methods sections of journal articles in our field.
+3.   To understand the scientific method of inquiry and how it relates to research in both quantitative and
+     qualitative approaches to social science.
+4.   To create awareness that ethical considerations are integral to research methods.
+5.   To make you more comfortable reading and writing methods sections.
+6.   To familiarize you with methods software.
+7.   To learn how you can use textual analysis as a research method for analyzing consumer-generated
+     content on social media.
+8.   To give you experience doing an original research project, with a focus on methods.
+9.   To create a “conference ready” manuscript to send to an outlet of your choosing.
+Required Texts
+Multivariate Data Analysis, 8th Edition
+Joseph F. Hair, Barry J. Babin, Rolph E. Anderson, and William C. Black
+Published: Copyright 2018
+Print ISBN: 9781473756540
+Price: $76.78
+https://www.amazon.com/Multivariate-Analysis-William-author-
+Anderson/dp/1473756545/ref=sr_1_1?crid=3RXG02XUAZLRQ&keywords=multivariate+data+analysis&
+qid=1578583378&sprefix=multivariate%2Caps%2C191&sr=8-1
+On Managing Yourself
+Harvard Business Review’s 10 Must Reads
+Published: Copyright 2010
+Print ISBN: 9781422157992
+Price: $11.99
+https://www.amazon.com/Managing-Yourself-Measure-Clayton-
+Christensen/dp/1422157997/ref=sr_1_3?keywords=on+managing+yourself&qid=1578583294&sr=8-3
+From Numbers to Words: Reporting Statistical Results for the Social Sciences
+Susan E. Morgan, Tom Reichert, and Tyler R. Harrison
+Published: Copyright 2016
+Print ISBN: 978-1138638082
+Price: $38.50
+https://www.amazon.com/Numbers-Words-Susan-
+Morgan/dp/1138638080/ref=sr_1_1?keywords=from+numbers+to+words&qid=1578940592&sr=8-1
+                                                                                                            1
+
+
+Other readings are journal articles and industry publications that will be available via our course website on
+Canvas. You will read roughly one book chapter per week plus additional journal articles as assigned.
+Journal articles that relate to our student led discussions will be made available on Canvas one week ahead
+of schedule (starts 2/18/2020).
+Course Website and Technology Needs
+Canvas Course Website
+In this class, Canvas will be used primarily for posting class-related assignment worksheets and grading.
+Please ensure that you have a valid email address connected with Canvas so that you have access to all
+course materials and communication. It is your responsibility to check Canvas regularly
+(http://canvas.utexas.edu). The course schedule is available on Canvas as well as other important modules,
+readings, and content – please make sure to check the site before class.
+SPSS Software
+We will use SPSS software in this class to complete several training modules and data analysis
+assignments. Please make sure that you have SPSS installed on your laptop before the third class day. You
+will also use SPSS to analyze data associated with your research project. This software is available with
+student pricing through the UT Campus Computer Store (http://campuscomputer.com/campuscomputer/).
+Classroom Expectations
+Respect your fellow classmates
+In this course, we will have in-class discussions every week. Opinions are welcomed; however, it is
+important to remember that others might not hold your same viewpoint. Discussions and healthy debates
+are an important part of the educational process. Please remember to respect your classmates and your
+professor in all classroom discussions. If you are in violation of this policy, you may be asked to leave the
+classroom. If you are asked to leave for behavioral violations, you will be counted as absent for the day.
+Know your industry
+Students should read academic journals, industry press, blogs, newsletters, or other periodicals that are
+relevant to the class discussion and provide thought-provoking content for class each week. Advertising
+research and media are quickly evolving fields, and it is crucial to stay on top of new developments both in
+your area of interest as well as more broadly.
+Take full advantage of every opportunity
+The University of Texas at Austin and the Moody College of Communication provides many wonderful
+resources to students. You should take advantage of every guest speaker, workshop, meeting, etc. that is
+made available to you. So often these connections and lessons can help land you an internship or a job.
+Each student will be required to attend at least 2 research presentations during the semester and provide a
+brief written synopsis with a specific focus on the research methods used by the presenter (more details on
+this below).
+Course Requirements and Assessment
+Research Paper - 35%
+Research Paper Presentation - 20%
+Experiential Learning-Based Methods Reports – 20% (2 @ 10% each)
+Class Participation / Discussion Leadership – 25%
+Research Paper and Presentation
+Throughout the semester, you will develop or continue an original research paper with the primary focus on
+the methods and discussion section. You will present your paper during the last two weeks of class
+(4/28/2020 or 5/5/2020). Papers should follow the Journal of Advertising citation style and be no longer
+than 30 pages (including references and appendices). Presentations will be 20 minutes each followed by 10
+minutes of Q&A.
+                                                                                                             2
+
+
+Experiential Learning-Based Methods Reports
+It is important to go and listen to research talks both as you start your academic career and as you work
+through getting tenure and future promotions – they can be very impactful for your career. These include
+seminar speakers and other formal research presentations (e.g. job talks, keynote speakers, guests from
+industry with a research focus). I will invite you to many of these talks this semester and also encourage
+you to keep up with them on the departmental listserv. You must attend at least 2 of these research talks,
+and write a one-page overview of it with a main focus on the method employed in the research. Due dates
+are 3/10/2020 and 4/21/2020.
+Class Participation and Discussion Leadership
+Class participation is rooted in attendance – it is vitally important to come to class prepared so that you can
+be engaged and actively participate in the discussion. This grade is based on your discussion leadership
+session as well as your overall participation in class throughout the semester. This is a subjective grade that
+includes perceived effort, improvement, attitude, willingness to learn, and overall course engagement.
+General Assessment Guidelines
+A = Student engages in all activities; interacts with class members during face-to-face by providing
+constructive feedback; expresses individual thoughts and poses questions during each class session;
+actively participates in each small group session; volunteers for class discussion; prepared and familiar with
+course material when called upon; does not use technology (phones, tablets, laptops) inappropriately during
+class.
+B = Student sporadically fails to participate in-class discussion or on learning tasks. Student demonstrates
+lack of preparedness during class by not actively participating with group members to accomplish tasks.
+Student only occasionally volunteers for discussion, and comments/ questions are off-topic. Student uses
+technology (cell phones/tablets) for activities unrelated to the course.
+C = Student seldom volunteers to express ideas or shares thoughts during face-to face meetings. Student’s
+responses to questions demonstrate vague familiarity with module readings. Student is passive during
+group projects and needs reminders to stay on topic or to actively participate. Student frequently uses
+technology (i.e. cell phone, tablets) inappropriately during class.
+D and below = Student never volunteers, cannot answer direction questions related to the readings,
+participates in less than a semester of online discussion activities, and does not participate in group work
+during face-to-face sessions. Student is routinely using technology inappropriately in class (i.e. texting,
+emailing, Facebook-ing, etc.). Lack of participation and preparedness, both online and face-to-face, is
+routine throughout the semester.
+Course Grading Scale
+                                  Proportion of Points                       Letter Grade
+                                      92.5% - 100%                                  A
+                                      89.5% - 92.4%                                A-
+                                      86.5% - 89.4%                                B+
+                                      82.5% - 86.4%                                 B
+                                      79.5% - 82.4%                                B-
+                                      76.5% - 79.4%                                C+
+                                      72.5% - 76.4%                                 C
+                                      69.5% - 72.4%                                C-
+                                      59.5% - 69.4%                                 D
+                                       Below 59.4%                                  F
+                                                                                                              3
+
+
+Classroom Policies
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a
+student of The University of Texas at Austin, I shall abide by the core values of the University and
+uphold academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use
+words or ideas that are not your own (or that you have used in previous class), you must cite your
+sources. Otherwise you will be guilty of plagiarism and subject to academic disciplinary action,
+including failure of the course. You are responsible for understanding UT’s Academic Honesty
+and the University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+Grading Policies
+In this course, grades are not given. They are earned. Therefore, I do not give you a grade; rather, you earn
+your grade. For each assignment, you will be provided with a detailed rubric of how you earned your final
+score.
+Policy on late work
+Late Work will not be accepted. Exceptions will be made under extreme circumstances, if the student
+discusses the issue with the instructor ahead of time, either in person or via e-mail/phone.
+Policy on absences
+Attendance is mandatory. In order to be successful in this course, it is imperative that you attend every
+single class. You are allowed one free absence for whatever reason you choose. After that, all future
+absences will result in deducted points from your class participation grade.
+Course Communication
+All emails should be written in a professional manner. I will do my best to respond to emails within 48
+hours. Technology will be used in this course. Laptops, iPads, tablets, etc. are welcomed in this classroom.
+HOWEVER, these items should only be used for classroom-related activities. Please silence all devices
+before class begins. If you are playing on Facebook, Twitter, Instagram, Snapchat, checking email, etc.
+during class, you may be asked to leave. If you are asked to leave for this reason, you will lose classroom
+participation points.
+University Policies for Students
+Student Rights & Responsibilities
+     • You have a right to a learning environment that supports mental and physical wellness.
+     • You have a right to respect.
+     • You have a right to be assessed and graded fairly.
+     • You have a right to freedom of opinion and expression.
+     • You have a right to privacy and confidentiality.
+     • You have a right to meaningful and equal participation, to self-organize groups to improve your
+          learning environment.
+     • You have a right to learn in an environment that is welcoming to all people. No student shall be
+          isolated, excluded or diminished in any way.
+With these rights come responsibilities:
+     • You are responsible for taking care of yourself, managing your time, and communicating with the
+          teaching team and with others if things start to feel out of control or overwhelming.
+     • You are responsible for acting in a way that is worthy of respect and always respectful of others.
+          Your experience with this course is directly related to the quality of the energy that you bring to it,
+          and your energy shapes the quality of your peers’ experiences.
+                                                                                                               4
+
+
+     •    You are responsible for creating an inclusive environment and for speaking up when someone is
+          excluded.
+     •    You are responsible for holding yourself accountable to these standards, holding each other to
+          these standards, and holding the teaching team accountable as well.
+Personal Pronoun Use (She / He / They / Ze / Etc)
+Professional courtesy and sensitivity are especially important with respect to individuals and topics
+dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance,
+and nationalities. Class rosters are provided to the instructor with the student’s legal name, unless they
+have added a “preferred name” with the Gender and Sexuality Center
+(http://diversity.utexas.edu/genderandsexuality/publications-and-resources/). I will gladly honor your
+request to address you by a name that is different from what appears on the official roster, and by the
+gender pronouns you use (she/he/they/ze, etc). Please advise me of any changes early in the semester so
+that I may make appropriate updates to my records.
+University Resources for Students
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical
+information that you need to share with me, or if you need specific arrangements in case the building
+needs to be evacuated, please let me know. I am committed to creating an effective learning environment
+for all students, but I can only do so if you discuss your needs with me as early as possible. I promise to
+maintain the confidentiality of these discussions. Any student with a documented disability who requires
+academic accommodations should contact Services for Students with Disabilities at 471-6259 (voice) or
+512-410-6644 (Video Phone) as soon as possible to request an official letter outlining authorized
+accommodations. For more information, visit http://ddce.utexas.edu/disability/about/.
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and
+cope with stress. All of us benefit from support during times of struggle. You are not alone. There are many
+helpful resources available on campus and an important part of the college experience is learning how to
+ask for help. Asking for support sooner rather than later is often helpful. If you or anyone you know
+experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly
+encourage you to seek support. http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center each
+year to improve their academic performance? All students are welcome to take advantage of Sanger
+Center’s classes and workshops, private learning specialist appointments, peer academic coaching, and
+tutoring for more than 70 courses in 15 different subject areas. For more information, please
+visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+BeVocal
+BeVocal is a university-wide initiative to promote the idea that individual Longhorns have the power to
+prevent high-risk behavior and harm. At UT Austin all Longhorns have the power to intervene and reduce
+harm. To learn more about BeVocal and how you can help to build a culture of care on campus, go to:
+wellnessnetwork.utexas.edu/BeVocal.
+Accommodation of Religious Holidays
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss class, an examination, a work assignment, or a project
+in order to observe a religious holy day, you will be given an opportunity to complete the missed work
+                                                                                                            5
+
+
+within a reasonable time after the absence.
+Ma
+Important Safety Information
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL
+(the Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something
+doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety
+and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside.
+  • Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember
+       that the nearest exit door may not be the one you used when entering the building.
+  • Students requiring assistance in evacuation shall inform their instructor in writing during the first
+       week of class.
+  • In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a
+       building unless given instructions by the following: Austin Fire Department, The University of
+       Texas at Austin Police Department, or Fire Prevention Services office.
+  • Link to information regarding emergency evacuation routes and emergency procedures can be found
+       at: www.utexas.edu/emergency
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+deadline, which typically occurs near the middle of the semester. Under Texas law, you are only allowed
+six Q drops while you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+Title IX Reporting
+Title IX is a federal law that protects against sex and gender based discrimination, sexual harassment,
+sexual assault, sexual misconduct, dating/domestic violence and stalking at federally funded educational
+institutions. UT Austin is committed to fostering a learning and working environment free from
+discrimination in all its forms. When sexual misconduct occurs in our community, the university can:
+            1. Intervene to prevent harmful behavior from continuing or escalating.
+            2. Provide support and remedies to students and employees who have experienced harm or
+                 have become involved in a Title IX investigation.
+            3. Investigate and discipline violations of the university’s relevant policies.
+Faculty members and certain staff members are considered “Responsible Employees” or “Mandatory
+Reporters,” which means that they are required to report violations of Title IX to the Title IX Coordinator. I
+am a Responsible Employee and must report any Title IX related incidents that are disclosed in
+writing, discussion, or one-on-one. Before talking with me, or with any faculty or staff member about a
+Title IX related incident, be sure to ask whether they are a responsible employee. If you want to speak with
+someone for support or remedies without making an official report to the university, email
+advocate@austin.utexas.edu For more information about reporting options and resources, visit
+titleix.utexas.edu or contact the Title IX Office at titleix@austin.utexas.edu.
+Other Useful Resources
+Moody College Writing Support Program
+The Moody College Writing Support Program, located in BMC
+3.322, https://moody.utexas.edu/students/moodywriting offers one-on-one assistance without charge to
+students seeking to improve their professional writing in all fields of communication. We have specialists
+                                                                                                             6
+
+
+in Journalism, RTF, CSD, CMS, and PR and Advertising. In addition, we offer workshops to strengthen
+core-writing skills in each field and to inspire students to strive for excellence. Students may book half-
+hour appointments on the website or drop in for assistance during all stages of the writing process.
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Moody College of Communication Event Listing: https://moody.utexas.edu/events
+                                             ** Course Schedule**
+Tuesday, January 21st, 2020
+1st Half of Class:
+*Course Introduction
+*Syllabus and Schedule
+*Conference and Journal Calls to Consider
+2nd Half of Class:
+*Review of Assignments
+*Assessment
+*Pointers on Idea Development | Time Management Strategies
+* Q&A
+Readings for Discussion:
+1) Christensen, Clayton M. (2010) “How Will You Measure Your Life?”, in On Managing Yourself
+     (HBR’s 10 Best Reads), Individual authors as eds, Boston, MA: Harvard Business School Publishing
+     Corporation/Harvard University, 1 – 12.
+2) Drucker, Peter F. (1999) “Managing Oneself”, in On Managing Yourself (HBR’s 10 Best Reads),
+     Individual authors as eds, Boston, MA: Harvard Business School Publishing Corporation/Harvard
+     University, 13 - 32.
+3) NPR Interview (47 minutes of audio): You 2.0: Rebel with a Cause, an interview with author
+     Francesca Gino: https://www.npr.org/tags/752399881/rebel-talent
+4) The Richards Group “Trends for the Year - 2020” https://richards.com/trends/ *Make sure to click
+     through to each link and read the complete trend document.
+Tuesday, January 28th, 2020
+1st Half of Class:
+*Research Idea Presentations | 10 minutes per student
+*Q&A | Constructive Improvements
+2nd Half of Class:
+*Current Trends and Overview of Advertising / PR Research Methods
+*Manuscript Development (“making a contribution”, authorship, conferences, journals, blind peer-review)
+Readings for Discussion:
+1) Required Text: Hair, et al. (2019) Chapter 1, pp. 1 – 44
+2) Duff, Brittany R.L., and Claire M. Segijn (2019), “Advertising in a Media Multitasking Era:
+     Considerations and Future Directions,” Journal of Advertising, 48(1), 27 – 37, available at:
+     https://www.tandfonline.com/doi/full/10.1080/00913367.2019.1585306.
+                                                                                                            7
+
+
+3) Liu-Thompkins, Yuping (2019), “A Decade of Online Advertising Research: What We Learned and
+     What We Need to Know,” Journal of Advertising, 48(1), 1 – 13, available at:
+     https://www.tandfonline.com/doi/full/10.1080/00913367.2018.1556138.
+4) Voorveld, Hilde A.M. (2019), “Brand Communication in Social Media: A Research Agenda,” Journal
+     of Advertising, 48(1), 14 – 26, available at:
+     https://www.tandfonline.com/doi/full/10.1080/00913367.2019.1588808.
+Tuesday, February 4th, 2020
+1st Half of Class:
+Lecture on Data Collection and Integration
+Techniques for Coding in Excel and SPSS
+SPSS Demo with Class Dataset
+2nd Half of Class:
+Discussion Leadership # 1: Research Benefits and Pitfalls of Using mTurk
+(20 minutes plus 15 minutes of Q&A)
+Demo of mTurk and Qualtrics
+Readings for Discussion:
+1) Required Text: Hair, et al. (2019) Chapter 2, 45 – 118
+2) Journal article assignment from weekly discussion leader – see Canvas announcements.
+3) Reibstein, David J., George Day, and Jerry Wind (2009), "Guest Editorial: Is Marketing Academia
+     Losing Its Way?" Journal of Marketing, 73 (4): 1 - 3.
+4) Community for Responsible Research in Business and Management (2017), “A
+     Vision of Responsible Research in Business and Management: Striving for Useful and Credible
+     Knowledge,” Position Paper, 1 – 17.
+Tuesday, February 11th, 2020
+Individual Meetings with Professor
+**Complete your pre-meeting worksheet before your assigned time**
+Tuesday, February 18th, 2020
+1st Half of Class:
+Lecture on Text Analysis and Using the Nuvi System
+Guest Lecture from Dr. Gary Wilcox
+Q&A | Discussion
+2nd Half of Class:
+Discussion Leadership # 2: Text Analysis of User-Generated Content
+(20 minutes plus 15 minutes of Q&A)
+Nuvi / Tableau / Python Tutorial
+Readings for Discussion:
+1) Journal article assignment from weekly discussion leader – see Canvas announcements.
+2) Bright, Laura F., Gary Wilcox, and Hayley Rodriguez (2019). #DeleteFacebook and the Consumer
+     Backlash of 2018: How social media fatigue, consumer (mis)trust), and privacy concerns shape the
+     new social media reality for consumers. Journal of Digital and Social Media Marketing, Vol.7(2),
+     available online at: https://www.henrystewartpublications.com/jdsm/v7.
+3) Lazard, Allison J., Gary B. Wilcox, Hannah M. Tuttle, Elizabeth M. Glowacki, and Jessica Pikowski
+     (2017), “Public Reactions to e-cigarette regulations on Twitter: A text mining analysis,” Tobacco
+     Control, Vol. (0), 1 – 5.
+4) Chakraborty, Goutam, Murali Pagolu, and Satish Garla (2013), Text Mining and Analysis: Practical
+     Methods, Examples, and Case Studies Using SAS, Cary, N.C.: SAS Institute, Inc., 1 – 17. (Chapter 1)
+                                                                                                        8
+
+
+Tuesday, February 25th, 2020
+1st Half of Class:
+Lecture on Exploratory Factor Analysis
+SPSS Demo with Class Dataset
+Q&A | Discussion
+2nd Half of Class:
+Discussion Leadership # 3: Exploratory Factor Analysis
+(20 minutes plus 15 minutes of Q&A)
+Presentation from Emily Chadraba on her data analysis from Dissertation Study # 1
+Readings for Discussion:
+1) Required Text: Hair, et al. (2019) Chapter 3, 121 - 188
+2) Journal article assignment from weekly discussion leader – see Canvas announcements.
+3) Schimmel, Kurt, and Jeananne Nicholls (2005), “Segmentation Based On Media Consumption: A
+     Better Way to Plan Integrated Marketing Communications Media,” The Journal of Applied Business
+     Research, 21(2), 23 – 36.
+Tuesday, March 3rd, 2020
+1st Half of Class:
+Lecture on Multiple Regression
+SPSS Demo with Class Dataset
+Q&A | Discussion
+2nd Half of Class:
+Discussion Leadership # 4: Multiple Regression
+(20 minutes plus 15 minutes of Q&A)
+Readings for Discussion:
+1) Required Text: Hair, et al. (2019) Chapter 5, 257 – 370.
+2) Journal article assignment from weekly discussion leader – see Canvas announcements.
+3) Bright, Laura F., Susan Bardi Kleiser, and Stacy Landreth Grau (2015), “Too Much Facebook?: An
+     Exploratory Examination of Social Media Fatigue,“ Computers in Human Behavior, Volume 44(1),
+     148 – 155.
+Tuesday, March 10th, 2020
+Individual Meetings with Professor
+**Complete your pre-meeting worksheet before your assigned time**
+DUE: Experiential Learning-Based Methods Report # 1 due by 3:30 PM
+Tuesday, March 17th, 2020 - SPRING BREAK
+Tuesday, March 24th, 2020
+1st Half of Class:
+Lecture on Logistic Regression
+SPSS Demo with Class Dataset
+Q&A | Discussion
+2nd Half of Class:
+Discussion Leadership # 6: Logistic Regression
+(20 minutes plus 15 minutes of Q&A)
+                                                                                                    9
+
+
+Presentation from Emily Chadraba on her regression analysis from Study # 2 (TBD)
+Readings for Discussion:
+1) Required Text: Hair, et al. (2019) Chapter 8, 548 – 599.
+2) Journal article assignment from weekly discussion leader – see Canvas announcements.
+3) Additional readings TBD.
+Tuesday, March 31st, 2020
+Individual Meetings with Professor
+**Complete your pre-meeting worksheet before your assigned time**
+Tuesday, April 7th, 2020
+1st Half of Class:
+Lecture on Extending ANOVA to MANOVA
+SPSS Demo with Class Dataset
+Q&A | Discussion
+2nd Half of Class:
+Discussion Leadership # 5: MANOVA
+(20 minutes plus 15 minutes of Q&A)
+Presentation from SoYoung Lee on her dissertation experiment (TBD)
+Readings for Discussion:
+1) Required Text: Hair, et al. (2019) Chapter 6, 371 – 470.
+2) Journal article assignment from weekly discussion leader – see Canvas announcements.
+3) Bright, Laura F. and Terry Daugherty (2012). Does customization impact advertising effectiveness?
+     An exploratory study of consumer perceptions of advertising in customized online
+     environments. Journal of Marketing Communications, Vol. 18(1), p. 19-37.
+Tuesday, April 14th, 2020
+1st Half of Class:
+Lecture on Structural Equation Modeling
+SPSS / AMOS Demo with Class Dataset
+Q&A | Discussion
+2nd Half of Class:
+Discussion Leadership # 7: SEM Use in Advertising Research
+(20 minutes plus 15 minutes of Q&A)
+Software Tutorials (if needed)
+Readings for Discussion:
+1) Required Text: Hair, et al. (2019) Chapter 9, 603 – 657.
+2) Journal article assignment from weekly discussion leader – see Canvas announcements.
+3) Additional readings TBD.
+Tuesday, April 21st, 2020
+Individual Meetings with Professor
+**Final meeting before paper is due – last minute updates, changes, etc.**
+DUE: Experiential Learning-Based Methods Report # 2 due by 3:30 PM
+                                                                                                     10
+
+
+Tuesday, April 28th, 2020
+1st Half of Class:
+Final Presentations (20 minutes plus 10 minutes of Q&A each x 2)
+Peer review of presentations
+2nd Half of Class:
+Final Presentations (20 minutes plus 10 minutes of Q&A each x 2)
+Peer review of presentations
+Q&A | Discussion
+DUE: Final Papers Due to Canvas in Word format with author info removed.
+Tuesday, May 5th, 2020
+1st Half of Class:
+Final Presentations (20 minutes plus 10 minutes of Q&A each x 3)
+Peer review of presentations
+2nd Half of Class:
+Q&A | Discussion
+End of semester celebration / Methods coursework moving forward J
+DUE: Blind Peer-Review Assignments – 2 manuscripts per student – turn in via Canvas.
+Readings for Discussion:
+1) Hallowell, Edward M. (2005) “Overloaded Circuits?”, in On Managing Yourself (HBR’s 10 Best
+     Reads), Individual authors as eds, Boston, MA: Harvard Business School Publishing
+     Corporation/Harvard University, 79 - 95.
+            Final version of paper and presentation slides due to Canvas by 9 PM on 5/5/2020.
+                          Final grades posted by 5 PM on Wednesday, 5/13/2020.
+                                                                                              11

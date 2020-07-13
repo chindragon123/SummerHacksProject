@@ -1,0 +1,216 @@
+                                               SYLLABUS
+                                             ACC 359/ACC 387.1
+                                MANAGERIAL/COST ACCOUNTING
+                                                 SPRING 2020
+                                        The University of Texas at Austin
+                                           McCombs School of Business
+                                             Department of Accounting
+      Professor:               Ronghuo Zheng
+      Office:                  CBA 3.210
+      Phone:                   471-5752
+      E-mail:                  ronghuo.zheng@mccombs.utexas.edu
+      Office hours:            Tuesdays 1:30 p.m. – 2:30 p.m., and by appointment
+      Sections:                02370/02685, MW 11:00 a.m. - 12:30 p.m., UTC 3.132
+                               02375/02690, MW 12:30 - 2:00 p.m., UTC 3.124
+                               02380/02695, MW 2:00 - 3:30 p.m., UTC 3.124
+      Course web page:         Canvas: http://canvas.utexas.edu/
+      Teaching assistant:      Skyler A Deture: Skylar.Deture@mccombs.utexas.edu
+      Grader:                  Jiaqi Guo: josephguo@utexas.edu
+      TA Office hours:         TBA
+Course Material
+   -  Required: a calculator and the course packet. The course packet is available from the GSB Copy Center.
+   -  Recommended (not required): Textbook by Horngren, Datar, and Rajan, Cost Accounting: A Managerial
+      Emphasis, 16th edition (or 15th edition)
+                                                      1
+
+
+Course Description
+     This course is meant as a survey in the field of cost accounting using case studies.
+     Cost accounting systems provide valuable information for management planning and control. Organizations rely
+on accurate cost information to decide on which products to keep and which products to discontinue, for assessing
+productivity improvements and for performance evaluation and control. An improperly designed cost accounting
+system can lead to costly errors in decision-making.
+     Intense competition in product markets has forced firms to look inward to become more cost-efficient. Tracing
+various resource costs accurately to products has become increasingly important as product margins are squeezed.
+Manufacturing environments have also undergone significant changes. To support decision-making in these
+environments, cost accounting systems also need to be redesigned.
+     Through a number of case studies supplemented by some lectures, this course exposes students to recent advances
+in cost accounting, and highlights important inputs into the design of cost systems. The cases cover a variety of
+decision-making settings and illustrate the role of cost information in these settings.
+     Course objectives are:
+     1. To develop an understanding for the important characteristics of good cost systems;
+     2. To analyze the role of cost information in a variety of management decisions such as pricing, product mix,
+     improving productivity, product design, and performance measurement.
+Grading
+     Your performance in this course will be evaluated under the following model:
+             Homework Case Reports                                         30 points
+             Practice Problems                                             20 points
+             Mid Exam 1                                                    75 points
+             Mid Exam 2                                                    75 points
+             Final Comprehensive Exam                                     150 points
+             Total                                                        350 points
+             Bonus Points for Class Participation                           5 points
+     There will be no opportunity to raise your course average or grade after the semester. Beginning in Fall 2009,
+The University of Texas at Austin permits plus/minus grading—that is, A, A-, B+, B, B-, C+, etc., for all courses in
+which grades are awarded, including undergraduate as well as graduate courses. To foster consistency in grading
+across sections of ACC 359/ACC 387.1, the faculty have adopted plus/minus grading as the standard for all sections
+of the course. We believe that plus/minus grading permits us to better distinguish gradations in performance and
+provide better feedback to students on their performance. In accordance with the Accounting Department Grade
+Policy/Guideline for the Core PPA courses, Final Course Grades will be assigned to achieve a final class average
+GPA between 3.2 and 3.4, inclusive.
+Individual Case Homework
+     Every student is required to produce a short report for each case (not longer than one page). The reports should
+address the following questions: “What are the main issues in the case and how can these issues be addressed?” The
+goal of the homework reports is to ensure that students have read each case and understand the problems studied in
+the case.
+     Students have to upload the homework case reports on Canvas no later than 11:59pm on the day before the
+case is discussed (e.g. the deadline for the Giberson’s Glass Studio case is 11:59pm on Sunday, January 26th). No
+late homework will be accepted. Canvas will not allow you to submit your homework after the deadline. Assignments
+                                                            2
+
+
+submitted in hardcopy and assignments emailed to the professor or to the TAs will not be accepted. Homework will
+be graded on a scale of 2 (reasonable effort), 1 (not a good effort), and 0 (not turned in). Your two lowest homework
+scores will be dropped. Verbal collaboration (i.e., talking about the assignment) on homework is allowed. However,
+the prepared assignment should be your own work (do not borrow, copy or transfer answers or files from anyone
+else). For classes in which there is no case discussion, you do not need to prepare a case report.
+Text and Homework Practice Problems
+     The Horngren, Datar, and Rajan book is an excellent textbook and I recommend that you read it to guide your
+understanding of this material. You are responsible for all text chapters assigned.
+     I will suggest 6 sets of homework practical problems on Canvas. They will be collected and graded based on
+efforts. Homework will be graded on a scale of 4 (reasonable effort), 2 (not a good effort), and 0 (not turned in). Your
+one lowest homework score will be dropped. The solutions to the suggested problems will be made available. If you
+are having trouble understanding a homework problem or solution, please discuss it with the TA.
+     Practical Guidance: If it is in the text but I don’t assign it in a problem or cover it in class, odds are very slim
+that it will be a significant component of the exam. Budget your time accordingly.
+Exams
+     Exams will be individually-completed closed-book exams. The exams will consist of problems, essay questions,
+and short answer questions. You may bring a non-programmable calculator to the exams.
+- Midterm Exams
+     The two midterm exams will be given in the regular class. No make-up exams will be given. Medical emergencies
+and family emergencies are the only valid reasons for missing an exam. In such instances, you must provide
+supporting documentation (e.g., signed note from your physician). If you miss one midterm exam and you have a
+valid and documented reason, your final exam will replace the missing midterm exam grade. For example, if you
+have 120 out of 150 points in the final (which is 120/150 = 80%), you get 0.8*75 = 60 points for the missing midterm.
+If you do not have a valid and documented reason for missing an exam, you will receive a zero on the exam.
+- Final Exam
+     The date for our final exam will be announced later. The final exam will be comprehensive and will cover all
+topics in the course. Exams will strive to test comprehension, not merely memorization skills. If you have to take the
+makeup final due to the conflicted schedule, please submit your request in writing by April 12th at 5pm with a screen
+shot of your exam schedule.
+- Grading Policy
+     1. There are no verbal appeals of grade changes. Review and regrade requests for the exams must be
+submitted in writing no later than March 5th at 5pm for the first exam, no later than April 14th at 5pm for the second
+exam, and within one week of receiving your grade for the final exam. The entire exam will be re-graded and the
+score may increase, remain unchanged, or decrease. After the regrade period, only totaling errors will be adjusted for.
+     2. The grade of the final exam, if better, will be averaged with the total of the two midterm exam grades and
+will replace the total midterm exam grade. For example, if you have 40 and 60 points in the two midterm exams and
+140 points in the final exam, then your total midterm points will be changed from 100 to 120. Of course, if the total
+of your two midterm exam grades is better than your final exam grade, then your total midterm points remain
+unchanged. This gives everyone a final opportunity to improve their overall grade.
+Class participation
+     Students must attend their assigned section unless they have specific permission from the Professor to attend a
+different section. It is my expectation that you to come to class on time, fully prepared, and ready to open the
+discussion. If you add to the discussion or ask relevant questions about the material, I will add bonus points (up to 5)
+to your total grade.
+                                                            3
+
+
+ Course Schedule
+ The course schedule, if need arises, may be changed. These changes will be announced beforehand.
+Modules          Dates             Topics                                  Cases                          Text
+Introduction     W-Jan. 22         Introduction                            None                           Chapter 2
+                 M-Jan. 27         Basics in Cost Behavior                 Giberson’s Glass Studio        Chapter 2
+                 W-Jan. 29         Cost Allocation                         Seligram, Inc                  Chapter 4
+  Module 1:
+     Cost        M-Feb. 3          Activity-Based Costing                  None                           Chapter 5
+  Allocation     W-Feb. 5          Capacity Analysis                       Anagene, Inc.                  Chapter 9
+                 M-Feb. 10         Activity-Based Costing                  Wilkerson Company              Chapter 9
+                                                                                                          HW1 Due
+                 W-Feb. 12         Joint Production Costing,               Wendy’s Chili                  Chapter 16
+                                   Profitability, Strategy
+  Module 2:      M-Feb. 17         Opportunity Costs, Linear               Problem: Product Mix, relevant Chapter 11
+   Relevant                        Programming                             costs (no case homework)
+     Costs       W-Feb. 19         Opportunity Costs, Linear               Merton Truck Company           Chapter 11
+                                   Programming                                                            HW2 Due
+                 M-Feb. 24         Make or Buy, Pricing                    Fineprint Company              Chapter 11
+                 W-Feb. 26                                      Midterm Exam 1 (in class)
+                 M-Mar. 2          Strategic Competition and Market Dogfight over Europe: Ryanair         None
+  Module 3:                        Entry                                   (A)
+  Thinking       W-Mar. 4          Product Costing, Pricing Decisions Sheridan Carpet Company             None
+ Strategically
+      and        M-Mar. 9          Product Profitability and Sunk          Precision Worldwide            None
+    Game                           Costs
+    Theory       W-Mar. 11         Thinking Strategically and              None                           None
+                                   Game Theory                                                            HW3 Due
+                 Mar.16-21                                              Spring Break
+                 M-Mar. 23         Transfer Pricing                        None                           Chapter 22
+  Module 4:
+   Transfer      W-Mar. 25         Transfer Pricing                        None                           Chapter 22
+    Pricing      M-Mar. 30         Transfer Pricing                        San Francisco Bay Consulting   Chapter 22
+                 W-Apr. 1          Decentralization and Transfer           Sub Micron Devices Inc.        Chapter 22
+                                   Pricing                                                                HW4 Due
+                 M-Apr. 6                                       Midterm Exam 2 (in class)
+  Module 5:      W-Apr. 8          Variance Analysis                       None                           Chapter 7
+   Variance      M-Apr. 13         Variance Analysis                       Waltham Motor Division         None
+   Analysis                                                                                               HW5 Due
+                 W-Apr. 15         Performance Measurement                 None                           Chapter 23
+                 M-Apr. 20         Performance Measurement                 Atlanta Schools                None
+                 W-Apr. 22         Franchising and Performance             Case of Big Mac’s Pay Plans    None
+  Module 6:
+                                   Measurement                             Roy Rogers Restaurants
+ Performance
+                 M-Apr. 27         Performance Measurement                 None                           Chapter 23
+Measurement
+                 W-Apr. 29         Performance Measurement                 Safelite Auto Glass (A)        Chapter 23
+                                                                                                          HW6 Due
+                 M-May. 4          Balanced Scorecard                      Citibank                       Chapter 12
+                 W-May. 6          Wrap-up and Review                      None                           None
+                                                              Final Exam: To Be Announced
+                                                              4
+
+
+                                                Students with Disabilities
+     Students with disabilities may request appropriate academic accommodations from the Division of Diversity and
+Community Engagement, Services for Students with Disabilities, 512-471-6259, http://diversity.utexas.edu/disability/.
+                                                 Diversity and Inclusion
+     It is my intent that students from all diverse backgrounds and perspectives will be well served by this course,
+that students’ learning needs will be addressed and that the diversity that students bring to this class can be
+comfortably expressed and be viewed as a resource, strength and benefit. Please let me know right away if this
+ever is not the case.
+                                                     Religious Holy Days
+     By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of
+observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in order
+to observe a religious holy day, you will be given an opportunity to complete the missed work within a reasonable time
+after the absence.
+                                              Policy on Scholastic Dishonesty
+     The McCombs School of Business has no tolerance for acts of scholastic dishonesty. The responsibilities of both
+students and faculty with regard to scholastic dishonesty are described in detail in the BBA Program’s Statement on
+Scholastic Dishonesty at http://my.mccombs.utexas.edu/BBA/Code-of-Ethics. By teaching this course, I have agreed
+to observe all faculty responsibilities described there. By enrolling in this class, you have agreed to observe all student
+responsibilities described there. If the application of the Statement on Scholastic Dishonesty to this class or its
+assignments is unclear in any way, it is your responsibility to ask me for clarification. Students who violate University
+rules on scholastic dishonesty are subject to disciplinary penalties, including the possibility of failure in the course
+and/or dismissal from the University. Since dishonesty harms the individual, all students, the integrity of the University,
+and the value of our academic brand, policies on scholastic dishonesty will be strictly enforced. You should refer to
+the Student Judicial Services website at http://deanofstudents.utexas.edu/sjs/ to access the official University policies
+and procedures on scholastic dishonesty as well as further elaboration on what constitutes scholastic dishonesty.
+                                                       Campus Safety
+Please note the following recommendations regarding emergency evacuation, provided by the Office of Campus
+Safety and Security, 512-471-5767, https://preparedness.utexas.edu/.
+     • Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings when
+     a fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+     • Familiarize yourself with all exit doors of each classroom and building you may occupy.
+     • Students requiring assistance in evacuation should inform the instructor in writing asap.
+     • In the event of an evacuation, follow the instruction of faculty or class instructors.
+     • Do not re-enter a building unless given instructions by the following: Austin or UT police or fire authorities.
+Behavior Concerns Advice Line (BCAL): 512-232-5050 or submit your concerns using the online form.
+     • Further information regarding emergency evacuation routes and emergency procedures can be found at:
+     http://www.utexas.edu/emergency.
+                                                      Privacy in Canvas
+     Information in Canvas is protected by your UTEID login. Please be aware that I will use a merged Canvas site
+for all sections of the course that I am teaching this semester. This will allow students in other sections to see that
+you are enrolled in the course and send you email from within Canvas. However, they will not actually learn your
+email address and no other personal data will be revealed through Canvas. If you have any concerns, please contact
+the ITS Help Desk at 475-9400 for help removing your name from view of other students.
+                                                             5

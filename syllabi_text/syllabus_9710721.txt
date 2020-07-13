@@ -1,0 +1,307 @@
+Construction I
+Washington Dulles International Airport by Eero Saarinen, 1962 - Rebar Cages during Construction
+                                                                                                   ARC 415K | UTSOA Fall 2019
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+Overview
+General Information
+University of Texas at Austin School of Architecture
+Schedule:                     Tuesdays | Lecture 8:00am – 9:30am
+                              Thursdays | Lecture            8:00am – 9:30am
+                              Fridays | Lab                  9:00am – 12:00pm
+Location:                     GOL 3.120
+Instructor:                   Aleksandra Jaeschke, email: jaeschke@austin.utexas.edu
+Teaching Assistants:          Amaya J Lucas, email: ajlucas@utexas.edu
+                              Jayme Gritch, email: jgritch@utexas.edu
+Office Hours:                 By appointment
+E-mails:                      Please, begin subject line of all class-related e-mails with: “Construction I: “
+Prerequisites                 The following coursework with a grade of at least C in each: Architectural Interior Design 310L
+                              and 311L, or Architecture 310L and 311L; and registration for Architectural Interior Design 320K
+                              or Architecture 320D (or 320K).
+Summary                       Construction I is a broad introduction to materials, systems, methods of manufacturing and
+                              assembly of buildings and their components, as well as various aspects of the trade of building
+                              and its socio-cultural and environmental impacts. Part of a series of four required courses, it is
+                              meant for students of architecture, interior design, and historic preservation.
+                                                                                                                                 2
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+Overview
+Course Agenda
+          “The builder is indispensable. In fact, the project for a building is not really complete if it does not consider how it will be
+          built, and the ways in which a building can be built have a notable power of inspiration. All viable new structures are
+          intimately related to construction methods, and these methods are visible in the finished building.”
+                      Eladio Dieste, 1980. “Architecture and Construction,” reprinted in Eladio Dieste, Innovation in Structural Art, ed. by
+                      S. Anderson (New York: Princeton Architectural Press, 2004).
+          construction (kən-strŭk′shən) n.
+          -     the act or process of constructing;
+          -     the art, trade, or work of building: an engineer trained in highway construction; worked in construction for years.
+          -     a structure, such as a building, framework, or model;
+          -     something fashioned or devised systematically;
+          -     the way in which something is built or put together: a shelter of simple construction;
+          -     (grammar) an arrangement of words forming a grammatical phrase, clause, or sentence.
+          construct (kən-strŭkt′) tr.v.
+          -     to form by assembling or combining parts; build;
+          -     to create (an argument or a sentence, for example) by systematically arranging ideas or terms;
+          -     (mathematics) to draw (a geometric figure) that meets specific requirements.
+Objectives
+The term “construction” comes from the Latin word constructio, which itself has roots in com- "together" and struere "to pile
+up." A significant portion of this course will focus on struere. We will examine materials, building elements, and systems that
+they form, or “pile up” into. Still, it will be equally important to investigate the ways in which these elements come together
+thanks to active and at times messy human-machine interactions and legal frameworks. We will look into how these
+interactions transform architectural projects into buildings, but also, and inevitably turn a seemingly exact and stable body of
+knowledge into a fascinating and ever-changing material practice. The practice of constructing buildings.
+The main objective of this course is to help you become familiar with the commonly-used materials and established
+construction practices. Yet, the course will hopefully also help you acquire an appreciation for the open nature of the act of
+building, along with an awareness of its reliance on material resources, and socio-economic and cultural circumstances.
+Construction is an important trade and a powerful expression of human ingenuity. Yet, it is also tightly interconnected with
+the natural world. It depends on available material resources and natural dynamics. At the same time, it affects environments
+and communities from which we extract these resources and to which we return wastes. Acquiring an understanding and an
+                                                                                                                                            3
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+appreciation for these material interdependencies and environmental repercussions is one way to approach architecture as
+an ethically-driven material practice. Similarly, developing an intimate knowledge of materials and methods of construction
+can potentially become a way to creatively push the boundaries of architecture. That is, if we accept that architecture is
+essentially a material practice. While this course will not teach you everything you need to know about construction, it will
+hopefully reveal some of its richness and convince you to stay curious.
+Structure
+Two lecture sessions each week will include instructor presentations preceded by a brief quiz on the assigned reading
+material and followed by a short question period. The course is divided into three interconnected thematic blocks:
+     •    The first part - Components and Systems focuses on the most common building materials and construction
+          systems, and examines their origins, forms, properties, methods of manufacturing and assembly, as well as their
+          applications.
+     •    The second part - Modalities focuses on the various aspects of the trade of building, and examines how buildings
+          are put together, responsibilities distributed, goals communicated, and risks contained and regulated.
+     •    The last part of the course – Repercussions concentrates on the broad socio-cultural impacts of construction,
+          examining it as an expression of local/global economies, enabler of human well-being, culprit of environmental
+          degradation, and last but not least, a powerful channel for creative expression.
+In addition, the students are required to attend the Friday lab sessions and complete assigned readings. The laboratory
+sessions will be dedicated to field trips to manufacturing plants and/or construction sites, group research and design
+projects, and a few in-class exercises. Participation in the Friday sessions is compulsory.
+The readings will be distributed in advance and are meant to help students better comprehend the issues discussed during
+the lectures. They will be essential in the preparation for the exams and open-book tasks. In other words, you will not be able
+to exclusively rely on the lectures to successfully complete this course.
+Assessment
+Students are expected to participate in all activities and comply with all the requirements for the length of the semester.
+There are four components to the grade:
+Exams:               closed-book, in-class exams 50% of final grade
+                     Two closed-book exams will test students’ ability to recall factual material and apply practical knowledge.
+                     Comprised of approx. 20 questions, the exams will require short answer, drawing, and diagramming.
+                     Except as required by University policies, make-up exams will not be offered.
+Homework:            open-book homework                       20% of final grade
+                     Two open-book research tasks will challenge students to reflect upon and apply knowledge learned
+                     during the first two parts of the course: 1. Components and Systems & 2. Modalities. Comprised of approx.
+                                                                                                                               4
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+              10 questions, the tasks will require short answer, drawing, and diagramming, and will be announced in
+              advance and distributed after a Thursday lecture to be returned at the beginning of the following
+              Thursday session. Late work will not be accepted.
+Lab Work:     projects, exercises, quizzes 30% of final grade
+              Short quizzes will be distributed at the beginning of most of the sessions to test students’ comprehension
+              of the material discussed during the previous lecture. Lab exercises and projects will require research,
+              drawing, diagraming, and making during and outside lab time and will be announced as the semester
+              progresses.
+                                                                                                                       5
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+Overview
+Course Road Map
+01 | August 28         Introduction – Definitions, modes of inquiry
+                       Lab 00 | August 30             No Lab – Watch assigned documentaries
+                       Block 01: Components and Systems
+02 | September 03      Materials – Sites of extraction, modalities of transformation
+03 | September 05      Building Blocks - Grains, blocks, studs, panels, etc.
+                       Lab 01 | September 06 Materials & Building Blocks – Research project
+04 | September 10      Construction Systems - Assemblies and modalities of classification
+05 | September 12      Aggregates - Concrete, rammed earth, etc.
+                       Lab 02 | September 13 Field Trip - Destination TBC
+06 | September 17      Masonry - Stone, brick, etc.
+07 | September 19      Wood - Heavy timber, lightweight frame, etc.
+                       Lab 03 | September 20 Construction Systems – Case study analysis
+08 | September 24      Metal - Steel, aluminum, etc.
+09 | September 26      Glass and Plastics
+                       Lab 04 | September 27 Brick Workshop – Design development
+10 | October 01        Brick workshop - student presentations
+11 | October 03        Brick workshop - student build day
+                       Lab 05 | October 04            Construction Systems – Design exercise
+12 | October 08        Ground - Site hydrology, geology, and topography: Foundations
+13 | October 10        Skin - Climate control and energy: Envelopes, roofs, and mechanical systems
+                       Lab 06 | October 11            Field Trip - Destination TBC
+14 | October 15        Skeleton - Stability: Load-bearing structures
+15 | October 17        Integration - Multi-performance systems
+                       Lab 07 | October 18            Environmental performance - Design exercise
+16 | October 22        Mid-term Exam
+                                                                                                   6
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+                              Block 02: Modalities
+17 | October 24               Assembly and fabrication methods
+                              Lab 08 | October 25            Harlen Miller, UNStudio - ACADIA lecture
+18 | October 29               Logistics - Transport of materials and sequencing of work
+19 | October 31               Modalities of production - Manual labor, human-machine interactions, and robotics
+                              Lab 09 | November 01 Field Trip - Destination TBC
+20 | November 05              Knowledge networks - Users, designers, managers, and makers
+21 | November 07              Regulatory frameworks - Zoning ordinances, building codes, and industry standards
+                              Lab 10 | November 08 Building Codes - Exercise
+22 | November 12              Communication - Graphic standards and BIM
+23 | November 14              Context - Regional knowledge and global networks
+                              Lab 11 | November 15 Studio Project – Materials choices and construction details
+                              Block 03: Repercussions
+24 | November 19              Experience - Well-being, pleasure, productivity
+25 | November 21              Impact - Environments, resources, and communities
+                              Lab 12 | November 22 Studio Project – Graphic standards of communication
+26 | November 26              Conclusions - Construction as a form of expression
+00 | November 28              Thanksgiving – No Class
+                              Lab 00 | November 29 Thanksgiving – No Lab
+00 | December 03              Final Reviews – No Class
+00 | December 05              Final Reviews – No Class
+                              Lab 00 | December 06 Final Reviews - No Lab
+27 | December 12              Final Exam
+Please, note that the distribution of lecture topics and lab content may change.
+The exam dates will remain unvaried.
+                                                                                                                7
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+Resources
+Required Textbook
+Ching, Francis. Building Construction Illustrated, 5thed, Wiley, 2014.
+Manuals & References
+Allen, Edward, and Joseph Iano. Fundamentals of Building Construction: Materials and Methods, 6thed. Wiley, 2014*
+Allen, Edward, and Patrick Rand. Architectural Detailing: Function, Constructibility, Aesthetics, 3rded. Wiley, 2016*
+Allen, Edward, and Joseph Iano. The Architect’s Studio Companion. Wiley, 2012*
+Ching, Francis, and Steven Winkel. Building Codes Illustrated: A Guide to Understanding the 2012 International Building Code,
+4thed. Wiley, 2012*
+International Code Council. 2012 International Building Code. ICC, 2011*
+Ramsey, Charles George, and Harold Reeve Sleeper. Architectural Graphic Standards, 11thed. Wiley & Sons, 2010*
+Addis, William. Building: 3000 Years of Design Engineering and Construction. Phaidon, 2015.
+Atelier Bow Wow. Graphic Anatomy – Atelier Bow Wow. Toto, 2007.
+Bell, Victoria Ballard, and Patrick Rand. Materials for Design 1. Princeton Architectural Press, 2006.
+Bell, Victoria Ballard, and Patrick Rand. Materials for Design 2. Princeton Architectural Press, 2013.
+Deplazes, Andrea, ed. Constructing Architecture: Materials, Processes, Structures, 2nded. Birkhäuser, 2008.
+Elliott, Cecil D. Technics and Architecture: The Development of Materials and Systems for Buildings. MIT, 1992.
+Gordon, J. E. Structures, Or Why Things Don't Fall Down. Da Capo Press, 2009*
+Gordon, J. E. The New Science of Strong Materials, Or, Why You Don't Fall Through the Floor. Princeton University Press, 2018.
+Hegger, Manfred., et al. Materials Manual. Birkhäuser 2006*
+Herzog, Thomas, et al. Timber Construction Manual, Detail. Birkhäuser 2008.
+Kind-Barkauskas, Friedbert, et al. Concrete Construction Manual, Detail. Birkhäuser 2002*
+Pfeifer, Günter, et al. Masonry Construction Manual, Detail. Birkhäuser 2001.
+Schittich, Christian, et al. Building Skins, In Detail. Birkhäuser 2012*
+Schittich, Christian, et al. Glass Construction Manual, Detail. Birkhäuser 2007*
+Schulitz, Helmut, et al. Steel Construction Manual, Detail. Birkhäuser 2002*
+Simmons, H. Leslie. Olin's Construction: Principles, Materials, and Methods, 9thed. Wiley, 2011*
+                                                                                                                               8
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+Resources
+Critical Texts
+Balmond, Cecil. Informal. Prestel, c2002
+Fitch, James Marston. American Building: The Environmental Forces That Shape It. University Press, 1999
+Ford, Edward R. The Details of Modern Architecture. MIT, 1991.
+Frampton, Kenneth. Studies in Tectonic Culture: The Poetics of Construction in Nineteenth and Twentieth Century Architecture.
+MIT 1995.
+Kieran, Stephen, and James Timberlake. Refabricating Architecture: How Manufacturing Methodologies Are Poised to Transform
+Building Construction. McGraw-Hill, c2004
+Mostafavi, Mohsen, and David Leatherbarrow. On Weathering: The Life of Buildings in Time. MIT, 1993.
+* Texts available in electronic version using the UT ID.
+Please, note that additional required and recommended readings will be announced in class and posted to canvas as the
+semester progresses
+                                                                                                                              9
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+Procedures
+Evaluation & Policies
+General Culture
+Being on time is required. Participation is expected. Asking questions is highly encouraged. We want to have an open and
+engaging conversation and a productive time. Use of phones and laptops is not allowed during lectures. Eating in class is
+distracting and disrespectful. Drinks are fine, stay hydrated! Please, step out if you have to make an emergency call.
+Communication & Submissions: Canvas & Emails
+Canvas will be used for communication of the logistics and content of the course, as well as for submission of assignments,
+feedback, grading, and attendance. Direct emails will be used for one-to-one communication.
+Please, set up your Canvas preferences to receive an email (or text message) notification as soon as a Canvas Announcement
+has been posted online. Make sure that the email you provided on Canvas is active and that you regularly check your inbox.
+Field Trip Conduct
+Field trips to construction sites and/or building material manufacturing operations will occur both during lecture and lab
+sessions. For these field trips, you must wear long pants, closed-toe shoes, and bring hard hats and safety glasses (which will
+be provided by the school). Punctuality and responsible on-site conduct are essential to the continued success of the visits
+and your safety.
+Evaluation Criteria
+Grades are subject to deductions for late arrivals, absences, and late or incomplete work at the discretion of the instructor.
+Group work requires equal participation from all members. Any individual not performing a commensurate share of the work
+may be eliminated from the group, but still responsible for satisfaction of the assignment requirements. A student must earn
+a letter grade of C or better in order for the course to count towards a degree in the School of Architecture and to progress
+in to the next studio. A letter grade of C- will not satisfy degree requirements.
+Grade Description
+      •    A/A-                 Excellent
+           Project surpasses expectations in terms of inventiveness, appropriateness, visual language, conceptual rigor, craft,
+           and personal development. Student pursues concepts and techniques above and beyond what is discussed in
+           class. Project is complete on all levels.
+      •    B+/B/B-              Above Average
+           Project is thorough, well presented, diligently pursued, and successfully completed. Student pursues ideas and
+           suggestions presented in class and puts in effort to resolve required projects. Project is complete on all levels and
+           demonstrates potential for excellence.
+                                                                                                                                 10
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+      •    C+/C                Average
+           Project meets the minimum requirements. Suggestions made in class and not pursued with dedication and rigor.
+           Project is incomplete in one or more areas.
+      •    C-/D+/D/D- Poor
+           Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of presentation are not level-appropriate.
+           Student does not demonstrate the required competence and knowledge base.
+      •    F                   Fail
+           Project is unresolved. Minimum objectives are not met. Performance is not acceptable. Note that this grade will be
+           assigned when students have excessive unexcused absences.
+      •    X                   Excused Incomplete
+           Can be given only for legitimate reasons of illness or family emergency. Simply not completing work on time is not
+           an adequate cause for assigning this evaluation. It may only be used after consultation with the Associate Deans'
+           offices and with an agreement as to a new completion date. Work must be completed before the second week of
+           the next semester in which the student is enrolling, according to the School of Architecture policy.
+Attendance
+Attendance is mandatory. Participation is expected. With three (3) unexcused absences, the student’s final grade for the
+course will be lowered by a full letter grade. The final grade will be lowered by a full letter grade for each unexcused absence
+thereafter. Aside from religious observances, absences are only excused with written documentation of a medical issue or
+family emergency. The student is responsible for completing work missed due to excused absences and initiating
+communication with the instructor to determine due dates. If a student is late (10 minutes after the start of class) three (3)
+times, it will be counted as one (1) unexcused absence. Students should notify the instructor via email prior to class if lateness
+or absence is known in advance.
+Religious Observances
+A student shall be excused from attending classes of other required activities, including examinations, for the observance of
+a religious holy day, including travel for the purpose. A student whose absence is excused under this subsection may not be
+penalized for that absence and shall be allowed to take an examination or complete an assignment from which the student is
+excused within a reasonable time after the absence. University policy requires students to notify each of their instructors as
+far in advance of the absence as possible so that arrangements can be made.
+Academic Integrity
+Students who violate University policy on academic integrity are subject to disciplinary penalties, including the possibility of
+failure in the course and/or dismissal from the University. Since such dishonesty harms the individual, all students, and the
+integrity of the University, policies on academic integrity will be strictly enforced. Refer to the Student Conduct and
+Academic Integrity website for official University policies and procedures on academic integrity:
+                                                                                                                                      11
+
+
+ARC 415K | UTSOA Fall 2019 | Construction I | Instructor: Aleksandra Jaeschke
+http://deanofstudents.utexas.edu/conduct/academicintegrity.php. University Code of Conduct:
+http://catalog.utexas.edu/general-information/the-university/#universitycodeofconduct
+Care Program
+Counselors in Academic Residence (CARE) Program places licensed mental health professionals within the colleges or schools
+they serve in order to provide better access to mental health support for students who are struggling emotionally and/or
+academically. Abby Simpson is the CARE counselor for the School of Architecture. Faculty and staff may refer students to the
+CARE counselor or students may directly reach out to her.
+Abby Simpson | BTL 114B | (512) 471-3115
+https://cmhc.utexas.edu/CARE_simpson.html
+Students with Disabilities
+Students with disabilities who require special accommodations need to obtain a letter that documents the disability from the
+Services for Students with Disabilities area of the Office of the Dean of Students (471-6259 voice or 471-4641 TTY for users
+who are deaf or hard of hearing). This letter should be presented to the instructor in each course at the beginning of the
+semester and accommodations needed should be discussed at that time. http://diversity.utexas.edu/disability/
+                                                                                                                             12

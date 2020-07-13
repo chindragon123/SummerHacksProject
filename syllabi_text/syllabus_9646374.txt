@@ -1,0 +1,111 @@
+                            PHY 317K: GENERAL PHYSICS I
+                            Summer 2019, 11:30-13:00, PAI 2.48
+                                        UNIQUE # 86885
+       Homework Server: https://quest.cns.utexas.edu
+ Instructor: Prof. Alex Demkov                     TA: Ali Hamze
+ Office: RLM 13.206                                Office: RLM 7.204
+ Phone: 471-8560                                   Phone: 232 7588
+ e-mail: demkov@physics.utexas.edu                 e-mail: alihamze@utexas.edu
+ Office hours: Monday 2-4 pm. Other times          Office hours: Friday 1-3 pm
+ by appointment.
+LAs: Courtney Dao (courtdao@utexas.edu), Jorge Cervantes (jorgecervantes@utexas.edu)
+       and Sara Irvine (sarairvine@utexas.edu)
+Discussion Sections:
+ LA               Room           Monday         Tuesday       Wednesday    Tuesday     Friday
+ Jorge            ASE 1.126      9-11 a.m.      9-11 a.m.     9-11 a.m.    9-11 a.m.   9-11 a.m.
+ Courtney         RLM 7.114      2-4 p.m.       2-4 p.m.      2-4 p.m.     2-4 p.m.    2-4 p.m.
+ Sara             RLM 7.114      4-6 p.m.                     4-6 p.m.     4-6 p.m.    4-6 p.m.
+Extra Help: Extra TAs are available for coaching on the 5th floor of RLM. Check the bulletin
+board near the coaching tables for schedule. You may also get help at the Sanger Learning
+Center in the Jester Hall.
+Text: Essential University Physics, 3rd Edition, Volume 1 by Richard Wolfson (older editions
+are fine as well). See attached syllabus for schedule of lectures.
+Overview: This is the first part of a calculus-based technical physics sequence recommended
+primarily for premedical students and others in the biomedical sciences. The course covers
+mechanics of solids and fluids, oscillations and waves, and heat and thermodynamics. This
+course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are designed to
+equip you with skills that are necessary for understanding the types of quantitative arguments
+you will regularly encounter in your adult and professional life. You should therefore expect a
+substantial portion of your grade to come from your use of quantitative skills to analyze real-
+world problems.
+Administrative Issues: Please see Ms. Kelly McCoy, Undergraduate Office, RLM 5.214, 512-
+471-8856, ugaffairs@physics.utexas.edu.
+Course Pre- and Co-Requisites: Credit with a grade of at least C- in Mathematics 408C or
+408R; or credit with a grade of at least C- in 408K or 408N and registration in 408L or 408S;
+credit with a grade of at least C- or registration in Physics 117M.
+
+
+Grading: Course grades will be calculated based on the weighted sum of the following:
+Homework – 25%, Midterm Exams – 40%, and Final Exam – 35%. Course grades will be
+determined by a class curve at the end of the semester and no prescribed cutoff values should be
+assumed.
+Quest: This course makes use of the web-based Quest content delivery and homework server
+system maintained by the College of Natural Sciences. This service will require each student to
+pay a $30 charge per course and $60 for two or more courses per semester for its use. This
+charge goes toward the maintenance and operation of the resource. Please go to
+http://quest.cns.utexas.edu to log in to the Quest system for this class. At some point during the
+second or third week, when you log into Quest you will be asked to pay via credit card on a
+secure payment site. Quest provides mandatory instructional material for this course, just as is
+your textbook, etc. For payment questions, email quest.billing@cns.utexas.edu.
+Homework: You will download the homework and submit your answers online at
+https://quest.cns.utexas.edu. Solutions will be available online right after the due time. The
+lowest two homework grades will be dropped in calculation of the course grade. Read the
+students’ documentation at https://wikis.utexas.edu/display/questla/Students. You are
+encouraged to work together on the homework. You must, however, submit your own work for
+credit.
+Midterm Exams and Final Exam: There will be three in-class midterm exams on Monday
+June 17, Friday June 28, and Thursday July 11. The lowest midterm grade will be dropped in
+calculation of the course grade. No makeup exam will be given. If you miss a midterm exam, it
+will be the one that will be dropped. The final exam is comprehensive and mandatory and will be
+held as scheduled by the Registrar’s Office. No early final exam will be given. The midterm
+exams and final exam will be closed book and notes. A formula sheet will be provided to you
+and calculators may be used for numerical calculations only. Academic dishonesty will not be
+tolerated.
+Pre-Class Reading and In-Class Activities: Before coming to class you are expected to have
+read the relevant materials from the textbook for that day. The lectures will not simply
+regurgitate what you have read, rather they will focus on explaining and expanding the concepts
+that you may have difficulty understanding, with the help of demonstrations and example
+problems.
+Special Accommodations: The University of Austin provides upon request appropriate
+academic accommodations for qualified students with disabilities. For more information, contact
+the Office of the Dean of Students at 471-6259, 471-6441 TTY.
+
+
+Tentative Schedule
+ Class WEEK 1       DATE                      TOPIC                CHAPTER
+        M
+        T
+        W
+ 1      T           06/06           Motion in a Straight Line            2
+ 2      F           06/07                    Vectors                     3
+        WEEK 2                                TOPIC                CHAPTER
+ 3      M           06/10    Motion in Two and Three Dimensions          3
+ 4      T           06/11               Force and Motion                 4
+ 5      W           06/12             Using Newton’s Laws                5
+ 6      T           06/13        More on Using Newton’s Laws             5
+ 7      F           06/14          Energy, Work, and Power               6
+        WEEK 3                                TOPIC                CHAPTER
+ 8      M           06/17                    Exam 1                (Ch. 1-5)
+ 9      T           06/18            Conservation of Energy              7
+ 10     W           06/19                     Gravity                    8
+ 11     T           06/20         Conservation of Momentum               9
+ 12     F           06/21                   Collisions                   9
+        WEEK 4                                TOPIC                CHAPTER
+ 13     M           06/24              Rotational Motion                10
+ 14     T           06/25             Rotational Dynamics               10
+ 15     W           06/26  Rotational Vectors and Angular Momentum      11
+ 16     T           06/27              Static Equilibrium               12
+ 17     F           06/28                    Exam 2                (Ch. 6-11)
+        WEEK 5                                TOPIC                CHAPTER
+ 18     M           07/01                Statics of Fluids              15
+ 19     T           07/02                Fluid Dynamics                 15
+ 20     W           07/03              Oscillatory Motion               13
+ 21     T           07/04                  HOLIDAY                      13
+ 22     F           07/05   More Oscillatory Motion/Wave Motion         14
+        WEEK 6                                TOPIC                CHAPTER
+ 23     M           07/08              More Wave Motion                 14
+ 24     T           07/09             Temperature and Heat              16
+ 25     W           07/10       The Thermal Behavior of Matter          17
+ 26     T           07/11                    Exam 3                (Ch. 12-15)
+        F           07/12
+Final Exam (Ch. 1-17), TBD

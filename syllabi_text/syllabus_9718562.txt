@@ -1,0 +1,215 @@
+Fall 2019 - ARC 385M - Construction III
+Instructor: Ulrich Dangel | dangel@utexas.edu
+Office Hours: Tuesdays 2:00 - 3:00pm, GOL 4.108, Tel. 512-471-5157
+Teaching Assistant: Lena Page | pagelena@utexas.edu
+Lecture: TTH 12:30 - 2:00pm, WMB 5.102, Lab: TH 7:00 - 10:00pm, PAR 304
+Course Summary
+This course is an introduction to analyzing the behavior of basic structures through quantitative methods of
+conventional structural analysis and design. It functions as an applied statics course and emphasizes schematic
+calculations for the design of components and connections of various structural systems. In addition, rules of
+thumb for the preliminary sizing of structural members will be introduced. The analysis aspects of this course
+will examine the structural behavior and application of beams and columns in timber, steel, and reinforced
+concrete. Throughout the course, the student will be required to make assessments in the areas of material,
+form, and fabrication.
+The primary objective of the course is to provide the student with the ability to use methods and analyses, along
+with rules of thumb and present-day conventions, to determine the preliminary sizing and evaluation of a total
+structural system. Consequently, the student will learn to make a judgment on which structural systems are
+appropriate and applicable to a specific design solution.
+NAAB Student Performance Criteria
+B.4 Technical Documentation, B.5 Structural Systems, B.8 Building Materials and Assemblies
+Format
+- Lectures will cover the significant material introduced in the required reading assignments.
+- Homework will be assigned at the end of each lab session and will be due at the beginning of the following
+     lab. Lab sessions will review example problems similar in nature to those assignments. Late homework
+     assignments will be reviewed but not credited.
+- In addition to the weekly assignments, projects will constitute the fundamental course work. Late project
+     assignments will be graded, but will be lowered by half a letter grade for each day late.
+- Quizzes may be given without notice to cover reading assignments, which should be completed prior to the
+     presentation of the material in lecture.
+- Exams will be closed book and will cover all lectures, labs, and reading assignments within a given period.
+- All course material (course description, syllabus, assignments, projects, readings, grades, etc.) will be
+     available on Canvas at canvas.utexas.edu
+Course Requirements
+Statics and Strength of Materials for Architecture and Building Construction, Onouye + Kane, 4th edition
+Building Structures Illustrated, Ching, 2nd edition
+The Architect’s Studio Companion, Allen, 6th edition
+Reserved Texts:
+Architectural Structures, Place; Building Construction Illustrated, Ching; Building Skins, Schittich; Building
+Structures, Ambrose; Concrete Construction Manual, Kind-Barkauskas; Constructing Architecture, Deplazes;
+Construction Materials Manual, Hegger; Designing the Exterior Wall, Brock; Elementary Structures for
+
+
+Architects and Builders, Shaeffer; Facade Construction Manual, Herzog; Fundamentals of Building
+Construction, Allen; Glass Construction Manual, Balkow; Interactive Structures (DVD), Vassigh;
+Manual of Multi-Storey Timber Construction, Kaufmann; Masonry Construction Manual, Pfeifer; Olin’s
+Construction: Principles, Materials & Methods, Leslie; Roof Construction Manual, Schunck; Simplified
+Engineering for Architects and Builders, Ambrose + Tripeny; Steel Construction Manual, Schulitz; Structures,
+Schodek; Structures – Or Why Things Don’t Fall Down, Gordon; Timber Construction Manual, Herzog; Why
+Buildings Fall Down, Levy; Why Buildings Stand Up, Salvadori
+Grading
+Final grades are derived from homework and quizzes, three semester exams, and the semester projects.
+Grading is based on a 100-point scale as follows:
+A         93 - 100
+A-        90 - 92
+B+        87 - 89
+B         83 - 86
+B-        80 - 82
+C+        77 - 79
+C         73 - 76
+C-        70 - 72
+D+        67 - 69
+D         63 - 66
+D-        60 - 62
+F         59 and below
+The individual grades accumulated over the semester are averaged towards the final grade as follows:
+Homework                   10%
+Exam 1                     20%
+Exam 2                     20%
+Exam 3                     20%
+Projects                   30%
+NO INCOMPLETES WILL BE ALLOWED.
+Attendance Policy
+Attendance is mandatory in all lectures and labs. Students can have three (3) unexcused absences – for any
+reason – without penalty. Each additional absence, regardless of the reason, will lower the final course grade by
+one full letter grade.
+Religious Observances
+A student shall be excused from attending classes or other required activities, including examinations, for the
+observance of a religious holy day, including travel for the purpose. A student whose absence is excused under
+this subsection may not be penalized for that absence and shall be allowed to take an examination or complete
+an assignment from which the student is excused within a reasonable time after the absence. University policy
+requires students to notify each of their instructors as far in advance of the absence as possible so that
+arrangements can be made.
+By UT Austin policy, you must notify the instructor of the pending absence at least fourteen days prior to the
+date of a religious holy day. If you must miss a class, an examination, an assignment, or a project in order to
+
+
+observe a religious holy day, you will be given an opportunity to complete the missed work within a reasonable
+time after the absence.
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a student of The
+University of Texas at Austin, I shall abide by the core values of the University and uphold academic integrity.”
+Representing the work of others as your own, including plagiarism, is taken very seriously at UT. You must cite
+your sources when you use the words or ideas of others; otherwise you will be guilty of plagiarism and subject
+to academic disciplinary action, including failure of the course. You are responsible for understanding UT’s
+Academic Honesty and the University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/conduct/academicintegrity.php.
+Personal Pronouns
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with
+differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities. Class
+rosters are provided to the instructor with the student’s legal name, unless they have added a “preferred name”
+with the Gender and Sexuality Center (http://diversity.utexas.edu/genderandsexuality/publications-and-
+resources/). The instructor will gladly honor your request to address you by a name that is different from what
+appears on the official roster and by the gender pronouns you use (she/he/they/ze, etc). Please advise the
+instructor of any changes early in the semester so appropriate updates may be made to their records.
+Mental Health and Support Services
+Taking care of your general well-being is an important step in being a successful student. If stress, test anxiety,
+racing thoughts, feeling unmotivated, or anything else is getting in your way, there are options available for help:
+     • In-house CARE counselor (see below)
+     • For immediate support
+              o Visit/call the Counseling and Mental Health Center (CMHC):
+                  M-F 8am-5pm | SSB, 5th floor | 512-471-3515 | cmhc.utexas.edu
+              o CMHC Crisis Line:
+                  24/7 | 512-471-2255 | cmhc.utexas.edu/24hourcounseling.html
+     • Free services at CMHC:
+              o Brief assessments and referral services: cmhc.utexas.edu/gettingstarted.html
+              o Mental health & wellness articles: cmhc.utexas.edu/commonconcerns.html
+              o MindBody Lab: cmhc.utexas.edu/mindbodylab.html
+              o Classes, workshops, and groups: cmhc.utexas.edu/groups.html
+CARE PROGRAM
+Counselors in Academic Residence (CARE) Program places licensed mental health professionals within the
+colleges or schools they serve in order to provide better access to mental health support for students who are
+struggling emotionally and/or academically. Abby Simpson (LCSW) is the assigned CARE counselor for the
+School of Architecture. Faculty and staff may refer students to the CARE counselor or students may directly
+reach out to her. Please leave a message if she is unavailable by phone.
+         Abby Simpson, LCSW | BTL 114B | 512-471-3115 (M-F 8am-5pm)
+         https://cmhc.utexas.edu/CARE_simpson.html
+Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. Instructors are
+committed to creating an effective learning environment for all students, but this is possible only if you discuss
+your needs early. Any student with a documented disability who requires academic accommodations should
+
+
+contact Services for Students with Disabilities at 471-6259 (voice) or 512-410-6644 (Video Phone) as soon as
+possible to request an official letter outlining authorized accommodations. For more information, visit
+http://ddce.utexas.edu/disability/about/.
+BEVOCAL
+BeVocal is a university-wide initiative to promote the idea that individual Longhorns have the power to prevent
+high-risk behavior and harm. At UT Austin all Longhorns have the power to intervene and reduce harm. To learn
+more about BeVocal and how you can help to build a culture of care on campus, go to:
+https://wellnessnetwork.utexas.edu/BeVocal/.
+BCAL
+Concerns regarding the safety or behavior of fellow students, Teaching Assistants (TA), or Professors can be
+reported to the Behavior Concerns Advice Line (BCAL): 512-232-5050. Calls can be made anonymously. If
+something doesn’t feel right, it probably isn’t. Trust your instincts and share your concerns.
+Title IX Reporting:
+Title IX is a federal law that protects against sex and gender-based discrimination, sexual harassment, sexual
+assault, sexual misconduct, dating/domestic violence and stalking at federally funded educational institutions.
+UT Austin is committed to fostering a learning and working environment free from discrimination in all its forms.
+When sexual misconduct occurs in our community, the university can:
+           1. Intervene to prevent harmful behavior from continuing or escalating.
+           2. Provide support and remedies to students and employees who have experienced harm or have
+               become involved in a Title IX investigation.
+           3. Investigate and discipline violations of the university’s relevant policies:
+               https://titleix.utexas.edu/policies.
+Faculty members and certain staff members are considered “Responsible Employees” or “Mandatory
+Reporters,” which means that they are required to report violations of Title IX to the Title IX Coordinator. Your
+instructor is a Responsible Employee and must report any Title IX related incidents that are disclosed in
+writing, discussion, or one-on-one. Before talking with any faculty or staff member about a Title IX related
+incident, be sure to ask whether they are a responsible employee. If you want to speak with someone for
+support or remedies without making an official report to the university, email advocate@austin.utexas.edu. For
+more information about reporting options and resources, visit https://titleix.utexas.edu or contact the Title IX
+Office at titleix@austin.utexas.edu.
+Emergency Evacuation
+In the case of emergency evacuation:
+     • Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+           when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+           outside.
+     • Students should familiarize themselves with all exit doors of each classroom and building they may
+           occupy. Remember that the nearest exit door may not be the one used when entering the building.
+     • Students requiring assistance in evacuation shall inform their instructor in writing during the first week
+           of class. In the event of an evacuation, follow the instruction of faculty or class instructors.
+     • Reentry into a building is prohibited unless given instructions by the following: Austin Fire Department,
+           The University of Texas at Austin Police Department, or Fire Prevention Services offices.
+Information regarding emergency evacuation routes and emergency procedures can be found at:
+www.utexas.edu/emergency.
+
+
+Fall 2019 - ARC 385M - Construction III
+Instructor: Ulrich Dangel
+Schedule
+Week                               Topic                                            Notes                           Reading*
+1         29-Aug             TH    Course Introduction                              No Lab
+2         3-Sep              T     Statics                                                                          Ch. 1.1 - 1.6, 2.1 - 2.4
+          5-Sep              TH    Structural Properties of Areas                   Project Part 1 issued           Ch. 6.1 - 6.4
+                                                                                                                                                                                      Structural Fundamentals
+3         10-Sep             T     Stress and Strain                                                                Ch. 5.1 - 5.4
+          12-Sep             TH    Shear and Moment                                                                 Ch. 2.5 - 2.6, 7.1 - 7.5
+4         17-Sep             T     Bending Stress                                                                   Ch. 8.1 - 8.2, 8.6
+          19-Sep             TH    Shearing Stress                                  Project Proposal Part 1 due     Ch. 8.3 - 8.4
+5         24-Sep             T     Deflection/Compression Members                                                   Ch. 8.5, 9.1 - 9.2
+          26-Sep             TH    Compression Members                                                              Ch. 8.7, 9.5
+6         1-Oct              T     Properties of Wood/Beam Design                                                   Ch.4.1, Ch. 5.1 - 5.2, 5.4 - 5.7 (Ambrose + Tripeny)
+          3-Oct              TH    Exam 1 7:00 - 9:00pm                             No Lecture/No Lab
+7         8-Oct              T     Preliminary Structural Design (Gregory Brooks)
+                                                                                                                                                                                      Wood
+          10-Oct             TH    Column Design/Wood Connections                                                   Ch. 9.4
+8         15-Oct             T     Wood Connections                                                                 Ch. 19 (Ambrose)
+          17-Oct             TH    Case Study: The Core                             Project Part 1 due
+9         22-Oct             T     Properties of Steel                              Project Part 2 issued           Ch. 8 (Ambrose + Tripeny)
+          24-Oct             TH    Beam and Column Design in Steel                                                  Ch. 9.3
+                                                                                                                                                                                      Steel
+10        29-Oct             T     Steel Connections I                                                              Ch. 10.2
+          31-Oct             TH    Steel Connections II                                                             Ch. 10.1, 10.3
+11        5-Nov              T     Beam Design in Concrete                                                          Ch. 13.1 - 13.5 (Ambrose + Tripeny)
+          7-Nov              TH    Exam 2 7:00 - 9:00pm                             No Lecture/No Lab
+                                                                                                                                                                                      Concrete
+12        12-Nov             T     Beam and Column Design in Concrete                                               Ch. 13.6 - 13.8, 14, 15 (Ambrose + Tripeny)
+          14-Nov             TH    Foundation Design I                              No Lab/Project Part 2 Pinup     Ch. 16 (Ambrose + Tripeny)
+13        19-Nov             T     Foundation Design II
+          21-Nov             TH    Project Presentations I                          Project Part 2 due
+14        26-Nov             T     Project Presentations II                                                                                                                           Project
+          29-Nov             TH    Thanksgiving                                     No Lab
+15        3-Dec              T     No Class
+          5-Dec              TH    No Class                                         No Lab
+          14-Dec             SAT   Exam 3 2:00 - 4:00pm
+Schedule subject to change                                                                         * Reading in bold is from the course textbook, all other reading is available on Canvas

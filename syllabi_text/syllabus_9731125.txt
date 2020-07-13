@@ -1,0 +1,508 @@
+                                   Audience Development and Engagement
+                                              (06185 | 06305 | 06630)
+                                                        Fall 2019
+  Class Meets: Tuesdays | 12:30 – 3:30 | BMC 4.208 classroom AND CMA 6.154 lab
+  Instructor: Prof. Erin Reilly                                Office: BMC 4.368
+  Email: ebreilly@utexas.edu                                   Office hours: 1-2 pm Mon (BMC 4.368)
+  Phone: 207-251-1617                                          AND 4-5 pm Thurs (CMA 6.154)
+                                                               OR by appointment
+  TA: Jeongmin Ham                                             Office: BMC 4th floor
+  Email: jham112@utexas.edu                                    Office hours: By appointment
+  Undergraduate Learning Assistant: Joshua Ramirez             Office: CMA 6.154
+  Email: joshramirez@utexas.edu                                Office hours: Monday 2:30-5:30 PM
+                                                               Tuesday 4:00-6:00 PM
+                                                               Wednesday 6:00-9:00 PM
+                                                               Thursday 10:00 AM-12:00PM
+ This course is part of the Undergraduate Learning Assistant (ULA) program this semester. Your ULA, Joshua
+ Ramirez, was selected because he has expertise that can help you be successful in the course. Think of your ULA as
+ an approachable, near-peer mentor whose purpose is to help you learn during and outside of class. Joshua will
+ often be the first person you contact if you have questions about demo / lab assignments. I encourage you to take
+ advantage of his office hours.
+ ULAs do not grade any assignments and cannot answer questions about your grades. For questions about grades,
+ please contact TA, Jeongmin Ham or Professor Erin Reilly.
+                                             Course Description
+Course Description:
+Traditionally, audiences for content were broken up into four simple quadrants – male, female, young and old – but
+now it’s possible to develop much more nuanced audience models based on fan behaviors and motivations. Rather
+than the “blunt instrument” of who is accessing the content, content producers and advertisers can now gain a
+better understanding of why people are accessing that content and customize their plans accordingly. Further, fans
+are far more than just consumers. They make it possible for stories, artists, and teams to persist and flourish over
+time. Content creators, digital strategists and marketers should pay closer attention to what fans want and need and
+offer them more and better opportunities to deepen their engagement and extend it from their core passions into
+other, related content and communities.
+In this course, students will be introduced to the latest thinking on better understanding audiences and their
+motivations, new approaches and tools for engaging audiences in different content strategies and what metrics can
+be used to measure their engagement in ways that prove valuable to content creators, marketers and audiences.
+  What will I learn?
+                                                                1
+
+
+Main skills and attitudes to be developed:
+   •    Positive attitude
+   •    Team collaboration
+   •    Thinking skills (develop observation skills, divergent thinking and identifying patterns)
+   •    Self-management
+Learning Outcomes
+     1.  Expose students to real-world challenges facing the media industries
+     2.  Introduce students to new metrics and measurements to leverage engagement
+     3.  Encourage students to test out multiple research methods to measure and collect data on engagement
+     4.  Construct personalized audience profiles and fan journeys
+     5.  Learn how to turn this into content strategies to activate an audience
+How will I learn?
+    •    Writing Assignments                                          •   Pair Share Activities
+    •    Guest Lectures                                               •   Final Team Projects
+    •    Classroom Discussions
+Pre-requisites for the course:
+N/A
+How to succeed in this course:
+My role is to be a “guide on the side”… to help you acquire the skills needed to succeed as a strategist /
+engagement expert.
+Your role is to show up, be present, have a willingness to learn, do good work and accept constructive feedback
+from myself and your peers.
+                        Overall, let’s have some fun …we’re talking about our passions after all!
+                                          Course Requirements
+Required Materials
+   •    Henry Jenkins, Sam Ford, and Joshua Green. Spreadable Media: Creating Meaning and Value in a Networked
+        Culture (New York: New York University Press, 2013)
+I may periodically post additional required readings to the class website at Canvas. These readings will be short
+articles in mainstream publications, such as newspapers and magazines, that help shed contemporary light on
+issues discussed in this course.
+Required Devices
+Computer, ability to record and edit videos.
+Classroom expectations
+Class attendance
+Attendance is required at all class, presentation, client and team meetings. We may also have a significant number
+of meetings that are off site and/or outside the scheduled class time. There will be no excused absences. Failure to
+attend any of these meetings will affect your grade and could reduce your final grade by as much as two letter
+grades. Attendance means showing up to the class or meeting on time. Habitual lateness will affect your grade.
+                                                                2
+
+
+Class participation
+Teamwork: This course is primarily structured around teamwork. You will self-assign yourself to a pair and a group,
+and the bulk of your work in the course will be carried out and evaluated based on these teams. Teams will consist
+of varying personalities, skills and interests and you must find a way to manage these differences. The ability to
+cooperate, to communicate and to work effectively is essential to creating successful strategies and creative briefs,
+both in this class and in the real world. Once students have been assigned to teams, I will not adjust the
+membership of these teams. Although I don’t anticipate any problems, if issues do arise I expect you to resolve
+them yourselves, just as you would in a real-world job situation.
+Deadlines: This class simulates the real world, and in the real world, deadlines are non-negotiable. All assignments
+must be handed in on time. Late assignments or projects will not be accepted and you will not earn any points (i.e.
+you will receive a grade of 0) for that assignment. The usual litany of excuses (I slept through my alarm, I missed the
+bus, I have a cold, my grandmother died) won’t work. In the real world, failure to meet a deadline could result in
+you losing your job. Now is the time to practice time management and adherence to deadlines.
+Time management: This course is very demanding on your time. Your teammates in this class will judge you on
+how much, and the quality of, work you contribute to your class project. Do not lose track of what is most
+important.
+Communication: The primary way I will communicate with you outside of class is through e-mail. You are
+responsible for making sure you get any messages from me and you are responsible for the content of those
+announcements. I may notify you via e-mail about a change in meeting times or assignment deadlines. Failure to
+check your e-mail does not excuse you from meeting the responsibilities outlined in the message. At a minimum,
+you should check your e-mail once every day.
+Plagiarism: Everything you produce in this class must be your original work. If you have help from anyone outside
+this class it will be considered a breach of UT’s policy on Scholastic Integrity and will be dealt with accordingly.
+Assignments
+1. Auto-Ethnography | 5% (Individual Project)
+     Write a short five-page auto-ethnography describing their own history as a fan of sports, music, a popular
+     media franchise or anything else. It’s best to choose one genre of fanship to focus on. You should explore
+     whether or not you think of yourself as a fan, what kinds of fan practices you engage with, how you define
+     a fan, how you became invested in the fanship that have been part of your life, and how your feelings
+     about being a fan might have adjusted over time. (NOTE: As you learn the Leveraging Engagement
+     framework, you will return to this assignment week after week so the more detail you can offer, the
+     better.)
+2. Learning a Fandom | 5% (Individual Project)
+     PART 1. Find, read and discuss three articles -- 1) Fan scholarship from an academic journal, 2) Industry
+     coverage, like an article from Variety, and 3) Fan Participation / Production such as social platforms, blogs or
+     social media thread. All three should relate to your fandom of choice.
+     PART 2. Share your 3 articles and outline the key points about each reading and how this ties to the Leveraging
+     Engagement model. I’m looking more for insight into the fandom rather than summary of article content.
+     Consider the following questions in your response:
+     •   What is unique about this fandom?
+     •   What surprised you the most?
+                                                               3
+
+
+   •    How did the different sources interpret, influence and inform how to study this fandom in particular, and
+        fandom in general?
+3. Project #1: Leveraging Engagement Research Plan & Analysis | 30% (Teams of 3)
+      Client(s) will come in and offer a brief identifying their core offering, who they currently are targeting and
+      what they have to offer. Your goal is to break into teams of 3 and conduct research to better understand
+      who their audience is, why they’re motivated to engage with the brand, what context is best suited for that
+      engagement.
+      Part of this project will include developing tools and conducting research using the three methods.
+      Ethnography Activities
+      Reflect on the sample interview tools, and design your own Interview tool related to the fans your team
+      chooses to study.
+      Survey
+      Review the sample surveys to design your own survey. Make sure to include a screener, a section on
+      Leveraging Engagement, and build in Qualtrics to make use of blocking different sections necessary to
+      analyze.
+      Data Analytics
+      Review the 4 types of data analytics. Choose 1 and design the tool collecting information on your fandom.
+      After data collection, your team will need to analyze the data and write an audience profile report shaping a
+      profile(s) of who the audience is, why they are motivated to engage in client(s) brand and what is the right
+      engagement strategy for reaching them.
+4. Case Studies – The Good, the Not So Bad and the Ugly | 15% (Teams of 3)
+   Identify three different engagement strategies that a major brand / story world executed. Each student will
+   come to class with 3 examples noted by this project title. In groups of 3, students will discuss:
+      - why the campaign managers chose this direction
+      - why was this campaign’s direction successful or unsuccessful
+      - what are some ways you can see how they tried to use the fan motivators, how did it not work?
+   Using one of the problematic campaigns from your group as the foundation, REMIX it into a new campaign that
+   would be more successful. Identify the motivators and situational triggers outlining the key takeaways to
+   improving the brand campaign. The pitch can be in the form of images and a short summary of the experience
+   you'd want to offer. Consider the following questions in your response:
+       • What is the new campaign?
+       • Are you targeting a certain mindset in the fandom?
+       • What activates your fandom in relation to access, audience, agenda and attractors?
+       • In what ways does applying the campaign chosen work for your fandom?
+       • What could go wrong?
+5. Day in the Life (Pair Share Activity IN CLASS) | 10% (Teams of 2)
+   The goal of this pair share assignment is to work as a team to identify either yours or your partner’s fandom
+   written in the Auto-Ethnography writing assignment. Be creative in depicting a day in the life of the fan,
+   highlighting his/her interaction with the industry. Together, use a timeline tool, such as
+   https://www.officetimeline.com/, to brainstorm a 24 hour period, showing how many times and in what
+   context the fan interacts with the industry. Visually display this and share with the class via Blackboard. Make
+   sure to consider Who, What, When, Where and Why throughout the 24 hours and answer the following
+   question: “What levers does this industry have to attract, engage and transact with this fan?” Include with the
+                                                              4
+
+
+    Timeline Visualization a written 1 page summary of the fan’s day offering insight into the fan’s engagement
+    mindset and concrete examples of actions to take based on how the fan is motivated to engage with media.
+6. Build a Think & Do Facilitator’s Guide – TEAM FINAL PROJECT | 30% (Teams of 5)
+     Your final Team Project is based on the knowledge and understanding you’ll accumulate throughout this
+     course. As a team, you will complete and showcase the following steps in building an Experience Designer’s
+     Facilitation Guide:
+         1. Conduct research on the problem,
+         2. Analyze the audience,
+         3. Identify some specific mindsets that have at least some commonalities in motivation,
+         4. Develop a full day ideation session to engage the client on problem and audience, and
+         5. Present the facilitation with a hands-on activity as example for the class to participate in.
+     Work in Teams. Break out the roles and responsibilities up front to make sure the different parts of the
+     strategy is complete. Each part requires the input from the other so it’s important that you share weekly with
+     each other and get feedback from the rest in your team.
+     Use Client Brief to develop Think & Do Facilitator’s Guide. This should be a well-thought out ideation
+     experience with one of the activities implemented with class as example.
+     Points to consider in the design:
+         • Weeks 2-5 provided you with all the steps and tools for research, measuring and identifying your
+               audience’s mindsets to define personas.
+         • Weeks 6-9 provided case study examples and techniques for ideation. This will be useful in ensuring all
+               the detail your team will be assessed on is included in your final output.
+         • Your facilitator’s guide / presentation / final activity should include visual, audio and written material.
+         • It should portray a deep understanding of the property’s brand and its relationship to the audience.
+         • Build the Think & Do ideation session on a pain point where the property could do better to involve
+               their audience.
+         • Be specific on different actions that will embrace the audience but also offer nuances within the
+               ideation that will target different sub-sets of the fandom.
+Grading for this Course
+The following table represents how you will demonstrate your learning and how we will assess the degree to
+which you have done so.
+ Assignments                                                        Points possible            Percent of Total Grade
+  1. A u t o - E t h n o g r a p h y                                            20                         5
+  2. L e a r n i n g a F a n d o m                                              20                         5
+  3. Case Studies – The Good, the Not So Bad and the Ugly                20 – The Good                     15
+                                                                         20 – Not so Bad
+                                                                          20 – The Ugly
+                                                                              60 total
+  4. Leveraging Engagement                                             50 – Research Plan                  30
+  Research Plan (5) / Tools Designed (10) / Analysis (15)              30 – Tools Designed
+                                                                          100 – Analysis
+                                                                             180 total
+                                                                  5
+
+
+    5. Day in the Life / Pair Share Assignment                                     50                            10
+    6. Final Team Think & Do Facilitator’s Guide and Proposed          50 - Design & Conduct                     30
+       Ideation                                                                 research
+                                                                          100 - Offer Analysis
+                                                                      50 - Develop Facilitation
+                                                                                Strategy
+                                                                    100 - Present Engagement
+                                                                           Strategy (Ideation
+                                                                              Techniques)
+                                                                                  300 total
+    7. In-Class Activities / Discussions                                           15                            5
+7. 8. Extra Credit –Attend Imagine Moody MeetUp (2 Wednesday
+                                                     nd
+                                                                                    2                          Extra
+8.     of every month | 6-8PM | @CMA 6.154)
+    9. Submit to D3 Pitch Competition and Attend                                    2                          Extra
+        Event October 27 (12-6 PM)
+                                                                                  645+                         100%
+   Course Schedule: A Weekly Breakdown
+       All instructions, assignments, readings, rubrics and essential information will be on the Canvas website at
+       https://utexas.instructure.com. Check this site regularly and use it to ask questions about the course schedule.
+       Changes to the schedule may be made at my discretion and if circumstances require. It is your responsibility to
+       note these changes when announced (although I will do my best to ensure that you receive the changes with as
+       much advanced notice as possible).
+           Week              Topics/Daily Activities          Readings, Viewings &             Deliverable/ Due Dates
+                                                                   Homework
+           1–       Introduction                        Readings:
+           9/3       • Review Syllabus                    • A Brief History of Media
+                     • Discuss Projects                     Fandom
+                     • Course Expectations                • Spreadable Media: What
+                                                            Constitutes Meaningful
+                                                            Participation?
+                    ER Lecture:
+                    Turning Audiences into Fans         Watch:
+                                                          • Henry Jenkins / TED talk on
+                    Activities:                             Participatory Culture
+                     1. Group Intros w Favorite Toy
+                        (learn about Association)       Homework:
+                     2. Auto-Ethnography                  • Complete Auto-
+                                                            Ethnography
+           2–       ER Lecture:                         Readings:                           Auto-Ethnography DUE!
+           9/10     Leveraging Engagement Framework       • Ivan Askwith:
+                                                            Reconceptualizing TV as an
+                    Activity: Why You’re a Fan?             Engagement Medium
+                                                          • Erin Reilly: Fan Favorites
+                    Real-World Clients:                   • Fans. Passions. Brands.
+                                                            Global Football Study 2014
+                                                                  6
+
+
+      Present Client Brief (these will be
+      used for entire class)
+                                          Homework:
+      Introduce Project #1 (Discover /      • Learning a Fandom (located
+      Define):                                in Assignments)
+       • Break into 6 Teams (about 5
+         people each)
+       • Review Requirements
+3–    Ethnography: Fan Behavior Tools     Readings:                      Learning a Fandom DUE!
+9/17                                        • Desperately Seeking
+      Guest Lecture:                          Methodologies – New
+      Ana Aguilar, PhD Candidate / Erin’s     Directions in Fan Studies
+      RA for CxC Study                        Research
+                                            • Netnography Chapter 4: The
+      Activity:                               Method of Netnography by
+       • Coding in dScout                     Robert Kozinets
+      ** Note: Professor Reilly out of    Project #1:
+      town **                               • Design Interview tools
+                                            • Conduct Ethnography (10
+                                              people)
+4–    Survey: Fan Behavior Tools          Project #1:                    Project #1 Check-In:
+9/24                                        • Design survey tool         Ethnography
+      Guest Lecture:                        • Conduct Survey (30 people)
+      Mark Scheckner
+      IPSOS Media Development Division    Watch:
+                                            • Crash Course in NLP
+                                            • Social Network Analysis
+5–    ER Lecture:                         Readings:                      Project #1 Check-In: Survey
+10/1  Creating Personas …Making sense       • Kids are Emotional
+      of data analysis                        Schedulers
+      Guest Lecture:                      Project #1:
+       • Josh Barbour (basic social           • Collect and Analyze
+         network analysis)                         Data
+       • Evan (SPSS workshop, R…)
+6–    Guest Lecture:                      Readings:                      Project #1 Check-In: Data
+10/8  Matt Ochab, VP of Brand               • The Attention Economy      Analysis
+      Engagement, Image Metrics             • Crowdfunding Bible
+      Activity:
+      Workshop Personas
+7–    Research Plans Review               Final Project:                 Project #1 DUE!
+10/15  • Students present Audience          • Refine question, Identify  Final Analysis / Audience
+         Personas to Clients                  participants needed in the Persona Presentations to
+                                              room and perfect place to  Clients
+      Introduce Final Project (Develop &      ideate.
+      Deliver):
+       • Review Requirements
+                                                    7
+
+
+  8–        ER Lecture:                       Final Project:                   Case Studies – The Good,
+  10/22     What is a Think & Do? (The 5 Ps)    • Begin to Sketch out Ideation the Not So Bad and the Ugly
+                                                  Techniques                   DUE!
+            Activities:
+            Exploring Ideation Techniques
+  9–        Workshop Final Project            Final Project:
+  10/29                                         • Sketch out Ideation
+            Activities:                           Techniques related to
+             • Day in the Life (as example)       answering your client’s
+             • Brainstorm other Ideations         problem
+  10 –      Workshop Final Project                                             Ideation Techniques Due
+  11/5      for feedback
+            (1 hour each per Team)
+  11 –      Workshop Final Project            Final Project:                   Ideation Techniques Due
+  11/12     for feedback                        • Finalize your Facilitator’s
+            (1 hour each per Team)                Guide.
+                                                • Create Assets for Session
+  12 –      Finalize your T&D Guide and       Final Project:
+  11/19     Proposed Ideation                   • Make Video Brief
+  13 –      HOLD Office Hours
+  11/26     Final Project Team Reviews
+  14 –      Final Team Project Presentations                                   Evaluations!
+  12/3
+** All of these weeks are subject to change to maximize your learning and personalize it to the group. **
+                                                        8
+
+
+                                                     Policies
+Classroom Policies
+Statement on Learning Success
+Your success in this class is important to me. We will all need accommodations because we all learn differently. If
+there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as
+possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. I also
+encourage you to reach out to the student resources available through UT. Many are listed on this syllabus, but I
+am happy to connect you with a person or Center if you would like.
+Grading Policies
+Writing Assignments
+You will be required to write three papers, the Auto-Ethnography (due Week 1), Learning a Fandom (due Week 2)
+and the Case Study (due Week 8).
+In-class Activities
+There will be several in-class activities and exercises meant to lay the foundation for understanding different
+methods for designing, measuring and implementing engagement strategies. Some of these activities are graded,
+others are for credit. Failure to participate in any of the activities (or to participate with lackluster enthusiasm and
+professionalism) will knock your final grade down a letter.
+Final Team Project –Engagement Campaigns
+You will carry out engagement campaigns as the final project. You will be placed in groups of three students at the
+beginning of the semester, and this will be your group for the semester. You and your teammates will work as an
+engagement strategy team. You will pitch your campaign at the end of the semester indicated in the syllabus.
+Attendance and Professionalism
+Attendance at all classes and meetings is required. It is also assumed that students will be active participants in
+class. Simply being present in the room is not sufficient; you must also be engaged and involved scholars.
+Participation – not just attendance – is integral to a successful, enjoyable class and to you earning a high grade.
+Active participation means contributing to the discussion, listening to what your colleagues have to say and
+engaging with the readings and in-class activities. It means showing up on time, not checking Facebook or email on
+your computer, not texting on your phone. NOTE that if you do not participate in class discussions, you will not earn
+full points for attendance even if you come to every class.
+Peer Evaluations
+You will be asked to provide an assessment of your and your teammates' contributions to the
+Final project. They will be taken into account in final assignment of grades.
+Grading System:
+This class will be graded using the plus/minus grading system, as outlined by the university’s provost office
+(http://www.utexas.edu/provost/planning/plus-minus/). Advertising and PR majors are required to have a
+minimum grade of C in all communication courses and in all required and elective courses in order to continue in
+the program.
+NOTES on Grading:
+    • Late work is not accepted.
+    • I will NOT be rounding up percentage grades or points. So if you earn an 89.6% that translates into a B+ and
+        will not be rounded up to 90% (an A-).
+                                                                9
+
+
+    •    Any questions or comments about a grade must be presented in writing within seven (7) days after the grade
+         is announced or posted.
+    •    When I grade your work, you start with zero points. You earn points based on the quality of the work and the
+         accuracy, appropriateness and detail of your answers. You do not start with 100 points and then lose them
+         based on mistakes you make. Your final points represent the total points earned for that assignment, not the
+         number of points “taken away” for errors or omissions.
+ Absences
+ The only absences that will be considered excused are for religious holidays or extenuating circumstances due
+ to an emergency. You will be given attendance/participation credit for any session that you miss that is
+ documented to the teaching team in writing by a medical doctor’s statement, or an official statement from a UT
+ faculty member about an ensemble or other organization’s off-campus commitment. NO OTHER ABSENCES WILL BE
+ EXCUSED.
+Student Rights & Responsibilities
+    •    You have a right to a learning environment that supports mental and physical wellness.
+    •    You have a right to respect.
+    •    You have a right to be assessed and graded fairly.
+    •    You have a right to freedom of opinion and expression.
+    •    You have a right to privacy and confidentiality.
+    •    You have a right to meaningful and equal participation, to self-organize groups to improve your learning
+         environment.
+    •    You have a right to learn in an environment that is welcoming to all people. No student shall be isolated,
+         excluded or diminished in any way.
+With these rights come responsibilities:
+    • You are responsible for taking care of yourself, managing your time, and communicating with the teaching
+         team and with others if things start to feel out of control or overwhelming.
+    • You are responsible for acting in a way that is worthy of respect and always respectful of others. • Your
+         experience with this course is directly related to the quality of the energy that you bring to it, and your
+         energy shapes the quality of your peers’ experiences.
+    • You are responsible for creating an inclusive environment and for speaking up when someone is excluded.
+    • You are responsible for holding yourself accountable to these standards, holding each other to these
+         standards, and holding the teaching team accountable as well.
+Personal Pronoun Preference
+     Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with
+     differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities.
+     Class rosters are provided to the instructor with the student’s legal name. I will gladly honor your request to
+     address you by a name different than what appears on the roster, and by the gender pronouns you use. Please
+     advise me of this preference early in the semester so that I may make appropriate changes to my records.
+University Policies
+Academic Integrity
+     Each student in the course is expected to abide by the University of Texas Honor Code: “As a student of
+     The University of Texas at Austin, I shall abide by the core values of the University and uphold
+     academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that
+     are not your own (or that you have used in previous class), you must cite your sources. Otherwise you
+     will be guilty of plagiarism and subject to academic disciplinary action, including failure of the course.
+                                                                  10
+
+
+     You are responsible for understanding UT’s Academic Honesty and the            University Honor Code
+     which can be found at the following web address:
+     http://deanofstudents.utexas.edu/sjs/acint_student.php
+ Q Drop Policy
+     If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+     deadline, which typically occurs near the middle of the semester. Under Texas law, you are only allowed six Q
+     drops while you are in college at any public Texas institution. For more information, see:
+     http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+ University Resources for Students
+     Your success in this class is important to me. We will all need accommodations because we all learn differently.
+     If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as
+     possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. There
+     are also a range of resources on campus:
+ Services for Students with Disabilities
+     This class respects and welcomes students of all backgrounds, identities, and abilities. If there are circumstances
+     that make our learning environment and activities difficult, if you have medical information that you need to
+     share with me, or if you need specific arrangements in case the building needs to be evacuated, please let me
+     know. I am committed to creating an effective learning environment for all students, but I can only do so if you
+     discuss your needs with me as early as possible. I promise to maintain the confidentiality of these discussions.
+     If appropriate, also contact Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986
+     (video phone). http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+     Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol,
+     getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.
+     All of us benefit from support during times of struggle. You are not alone. There are many helpful resources
+     available on campus and an important part of the college experience is learning how to ask for help. Asking for
+     support sooner rather than later is often helpful.
+     If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or
+     depression, we strongly encourage you to seek support.
+     http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+     Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center each
+     year to improve their academic performance? All students are welcome to take advantage of Sanger Center’s
+     classes and workshops, private learning specialist appointments, peer academic coaching, and tutoring for
+     more than 70 courses in 15 different subject areas. For more information, please
+     visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Important Safety Information:
+     If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+                                                                11
+
+
+      Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel
+      right – it probably isn’t. Trust your instincts and share your concerns.
+Title IX Reporting
+      Title IX is a federal law that protects against sex and gender-based discrimination, sexual harassment, sexual
+      assault, sexual misconduct, dating/domestic violence and stalking at federally funded educational institutions.
+      UT Austin is committed to fostering a learning and working environment free from discrimination in all its
+      forms. When sexual misconduct occurs in our community, the university can:
+              1. Intervene to prevent harmful behavior from continuing or escalating.
+              2. Provide support and remedies to students and employees who have experienced harm or have
+                    become involved in a Title IX investigation.
+              3. Investigate and discipline violations of the university’s relevant policies.
+      Faculty members and certain staff members are considered “Responsible Employees” or “Mandatory
+      Reporters,” which means that they are required to report violations of Title IX to the Title IX Coordinator. I am a
+      Responsible Employee and must report any Title IX related incidents that are disclosed in writing, discussion,
+      or one-on-one. Before talking with me, or with any faculty or staff member about a Title IX related incident, be
+      sure to ask whether they are a responsible employee. If you want to speak with someone for support or
+      remedies without making an official report to the university, email advocate@austin.utexas.edu For more
+      information about reporting options and resources, visit titleix.utexas.edu or contact the Title IX Office at
+      titleix@austin.utexas.edu.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety and
+Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings when a
+fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+  •   Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that the
+      nearest exit door may not be the one you used when entering the building.
+  •   Students requiring assistance in evacuation shall inform their instructor in writing during the first week of class.
+  •   In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a building
+      unless given instructions by the following: Austin Fire Department, The University of Texas at Austin Police
+      Department, or Fire Prevention Services office.
+  •   Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+      www.utexas.edu/emergency
+                                                                 12

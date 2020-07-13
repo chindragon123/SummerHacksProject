@@ -1,0 +1,522 @@
+                          THE UNIVERSITY OF TEXAS AT AUSTIN
+                         STEVE HICKS SCHOOL OF SOCIAL WORK
+ Course Number: SWN393T29                         Instructor: Robert Ambrosino, Ph.D.
+ Unique Number: 88800                             Robert.ambrosino@utexas.edu
+ Semester: Summer 2019                            Office: 3.104A
+ Meeting Time/Place: T/TH                         Office Phone: (210) 268-9043
+ 5:30 pm – 8:00 pm                                Office Hours: T//TH 3:30 pm – 5:00 pm
+ SSW 2.132                                        and by appointment
+                                  FINANCIAL MANAGEMENT
+I. STANDARDIZED COURSE DESCRIPTION
+This advanced management course will cover the knowledge and skills necessary to guide
+nonprofit organizations through a variety of important financial decisions. Students will learn
+how to create budgets, analyze financial statements, record common financial transactions
+through basic accounting, manage cash flow, analyze costs, and support key financial decisions
+in a nonprofit at executive or management levels. The course will examine how financial
+management is used in social work practice with case studies and exercises that will be directly
+applicable when beginning in a new nonprofit organization. Hands-on experience will include
+the opportunity to create one’s own non-profit program budget, practice basic accounting,
+interview an Executive Director to better understand how finances are dealt with in practice,
+create a financial analysis and sustainability plan on a nonprofit of one’s choosing, analyze cost
+structures and recommend revenues for a nonprofit case, and hear from practitioners in the field.
+Through readings, exercises, videos, and guest speakers, students will come away with a toolbox
+for applying the latest in financial management theories to human service organizations. Students
+will learn to define and practice financial management topics to become a social worker with
+financial literacy.
+II. STANDARDIZED COURSE OBJECTIVES
+By the end of this course, students will be able to:
+    1. Critically examine and apply theories of financial management to non-profit human
+        service organizations.
+    2. Explain common financial management concepts and terminology to effectively
+        communicate with organizational stakeholders.
+    3. Construct and analyze different types of budgets and understand the budgeting process in
+        nonprofit and public entities.
+    4. Analyze value dilemmas, ethical issues, and social justice issues in the financial
+        management of human service organizations.
+    5. Explain basic accounting principles, how to record common financial transactions, and
+        software that supports this accounting.
+    6. Understand how to manage cash flow in an organization and the importance of
+        monitoring cash budgets to support financial stability.
+    7. Understand different costs in a nonprofit organization and how to conduct a cost analysis
+        to develop cost-effective programming.
+    8. Analyze financial statements of nonprofit organizations and provide constructive
+        feedback on their financial conditions, financial performance, and fiscal vulnerabilities.
+
+
+SW SWN393T29
+Summer 2019
+     9. Describe the multiple revenue streams that finance nonprofits and the advantages and
+         disadvantages of different funding sources.
+     10. Utilize differential cost-benefit analysis in making executive-level organization and
+         policy decisions (e.g., make or buy, keep or stop, expand or reduce, fund or reject).
+     11. Understand internal controls and the importance of audits in supporting the overall
+         financial health of an organization.
+     12. Apply financial knowledge to starting a non-profit business in social work.
+III. TEACHING METHODS
+The class will use a form of blended learning in which students learn content both in class and
+online. Specially-designated “lab days” will serve as protected time for students to work on class
+assignments. Course assignments will involve extensive use of widely-used spreadsheet programs,
+such as MS Excel and Google Sheets. While prior knowledge of or experience with spreadsheet
+programs is not a prerequisite, students will need to be comfortable with using this software during
+the course. Introductory MS Excel and Google Sheets tutorial videos will be posted on the course
+Canvas site and students who are unfamiliar with the use of these programs should watch the
+videos prior to or soon after the beginning of the semester. Students are expected to complete
+assigned readings prior to each class period and actively participate in class. Class attendance and
+participation are required and essential for successful completion of this course.
+Canvas will be used for communication between students and the instructor. The class Canvas
+site can be accessed at http://courses.utexas.edu or the Social Work web page (requires Internet
+connection and computer UT EID and password). The Help Desk available through the UT home
+page (www.utexas.edu/its/help) or at 475-9400 is available to assist students with Canvas-related
+questions. Students can access computers through the Learning Resource Center located on the
+first floor of the social work building.
+IV. REQUIRED TEXTS AND MATERIALS
+Zeitlow, J., Hankin, J., Seidner, A., & O’Brien, T. (2018). Financial management for nonprofit
+organizations: Policies and Practices (3rd edition). Hoboken, NJ: Wiley.
+Note that the 3rd edition of this text is required.
+Additional reading material will be posted on the course Canvas site throughout the semester.
+V. COURSE REQUIREMENTS
+The grade in the course will be comprised of the following:
+Class participation (20% of course grade)
+The class participation grade includes attendance (see CLASS POLICIES below), online Canvas
+postings, and participation in class discussions.
+                                                     2
+
+
+SW SWN393T29
+Summer 2019
+Creating a Non-Profit Program Budget (15% of course grade)
+For this assignment, students will create a small nonprofit organization with a specific mission
+and objectives, select one program provided by the organization, and create a revenue and
+expense budget for that program.
+The following information is to be provided as part of this assignment:
+    • Agency mission (no more than 5 sentences)
+    • Agency objectives (2-3 short, one sentence objectives)
+    • Brief description of one program that is provided by the organization (no more than one
+        paragraph)
+    • 12-month calendar or fiscal year budget for the program, with revenues to support the
+        program and expenses that demonstrate how the funds will be used (a spreadsheet
+        template will be provided to capture this information)
+    • Variance report for the first three months of program operation (a spreadsheet template
+        will be provided to capture this information)
+This assignment is due on or before 11:59 pm on June 25.
+Creating a Cash Flow Budget Report (15% of course grade)
+Using the program budget identified above, students will create a cash flow management report
+for the next year. The budget should include both cash receipts and cash payments, showing the
+ending cash balance for each month (a spreadsheet template will be provided to capture this
+information).
+This assignment is due on or before 11:59 pm on July 9.
+Understanding Non-Profit Audits (15% of course grade)
+Non-profit financial audits combine the basic financial statements with notes on the organization
+and other aspects of operations. Nonprofit executives need to be well versed in the terminology
+of audits and be able to understand how the statements and notes combine to paint the overall
+picture of the agency.
+Two sample audits will be posted on Canvas. Each sample includes a set of questions designed
+to help students delve deeper into the audit. Students will choose ONE of the two audits and
+respond to the set of questions presented for that audit.
+This assignment is due on or before 11:59 pm on July 25.
+                                                 3
+
+
+SW SWN393T29
+Summer 2019
+Agency/Organization Financial Analysis & Sustainability Plan (35% of course grade)
+Students will work in teams of no more than three students (team membership to be determined
+by the course instructor) to assess the finances of a local non-profit organization. The selected
+nonprofit must have an annual operating budget of at least $500,000 and been in existence for at
+least three years. The non-profit agency selected can be one that a member of the team interacts
+with directly as a volunteer, employee, or field placement, or one that members of the team
+would like to learn more about. In either case, teams must be able to access sufficient
+programmatic and financial information for a fiscal year to complete the assignment.
+Each team will prepare a 6 – 8 page written report about the organization based on a review of
+financial statements and budget documents, and interviews with key leaders within the
+organization such as the Chief Executive Officer or Executive Director, Chief Financial Officer
+or Financial Manager, Chief Program Officer or Program Director, and Chief Operating Officer
+or Operations Director).
+The report is to include the following information:
+    • Brief description of the organization (2 pages)
+        - Mission and overview of organization (size, age, field of activity, location)
+        - Overview of main programs
+        - Overview of key agency officials Executive Director, Finance Department, Program
+            Directors
+        - Revenue streams
+        - How finances are communicated within the organization?
+    • Current calendar or fiscal year financial position (2 – 3 pages)
+        - Liquidity (how much unrestricted cash is on hand)
+        - Statement of Financial Position (Balance Sheet)
+                o Are unrestricted current assets greater than unrestricted current liabilities? By
+                    how much?
+                o Are there unrestricted long-term investment assets that could be used as
+                    needed?
+                o What is the unrestricted net asset position (cumulative impact of each annual
+                    surplus or deficit since the organization started)?
+        - Statement of Activities (Income Statement)
+                o Is there an annual deficit?
+                o Are revenue streams diversified?
+                o Are management costs reasonable compared to total annual costs?
+        - Financial condition of the non-profit (use two of the following ratios in your
+            response: liquidity, solvency, efficiency, profitability)
+                                                   4
+
+
+SW SWN393T29
+Summer 2019
+    •   Recommendations for sustained or improved finances (2 - 3 pages)
+               o Steps agency could take to explore new revenue streams
+               o Strategies that agency could deploy to reduce costs while not jeopardizing
+                   agency operations
+               o Ways that agency could improve communication of agency finances (internal
+                   and external)
+               o Internal controls used within the organization (accountability and
+                   transparency)
+    •   Copies of organization documents reviewed as part of the assignment.
+Each team will prepare a PowerPoint presentation to be delivered during the last class that
+contains an overview of their findings, including recommendations for sustainability. The
+presentation schedule will be determined by the course instructor. Each team will have 20
+minutes to make its presentation, plus 5 - 10 minutes for questions at the end of the presentation.
+The written portion of this assignment is due on or before 11:59 pm on July 30. Class
+presentations are scheduled for July 25 and July 30.
+A summary of course assignments is contained in the following table.
+                                                                                Due        % of
+                                 Assignment                                     Date      Course
+                                                                                          Grade
+  1    Class participation                                                       NA        20%
+  2    Creating a nonprofit program budget                                      6/25       15%
+  3    Creating a cash flow budget report                                        7/9       15%
+  4    Understanding nonprofit agency audits                                    7/25       15%
+  5    Financial analysis and sustainability plan                                          35%
+                                                              Written report    7/30       25%
+                                                         Class presentations    7/25,      10%
+                                                                                7/30
+                                                                                Total      100%
+                                                  5
+
+
+SW SWN393T29
+Summer 2019
+VI. GRADES
+The following distribution will be used to assign grades in this course:
+        94.0 - 99.999            A              74.0 - 76.999         C
+        90.0 - 93.999            A-             70.0 - 73.999         C-
+        87.0 - 89.999            B+             67.0 - 69.999         D+
+        84.0 - 86.999            B              64.0 - 66.999         D
+        80.0 - 83.999            B-             60.0 - 63.999         D-
+        77.0 - 79.999            C+             Below 60              F
+VII. CLASS POLICIES
+Conduct and Civility: Social work students adhere to the Student Standards for Professional
+Conduct of the NASW Code of Ethics and assume responsibility for their conduct. Scholastic
+honesty and integrity are to be consistent social work values. The instructor will comply with
+University guidelines regarding scholastic dishonesty, including plagiarism. Social work
+practitioners respect others; therefore, differences in values, opinions, and feelings of class
+members and guest speakers will be respected. Students will help create and support a learning
+environment that does not interfere with the learning of fellow students. When students voice an
+opinion with which you do not agree, feel free to voice opinions in a civil manner that can
+enhance the flow of ideas and dialog.
+Readings and Preparatory Assignments: Students are expected to be active and participate in
+the learning process, and in an interactive framework between collegiate students and professor.
+Students are also expected to complete readings and preparatory assignments prior to class.
+Failure to demonstrate through discussions in class, online, and through assignments that one has
+comprehended the readings will be considered when assigning the final grade. Students are
+responsible for the material in the assigned readings whether or not the material is covered in
+class. Professor reserves the right to conduct quizzes should there be a pattern of students not
+demonstrating that they have completed the readings and are not prepared to engage in
+thoughtful discussion.
+Professional Communication and Interactions: Refrain from private conversations during
+class or other disruptive behavior. Disrespect toward the professor, students, or others is
+unacceptable and will be handled directly and in the context in which it occurs. Disrespectful
+behavior includes overt acts, such as talking over others or making derogatory remarks based on
+another person’s age, race, class, gender, sexual orientation, religious preference, and ability.
+Moreover, covert acts of disrespect such as sneers and other facial expressions, excluding class
+members from classroom tasks, etc. are also unacceptable.
+Electronic Devices: All communication devices should be turned off or placed on silent mode
+and put away during class. Unless laptops are required for specific class sessions, students may
+                                                   6
+
+
+SW SWN393T29
+Summer 2019
+not use laptops during class without prior permission from the professor. Grade is negatively
+impacted by student’s failure to comply with this policy.
+Class Attendance Policy: Attendance at every class is expected. Attendance is defined as
+students’ attentive physical presence in class for the entire class (i.e., no late arrivals or early
+departures, unless approved in advance by the course instructor). Students missing more than three
+classes without a valid, verifiable excuse will be subject to a penalty of one letter grade. The
+instructor should be notified in advance of any planned absence and as soon as possible in the case
+of an unforeseen, serious emergency.
+Class attendance will be taken at the beginning of the class throughout the semester. It is the
+students’ responsibility to ensure that they have signed the attendance sheet. Any student caught
+signing an attendance sheet for a missing classmate will be referred to the Dean of Students for
+disciplinary action.
+Assignments and Grades: Students are expected to turn in all assignments on or before 11:59
+pm on the date that they are due using the course Canvas. A penalty of 5 points per day will be
+assessed for all late assignments. Penalties for late assignments will factor into the grade
+achieved for the assignment.
+Writing Style: The Publication Manual of the American Psychological Association Sixth
+Edition (APA) is the style manual to be used by all students in this course. The manual is
+available at the library or for purchase at the UT Co- op.
+Use of Canvas: The professor uses Canvas Web-based course management /collective
+workspace. An orientation will be given the first day of class. If you do not have a personal
+computer and personal Internet access, there are computers available for your use at the SW
+Learning Resource Center (LRC), the Flawn Academic Center, and campus libraries.
+Course Modification: To ensure achievement for course objectives, the professor reserves the
+right to make modifications to any part of this syllabus related to schedule, assignment due dates,
+and links to documents and videos available through the Internet. Should any modifications be
+made, students will be notified both in class and by email and the modifications will be posted to
+Canvas.
+                                                   7
+
+
+SW SWN393T29
+Summer 2019
+VIII. UNIVERSITY POLICIES
+The University of Texas Honor Code. The core values of The University of Texas at Austin are
+learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each
+member of the university is expected to uphold these values through integrity, honesty, trust,
+fairness, and respect toward peers and community.
+Professional Conduct and Civility in the Classroom. The professor expects students to act as
+professionals in class. This means students should arrive on time for class, be prepared to
+participate in the class discussion, and show respect for one another’s opinions. A course brings
+together a group of diverse individuals with various backgrounds. Students are influenced and
+shaped by such factors as ethnicity, gender, sex, physical abilities, religious and political beliefs,
+national origins, and sexual orientations, among others. We expect to learn from each other in an
+atmosphere of positive engagement and mutual respect. Social Work also deals with complex
+and controversial issues. These issues may be challenging and uncomfortable, and it would be
+impossible to offer a substantive classroom experience that did not include potentially difficult
+conversations relating to challenging issues. In this environment we will be exposed to diverse
+ideas and opinions, and sometimes we will not agree with the ideas expressed by others.
+Nevertheless, the professor requires that students engage one another with civility, respect, and
+professionalism.
+Unanticipated Distress. Students may experience unexpected and/or distressing reactions to
+course readings, videos, conversations, and assignments. If so, students are encouraged to inform
+the professor. The professor can be responsive and supportive regarding students’ participation
+in course assignments and activities, but students are responsible for communicating clearly what
+kind of support is desired. If counseling is needed, students may contact a service provider of
+their choosing, including the UT Counseling Center at 512-471-3515 or online
+at https://cmhc.utexas.edu/.
+Policy on Social Media and Professional Communication. Public social networks are not
+private. Even when open only to approved or invited members, users cannot be certain that
+privacy will exist among the general membership of sites. If social work students choose to
+participate in such forums, please assume that anything posted can be seen, read, and critiqued.
+What is said, posted, linked to, commented on, uploaded, subscribed to, etc., can be accessed and
+archived, posing potential harm to professional reputations and prospective careers.
+Social work students who use social media (e.g. Facebook, Twitter, Instagram) and other forms
+of electronic communication (e.g. blogs) must be mindful of how their communication may be
+perceived by clients, colleagues, faculty, and others. Social work students are expected to make
+every effort to minimize material which could be considered inappropriate for a professional
+social worker in training. Because of this, social work students are advised to manage security
+                                                  8
+
+
+SW SWN393T29
+Summer 2019
+settings at their most private levels and avoid posting information/photos or using any language
+that could jeopardize their professional image.
+Students are asked to consider the amount of personal information posted on these sites and are
+obliged to block any client access to involvement in the students’ social networks. Client
+material should not be referred to in any form of electronic media, including any information that
+might lead to the identification of a client or compromise client confidentiality in any way.
+Additionally, students must critically evaluate any material that is posted regarding community
+agencies and professional relationships, as certain material could violate the standards set by the
+School of Social Work, the Texas Code of Conduct for Social Workers, and/or the NASW Code
+of Ethics.
+Social work students should consider that they will be representing professional social work
+practice as well as The University of Texas at Austin School of Social Work program while in
+the classroom, the university community, and the broader area communities.
+Policy on Scholastic Dishonesty. Students who violate University rules on scholastic dishonesty
+are subject to disciplinary penalties, including the possibility of failure in the course and/or
+dismissal from the University. Since such dishonesty harms the individual, all students, and the
+integrity of the University, policies on scholastic dishonesty will be strictly enforced. For further
+information, the student may refer to the Web Site of the Student Judicial Services, Office of the
+Dean of Students: http://deanofstudents.utexas.edu/sjs/.
+Use of Course Materials. The materials used in this course, including, but not limited to exams,
+quizzes, and homework assignments, are copyright protected works. Any unauthorized
+duplication of the course materials is a violation of federal law and may result in disciplinary
+action being taken against the student. Additionally, the sharing of course materials without the
+specific, express approval of the professor may be a violation of the University’s Student Honor
+Code and an act of academic dishonesty, which could result in further disciplinary action. This
+sharing includes, among other things, uploading class materials to websites for the purpose of
+distributing those materials to other current or future students.
+Documented Disability Statement. Any student who requires special accommodations must
+obtain a letter that documents the disability from the Services for Students with Disabilities area
+of the Division of Diversity and Community Engagement (471- 6259 voice or 471-4641 TTY for
+users who are deaf or hard of hearing). A student should present the letter to the professor at the
+beginning of the semester so that needed accommodations can be discussed and followed. The
+student should remind the professor of any testing accommodations no later than five business
+days before an exam. For more information, visit: http://diversity.utexas.edu/disability/.
+                                                   9
+
+
+SW SWN393T29
+Summer 2019
+Religious Holidays. By UT Austin policy, students must notify the professor of a pending
+absence at least fourteen days prior to the date of observance of a religious holy day. If the
+student must miss a class, examination, work assignment, or project in order to observe a
+religious holy day, the professor will give the student an opportunity to complete the missed
+work within a reasonable time after the absence.
+Title IX Reporting. In accordance with Title IX of the Education Amendments of 1972, the
+University of Texas at Austin is committed to maintaining a learning environment that is free
+from discriminatory conduct based on gender. Faculty, field instructors, staff, and/or teaching
+assistants in their supervisory roles are mandated reporters of incidents of sex discrimination,
+sexual harassment, sexual violence, stalking, interpersonal violence, or any other forms of sexual
+misconduct. Students who report such incidents will be informed of University resources.
+Incidents will be reported to the University’s Title IX Coordinator and/or the Title IX Liaison for
+the SHSSW, Professor Tanya Voss. Students, faculty and staff may contact Professor Voss to
+report incidents or to obtain information. Further information, including student resources related
+to Title IX, may also be found at http://socialwork.utexas.edu/dl/files/academic-
+programs/other/qrg-sexualharassment.pdf.
+Campus Carry Policy. The University’s policy on concealed fire arms may be found
+here: https://campuscarry.utexas.edu. You also may find this information by accessing the Quick
+Links menu on the School’s website.
+Classroom Confidentiality. Information shared in class about agencies, clients, and personal
+matters is considered confidential per the NASW Code of Ethics on educational supervision and
+is protected by regulations of the Family Educational Rights and Privacy Act (FERPA) as well.
+As such, sharing this information with individuals outside of the educational context is not
+permitted. Violations of confidentiality could result in actions taken according to the policies and
+procedure for review of academic performance located in sections 3.0, 3.1, and 3.2 of the Standards
+for Social Work Education.
+Use of E-mail for Official Correspondence to Students. Email is recognized as an official
+mode of university correspondence; therefore, students are responsible for reading their email for
+university and course-related information and announcements. Students are responsible for
+keeping the university informed about a change of e-mail address. Students should check their e-
+mail regularly and frequently—daily, but at minimum twice a week—to stay current with
+university-related communications, some of which may be time-sensitive. Students can find UT
+Austin’s policies and instructions for updating their e-mail address
+at https://cio.utexas.edu/policies/university-electronic-mail-student-notification-policy.
+                                                  10
+
+
+SW SWN393T29
+Summer 2019
+Safety. As part of professional social work education, students may have assignments that
+involve working in agency settings and/or the community. As such, these assignments may
+present some risks. Sound choices and caution may lower risks inherent to the profession. It is
+the student's responsibility to be aware of and adhere to policies and practices related to agency
+and/or community safety. Students should notify the professor regarding any safety concerns.
+Behavior Concerns Advice Line (BCAL). f students are worried about someone who is acting
+differently, they may use the Behavior Concerns Advice Line to discuss by phone their concerns
+about another individual’s behavior. This service is provided through a partnership between the
+Office of the Dean of Students, the Counseling and Mental Health Center (CMHC), the
+Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD).
+Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy. Occupants of buildings on the UT Austin campus are required
+to evacuate and assemble outside when a fire alarm is activated or an announcement is made.
+Please be aware of the following policies regarding evacuation:
+    • Familiarize yourself with all exit doors in the classroom and the building. Remember that
+        the nearest exit door may not be the one you used when entering the building.
+    • If you require assistance to evacuate, inform the professor in writing during the first week
+        of class.
+    • In the event of an evacuation, follow the professor’s instructions.
+    • Do not re-enter a building unless you are given instructions by the Austin Fire
+        Department, the UT Austin Police Department, or the Fire Prevention Services office.
+                                                 11
+
+
+SW SWN393T29
+Summer 2019
+IX. COURSE SCHEDULE
+ Date             Topic                             Readings                     Assignment(s)
+ June
+   6   ▪ Introductions            No readings                                ▪ My nonprofit
+       ▪ Review of course                                                   financial
+         assignments                                                        management hero (in-
+       ▪ Financial                                                          class exercise)
+         challenges                                                         ▪Complete and
+         facing contemporary                                                post to Canvas
+         nonprofit                                                          responses to survey of
+         organizations                                                      specific
+                                                                            interests, management
+                                                                            experience, and
+                                                                            financial understanding
+                                                                            (due Sunday, June 9)
+   11  ▪ Understanding nonprofit  Chapter 1 of course text
+       Organizations
+       ▪ Why some nonprofits
+       fail in achieving their
+       mission
+       ▪ Leadership challenges
+       in nonprofit organizations
+   13  ▪ Managing mission,        Chapter 3 of course text
+       strategy, and financial    Posted on Canvas:
+       leadership                 Examples of agency/organization strategic
+                                  plans
+   18  ▪ Understanding the        Chapter 7 (pp. 267 – 305) and Chapter 8
+       budgeting process          (all) of course text
+       ▪ Different types of
+       budgets
+       ▪ Developing financial
+       reports
+   20  Lab Day – work on class    No readings
+       assignments
+   25  ▪ Understanding financial  Chapter 6 of course text                  ▪ Creating a
+       accounting basics and                                                nonprofit budget
+       financial statements
+   27  ▪ Continuation of topics
+       from June 25
+  July
+   4   Independence Day
+       Holiday
+       No class
+   9   ▪ Developing financial     Chapter 5 of course text                  ▪ Creating a cash flow
+       policies and procedures                                              budget report
+   11  ▪ Cash management and      Chapter 11 of course text
+       banking relations
+                                                 12
+
+
+SW SWN393T29
+Summer 2019
+ Date                Topic                          Readings                    Assignment(s)
+  16     Lab Day – work on class
+         assignments
+  18     ▪ Managing risks and       Chapters 4 and 10 of course text
+         liabilities, legal issues,
+         and human resources
+         ▪ Sources of nonprofit
+         revenues
+         ▪ Nonprofit revenue
+         strategies
+         ▪ Managing structure,
+         accountability, and ethics
+  23     Continuation of topics
+         from July 18
+  25     ▪ Group presentations –    No readings                             Understanding
+         schedule TBD                                                       nonprofit agency
+                                                                            audits
+  30     ▪ Last day of class        No readings                             Financial analysis and
+         ▪ Group presentations –                                            sustainability plan
+         schedule TBD                                                       (written report +
+         ▪ Nonprofit sector                                                 supporting documents)
+         financial forecast
+         ▪ Celebrating our
+         accomplishments
+X. BIBLIOGRAPHY
+Additional readings
+Alexander, J. (2018). Financial planning & analysis and performance management. Hoboken, NJ:
+  Wiley.
+Batts, M.E. (2017). Nonprofit financial management oversight: The concise and complete guide
+   for boards and finance committees. Orlando, FL: Accountability Press in cooperation with
+  Batts, Morrison, Wales, and Lee Certified Public Accountants.
+Bryson, J.M. (2018). Strategic planning for public and nonprofit organizations: A guide to
+  strengthening organizational achievement (5th edition). Hoboken, NJ. Wiley.
+Estrada, E. (2019). Understanding nonprofit law and finance: Forty-eight principles for
+  philanthropic leaders. Lanham, MD: Rowman & Littlefield.
+Freeman, R.J., Shoulders, G.D., McSwain, D.N. & Scott, R.B. (2017). Governmental and
+  nonprofit accounting (11th edition). Upper Saddle River, NJ: Pearson.
+Gross, M.J., McCarthy, J.H., & Shelmon, N.E. ( 2010). Financial and accounting guide for not-
+  for-profit organizations (7th edition with 2010 cumulative updates). Hoboken, NJ: Wiley.
+                                                 13
+
+
+SW SWN393T29
+Summer 2019
+Hutchinson, K. (2016). Survive and thrive: Three steps to securing your program’s sustainability.
+  Ottawa, Canada: National Library of Canada.
+Lang, A. (2017). How to Read Nonprofit Financial Statements. Hoboken, NJ: Wiley.
+Martin, L.L. (2016). Financial management for human service administrators. Long Grove, IL:
+  Waveland Press.
+McLaughlin, T. (2016). Streetsmart financial basics for nonprofit managers (4th edition).
+  Hoboken, NJ: Wiley.
+Nowicki, M. (2017). Introduction to the financial management of healthcare organizations.
+  Chicago, IL: Health Administration Press.
+Valcik, N.A. (2016). Strategic planning and decision-making for public and nonprofit
+  organizations. Washington, DC: American Society for Public Administration.
+                                               14

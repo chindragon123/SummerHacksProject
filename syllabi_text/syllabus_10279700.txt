@@ -1,0 +1,324 @@
+AET 329F: 3D Projection Mapping / Smith                                                     Spring 2020
+                                                   Spring 2020
+                             AET 329F: 3D Projection Mapping – Unique # 20870
+                                 Tuesday/Thursday, 12:30pm – 2:00pm PAC 3.204
+Instructor: Matthew R. Smith
+Office Hours: by appointment
+Email: matt.smith@austin.utexas.edu
+COURSE DESCRIPTION:
+This course is a lecture / lab course designed to introduce students to 3D projection mapping. The
+primary focus is to explore core technologies, practices, and workflows utilized for the creation of
+content and subsequent programming of media servers. Software covered includes disguise,
+Vectorworks and Blender. Student activities include: design, 3D modeling, fabrication, content
+creation, media server programming, projector calibration.
+LEARNING OUTCOMES:
+By the end of the semester, students should be able to:
+• create and implement original design ideas;
+• collaborate within small teams;
+• effectively program the disguise media server;
+• successfully calibrate a 3D projection system
+• critically examine presentation techniques
+COURSE MATERIALS:
+    •   External hard drive
+    •   Pencil
+    •   1 – notebook (small or medium in size, easily accessible for note taking)
+COURSE PROJECTS:
+•   Project 1 (25%): Tiny House
+•   Project 2 (25%): Artifact Narration
+•   Project 3 (25%): Fusebox
+•   Project 4 (25%): AET Showcase
+•   This course DOES NOT have a final exam
+If you submit your assignment late it will not be reviewed in class.
+All work is due as specified in the assignment listed in canvas. Work not completed prior to the
+canvas deadline will be considered late.
+Any work turned in late, regardless of the excuse, will result in a grade reduction of one full letter for
+each calendar date it is late (an A would become a B and so on).
+In summary:
+Every assignment has a due date and time.
+I do accept work after the due date, however, assignments automatically lose one full letter
+grade for every calendar date submitted late and they will not be reviewed in class.
+
+
+AET 329F: 3D Projection Mapping / Smith                                                      Spring 2020
+Any work turned in more than 4 calendar days late will receive an automatic F. If you are having difficulty
+completing your work on time, please speak to me privately prior to the deadline, so we may discuss a
+possible arrangement.
+                       All assignments will be graded within 7 days of submission date.
+Grading Scheme
+A- Represents outstanding participation in all course activities. All assigned work must be completed
+on time and with a very high quality of demonstrated skill and technique. There is an evidence of
+significant development across all dimensions of learning. The result at this level demonstrates activity
+that goes significantly beyond the required course work in one or more areas.
+B- Represents excellent participation in all course activities; all assigned work must be completed on
+time with consistently high quality in course work. There is an evidence of marked development
+across all dimensions of learning.
+C- Represents good participation in all course activities; all assigned work completed, with generally
+good quality in course work. There is evidence of some development across all dimensions of
+learning.
+D- Represents uneven participation in all course activities; some gaps in assigned work completed,
+with inconsistent quality in course work. The evidence of development across all dimensions of
+learning is unclear.
+F- Represents minimal participation in all course activities; serious gaps in assigned work completed,
+or very low quality in course work. Development evidence is not available.
+Please Note: If you are concerned about your grade – check in with us regularly so that we can
+determine where you’re at, and what might need to be done to correct any problems. Do not wait
+until the end of the semester!
+ATTENDANCE:
+ATTENDANCE IS MANDATORY - Being a professional requires a habit of discipline and rigor.
+Professionals in the arts achieve at the highest level when they work with determination and
+dedication to detail. Your attention to attendance and lecture information gathering is an important
+element of establishing professional standards and practices. The course lectures and discussions will
+involve a significant amount of information that will not be available in any other form (textbook,
+handouts); therefore, regular attendance is necessary for successful completion of the class.
+If you need to miss class for legitimate reasons it is your responsibility to contact me directly with this
+information. Sending a message by way of another student of an impending absence does not
+constitute a legitimate notification.
+For each unexcused absence after your first three, your final grade will be lowered by one letter
+grade. Seven unexcused absences constitute an automatic F in the class.
+Please be on time for class. If you are more than 5 minutes late for class you will be counted as
+tardy. Every two instances you are tardy will be counted as one time absent.
+Privacy
+What we say about each other’s work during this class should remain constructive and in the
+classroom. It will not be published on a personal website or posted on social networks. Please
+respect each other’s work.
+                                              Page 2
+
+
+AET 329F: 3D Projection Mapping / Smith                                                    Spring 2020
+Resources
+PLAI Lab Hours:
+Monday – Friday: 5:00pm – 10:00pm
+Saturday: 8:00am – 12:00pm
+CLASS CALENDAR
+Instructor reserves the right to adjust the calendar to fit the needs of the class.
+Week 1:
+ Tuesday: January 21st
+ -Introduction
+ -Syllabus overview
+Week 1:
+ Thursday: January 23rd
+ -Blender introduction (layout, views, importing, editing, creating UV map)
+Week 2:
+ Tuesday: January 28th
+ -Blender continued (UV map editor, exporting)
+Week 2:
+ Thursday: January 30th
+ -disguise overview (interface, timeline, menus, scenes)
+ -disguise continued (props, screens, projectors, cues, play variations)
+Week 3:
+ Tuesday: February 4th
+ -disguise continued (projector calibration, throw-ratio, projector resolution, surface resolution)
+ -discussion: content creation
+ Week 3:
+ Thursday: February 6th
+ -in-class workday
+ -content creation workshop #1 (Matt – Storyblocks, Adobe After Effects)
+ -Project 1 Q&A (1 on 1 with Matt on a per project basis
+ -all students should practice calibrating onto the tiny house
+Week 4:
+ Tuesday: February 11th
+ -*DUE – Project 1* - in-class presentations
+ Week 4:
+ Thursday: February 13th
+ -Project 1 – in-class presentations continued
+                                             Page 3
+
+
+AET 329F: 3D Projection Mapping / Smith                                                   Spring 2020
+Week 5:
+ Tuesday: February 18th
+ -discussion: Project 2 – Artifact Narration
+ -team assignments
+ -project 2 team brainstorming session #1 (initial ideas, sketches, concerns)
+Week 5:
+ Thursday: February 20th
+ -Artifact physical “mock-up” DUE
+ -discussion: drafting custom 3D objects (Vectorworks, Blender)
+ -discussion: fabrication techniques (illustration board, wood, 3D printer, laser cutter)
+ -project 2 team brainstorming session #2 (updates, improvements)
+Week 6:
+ Tuesday: February 25th
+ -fabrication in-class workday (design – test – re-design – test again)
+Week 6:
+ Thursday: February 27th
+ -content creation workshop #2
+ -fabrication in-class workday (design – test – re-design – test again)
+Week 7:
+ Tuesday: March 3rd
+ -discussion: Fusebox Festival (narrative, content teams)
+ -team assignments
+ -project 3 team brainstorming session #1 (initial ideas, sketches, concerns)
+Week 7:
+ Thursday: March 5th
+ -in-class workday
+ -project 3 team brainstorming session #2 (content specific)
+Week 8:
+ Tuesday: March 10th
+ -*DUE – Project 2* - in-class presentations
+Week 8:
+ Thursday: March 12th
+ -Project 2 in-class presentations continued
+ -possible begin installation of Fusebox inside PLAI Lab
+Week 9:
+ Tuesday: March 17th
+ -SPRING BREAK, no class
+Week 9:
+ Thursday: March 19th
+ -SPRING BREAK, no class
+                                             Page 4
+
+
+AET 329F: 3D Projection Mapping / Smith                                                  Spring 2020
+Week 10:
+ Tuesday: March 24th
+ -Fusebox installation inside PLAI Lab
+ -in-class workday (if time allows)
+ -project 3 team brainstorming session #3 (content specific, only updates at this point hopefully)
+Week 10:
+ Thursday: March 26th
+ -Fusebox installation inside PLAI Lab MUST be complete
+ -in-class workday (if time allows)
+ -project 3 team brainstorming session #3 (content specific, only updates at this point hopefully)
+Week 11:
+ Tuesday: March 31st
+ -*DUE – Project 3* - in-class presentations
+Week 11:
+ Thursday: April 2nd
+ -Project 3 – in-class presentations continued
+Week 12:
+ Tuesday: April 7th
+ -Project 3 revisions and updates
+Week 12:
+ Thursday: April 9th
+ -Project 3 revisions and updates
+ -discussion: AET Showcase (setup, design, equipment allocation, exterior narrative)
+Week 13:
+ Tuesday: April 14th
+ -FUSEBOX FESTIVAL WEEK
+ -coursework TBD
+Week 13:
+ Thursday: April 16th
+ -FUSEBOX FESTIVAL WEEK
+ -coursework TBD
+Week 14:
+ Tuesday: April 21st
+ -evaluate AET Showcase playback and projection system (interior and exterior)
+Week 14:
+ Thursday: April 23rd
+ -evaluate AET Showcase content and narrative
+                                            Page 5
+
+
+AET 329F: 3D Projection Mapping / Smith                                                    Spring 2020
+Week 15:
+ Tuesday: April 28th
+ -in-class workday
+ Week 15:
+ Thursday: April 30th
+ -*DUE – Project 4* - in-class presentations
+Week 16:
+ Tuesday: May 5th
+ -Project 4 – in-class presentations continued
+ Week 16:
+ Thursday: May 7th
+ -AET Showcase prep
+                POLICIES OF THIS COURSE AND THE UNIVERSITY OF TEXAS
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+complete the missed work within a reasonable time after the absence.
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-
+drop deadline, which typically occurs near the middle of the semester. Under Texas law, you are only
+allowed six Q drops while you are in college at any public Texas institution. For more information,
+see: http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+Student Accommodations
+Students with a documented disability may request appropriate academic accommodations from the
+Division of Diversity and Community Engagement, Services for Students with Disabilities, 512-471-
+6259 (voice) or 1-866-329-3986 (video phone). http://ddce.utexas.edu/disability/about/
+            • Please request a meeting as soon as possible to discuss any accommodations
+            • Please notify me as soon as possible if the material being presented in class is not
+                accessible
+            • Please notify me if any of the physical space is difficult for you
+                                             Page 6
+
+
+AET 329F: 3D Projection Mapping / Smith                                                    Spring 2020
+UT Electronic Mail Notification Policy
+Electronic mail (e-mail) is a mechanism for official University and instructor communication to
+students. Students are expected to check e-mail on a frequent and regular basis in order to stay
+current with University- and course-related communications, recognizing that certain
+communications may be time-critical. It is recommended that e-mail be checked daily, but at a
+minimum, twice per week.
+It is the responsibility of every student to keep the University and instructor informed of changes in
+his or her official e-mail address (do so at
+https://utdirect.utexas.edu/utdirect/bio/address_change.WBX). Consequently, e-mail returned to
+the University with "User Unknown" is not an acceptable excuse for missed communication.
+Similarly, undeliverable messages returned because of a full inbox or use of a spam filter will be
+considered delivered without further action required of the University or instructor.
+(see http://www.utexas.edu/cio/policies/university-electronic-mail-student-notification-policy)
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code:
+       “As a student of The University of Texas at Austin, I shall abide by the core values of
+       the University and uphold academic integrity.”
+This means that work you produce on assignments, tests and exams is all your own work, unless it is
+assigned as group work. I will make it clear for each test, exam or assignment whether collaboration is
+encouraged or not.
+Always cite your sources. If you use words or ideas that are not your own (or that you have used in
+previous class), you must make that clear otherwise you will be guilty of plagiarism and subject to
+academic disciplinary action, including failure of the course.
+You are responsible for understanding UT’s Academic Honesty Policy which can be found at the
+following web address: http://deanofstudents.utexas.edu/sjs/acint_student.php]
+University Resources for Students
+The university has numerous resources for students to provide assistance and support for your
+learning, use these to help you succeed in your classes.
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+Center each year to improve their academic performance? All students are welcome to take advantage
+of Sanger Center’s classes and workshops, private learning specialist appointments, peer academic
+coaching, and tutoring for more than 70 courses in 15 different subject areas. For more information,
+please visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+The University Writing Center
+The University Writing Center offers free, individualized, expert help with writing for any UT student,
+by appointment or on a drop-in basis. Consultants help students develop strategies to improve their
+writing. The assistance we provide is intended to foster students’ resourcefulness and self-reliance.
+http://uwc.utexas.edu/
+                                              Page 7
+
+
+AET 329F: 3D Projection Mapping / Smith                                                    Spring 2020
+Counseling and Mental Health Center
+The Counseling and Mental Health Center (CMHC) provides counseling, psychiatric, consultation,
+and prevention services that facilitate students' academic and life goals and enhance their personal
+growth and well-being. http://cmhc.utexas.edu/
+Student Emergency Services
+ http://deanofstudents.utexas.edu/emergency/
+ITS
+Need help with technology? http://www.utexas.edu/its/
+Libraries
+Need help searching for information? http://www.lib.utexas.edu/
+Canvas
+Canvas help is available 24/7 at https://utexas.instructure.com/courses/633028/pages/student-
+tutorials
+Important Safety Information
+BCAL
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call
+BCAL (the Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If
+something doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+Evacuation Information
+The following recommendations regarding emergency evacuation from the Office of Campus
+Safety and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate
+buildings when an alarm or alert is activated. Alarm activation or announcement requires exiting and
+assembling outside, unless told otherwise by an official representative.
+     • Familiarize yourself with all exit doors of each classroom and building you may occupy.
+          Remember that the nearest exit door may not be the one you used when entering the building.
+     • Students requiring assistance in evacuation shall inform their instructor in writing during the
+          first week of class.
+     • In the event of an evacuation, follow the instruction of faculty or class instructors. Do not
+          re-enter a building unless given instructions by the following: Austin Fire Department, The
+          University of Texas at Austin Police Department, or Fire Prevention Services office.
+Link to information regarding emergency evacuation routes and emergency procedures can be found
+at: www.utexas.edu/emergency
+                                             Page 8

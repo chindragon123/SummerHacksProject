@@ -1,0 +1,202 @@
+                           THEATRE SOUND DESIGN
+                                            AET 339
+ “Sound is almost like a drug. It's so pure that when it goes in your ears, it instantly does
+ something to you. And you can tell if that's working for you.” ― David Lynch
+                                      Fall 2018, WIN 1.138
+                                    MW, 11:00AM-12:30PM
+Instructors:             Carolina Perez, MFA
+                         carolina.perez@austin.utexas.edu
+                         954.993.0142
+                         Ben Truppin-Brown, BFA
+                         ben.truppinbrown@gmail.com
+                         617.816.2494
+ Office Hours:           MW 10:00-11:00AM, WIN 2.154
+ Course Description:
+ This course explores the process and tools used to conceptualize and implement a sound
+ design for theatre productions. Topics include script analysis, music underscoring,
+ atmospheric sounds, spot effects, sound maps, cue sheets, microphone and speaker
+ placement, and cue-based playback software.
+ Course Prerequisite(s): AET 305 Foundations of Music Technology
+ Course Outcomes:
+ By the end of this course, students will:
+ •   Analyze scripts and present sound design concepts clearly and effectively.
+ •   Create detailed paperwork to accurately explain the execution of a sound design for
+     live performance.
+ •   Incorporate sound editing, audio processing, and MIDI sequencing techniques in the
+     realization of a sound design.
+ •   Explore different approaches and tools for delivering a sound design for live
+     performance.
+ Text(s):        Instructor will provide reading materials via Canvas.
+ Materials:      Over-the-ear headphones and an external hard drive.
+
+
+                                         Course Schedule
+    Subject to change at instructor’s discretion. Students will be notified of changes in advance.
+Week     Date                     Topic                                      Assignment
+ 1        8/29    Course introduction                      ASSIGNMENT 1: Voice Grouping
+                                                           TUTORIAL: Ableton Live Intro + Ch. 1
+ 2        9/03    No class – Labor Day Holiday
+          9/05    Voice Grouping, bipolar                  ASSIGNMENT 2: Sound Map
+                  sound list and visual map
+                                                           TUTORIAL: Ableton Live Ch. 2
+ 3        9/10    Manual props lecture w/Rebecca           ASSIGNMENT 3: Manual Props
+                  Switzer
+                                                           TUTORIAL: Ableton Live Ch. 3
+          9/12    Sound map discussion                     TUTORIAL: Ableton Live Ch. 4
+ 4        9/17    Manual props presentations               TUTORIAL: Ableton Live Ch. 6
+          9/19    Recording and audio editing              ASSIGNMENT 4: Original Sound Effects
+                                                           TUTORIAL: Ableton Live Ch. 10
+  5       9/24    Audio processing                         TUTORIAL: Ableton Live Ch. 5
+          9/26    Original sound effects presentation      TUTORIAL: Ableton Live Ch. 12
+ 6       10/01    MIDI sequencing                          ASSIGNMENT 5: Concept Composition
+         10/03    Virtual instruments                      TUTORIAL: Ableton Live Ch. 13
+ 7       10/08    Concept composition presentation         TUTORIAL: QLab
+         10/10    QLab overview                            PROJECT 1: Dracula Scene Sound Design
+  8     10/15-    PROJECT 1: Build sound design
+         1017
+ 9      10/22-    PROJECT 1: Rehearse sound design
+         10/24
+ 10     10/29-    PROJECT 1: Presentations                 ASSIGNMENT 6: Script Analysis (new play)
+         10/31
+ 11      11/05    PROJECT 1: Post-mortem, new              TUTORIAL: Ableton Live Ch. 14
+                  play script discussion
+         11/07    Script Analysis discussion               TUTORIAL: LaunchPad
+ 12     11/12-    LaunchPad w/Ableton Live                 PROJECT 2: New Play Sound Design
+         11/14
+                                                           TUTORIAL: Ableton Live Ch. 15
+ 13     11/19-    PROJECT 2: Build sound design
+         11/21
+
+
+  14      11/26-   PROJECT 2: Rehearse sound design
+          11/28
+  15      12/03-   PROJECT 2: Presentations
+          12/05
+  16      12/10    PROJECT 2: Post-mortem
+Grading
+Assignments 25%
+Guidelines, deadlines and submission folders will be on Canvas.
+Online Tutorials 15%
+Upload proof of tutorial completion via Canvas.
+Projects 40%
+Projects will have multiple deadlines for the completion of individual steps.
+Show Attendance 20%
+It is the policy of the Department of Theatre and Dance that our majors attend
+department season productions and that this attendance is a part of the coursework for
+our majors' classes. For the fall semester, you are required to attend the following
+performances: Matawan, Fall for Dance and The Merchant of Venice and complete a
+1-page review (due 1 week after the show closes). Information on how majors may
+obtain discounted admission is available on the Department of Theatre and Dance
+wiki under the "Student Resources" tab.
+https://wikis.utexas.edu/pages/viewpage.action?pageId=51841138&moved=true
+Late work
+Late submissions will receive a maximum grade value of 50%. December 10th is the
+last call for any late submissions from the semester (graded at 50% maximum value).
+  Grade          Cutoff
+  A              94%
+  A-             90%
+  B+             87%
+  B              84%
+  B-             80%
+  C+             77%
+  C              74%
+  C-             70%
+  D              65%
+  F              <65%
+
+
+Attendance
+• Attendance is taken at the beginning of every class.
+• Class attendance is a requirement and use of the full class period is expected.
+• You will be allowed three sick, personal, physical or mental health days without
+     grading consequences.
+• Two instances of tardiness or early departure equal one absence.
+• 15 minutes late to the start of class will constitute a tardy.
+• At the end of each class, tardy students must make instructor aware of their attendance
+     or they will be marked as absent.
+• Leaving class before being dismissed by your professor will constitute an early
+     departure.
+• A class in which a student is tardy and departs early on the same day is considered an
+     absence.
+• A 4th absence will result in the lowering of your final grade by one letter grade.
+• Absences, tardiness and/or early departures beyond this could result in course failure.
+• If a serious medical or personal situation occurs affecting attendance, please discuss it
+     with your professor.
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor
+Code: “As a student of The University of Texas at Austin, I shall abide by the core
+values of the University and uphold academic integrity.” Plagiarism is taken very
+seriously at UT. Therefore, if you use words or ideas that are not your own (or that
+you have used in previous class), you must cite your sources. Otherwise you will be
+guilty of plagiarism and subject to academic disciplinary action, including failure of
+the course. You are responsible for understanding UT’s Academic Honesty and the
+University Honor Code which can be found at the following web address:
+http://deanofstudents.utexas.edu/sjs/acint_student.php
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before
+the Q-drop deadline, which typically occurs near the middle of the semester. Under
+Texas law, you are only allowed six Q drops while you are in college at any public Texas
+institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+Your success in this class is important to me. We will all need accommodations because
+we all learn differently. If there are aspects of this course that prevent you from learning or
+exclude you, please let me know as soon as possible. Together we’ll develop strategies to
+meet both your needs and the requirements of the course. There are also a range of
+resources on campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If
+there are circumstances that make our learning environment and activities difficult, if you
+have medical information that you need to share with me, or if you need specific
+
+
+arrangements in case the building needs to be evacuated, please let me know. I am
+committed to creating an effective learning environment for all students, but I can only do
+so if you discuss your needs with me as early as possible. I promise to maintain the
+confidentiality of these discussions. If appropriate, also contact:
+Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video
+phone). http://ddce.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising,
+avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will
+help you achieve your goals and cope with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many
+helpful resources available on campus and an important part of the college experience is
+learning how to ask for help. Asking for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, difficult life events, or
+feelings like anxiety or depression, we strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger
+Learning Center each year to improve their academic performance? All students are
+welcome to take advantage of Sanger Center’s classes and workshops, private learning
+specialist appointments, peer academic coaching, and tutoring for more than 70 courses in
+15 different subject areas. For more information, please visit http://www.utexas.edu/ugs/slc
+or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: http://www.lib.utexas.edu/
+ITS: http://www.utexas.edu/its/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Important Safety Information
+If you have concerns about the safety or behavior of fellow students, TAs or
+Professors, call BCAL (the Behavior Concerns Advice Line): 512-232-5050. Your call
+can be anonymous. If something doesn’t feel right – it probably isn’t. Trust your
+instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office of
+Campus Safety and Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to
+evacuate buildings when a fire alarm is activated. Alarm activation or announcement
+requires exiting and assembling outside.
+  •   Familiarize yourself with all exit doors of each classroom and building you may
+      occupy. Remember that the nearest exit door may not be the one you used when
+
+
+  entering the building.
+• Students requiring assistance in evacuation shall inform their instructor in writing
+  during the first week of class.
+• In the event of an evacuation, follow the instruction of faculty or class instructors. Do
+  not re-enter a building unless given instructions by the following: Austin Fire
+  Department, The University of Texas at Austin Police Department, or Fire Prevention
+  Services office.
+• Link to information regarding emergency evacuation routes and emergency procedures
+  can be found at: www.utexas.edu/emergency

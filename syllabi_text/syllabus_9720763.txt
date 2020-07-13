@@ -1,0 +1,307 @@
+                             THE UNIVERSITY OF TEXAS AT AUSTIN
+                  ACC 380K.12 Computer Audit & Systems Security (02735)
+                                          Course Syllabus
+                                             FALL 2019
+                                   (Professor)                           (TA)
+                                   Bob George                             Heegyeong Jang
+                                   Department of Accounting
+                           Phone: (512) 471-0787                        (682) 313-5963
+                           Office: CBA 3.250 (McCombs)
+                           E-Mail: Bob.George@mccombs.utexas.edu heegyeongj@ utexas.edu
+                           Office
+                           Hours: M 1:30 – 3:00 pm, by appointment        By appointment
+                           Class: (Sept 9 – Dec 9) M 3:30 – 6:30 PM
+                                   UTC 3.110
+             I prefer e-mail as a means of contact outside of class and office hours.
+The course TA will assist with grading and, after graded Materials are returned, schedule office
+hours for any needed discussions.
+                                             “Canvas”
+The web-based University of Texas at Austin “Canvas” software will be actively used for this
+course, including the discussion forums. Please check Canvas frequently and before every
+class since it will be used extensively to post announcements and files for downloading.
+PowerPoint slides for lectures will be available under each class module section on Canvas
+before class together with required supplemental readings and assignments.
+Canvas discussion forums benefit everyone and can be used to post comments, articles of
+interest, questions and responses to others’ posts. If you have a question, comment or article
+of general interest (i.e., not a personal matter), please use the Canvas discussion forums, not
+e-mail.
+                                        Class Environment
+Your active participation in class discussions is encouraged and expected to enhance the
+learning experience for you and your fellow students. As in any professional situation,
+courtesy and respect will contribute to a positive, constructive environment. The objective is
+for us to work together to achieve a relaxed and informal environment that will maximize your
+enjoyment of this course.
+Please let me have your feedback as the course progresses regarding things you like or dislike
+about the course.
+
+
+ACC 380K.12 (02735)
+Computer Audit & Systems Security
+Fall 2019
+ – Bob George                                                                              Page-2
+                                      REQUIRED MATERIALS
+          (1) ACC 380K.12 (02735), Computer Audit & Systems Security: Readings, Fall 2019.
+              Available from the McCombs copy center located on the third floor.
+          (2) Course files. PowerPoint and other files (including required readings) that will be
+              used in class discussions will be provided on Canvas.
+                                       COURSE OBJECTIVES
+This course will provide students with a basic understanding of IT:
+         Terminology                                        Outsourcing and Service
+         Governance                                          Organization Controls Reporting
+         Control Frameworks                                 Computer Audit Assistance
+         Audit Process                                       Techniques (CAATS)
+         Risks and Risk Management                          Disaster Recovery and Business
+         General Controls                                    Continuity
+         Application Controls and                           Data Privacy
+          Segregation of Duties                              Cloud Computing
+         Fraud Prevention and Detection                     Cybersecurity
+These and other topics will be covered through lectures, readings, case studies and
+presentations by leading industry practitioners.
+                                  EXAMINATIONS AND GRADING
+                 POINTS
+                 Exam #1                                      125
+                 Exam #2 (not cumulative)                     125
+                 Assignments                                  100
+                 Class Participation and Contribution          50
+                       TOTAL POINTS                           400
+I DO NOT HAVE ANY FIXED POINT OR PERCENTAGE CUT-OFFS IN MIND REGARDING LETTER GRADES. I
+WILL MAKE THESE DETERMINATIONS AT THE END OF THE COURSE BASED ON BOTH RELATIVE AND
+ABSOLUTE PERFORMANCE CONSIDERATIONS.
+EXAMS. Exams will emphasize concepts and issues discussed in class, although any material
+from assigned readings is “fair game” for testing. Exams may consist of a mixture of objective,
+short answer, and problem questions.
+
+
+ACC 380K.12 (02735)
+Computer Audit & Systems Security
+Fall 2019
+– Bob George                                                                              Page-3
+Assignments. Assignments will be posted on Canvas in the relevant class module
+approximately one week before their respective due dates. All assignments must be
+completed independently by each student (i.e., assignments are not group projects).
+CLASS PARTICIPATION AND CONTRIBUTION. IT IS NOT ONLY IMPORTANT FOR YOU TO ATTEND CLASS,
+BUT THAT YOU ALSO ACTIVELY PARTICIPATE. ADVANCE PREPARATION IS CRITICAL TO DO THIS
+SUCCESSFULLY. CONSEQUENTLY, YOU SHOULD CAREFULLY READ, ANALYZE, AND THINK ABOUT
+ASSIGNED READINGS BEFORE COMING TO CLASS. FIFTY (50) points will be based on my largely
+subjective assessment of your cumulative participation and contribution (read carefully the
+grading criteria below).
+Additionally, there may be periodic assignments and quizzes to help ensure your
+understanding of the course material.
+Criteria to earn points for class participation and contribution:
+         Ask and answer questions and offer insights DURING CLASS DISCUSSIONS
+         Actively participate in discussions led by guest speakers
+         Submit written questions to me in advance (VIA E-MAIL NO LATER THAN NOON ON
+          THE SATURDAY BEFORE CLASS) for guest speakers
+         Post questions and insights to Canvas discussion forums
+         Answer others’ posts to Canvas discussion forums
+         Post sample test questions to exam discussion forums based on class presentations
+          (NO LATER THAN ONE WEEK PRIOR TO SCHEDULED EXAMS)
+ Both classroom and Canvas participation are important. However, TO EARN ALL OF THE
+ POINTS AVIALBLE, SUBSTANTIVE CLASSROOM PARTICIPATION IS REQUIRED.
+ Attendance also will be considered in determining your participation and contribution score.
+ If at any point you have a concern about your performance in the course, please make
+ arrangements to discuss your concerns with me. I will be happy to provide suggestions on
+ how you might improve your performance.
+                                      Canvas Discussion Forums
+ You are strongly encouraged to take advantage of the Canvas discussion forums. Postings
+ can relate to class discussions, assignments, exams, or other topics/issues that are relevant
+ to this course. Substantive Canvas discussion forum participation will be part of your class
+ participation and contribution grade.
+ Canvas discussion forum ground rules:
+         For questions or comments of general interest to the class (i.e., non-personal matters),
+          please use the discussion forums, not e-mail. I will not consider personal e-mails to me
+          in assigning class participation and contribution grades.
+         Such electronic forums are commonly used in business environments so this will
+          provide you with an opportunity to practice professional business communication skills.
+          Be relevant, constructive, respectful and concise.
+         Add your own insights and contributions and be responsive to comments posted by
+          others.
+         Access the discussion forums frequently, including before each class, assignment due
+          dates and exams. I will also use the discussion forums to communicate important
+          announcements and clarifications.
+
+
+ACC 380K.12 (02735)
+Computer Audit & Systems Security
+Fall 2019
+ – Bob George                                                                                Page-4
+         Special Canvas discussion forums will be established for each exam and assignment.
+          Please use such forums for assignment and exam related questions, not e-mail.
+                                        Student ISACA Memberships
+      You are encouraged to become student members of the Information Systems Audit and
+      Control Association (ISACA). Joining ISACA provides access to a wealth of resources
+      about the topics we will cover in class. With student membership, you gain access to
+      articles in the Information Systems Control Journal, various IT audit & security toolkits,
+      discounts on ISACA certifications (CISA, CISM), events, conferences, etc. Joining ISACA
+      will also enable making connections with professionals around the world who are currently
+      working and hiring for positions ranging from IT security, audit, control, risk, privacy,
+      compliance and advisory services. To learn more, please check out
+      www.isaca.org/student.
+                           Policy on Missed Examinations and Assignments
+ Medical emergencies, family emergencies and university-sponsored conflicts are the ONLY
+ valid reasons for missing an examination or due date of an assignment. In any such instance,
+ supporting documentation will be required, such as a signed note from a physician. At that
+ point, I will decide the best make-up alternative on a case-by-case basis, which could mean a
+ make-up exam or assignment. Examinations or assignments that are missed for reasons
+ other than emergencies or university-sponsored conflicts will generally receive no credit. In
+ the case of a university-sponsored event, you must notify me as soon as you are aware of the
+ conflict and before the examination date or assignment due date. Interviews, recruiting
+ events and office visits are not valid reasons for missing an examination or turning in
+ an assignment late.
+                                            Religious Holidays
+ Religious holidays sometime conflict with examination and assignment schedules. If you miss
+ an examination or assignment due date for the observance of a religious holy day, you will be
+ given an opportunity to complete the work missed within a reasonable time after the absence.
+ It is the policy of the University that you must notify me at least fourteen (14) days prior to
+ the exam or assignment due date that you will be absent to observe a religious holiday.
+                               University Electronic Mail Notification Policy
+ Students should become familiar with The University’s official e-mail student notification
+ policy. It is the student’s responsibility to keep The University informed as to changes in his or
+ her e-mail address. Students are expected to check e-mail on a frequent and regular basis in
+ order to stay current with University-related communications, recognizing that certain
+ communications may be time-critical. It is recommended that e-mail be checked daily. The
+ complete text of this policy and instructions for updating your email address are available at:
+ http://www.utexas.edu/its/policies/emailnotify.html.
+                                          ACADEMIC HONESTY
+Accounting Department Policy:
+The Department of Accounting has no tolerance for acts of scholastic dishonesty. The
+responsibility of both students and faculty with respect to scholastic dishonesty are described
+
+
+ACC 380K.12 (02735)
+Computer Audit & Systems Security
+Fall 2019
+ – Bob George                                                                                 Page-5
+in detail in the department’s Policy Statement on Scholastic Dishonesty in the MPA Program. I
+have agreed to observe all of the faculty responsibilities described in that document. By
+enrolling in this class, you have agreed to observe all of the student responsibilities described
+in that document. If the application of that Policy Statement to this class and its assignments is
+unclear in any way, it is your responsibility to ask me for clarification.
+The student responsibilities embodied in the department’s Policy Statement on Scholastic
+Dishonesty are consistent with the GSB Honor Code and the University’s General Information
+catalog. However, you should obtain and read the department’s Policy Statement to ensure
+that you understand my responsibilities.
+                                       Students with Disabilities
+The University of Texas at Austin provides, upon request, appropriate academic
+accommodations for qualified students with disabilities. For more information, contact the
+Office of the Dean of Students.
+                                                 Privacy
+Password-protected class sites will be available for all accredited courses taught at The
+University. Syllabi, handouts, assignments and other resources are types of information that
+may be available within these sites. Site activities could include exchanging e-mail, engaging
+in class discussions and chats, and exchanging files. In addition, class e-mail rosters will be a
+component of the sites. Students who do not want their names included in these electronic
+class rosters must restrict their directory information in the Office of the Registrar. For
+information on restricting directory information see:
+http://www.utexas.edu/student/registrar/catalogs/gi02-03/app/appc09.html.
+                                             Campus Safety
+Please note the following recommendations regarding The University of Texas at Austin
+Campus Safety and Security, (512) 471-5767, http://www.utexas.edu/safety/:
+               Occupants of buildings on The University of Texas at Austin campus are required
+                 to evacuate buildings when a fire alarm is activated. Alarm activation or
+                 announcement requires exiting and assembling outside.
+               Familiarize yourself with all exit doors of each classroom and building you may
+                 occupy. Remember that the nearest exit door may not be the one you used
+                 when entering the building.
+               Students requiring assistance in evacuation should inform their instructor in
+                 writing during the first week of class.
+               In the event of an evacuation, follow the instruction of faculty or class instructors.
+               Do not re-enter a building unless given instructions to do so by the following:
+                 Austin Fire Department, The University of Texas at Austin Police Department, or
+                 Fire Prevention.
+               The Behavior Concerns Advice Line (BCAL): (512) 232-5050 should be used to
+                 report any behavioral concerns.
+
+
+ACC 380K.12 (02735)
+Computer Audit & Systems Security
+Fall 2019
+ – Bob George                                                                                           Page-6
+                                          ACC 380K.12 (02735)
+                                 Computer Audit & Systems Security
+                                    Anticipated Course Schedule
+                                                   Fall 2019
+The class schedule is subject to change, based on the needs of students. Assigned readings are identified in this
+syllabus and can be found in 1) ACC 380K.12 (02735) Computer Audit & Systems Security Readings, Fall 2019
+(available from the McCombs copy center located on the third floor) and 2) on Canvas. It is important to
+remember that other required readings and files will supplement this material and be added from time to
+time.
+IMPORTANT: Please complete each day’s assigned reading before class so that you will have the
+understanding to maximize your learning experience and your class participation grade by actively participating in
+classroom discussions.
+M         September 9 CLASS 1 – Grant Thornton
+TOPIC: Course Overview/introductions; Introduction to Information Technology Audits
+READINGS:
+     1. Course syllabus
+     2. IIA Global Technology Audit Guide (GTAG) – 11: Developing the IT Audit Plan (pages 1-21)
+     3. IIA Practice Guide (PG): Integrated Auditing (pages 1-7)
+M         September 16            CLASS 2 – Deloitte
+TOPIC: IT Risks and IT Auditing
+READINGS:
+     1. GTAG-1: Information Technology Risk and Controls (pages 1-25)
+     2. GTAG-4: Management of IT Auditing (pages 1-14)
+ASSIGNMENT: Case Study #1
+M         September 23            CLASS 3 – PwC
+TOPIC: Auditing General Controls
+CASE STUDY #1 DUE AT BEGINNING OF CLASS (ONE PAPER COPY)
+READINGS:
+     1. Guide to the Assessment of IT Risk (GAIT) Methodology: A Risk Based Methodology for Assessing the
+          Scope of IT General Controls (pages 3-28)
+ASSIGNMENT: Case Study #2
+M         September 30            CLASS 4 – Deloitte
+TOPIC: Auditing Application Controls and Segregation of Duties
+Case Study #2 Due AT BEGINNING OF Class (ONE PAPER COPY)
+READINGS:
+     1. GTAG-8: Auditing Application Controls (pages 1-17)
+     2. GTAG-14: Auditing User-Developed Applications (pages 1-21)
+M         October 7               CLASS 5 – E&Y
+TOPIC: IT Outsourcing and Service Organization Controls Reporting
+READINGS:
+       1. GTAG-7: Information Technology Outsourcing (pages 1-23)
+       2. AICPA Statement on Standards for Attestation Engagements SSAE No. 18, Reporting on Controls at a
+           Service Organization (AT-C sec. 320.01 to sec. 320.45, 320.A75 and 320.A76)
+M         October 14              CLASS 6
+TOPIC: Exam 1
+
+
+ACC 380K.12 (02735)
+Computer Audit & Systems Security
+Fall 2019
+– Bob George                                                                            Page-7
+M         October 21              Class 7 – EY
+TOPIC: Cybersecurity
+READINGS:
+     1.   AICPA Overview of Cybersecurity Risk Management Reporting Framework (2 pages)
+     2.   EY: Cybersecurity Considerations for Audit Committees (8 pages)
+     3.   EY: Cybersecurity Reporting (8 pages)
+     4.   EY: GISS Report (28 pages)
+M         October 28              CLASS 8 – PwC
+TOPIC: IT Fraud & Forensics
+READINGS:
+     1. GTAG-13: Fraud Prevention and Detection in an Automated World (pages 1-18)
+     2. GTAG: Auditing Insider Threat Programs (pages 1-19)
+ASSIGNMENT: Case Study #3
+M         November 4              CLASS 9 – NO CLASS WORK DAY
+TOPIC: Case Study #3 Work Day and Exam 2 Preparation___________________________________________
+M         November 11             CLASS 10 – Deloitte
+TOPIC: Crisis Management and Business Continuity
+CASE STUDY #3 DUE AT BEGINNING OF CLASS (ONE PAPER COPY)
+READINGS: GTAG-10: Business Continuity Management (pages 1-31)
+M         November 18             Class 11 – Protiviti
+TOPIC: Data Privacy and PCI
+READINGS:
+     1. AICPA Generally Accepted Privacy Principles (pages 1-10)
+     2. Practice Guide: Auditing Privacy Risks (pages 1-24)
+     ASSIGNMENT: Case Study #4
+M         November 25             CLASS 12 – Weaver
+TOPIC: Cloud computing, mobile computing and data analytics
+CASE STUDY #4 DUE AT BEGINNING OF CLASS (ONE PAPER COPY)
+READINGS:
+          1. ISACA: “Risk Landscape of Cloud Computing,” ISACA Journal, Volume 1, 2010
+          2. GTAG-16: Data Analysis Technologies (pages 2-21)
+          3. GTAG: Auditing Smart Devices (pages 3-10)
+M         December 2              CLASS 13 – Husch Blackwell LLP
+TOPIC: IT Laws & Regulations
+READINGS: TBD
+M         December 9              Class 14
+TOPIC: Exam 2 (NOT CUMULATIVE)

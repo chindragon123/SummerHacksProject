@@ -1,0 +1,150 @@
+                                                  The University of Texas at Austin
+                               Department of Aerospace Engineering and Engineering Mechanics
+                                               COE f311K: Engineering Computation
+                                                             Summer 2020
+                                                              SYLLABUS
+                                 v2: revised June 6, 2020 (highlighted portions are new/revised items)
+Unique Number:                 74797
+Instructor:                    Dr. Thomas Connolly
+                               e-mail: tjconn@austin.utexas.edu
+                               office hours: Tu Th 11:00am – 12:30pm via Zoom: https://utexas.zoom.us/j/95443823074
+Class Meetings:                Pre-recorded video lectures/tutorials on Canvas – listed under the Panopto Video section
+                               Recitation sessions: live via Zoom, M W 10:00am – 12:00pm
+Teaching Assistant:            Al-Amin
+                               e-mail: m.alamin.ce.@gmail.com
+                               office hours: M 4-5pm, Th 4-5pm, via Zoom
+Computer and Software:
+You should have MATLAB installed on your computer. To access the free student site license, go to:
+https://ut.service-now.com/sp?id=ut_bs_service_detail&sys_id=f9d65c7c4ff9d200f6897bcd0210c77d
+Textbook and Other Course Materials:
+      You are required to have the current edition of the textbook
+               Applied Numerical Methods with MATLAB for Engineers and Scientists, 4th Edition, by Steven Chapra
+               McGraw-Hill Education, 2017
+               ISBN: 978-0073397962
+      Dr. Connolly will also post supplemental instructional materials on Canvas as appropriate
+Catalog Description:
+Fundamental numerical methods and software tools used in engineering computation. Subjects include linear systems of equations,
+matrix computations, nonlinear equations, least squares approximations, interpolation, numerical integration and numerical solution of
+differential equations.
+Course Objectives: Develop a strong foundation in engineering computation concepts and practices, including:
+      tolerance and calculation of numerical error
+      convergence to a solution
+      iterative approaches
+      graphical approaches
+      matrix operations
+      interpolation
+      nonlinear equations
+      linear systems analysis
+      numerical differentiation and integration
+      efficient program design
+      effective presentation and communication of computational results
+Prerequisites: COE 301 with a grade of at least C–; and credit with a grade of at least C or registration for M 427J (differential
+equations and linear algebra).
+
+
+Knowledge, Skills, and Abilities Students Should Have Before Entering This Course:
+      Proficiency in MATLAB programming: for loops, while loops, conditional structures (if, then, else, elseif), matrix
+          operations, user-defined functions, and plotting (single & multiple plots on one set of axes, subplots, and annotation of plots.)
+      A solid foundation in mathematics and calculus principles: matrices, systems of linear equations, differentiation, and
+          integration.
+Knowledge, Skills, and Abilities Students Gain from this Course (Learning Outcomes)
+At the conclusion of the course, students will be able to apply a broad range of computational techniques to aid in the solution of
+problems encountered in engineering coursework and design projects.
+Relationship of Course to Program Outcomes
+This course contributes to the ABET Criterion 3 student outcomes that took effect with the Fall 2019 semester. For more information,
+see Criteria for Accrediting Engineering Programs, 2019 – 2020 at https://www.abet.org/accreditation/accreditation-criteria/criteria-
+for-accrediting-engineering-programs-2019-2020/
+                                              STUDENT OUTCOME
+            1.  an ability to identify, formulate, and solve complex engineering problems by applying
+                                                                                                                  
+                principles of engineering, science, and mathematics
+            2.  an ability to apply engineering design to produce solutions that meet specified needs
+                with consideration of public health, safety, and welfare, as well as global, cultural,
+                social, environmental, and economic factors
+            3.  an ability to communicate effectively with a range of audiences
+            4.  an ability to recognize ethical and professional responsibilities in engineering situations
+                and make informed judgments, which must consider the impact of engineering solutions
+                in global, economic, environmental, and societal contexts
+            5.  an ability to function effectively on a team whose members together provide leadership,
+                create a collaborative and inclusive environment, establish goals, plan tasks, and meet
+                objectives
+            6.  an ability to develop and conduct appropriate experimentation, analyze and interpret
+                data, and use engineering judgment to draw conclusions
+            7.  an ability to acquire and apply new knowledge as needed, using appropriate learning
+                                                                                                                  
+                strategies
+ABET Program Criteria Achieved
+Program criteria are unique to each degree program and are to be compiled from the program criteria given for each degree program
+and listed in table format below.
+                Criterion                               Criterion                              Criterion
+   A. Aerodynamics                          G. Orbital Mechanics                   M. Preliminary/Conceptual Design
+   B. Aerospace Materials                   H. Space Environment                   N. Other Design Content
+   C. Structures                            I. Attitude Determination and          O. Professionalism
+                                           Control
+   D. Propulsion                            J. Telecommunications                  P. Computer Usage                   
+   E. Flight Mechanics                      K. Space Structures
+   F. Stability and Control                 L. Rocket Propulsion
+Class Format
+         This course will be conducted completely online. Pre-recorded videos will be posted by Dr. Connolly on a regular basis.
+         Recitation sessions with the TA will be conducted live via Zoom twice a week, with each session lasting two hours. Unless
+          otherwise noted, an active learning exercise (programming assignment) will be set for each session.
+
+
+Class Outline: We will cover the following topics (textbook chapter/section numbers provided for reference)
+      MATLAB review (Dr. Connolly’s notes and textbook sections: 2.1, 2.2, 2.3, 2.4, 2.5 and 3.1, 3.2, 3.3, 3.4)
+      Convergence (Dr. Connolly’s notes)
+      Error and tolerances (Dr. Connolly’s notes)
+      Working with data files in MATLAB (Dr. Connolly’s notes and textbook section 3.2.1)
+      Solving nonlinear equations (textbook Chapter 5)
+      Linear Systems Analysis (textbook Chapters 8 and 13)
+      Interpolation (textbook Chapter 17)
+      Numerical Integration (textbook Chapter 19)
+      Numerical Differentiation (textbook Chapter 21)
+      Differential Equations: Initial Value Problems (textbook Chapter 22)
+      Differential Equations: Solving Systems of Simultaneous Differential Equations (Chapter 22 and Dr. Connolly’s notes)
+      Differential Equations: Boundary Value Problems (textbook Chapter 24)
+Grading
+Final course grades will be computed according to the following breakdown
+                                  Programming assignments (homework)                              60%
+                                  Active Learning Exercises (recitation)                          15%
+                                  Exam – during recitation on June 29                             15%
+                                  Final programming assignment/project – due July 11              10%
+        Your course grade may be adjusted up or down by a half-letter grade, based on your professional conduct and scholarship
+        To obtain a grade of A in this course, you must be prepared to do “outstanding” work: 90% does not guarantee an A. The
+         following grading scale will be used to assign final course grades. Grades may be curved, if deemed appropriate.
+                                                         95 or above      A
+                                                         91 – 94          A–
+                                                         87 – 90          B+
+                                                         84 – 86          B
+                                                         80 – 83          B–
+                                                         77 – 79          C+
+                                                         74 – 76          C
+                                                         70 – 73          C–
+                                                         65 – 69          D+
+                                                         64 – 66          D
+                                                         60 – 63          D–
+                                                         59 or below      F
+Homework Policy:
+Homework is a significant component of the activities in this class and forms the majority of your course grade. Penalties will be
+assessed for work that is submitted late. Given the accelerated pace of the summer course, falling even a little bit behind can be
+disastrous. All work for this course will be submitted electronically on Canvas.
+Examinations:
+There will be one examination – held live during recitation on Monday, June 29 – to assess your programming skills in a controlled
+and timed environment. You have to remain connected to Zoom while you are taking the exam.
+Important Dates:
+      June 5: Last day of the official add/drop period; after this date, changes in registration may require the approval of the
+         department chair and usually the student’s dean.
+        June 24: Last day a student may change registration in a first-term, nine-week, or whole-session class to or from the
+         pass/fail or credit/no credit basis.
+        July 9: Last class day
+        July 11: Final programming assignment/project due by 5:00pm (more details to come)
+
+
+Special Notes:
+The University of Texas at Austin provides upon request appropriate academic adjustments for qualified students with disabilities. For
+more information, contact the Office of the Dean of Students at 471-6259, 471-4641 TDD or the Cockrell School of Engineering
+Director of Students with Disabilities at 471-4321.
+Evaluation:
+Note that the Measurement and Evaluation Center forms for the Cockrell School of Engineering will be used during the last week of
+class to evaluate the course and the instructor.
+Prepared by: Thomas Connolly                          Date: June 6, 2020

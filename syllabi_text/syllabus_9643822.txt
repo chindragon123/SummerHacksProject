@@ -1,0 +1,167 @@
+              Introduction to Advertising/PR Research (309R)
+                                           Summer 2019
+Instructor
+Matthew S. Eastin, PhD
+Professor
+Office: BCM #4.324
+Office Hours: Monday 12pm – 2pm (Adobe Connect Meeting) & by appointment
+Email: introresearchadpr@gmail.com
+Teaching Assistant
+Jay Lee
+Office Hours: Wednesday 12:30pm – 2:30pm (BMC 4th floor cubicle #1) Friday 12pm to 2pm (Adobe
+Connect Meeting) or by appointment.
+Email: introresearchadpr@gmail.com
+Required Resources
+Davis, J. J. (2012). Advertising Research: Theory and Practice, 2nd Ed. Saddle River, NJ: Prentice
+         Hall.
+Buy at the Coop or ONLINE, bound copy, eBook or value edition – wherever you can get it and in
+whatever form you desire, just be sure to get the 2nd edition.
+Technological Requirements
+All students will be required to use excel and SPSS throughout the semester. You may access
+SPSS in the following ways:
+•    Campus Labs: MEZ 2.104 (5 copies)
+•    You may purchase a 6-month or 1-year student license of IBM SPSS (Base Grad Pack) for
+     $39.99 or $64.99, respectively. Visit the following: http://www.onthehub.com/spss/
+•    IBM SPSS free trial: https://www.ibm.com/analytics/us/en/technology/spss/spss-trials.html
+Course Goals
+From a media and advertising perspective, this course will cover essential statistical analyses needed for
+basic advertising research. Quantitatively, within the context of advertising examples, this class will
+cover sampling, descriptive statistics, variable development and measurement, probability, group
+comparisons, and relational and predictive testing. Again, each of the topics will be advertising-based in
+example and context.
+
+
+Flagged Course
+This course carries the Quantitative Reasoning flag. Quantitative Reasoning courses are designed to
+equip you with skills that are necessary for understanding the types of quantitative arguments you will
+regularly encounter in your adult and professional life. You should therefore expect a substantial portion
+of your grade to come from your use of quantitative skills to analyze real-world problems.
+Lectures
+All lectures will be posted to CANVAS. Students can view lectures at any time prior to taking the exam.
+Lectures may in in video, audio or presentation format (although most are video). Assignments will be
+covered in lecture and labs. Students can follow up with the instructor or TA during their online (or off-
+line) office hours. Due to the nature of this online class, all material needed for exam 1 will be posted by
+June 6th, 2019. Following exam 1, all material needed for exam 2 will be posted. Following exam 2, all
+remaining materials will be posted.
+Grading
+Grading breakdown is as follows:
+Individual Assignment (x3 – 10% per)               =        30%
+Exam 1 and 2 Flashcards (5% per)                   =        10%
+Exam 1                                             =        15%
+Exam 2                                             =        20%
+Exam 3 (cumulative)                                =        25%
+Total                                                       100%
+Grade Breakdown
+ 93-100 = A       87-89 = B+          77-79 = C+             65-69 = D+
+                                                                                 59 and below = F
+ 90-92 = A -      83-86 = B           73-76 = C              60-64 = D
+                  80-82 = B -         70-72 = C –
+
+
+Individual Assignments
+There will be three individual assignments. TWO of the assignments will require you to analyze,
+display (visually) and write-up data using SPSS. Simply using SPSS output will not be
+sufficient for assignment completion. Meaning, when you are asked to display content in a
+chart you will need to customize the chart. More information/examples will be presented in class
+on the date indicated on the course schedule below.
+Exams
+There will be three exams throughout the semester. Exam #3 will be cumulative so make sure
+you go back and review early class content. Make-up exams will be given only in instances of
+excused absences. Furthermore, you must notify me beforehand about an excused absence for an
+exam. On the scheduled exam days, the exam will be available online from 5pm to 9pm. You can
+take the exam at any point during this time period. However, once you start you will need to
+finish the exam. All exams will be timed and will end at their designated time allotment.
+Meaning, at 9pm the exam will close.
+Make-up Policy Exams must be taken during the scheduled exam time. A make-up exam can
+only be taken if the student presents proof of a valid medical excuse or extenuating circumstance.
+Medical excuses and extenuating circumstances will be verified and judged as warranting a
+special case by the course instructor. ALL class assignments must be turned in by the posted
+day and time. No late work will be accepted.
+Communicating with the Instructor
+Feel free to contact me via e-mail (USE the email given above) or in-person (by appointment). I
+check e-mail regularly and will do my best to respond as soon as I can; however, do not expect a
+response immediately, during the weekend, or at midnight before the test—simply stated, plan
+ahead and give me time to respond. For quickest response, please put "ADV 309R" in the subject
+heading.
+        Piazza
+        For most questions related to course material or class administration, please post your
+        question to Piazza. This is the most efficient way for us to share knowledge among the
+        entire learning community. Never doubt the value of your questions – if you are
+        wondering about something, at least a few of your classmates are wondering the same
+        thing!
+        This semester, we will be using Piazza as a class-wide discussion forum. If you have
+        questions or topics that you'd like to discuss with your classmates, this is the place to do
+        it. The system is highly catered to getting you help fast and efficiently from classmates,
+        TAs, and instructors. Rather than emailing questions to the teaching staff, we encourage
+        you to post your questions on Piazza.
+
+
+Academic Dishonesty
+Any form of academic dishonesty, including plagiarism, manufacturing quotes or sources, using
+another’s reporting, research or quotes without giving proper attribution, will result in an
+automatic grade of “F” for your assignment, possibly the course and possibly worse. If you’re
+ever unsure whether you’re crossing the line, ask – that’s what good practitioners and good
+journalists do. Here’s the basic university policy on academic dishonesty:
+http://deanofstudents.utexas.edu/sjs/academicintegrity.html (Links to an external site.)
+Special needs
+The University of Texas at Austin provides upon request appropriate academic adjustments for
+qualified students with disabilities. Any student with a documented disability who requires
+academic accommodations should contact Services for Students with Disabilities (SSD) at (512)
+471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not required to provide
+accommodations without an official accommodation letter from SSD. Please see me at the
+beginning of the semester if you have special needs or require alternative testing.
+Tentative Nature of this Syllabus
+This syllabus represents a contract in the works. Events that transpire during the semester may,
+in rare circumstances, require me to modify the syllabus. I will announce the modification in
+class and on the course Canvas. Meaning, the syllabus will update weekly with new reading and
+any changes in topics. Ultimately, it is your responsibility to keep up with any such
+modifications and be aware of current policies, deadlines, etc.
+
+
+Course Schedule
+    SUGGESTED          Topic(s)         Reading(s) Assignment Recommended
+        Timeline                                   Due Dates
+ June 6th – 7th        Measurement      Chapter 4
+                                        Chapter 11
+ June 10th – 11th      Descriptive      Chapter 15
+                       Statistics
+                                                   Exam 1
+ DUE Jun 12th                                      Flashcards
+                                                   Due –
+                                                   Canvas
+                                                   5pm
+ June 14th             Exam 1
+                                                              Gary Wilcox
+ June 17th – June 18th Data                                   and
+                       Visualization                          Chein Yang
+ June 19th – 21nd      T-test/Analysis  Chapter 14
+                       of Variance      Chapter 16
+                                                   Assignment
+ DUE June 23rd                                     1 – 5pm
+                                                   Canvass
+                                                   Submission
+ June 24th – 25th      Correlation/
+                       Regression
+ June 26th – 27th      Factorial Design Chapter 16
+                                                   Flashcards
+ DUE June 27th                                     for Exam 2
+                                                   Due –
+                                                   Canvas at
+                                                   5pm.
+ June 28th             Exam 2
+                                                   Assignment
+ DUE June 30th                                     2 – 5pm
+                                                   Canvass
+                                                   Submission
+
+
+July 1st – 2nd Segmentation    Chapter 17
+               Biometric
+July 3rd       Research        Chapter 9
+               Ad Metrics/
+July 8th – 9th Digital Metrics
+                                          Assignment
+July 10th                                 3 – 5pm
+                                          Canvass
+                                          Submission
+July 11th      Exam 3

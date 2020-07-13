@@ -1,0 +1,158 @@
+            TD 324P - Advanced Production Library: Integrated Media
+                                                         Working in theaters to build advanced video playback systems!
+Fall 2019
+Unique # 25545 [AET 324P: 20465]
+Mondays, Wednesdays, Fridays 9am-Noon WIN B.220H [IM HUB]
+Instructor:                                                  Earnest is the IM Shop Supervisor and the
+Earnest Mazique [he/him/his]                                 Technical Coordinator for the Payne Theatre.
+Oﬃce: WIN B.124                                              When he isn’t building video systems, he is
+email: earnest@utexas.edu                                    allocating and maintaining video and computer
+Oﬃce Hours: By appointment                                   equipment for productions and the PLAI Lab.
+Teaching Assistants: Michael Bruner, Zoey Crow, John Erickson, Logan Smith
+Course Description:
+This course builds student confidence in working in and around a theater as a member of a team to
+collaborate, problem solve, and complete tasks to meet deadlines. The class will work together to
+build, test, install, troubleshoot, and strike integrated media systems for departmental productions in
+Theatre and Dance and Arts and Entertainment Technologies. Students will learn how to identify
+diﬀerent system components including: data cables, projectors, and video servers and how they are
+used. Time will also be spent learning how to use diﬀerent playback software as well as looking at
+examples of how the software can be used to program visual eﬀects.
+Required Supplies:
+You must wear closed-toe shoes that also cover the top of your foot and your heel every day to class.
+This is for your safety. You should also wear comfortable clothes that you can move in, climb ladders,
+and get dirty. Cell phones are great tools when used appropriately. If the instructor deems a cellphone a
+distraction, you will be asked to turn it oﬀ or put it in your bag.
+Grading:
+You are evaluated on two domains: Punctuality and Participation. Each day the class meets you will
+receive 1 point for being on time and 2 points for actively participating. If you have an unexcused
+absence you will not receive points for that day. If you are absent 2 days your grade will drop 5%.
+Please come to class on time, every day, and ready to participate.
+Plus/minus grading will be used:
+A       92.5 - 100                                           C       72.5 - 76.49
+A-      89.5 - 92.49                                         C-      69.5 - 72.49
+B+      86.5 - 89.49                                         D+      66.5 - 69.49
+B       82.5 - 86.49                                         D       62.5 - 66.49
+B-      79.5 - 82.49                                         D-      59.5 - 62.49
+C+      76.5 - 79.49                                         F       0 - 59.49
+There is no final exam for these courses.
+                                                 University of Texas Department of Theatre and Dance       [page 1 of 4]
+
+
+                                                                               IM Production Lab Syllabus (continued)
+Class Calendar:
+The Instructor reserves the right to adjust the calendar to fit the needs of the class.
+Wed Aug 28        Introductions, Syllabus overview, Venue tours, Fall Protection Training
+Fri Aug 30        Safety Training - Ladders and Lifts
+Mon Sep 2         Labor Day - No Class
+Wed Sep 4         Hands on Fall Protection Training, Working safely in the catwalks
+Fri Sep 6         System Review: 12 Ophelias, Cable overview, CAT Termination
+Mon Sep 9         IM Hang: 12 Ophelias (OBT)
+Wed Sep 11        IM Hang: 12 Ophelias (OBT)
+Fri Sep 13        Projectors, Lenses and Displays, Video extension and switching
+Mon Sep 16        Video Distribution & Projection Mapping, Introduction to QLab
+Wed Sep 18        IM Focus: 12 Ophelias (OBT)
+Fri Sep 20        IM Focus: 12 Ophelias (OBT)
+Mon Sep 23        IM Hang: Method Gun
+Wed Sep 25        Network Architecture for Live Design
+Fri Sep 27        Cable Management Strategies, Knots for Stage Work
+Mon Sep 30        12 Ophelias notes, Method Gun notes
+Wed Oct 2         Lighting overview, Introduction to DMX control
+Friday Oct 4      Audio overview: Speakers, Microphones and Mixers
+Mon Oct 7         Fly Rail Systems and Operation
+Wed Oct 9         Video Distribution & Projection Mapping, Introduction to Watchout
+Fri Oct 11        System Overview: Spring Awakening / Fall For Dance
+Mon Oct 14        IM Hang: Spring Awakening (OBT) - IM Hang: AET Event 1 (BIP)
+Wed Oct 16        IM Hang: AET Event 1 (BIP) - IM Hang: Spring Awakening (OBT)
+Fri Oct 18        IM Focus: AET Event 1 (BIP)
+Mon Oct 21        IM Hang: Fall For Dance (BIP)
+Wed Oct 23        IM Hang: Fall For Dance (BIP) - IM Focus: Spring Awakening (OBT)
+Fri Oct 25        IM Focus: Spring Awakening (OBT)
+Mon Oct 28        Computer architecture in Live Design
+Wed Oct 30        IM Focus: Fall For Dance (BIP), Pepper’s Ghost and Illusions in Live Design
+                                                                                  Calendar continued on next page…
+                                                University of Texas Department of Theatre and Dance          [page 2 of 4 ]
+
+
+                                                                              IM Production Lab Syllabus (continued)
+Fri Nov 1            IM Focus: Fall For Dance (BIP)
+Mon Nov 4            Fall For Dance Notes / Spring Awakening Notes
+Wed Nov 6            Fall For Dance Notes / Spring Awakening Notes
+Fri Nov 8            Fall For Dance Notes / Spring Awakening Notes
+Mon Nov 11           Fall For Dance Notes / Spring Awakening Notes
+Wed Nov 13           Fall For Dance Notes / Spring Awakening Notes
+Fri Nov 15           System overview: AET Event 2
+Mon Nov 18           IM Strike: Fall For Dance/IM Hang: AET Event 2
+Wed Nov 20           IM Hang: AET Event 2
+Fri Nov 22           IM Focus: AET Event 2
+Mon Nov 25           IM Focus: AET Event 2
+Wed Nov 27           Thanksgiving holiday - No Class
+Fri Nov 29           Thanksgiving holiday - No Class
+Mon Dec 2            IM Strike: Spring Awakening (OBT)
+Wed Dec 4            AET Event 3 Notes
+Fri Dec 6            AET Event 3 Notes
+Mon Dec 9            IM Strike: AET Event 3
+Production Attendance Policy:
+It is the policy of the Department of Theatre and Dance that our majors attend department season productions
+and that this attendance is a part of the coursework for our majors’ classes. For the fall semester, you are
+required to attend the following performances:
+• 12 Ophelias (a play with broken songs)
+• Spring Awakening
+• Fall For Dance
+Information on how majors may obtain discounted admission is available on the Department of Theatre and
+Dance wiki under the “Student Resources” tab.
+Additional Course Policies
+Food and Drinks:
+No food or drink (except sealed water bottles) shall be consumed in the theaters, backstage, or the IM HUB.
+Keep in mind that the equipment used in this course will last longer and perform better when food and drink is
+kept out of the electronics.
+                                                   University of Texas Department of Theatre and Dance    [page 3 of 4 ]
+
+
+                                                                             IM Production Lab Syllabus (continued)
+University of Texas Honor Code:
+The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual
+opportunity, and responsibility. Each member of the university is expected to uphold these values through
+integrity, honesty, trust, fairness, and respect toward peers and community.
+Use of E-mail for Oﬃcial Correspondence to Students:
+All students should become familiar with the University’s oﬃcial e-mail student notification policy. It is the
+student’s responsibility to keep the University informed as to changes in his or her e-mail address. Students
+are expected to check e-mail on a frequent and regular basis in order to stay current with University-related
+communications, recognizing that certain communications may be time-critical. It is recommended that e-mail
+be checked daily, but at a minimum, twice per week. The complete text of this policy and instructions for
+updating your e-mail address are available at
+http://www.utexas.edu/its/policies/emailnotify.html.
+Documented Disability Statement:
+Any student with a documented disability who requires academic accommodations should contact Services
+for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video phone). Faculty are not
+required to provide accommodations without an oﬃcial accommodation letter from SSD.
+   • Please notify me as quickly as possible if the material being presented in class is not accessible
+        (e.g., instructional videos need captioning, course packets are not readable for proper
+        alternative text conversion, etc.).
+   • Please notify me as early in the semester as possible if disability-related
+        accommodations for field trips are required. Advanced notice will permit the
+        arrangement of accommodations on the given day (e.g., transportation, site accessibility,
+        etc.).
+   • Contact Services for Students with Disabilities at 471-6259 (voice) or 1-866-329-3986
+        (video phone) or reference SSD’s website for more disability-related information:
+        http://www.utexas.edu/diversity/ddce/ssd/for_cstudents.php
+Behavior Concerns Advice Line (BCAL):
+If you are worried about someone who is acting diﬀerently, you may use the Behavior Concerns Advice Line to
+discuss by phone your concerns about another individual’s behavior. This service is provided through a
+partnership among the Oﬃce of the Dean of Students, the Counseling and Mental Health Center (CMHC), the
+Employee Assistance Program (EAP), and The University of Texas Police Department (UTPD). Call
+512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Q drop Policy:
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to six (6).
+As stated in Senate Bill 1231:
+        “Beginning with the fall 2007 academic term, an institution of higher education may not permit an
+        undergraduate student a total of more than six dropped courses, including any course a transfer
+        student has dropped at another institution of higher education, unless the student shows good cause
+        for dropping more than that number.”
+Religious Holidays:
+By UT Austin policy, you must notify instructors of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a
+project in order to observe a religious holy day, you will be given an opportunity to complete the missed work
+within a reasonable time after the absence.
+Changes:
+This syllabus is subject to change upon the discretion of the instructor.
+                                                University of Texas Department of Theatre and Dance          [page 4 of 4 ]

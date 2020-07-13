@@ -1,0 +1,86 @@
+                                                   SYLLABUS
+                                         PSYf353K Psychopharmacology
+                                                   Summer2019
+                                                  Unique: 83113
+                                            Time: Mon-Fri 11:30-1:00
+                                               Location: ECJ 1.306
+Instructor: Hongjoo Joanne Lee
+Email: leehj@austin.utexas.edu
+Office: SEA 4.222
+Office Hours: by appointment
+Content:
+This course is an introduction to the study of drugs and behavior. We will first cover the basic foundations of
+the nervous system, such as anatomy and physiology. Then, we will study the mechanisms of drug addiction
+and major substances of abuse. Finally, we will discuss various drugs used to treat neuropsychiatric and
+neurodegenerative disorders.
+Textbook:
+Psychopharmacology: Drugs, the Brain, and Behavior by JS Meyer and LF Quenzer, 2nd edition (optional)
+Grading Policy: The course grade will be based on four examinations, each covering about one-fourth of the
+course material. Each exam will be worth 100 points. The exams will be a mixed format of multiple-choice
+questions and short-answer questions. There are no make-up tests unless you have a written doctor’s note.
+After grading, the exams will be handed back to you in the class for a review but will be collected after the
+review. If you would like to examine your exams further, you can do so during the instructor’s (not the TA’s)
+office hours. Any grading disputes or corrections must be brought to the instructor’s (not the TA’s) attention
+within three days after the exam has been reviewed in the class regardless whether you were present during the
+review or not. Afterwards, no grade adjustments to the exam will be made.
+Letter grade cutoffs are as follows (in percentage):
+       93-100 = A             87-89.9 = B+            77-79.9 = C+          67-69.9 = D+            < 60 = F
+       90-92.9 = A-           83-86.9 = B             73-76.9 = C           63-66.9 = D
+                              80-82.9 = B-            70-72.9 = C-          60-62.9 = D-
+Prerequisites: For psychology majors, upper-division standing and Psychology 301 and 418 with a grade of at
+least C in each. For non-psychology majors, upper-division standing, Psychology 301 with a grade of at least C,
+and one of the following with a grade of at least C: Biology 318M, Civil Engineering 311S, Economics 329,
+Educational Psychology 371, Electrical Engineering 351K, Government 350K, Mathematics 316, 362K,
+Mechanical Engineering 335, Psychology 317, Sociology 317L, Social Work 318, Statistics 309, Statistics and
+Scientific Computation 302, 303, 304, 305, 306, 318.
+
+
+Special Accommodations:
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified
+students. If they certify your needs, I will work with you to make appropriate arrangements.
+http://diversity.utexas.edu/disability/
+Academic Integrity
+Cheating or plagiarizing on assignments does not allow for an accurate assessment of your progress and
+undermines the assessment of other students’ progress. Therefore, cheating or plagiarism will not be tolerated.
+Cases of academic dishonesty will be handled on a case by case basis. For more information about policies
+regarding academic integrity, please refer to the Office of the Dean of Students at
+http://deanofstudents.utexas.edu/sjs/acint_student.php.
+Additional information:
+    A. Canvas will be used to distribute course materials, to communicate, and to post grades. In particular, the
+        lecture material will be posted ~24 hours prior to each lecture. It is expected that you bring it to the
+        class to take notes.
+    B. Use of E-mail is the University’s official correspondence. Thus, you are encouraged to check your e-
+        mail on a regular basis.
+    C. Attendance will not be taken and factored into grading, but you are responsible for the
+        materials/information discussed in the class.
+    D. Use of a laptop/tablet is permitted as long as it is not disruptive to the class. However, the instructor
+        holds the right to regulate the use of laptops and other electronic devices at anytime during the lecture.
+    E. Course participants with a license to carry a handgun must keep it concealed and on them at all times. If
+        a gun becomes visible, the person who sees the gun should leave the classroom and call 911 so that law
+        enforcement personnel can take appropriate action and restore an atmosphere conducive to learning.
+
+
+Course outline
+        The following schedule is only approximate, and subject to change during the semester.
+ Date                    Topic                                                        Readings
+                                          Unit 1: Foundations
+                         The nervous system                                           Chapter 2
+                         Neurophysiology                                              Chapter 3
+                         Introduction to Pharmacology                                 Chapters 1
+ June 13                 TEST 1
+                                      Unit 2: Neurotransmitters
+                         Classical monoamines                                         Chapter 5, 6
+                         Other classical neurotransmitters                            Chapter 7, 8
+                         The neurobiology of addiction                                Chapter 9
+ June 24                 TEST 2
+                                     Unit 3: Substances of abuse
+                         Alcohol and opioids                                          Chapters 10, 11
+                         Stimulants                                                   Chapters 12, 13
+                         Cannabinoids and hallucinogens                               Chapters 14, 15
+ July 2                  TEST 3
+                                      Unit 4: Therapeutic drugs
+                         Sedative-Hypnotic drugs                                      Chapter 18
+                         Antidepressants                                              Chapter 19
+                         Antipsychotic drugs                                          Chapter 20
+                         Neurodegenerative diseases                                   Chapter 21
+ July 11                 TEST 4

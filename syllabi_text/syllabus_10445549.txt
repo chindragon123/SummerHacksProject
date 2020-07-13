@@ -1,0 +1,208 @@
+                           EE 362K – Intro to Automatic Control
+                                             Summer 2020
+Course: EE W362K; Unique Number 75570
+Lecture: MWF 10a – 1130a
+Final Examination: Monday, August 17, 2020 7-10p
+Instructor
+Dr. Al Cuevas
+Graduate Teaching Assistant
+Required Text
+Feedback Control of Dynamic Systems, by Franklin, Powell, Emami-Naeini, 8e, Pearson, 2019.
+(Electronic version).
+CHAPTERS PLANNED TO BE COVERED
+Chapter 1 Overview of Feedback Control              Chapter 5  Root-Locus Design Method
+Chapter 2 Dynamic Models                            Chapter 6  Frequency-Response Design Method
+Chapter 3 Dynamic Response                          Chapter 7  State-Space Design
+Chapter 4 Analysis of Feedback                      Chapter 8  Digital Control
+Software
+You will be required to use MATLAB in this course. MATLAB is available through the University.
+Course Website
+Use of the cloud-hosted learning management system, Canvas, will be used throughout this course. In
+addition, Piazza will be used for Q/A and student discussions.
+Course Objectives:
+The concept of feedback is central in the study of systems and control. Feedback loops are common in
+nature, even in the most basic biological phenomena from the macroscopic (i.e. population dynamics,
+climate, etc.) to microscopic (i.e. regulation of glucose levels, temperature regulation, etc.) scales. In
+engineering, feedback plays a critical role in mechanical, electronic, chemical and digital systems. More
+generally, systems theory and feedback are central to understanding, analyzing, and designing
+systems with interconnected components. It is important to understand not only if a system can be
+controlled, but in what frequency range and under what conditions.
+The purpose of this class will be to gain a basic intuition for and understanding of linear feedback
+systems and develop the mathematical tools to understand the basics of design and analysis of single-
+input single-output (SISO) feedback control systems.
+Catalog Description
+Analysis of linear automatic control systems in time and frequency domains; stability analysis; state
+variable analysis of continuous-time and discrete-time systems; root locus; Nyquist diagrams; Bode
+plots; sensitivity; lead and lag compensation.
+Prerequisites
+Electrical Engineering 313 and Mathematics 340L with a grade of at least C- in each.
+                                                                                                 Page 1 of 5
+
+
+Grading Policy
+The numerical course grade is computed by weighting the raw scores as indicated above. A final
+course grade may be adjusted on a curve rather than an absolute scale. Final grades will be assigned
+using plus and minus increments. A course/instructor survey will be conducted at the end of the
+semester via the standard MEC form for the Instructor and the Teaching Assistant.
+ Homework & MATLAB Assignments                  20%            Grade Cutoffs
+ Semester Exams (about four online exams) 50%                              A: 94%     A-: 90%
+ Final Exam (online exam)                       30%            B+: 87% B: 84%         B-: 80%
+                                                               C+: 77% C: 74%         C-: 70%
+                                                               D+: 67% D: 64%         D-: 60%
+                                                               F: <60%
+Lectures
+The lectures will take place at the normally scheduled time. It is anticipated each lecture will be
+recorded for those that may not have Internet access at the normal lecture time. These recordings
+should generally be available later in the same day as lecture. Attendance and participation during
+lecture is expected and required for examinations (see below). Questions and feedback during lecture
+is important.
+Homework & MATLAB assignments
+There will be about 10 homework assignments during the semester. Homework is completed and
+submitted through Canvas. No late submission will be graded. Homework will be made available on
+Canvas, generally, a week before the due date. Announcements will be made in class and on Canvas
+regarding changes. You are responsible for checking the due dates on Canvas.
+Examinations
+There will be about four semester examinations and a final examination, all administered and proctored
+online. The examinations will test your knowledge of the material presented during lecture, your
+homework assignments, PowerPoint slides, and the book's material. In addition, I will test your ability to
+apply the material presented. The four semester exams are scheduled during normal class times. The
+Final Exam will be scheduled per the University's Final Exam schedule and will be administered and
+proctored online.
+The examinations will consist of a number of questions to be answered in a given time period. The
+exams are closed-book, closed-notes, no additional resources are to be used. All exams will be
+administered via Canvas and will be proctored using online monitoring resources. You must have your
+laptop/computer video active during the examinations. There are no make-up examinations. Excused
+absence from an examination must be approved in advance. Absence is excused only in extreme
+circumstances (serious illness, death in the immediate family, etc.). Requests for excused absences
+should be made in writing and must be supported by appropriate documentation. Unexcused absence
+from an examination will result in a grade of zero for that examination.
+There is no re-grading of examinations, unless you feel that there is an error. In this case, you should
+submit a written (email) request. Verbal requests will not be considered. An examination grade will not
+be changed one week after the exam has been graded.
+A basic, non-programmable, scientific calculator (e.g., TI-30Xa, TI-30X IIS, or equivalent), will be
+needed during the exams. You are not allowed to use a programmable or graphing calculator. For
+example, the TI-83, TI-84, TI-Nspire or the like, will not be permitted for use during exams.
+                                                                                                 Page 2 of 5
+
+
+Proposed Schedule
+#     Date  Lecture Topic                                                 Homework Reading
+                                                                                   Assignment
+1     6/05  Overview                                                               1.1-1.5
+2     6/08  Dynamics of Mechanical Systems                                         2.1
+3     6/10  Models of Electric Circuits                                     HW 1   2.2
+4     6/12  Review of Laplace Transforms                                           3.1
+5     6/15  Partial Fraction Expansion. Final Value Theorem.                       3.1
+6     6/17  System Modeling Diagrams                                        HW 2   3.2
+7     6/19  Effect of Pole Locations                                               3.3
+8     6/22  Time-Domain Specifications                                      HW 3   3.4
+9     6/24  Effects of Zeros and Additional Poles– Exam 1                          3.5
+10    6/26  Stability, Part 1                                                      3.6
+11    6/29  Stability, Part 2                                                      3.6
+12    7/01  Control Equations/Control of Steady-state Error                        4.1-4.2
+13    7/03  Three-Term Controller: PID Control                                     4.3
+14    7/06  Feedforward Control by Plant Model Inversion                           4.4
+15    7/08  Root Locus – Exam 2                                                    5.1-5.2
+      7/10  No class (Final Exam for 6-week courses)
+16    7/13  Root Locus. Selected Illustrative Root Loci                            5.2-5.3
+17    7/15  Dynamic Compensation and Examples                                      5.4-5.6
+18    7/17  Frequency Response/Neutral Stability                                   6.1-6.2
+19    7/20  Nyquist Stability Criterion/Stability Margins                          6.3-6.4
+20    7/22  Bode's Gain-Phase Relationships/Closed-Loop Frequency                  6.5-6.6
+            Response
+21    7/24  Compensation – Exam 3                                                  6.7
+22    7/27  State-Space Overview/System Descriptions                               7.1-7.2
+23    7/29  Block Diagrams ans State-Space/Analysis of State Eqns                  7.3-7.4
+24    7/31  Control Law Design                                                     7.5
+25    8/03  Selection of Pole Locations                                            7.6
+26    8/05  Estimator Design                                                       7.7
+27    8/07  Compensator Design                                                     7.8
+28    8/10  Intro of the Reference Input w/Estimator/Integral Control and          7.9-7.10
+            Robust Tracking – Exam 4
+29    8/12  Digitization/Dynamic Analysis of Discrete Systems                      8.1-8.2
+30    8/14  Design using Discrete Equivs/Hardware Characteristics                  8.3-8.4
+      8/17  Final Exam as scheduled per the University calendar
+                                                                                      Page 3 of 5
+
+
+                                            UNIVERSITY POLICIES
+Religious Holy Days
+Students shall be excused from attending classes or other required activities, including examinations,
+for the observance of a religious holy day, including travel for that purpose. A student whose absence is
+excused will not be penalized for that absence and shall be allowed to take an examination or complete
+an assignment from which the student is excused within a reasonable time after the absence.
+University policy required students to notify each of their instructors as far in advance of the absence as
+possible so that arrangements can be made.
+Policy on Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code: “As a student
+of The University of Texas at Austin, I shall abide by the core values of the University and uphold
+academic integrity.” Plagiarism is taken very seriously at UT. Therefore, if you use words or ideas that
+are not your own (or that you have used in previous class), you must cite your sources. Plagiarism
+applies to all assignments in this course including software/firmware source codes.
+Students who violate University rules on academic dishonesty are subject to disciplinary penalties,
+including the possibility of failure in the course and/or dismissal from the University. Since such
+dishonesty harms the individual, all students, and the integrity of the University, policies on academic
+dishonesty will be strictly enforced. For further information, please visit the Student Conduct and
+Academic Integrity website at:http://deanofstudents.utexas.edu/conduct.
+You are responsible for understanding UT’s Academic Honesty and the University Honor Code.
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+deadline, which typically occurs near the middle of the semester. Under Texas law, you are only
+allowed six Q drops while you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+University Resources for Students
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please let
+me know as soon as possible. Together we’ll develop strategies to meet both your needs and the
+requirements of the course. There are also a range of resources on campus:
+Services for Students with Disabilities
+This class respects and welcomes students of all backgrounds, identities, and abilities. If there are
+circumstances that make our learning environment and activities difficult, if you have medical
+information that you need to share with me, or if you need specific arrangements in case the building
+needs to be evacuated, please let me know. I am committed to creating an effective learning
+environment for all students, but I can only do so if you discuss your needs with me as early as
+possible. I promise to maintain the confidentiality of these discussions. If appropriate, also contact
+Services for Students with Disabilities, 512-471-6259 (voice) or 1-866-329- 3986 (video phone).
+http://diversity.utexas.edu/disability/about/
+Counseling and Mental Health Center
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and
+cope with stress.
+                                                                                                 Page 4 of 5
+
+
+All of us benefit from support during times of struggle. You are not alone. There are many helpful
+resources available on campus and an important part of the college experience is learning how to ask
+for help. Asking for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety
+or depression, we strongly encourage you to seek support.
+http://www.cmhc.utexas.edu/individualcounseling.html
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center
+each year to improve their academic performance? All students are welcome to take advantage of
+Sanger Center’s classes and workshops, private learning specialist appointments, peer academic
+coaching, and tutoring for more than 70 courses in 15 different subject areas. For more information,
+please visit https://ugs.utexas.edu/slc or call 512-471-3614 (JES A332).
+Undergraduate Writing Center: http://uwc.utexas.edu/
+Libraries: https://www.lib.utexas.edu/
+ITS: https://it.utexas.edu/
+Student Emergency Services: http://deanofstudents.utexas.edu/emergency/
+Important Safety Information
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel
+right – it probably isn’t. Trust your instincts and share your concerns.
+The following recommendations regarding emergency evacuation from the Office of Campus Safety
+and Security, 512-471-5767, https://financials.utexas.edu/avp-campus-safety
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling
+outside.
+     •   Familiarize yourself with all exit doors of each classroom and building you may occupy.
+         Remember that the nearest exit door may not be the one you used when entering the building.
+     •   Students requiring assistance in evacuation shall inform their instructor in writing during the first
+         week of class.
+     •   In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-
+         enter a building unless given instructions by the following: Austin Fire Department, The
+         University of Texas at Austin Police Department, or Fire Prevention Services office.
+       •  Link to information regarding emergency evacuation routes and emergency procedures can be
+                                        found at: https://emergency.utexas.edu
+                                                                                                   Page 5 of 5

@@ -1,0 +1,171 @@
+                 ME 338 Syllabus - Summer 2020
+Lecture:
+MWF 2:00 pm – 4:00 pm
+Instructors:
+Prof. Michael Cullinan
+Office: ETC 4.154
+Phone: (512) 471-0262
+Email: Michael.Cullinan@austin.utexas.edu
+Office Hours:
+Mon/Wed: 4-5pm or by appointment
+Michael Cullinan is inviting you to a scheduled Zoom meeting.
+https://utexas.zoom.us/j/9446623421
+Teaching Assistants:
+Hanyu Zhu
+Email: zhuhanyu@utexas.edu
+Office Hours: TBD
+Text:
+Norton, Robert, Machine Design: An Integrated Approach, 6th Edition
+Course Summary:
+Undergraduate level course on modeling, design, integration and best practices for use of
+machine elements such as bearings, springs, gears, cams and mechanisms. Modeling and analysis
+of these elements is based upon extensive application of physics, mathematics and core
+mechanical engineering principles (solid mechanics, fluid mechanics, manufacturing, estimation,
+computer simulation, etc...). These principles are reinforced via a substantial design project
+wherein students model, design, fabricate and characterize a mechanical system that is relevant
+to a real world application. Students master the materials via problem sets/quizzes that are
+directly related to, and coordinated with, the deliverables of their project. Student assessment is
+based upon mastery of the course materials and the student's ability to synthesize, model and
+fabricate a mechanical device subject to engineering constraints (e.g. cost and time/schedule).
+Learning Objectives:
+By the end of the course students should be able to:
+       Define yield stress, ultimate stress, elastic modulus and strain
+       Describe how the structure of materials effects the mechanical properties of those
+        materials
+       Calculate principal stresses and deflections in mechanical systems
+
+
+       Calculate von Mises stresses
+       Explain the types of failure mechanisms possible in mechanical systems (ductile, brittle,
+        fatigue, wear, etc.)
+       Model failure mechanisms in shafts and beams
+       Calculate fatigue life of mechanical systems
+       Design shafts and shaft couplings
+       Select an appropriate bearings for a mechanical system
+       Analyze the lifetime of a sliding and rolling bearing elements
+       Design, model, and analyze gearing systems
+       Calculate transmission ratio of planetary gear systems
+       Calculate stress in gears
+       Design lead screws and belt drives
+       Calculate stress and predict failure in bolted joints
+       Design springs for mechanical systems
+       Use finite element software to analyze the stress, defection, and fatigue life of mechanical
+        systems
+       Create physical embodiments of mechanical systems modeled in class
+       Work effectively in problem-solving teams and effectively communicate project results to
+        other engineers
+Prerequisites:
+ME 311 and EM 319
+Grading:
+       Exams: 45% (15% each)
+       In class exercises and quizzes: 10%
+       Project: 30%
+       Homework: 15%
+Examinations:
+There will be three examinations throughout the semester. These exams will be semi-cumulative
+as prior course information is necessary but will not be directly tested. Students will be allowed
+to prepare one 8.5” x 11” piece of paper with notes and equations for the exam. All required
+charts and graphs will be included with the exams.
+Homework:
+All homework must be submitted in class on the due date. Students may collaborate on
+homework assignments but must clearly indicate who they worked with at the top of each
+submitted assignment. However, any evidence of plagiarism or other forms of scholastic
+dishonesty will not be tolerated.
+
+
+Special Notes:
+Students with disabilities may request appropriate academic accommodations from the Division
+of Diversity and Community Engagement, Services for Students with Disabilities, 471-6259,
+http://www.utexas.edu/diversity/ddce/ssd/
+Academic Dishonesty:
+Students         are      required       to       review        the      UT      Honor         Code
+(http://deanofstudents.utexas.edu/sjs/spot_honorcode.php) and the Dean of Students web
+page discussion of plagiarism (http://deanofstudents.utexas.edu/sjs/acadint_plagiarism.php).
+Religious Holidays:
+University policy requires that you notify the instructor, as far in advance of the absence as
+possible, of any pending absence for the observance of a religious holy day. If you must miss a
+class, a work assignment, or a project in order to observe a religious holy day, you will be given
+an opportunity to complete the missed work within a reasonable time after the absence.
+Class Project:
+This class will focus on (i) understanding the role of concepts, principles, design process, best
+practices, mathematics, physics and engineering modeling within mechanical design; and (ii)
+rigorous application of concepts, principles, design process, best practices, mathematics, physics
+and engineering modeling to realize a complex and high quality mechanical design. You will learn
+“by doing” and learn by gaining insight/perspective via interaction with the staff. This year in ME
+338, teams of about 5-8 students will model, design, and simulate the performance of a remote
+control car. Each team will design a ‘group’ RC car and must design at least one car. The
+construction and analysis of a device that meets functional requirements is a critical element of
+receiving a good grade in this class. The final performance evaluation of the RC cars will be
+performed during the final exam time slot.
+Design notebook
+Each student must keep a design notebook. These must be a dedicated notebook in which all of
+your ideas, calculations, and records are stored. Loose papers must be stapled or glued in; no
+loose papers will be included in the grading. We encourage you to paste in pictures of the parts,
+SolidWorks models or SolidWorks simulation results when appropriate. The purpose of the
+design notebooks is to show how you went through the design process and to see what each
+individual contributed to the final design. These notebooks are meant to be similar to what you
+would keep at a design firm if you were designing a new piece of equipment.
+Final report
+A final report is required and will be due at the time of the final exam. The purpose of the report
+is for you to convince the staff that you learned and used the course material properly. The
+contents of the report are up to the group; however it would be reasonable to include
+descriptions of your group’s activities, calculations, predictions, results, lessons learned and
+performance data. All reports are 12 point font, double-spaced and 1 inch margins.
+
+
+Course Schedule:
+ Date    Topic                         Reading               Homework             Project Milestones
+ 6/5     Intro, Materials              Ch.2
+ 6/8     Load Analysis, Beam           Ch. 3.0-3.10
+         Loading
+ 6/10    Loading Continued,            Ch. 4.0-4.9
+         Principal Stresses
+ 6/15    Applied Stresses,             Ch. 4.10-4.11
+         Singularity Functions
+ 6/17    Beam Deflections              Ch. 4.12-4.16         Homework #1 Due      Project Teams
+                                                                                  Formed
+ 6/22    Beam Deflections
+         Continued
+ 6/24    Ductile Failure, Brittle      Ch. 5.0-5.6           Homework #2 Due
+         Failure
+ 6/29    Static Failure Continued
+ 7/1     Exam #1
+ 7/6     Fatigue Failure               Ch. 6.0-6.8
+ 7/8     Designing for Fatigue         Ch. 6.10-6.15         Homework #3 Due      Chassis and Axel
+                                                                                  Design Due
+ 7/13    Shaft Loading                 Ch. 10.0-10.9
+ 7/15    Shafts Continued              Ch. 10.10-10.17       Homework #4 Due
+ 7/20    Exam #2
+ 7/22    Sliding Bearings, Rolling     Ch. 11.0-11.14                             Drive Design Due
+         Bearings
+ 7/27    Gear Kinematics and           Ch. 12.0-12.13
+         Elastomechanics
+ 7/29    Gears continued               Ch. 13.1-13.3         Homework #5 Due      Steering Design Due
+ 8/3     Belts and Power screws        Ch. 15.0-15.3
+ 8/5     Bolted Joints                 Ch. 15.4-15.12
+ 8/10    Bolted Joints Continued                             Homework #6 Due      Full CAD Assembly
+                                                                                  Due
+ 8/12    Exam #3                                                                  Race Day Friday
+ABET Program Outcomes Achieved through this Course:
+              ABET Program Outcomes Achieved
+       1      Ability to identify, formulate, and solve complex engineering problems by applying
+   X
+              principles of engineering, science, and mathematics.
+
+
+  2 Ability to apply engineering design to produce solutions that meet specified needs with
+X   consideration of public health, safety, and welfare, as well as global, cultural, social,
+    environmental, and economic factor.
+X 3 Ability to communicate effectively with a range of audiences.
+  4 Ability to recognize ethical and professional responsibilities in engineering situations
+X   and make informed judgments, which must consider the impact of engineering
+    solutions in global, economic, environmental, and societal contexts.
+  5 Ability to function effectively on a team whose members together provide leadership,
+X   create a collaborative and inclusive environment, establish goals, plan tasks, and meet
+    objectives.
+  6 Ability to develop and conduct appropriate experimentation, analyze and interpret
+X
+    data, and use engineering judgment to draw conclusions.
+  7 Ability to acquire and apply new knowledge as needed, using appropriate learning
+X
+    strategies

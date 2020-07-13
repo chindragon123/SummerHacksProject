@@ -1,0 +1,455 @@
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                    Page 1 of 13
+           ACCOUNTING 326 – Fall 2018
+           Financial Accounting - Intermediate
+           Unique Number 02400 8:00 – 9:15 AM MW in UTC 3.110
+           Unique Number 02405 9:30 - 10:45 PM MW in UTC 3.110
+Course             The course examines issues in financial reporting from both preparer and user perspectives. The basic
+Objectives         objectives of the course are:
+(1) to learn about current GAAP.
+(2) to consider the economics of transactions and events, and understand whether and how financial reporting captures those
+    economics. This way of thinking lays the foundation for understanding how equity and credit analysts use financial reports.
+    This way of thinking also allows you to learn about business (i.e., broadens your thinking beyond just debits and credits).
+(3) to learn how to reason about financial reporting problems in a forward direction, similar to what preparers normally do (i.e.,
+    work forward from the data to journal entry to financial statement) and to learn how to reason about financial reporting
+    problems in a backward direction, similar to what financial report users do (i.e., work backward from financial statements and
+    notes to the financial statements to journal entry).
+Professor:                  Stephen Moore
+Email:                      stephen.moore@mccombs.utexas.edu
+Office:                     GSB 5.124F Tel: 512- 232-6788
+Office Hours:               Monday           11:00 AM – 12:15 PM
+                            Wednesday        11:00 AM – 12:15 PM
+                            Also available on Canvas
+                                            FOR HOMEWORK AND EXAM CONSULTATIONS
+                   8:00 – 9:15 AM MW                     9:30 – 10:45 PM MW
+Assistant:         Flora Sun                              Celeste Guajardo
+Email:             sunmeng0429@gmail.com                  celesteguajardo15@gmail.com
+Office:            CBA 4.304A – Space A                   CBA 4.304A - Space C
+Office Hours:      Thursday 10:00 – 11:00 AM              Wednesday 1:00 – 2:00 PM
+They will be attending my classes and you should generally be able to catch them before or after class.
+
+
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                     Page 2 of 13
+COURSE MATERIALS
+TEXT: INTERMEDIATE ACCOUNTING, by Kieso, Weygandt, and Warfield, 2016, 16th edition. Available for purchase at Co-
+Op in hardbound (new or used) or loose-leaf form. Many cheaper options exist: Available for hard copy rental on Amazon.com or
+(perhaps) Chegg.com. Available for e-purchase or e-rental in several places, including Kindle.
+Unless you buy a new book at the Co-Op, you are not likely to have access to the Chapter 21 Update-Accounting for Leases. This
+updated chapter just came out this year. So, if you do not have access, please let me know and I can get you the updated chapter
+when we get closer to the time we cover that chapter.
+ADVANCED ACCOUNTING, by Halsey and Hopkins (3rd edition). Purchase three chapters from this book via custom publishing.
+Custom published book will be available at Co-Op. Alternatively, this can be purchased as a custom E-book at this URL:
+https://mybusinesscourse.com/book/financialreportingaustin#purchase
+CLASS NOTES: These are essential, cannot-do-without class notes. I will provide the relevant parts on
+Canvas in advance of class. It is up to you to have them available at class each day. These notes contain (1) my class notes,
+and (2) the "Additional Problems in Class Notes" indicated on the assignment sheet later in this syllabus.
+The class notes will be your primary source of studying the topics covered in this course.
+SOLUTIONS TO ADDITONAL PROBLEMS: This packet contains the solutions to the
+optional unassigned additional homework problems. It does not include those to be turned in for course credit. These assigned
+problems will be posted to Canvas after they are due.
+Available for purchase at Jenn’s Copy & Binding, 2518 Guadalupe Street. (Guadalupe at Dean Keeton). (2200@jennscopies.com).
+Be sure to get the solutions to additional problems for this class and not my ACC 380K.1 class.
+The three primary sources of studying topics in this course are: class notes, solutions to homework problems (both assigned and
+unassigned - see above), and the textbook. Based on feedback from students who have taken this course previously, your primary
+source of studying topics in this course probably will be the class notes. Students have indicated to me that they rely heavily on the
+class notes and homework problems to study for exams. Spending time reading every word in the textbook was not deemed as
+productive for several reasons:
+         (1) we cover topics very quickly in this class and there is not much time to spend reading the textbook,
+         (2) the textbook contains many accounting details that are not that important (i.e., they will never show up on exams),
+         (3) the textbook forces students to think only about current accounting; many aspects of this course involve thinking about
+         alternative perspectives, some of which are not currently allowed (but may be something you would want to do as part of
+         your financial statement analysis, and
+         (4) some topics are not discussed in the book.
+Thus, you are encouraged to use the textbook as a reference tool; read excerpts from the textbook as necessary. For most,
+reading the textbook on an as needed basis after we talk about a topic in class will work best. For others, reading it before class
+optimizes their performance in this class. For topics you’ve never been exposed to before (such as derivatives), reading the notes
+and related sections in the textbook before class can prove very valuable. Reading the textbook on an as-needed basis can save
+you valuable time and maximize efficiency. DO WHAT WORKS BEST FOR YOU.
+
+
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                        Page 3 of 13
+COURSE REQUIREMENTS
+    EXAMS: There will be two mid-term exams and one final exam.                 Each exam will only cover the materials in that portion
+    of the course, with the following important exception: statement of cash flows and deferred taxes topics will be covered in all
+    three exams.
+    My exams are largely problem based. For each of the three exams, you can bring an 8 ½ by 11 “cheat sheet.” Writing/typing on
+    both sides is acceptable.
+    HOMEWORK: There will be 14 homework assignments.                      These homework assignments help you stay up to date on
+    the material (it’s easy to let things slide and somewhat disastrous in this class if you do). Solutions to these assigned homework
+    problems will be made available on the due date after class on the Canvas course website. You will be able to drop one
+    homework from your grade, but I suggest that you make every effort to do them all.
+    Homework should be turned in electronically on Canvas with a deadline of immediately after class on the day homework is due.
+    Graded homework will be returned electronically on Canvas.
+    .
+COURSE GRADES
+    Course grades are determined by the following weighting scheme:
+      Exam 1                           290 points     29%
+      Exam 2                           290 points     29%
+      Final Exam                       290 points     29%
+      Homework                         130 points     13%
+      TOTAL POINTS                   1,000 points    100%
+DETAILS ON GRADING
+EXAMS: Exams are problem based and so we do assign partial credits. For example, to the extent we can tell that you made a
+pure math mistake (i.e., you wrote $10 x 5000 units = $5,000), not all points are deducted. Hence, showing your work is important!
+I grade on a curve with an average grade generally designed to fall within a 3.2 – 3.4 guideline range. Class participation will be
+considered where there is a borderline grade.
+No make-up exams will be given. Medical emergencies and family emergencies are the only valid reasons that will be accepted for
+missing an exam. You must provide supporting documentation (e.g., signed note from a physician) if you do miss an exam. If you
+are excused from an exam, the other two exams will be re-weighted (e.g., if you miss the first exam, the second and final exams will
+be re-weighted). If you miss two exams, you automatically fail this course and no re-weighting will be granted. If you do not have a
+valid reason for missing an exam, you will receive a zero on the exam, which usually implies failing the course.
+
+
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                       Page 4 of 13
+HOMEWORK: Unless otherwise noted, the homework will be graded on an effort, and not accuracy, basis.                   Each homework
+is worth 10 points. You will receive full credit for a problem if the grader concludes that you made a reasonable effort; you will
+receive a zero if you did not turn in the homework (or turned it in late). Scores of less than 10 will be assigned based on partial
+completion of homework.
+REGRADING POLICY: My TAs and I will make every effort to ensure the accuracy of grading. Should grading
+discrepancies arise (e.g., not adding up your points correctly, etc.), you must submit a TYPED-UP, WRITTEN request for re-
+grading, on one page, and turn in your written request along with your exam within 3 calendar days (72 hours) after the exams
+are given back to you.
+STRATEGIES FOR SUCCESS
+I. GETTING OFF TO A SOLID START:
+    I would highly recommend that those of you who feel in any way nervous about your skills at making journal entries to read
+    through Chapter 3 of the textbook and work some problems. Work through as many as you need to feel comfortable with
+    making journal entries. Suggested: E3-1, E3-8, E3-20 (don’t do Part B), P3-1, P3-5, P3-6, P3-8, P3-9, P3-11, and P3-12. I can
+    provide you with the solutions to these problems.
+II. CLASS ATTENDANCE AND HOMEWORK:
+    In my opinion, class attendance and homework are the two most important components of this course. Why?
+    Reason #1: There is a lot of material in ACC 326 and the course moves quickly. If you miss class, you will typically spend at
+    least triple the class time to learn the materials on your own. Trying to figure out on your own some of the course material
+    is just too tough. Maximizing in-class learning is the most efficient way to learn the materials.
+    Reason #2: Much of what I cover in class will be included in the exams.
+    If, for some reason, you have to miss class, I recommend that you obtain the class notes from someone else and, if possible,
+    also have them audio record the class. It’s an easy way to ensure that you can get up to speed on the material you missed.
+    Reason #3: Since the content of ACC 326 is largely problem oriented, doing the homework problems on a timely basis is a
+    must for good performance. Exam performance is directly related to systematic preparation, which includes timely completion
+    of the homework assignments.
+    There are homework problems from the textbook and in my class notes. What is the difference? Problems in the class notes
+    supplement the textbook when the textbook is deficient in a particular type of problem. So you should view the two as
+    complements and not substitutes. If you don’t do all of the problems for a particular topic, be sure to scan all problems and
+    make sure you get coverage on all types of problems/subtopics within a particular topic.
+III. USE THE RESOURCES PROVIDED:
+CANVAS: The course Canvas site will be an integral part of my teaching tool and your learning tool.
+        Solutions to homework that is turned in for credit will be available on Canvas.
+        Discussion boards are available on Canvas. The TA’s and I will monitor these discussion groups to provide timely answers
+        to questions.
+
+
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                      Page 5 of 13
+Privacy in Canvas: Information in Canvas is protected by your UTEID login. Other students will not actually learn your email
+address and no other personal data will be revealed through Canvas. If you have any concerns, please contact the ITS Help Desk
+at 475-9400 for help removing your name from view of other students.
+     TAs:          The TAs have earned their positions and are eager to help you.
+IV. THINKING LIKE A BUSINESS PERSON:
+   Your in-class understanding of the accounting issues will be much enhanced if you train yourself at the same time to think like a
+   business person. In a lot of topics we cover, a solid understanding of the underlying business transactions is a must before you
+   tackle the accounting issues. Understanding the business transactions and the business environment are also important for
+   fulfilling our class objectives, i.e., understanding the economics of the transactions and reasoning backward from the financial
+   statements to infer firms’ performance.
+   Where do you start? One great starting point is to acquire knowledge about what is going on in the business world. Thus, I
+   encourage you to get access to a business publication and to read it on a regular basis. I realize that time is a scarce commodity
+   but even a little bit of reading here and there is much better than no reading. I recommend:
+            1.   The Wall Street Journal. It’s THE newspaper of business.
+            2.   Financial Times. It’s equivalent to the international version of Wall Street Journal.
+            3.   Fortune. It comes out every couple of weeks and has longer and more in-depth articles.
+            4.   Forbes.
+            5.   The Economist.
+            6.   Business Week.
+            7.   Barron’s
+   I can provide you with links to websites which will allow you to obtain a discount on these publications (except for Forbes).
+OTHER
+     Academic accommodation for students with disabilities: The University of Texas at Austin provides upon request appropriate
+     academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of
+     Students at 471-6259, 471-4641 TTY, or http://www.utexas.edu/diversity/ddce/ssd. If you are eligible for an academic
+     accommodation for a test, please provide me email notification at least 10 days prior to the test, so that I can obtain
+     appropriate reservations for the accommodation.
+     Religious holy Days: Per university policy, you must notify me of an absence related to a religious holy day observance no later
+     than 14 days prior to the observance of that holy day. If your religious holy day falls on one of the exam dates, I will reschedule
+     you to take a ‘make-up’ exam before the class exam date.
+PROFESSIONAL CONDUCT
+The Department of Accounting is making a concerted effort to focus students’ attention on their professional conduct. Why? We are
+the #1 program in the country, but this ranking can easily be undermined by a lack of professional conduct.
+
+
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                     Page 6 of 13
+Developing and protecting the value of a McCombs degree influences everything I do and should influence your behavior as well.
+The McCombs brand will open doors for you, but it does not provide you with entitlements. You will still have to earn the benefits of
+being branded as from McCombs. This of course will also ensure that your degree reflects well on you and your fellow graduates
+throughout your careers.
+      What does it mean to be professional? Behaving with the highest level of integrity, respect for others, and ethics. Stand
+      by your word, make good decisions, and take responsibility for your actions. Show courtesy and respect for the views and times
+      of your fellow students and to faculty, TA’s, program directors, and staff. In turn, we will show you the same.
+For this class
+Professional behavior is not only required when interacting with someone outside of the university environment, but it also is
+expected in your classes and in situations related to this class. Therefore:
+1. I expect you to attend class. In the professional working world, attendance is mandatory unless illness or an emergency
+prohibits it. Performance is positively correlated with attendance.
+2. I expect students to arrive to class on time. It is very disruptive to the class when a student enters the classroom after class
+has begun, as it interrupts the flow of the lecture/discussion and distracts the other students.
+3. I expect that all electronic devices will be turned off once class begins. Cell phones, pagers, Blackberries, and other
+communication devices are to be turned completely off (including turning off “cell phone vibrate mode” during class time.) Laptops
+should also be turned completely off unless they are being used to take notes. Please note that my academic colleagues report that
+research shows that retention is better with handwritten notes. I also expect that reading of non-class materials will stop once class
+starts.
+4. I expect students to not take personal breaks during class. There may be cases where a student must leave class for one
+important reason or another, but students leaving and returning during class is very disruptive, so please keep these disturbances to
+an absolute minimum.
+5. I expect that you will not have conversations or write notes back and forth with other students during class.
+6. I expect that you will be respectful of me, the TA, and of the other students in class and in office hours.
+7. I expect you to be responsible for getting the course notes and in-class handouts on any day that you must miss class. It is
+not my responsibility to secure missed material for you.
+In return, you can expect me and the TA to:
+1. Be in class and office hours on time.
+2. Be respectful of your need to learn the material in this class. Thus, we will provide timely and enthusiastic responses to
+questions made in person or on Canvas and keep you up to date on changes in the syllabus or homework solutions, again on a
+timely basis. You can expect us to return homework and exams in a timely fashion to enhance your learning experience.
+3. Be courteous to you in our interactions with you in and outside of class.
+4. Provide you with an education that will prepare you well for the long-term.
+
+
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                              Page 7 of 13
+                                       Departmental Policy on Scholastic Dishonesty
+The Department of Accounting has no tolerance for acts of scholastic dishonesty. The responsibilities of both students
+and faculty with regard to scholastic dishonesty are described in detail in the department’s Policy Statement on
+Scholastic Dishonesty. By teaching this course, I have agreed to observe all of the faculty responsibilities described in
+that document. By enrolling in this class, you have agreed to observe all of the student responsibilities described in that
+document. If the application of that Policy Statement to this class and its assignments is unclear in any way, it is your
+responsibility to ask me for clarification.
+                       Application of Departmental Policy to Writing Assignments in this Course
+GRADED HOMEWORK
+Working on the homework assignments with other students who are currently enrolled in ACC 326 is permitted.
+However, merely copying the work of another student who has previously completed the homework assignment is not
+permitted. Copying homework solutions from the solutions manual, another instructors’ solution packet, a previous
+semesters’ solution packet, or any other source also is not permitted. Violation of this policy will be treated as an act of
+“scholastic dishonesty.” Evidence of violation of this policy will be forwarded to the Dean of Students with a
+recommendation of up to and including that a grade of “F” be assigned in the course.
+EXAMS
+Each student is expected to independently complete the exams during the designated exam period. Each student
+should not refer to other students’ exam solutions or discuss the exam with other students during the exam period.
+Violation of this policy will be treated as an act of “scholastic dishonesty.” Evidence of non-independent work will be
+forwarded to the Dean of Students with a recommendation of up to and including that a grade of “F” be assigned in the
+course.
+
+
+SYLLABUS ACC 326 Professor Moore – Fall 2018                                                       Page 8 of 13
+CLASS SCHEDULE ON ONE PAGE (Details on the following pages, pages 9-13)
+Class Date           Topic/Task                          Class   Date          Topic/Task
+   #                                                       #
+   1     8/29 W      Introduction, syllabus                16    10/24 W       Derivatives
+   2     9/5 W       Risk + Uncertainties                  17    10/29 M       Compound Financial
+                                                                               Instruments
+   3      9/10 M     Statement of Cash Flows               18    10/31 W       Stock based
+                                                                               compensation
+                                                           19    11/5 M        Catch up
+   4     9/12 W      Comp. Income/Disc. Ops.
+   5     9/17 M      Deferred Taxes                        20    11/7 W        No class. Exam prep
+   6     9/19 W      Deferred Taxes                        20    11/7 W        2nd Exam – 6-8:30PM
+                                                                               GSB
+                                                                               2.122/2.126/3.106/3.130
+   7     9/24 M      Acc Change, Restatement               21     11/12 M      EPS
+   8     9/26 W      Acc Change, Restatement               22    11/14 W       Foreign Currency
+   9     10/1 M      Catch up
+                                                           23    11/19 M       Leases
+  10     10/3 W      No Class. Exam Prep                         11/21 W       Thanksgiving Break
+  10     10/4 TH     1st Exam –6 – 8:30PM
+                     UTC 2.102A
+  11     10/8 M      Equity                                24    11/26 M       Leases/Business
+                                                                               Combinations
+                                                           25    11/28 W       Business Combinations
+  12     10/10 W     LT Liabilities                        26    12/3 M        Business Combinations
+  13     10/15 M     LT Liabilities                        27    12/5 W        Business Combinations
+  14     10/17 W     LT Liab../Review Options              28    12/10 M       Catch up
+  15     10/22 M     Derivatives                                 12/TBD***     Final Exam*** (See note)
+***Final exam date TBD: The university’s scheduling for final common exams does not start until November. I will
+announce final exam date in class and also post the date on Canvas class website once I am informed of the final exam
+schedule
+
+
+ SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                               Page 9 of 13
+ DETAILED CLASS SCHEDULE
+                                                                                                        Due date for homework
+                                                      Assignment (both homework to turn in and          (indicated by those that are
+Date    Chapter        Topic                          homework not to turn in) E=exercise;              underlined)
+                                                      P=problem from textbook
+PART I OF CLASS: ESSENTIALS TO SURVIVE AS A CFO
+W 8/29  3, 8, 11       Hand out syllabus:             P3-10, P3-11, E8-17, E11-4,                       Wednesday 9/5
+                       introduction of class
+                                                                                                            HW 1
+                       The Bigger Picture             Review Problems A and B (Review Problems A
+        Canvas                                        and B are located at the end of your class notes)
+        AFTER CLASS:  READ OVER THE BIGGER PICTURE CLASS NOTES.
+W 9/5   5, 13, 24      Risks and Uncertainties        CA13-4, CA13-5, CA13-6, E13-13, P13-10,           Monday 9/10
+                       Start Statement of Cash        P13-11, E24-1, E24-2
+                       Flows with leftover time so
+                       bring those notes.             Additional Problems in Class Notes A                  HW 2
+        PREPARATION:    READ PAGES 224-225, 673-676, 683-684, AND 1409-1413 FROM TEXTBOOK.
+M 9/10  5 + 23         Statement of Cash Flows        E23-3, E23-4, E23-5, E23-6, E23-15, E23-16,       Wednesday 9/12
+                                                      P23-3, P23-7, P23-8, Financial Reporting Problem
+                                                      – Procter & Gamble, Financial Statement Analysis
+                                                      Case – Vermont Teddy Bear Co. (part a only).
+                                                                                                            HW 3
+                                                      Additional Problems in Class Notes A-E.
+                                                      NOTES: Problems A through D have deferred
+                                                      taxes in them, so do these after we have gone
+                                                      through that topic.
+        PREPARATION:   READ PAGES 113-118, 216-221, AND 1330-1353 FROM TEXTBOOK.
+        THERE ARE A LOT OF PROBLEMS HERE TO PRACTICE, PERHAPS MORE THAN SOME OF YOU NEED (YOU BE THE
+        JUDGE). THE TEXTBOOK PROBLEMS ARE THE PLACE TO START, TO BE SURE YOU’VE GOT BASICS DOWN.
+        THEN MOVE TO THE ADDITIONAL PROBLEMS IN CLASS NOTES.
+
+
+ SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                               Page 10 of 13
+                                                                                                                  Due date for
+                                                         Assignment (both homework to turn in and                 homework (indicated
+Date    Chapter          Topic                           homework not to turn in) CA=case; E=exercise;            by those that are
+                                                         P=problem from textbook                                  underlined)
+W 9/12  4                Comprehensive Income            E4-8, E4-15, P4-7, Additional Problems in Class Notes A  Monday 9/17
+                         Statement and Discontinued
+                         Operations                       Additional Problems in Class Notes B and C                  HW 4
+                                                           AFTER CLASS: READ PAGES 152-167 AND 173-176 FROM THE
+                                                           TEXTBOOK
+M 9/17  19               Deferred Taxes                  E19-2, E19-4 (use 20% marginal rate; pollution fines are Monday 9/24
+                                                         nondeductible), E19-10, E19-12, E19-13, E19-15 (use
+                                                                                                                      HW 5
+                                                         40%, 20% and 20% as marginal tax rates for 2019, 2020,
+                                                         and 2021), E19-22, P19-1 (municipal interest not
+                                                         taxable), P19-2, P19-4 (use 20% for marginal rate;
+                                                         insurance and pollution not deductible; bond revenue not
+                                                         taxable), P19-5, P19-6 (use 30% marginal rate for 2021-
+                                                         2023, and then 20% thereafter)
+                                                         Additional Problem in Class Notes A – C
+        PREPARATION: READ PAGES 1052-1082 FROM TEXTBOOK.
+W 9/19  19               Deferred Taxes                  See above.
+M 9/24  22               Retained Earnings Statement     E22-1, E22-6, E22-7, E22-12 (the double declining        Monday 10/1
+                         – Accounting Method (versus     balance depreciation is $148,395 total up to 1/1/2018),
+                         Estimate) Changes and           E22-13, E22-14, E22-15, P22-2, P22-3, P22-6                HW 6
+                         Restatements
+                                                         Additional Problems in Class Notes B and F
+                                                         Additional Problems in Class Notes A, C – E
+        PREPARATION: READ PAGES 170-173 AND 1266-1291 FROM TEXTBOOK.       NOTE THAT FOR THE 1270-1274 PAGES,
+        THERE IS DISCUSSION OF REVENUE RECOGNITION METHODS THAT WE MAY NOT BE EASILY REMEMBERED BY YOU FROM
+        PREVIOUS CLASSES, SO KEEP THAT IN MIND WHEN READING THOSE PAGES.
+F 2/9   Case Due -       Submit via Canvas
+W 9/26  22               Retained Earnings Statement     See above.
+                         – Accounting Method (versus
+                         Estimate) Changes and
+                         Restatements
+M 10/1  CATCH UP
+W 10/3  NO CLASS – TIME OFF FOR FIRST EXAM PREPARATION
+TH 10/4 FIRST EXAM to be held from 6:00pm – 8:30 PM – UTC 2.102A
+
+
+ SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                                Page 11 of 13
+PART II OF CLASS: FINANCIAL INSTRUMENTS
+                                                                                                                   Due date for
+                                                          Assignment (both homework to turn in and                 homework (indicated
+Date    Chapter          Topic                            homework not to turn in) CA=case; E=exercise;            by those that are
+                                                          P=problem from textbook                                  underlined)
+M 10/8  15               Equity                           E15-2, E15-3, E15-21, E15-22, Additional Problems in     Wednesday 10/10
+                                                          Class Notes A-E
+                                                                                                                       HW 7
+        PREPARATION:   READ PAGES 776-778 AND    795-802 FROM TEXTBOOK.
+W 10/10 13 + 14          Long-Term Liabilities (and the   Use effective-interest method on all problems throughout Monday 10/22
+                         fair-value option)               the course.
+                                                          CA13-2, CA13-3, E13-8, E13-9, E14-9, E14-10, E14-16,         HW 8
+                                                          E14-19, E14-20, P14-1 (assume interest is paid on
+                                                          December 31, not January 1; also indicate how the
+                                                          balance sheet, income statement, and SCF would look
+                                                          for 2011 and 2018), P14-10 (skip part d),
+                                                          Additional Problems in Class Notes A-B, D, and G-L
+                                                          Additional Problems in Class Notes C, E, and F
+        PREPARATION:   READ PAGES 671-672, 719-731, 737-742, AND 941-944 FROM TEXTBOOK
+M 10/15 13 + 14          Long-Term Liabilities (and the   See above
+                         fair-value option)
+W 10/17 13 + 14          Long-Term Liabilities/Review     Bring notes on Derivatives (PUTS, CALLS, FUTURES,
+                         of PUTS, CALLS, FUTURES,         etc.) to class
+        17A              etc.
+M 10/22 17A              Derivatives                      E17-24, E17-26, E17-28, P17-12, P17-13, P17-15, P17-     Monday 10/29
+                                                          16 (show comprehensive income rather than just income
+                                                                                                                       HW 9
+                                                          statement), P17-17
+                                                          Additional Problems in Class Notes A-C, E, H-K
+                                                          Additional Problems in Class Notes D, F, and G
+        PREPARATION: READ PAGES 923-940 FROM TEXTBOOK.
+W 10/24 17A              Derivatives                      See above
+M 10/29 16               Compound Financial               CA16-1, CA14-2, E14-12, E14-13, E14-14, E14-15, E16-     Monday 11/5
+                         Instruments                      1, E16-3, E16-4, E16-7, E16-8, E16-9.
+                                                                                                                        HW 10
+                                                          Additional Problems in Class Notes C, D, and E
+                                                          Additional Problems in Class Notes A, B and F
+        PREPARATION: READ PAGES 836-842 FROM TEXTBOOK. PAGES 891-894 OF THE TEXTBOOK TALK ABOUT HOW
+        BIFURCATION OF CONVERTIBLE DEBT WORKS. THE TEXT TALKS ABOUT IT IN THE CONTEXT OF IFRS WHERE CONVERTIBLE
+        DEBT IS ALWAYS BIFURCATED. BUT THE GENERAL DISCUSSION WILL BE HELPFUL FOR OUR DISCUSSION OF US GAAP IN
+        THOSE CASES WHERE IT IS BIFURCATED. SO WHY DOESN’T THE TEXT JUST TALK ABOUT THIS BIFURCATION CONCEPT IN
+        THE CASE OF US GAAP? THE TEXTBOOK IS NOT QUITE RIGHT WHEN IT SAYS US GAAP DOES NOT BIFURCATE
+        CONVERTIBLE DEBT– UNDER SOME CIRCUMSTANCES (CASH SETTLEMENT OPTION), IT IS BIFURCATED.
+
+
+ SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                                    Page 12 of 13
+                                                                                                                     Due date for homework
+                                                                   Assignment (both homework to turn in and          (indicated by those that
+Date       Chapter             Topic                               homework not to turn in) CA=case;                 are underlined)
+                                                                   E=exercise; P=problem from textbook
+W 10/31    16                  Stock-Based Compensation            E16-12, E16-13, E16-14, P16-3, P16-4              Wednesday 11/5
+                                                                   Additional Problems in Class Notes A-B, F
+                                                                   Additional Problems in Class Notes C-E                 HW 10
+           PREPARATION: READ PAGES 843-851 AND 863-866 FROM TEXTBOOK.
+M 11/5     Catch Up
+W 11/7     NO CLASS – TIME OFF FOR SECOND EXAM PREPARATION
+W 11/7     SECOND EXAM to be held be held from 6:00pm – 8:30 PM – GSB 2.122/2.126/3.106/3.130
+ M 11/12 16            Earnings Per Share            E16-15, E16-18, E16-22, E16-23, E16-24 (use effective               Monday 11/19
+                                                     interest method here-do not use straight-line as the
+                                                     problem states), E16-25, E16-26(assume options are not
+                                                     employee stock options), E16-28, P16-8                                  HW 11
+                                                     Additional Problems in Class Notes A-D
+                                                       PREPARATION: READING PAGES 851-863 AND 867-
+                                                       870 FROM TEXTBOOK
+ M 11/19 None          Foreign-Currency              Additional Problems in Class Notes B, C, E and F                    Monday 11/19
+                       Transactions
+                                                     Additional Problems in Class Notes A, D, G and H
+                                                                                                                           HW 11
+         There is no textbook section on this topic.
+ M 11/19  21             Leases                           E21-10 (skip reversing entries and part b), E21-19, E21-21
+                                                          (skip part f), P21-8, P21-10, P21-11 (skip part d), P21-12     Wednesday 11/28
+                                                          Additional Problems A-E, H-I, L-N
+                                                          Additional Problems in Notes F, G, J, K                           HW 12
+                                                          DO NOT DO ANY LESSOR ACCOUNTING
+          PREPARATION: READ PAGES 21-1 THROUGH 21-34 AND APPENDIX C FROM THE 2017 FASB
+          UPDATE – CHAPTER 21 UPDATE – ACCOUNTING FOR LEASES.
+ W 11/21                 THANKSGIVING BREAK
+ M 11/26 21              Leases                         See above
+
+
+ SYLLABUS ACC 326 Professor Moore – Fall 2018                                                                                  Page 13 of 13
+                                                                                                                     Due date for homework
+                                                                  Assignment (both homework to turn in and           (indicated by those that
+Date        Chapter            Topic                              homework not to turn in) E=exercise;               are underlined)
+                                                                  P=problem; MC=Multiple Choice; Q=Question
+ PART 3 OF CLASS: M&A (Mergers and Acquisitions)
+M 11/26     1 + 2 (Halsey +    Business Combinations              E1-23, E1-24, Q2-2, Q2-5, Q2-6, MC2-23             Monday 12/3
+            Hopkins book
+                                                                                                                        HW 13
+            PREPARATION: READ PAGES 3-8 AND 47-50 FROM HALSEY & HOPKINS ADVANCED ACCOUNTING TEXTBOOK.
+W 11/28     1 + 2 (Halsey +    Business Combinations              E1-25, E1-26, E1-27, E1-28, P1-36, P1-38, E2-      Monday 12/3
+            Hopkins book)                                         35, E2-37, E2-43, P2-45, P2-46, P2-48, P2-49,
+                                                                  P2-50,
+                                                                                                                          HW 13
+            PREPARATION: READ CHAPTER 2 FROM HALSEY & HOPKINS ADVANCED ACCOUNTING TEXTBOOK, INCLUDING
+            APPENDIX 2A. ALSO READ PAGES 9-17, 19-21, AND 28 FROM CHAPTER 1.
+M 12/3      3 (Halsey +        Business Combinations              E3-28, E3-32, E3-33, P3-43, P3-45, P3-46            Monday 12/10
+            Hopkins book)
+                                                                                                                          HW 14
+            PREPARATION: READ CHAPTER 3 FROM HALSEY & HOPKINS ADVANCED ACCOUNTING TEXTBOOK.
+W 12/5      2                  Business Combinations              Q2-33, Q2-34, P2-49, also look at redo’s of        Monday 12/10
+                                                                  P2-45, P2-48, P3-43, and P3-45 for non-
+                                                                  controlling interests add on question that I added
+                                                                                                                         HW 14
+                                                                  onto solutions … as well as the answer).
+                                                                  ADDITIONAL PROBLEMS IN CLASS NOTES A,-C, E,F
+                                                                  ADDITIONAL PROBLEMS IN CLASS NOTES D
+            PREPARATION: READ APPENDIX 2B FROM HALSEY & HOPKINS ADVANCED ACCOUNTING TEXTBOOK.
+M 12/10     2                  Finish Business
+                               Combinations/Catch up
+ FINAL EXAM: TBD. I WILL ANNOUNCE COMMON EXAM DATE/TIME IN CLASS, MOST LIKELY MID TO LATE NOVEMBER
+ See bottom of Page 8 explanation.

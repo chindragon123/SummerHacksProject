@@ -1,0 +1,154 @@
+           ME335 - Engineering Statistics - Summer 2020
+• Time & Place: Monday/Tuesday/Thursday 8:30am-11:00am, Zoom
+• Professor: John J. Hasenbein
+     – Office: ETC 5.128B
+     – Phone: 471-3079
+     – Email: jhas@mail.utexas.edu (This is the best way to contact me.)
+     – Office Hours: Zoom me!
+• Online Materials: All class materials will be available via the Canvas system. This
+  includes homework assignments and solutions, slides used in class, supplementary ma-
+  terials, TA info, and all handouts.
+  Email Communication: For this class, email will be used as an official form of com-
+  munication for notifying you of new homework assignments and other class updates.
+  The University of Texas email policy can be found at:
+  https://cio.utexas.edu/policies/university-electronic-mail-student-notification-policy.
+  Homework assignments will appear online. You will be sent an email, pulled from the
+  class registration list, notifying you of the next due date (you can also check the web
+  page).
+• Text: Probability and Statistics for Engineers and Scientists, 4th Edition by Anthony
+  J. Hayter (Cengage Learning).
+• Computational Tools: We will be using Microsoft Excel.
+• Grading Policy: Homework is worth 25% of your grade. Each exam is weighted
+  equally and is worth 25% of your grade.
+• Exams:
+     – Midterm #1, June 16th, 8:30-10:30am.
+     – Midterm #2, June 29th, 8:30-10:30am.
+     – The final exam will take place at the university scheduled time, which is Saturday,
+        July 11th, 2-5pm.
+    1. You are required to take all exams to pass the class. No early exams will be given.
+        Make-up exams will not be given without a valid medical excuse.
+    2. The final exam will will focus on material given in the latter part of the semester.
+        You will be given an outline of exam topics before each exam.
+                                             1
+
+
+     3. For all exams you will be allowed one standard-sized (8.5in by 11in) hand written
+        cheat sheet. You may write on both sides.
+     4. If you request a regrade of a problem on an exam, I reserve the right to regrade
+        the entire exam (possibility resulting in a lower overall score). So, I suggest only
+        requesting a regrade if I made a blatant grading error.
+• Academic Integrity: Students who violate University rules on scholastic dishonesty
+  are subject to disciplinary penalties, including the possibility of failure in the course and
+  dismissal from the University. Since dishonesty harms the individual, fellow students,
+  and the integrity of the University, policies on scholastic dishonesty will be strictly
+  enforced.
+  Guidance on Homework Policy: You may discuss the homework problems with your
+  fellow classmates. However, you must write up and understand your solutions individ-
+  ually. If I suspect you have used someone else’s homework solutions to an unreasonable
+  extent, you will be asked to come to my office to give me a detailed explanation of
+  your solutions. If you cannot explain what you wrote down adequately, you will not
+  receive credit for that homework.
+• Prerequisites: M408D, with a grade of at least C, and admission to an appropriate
+  major sequence in engineering.
+• Students with disabilities: The University of Texas at Austin provides upon request
+  appropriate academic accommodations for qualified students with disabilities. For
+  more information, contact the Office of the Dean of Students at 471-6259, 471-4641
+  TTY.
+• Course Evaluation: Near the end of the course you will have an opportunity to
+  anonymously evaluate the course and instructor using the standard College of Engi-
+  neering evaluation form.
+• Class Web Site and Privacy: For this class, a web-based, password-protected class
+  site will be available via the Canvas system. The syllabus, handouts, assignments and
+  other resources are types of information that may be available within this site. Site
+  activities could include exchanging e-mail, engaging in class discussions and chats, and
+  exchanging files. In addition, a class e-mail roster will be a component of the site.
+  Students who do not want their names included in this electronic class roster must
+  restrict their directory information in the Office of the Registrar, Main Building, Room
+  1. For more information on restricting directory information see the undergraduate
+  course catalog.
+                                             2
+
+
+                                     ABET Info
+• Course Goals: To develop a thorough understanding of the methods of probability
+  and statistics which are used to model engineering problems and develop the neces-
+  sary skills to implement and analyze basic statistical models using computer software
+  packages.
+• Knowledge, Abilities, and Skills students should have before entering this
+  course: familiarity with multivariate integral and differential calculus, sums and series,
+  basic knowledge of the Excel spreadsheet software.
+• Knowledge, Abilities, and Skills students should gain from this course: abil-
+  ity to model and analyze engineering problems involving random factors, including:
+  calculating probabilities, expectation, variance, correlation, modeling using appropri-
+  ate random variables; ability to model problems using simple statistical methods, in-
+  cluding: awareness of situations in which statistical methods are valid, assumptions
+  used in basic statistical models, construction of confidence intervals for one and two
+  sample data problems, formulation and analysis of hypothesis tests, ability to do sim-
+  ple linear regression analysis (predictions on the regression line, correlation analysis,
+  residual analysis).
+• Impact on Subsequent Courses in Curriculum: improved ability to analyze
+  and properly interpret data collected in engineering testing, better understanding of
+  random factors in engineering experiments.
+                                           3
+
+
+                                      General Comments
+    1. If you find yourself falling behind in class, please come by and see me. It is very
+       important not to get confused early on, since each new topic builds upon the previous
+       topics.
+    2. The only to learn probability and statistics is to do lots of problems. This course will
+       likely be different than previous courses you have had in many respects. In particular,
+       you may understand both the lectures and the book quite well, but may not be able
+       to do the homework problems efficiently.
+    3. Attendance is not compulsory. However, you are responsible for keeping up with any
+       lecture material you have missed. All homework assignments will be posted on the
+       web on the day they are handed out in class. Any slides I use in class will be posted on
+       the web the day they are used in class. However, the slides usually not have sufficient
+       detail for you to recover the lecture and not all lectures will be given from slides.
+                                      Course Outline
+     Provided below is a rough outline of the topics of the course. The order and number of
+lectures may change during the semester, depending on time. In parenthesis are the related
+sections in the Hayter textbook which is related to each lecture topic.
+     For the purposes of the summer schedule each “lecture” below is about 75 minutes.
+Hence, I will teach approximately 2 lectures worth of material during each of our 2.5 hour
+meeting times.
+    I. Intro to Prob and Stat (1 lecture)
+          – What is probability?
+          – Famous problems and paradoxes – The Monty Hall problem, St. Petersburg Para-
+             dox
+          – Probability and stat in everyday problems – Polling, disease tests, winning at the
+             casino.
+   II. Probability Theory (4-5 lectures)
+          – Events and sample space (1.1–1.3), conditional probability (1.4–1.5).
+          – Posterior probability (1.6), Bayes’ Theorem (1.6).
+          – Combinations and permutations (1.7).
+  III. Discrete Random Variables (3 lectures)
+          – Discrete random variables (2.1).
+          – Binomial (3.1), geometric & negative binomial (3.2)
+                                                4
+
+
+         – Poisson (3.4), multinomial (3.5), hypergeometric (3.3).
+         – Expected value (2.3).
+  IV. Continuous Random Variables (4 lectures)
+         – Continuous random variables (2.2).
+         – Uniform (4.1), exponential (4.2), Gamma (4.3), Weibull (4.4), beta (4.5).
+         – Expected value (2.3).
+         – Variance (2.4).
+         – The Normal distribution (5.1–5.3).
+         – Joint random variables (2.5).
+   V. Descriptive Statistics (1 lecture)
+         – Data presentation, sample statistics (6.1–6.3).
+  VI. Statistical Estimation (2-3 lectures)
+         – Point estimates, sampling distributions (7.1–7.3)
+ VII. Inferences on one Population Mean, Two Population Means, and Proportions (6-7
+      lectures)
+         – Confidence intervals (8.1), hypothesis testing (8.2)
+         – Paired samples (9.2), independent samples (9.3)
+VIII. Simple Linear Regression (4 lectures)
+         – Fitting a regression line (12.1 and 12.2), residual analysis (12.7)
+         – Variable transformations (12.8)
+         – Inferences on the slope and regression line (12.3 and 12.4).
+         – Prediction intervals (12.5)
+  IX. The Analysis of Variance (1 lecture) (11.1)
+                                               5

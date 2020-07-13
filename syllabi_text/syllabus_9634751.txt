@@ -1,0 +1,68 @@
+             Math 361K - Introduction to Real Analysis (86365)
+                                              Peter Burton
+                                   pjburton@math.utexas.edu
+Class time and location
+Monday-Friday 10:00 am - 11:30 am
+RLM 7.114
+Office hours
+Tuesday and Friday 11:30 am - 12:30 pm
+RLM 10.108
+Prerequisites
+Consent of the undergraduate adviser, or two of the following courses with a grade of at least C- in each:
+Mathematics 325K or Philosophy 313K, Mathematics 328K, Mathematics 341
+Textbook
+Primary text
+Instructor’s notes posted on Canvas.
+Secondary text
+Introduction to Real Analysis
+R.G. Bartle and D.R. Sherbert
+Fourth edition
+Lectures
+Students are encouraged to attend all lectures. However, attendance will not be counted toward the final
+grade.
+Course description
+This is a theoretical class, and rigorous proof will play a central role in both the lectures and the assess-
+ments. The overall goal is to achieve a precise logical understanding of the fundamental concepts underlying
+calculus, and to learn how to construct valid proofs related to these concepts. When solving the problems
+on assessments you will be expected to carefully justify all claims, either by proving them directly or by a
+specific citation.
+                                                        1
+
+
+Grade determination
+There will be one midterm exam and one final exam, as well as weekly homework. The midterm exam will
+be during class time on Thursday, June 28. The date for the final exam will be set by the registrar.
+The final grade will be determined by 45% for homework, 20% for the midterm exam and 35% for the
+final exam.
+Letter grades will be given as follows:
+    • 90-100: A
+    • 87-90: A-
+    • 84-87: B+
+    • 78-84: B
+    • 75-78: B-
+    • 70-75: C+
+    • 65-70: C
+    • 60-65: C-
+    • 50-60: D
+    • 0-50: F
+The grading scale may be adjusted in students’ favor depending on the results of assessments.
+Assessment policy
+The homework will be due at the beginning of class on Thursday. The first homework will be due on Thurs-
+day, June 12. There will be no homework assigned for the week of the midterm exam. You may discuss the
+homework with your classmates, but you must write up your own solutions.
+The homework will be posted on Canvas by 2 pm on Thursday. Each homework will be based on mate-
+rial presented before the end of Monday’s class in the week it is due. Each student will be allowed one
+week-long extension for a homework assignment. Please inform me by email if you would like to use the
+extension for a particular week. Otherwise a valid reason will be required for late submissions.
+Accommodations
+The University of Texas at Austin provides upon request appropriate academic accommodations for qualified
+students with disabilities. For more information, contact the Office of the Dean of Students at (512) 471 6259.
+This includes accommodation for mental health issues. Students who would like mental health support
+are encouraged to visit the Counseling and Mental Health Center on the 5th floor of the Student Services
+                                                       2
+
+
+Building or to call (512) 471 3515.
+We will make accommodation for religious holidays. If you will miss an exam due to religious or medi-
+cal reasons, please let me know as soon as possible so that a make-up exam can be scheduled.
+                                                      3

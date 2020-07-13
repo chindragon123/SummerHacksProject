@@ -1,0 +1,429 @@
+                                         EE 333T Syllabus
+                                    Summer 2019 — Barcelona
+Instructor:         Dr. Bill Fagelson (bfagelson@mail.utexas.edu)
+TA:                 Leah Butterfield (l.butterfield10@gmail.com)
+Classroom:          CIEE, Girona room
+EE 333T teaches students about the communication process and its relationship to
+professionalism and the practice of engineering design. The class presents writing and presenting
+as iterative processes that require planning, drafting, revising, and outside input.
+COURSE OBJECTIVES
+Engineering Communication is based on a simple premise: all the technical knowledge and skill
+that students acquire in their education will be wasted if they are not able to explain their work
+and ideas to potential employers, colleagues, managers, and clients in writing and orally. The
+goal of the course is for students to practice and improve their ability to do the following:
+    Writing and Speaking
+        • Generate written reports that conform to strict standards of content and format
+        • Develop an effective and efficient communication writing and presentation style
+        • Identify audiences for technical communication
+        • Properly cite sources and understand what constitutes plagiarism
+        • Appreciate writing and speaking as processes that require time and revision
+    Career Development and Professionalism
+        • Produce effective job-related documentation, including resumes and cover letters
+        • Communicate effectively with potential employers at career fairs, in interviews, and in
+           other contexts
+        • Demonstrate effective self-management (including time-management)
+        • Take initiative in problem-solving
+        • Accept responsibility for understanding and following course policies
+        • Adopt a professional tone and etiquette when communicating with others
+    Engineering Design
+        • Describe emerging engineering technologies and issues
+        • Understand the need for, and limitations of, standards related to engineering
+        • Understand engineering design as an iterative process
+        • Recognize the role of problem-solving and critical thinking in the design process
+
+
+    Ethics, Leadership, and Collaboration
+        • Demonstrate knowledge of professional codes of ethics and understand the role of
+           professional societies
+        • Recognize existence of ethical issues in case studies
+        • Consider the ethical implications of an engineering career
+        • Work effectively with people bringing different skills, expertise, and perspectives
+        • Participate in team building and develop effective methods for team management
+        • Sustain a long-term design project on a multidisciplinary team
+Writing Flag Course
+This course carries the Writing Flag. It is designed to give students experience with writing in an
+academic discipline. Expect to write regularly during the semester, complete substantial writing
+projects, and receive feedback to help you improve your writing. A substantial portion of your
+grade comes from your written work. You will also have the opportunity to revise some
+assignments and will read and discuss peers’ work. Writing Flag classes meet the Core
+Communications objectives of Critical Thinking, Communication, Teamwork, and Personal
+Responsibility, established by the Texas Higher Education Coordinating Board.
+Ethics Flag Course
+This course carries the Ethics Flag. It is designed to equip you with skills that are necessary for
+making ethical decisions in your adult and professional life. You should therefore expect a
+substantial portion of your grade to come from assignments involving ethical issues and the
+process of applying ethical reasoning to real-life situations.
+COURSE TEXTS
+This course does not require you to purchase any traditional texts, but course materials include a
+required (free) Grammarly subscription, two recommended texts (accessible free online), and
+other readings available in Canvas.
+Required Grammarly Registration
+In order to maximize the feedback we can provide, we require all students to register for and use
+Grammarly (www.grammarly.com), an automated proofreading system. This service is free;
+although you are welcome to pay for the Premium version, all we require is the free version.
+More information will be available in Canvas (also see submission policies below).
+Recommended Reference Texts
+On questions relating to formatting, mechanics, and usage not covered in the ECE Style Guide
+(see below), defer to the standards for mechanics and spelling in the following:
+    1. Merriam-Webster’s Collegiate Dictionary (11th ed)
+    2. The Chicago Manual of Style (17th ed)
+Both are available online (links in Canvas); however, they are valuable reference tools that
+should be useful well beyond this class if you decide to purchase them once back in the U.S.
+                                                 2
+
+
+Readings in Canvas
+Additional required readings (listed in the syllabus below and to be announced), as well as a
+number of relevant recommended readings, will be available as pdfs or web links in Canvas
+Modules. The course schedule lists assigned Module titles, and the Modules themselves indicate
+required versus recommended readings.
+ASSIGNMENTS
+This session you will complete a series of Major Assignments, for which you will receive
+substantial feedback, and several Action Items, smaller assignments that allow regular practice in
+communication and that will receive less substantial feedback. You are expected to complete
+all of these, but—as explained below in the assessment policies—completion may take more
+than one attempt.
+     Note: Unless individual assignment instructions state otherwise, all written assignments
+            must follow the “ECE Style Guide,” available in Canvas. If you are unclear on
+            assignment expectations or formatting expectations, it is your responsibility to seek
+            clarification in class, during office hours, or via e-mail.
+Major Assignments
+Major assignments include individual and team assignments, and a combination of presentations
+and written assignments A description of each major assignment, and associated material, will be
+available in Canvas, and you will have opportunities to discuss assignments in class. Each
+written Major Assignment has an accompanying rubric that the instructor or TA will use to
+provide feedback.
+Action Items
+Action Items are smaller assignments meant to provide regular practice in communication and/or
+reflection. Some are simply actions (e.g., submission of a draft). There are no rubrics associated
+with Action Items, and those assignments will receive more limited (sometimes no) feedback. A
+list of all Action Items is in Canvas, and descriptions appear in associated Canvas Assignments.
+COURSE PARTICIPATION
+Active and thoughtful participation is important to both your learning process and that of other
+students, in that it contributes to a productive learning environment. In short, students learn by
+doing, and the worst way to develop as a communicator—and as a student more generally—is to
+be passive. In general, participation means engaging fully in the course—that is, more than
+simply arriving on time and paying attention. There will be regular opportunities to participate,
+but the following are common ways to engage fully in the course:
+       1. Show up on time and prepared at the start of class
+       2. Ask questions and speak up regularly in class, via Canvas, and by e-mail
+       3. Be prepared to discuss assigned reading (with readings in hand)
+       4. Bring requested materials to class
+       5. Volunteer for class exercises and activities
+       6. Use office hours appropriately to seek feedback, advice, or assistance
+       7. Providing thoughtful feedback to peers and instructor
+       8. Adhere to course policies, including those related to technology use
+                                                   3
+
+
+THE LEARNING RECORD
+This course uses the Learning Record (LR) for assessment. You will help determine your course
+grade by monitoring your progress against the grading criteria over the session, documenting
+your development and achievements in a portfolio of work, frequent self-assessments and
+observations, and a formal reflection at the beginning, middle, and end of the semester.
+You will assess your work and progress within three Course Strands (broad-level goals that
+cover a variety of skills): Written Communication, Public Speaking, and Professionalism. In the
+LR, you will gauge your experience in those strands across five Dimensions of Learning
+(measures that are common to many different learning experiences for many “kinds” of
+learners): Confidence and Independence, Knowledge and Understanding, Skills and Strategies,
+Use of Prior and Emerging Experience, and Reflection.
+After reviewing your argument, I will either agree with or revise your self-assessment on the
+basis of the evidence provided in your LR and in your performance and activity related to class.
+If we are in disagreement after my review, we will discuss it individually until we come to an
+agreement. You will submit your LR at the beginning, midterm, and end of the semester, but you
+are welcome to meet with me to brainstorm strategies for success in the course.
+Table 1 on the next page lists general criteria for the final grade assessments. These descriptions
+are broad, and each individual’s performance will fall along a spectrum, with plus grades at the
+high end of any category, and minus grades at the low end.
+                                      Table 1. Grading Criteria
+     A Excellent. Represents outstanding engagement in all course activities; all assigned work
+          is completed, on time, with exceptionally high quality. There are no absences or late
+          arrivals to class. There is evidence of significant development across the five dimensions
+          of learning. The LR at this level demonstrates activity that goes significantly above and
+          beyond the standard required coursework in one or more strands.
+     B Above Average. Represents good engagement in all course activities; all assigned work
+          is completed, most or all on time, with consistently high quality in coursework. There are
+          few absences or late arrivals to class. There is evidence of marked development across
+          the five dimensions of learning.
+     C Average. Represents fair engagement in all course activities; all assigned work is
+          completed, not always on time, with generally fair quality overall in coursework. There
+          are several absences and/or numerous late arrivals. Evidence of some development
+          across the five dimensions of learning.
+     D Below Average/Requires Intervention. Represents uneven engagement in course
+          activities; not all assigned work is completed, not all completed work is on time,
+          excessive absences and late arrivals, and inconsistent quality in coursework. Evidence of
+          development across the five dimensions of learning is partial or unclear.
+     F Insufficient/Unacceptable. Represents minimal engagement in course activities, with
+          serious gaps in assigned work completed, frequent late submissions, limited attendance,
+          or very low quality in coursework. Evidence of meaningful development is not available.
+    Note: Students must earn a C– or higher in EE 333T to continue to EE 364D/E
+                                                  4
+
+
+PROFESSIONALISM IN CLASS COMMUNICATION
+Because this class is about professional skills more generally, and professionalism itself is one of
+the course strands, you will find opportunities daily to practice maintaining a professional
+environment in your classroom behavior as well as in your other informal communication (e-
+mail, face-to-face communication.
+Good participation includes maintaining a professional environment. Our class involves a
+lot of risk-taking and self-revelation, so it is crucial that everyone respect and support each other.
+One way to do this is to respect each other’s views. Debate is encouraged, but it is possible to
+discuss contentious ideas without being rude or disrespectful. Another is to be a supportive,
+attentive audience when someone is presenting. Whether arriving late to class, being distracted
+by electronic devices (see technology policy below), or being a distraction yourself through
+talking or other activity, be aware of the possible disruption your behavior can have on others,
+particularly students who are presenting.
+You should also strive to be professional in all of your course-related communication (with
+instructors and with classmates), not just in structured assignments. Review the reading on e-
+mailing professors (assigned for the start of the semester) as well as following the general
+approaches to memos and other internal communication we discuss in class. Also be sure to read
+the policies below on e-mail in 333T. Remember that these guidelines for professionalism extend
+to your communication with classmates, especially partners on team projects.
+GENERAL COURSE POLICIES
+We have developed policies for EE 333T to ensure that all students work according to the same
+standards and to improve course management. Some may seem arbitrary, but each has a purpose.
+Understanding and adhering to organization policies is also an important lesson in professional
+development, one your manager will assume you have learned by the time you are in industry.
+   Note: These policies are not designed to ask the impossible. Bear in mind the following:
+       • If you foresee any trouble adhering to any policy below, speak to the instructor
+           about reasonable accommodations.
+       • If any policy below is unclear, you are responsible for seeking clarification in class,
+           in office hours, or via e-mail. Otherwise, we assume they are clear.
+       • If you do not have time to ask but feel you have good reason to violate a policy,
+           use your common sense and judgment; however, be professional and acknowledge
+           and explain that violation, promptly, when it occurs.
+1. Attendance
+    Regular attendance is absolutely mandatory and necessary if you wish to earn an A in
+    the class. Much of the content of the course is conveyed through in-class discussions, which
+    cannot be replicated online. Furthermore, work on assignments, exercises, and possible
+    quizzes in class do factor into your final grade (via the LR) and cannot be made up at a later
+    date. If you must miss class, let Dr. Fagelson know as soon as you know you will be absent.
+    Lateness is also not acceptable.
+                                                   5
+
+
+   We will follow the CIEE policies for attendance, adapted to the use of the LR:
+       Students are expected to attend all scheduled class sessions on time and prepared for the
+       day’s class activities. CIEE does not distinguish between justified or unjustified absences,
+       whether due to sickness, personal emergency, inevitable transport delay and/or other
+       impediments. You are considered responsible of managing your own absences. Please
+       keep in mind that exams, assignment submission dates, presentations and any other
+       course work deadlines will not be changed.
+       No academic penalty will be applied if students miss up to 2 class sessions. If students
+       miss additional classes, the highest grade available for the final grade estimate will adjust
+       downward. A student who misses 3 class sessions in total will not be able to earn
+       anything higher than a B+, and a student who misses 4 class sessions in total will not be
+       able to earn anything higher than a B. Students will automatically fail the course if
+       they miss more than 20% of total class hours (i.e., if they exceed 4 absences).
+       For students who miss up to 20% of the total course hours due to extenuating
+       circumstances, the Faculty Leader/Academic Director may allow for exceptions to the
+       local attendance policy based on documentation such as proof of bereavement, religious
+       observances, hospitalization, etc.
+       Students arriving more than 10 minutes late to class will be considered absent for the day.
+2. Canvas
+   This class uses Canvas to distribute course materials, communicate grades, and manage
+   student submissions. Be aware of the following:
+       • Prof. Fagelson and your TA often use Canvas to e-mail, so make sure the e-mail
+           address listed for you in Canvas is correct and one you check regularly.
+       • We use the Gradebook to report and record completion grades. Please let us know if
+           you see something reported incorrectly there (i.e., it does not reflect what you have
+           seen in hard copy or in conversation with us).
+       • Some of our feedback in Canvas SpeedGrader appears as annotations on student
+           submissions. These inline comments in SpeedGrader are not immediately visible, so
+           students will need to click through to see them. (See Canvas for more.)
+   We have done our best to make information accessible in Canvas; however, we are imperfect
+   people, and Canvas is an imperfect technology. If you see a problem or missing content in
+   Canvas, please let both Prof. Fagelson and the TA know immediately.
+3. Assignment Submission
+   Given the challenges of printing while abroad, most assignments will be due via Canvas
+   only; however, some workshopping activities are best served with a hard copy. Printing is
+   available in the CIEE offices, and Prof. Fagelson will indicate when hard copies are needed.
+                                               6
+
+
+   For soft copies submitted to Canvas. Please name files using your last name, or your team
+   name, followed by the document type (e.g., “Fagelson_Resume.docx”). Doing so will make it
+   much easier for Prof. Fagelson and the TA to manage submissions offline.
+   In addition, written Major Assignments (except for any slide submissions) must be
+   accompanied by a pdf of a Grammarly performance report (explanation and instructions
+   available in Canvas). This is true for re-submissions as well.
+   Timely submission of all assignments is necessary if you wish to earn an A in the class.
+   You are almost always (see below) permitted to submit an assignment late and should not
+   assume we do not want it just because it is late.
+   Important: The start of class on Tuesday of the final week is the deadline for late
+                 submission of assignments, including late resubmissions (see below).
+4. Assessment of Assignments
+   Major Assignments and Action Items will not receive a traditional letter grade but will
+   receive a basic completion grade. A submission may receive an “incomplete” if it falls below
+   acceptable standards and/or demonstrates insufficient effort. (Note: an unsubmitted
+   assignment will not receive even an “incomplete”; rather, it will be left ungraded, to
+   distinguish it from those “incompletes.”)
+   On team assignments, the entire team will receive the same completion grade; however, we
+   reserve the right to provide a separate “incomplete” to a student if it is clear that they did not
+   contribute in any meaningful way to the assignment.
+   You may revise any assignment (except for in-class presentations and the LR) up to one
+   week after the return of feedback, subject to the following policies:
+       a. Revised “Incomplete” assignments submitted after that deadline will be assessed
+           fully but counted as late. Be aware that “incompletes” are by definition not completed
+           assignments (akin to a missing assignment), so it is in your interest to revise them.
+       b. Revised “Complete” assignments will be accepted only up until that one-week
+           deadline for reassessment, though you are free to bring revised material into office
+           hours to discuss the material in person beyond that one week.
+       c. The Tuesday of the final week (see schedule) will be a hard deadline for any
+           resubmission, or at the one-week deadline above, whichever comes first. Notice that
+           some assignments may come too late for resubmission. You may wish to submit those
+           assignments sufficiently early as a way of leaving time for a resubmission.
+       d. You must provide an explanation via e-mail (to the person who provided the
+           original feedback) of the revisions you have made for the resubmission, including a
+           clear indication of the feedback to which you are responding.
+   Note: We want you to discuss feedback on assignments with us, but you must wait until at
+          least the next day to do so. This time allows you to digest our comments and to think
+          about the questions they raise. Discuss the feedback from the TA with the TA first, but
+          you may follow up with Prof. Fagelson if there are remaining questions.
+                                               7
+
+
+5. Office Hours
+   Both Prof. Fagelson and the TA will arrange some office hours in CIEE, as opportunities for
+   you to ask questions and to consult about your work. You are welcome to speak with either
+   for any assignment. If you want to discuss feedback on a submission, it makes much more
+   sense to visit the person who supplied that feedback and bring the feedback with you.
+6. E-mail
+   The best way to contact us outside of class is via e-mail. We try to be responsive but cannot
+   always respond quickly. The earlier you contact us, the sooner we are likely to respond.
+       NOTE: These policies concern class-related communication only. For program-related
+                 concerns (e.g., illness, lost items, etc.), you should use WhatsApp to reach Prof.
+                 Fagelson, or the TA, more quickly. By the same token, do not use WhatsApp to
+                 ask questions about assignments or class policies.
+   When you do contact Prof. Fagelson or your TA by e-mail, keep in mind the suggestions for
+   sending e-mail, described in the course reading from the first day of class. Your e-mails are a
+   chance to practice professionalism, and we may use our responses as an opportunity to
+   provide feedback on e-mailing etiquette.
+   Consider the following principles of good self-management (an element of professionalism):
+       1. If you are e-mailing Prof. Fagelson or your TA, make sure any questions are those
+           you cannot answer yourself. Some questions may be answered in the syllabus or on
+           Canvas, so check there first. Ask classmates if you think they know the answer. It is
+           not that we do not want to help, but unnecessary e-mails are not a good use of our
+           time, given that we have a large number of students to serve.
+       2. If you anticipate a problem (e.g., you will miss class or miss a deadline), contact
+           Prof. Fagelson or your TA early. Withholding that information only makes the
+           problem worse, often creating extra work for them. Nobody will be angry with you
+           for absences or late submissions—there are policies to address those problems—but
+           they will be upset if they need to take the time to track you down.
+       3. If you are e-mailing about a problem, be a part of the solution. When possible, be
+           clear how you plan to address the problem, think about what information Prof.
+           Fagelson or your TA might need to help you, and make clear if there is anything you
+           need from them to address the problem yourself.
+       4. Apply those principles to problem-solving with classmates, especially partners on the
+           team project.
+7. Technology Use in Class
+   We ask you to bring electronic devices (computer or tablet) to class for regular in-class work
+   and exercises, and we will let you know when it is appropriate to use them. That said, part of
+                                                 8
+
+
+    being a present, respectful member of the class means abstaining from the use of
+    electronic devices and other distractions during normal class discussions. If this becomes
+    a pattern, we will have a conference. Keep in mind that
+        • Research shows taking notes by hand produces greater retention versus on a computer.
+        • Research also shows that devices are also a distraction to those around you.
+        • Using electronic devices for other work or activities during class time renders you
+            effectively absent from the class and is a sign of disrespect to others in the room.
+        • It is particularly disrespectful to use them during student presentations, and we will
+            ask you directly to turn your device off in those instances.
+UNIVERSITY OF TEXAS POLICIES
+The University of Texas has its own policies, which both you and the department must adhere to.
+Students With Disabilities
+Students with disabilities may request appropriate academic accommodations from the Division
+of Diversity and Community Engagement, Services for Students with Disabilities, 471-6259
+(http://www.utexas.edu/diversity/ddce/ssd/).
+Accommodations for Religious Holidays
+According to UT policy, you must notify the instructor of your pending absence at least 14 days
+prior to the date of observance of a religious holy day. If you must miss a class, work
+assignment, or project in order to observe a religious holy day, you will be given an opportunity
+to complete the missed work within a reasonable time after the absence.
+Title IX
+Prof. Fagelson and your TA are both Mandatory Reporters for Title IX concerns. We want you to
+feel free to speak with us about any issues related to sexual harassment, sex discrimination,
+exploitation, or intimidation, but be aware that both of us are required to report to the University
+any information students share with us that may fall under a potential Title IX violation. The
+University will not compel you to speak with them, but they will follow up with any respondents.
+Academic Dishonesty
+In this course, plagiarism is defined in its broadest sense, as any of the following, whether
+committed intentionally or unintentionally:
+    ● Representing as your own work any material obtained from another source, regardless
+        how or where you acquired it.
+    ● Using verbatim material (e.g., exact words) without proper attribution (or credit). Other
+        types of material can be plagiarized as well, such as ideas or even sentence structure.
+    ● Merely changing a few words or rearranging several words or sentences is plagiarism,
+        not paraphrasing. Remember, too, that even a well-paraphrased idea must be cited.
+    ● Collusion, or turning in individual assignments not completed by you. Collaboration on
+        team assignments is not the same thing as collusion. Likewise, simply receiving feedback
+        from others is also not the same thing as collusion.
+In addition, it is your responsibility to be familiar with and abide by the UT Honor Code. Failure
+to do so may mean a failing grade in the class and removal from the program
+                                                 9
+
+
+                                                              COURSE SCHEDULE
+The schedule for EE 333T includes subjects/activities for class, assignment deadlines, materials to bring to class, and reading
+assignments. It is subject to change, although deadlines will generally be moved only to a later date.
+Notes on readings
+    1. We direct you to read assignment instructions for specific class meetings, but we encourage you to read ahead. It is up to
+         you to be sure you understand upcoming work and deadlines.
+    2. Some modules may contain “Recommended Readings.” These items are not required, but they do provide information that
+         will help you contribute to discussion or complete your assignments more effectively.
+Complete each required reading before the class meeting for which it has been listed; we will use these readings for class
+discussion and/or exercises
+ Monday                                Tuesday                         Wednesday                          Thursday
+ 5/27                                  5/28                            5/29                               5/30
+                                                                                                          Introduction
+                                                                                                          Effective Communication
+                                                                                                          The Writing Process
+                                                                                                          DUE (start of class): LR Part A
+                                                                                                          READ: Canvas Module
+ 6/3                                   6/4                             6/5                                6/6
+ Speaking and Presenting               Expertise Presentations         The Revision Process               Ethics and Engineering
+ Structure
+ Reverse Outlining                     DUE (in class): Expertise       DUE (start of class): Presentation DUE (start of class): Expertise
+                                         Presentation                    Self-Assessment (AI)               Presentation Peer Review (AI)
+ DUE (start of class): Professional E-
+   mail (AI)                                                           DUE (start of class): Article      DUE (end of class): Article
+                                                                         Summary (draft)                    Summary
+ BRING: Scholarly Article (see
+   instructions for Article Summary)                                   READ: Canvas Module                READ: Canvas Module
+ READ: Canvas Module
+
+
+Monday                              Tuesday                              Wednesday                            Thursday
+6/10                                6/11                                 6/12                                 6/13
+                                    Collaboration                        Group Activity (TBA)                 Group Activity Presentations
+          BANK HOLIDAY              Ethics and Design
+                                                                         DUE (start of class): Ethical Design DUE (in class): Group Activity
+         (class does not meet)                                             Memo (AI)                             Presentation (AI)
+                                    READ: Canvas Module
+6/17                                6/18                                 6/19                                 6/20
+Project Management Tools            Research Methods                     Presenting Data                      Data Set Peer Reviews
+Team Planning
+Team Forming and Norming            DUE (end of class): Team Compact     DUE (start of class): LR Part B      DUE (end of class): Data Set
+                                       (AI)
+DUE: Team Proposal (AI): will write                                      READ: Canvas Module                  BRING: Data Set (draft)
+    in class                        READ: Canvas Module
+READ: Canvas Module
+6/24                                6/25                                 6/26                                 6/27
+                                    Using Graphics                       Designing Power Point                Style and Mechanics Refresher
+          BANK HOLIDAY                                                                                        Peer Review: Proofreading
+                                                                         DUE (start of class): Project Report
+         (class does not meet)                                             (preliminary)                      DUE (in class): Technical
+                                                                                                                  Presentation
+                                                                         READ: Canvas Module
+7/1                                 7/2                                  7/3                                  7/4
+Ethics and the Job Search           Team Peer Reviews                    Team Time                            Team Presenting
+READ: Canvas Module                 DUE (start of class): Project Report                                      DUE (end of class): Project Report
+                                        (draft for peer review)                                                 (final)
+7/8                                 7/9                                  7/10                                 7/11
+                                    Team Project Time                    Project Presentations                Debrief and Decompress
+Team Project Time
+                                    DUE (start of class): Intercultural  DUE (in class): Project Presentation DUE (midnight): LR Part C
+                                        Communication Memo (AI)
+                                                                                                              READ: Canvas Module

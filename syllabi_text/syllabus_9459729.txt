@@ -1,0 +1,419 @@
+                    ANT 324L: Development, Security, and Society
+                    Jason Cons: SAC 5.138; jasoncons@utexas.edu; 512.232.3832
+                           Tuesdays & Thursdays: 12:30-2:00 PM, RLP 0.112
+                       Office Hours: Tuesdays, 2:00-4:00 pm or by appointment
+So if, as it seems, talk about security is often unintelligible, then perhaps we need to ask after the
+conditions of this unintelligibility. — Mark Neocleous, Critique of Security
+This course provides students with analytic tools to make sense of the relationship between
+security, international development, and society. Specifically, it makes two different inquiries
+into this relationship. The first is historical. This course investigates a specific moment: the
+period following the Cold War and extending to the present when meaningful distinctions
+between the notion of “development” and “security” began to break down. To this end, the
+course explores the various dynamics of security paradigms such as “human security,”
+“environmental security,” “the development-security nexus” and other terms that describe a
+period in which the question of security is increasingly focused on individuals, as opposed to on
+states. The course explores the implications of this shift from state to individual in a range of
+different contemporary contexts. Second, this course explores debates that have emerged in
+critical security studies about what this shift means and what it helps us to understand about the
+relationships between states and individuals, between security and development, and between
+the Global North and the Global South. Through a series of ethnographic studies, the course
+explores the concept of “empowerment” in development, new forms of humanitarian
+                                                                                                      1
+
+
+intervention, debates around climate security, vital-systems security, the architecture of
+security, and more. In doing so, the course introduces students to a series of key sites where
+new forms of security, insecurity, and policing measures are being tested and contested around
+the globe.
+                                      Course Teaching Assistant
+•    Kenza Yousfi: kenzayousfi@utexas.edu
+                                       Assignments and Grades
+The following is a breakdown of how I will evaluate your performance in the class. More in-depth
+descriptions, rubrics, and prompts will be provided with each assignment.
+•    Class Participation: 15% — Active, informed, and respectful participation in section discussions and
+     small group work
+•    Framing Papers: 20% — You will write four brief framing papers over the course of the semester.
+•    Mid-Term Exam: 30% — There will be a mid-term exam covering core concepts in the course.
+•    Final Project: 35% — There will be a final paper assignment that asks you to bring course materials to
+     the analysis of a case. The case materials will be provided by the instructor.
+I use the following cutoffs for grade assignments:
+Grade Cutoffs
+         A                 94%
+         A-                90%
+         B+                87%
+         B                 84%
+         B-                80%
+         C+                77%
+         C                 74%
+         C-                70%
+         D                 65%
+         F                 <65%
+Course Format
+This course combines lectures, discussions, and small group work. We will cover a range of different
+materials in a number of different ways. I expect your full, active, and professional participation in class
+both class and sections. This means:
+. Attending all class meetings
+. Showing up on time (persistently showing up late will negatively affect your participation grade)
+. Respectfully engaging with the course instructor, TA, and your peers
+. Being responsible for all of the assigned reading and materials: this means that if you miss a class, it is
+   your responsibility to do the reading and get class notes from one of your peers
+Learning Objectives/ Goals:
+                                                                                                              2
+
+
+Upon completion, students will be able to:
+   • Understand and explain the origins of key debates around contemporary security
+   • Explain a series of key theoretical and analytical concepts central to the anthropology of security
+   • Identify and analyze key challenges and complexities related to addressing speciﬁc problems
+   • in the anthropology of security
+   • Analyze and understand different research approaches to the study of security and insecurity
+   • (e.g., ethnographic vs. macro-political analysis)
+   • Communicate clearly about contemporary relationships between security, development, and society
+       in both spoken and written forms.
+                                       Part 1: Opening Salvos
+Week 1: Course introduction
+January 22: Introduction: What is Development? What is Security? and What is Society?
+January 24: What is an Anthropology of Security?—Split Discussion
+   • Daniel Goldstein. 2010. “Toward a Critical Anthropology of Security.” Current
+       Anthropology.
+   • Limor Samimian-Darash and Meg Stalcup. 2017. “Anthropology of Security and Security
+       in Anthropology: Cases of Counterterrorism in the United States.” Anthropological
+       Theory.
+                     Part 2: Historicizing the Present—Human Security
+Week 2: Histories of Human Security
+January 29: The Political History of Structural Adjustment
+   • Philip McMichael. 2012. “Instituting the Globalization Project.” In Development and Social
+       Change: A Global Perspective. Sage.
+January 31: The Decade of Humanitarian Failure
+   • GREEN GROUP FRAMING PAPERS DUE JANUARY 30 BY 11:59PM
+   • Kaldor, M. 2007. “A Decade of Humanitarian Intervention, 1991-2000.” In Human
+       Security. Polity
+Week 3: The “Human Security” Paradigm
+February 5: The Call for Human Security
+   • Amartya Sen. 1999. “Introduction” and “The Perspective of Freedom.” In Development as
+       Freedom. Anchor.
+   • Haq, M. 1995. “New Imperatives of Human Security. In Reflections on Human
+       Development. Oxford.
+                                                                                                         3
+
+
+February 7: Who is the “Human” in Human Security?
+   • RED GROUP FRAMING PAPERS DUE FEBRUARY 6 BY 11:59PM
+   • Mark Duffield. “Human Security and Global Danger.” In Development, Security, and
+       Unending War. Polity.
+       Part 3: Theorizing Security (or What We Talk about When We Talk Security)
+Week 4: Security Frameworks
+February 12: Biopower/Biopolitics
+   • Michel Foucault. 2003. “Lecture 11: March 17, 1976.” In Society Must Be Defended.
+       Picador.
+February 14: Security as Speech Act
+   • BLUE GROUP FRAMING PAPERS DUE FEBRUARY 13 BY 11:59PM
+   • Barry Buzan (et al). “Security Analysis: Conceptual Apparatus.” In Security: A New
+       Framework for Analysis. Reinner.
+Week 5: Security/Secrecy/Affect
+February 19: Security as/and Secrecy
+   • Joe Masco. 2010. “‘Sensitive but Unclassified’: Secrecy and the Counterterrorist State.”
+       Public Culture.
+February 21: Security as Affect and Ritual Practice—Split Discussion
+   • GREEN GROUP FRAMING PAPERS DUE FEBRUARY 20 BY 11:59PM
+   • Deepa Kumar. 2017. “See Something, Say Something: Security Rituals, Affect, and US
+       Nationalism from the Cold War to the War on Terror.”
+   • Joe Masco. 2014. “Biosecurity Noir: WMDs in a World Without Borders.” In The Theater
+       of Operations: National Security Affect from the Cold War to the War on Terror.
+Week 6: Anticipating the Future
+February 26: Anticipation as a Mode of Governance
+   • Vincanne Adams, Michelle Murphy, and Adele Clarke. 2009. “Anticipation:
+       Technoscience, Life, Affect, Temporality.”
+   • Ben Anderson. 2010. “Preemption, Precaution, Preparedness: Anticipatory Action and
+       Future Geographies.” Progress in Human Geography.
+February 28: Emergencies and Vital Systems—Split Discussion
+   • RED GROUP FRAMING PAPERS DUE FEBRUARY 27 BY 11:59PM
+   • MID-TERM EXAM DISTRIBUTED: DUE MARCH 7 AT 11:59PM
+                                                                                              4
+
+
+  •   Stephen Collier and Andrew Lakoff. 2015. “Vital Systems Security: Reflexive Biopolitics
+      and the Government of Emergency.” Theory, Culture, and Society.
+  •   Jerome Whittington. 2016. “Modernist Infrastructure and the Vital Systems Security of
+      Water: Singapore’s Pluripotent Climate Futures.” Public Culture.
+ Part 4: Locating Security—Development, Empowerment, and the Fortune at the
+                                  Bottom of the Pyramid
+Week 7: The Concept of “Empowerment”
+March 5: Cultures of Market Led Development
+  • Julia Elyachar. 2002. Empowerment Money: The World Bank, Non-Governmental
+      Organizations, and the Value of Culture in Egypt.” Public Culture.
+March 7: Empowerment as Development
+  • Ardhana Sharma. 2006. “Crossbreeding Institutions, Breeding Struggle: Women’s
+      Empowerment, Neoliberal Governmentality, and State (re)Formation in India. Cultural
+      Anthropology.
+Week 8: Fortunes at the Bottom of the Pyramid
+March 12: Social Business—Money from the Poor?
+  • CK Prahalad. 2010. “The Market at the Bottom of the Pyramid.” In The Fortune at the
+      Bottom of the Pyramid: Eradicating Poverty through Profits. Wharton.
+  • Muhammad Yunus. 1999. “A Bank for the Poor is Born.” In Banker to the Poor: Micro-
+      Lending and the Battle Against World Poverty. Public Affairs.
+March 14: Cracks in the Façade—Split Discussion
+  • BLUE GROUP FRAMING PAPERS DUE MARCH 13 BY 11:59PM
+  • Lamia Karim. 2011. “The Social Life of Debt.” In Microfinance and Its Discontents: Women
+      in Debt in Bangladesh.
+  • Jason Cons and Kasia Paprocki. “Contested Credit Landscapes: Microcredit, Self-Help and
+      Self-Determination in Rural Bangladesh.” Third World Quarterly.
+                   Part 5: Locating Security—New Humanitarianisms
+Week 9: The Humanitarian Present
+March 26: Humanitarian Management in the Development Security Nexus
+  • Vanessa Pupavac. 2012. “Global Disaster Management and Therapeutic Governance of
+      Communities.” In Development Dialogue—The End of the Development-Security Nexus?
+      The Rise of Global Disaster Management.
+                                                                                              5
+
+
+   •     Mark Duffield. 2012. “Risk Management and the Bunkering of the Aid Industry.” In
+         Development Dialogue—The End of the Development-Security Nexus? The Rise of Global
+         Disaster Management.
+March 28: Complex Emergency on the Ground—Split Discussion
+   • GREEN GROUP FRAMING PAPERS DUE MARCH 27 BY 11:59PM
+   • Elizabeth Dunn. 2012. “The Chaos of Humanitarian Aid: Adhocracy in the Republic of
+         Georgia.” Humanity.
+   • Vivian Choi. 2015. “Anticipatory States” Tsunami, War, and Insecurity in Sri Lanka.”
+         Cultural Anthropology.
+Week 10: Military Humanitarianisms
+April 2: “Soft” Power
+   • Inderpal Grewal. 2017. “American Humanitarian Citizenship: The ‘Soft’ Power of Empire.”
+         In Saving the Security State: Exceptional Citizens in Twenty-First Century America. Duke
+         University Press.
+April 4: “Soft” Power (but with Guns)
+   • RED GROUP FRAMING PAPERS DUE APRIL 3 BY 11:59PM
+   • Peter Singer. 2010. “Strange Brew: Private Military Contractors and Humanitarians.” In
+         Disaster and the Politics of Intervention. Columbia.
+               Part 6: Locating Security—Environmental & Climate Security
+Week 11: Securing Mother Nature
+April 9: Environmental Violence
+   • Excerpt: Robert Kaplan. 1994. “The Coming Anarchy.” The Atlantic.
+   • Nancy Peluso and Michael Watts. 2001. “Violent Environments.” In Violent Environments.
+         Cornell.
+April 11: Securitizing Climate—Split Discussion
+   • BLUE GROUP FRAMING PAPERS DUE APRIL 10 BY 11:59PM
+   • Carol Farbotko. 2010. “Wishful Sinking: Disappearing Islands, Climate refugees and
+         Cosmopolitan Experimentation.” Asia Pacific Viewpoint.
+   • Christian Parenti. 2011. “Last Call for Illusions.” In Tropic of Chaos: Climate Change and
+         the New Geography of Violence.
+Week 12: Development as Climate Security
+April 16: Thinking through Resilience and Adaptation—Split Discussion
+                                                                                                  6
+
+
+   •    Ben Orlove. 2009. “The Past, the Present and some Possible Futures of Adaptation.” In
+        Adapting to Climate Change: Thresholders, Values, Governance.
+   •    Jeremy Walker and Melinda Cooper. 2011. “Genealogies of Resilience: From Systems
+        Ecology to the Political Economy of Crisis Adaptation.” Security Dialogue
+April 18: Troubling the (Climate) Future—Split Discussion
+   • GREEN GROUP FRAMING PAPERS DUE APRIL 17 BY 11:59PM
+   • Kasia Paprocki. 2019. “All That is Solid Melts into the Bay: Anticipatory Ruination and
+        Climate Change Adaptation.” Antipode.
+   • Jason Cons. 2018. “Staging Climate Security: Resilience and Heterodystopia in the
+        Bangladesh Borderlands.” Cultural Anthropology.
+                    Part 7: Locating Security—Architectures of Security
+Week 13: Frontier Architectures
+April 23: Vertical Politics
+   • Eyal Weizman. Preface and Introduction. In Hollow Land: Israel’s Architecture of
+        Occupation. Verso
+April 25: Counterterror in Non-Places
+   • RED GROUP FRAMING PAPERS DUE APRIL 24 BY 11:59PM
+   • Mark Maguire and Réka Pétercsák. 2018. “Airports, From Vital Systems to Nervous
+        Systems.” In The Routledge Handbook of Anthropology and the City.
+Week 14: Walls
+April 30: Why Want Walls?
+   • Wendy Brown. 2010. “Desiring Walls.” In Walled States, Waning Sovereignty. Zone
+   • Reece Jones. 2016. “Borders and Walls: Do Barriers Deter Unauthorized Migration?”
+        Migration Policy Institute.
+May 2: Walls versus Walling
+   • RED GROUP FRAMING PAPERS DUE May 1 BY 11:59PM
+   • TBD
+                                       Course Conclusion
+Week 15: The Final Week
+May 7: Where Do We Go from Here?
+   • FINAL PAPER ASSIGNMENT DISTRIBUTED
+                                                                                              7
+
+
+May 9: Conclusion
+                                     Course Policies and Procedures
+Course readings and syllabus
+I believe that a course and its instructor should be adaptable. This means that readings and course
+activities may change to suite course developments, forward fruitful discussions, or to address student
+interests. For this reason, the readings in this syllabus should be regarded as provisional. For any given
+week, the readings will be available on Canvas.
+While readings may, from time to time change, the course policies and procedures listed in this syllabus
+will not. It is your responsibility to know them.
+Reading Policy
+All of the course readings for this class can be found on Canvas.
+In some classes, we will spend significant time discussing particular readings. In others, we will treat them
+as background. In all cases, if there is something you don’t understand in the material, it is your
+responsibility to make sure that you gain an understanding of it by asking questions and raising issues.
+You are expected to arrive at class ready to discuss any and all of the required course readings.
+Policy on Plagiarism
+I strongly believe that learning is a collaborative venture. I encourage you to study with your peers, meet
+to discuss readings with them, and, on particular assignments, to work together with them. That said, the
+work that you produce for this course must be your own. There are no exceptions to this rule and no
+legitimate excuses for violating it.
+In event that you fail to acknowledge others' work or that you are caught overtly plagiarizing from online
+or written sources, you will receive a zero on the assignment and may be subject to disciplinary
+procedures. See below (following course readings) for links to the University Policy on Academic integrity
+Email and Office Hours policy
+Please, feel free to contact me and/or your TA via email. I prefer that you contact me directly rather than
+through Canvas. Please also keep in mind that we are as busy as you. Make sure you consult the course
+syllabus, other handouts, your peers and the course Canvas site before sending an e-mail. Note that e-
+mail should not be seen as an alternative to meeting with me or your TA during office hours. Nor should
+e-mail be used as a mechanism to receive private tutorials or to explain material that was covered in
+classes you missed (those are your responsibility to obtain from your peers). We will endeavor to respond
+within 24 hours, though we do not respond to email on the weekends or after 5pm, so plan ahead.
+Contacting us the night before an assignment is due is, by definition, too late.
+My office hours are your time and you are welcome to drop by at any time during them. Because, at
+particular times in the semester, many of you will want to see me, I do recommend setting up an
+appointment ahead of time. Also, if you have a regular class conflict during my office hours, I am more
+than happy to set up an appointment with you at another time, however, I ask that you do not just drop
+by my or your TA’s office outside of office hours without checking first. We may be there, but we will be
+working on other things with pressing deadlines.
+                                                                                                             8
+
+
+Late Policy
+I adhere to the following late policy on assignments:
+.  Framing Papers are due by 6am the day of class. Late assignments will not be accepted.
+.  Assignments turned in up to 12 hours late will be penalized by 1/3 of a letter grade.
+.  Assignments turned in between 12 and 24 hours late will be penalized a full letter grade.
+.  Assignments turned in between 24 and 48 hours late will be penalized two full letter grades.
+.  Assignments more than 48 hours late will not be accepted.
+Writing Policy
+While this is not a writing flag course, there are assignments that will require that you write and
+communicate clearly.
+     •    I have extensively detailed my policy on citation and bibliography on my website:
+          http://www.jasoncons.net/formatting-and-referencing-papers.html
+     •    I have also provided advice for student writers that is applicable not just in my courses, but in any
+          course you are likely to take as an undergraduate:
+          http://www.jasoncons.net/advice-on-writing.html
+Attendance Policy
+Attendance at all course and section meetings is required. There will be an attendance sheet available
+when you come into class.
+You are permitted two unexplained course absences per semester. After that, each absence will reduce
+your overall participation grade by 3.33% (i.e., by 1/3 of a letter grade). If you have a legitimate reason to
+miss class, it is your responsibility to let me and your TA know by email before class.
+Statement on Learning Success
+Your success in this class is important to me. We will all need accommodations because we all learn
+differently. If there are aspects of this course that prevent you from learning or exclude you, please let
+me know as soon as possible. We will develop strategies to meet both your needs and the requirements
+of the course. I also encourage you to reach out to the student resources available through UT. Many are
+listed on this syllabus, but I am happy to connect you with a person or Center if you would like.
+Student Rights & Responsibilities
+• You have a right to a learning environment that supports mental and physical wellness.
+• You have a right to respect.
+• You have a right to be assessed and graded fairly.
+• You have a right to freedom of opinion and expression.
+• You have a right to privacy and confidentiality.
+• You have a right to meaningful and equal participation, to self-organize groups to improve your
+     learning environment.
+• You have a right to learn in an environment that is welcoming to all people. No student shall be
+     isolated, excluded or diminished in any way.
+With these rights come responsibilities:
+                                                                                                              9
+
+
+•    You are responsible for taking care of yourself, managing your time, and communicating with the
+     teaching team and with others if things start to feel out of control or overwhelming.
+•    You are responsible for acting in a way that is worthy of respect and always respectful of others.
+•    Your experience with this course is directly related to the quality of the energy that you bring to it,
+     and your energy shapes the quality of your peers’ experiences.
+•    You are responsible for creating an inclusive environment and for speaking up when someone is
+     excluded.
+•    You are responsible for holding yourself accountable to these standards, holding each other to these
+     standards, and holding the teaching team accountable as well.
+Personal Pronoun Preference
+Professional courtesy and sensitivity are especially important with respect to individuals and topics
+dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance,
+and nationalities. Class rosters are provided to the instructor with the student’s legal name. I will gladly
+honor your request to address you by a name different than what appears on the roster, and by the
+gender pronouns you use. Please advise me of this preference early in the semester so that I may make
+appropriate changes to my records.
+                                UNIVERSITY POLICIES & RESOURCES
+Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date
+of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a
+project in order to observe a religious holy day, I will give you an opportunity to complete the missed
+work within a reasonable time after the absence.
+Q Drop Policy
+If you want to drop a class after the 12th class day, you’ll need to execute a Q drop before the Q-drop
+deadline, which typically occurs near the middle of the semester. Under Texas law, you are only allowed
+six Q drops while you are in college at any public Texas institution. For more information, see:
+http://www.utexas.edu/ugs/csacc/academic/adddrop/qdrop
+Student Accommodations
+Students with a documented disability may request appropriate academic accommodations from the
+Division of Diversity and Community Engagement, Services for Students with Disabilities, 512-471-6259
+(voice) or 1-866-329-3986 (video phone). http://ddce.utexas.edu/disability/about/
+• Please request a meeting as soon as possible to discuss any accommodations
+• Please notify me as soon as possible if the material being presented in class is not accessible
+• Please notify me if any of the physical space is difficult for you
+Academic Integrity
+Each student in the course is expected to abide by the University of Texas Honor Code:
+“As a student of The University of Texas at Austin, I shall abide by the core values of the University and
+uphold academic integrity.”
+                                                                                                             10
+
+
+This means that work you produce on assignments, tests and exams is all your own work, unless it is
+assigned as group work. I will make it clear for each test, exam or assignment whether collaboration is
+encouraged or not.
+Always cite your sources. If you use words or ideas that are not your own (or that you have used in
+previous class), you must make that clear otherwise you will be guilty of plagiarism and subject to
+academic disciplinary action, including failure of the course.
+You are responsible for understanding UT’s Academic Honesty Policy which can be found at the following
+web address: http://deanofstudents.utexas.edu/sjs/acint_student.php
+University Resources for Students
+The university has numerous resources for students to provide assistance and support for your learning,
+use these to help you succeed in your classes
+The Sanger Learning Center
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning
+Center each year to improve their academic performance? All students are welcome to take advantage
+of Sanger Center’s classes and workshops, private learning specialist appointments, peer academic
+coaching, and tutoring for more than 70 courses in 15 different subject areas. For more information,
+please visit http://www.utexas.edu/ugs/slc or call 512-471-3614 (JES A332).
+The University Writing Center
+The University Writing Center offers free, individualized, expert help with writing for any UT student, by
+appointment or on a drop-in basis. Consultants help students develop strategies to improve their writing.
+The assistance we provide is intended to foster students’ resourcefulness and self-reliance.
+http://uwc.utexas.edu/
+Counseling and Mental Health Center
+The Counseling and Mental Health Center (CMHC) provides counseling, psychiatric, consultation, and
+prevention services that facilitate students' academic and life goals and enhance their personal growth
+and well-being. http://cmhc.utexas.edu/
+Student Emergency Services
+ http://deanofstudents.utexas.edu/emergency/
+ITS
+Need help with technology? http://www.utexas.edu/its/
+Libraries
+Need help searching for information? http://www.lib.utexas.edu/
+Canvas
+Canvas help is available 24/7 at https://utexas.instructure.com/courses/633028/pages/student-tutorials
+                                    Important Safety Information
+BCAL
+                                                                                                          11
+
+
+If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCAL (the
+Behavior Concerns Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel
+right – it probably isn’t. Trust your instincts and share your concerns.
+Evacuation Information
+The following recommendations regarding emergency evacuation from the Office of Campus Safety and
+Security, 512-471-5767, http://www.utexas.edu/safety/
+Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+when an alarm or alert is activated. Alarm activation or announcement requires exiting and assembling
+outside, unless told otherwise by an official representative.
+Familiarize yourself with all exit doors of each classroom and building you may occupy.
+Remember that the nearest exit door may not be the one you used when entering the building.
+Students requiring assistance in evacuation shall inform their instructor in writing during the first week of
+class.
+In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a
+building unless given instructions by the following: Austin Fire Department, The University of Texas at
+Austin Police Department, or Fire Prevention Services office.
+Link to information regarding emergency evacuation routes and emergency procedures can be found at:
+www.utexas.edu/emergency
+                                                                                                           12

@@ -1,0 +1,83 @@
+             M f325K: Discrete Mathematics (86335), Summer 2019
+                                   Monday–Friday, 1:00–2:15 in RLM 5.104
+Instructor: Jesse Miller
+Email: jmiller@math.utexas.edu
+Description, Prerequisites, and Objectives: This course provides an introduction to mathematical proofs in the
+context of a variety of different discrete (in particular, not Calculus-based) topics in mathematics, including elementary
+number theory, set theory, and counting. A grade of at least C- in M408D, M408L, or M408S is required to take this
+course.
+Writing Flag: This course carries the Writing Flag. Writing Flag courses are designed to give students experience
+with writing in an academic discipline. In this class, you can expect to write regularly during the semester, complete
+substantial writing projects, and receive feedback to help you improve your writing.
+Required Material: The required textbook is Discrete Mathematics with Applications, 5th edition, by Susanna Epp.
+Lecture: Lectures will be spent primarily solving problems and discussing solutions. You are expected to have read
+the section(s) for each lecture before coming to class.
+Homework: Written homework assignments will be assigned during the semester.
+Written Proofs: Four written proofs will be given during the semester. The focus will be on the written presenta-
+tion. Whereas the focus of the classwork and homework is on solving problems, the focus of these written proofs is
+communicating the proof to your readers. There will be opportunities to revise some of these assignments.
+Exams: There will be an in-class midterm and final exam. The location of the final exam will be announced later
+in the semester. You are responsible for being on campus during the final exam period. The University’s final exam
+policies can be found at http://registrar.utexas.edu/students/exams/policies/.
+Grading: This course is graded using the following weights:
+   35%     Homework            Lowest dropped.
+   35%     Written Proofs      Lowest dropped.
+   30%     Exams               Equally weighted. The final exam grade replaces the midterm grade, if the former
+                               is higher.
+Unless otherwise indicated, partial credit on written work is possible only when answers are justified. For a suspected
+mistake in an assignment’s scoring to be checked, you must, within one week of the assignment’s returning, resubmit
+it to me with a written explanation of what you think is wrong. The scale for the course will be no stricter than the
+standard one: a cutoff of 93 for an A, 90 for an A-, 87 for a B+, etc. The final scale will not be determined before the
+end of the semester. There are no curves.
+Make-Up Work: Some assignments are dropped to accommodate illnesses, emergencies, and other legitimate reasons
+that prevent assignment completion. Therefore, no late assignments are accepted nor make-up exams given.
+Documented Disabilities: If you have a documented disability, you should contact Services for Students with Disabil-
+ities (SSD) at (512) 471-6259 (voice) or (866) 329-3986 (video phone), or visit http://diversity.utexas.edu/disability/.
+You must contact me by the 4th class day to ensure that accommodations can be made.
+University Honor Code: Cheating is punished to the fullest extent allowed by university policy. Cheating includes,
+but is not limited to, using any electronic device on an exam, and presenting another person’s work as your own.
+General Expectations: Before class begins, you should turn off cell phones, laptops, and any other electronic devices.
+I expect you to be present for the entire class. If you arrive late, or leave early, please sit near an exit to minimize the
+disturbance. If you miss class for any reason, contact another student (not me) to see what you missed.
+Email: You are always welcome to email me, as long as you include your EID and unique number and you consult
+this syllabus before asking any questions about course policies. I expect you to check the email address listed in the
+UT system regularly, and to check Canvas regularly for announcements.
+
+
+Calendar: This is a tentative calendar for the topics covered during lectures. Suggested problems are recommenda-
+tions for practice before coming to class. They are not meant to indicate the extent of what we cover in the course. For
+a detailed list of academic dates, see the registrar’s calendar at http://registrar.utexas.edu/calendars/.
+        Date       Section(s)  Topic                                Recommended Problems              Assignments Due
+        6/6        2.1         logical form and logical equivalence 1, 3, 5, 9, 13, 15, 29
+        6/7        2.2         conditional statements               5, 7, 9, 12, 16, 19, 20, 22
+        6/10       2.3         valid and invalid arguments          1, 4, 6–8, 14, 18, 22, 24, 25
+        6/11       3.1–3.2     predicates and quantified statements 3.1: 1–3, 9, 11, 13, 14, 19, 20
+                                                                    3.2: 1, 3, 9, 11, 13, 16, 18, 20
+        6/12       3.3–3.4     multiple quantifiers; arguments      3.3: 2, 3, 10–15, 18, 21, 29, 30
+                                                                    3.4: 1–3, 7–10, 21, 23, 28
+        6/13       4.1–4.2     direct proof and counterexample      4.1: 2, 4–7, 9, 10, 17, 20, 29–31 HW1
+        6/14       —           Proof 1
+        6/17       4.3         direct proof and counterexample      1–7, 9–12, 15–19, 24, 32, 35
+        6/18       4.4–4.5     direct proof and counterexample      4.4: 1–10, 15–17, 24–27, 39
+                                                                    4.5: 1–6, 13, 14, 16, 17, 27–29
+        6/19       4.7         indirect proof                       1–5, 10–16, 18, 21
+        6/20       4.8         indirect proof                       1–6, 16–22, 32                    HW2
+        6/21       —           Proof 2
+        6/24       —           Midterm Exam
+        6/25       5.1–5.2     induction                            5.2: 3–8, 10, 20, 22, 34
+        6/26       5.3         induction                            1–3, 6, 13, 14, 30–32
+        6/27       5.4         induction                            4, 5, 16, 17                      HW3
+        6/28       —           Proof 3
+        7/1        6.1–6.2     basic set theory                     6.1: 1, 3, 5, 10, 13, 15, 16, 24
+                                                                    6.2: 2–4, 6, 7, 13–15, 20, 21
+        7/2        7.1–7.2     functions                            7.1: 1, 2, 6, 9, 13, 22, 27
+                                                                    7.2: 2–5, 7–10, 14, 15, 28, 29
+        7/3        7.3         function composition                 1, 2, 6, 8, 16, 19, 28, 29        HW4
+        7/4        —           Independence Day (no class)
+        7/5        —           Proof 4
+        7/8        7.4         cardinality                          1, 3, 9, 10, 18, 19, 21, 29
+        7/9        8.1–8.2     relations                            8.1: 4, 5, 7, 10, 12, 19, 22
+                                                                    8.2: 9–12, 15, 21, 26, 30, 31
+        7/10       8.3         equivalence relations                1, 3–5, 8, 16, 26                 HW5
+        7/11       —           review
+        7/13       —           Final Exam (9:00am)

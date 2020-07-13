@@ -1,0 +1,402 @@
+ARC 520E INTERMEDIATE DESIGN STUDIO II: ENVIRONMENTAL                                                                   Spring 2019
+MWF 1pm-6pm
+Instructor: Jean-Pierre Trou, AIA
+Office Location: To be assigned.
+Office Hours: By appointment.
+Email: J.Trou@austin.utexas.edu
+ARCHITECTURE OF THE LANDSCAPE
+The planet’s climate is changing at an unprecedented rate, faster than at any point in modern civilization’s history.
+Global temperatures will continue to rise by annual averages of 9°F (5°C) or more by the end of this century
+compared to preindustrial temperatures.1 The effects of rising temperatures are evident in the reduction of glaciers,
+sea level rise, bleaching of coral reefs, storm surge, displacement of ecosystems, severe drought, more frequent
+wildfires, and more intense heat waves to name a few. These impacts are projected to intensify unless global
+emissions of greenhouse gases reduce dramatically.
+Climate change is transforming the way we live and where we live, impacting our economy, our health, our quality of
+life and the natural systems that support us. In Texas alone, higher temperatures and increased frequency of heat
+waves, coupled with an escalation in population growth moving to the cities, will exacerbate the urban heat island
+effect in the cities, and consequently increase the number of heat-related incidents and deaths. Longer and hotter
+summers will grow the demand for cooling systems. Utility companies, city infrastructure and water resources will
+be under considerable strain. An increase in drought seasons, heat stress and wildfires are also expected from the
+increase in temperatures.
+Along the Gulf Coast, relative sea level rise of twice the global average and warmer sea surface temperatures have
+contributed to higher storm surges and intensity of tropical storms in recent years. Hurricane Harvey, which made
+1
+  ​Jay​, A., D.R. Reidmiller, C.W. Avery, D. Barrie, B.J. DeAngelo, A. Dave, M. Dzaugis, M. Kolian, K.L.M. Lewis, K. Reeves, and D.
+Winner, 2018: Overview. In ​Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II
+[Reidmiller, D.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.)]. U.S. Global
+Change Research Program, Washington, DC, USA, pp. 33–71. doi: 10.7930/NCA4.2018.CH1
+
+
+landfall in Texas in August 2017, is one of the most costly natural disasters in US history, with an estimated cost of
+$125 billion—second only to Hurricane Katrina in the period of record, which had an approximate cost of $161
+billion.2 The recurrence of extreme precipitation will overload aging water resource infrastructure. Stormwater
+management systems, modeled after current codes and historical data, will not be able to sustain the constant
+future flash flooding events and eventually will collapse.
+Coastal communities are starting to explore ways to make their cities and infrastructure more resilient and capable
+of adapting to the current and future risks of climate change. Resilience, adaptability and self regulation are all
+models found in nature. How can a desert beetle efficiently harvest its own water and survive in an incredibly harsh,
+arid environment? Biomimicry is learning from nature’s forms and processes, then applying them to create
+innovative solutions. For example, the ​Darkling beetles​ could help us generate similar systems for collecting water
+for people in need from the drought. Looking at natural systems can help us find new strategies and solutions to
+mitigate the impact of climate change. As Michael Pawlyn says, “... ideas from Biology can lead to radical increases
+in resource efficiency, delivering the same function, but with a fraction of the resource input.” We have an extensive
+resource library built over 3.8 billion years of research and development. After all, we are not the first ones that
+started to build. We can start by looking at buildings as living organisms capable of self-regulation and adaptation,
+and as a component of a larger ecosystem, the city. If we start looking at the city and the built environment as
+complex networks, working together, we can achieve greater impact with holistic approach to design - an
+architecture of the landscape rather than in the landscape. For example, a well-managed network of green
+infrastructure around the city working together with building green envelopes, can have a huge positive impact,
+especially if they create closed loops to reduce waste. Collectively, they can reduce the impact of sudden flash
+flooding, lessen the urban heat island effect, mitigate air pollution, reduce urban noise, and improve water
+management and water conservation as well as revamp biodiversity. Green envelopes reduce heat gain, increase
+the aesthetic quality of the city and contribute to the well-being. Nature can be a source of inspiration, mental
+regeneration and stress reduction. Research in Biophilic design suggests that people’s connection to nature
+promotes healing, improves wellbeing and quality of life in the city.
+This studio will focus on the relationship between humans and nature, architecture and landscape, and the
+symbiotic relationship between architecture and nature.
+The following topics will constitute a central part of the studio:
+      ●    Architecture in/of the landscape
+      ●    The symbiotic relationship of architecture and landscape
+      ●    Biophilic design patterns & biological responses
+      ●    Biomimicry
+      ●    Green building envelopes
+      ●    Resilience
+      ●    Urban heat island effect
+      ●    Water quality management
+      ●    Water conservation
+      ●    Site analysis
+      ●    Code - Land Development Code, IBC2015, ADA
+PREREQUISITES
+ARC 320D, ARC/ARI 221K, and ARC 415K with a grade of at least C in each.
+2
+  https://www.coast.noaa.gov/states/fast-facts/hurricane-costs.html
+
+
+CURRICULUM FLAG
+This course carries the Independent Inquiry flag. Independent Inquiry courses are designed to engage students in
+the process of inquiry over the course of a semester, providing a student with the opportunity for independent
+investigation of a question, problem, or project related to the student’s major. At least one-third of the grade will be
+based on independent investigation and presentation of one’s own work.
+INTERMEDIATE DESIGN STUDIO
+Students pursuing the Bachelor of Architecture must complete four Intermediate Design Studios during their second
+and third years. Building on the Foundation Design Studios taken during the first year, the goal of the Intermediate
+Studios is to prepare students for Advanced Design Studios in their fourth and fifth years.
+Each Intermediate Studio will be structured around one of four broad themes of inquiry (Operational, Environmental,
+Integration, and Speculation) and will offer a critical framework and vocabularies for design and development into
+key issues emphasized in the theme. Intermediate Studios will also serve as a platform to prepare students for the
+range of offerings of the Advanced Studios (e.g. Comprehensive, Urban Design, Landscape Architecture, etc.).
+Intermediate Studios will follow a similar structure, but each instructor will individually determine the scope and
+design problem for each studio.
+THEME: ENVIRONMENTAL
+This studio emphasizes architecture as a response to context: architecture and landscape architecture in the city
+and in nature, urban issues, housing, making place. This studio should take advantage that students are
+concurrently enrolled in or have already completed the course Site Design.
+STUDIO STRUCTURE
+Assignment #1 (P1): Research and Analysis (2 weeks)
+15% of final grade
+Students will work in teams
+The first two weeks will be devoted to research, speculation and inquiry. Research and Analysis of Environment
+(site, place, context, design), a combination of class discussions and team research in green building envelopes and
+the use of biomimicry in architecture, and biophilic design. We will examine both the theory (readings listed below)
+and its application (projects) by studying precedents in an effort to provide a collective catalogue of information for
+reference for the entire studio. Teams will also design and develop a green envelope component. A section of a
+facade or roof system that will serve as both inspiration and reference for the next two projects.
+Readings:
+      ●   Browning, W.D., Ryan, C.O., Clancy, J.O. (2014). ​14 Patterns of Biophilic Design​.
+          New York: Terrapin Bright Green llc.
+      ●   Arup. (2016).​ Cities Alive: Green building Envelope​. Germany: GmbH.
+Media: Photography, diagrams, drawings, models
+Assignment #2 (P2): (2.5 weeks)
+20% of final grade
+Students will work in pairs
+We will build upon the research from P1 and apply these concepts into a project. This assignment will explore
+architectural intervention in an open landscape and the relationship between the building and site. Students will visit
+the site and produce a series of site recordings: sketches, pattern recognition, diagrams, as part of a comprehensive
+site analysis. This study will inform the building placements and design direction.
+
+
+Program: Water Conservation Awareness Center
+Proposed Site: Lady Bird Johnson Wildflower Center
+Project type: Pavilion
+Media: Photography, diagrams, analog drawings, digital drawings, 3D renderings, models
+Assignment #3: Main project (9 weeks)
+65% of final grade
+Students will work individually
+The main project for this semester will be the design of a mid-rise, mixed-use project in Downtown Austin. We will
+bring the concept of an architecture of the landscape into the city context, examining how landscape and building
+become one in an urban setting. We will focus on reducing the heat island effect by using technologies studied
+during the semester and used in previous assignments. Students will visit the site and perform a due diligence study
+which will include code research. This study will inform the building parameters and design challenges.
+Program: Micro Units, Retail + Restaurant
+Proposed Site: Downtown Austin, Central Business District
+Project type: Mixed-Use Commercial building
+Media: Photography, diagrams, analog drawings, digital drawings, 3D renderings, models
+LEARNING OUTCOMES
+Students will be exposed to a series of learning goals several times and from different angles over the four
+Intermediate Studio sequence. The goal is that similar issues are repeated from studio to studio but from different
+angles, allowing students to find, within the diversity of the topics, a “common thread” as they go through the
+sequence of the four studios. The level of expectation will grow as students go from being introduced to an issue, to
+becoming competent at it. Some issues would be only mentioned in passing in one studio but will be studied in
+more depth in another.
+     ●    Design Composition Skills​: Developed through three-dimensional architectural form and space, both
+          exterior and interior; building envelope
+     ●    Design Integration Skills:​ Demonstrated through creative engagement with issues of materiality, structures,
+          construction, and environmental system
+     ●    Site Analysis and Design​: Developed through the creative engagement with relevant contextual;
+          environmental and programmatic factors underlying the project.
+     ●    Critical Thinking​: Quality of conceptual and critical thought; learning from precedents; research skills
+     ●    Graphic Skills​: Quality of presentation; clarity of communication; appropriateness of media strategy and
+          level of skill displayed
+     ●    Collaborative and Leadership Skills:​ Demonstrated through the active engagement in all activities of the
+          studio
+     ●    Code​: Understanding of basic code requirements for site development and buildings. FAR, impervious
+          coverage, building coverage, setbacks, overlays, ADA and life safety (egress, fire access).
+STUDIO CULTURE
+The School of Architecture believes in the value of the design studio model. Studio learning encourages dialogue,
+collaboration, risk-taking, innovation, and learning-by-doing. The studio offers an environment where students can
+come together to ask questions and make proposals, which are developed and discussed among classmates,
+faculty, visiting professionals, and the public-at-large. Studio learning offers intensive one-on-one instruction from
+faculty members, and provides the opportunity for each student to develop his/her critical thinking skills and spatial
+
+
+and material sensibilities. The design studio offers a synthetic form of education, where project-based learning
+becomes the foundation for developing an understanding of and commitment to the school's core values —
+broadmindedness, interconnectivity, professionalism, exploration and activism — all in service of architecture's
+fundamental mission: to improve the quality of the built and natural environments.
+https://soa.utexas.edu/programs/architecture/architecture-studio-culture
+DESIGN CONVERSATIONS: JESSEN LECTURES
+The School of Architecture offers a wide range of opportunities for students to extend the design conversations
+taken place in studios (Lecture Series, Goldsmith Talks, Exhibitions, etc). Students are encouraged to participate
+and be engaged. Specifically, all B.Arch and BSAS students in studio are expected to attend all the Jessen Lectures
+(three per semester by lead practitioners from around the world). The lectures and the group discussions in studio
+that follow are important for the holistic education of intellectually engaged students and participation will have an
+impact on students’ grades (see below).
+Spring 2019 Lecture Series
+Jan 28    Claire Agre
+Feb 13    Deborah Berke / Jessen
+Feb 20    Stih and Schnock
+Feb 25    Joan Busquets
+Mar 4     Michael Murphy / Jessen
+Mar 11    ksestudio
+Mar 27    William O'Brien
+April 3   Elena Manferdini
+May 1     Ana Maria Leon
+Lecture Series begin at 5:00pm at Goldsmith Hall 3.120 or at Jessen Auditorium (as noted)
+Michael Benedikt Foundation Studios Theory Talks
+Jan 28    Lecture Zero: Metaphors and analogies in architecture
+Feb 4     Lecture One: Biological: buildings as organisms
+Feb 18    Lecture Two: Mechanical: buildings as machines
+Feb 25    Lecture Three: Gastronomic: architecture as cuisine
+Mar 4     Lecture Four: Semiotic: architecture as a language
+Mar 25    Lecture Five: Geographical: buildings as landscapes
+April 8   Lecture Six: Ontorelational: buildings as being(s).
+All Foundation Studios Theory Talks are on Mondays 10:00-11:00 am at the main lecture hall.
+EVALUATION CRITERIA
+While each project contains certain quantifiable elements for evaluation, a significant portion of each grade is
+derived from broader and more subjective criteria.
+Student work will be evaluated according to its rigor and evolution over the semester. Grades are subject to
+deductions for late arrivals, absences, and late or incomplete work at the discretion of the instructor.
+Grading for an assignment is broken into four components, each of which is given roughly equal weight:
+Pursuit:​ the consistent and rigorous development and testing of ideas.
+
+
+         ●    The ability to formulate a query or thesis and pursue a self-determined concomitant method of inquiry
+         ●    The ability to identify and implement various processual mechanisms (software, sketch drawing and
+              models, etc.) in the development of the design
+         ●    Initiative as demonstrated in work ethic – Does the student do what is asked; go beyond what is
+              asked; direct their own efforts; eager to produce the next iteration of the design?
+Grasp:​ the ideas and understanding of the project at hand and integration of knowledge introduced in companion
+courses.
+         ● A strong and clearly stated design objective
+         ● Spatial acuity as demonstrated in plan – including reasonable disposition of programmatic elements –
+              and sectional development
+         ● Synthetic and critical thinking; the ability to holistically organize a project as demonstrated through
+              creative engagement with issues of materiality, structures and construction, structural and
+              environmental system integration, building materials and assembly, sustainable practices, etc. in
+              support of the design objective
+         ● Structural competence and material sensitivity as demonstrated in wall thickness, floor plates, and
+              assembly
+Resolution:​ of the design objective; the demonstration of competence, completeness, and finesse in the final
+design presentation.
+         ● Quality of presentation; clarity of communication; appropriateness of media strategy and level of skill
+              displayed through the work presented at all stages of the design process; technical documentation
+Engagement:​ the active participation in studio activities, leadership, collaboration, group discussions and reviews.
+A student must earn a letter grade of C or better in order for the course to count towards a degree in the School of
+Architecture and to progress in to the next studio. A letter grade of C- will not satisfy degree requirements.
+GRADE DESCRIPTIONS
+A/A-             Excellent
+                 Project surpasses expectations in terms of inventiveness, appropriateness, visual language,
+                 conceptual rigor, craft, and personal development. Student pursues concepts and techniques above
+                 and beyond what is discussed in class. Project is complete on all levels.
+B+/B/B-          Above Average
+                 Project is thorough, well presented, diligently pursued, and successfully completed. Student pursues
+                 ideas and suggestions presented in class and puts in effort to resolve required projects. Project is
+                 complete on all levels and demonstrates potential for excellence.
+C+/C             Average
+                 Project meets the minimum requirements. Suggestions made in class and not pursued with
+                 dedication and rigor. Project is incomplete in one or more areas.
+C-/D+/D/D-       Poor
+                 Project is incomplete. Basic grasp of skill is lacking, visual clarity or logic of presentation are not
+                 level-appropriate. Student does not demonstrate the required competence and knowledge base.
+F                Fail
+                 Project is unresolved. Minimum objectives are not met. Performance is not acceptable. Note that
+                 this grade will be assigned when students have excessive unexcused absences.
+
+
+X                  Excused Incomplete
+                   Can be given only for legitimate reasons of illness or family emergency. Simply not completing work
+                   on time is not an adequate cause for assigning this evaluation. It may only be used after consultation
+                   with the Associate Deans' offices and with an agreement as to a new completion date. Work must
+                   be completed before the second week of the next semester in which the student is enrolling,
+                   according to the School of Architecture policy.
+ATTENDANCE
+Punctual and regular attendance is mandatory. Participation is expected. With three (3) unexcused absences, the
+student’s final grade for the course will be lowered by a full letter grade. The final grade will be lowered by a full
+letter grade for each unexcused absence thereafter. Aside from religious observances, absences are only excused
+with written documentation of a medical issue or family emergency. The student is responsible for completing work
+missed due to excused absences and initiating communication with the instructor to determine due dates.
+If a student is late (5 minutes after the start of class) three (3) times, it will be counted as one (1) unexcused absence.
+Students should notify the instructor prior to class if lateness or absence is known in advance. Students must notify
+instructors directly regarding lateness or absences; Asking a classmate to inform the instructor is not acceptable.
+RELIGIOUS OBSERVANCES
+A student shall be excused from attending classes of other required activities, including examinations, for the
+observance of a religious holy day, including travel for the purpose. A student whose absence is excused under this
+subsection may not be penalized for that absence and shall be allowed to take an examination or complete an
+assignment from which the student is excused within a reasonable time after the absence. University policy requires
+students to notify each of their instructors as far in advance of the absence as possible so that arrangements can be
+made.
+By UT Austin policy, you must notify the instructor of the pending absence at least fourteen days prior to the date of
+a religious holy day. If you must miss a class, an examination, an assignment, or a project in order to observe a
+religious holy day, you will be given an opportunity to complete the missed work within a reasonable time after the
+absence.
+ACADEMIC INTEGRITY
+Students who violate University policy on academic integrity are subject to disciplinary penalties, including the
+possibility of failure in the course and/or dismissal from the University. Since such dishonesty harms the individual,
+all students, and the integrity of the University, policies on academic integrity will be strictly enforced. Refer to the
+Student Conduct and Academic Integrity website for official University policies and procedures on academic
+integrity: ​http://deanofstudents.utexas.edu/conduct/academicintegrity.php​. University Code of Conduct:
+http://catalog.utexas.edu/general-information/the-university/#universitycodeofconduct
+MENTAL HEALTH AND SUPPORT SERVICES
+Taking care of your general well-being is an important step in being a successful student. If stress, test anxiety,
+racing thoughts, feeling unmotivated, or anything else is getting in your way, there are options available for help:
+      ● In-house CARE counselor (see below)
+      ● For immediate support
+                o Visit/call the Counseling and Mental Health Center (CMHC):
+                     M-F 8am-5pm | SSB, 5​th​ floor | 512-471-3515 | ​cmhc.utexas.edu
+                o CMHC Crisis Line:
+                     24/7 | 512-471-2255 | ​cmhc.utexas.edu/24hourcounseling.html
+      ● Free services at CMHC:
+                o Brief assessments and referral services: ​cmhc.utexas.edu/gettingstarted.html
+
+
+               o    Mental health & wellness articles: ​cmhc.utexas.edu/commonconcerns.html
+               o    MindBody Lab: ​cmhc.utexas.edu/mindbodylab.html
+               o    Classes, workshops, and groups: ​cmhc.utexas.edu/groups.html
+CARE PROGRAM
+Counselors in Academic Residence (CARE) Program places licensed mental health professionals within the colleges
+or schools they serve in order to provide better access to mental health support for students who are struggling
+emotionally and/or academically.
+Abby Simpson (LCSW) is the assigned CARE counselor for the School of Architecture. Faculty and staff may refer
+students to the CARE counselor or students may directly reach out to her. Please leave a message if she is
+unavailable by phone.
+Abby Simpson, LCSW | BTL 114B | 512-471-3115 (M-F 8am-5pm)
+https://cmhc.utexas.edu/CARE_simpson.html
+STUDENTS WITH DISABILITIES
+Students with disabilities who require special accommodations must obtain a letter that documents the disability
+from the Services for Students with Disabilities area of the Office of the Dean of Students (471-6259 voice or
+471-4641 TTY for users who are deaf or hard of hearing). This letter should be presented to the instructor in each
+course at the beginning of the semester and accommodations needed should be discussed at that time.
+http://diversity.utexas.edu/disability/
+SECURITY, SAFETY, AND SUSTAINABILITY
+The studio is an exceptional learning environment. Since it is a place for all, it necessitates the careful attention to
+the needs of everyone. All spraying of fixative, spray paint, or any other substance should be done in the shop.
+Security is a necessary component for a studio that is accessible to you and your colleagues 24 hours a day, 7 days
+a week. Do not leave your studio without your studio key and do not leave your studio unlocked. Hold yourself and
+your studiomates accountable for the security of your shared space.
+The studio is an opportunity to apply sustainability principles, being mindful to recycle and reuse to reduce material
+consumption at UTSOA. Recyclable materials should be placed in blue bins or any other containers with white bags.
+The Material Exchange, a give-and-take system for students to donate materials and take what they need for studio
+and fabrication coursework, is available throughout the semester to all UT students in the UTSOA Technology Lab.
+All unwanted, reusable materials should be brought to the Material Exchange station in the Technology Lab at the
+end of the semester.
+BCAL
+Concerns regarding the safety or behavior of fellow students, Teaching Assistants (TA), or Professors can be
+reported to the Behavior Concerns Advice Line (BCAL): 512-232-5050. Calls can be made anonymously. If
+something doesn’t feel right, it probably isn’t. Trust your instincts and share your concerns.
+EMERGENCY EVACUATION
+In the case of emergency evacuation:
+     ● Occupants of buildings on The University of Texas at Austin campus are required to evacuate buildings
+          when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+     ● Students should familiarize themselves with all exit doors of each classroom and building they may occupy.
+          Remember that the nearest exit door may not be the one used when entering the building.
+     ● Students requiring assistance in evacuation shall inform their instructor in writing during the first week of
+          class. In the event of an evacuation, follow the instruction of faculty or class instructors.
+
+
+     ●   Reentry into a building is prohibited unless given instructions by the following: Austin Fire Department, The
+         University of Texas at Austin Police Department, or Fire Prevention Services offices.
+Information regarding emergency evacuation routes and emergency procedures can be found at:
+www.utexas.edu/emergency​.
+RECOMMENDED MATERIALS
+Readings:
+     ●   Browning, W.D., Ryan, C.O., Clancy, J.O. (2014). ​14 Patterns of Biophilic Design​. New York: Terrapin Bright
+         Green llc.
+     ●   Arup. (2016).​ Cities Alive: Green building Envelope​. Germany: GmbH.
+     ●   Kellert, S. and Calabrese, E. (2015). ​The Practice of Biophilic Design​. www.biophilic-design.com
+     ●   Benyus, J.M. (2002) ​Biomimicry.​ New York, NY: Harper Perennial.
+NCA 2018 Report:
+     ●   https://nca2018.globalchange.gov
+Videos:
+     ● https://www.ted.com/talks/michael_pawlyn_using_nature_s_genius_in_architecture?language=en
+     ● https://www.architectmagazine.com/videos/resilience-for-the-long-haul
+     ●   https://www.bloomberg.com/news/videos/2016-06-02/bloomberg-businessweek-design-2016-janine-benyus
+SCHEDULE
+Spring 2019
+             M                                    W                                   F
+ Week 1                                           01/23 Studio Lottery.​ P1           01/25 Overview of P1 and
+                                                         Assignment - Research               Group selection.
+                                                         and Analysis.                       Discussion of readings.
+ Week 2      01/28 *Lecture Zero: Metaphors 01/30 Group research and                  02/01 Group envelope
+                     and Analogies in                    analysis critique                   component critique
+                     Architecture.
+                     Class discussion.
+                     Lecture: Claire Agre
+ Week 3      02/04 *Lecture One: Biological:      02/06                               02/08 P1 Due - Studio Pin Up​.
+                     Buildings as Organisms.                                                 Groups presentation. ​P2
+                                                                                             Assignment - Water
+                                                                                             Conservation
+                                                                                             Awareness Center.
+ Week 4      02/11 Site Visit - Lady Bird         02/13 Lecture: Deborah Berke /      02/15
+                     Johnson Wildflower                  Jessen
+                     Center
+
+
+Week 5  02/18 *Lecture Two:             02/20 Lecture: Stih and Schnock 02/22
+              Mechanical: Buildings as        Pin Up - Critique
+              Machines.
+Week 6  02/25 *Lecture Three:           02/17 P2 Due - Studio Pin Up. 03/01 Site Visit - Downtown
+              Gastronomic:                    P3 Assignment - Green
+              Architecture as Cuisine.        Mixed-Use Development
+              Lecture: Joan Busquets
+Week 7  03/04 *Lecture Four: Semiotic:  03/06                           03/08
+              Architecture as a
+              Language.
+              Lecture: Michael Murphy
+              / Jessen
+Week 8  03/11 Lecture: ksestudio        03/13                           03/15
+Week 9  03/18 Spring break.             03/20 Spring break.             03/22 Spring break.
+Week 10 03/25 *Lecture Five:            03/27 Lecture: William O'Brien  03/29 Pin Up - Critique
+              Geographical: Buildings
+              as Landscapes.
+Week 11 04/01                           04/03 Lecture: Elena Manferdini 04/05
+Week 12 04/08 *Lecture Six:             04/10                           04/12
+              Ontorelational: buildings
+              as being(s).
+Week 13 04/15                           04/17                           04/19
+
+
+ Week 14      04/22                                 04/24 Pin Up - Critique              04/26
+ Week 15      04/29                                 05/01 Lecture: Ana Maria Leon        05/03
+ Week 16      05/06                                 05/08 Potential Final review         05/10 Potential Final review
+Lectures begin at 5:00pm at Goldsmith Hall 3.120 or at Jessen Auditorium (as noted)
+*All Michael Benedikt Foundation Studios Theory Talks are on Mondays 10:00-11:00 am at the main lecture hall.

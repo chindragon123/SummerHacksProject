@@ -1,0 +1,134 @@
+Michael Baker          michael.baker@austin.utexas.edu      Office: DFA 4.112 Thursday         Spring 2018
+                                                                       2-4p
+AET 339 Level Design
+UID: 20990                                            Text: N/A
+Meetings: MW 9:30 - 11                                Instructor: MJ Johns
+Location: DFA 4.106                                   Office Hours: MW 2-3
+Abstract
+       An introduction to building interactive and visually appealing 3D levels in a game engine. This
+       will include ideation and concept design, whiteboxing, integrating art and sound assets,
+       scripting interactions, and adding animations and particle effects, as well as playtesting and
+       iterating based on user feedback.
+Assessment
+       All homework assignments and in-class activities are equally weighted toward 50% of the final
+       class grade and are pass/fail. Two larger projects will be worth 25% each, one due at midterms
+       and one due at the end of the semester, and will be graded based on the provided rubric.
+       Assignments are due by the start of class on the due date.
+       No late work will be accepted. No incompletes will be given. If you feel you will not be able to
+       complete all work on time, you should ask the instructor for a grade of Q or drop before the
+       deadline for doing so passes.
+       Note: If you cannot attend class for any reason, please send an email and attach any
+       class work as needed, and talk to your classmates to find out what you missed.
+Classroom Policy
+       Devices
+            ●   Must be kept in silent mode unless an emergency notification is expected (please discuss
+                this with me prior to class).
+            ● Can be used for research and class note taking, but not for social media (unless related
+                to class activities)
+       Food/Drink
+            ●   Food is not allowed in class.
+            ●   Drinks in closed containers are permitted but must be kept on the floor or out of sight
+                when not in use.
+Required Equipment
+       All students MUST have access to a portable computer. Either Mac or PC is fine.
+Textbook
+       N/A
+                                                                                                         1
+
+
+Calendar
+Week                                            Assignment Due
+1    8/29 Course Intro and Unity Basics
+     8/31 Designing a Level Layout
+2    9/3 Labor Day (No Class)                   9/5 HW 1: Level Layouts
+     9/5 Whiteboxing
+3    9/10 Interaction Points and Interest Curve 9/12 HW 2: Design Doc, References, and Color Pallette
+     9/12 Art, Ambient Sound, and Narrative
+4    9/17 Playtest and Iterate                  9/17 HW 3: Playable Executable
+     9/19 Scripting Interactions                9/19 Activity 1: Feedback Assessment
+5    9/24 Guiding the Player with Lighting      9/26 Activity 2: Player Story
+     9/26 Particles, Sound Effects, Animations
+6    10/1 LAB                                   10/3 HW 4: Playable Executable
+     10/3 Playtest and Iterate
+7    10/8 LAB                                   10/10 Project 1: Solo Level
+     10/10 Level Showcase
+8    10/15 Design Documentation, Team Projects  10/17 Activity 3: Team Design Doc
+     10/17 Collaborative Design and Brainstorms
+9    10/22 Project Planning and Deadlines       10/24 Activity 4: Trello Board
+     10/24 Merging Scenes
+10   10/29 Matching Visual Styles
+     10/31 Advanced Lighting and Materials
+11   11/5 Playtest and Iterate                  11/5 HW 5: Merged Executable
+     11/7 System Design
+12   11/12 Advanced Scripting
+     11/14 LAB
+13   11/19 Playtest and Iterate                 11/19 HW 6: Merged Executable
+     11/21 Thanksgiving (No Class)
+14   11/26 Flow
+     11/28 LAB
+15   12/3 Open Playtest
+     12/5 LAB
+16   12/10 Last Day of Class                    12/10 Project 2: Team Level
+                                                                                                      2
+
+
+Units of Study
+         ●   Foundations
+                  ○ Intro to Unity
+                  ○ Design concepts
+         ●   Applications
+                  ○ Solving problems and doing things with code
+         ●   Systems
+                  ○ Designing a user’s experience
+                  ○ Flow
+Process
+     We will work through demonstrations, projects, and a number of technical/creative challenges
+     to learn about game and level design in Unity.
+Reference
+     A short list of useful resources for Unit
+                                                                                                  3
+
+
+Class Attendance Policy
+As detailed above, attending class during the scheduled meeting times earns professionalism credit.
+Credit is NOT earned for arriving late, leaving early, or failing to attend class meetings. If attending a
+scheduled class meeting is not possible, students are expected to promptly notify the instructor of
+extenuating circumstances.
+Q Drop Policy
+The State of Texas has enacted a law that limits the number of course drops for academic reasons to
+six (6). As stated in Senate Bill 1231:“Beginning with the fall 2007 academic term, an institution of
+higher education may not permit an undergraduate student a total of more than six dropped courses,
+including any course a transfer student has dropped at another institution of higher education, unless
+the student shows good cause for dropping more than that number.”
+University Attendance Policy: Religious Holy Days
+By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the
+date of observance of a religious holy day. If you must miss a class, an examination, a work
+assignment, or a project in order to observe a religious holy day, I will give you an opportunity to
+complete the missed work within a reasonable time after the absence.
+Documented Disability Statement
+Any student with a documented disability who requires academic accommodations should contact
+Services for Students with Disabilities (SSD) at (512) 471-6259 (voice) or 1-866-329-3986 (video
+phone). Faculty are not required to provide accommodations without an official accommodation letter
+from SSD. academic honesty University of Texas Honor Code The core values of The University of
+Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and responsibility.
+Each member of the university is expected to uphold these values through integrity, honesty, trust,
+fairness, and respect toward peers and community.
+Behavior Concerns Advice Line (BCAL)
+If you are worried about someone who is acting differently, you may use the Behavior Concerns Advice
+Line to discuss by phone your concerns about another individual’s behavior. This service is provided
+through a partnership among the Office of the Dean of Students, the Counseling and Mental Health
+Center (CMHC), the Employee Assistance Program (EAP), and The University of Texas Police
+Department (UTPD). Call 512-232-5050 or visit http://www.utexas.edu/safety/bcal.
+Emergency Evacuation Policy
+Occupants of buildings on the UT Austin campus are required to evacuate and assemble outside when
+a fire alarm is activated or an announcement is made. Please be aware of the following policies
+regarding evacuation: • Familiarize yourself with all exit doors of the classroom and the building.
+Remember that the nearest exit door may not be the one you used when you entered the building. • If
+you require assistance to evacuate, inform me in writing during the first week of class. • In the event
+of an evacuation, follow my instructions or those of class instructors. Do not re-enter a building unless
+                                                                                                           4
+
+
+you’re given instructions by the Austin Fire Department, the UT Austin Police Department, or the Fire
+Prevention Services office.
+                                                                                                      5

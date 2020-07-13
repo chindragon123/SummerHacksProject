@@ -1,0 +1,145 @@
+CSf 356                                            Computer Networks                                                Summer 2019
+             CS356 SYLLABUS
+            Dr. Stephany Coffman-Wolph | sscw@cs.utexas.edu | GDC 6.314
+                             Oﬃce Hours: M-R: 11:30 - noon pm, And by appointment.
+                                (Please check Canvas for updates about oﬃce hour information)
+ Course Description                           Grading
+                                              Your grade will be earned from your performance on the components listed
+ An introduction to computer                  below with corresponding weights. There is a planned midterm exam (see class
+ networks with emphasis on the                schedule for date). Assignments will be given regularly in lecture (see class
+ Internet. Topics include:                    schedule for approximate dates and further breakdown). The final exam or
+ computer networks,                           project will be voted on as a class. Total points available in the course = 1000
+ application layer, transport
+                                              • Midterm Exam: 10%, 100 points
+ layer, network layer, link layer,
+                                              • Activities: 20%, 200 points
+ wireless/mobile networks,
+                                              • Homework assignments / projects: 48%, 470 points
+ security, and multimedia                     • Group Presentation: 7%, 70 points
+ networking.                                  • Final Exam/Project: 15%, 150 points
+ Prerequisites                                When calculating your grade, the instructor will use the grading scale below to
+                                              assign your final grade. The ranges are set and guaranteed, therefore, students
+ Computer Science 439 (or
+                                              who earn a score of 970 earn an A in the course. However, the instructor may
+ 372) or 439H (or 372H) with a
+                                              choose to be more generous (on a case-by-case basis) depending on numerous
+ grade of at least C-                         factors.
+ Learning Outcomes                            Grading Scale Used: A: 94% and above, A-: 90-93%, B+: 87-89%, B: 84-86%, B-:
+                                              80-83%, C+: 77-79%, C: 74-76%, C-: 70-73%, D+: 67-69%, D: 64-66%, D-:
+ At the end of this course                    60-63%, and F: 59% or less
+ students should be able to:
+                                              An incomplete grade (“I”) is intended for the student who has missed a
+ • Explain the basics of                      relatively small portion of work due to circumstances beyond his/her control.
+   computer networks                          Please contact the instructor to discuss getting an incomplete. Please note that
+                                              the remaining work will need to be completed independently.
+ • Describe the various
+   components of the Internet
+                                              Assignments and Late Assignment Policy
+ • Explain the various layers
+   and their use within a                     Assignments will be given on a regularly scheduled basis and need to be worked
+   network                                    on outside of the regularly scheduled class time. All solution materials should be
+                                              submitted electronically via the Canvas (unless otherwise stated by the
+ • Explain the key networking
+   protocols                                  instructor). Late assignments are accepted for up to three days after due date
+                                              with a penalty of 5% per day. After that you will need to contact the instructor
+ • Gain experience with                       to make arrangements. No solution materials will be accepted after 5:00 PM on
+   wireless, mobile networks,                 the last day of classes. If you do miss class, it is your responsibility to contact the
+   and multimedia networking
+                                              instructor to find out what work has been missed. The decision to allow the
+                                              making up of work missed during the absence or the extension of deadlines will
+Course Syllabus                                                                                                                     1
+
+
+CSf 356                                   Computer Networks                                               Summer 2019
+                                     be made on an individual basis.
+Textbook
+Recommend: J. F. Kurose and K.       Missing Exams
+W. Ross, Computer Networking A       If you miss an exam, contact the instructor asking for a make up exam as soon as
+Top-Down Approach. ISBN:             it is possible (if possible inform the instructor before the exam that you will
+978-0-13-359414-0.                   miss). To be excused there must be significant circumstances beyond the
+                                     student's control and generally this will require documentation (i.e., a doctors
+Canvas, Email, Use of                note in the case of an illness). The decision as to how the exam is made up will
+                                     be made on an individual basis.
+Electronic Devices
+During Class                         Contesting a Grade
+Course material (lecture notes, in-  If you feel that a grade is incorrect on Canvas or missing, you as the student are
+class activities, assignments, etc.) responsible for bring the issue to the instructor attention via email within a
+will be posted on the CS 356         week of the grade being posted on canvas (or handed back in class). Please make
+                                     sure you check Canvas grades on a regular basis and contact the instructor
+Canvas site. Students are
+                                     ASAP to discuss any issues, errors, etc. Changes will not be made to a grade
+responsible for this material.
+                                     once the week deadline has passed.
+Students are responsible for
+material and information sent by
+                                     Student Inclusion
+the instructor to their email
+account. The instructor is           Students needing academic accommodations from the Division of Diversity and
+extremely willing to assist with     Community Engagement, Services for Students with Disabilities (http://
+assignments or other course          www.utexas.edu/diversity/ddce/ssd), please see the instructor to make
+material via email.                  arrangements.
+You are expected to stay alert &     Academic Honesty
+pay attention to the directions/     Unless otherwise told, you may not bring aids (notes, books, etc.) to exams.
+announcements in the class. Cell     Submission of another person's work (in part or whole) is not permitted. All
+                                     work for the class is to be completed individually until stated otherwise on the
+phones & other similar electronic    assignment. You may discuss the class material and assignments with other
+devices should not be used           students. However, be careful that you do not represent the work of another as
+during class unless used as          your own. Things that are not allowed:
+response tools for in class
+activities as directed by the        • Copying another person’s work
+instructor. You may use a laptop     • 2 or more students’ work is essentially the same in line-by-line logical structure
+or tablet in the class to enhance    • Giving your completed work to someone else
+your learning experience. If the     • Accepting another student’s completed work in either hardcopy or soft copy
+instructor feel it is distracting to
+you or others, they may ask you      Using information, material, source codes, & lecture notes found on the
+                                     Internet (or elsewhere) maybe helpful to you in this course. It is completely
+to turn-off your computer.           acceptable to refer to the material stated above to enhance your solutions,
+                                     generate your own ideas, or enhance your understand of the material.
+Also, don't repost any class         However, you must give proper and full credit to original authors of the work
+materials on CourseHero or any       if you include their ideas and/or solutions in your own work. Failing to give
+other public repository. Consider    proper credit is both an academic & professional dishonesty. Additional
+                                     information and explanation on academic honesty and dishonesty see http://
+all course materials to be           www.cs.utexas.edu/academics/conduct.
+copyright and this is a serious
+violation of copyright laws.
+Course Syllabus                                                                                                           2
+
+
+CSf 356                                               Computer Networks                                                      Summer 2019
+                                       CS 356 VERY, VERY, VERY Tentative Course Schedule
+     Day                   Topics                            In-Class Items                Assignments/Projects Due Dates
+                                                                                                             Exams
+   June 6  Syllabus, Course Schedule             R: Syllabus, Intro term activity      Intro Term Activity due Friday, June 7 @11:59 pm
+           Application Layer                     F: Application Layer
+    and 7
+     June  Application Layer continued           M: Application Layer continued        Wireshark Labs: Getting started and HTTP due June
+           Transport Layer                       T: Application Layer continued        14 @11:59 pm (http://www-net.cs.umass.edu/wireshark-
+    10-14  Network Layer                         W: Transport Layer                    labs/)
+           Wireshark Labs                        R: Transport Layer continued, Network
+                                                 Layer                                 WiFi, IP Addresses, and DNS due Sunday June
+                                                 F:Wireshark labs (No lecture)         16@11:59 pm
+                                                                                       Chat Program Assignment due Sunday June 16 @11:59
+                                                                                       pm
+     June  Wireshark Labs                        M: Wireshark labs (No lecture)        Wireshark Labs: HTTP, DNS, TCP, UDP, IPNAT,
+           Network Layer                         T: Wireshark labs (No lecture)        ICP due June 19 @11:59 pm
+    17-21                                        W: Wireshark labs (No lecture)
+                                                 R: Network Layer continued            Group Presentation Proposals due June 23 @11;59 pm
+                                                 F: Network Layer continued            Group Project Proposals due June 23 @11:59 pm
+     June  Network Layer Continued               M: Network Layer continued            Review for Exam Quiz: Tuesday, June 25 @ 11:59 pm
+           Link Layer, LANS                      T: Link Layer, LANS, Review
+    24-28                                        W: Midterm Exam                       Midterm Exam: Wednesday, June 26
+                                                 R:Link Layer, LANS continued
+                                                 F: Wireshark labs (No lecture)        Wireshark Labs: Ethernet and ARP and DHCP due
+                                                                                       June 28 @11:59 pm
+                                                                                       IPv4 vs. IPv6 due June 30 @11:59 pm
+  July 1-5 Wireless/Mobile Networks              M: Wireless/Mobile Networks           Wireshark Labs: 802.11 and SSL due July 5 @11:59 pm
+                                                 T: Group Presentations
+                                                 W: Group Presentations                Group Presentation Materials and Report due July 7
+                                                 R: July 4 - No Classes                @11:59 pm
+                                                 F: Wireshark Labs (No lecture)
+ July 8-11 Security, Multimedia Networking       M: Security, Multimedia Networking    Final Exam or Final Project due on Tuesday July 9,
+           Review for Final Exam / Project       TBA (based on vote)                   2019
+           discussion
+                                                                                       All work must be submitted by Wednesday July 10 @
+                                                                                       11:59 pm to be considered for credit.
+Course Syllabus                                                                                                                             3
