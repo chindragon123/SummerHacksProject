@@ -34,7 +34,7 @@ pyparsing==2.4.7
 PyPDF2==1.26.0
 pytesseract==0.3.4
 regex==2020.6.8
-requests==2.24.0
+requests==2.32.0
 requests-oauthlib==1.3.0
 rsa==4.6
 sacremoses==0.0.43
