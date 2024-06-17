@@ -51,6 +51,6 @@ textblob==0.15.3
 tokenizers==0.7.0
 tqdm==4.46.1
 transformers==2.11.0
-urllib3==1.25.9
+urllib3==1.26.19
 Werkzeug==1.0.1
 wrapt==1.12.1
